@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-09",
+  "research": "2000-RESEARCH_PENDING_ZH.md",
+  "sourceExceptions": [
+    {"index":7,"reason":"Green is political party label, rendered Green Party."},
+    {"index":12,"reason":"Original malformed trailing p tags preserved exactly; future-agency preparedness hint not asserted as confirmed authorial reference."},
+    {"index":17,"reason":"Original Many it really IS interpreted contextually as Maybe it really IS; English unchanged."},
+    {"index":24,"reason":"Original many Democrats are very angry has stray are; natural Chinese syntax without modifying English."},
+    {"index":28,"reason":"Original will be Republican hands understood as will be in Republican hands; 1994 chronological shorthand retained."},
+    {"index":37,"reason":"Original guarantee of federal matching funds after winning DC retained as fictional ending; national percentage eligibility is separate."},
+    {"index":38,"reason":"Winning a state does not guarantee federal funding threshold; original prediction retained and annotated."},
+    {"index":39,"reason":"H.R.5411,81-19,74th veto and shouted veto are fictional supplied text; original numbers and strings remain unchanged, note contrasts actual 106-398 and constitutional procedure."},
+    {"index":41,"reason":"Ending is split around runtime vote interpolation; preserve both segments and HTML, do not insert a fabricated vote number."},
+    {"index":58,"reason":"Original Alaska National Wildlife Refuge retained; related ANWR answer identifies Arctic National Wildlife Refuge, to be explained separately."},
+    {"index":59,"reason":"Original Eastern European missile defense proposal retained as simulation, not certified as implemented in 2000."},
+    {"index":64,"reason":"Original qualifications for to be read as qualifications to be; English unchanged."}
+  ]
+}

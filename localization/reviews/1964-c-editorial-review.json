@@ -1,0 +1,565 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1964-c",
+  "uniqueSourcesReviewed": 50,
+  "recordPositions": 50,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 19,
+      "reason": "Original border states list retained. Arkansas, Tennessee and North Carolina seceded; note distinguishes this campaign geography from standard Civil War Border States."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "I don’t believe we have a good chance at these two states, but I would like to put effort into winning New Hampshire. We had a great primary showing there.",
+      "sha256": "df65e8716f4116c47c50670659ce2f0b86aac6370f75741319e1517660c92ac2",
+      "zh": "我不认为我们在这两个州有多少胜算，但我想把力量投入新罕布什尔州。我们在那里初选表现很好。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1764@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "These states have to be won to win the election.",
+      "sha256": "472b574ff75b7f8ecd47a48fac63502f25527d2a2f8a8db4588ff1654cc96ce1",
+      "zh": "要赢得选举，就必须赢下这几个州。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1765@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "I’d rather put effort into winning the South. Vermont and Indiana are hopeless.",
+      "sha256": "ed2c57c25c072d0febc076a9abf8f4098c8c1ac8c7809884ab1ab742795300c2",
+      "zh": "我更愿意把力量投入南方。佛蒙特州和印第安纳州没有希望。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1766@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Put out a magazine article denouncing all these crazy conspiracies, but don't mention the Birchers by name.",
+      "sha256": "19567ae36f02d45550be699c194585e6f9199dba6a4da0e7803791545648f88d",
+      "zh": "发表一篇杂志文章，谴责这些疯狂的阴谋论，但不要点名伯奇协会的人。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1776@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "We reject Bircherism. Make that an official statement.",
+      "sha256": "a0d2daa912f62b331f083997b878115687f7b2bc06be9af5dc93d3da7eba2fa8",
+      "zh": "我们拒绝伯奇协会那套思想。把这句话作为正式声明。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1777@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "We need their votes. We cannot risk denouncing the group in any way.",
+      "sha256": "93911e0f56836df79ccb6f1ad809e10d7e7cad6b0bbdf9cfc502ecfe90ac0bc4",
+      "zh": "我们需要他们的选票，不能冒险以任何方式谴责这个团体。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1778@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "First and foremost, cuts will be in foreign aid.",
+      "sha256": "a6d46468ba8ad28f0cf83303c989deff2e4622263e85c5501a1e37b8667f19f1",
+      "zh": "首先，削减的将是对外援助。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1779@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "For too long, farmers have been stopped from participating properly in the free market. Cutting their subsidies will benefit both the budget and the farmers.",
+      "sha256": "ee40540e61798d4ad0c08a0cf5124d02e16aecc435174f56fb473771efd60ece",
+      "zh": "长期以来，农民一直被阻碍，无法正常参与自由市场。削减补贴，既有利于预算，也有利于农民。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1780@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "I’m not sure. Maybe everywhere, really.",
+      "sha256": "1f204650f4ef458a79bbcb6986a7654de8a72292f62d3c8236675c76db4073b8",
+      "zh": "我还不确定。也许各个领域都该削减。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1781@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "I want to remain silent on this.",
+      "sha256": "c38b78acc8a4b770f197a746f4db0150ae2842a72b34a99938b293d1ef610390",
+      "zh": "我想对此保持沉默。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1786@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "These groups have a right to free speech, but Goldwater is neither a Klan member nor a Bircher.",
+      "sha256": "491c931533edba3a0232c669ccbba676fa137f92aa21ba7e7aa3a7fb76b24522",
+      "zh": "这些团体享有言论自由，但戈德华特既不是三K党成员，也不是伯奇协会成员。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1787@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "We need to reject this endorsement right away.",
+      "sha256": "3e6b2b6f5bc87ebd121dd4b88f7357b6019e52f4b51d4a5ea11aa6dde7c7df50",
+      "zh": "我们必须立即拒绝这项背书。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1792@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "I hate to admit it, but we need whatever support we can get. Keep quiet on this.",
+      "sha256": "5e5327c585793c8b576e22f851768ddf59ba5cfbc718be369983d1cb9e3e3bea",
+      "zh": "我不愿承认，但任何能得到的支持，我们都需要。对此保持沉默。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/1793@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "What does it sound like I said? We need extreme solutions to extreme problems.",
+      "sha256": "4e9e55d823d612f9fbf2e62cc0eb0788b2a48f39faff8b2742e2e4eddbc64cfe",
+      "zh": "你觉得我的话听起来像什么意思？极端的问题，就需要极端的解决办法。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3229@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Does a person not love their country extremely? Do people not believe in their God extremely? I hold my convictions extremely and I hope all that vote for us in November do too.",
+      "sha256": "fe2daccb3ad033c7006c173d6c0a8b6a6008709217268c65e5230a1a54e529b1",
+      "zh": "难道一个人不该极其热爱自己的国家？人们不该极其信奉自己的上帝？我对自己的信念极其坚定，希望11月投票支持我们的人也是如此。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3230@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "By the word extremism, I simply meant patriotism. This is just one big misunderstanding.",
+      "sha256": "6c7e35e66fe45b6806fb0e7725191e1a646cca69289908d20e4ea19cf20d4f45",
+      "zh": "我说“极端主义”，其实只是指爱国主义。这完全是一场大误会。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3231@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "We'll need to pivot left somewhat if we want to cut in on Johnson's majority. By promising to respect the Civil Rights Act and highlighting our own forwardness on the issue, we can assuage liberal fears.",
+      "sha256": "1d4de85d8a96b4630ccff38c1a2b198853a5165276f2d36ad08066a1918e9dae",
+      "zh": "要蚕食约翰逊的多数支持，我们得稍微向左转。承诺尊重《民权法案》，强调我们在这个议题上的积极态度，就能缓解自由派的担忧。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3232@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "If we want a chance to get back in this fight, we need the moderates on board. Our speech will be on unity and strength in the party as much as it is about my ideals.",
+      "sha256": "f2029b7e45338667589ace763c1b058fb023f65154ff444cf965acecd8a51867",
+      "zh": "如果我们还想重新投入这场较量，就得争取温和派。演说不仅要谈我的理想，也要同样强调全党的团结和力量。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3233@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "I've been the candidate of the conservatives this entire campaign, and I won't change that here. We're going to hit home on fiscal responsibility, tax breaks, escalation in Vietnam- red meat for our base.",
+      "sha256": "8cff03ea2b5dc1d522ec5c1ef0afd117a1aed52fcbf7b7669fac0cad4444f1cf",
+      "zh": "整个竞选期间，我一直是保守派的候选人，现在也不会改变。我们要着重强调财政责任、减税，以及在越南升级军事行动，给基本盘来些最能激发热情的主张。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3234@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Let’s campaign in the border states- Arkansas, Tennessee, and North Carolina.",
+      "sha256": "1806c135e860728cbc865c3149e1987f0a896df10f101a35974044563b813511",
+      "zh": "我们到边界州竞选：阿肯色州、田纳西州和北卡罗来纳州。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3243@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Let’s campaign in the Plains. We have a real shot there.",
+      "sha256": "b4727d4eb8774bcd11e3b57129c47346390398b82603d31509e0b6ab26092322",
+      "zh": "我们到大平原地区竞选。我们在那里确实有机会。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3244@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "One final round trip- Vermont, New Hampshire, and Indiana!",
+      "sha256": "7e58613f548b1d9aefa690f5d2d77954660b000c06013e17e542fef0f7fd576c",
+      "zh": "最后再巡回一圈：佛蒙特州、新罕布什尔州和印第安纳州！",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3245@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "We can win California. Put all efforts into that state.",
+      "sha256": "8debb2ec4da04d9b70670c6105f1c302c7f99e23ebd3585371560636b49aebc0",
+      "zh": "我们能赢下加利福尼亚州。把全部力量投入这个州。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3246@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Keep the attacks coming.",
+      "sha256": "2d49bb564eff9fd4c5c7c2b7987a8043eb23705db6241ab32f6d1212d77509b5",
+      "zh": "继续发动攻击。",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3247@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "We need to find a way to shut me up!",
+      "sha256": "a32120b7be6a0bab1b450a876ab7173b7b1ad767d72a4ce6ede1b2ee701e2b97",
+      "zh": "我们得想办法让我闭嘴！",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3292@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Many fail to see the logic in your reasoning, but those who do cheer you on for standing by your words.",
+      "sha256": "7c849d5b5772b7fca1fc058332162327b731936bb455445705d1c61ef76752f9",
+      "zh": "许多人看不懂你的道理，但听懂的人为你坚持自己的话而喝彩。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/652@0/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "This is a weak point of Johnson’s, and is sure to hurt him..",
+      "sha256": "87298b9b04beef0f99acb067bca8be6c366c8a4698f42fd573f44849425b770f",
+      "zh": "这是约翰逊的一个弱点，肯定会伤到他。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20000@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "This appeals to Southern voters, with the downside of driving moderate Northern voters away.",
+      "sha256": "2576b6f28020d6033bae1cab4584bfda75b60739dcbb51fc4328e797f3705cb1",
+      "zh": "这能吸引南方选民，代价则是把北方温和派选民推开。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20002@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Parts of the party are falling back in line, albeit begrudgingly. It’s better than nothing.",
+      "sha256": "277cb25c5249f66136c93a34ff6b46126717a9c5f4e89651ab9ce9ab61b4c8b3",
+      "zh": "党内一些人开始重新服从统一步调，尽管很不情愿。总比没有好。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20001@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "This will be a common pattern throughout the entire campaign.",
+      "sha256": "9b5a47d303785700b50bdd166b77fa8ee2bf753f81961cd7b6a32ac9215e0e74",
+      "zh": "这种情形，将在整个竞选期间反复出现。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1909@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This clarification helps downplay your radical reputation, while also dampening damage done to your numbers among those who are voting for your civil rights positions.",
+      "sha256": "23dcba289705ac409b86f6654ebf0503ea9cce3395c817124f355bdfcee37f0d",
+      "zh": "这番澄清有助于淡化你的激进形象，同时减轻对支持率的损害：那些因你的民权立场而投票支持你的人，也没有被进一步推远。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20003@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Trying to appeal to New Yorkers may be a lost cause.",
+      "sha256": "ae00e797535746b0f702ad7adf0f4fe4725526085a446a166ddcc6d0c2ebc561",
+      "zh": "试图争取纽约州选民，也许只是白费力气。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1910@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Goldwater/Miller is sure to drive conservative turnout this election season.",
+      "sha256": "05e02486521742fab4b290a21e41d286b6d75dba8991be2ee7d62a391e7d4c6f",
+      "zh": "戈德华特／米勒组合，肯定能推动保守派在这次选举中踊跃投票。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1911@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Perhaps a good sentiment for a more united time, but disaffected liberals in the party fail to see what common goals are left.",
+      "sha256": "42e0867c7dd57bb647cf55cbfdac44c73add8fe88ebd14667de25aba8b6be94d",
+      "zh": "在更团结的年代，这番话也许动听，可党内不满的自由派看不出，还剩下什么共同目标。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1912@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "This is a big shift from your earlier stance. While it may improve your standing with Midwestern moderates, those who were voting for you because of your civil rights position are quite upset and demoralized.",
+      "sha256": "d65e052af6a4dfedb8f3eaa379881328d7dc095b8664dadd57974228df56b3fb",
+      "zh": "这与你先前的立场相比，是个重大转变。虽然可能改善你在中西部温和派当中的处境，但那些因你的民权立场而投票支持你的人，十分不满，也很泄气。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1913@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "The socialist angle is always effective, but the irony of Barry Goldwater calling anyone an extremist is not lost on many.",
+      "sha256": "ec0366688c7bb78face2dfe19fbd4ece18bc7cf308dca6acee426bd252d46851",
+      "zh": "指责对手是社会主义者，向来有效，不过许多人也看得出，巴里·戈德华特居然指责别人极端，实在讽刺。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1914@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "This attack will do little to help win anybody but outspoken segregationists.",
+      "sha256": "71a57c34182ec0096846d8bb0d55c2d2cb8e8a3c070c3e9ef97aae27ff288fde",
+      "zh": "除了直言支持种族隔离的人，这种攻击几乎争取不到谁。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1915@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Bircherism is popular in your homestate of Arizona.",
+      "sha256": "5e3d2084f5b76d70f95f88c683faaf83e121b8f767777ffca9db1e6dd1b47c5c",
+      "zh": "伯奇协会那套思想，在你的家乡亚利桑那州很受欢迎。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1917@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "The Klan’s endorsement is bad enough for your reputation. Your silence on it is worse.",
+      "sha256": "fb976c2fc6b18a42f0fc76050a3d31e69e7eccc256d831905212ce0c8bb892cc",
+      "zh": "三K党的背书，已经够损害你的名声了。你对此保持沉默，更加糟糕。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1918@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "If there were doubts about you winning South Carolina, they should be gone now.",
+      "sha256": "86bbed2c7ceb9294683a99da675f40f68c85ad00f734bf979553acd25ac82b5a",
+      "zh": "如果之前还有人怀疑你能否赢下南卡罗来纳州，现在应该不再怀疑了。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/1917@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "It’s not the strongest rebuttal, but it takes some of the edge off the attacks while maintaining a conservative outlook.",
+      "sha256": "7a559ca56bed094a9e94d6a3c1ad29d909c302fc80768b6d537bf2dd0489a889",
+      "zh": "这不是最有力的反驳，不过在维持保守立场的同时，也稍稍削弱了攻击的锋芒。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20004@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "This falls a bit flat- especially to conservative allies, who are decidedly not in support of the Social Security program as it stands.",
+      "sha256": "7ae597f73d8fbce38cd3b72ddce9a9141cb15771cefd303f40f653f31feac62d",
+      "zh": "这番话没起到多大效果，尤其是保守派盟友并不支持现有的社会保障制度。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20005@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Pointing attention to Johnson’s faults is always a good thing.",
+      "sha256": "b0923f6ca09dc13f8eb9bb31e9f7e4259de50889c50fedb238e048c2ec197923",
+      "zh": "让人们把注意力转向约翰逊的过错，总是好事。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20006@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Some sense a missed opportunity, but others agree that the angles of attack on Humphrey are weak at best outside of the South.",
+      "sha256": "f858b3b5c36eec145f97327e247e334e952accb29c4f5129a12fc607baf3659a",
+      "zh": "有人觉得错失了一次机会，但另一些人也认同：在南方以外，对汉弗莱的攻击点，充其量也很薄弱。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20007@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "You have made a final appeal to Southern voters, at the expense of moderate support elsewhere. Will it be enough to win?",
+      "sha256": "9a2f8c64d265687ee1a27f57290bc4abdd4a20e72e59dad94f68dca65a4c9521",
+      "zh": "你在最后关头向南方选民发出呼吁，代价是失去其他地区温和派的支持。这足以获胜吗？",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20008@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Your last second switch on civil rights appeals to moderates as much as it angers Southern voters. Will they sweep you to victory?",
+      "sha256": "17016db9563ba3d5633e18a5bedbbf98c2cb6a375595e931278a97a3603f29d1",
+      "zh": "你在最后一刻改变民权立场，吸引了温和派，也同样激怒了南方选民。他们能把你送上胜利的宝座吗？",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20009@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "The focus on Social Security in the final days of the campaign energizes fiscal conservatives nationwide. Will it be enough to make up the difference?",
+      "sha256": "5cb44508c540db0a06b70644338bda5d4799b647b37ace07d3407d35263006e1",
+      "zh": "竞选最后几天，把重点放在社会保障上，鼓舞了全国各地的财政保守派。这足以弥补差距吗？",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20010@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "If you want to reunite your party, your appeal to moderates is certainly a step in the right direction, though the media focuses on one sentence in particular...",
+      "sha256": "de5528cff5d6c5b5b508e336ae01517fcff771e6f9e07979c12bbd8e2948a1cb",
+      "zh": "如果你想重新团结全党，争取温和派确实是朝正确方向迈出的一步，尽管媒体把注意力集中在其中一句话上……",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20011@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "As expected, this speech has an enthusiastic reception by your strongest supporters, though it's no olive branch to the moderate-liberal wing- and one sentence in particular is gaining attention.",
+      "sha256": "162337ee6d4e54432abff84ea5ab41de697422b3a33f4734b56f7c1b923bd74b",
+      "zh": "正如预料，这篇演说受到最坚定支持者的热烈欢迎，却没有向温和派和自由派伸出橄榄枝。而其中一句话，尤其引起关注。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20012@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "A surprisingly liberal tone is detected in your acceptance speech- to the chagrin of your conservative following, even if it does soothe the worries of those across the aisle. One sentence stands out, however.",
+      "sha256": "1608274a98670268d88deb62d44d23f1d817d62f413382e003ee99f6a308f26e",
+      "zh": "你的接受提名演说，出人意料地带有自由主义色彩。这让保守派追随者懊恼，尽管安抚了另一阵营的担忧。不过，有一句话格外突出。",
+      "keys": [
+        "1964_Goldwater_Miller/answer_feedback_json/20013@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

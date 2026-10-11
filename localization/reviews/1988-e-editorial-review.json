@@ -1,0 +1,334 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1988-e",
+  "uniqueSourcesReviewed": 25,
+  "recordPositions": 61,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 4,
+      "reason": "Original how to stack up read contextually as how you stack up; English retained."
+    },
+    {
+      "index": 15,
+      "reason": "Primary vote ranking preserved from original, not independently certified as a delegate ranking."
+    },
+    {
+      "index": 18,
+      "reason": "Primary vote ranking preserved from original, not independently certified as a delegate ranking."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "Many observers believe that you are too cavalier about the Republican attack machine.",
+      "sha256": "ed7382f82a381aa6a66a45e191525f8738d8d75afec3ede7d7c9bdb288488383",
+      "zh": "许多观察人士认为，你对共和党的攻击机器太不当回事了。",
+      "keys": [
+        "1988_Dukakis_Bentsen/answer_feedback_json/1918@26/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1918@28/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1918@26/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1918@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Your own biography always plays well.",
+      "sha256": "0cabfc6cfd1f02a5c6b00a51170b5b21892241b756bd935f031593ee08d05077",
+      "zh": "你的个人经历总能赢得好感。",
+      "keys": [
+        "1988_Dukakis_Bentsen/answer_feedback_json/1919@27/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1921@29/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1922@30/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1923@31/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1919@29/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1921@31/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1922@32/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1923@33/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1919@27/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1921@29/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1922@30/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1923@31/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1919@27/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1921@29/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1922@30/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1923@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "You've run a couple of ads which have been confusing to voters, more than anything. What do you stand for? What is Bush doing wrong?",
+      "sha256": "bb82072095f0572fdb09d66d5bf44cd159720f095a2f5eeb1983a411474dbd09",
+      "zh": "你投放的几则广告，主要效果似乎是让选民摸不着头脑。你到底主张什么？布什究竟错在哪里？",
+      "keys": [
+        "1988_Dukakis_Bentsen/answer_feedback_json/1920@28/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1920@30/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1920@28/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1920@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "It never hurts to remind the voters of your time in the military.",
+      "sha256": "575ee2db2dd8340dcce050a95eb503bc804ade2e4f6ccb854c0f739f5ab43e03",
+      "zh": "提醒选民你曾在军中服役，总没有坏处。",
+      "keys": [
+        "1988_Dukakis_Bentsen/answer_feedback_json/1924@32/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1925@33/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1924@32/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1925@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "It doesn't matter so much how to stack up to Bush -- anything you can do to subliminally convey that you <em>get</em> military matters is helpful.",
+      "sha256": "c388943a385b2f7a47625304dcf9c6e6cce8b636462f67a91909a47b134fbc7e",
+      "zh": "你与布什相比究竟如何，并没有那么重要；只要能潜移默化地让人觉得你<em>懂</em>军事，就有帮助。",
+      "keys": [
+        "1988_Dukakis_Bentsen/answer_feedback_json/1926@34/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1926@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Attacking Dan Quayle is a no-brainer. You can't let this terrible choice of running mate go unpunished.",
+      "sha256": "ffc845602d449ec09f8c5c2b1ab6efcf3e55fa7d4aead9867e661e931435e395",
+      "zh": "攻击丹·奎尔，根本不用多想。选了这么糟糕的搭档，你不能让布什毫无代价地过关。",
+      "keys": [
+        "1988_Dukakis_Bentsen/answer_feedback_json/1928@35/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1929@36/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1933@37/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1934@38/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1928@34/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1929@35/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1928@35/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1929@36/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1928@32/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1929@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "What do you have to say about the selection of John Glenn as your running mate?",
+      "sha256": "8c8e106140d0b80bafeaa667c6fc1d02c9a481d8d81129fd13cdcc6b94064caa",
+      "zh": "对于选择约翰·格伦作为竞选搭档，你有什么要说的？",
+      "keys": [
+        "1988_Dukakis_Glenn/questions_json/736@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "To what extent will you attack George Bush's relationship with Manuel Noriega of Panama?",
+      "sha256": "477f809fea4a7625c4f6ea8535b2235110b650596c5411c47bc8df0d8170472d",
+      "zh": "你会在多大程度上攻击乔治·布什与巴拿马的曼努埃尔·诺列加的关系？",
+      "keys": [
+        "1988_Dukakis_Glenn/questions_json/733@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "I want to see us running ads on TV, criticizing this relationship. Along with Iran-Contra and Dan Quayle, this episode really brings up questions about Bush's competence.",
+      "sha256": "884bcf6a512a69e34144f7a72eb1e4477c0d61963ef030c06c11468388d7c5c9",
+      "zh": "我希望我们投放电视广告，批评这种关系。加上伊朗门和丹·奎尔，这件事确实让人怀疑布什的能力。",
+      "keys": [
+        "1988_Dukakis_Glenn/answers_json/4460@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "We'll criticize this as much as anything else about Bush's campaign.",
+      "sha256": "e3f14f57353e8be7afb28d4a1795691b48417678595a78f5ac8111cd4b3a1b55",
+      "zh": "我们会像批评布什竞选中的其他问题一样，批评这件事。",
+      "keys": [
+        "1988_Dukakis_Glenn/answers_json/4461@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "This isn't a part of our message in this campaign.",
+      "sha256": "361849017c00e5cb711a85ea5430628d38468b5a7ea3755f8b2877515f513630",
+      "zh": "这不是我们这次竞选宣传的一部分。",
+      "keys": [
+        "1988_Dukakis_Glenn/answers_json/4462@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "John Glenn has served his home state of Ohio well for many years, and we are proud to have him on our national ticket.",
+      "sha256": "fd861b53217dc431aab9477ce2abcba4527a0521ecbdc259b3735e557c065697",
+      "zh": "约翰·格伦多年来出色地服务于家乡俄亥俄州。他能与我们搭档参加全国大选，我们深感自豪。",
+      "keys": [
+        "1988_Dukakis_Glenn/answers_json/4466@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Bush is pummeling you with negative ads. It's good to fight back and stabilize things.",
+      "sha256": "6eccfcd61ad0246160bc833ed3ecbe21331c678ca712b62dd8a631d42e48ee4a",
+      "zh": "布什正在用负面广告猛烈攻击你。反击并稳住局面，是好事。",
+      "keys": [
+        "1988_Dukakis_Glenn/answer_feedback_json/1930@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Bush is pummeling you with negative ads. You need to fight back and stabilize things.",
+      "sha256": "088a87a812e166debcfb58e0950e5ded27b3ddcf111d27afef147656720bf899",
+      "zh": "布什正在用负面广告猛烈攻击你。你需要反击，稳住局面。",
+      "keys": [
+        "1988_Dukakis_Glenn/answer_feedback_json/1931@37/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1932@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "What do you have to say about the selection of Al Gore as your running mate?",
+      "sha256": "799807e62e66a3bed8683d45d69c406123611be0514807aa68d6a292f70a9581",
+      "zh": "对于选择阿尔·戈尔作为竞选搭档，你有什么要说的？",
+      "keys": [
+        "1988_Dukakis_Gore/questions_json/737@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Al Gore was the third-highest vote-getter during the Democratic primaries, and we are proud to have him on the ticket to unite our party.",
+      "sha256": "19784134394bad7ec241eaae0c0d65498f01d59bdeb17e3c64a57e7f3fbe9069",
+      "zh": "阿尔·戈尔在民主党初选中的得票排名第三。他能加入我们的竞选搭档、团结全党，我们深感自豪。",
+      "keys": [
+        "1988_Dukakis_Gore/answers_json/4467@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "What do you have to say about the selection of Jesse Jackson as your running mate?",
+      "sha256": "acf8a4030dca89a0e8ad7e90d1ba9abd473ac0137a72cf988a9f7ca3e9ea3105",
+      "zh": "对于选择杰西·杰克逊作为竞选搭档，你有什么要说的？",
+      "keys": [
+        "1988_Dukakis_Jackson/questions_json/738@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Attack ads have developed a habit of showing you <em>and</em> Jesse Jackson shaking hands. Do you have any comment?",
+      "sha256": "32dfadcdd74dfdebc2a29809eae1e3a2ac5fe52bfab6cc2c83d8caf2517596fe",
+      "zh": "攻击广告现在常常播放你<em>和</em>杰西·杰克逊握手的画面。你有什么回应？",
+      "keys": [
+        "1988_Dukakis_Jackson/questions_json/739@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Jesse Jackson was the second-highest vote-getter during the Democratic primaries, and we are proud to have him on the ticket to unite our party.",
+      "sha256": "aff9e095f98a2f8ab70879514d49de4d46a657b30d7eac426e39ac5ff3e37a67",
+      "zh": "杰西·杰克逊在民主党初选中的得票排名第二。他能加入我们的竞选搭档、团结全党，我们深感自豪。",
+      "keys": [
+        "1988_Dukakis_Jackson/answers_json/4468@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "I'm proud to stand for election with Jesse Jackson as my running mate. Let the so-called attack ads keep coming.",
+      "sha256": "6c8fe2a04a9bdd416f95c814a1657de4225ba5b7cddd2b44dd96f4e4d9180623",
+      "zh": "杰西·杰克逊与我搭档参选，我感到自豪。就让那些所谓的攻击广告继续来吧。",
+      "keys": [
+        "1988_Dukakis_Jackson/answers_json/4469@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "These types of attack ads are meant to distract from the real issues in this campaign. We won't dignify them with a response.",
+      "sha256": "481f5a1d9335cf133dda91c2d82c20ce0f4545ee7382d27b9a80ced5079ad9da",
+      "zh": "这类攻击广告，是想转移人们对这场竞选实质问题的注意力。我们不会回应，抬举这种手段。",
+      "keys": [
+        "1988_Dukakis_Jackson/answers_json/4470@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "We will attack the Republican penchant for underhanded racist attacks which they have displayed in this campaign.",
+      "sha256": "8621615dfbc5df0657fb5c39ca3704159098fc21fc068986d4f11ff588a2ccee",
+      "zh": "我们会抨击共和党热衷于卑劣的种族主义攻击。他们在这次竞选中已经暴露了这一点。",
+      "keys": [
+        "1988_Dukakis_Jackson/answers_json/4471@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Jesse Jackson was a controversial choice, even though he did do well in the primaries. Among other things, Jackson is pretty far to the left, even for a Democrat.",
+      "sha256": "b5d1000f3bd6acf82bbe1f07ba38d4c5f8bbd17bc3138d1652c7eaa0a8611ba5",
+      "zh": "选择杰西·杰克逊作搭档很有争议，尽管他在初选中确实表现不错。原因之一是，杰克逊的立场相当偏左，即使按民主党人的标准也是如此。",
+      "keys": [
+        "1988_Dukakis_Jackson/answer_feedback_json/1935@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Jackson's selection was unpopular with some people, but they have to admit that you're a fighter.",
+      "sha256": "31f64fb2e365909c1ba711d6c8dd9bcb30d872cfb02c61e6f7cd381bf24af233",
+      "zh": "有些人不喜欢你选择杰克逊，但他们也不得不承认，你敢于斗争。",
+      "keys": [
+        "1988_Dukakis_Jackson/answer_feedback_json/1936@35/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1938@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "You had to have known such things were coming. It's not good to let attacks go unanswered.",
+      "sha256": "823845fd0f5abc22c1b549c7122702303ddf2914be86a5e08ebda8cb646c72b1",
+      "zh": "你本该知道，这种事情一定会来。对攻击不作回应，并不好。",
+      "keys": [
+        "1988_Dukakis_Jackson/answer_feedback_json/1937@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

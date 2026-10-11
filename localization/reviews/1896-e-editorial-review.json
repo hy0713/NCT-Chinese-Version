@@ -1,0 +1,1025 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1896-e",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 252,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 6,
+      "reason": "Original effluence is anomalous in campaign context. Translate contextually as campaigning without restraint; the intended English word is uncertain and disclosed in a note."
+    },
+    {
+      "index": 29,
+      "reason": "Original treats Idaho woman suffrage as already available before the 1896 presidential vote; retain statement and annotate the November 1896 referendum chronology."
+    },
+    {
+      "index": 67,
+      "reason": "Original compresses Rural Free Delivery authorization into an 1896 enactment; retain prose and annotate 1893 appropriation, further funding and October 1896 experimental service."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "The word of the Lord demands that we give our attention to the poor, the sick, and the feeble. This campaign is not about me -- I am a mere servant of Christ.",
+      "sha256": "0bffaacf4df2c6a54c2ab39f0d8e9ef658f3ce2c7bbe340179661f3c8d8d45ca",
+      "zh": "上帝的话语要求我们关怀贫穷、患病和衰弱的人。这场竞选不是为了我自己——我只是基督的仆人。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1000@20/description",
+        "1896_Bryan_Stevenson/answers_json/1000@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "I'm not sure what kind of Christianity the Republicans adhere to, but it is of dubious merit in guiding our government.",
+      "sha256": "2ab9a54a05ef6992b0c041dcd4dc3209292372e857692d4908b87378d3b30af3",
+      "zh": "我不确定，共和党人信的是哪一种基督教；但用它来指导政府，实在难说有什么可取之处。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1001@21/description",
+        "1896_Bryan_Stevenson/answers_json/1001@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "We will respect the rights of the states. I call for greater understanding, but certainly not for an overthrow of the natural order.",
+      "sha256": "5d74c1be7681944ce4c1c5d5bc3874bca36639ae1723188616075a1b3bd87ad1",
+      "zh": "我们会尊重各州的权利。我呼吁增进相互理解，但绝不是要推翻自然秩序。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1002@22/description",
+        "1896_Bryan_Stevenson/answers_json/1002@26/description",
+        "1896_Bryan_Matthews/answers_json/1002@15/description",
+        "1896_Bryan_Boies/answers_json/1002@15/description",
+        "1896_Bryan_Teller/answers_json/1002@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "There has been a deafening silence for many years on the issue of equal rights in the South. It's time we had a true enforcement of the 14th and 15th Amendment.",
+      "sha256": "794d466c286f69c695344313e3c86525eda26566600e6f09b166b6b4fd2edab2",
+      "zh": "多年来，南方的平等权利问题一直被令人窒息的沉默笼罩。我们该真正执行第十四和第十五修正案了。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1003@23/description",
+        "1896_Bryan_Stevenson/answers_json/1003@27/description",
+        "1896_Bryan_Matthews/answers_json/1003@16/description",
+        "1896_Bryan_Boies/answers_json/1003@16/description",
+        "1896_Bryan_Teller/answers_json/1003@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "Tillman and others have nothing to fear from me. It is the sacred duty of the white man to properly instruct and civilize the black man and other inferior races. Greater understanding must occur within this context.",
+      "sha256": "a96721a702543a051abe82fccd78df8ae9ab7165a9b5fac0f6ae6456c2bc0bba",
+      "zh": "蒂尔曼和其他人不必怕我。白人负有神圣的责任，妥善教导黑人和其他低等种族，使他们文明化。增进相互理解，必须在这个前提下进行。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1004@24/description",
+        "1896_Bryan_Stevenson/answers_json/1004@28/description",
+        "1896_Bryan_Matthews/answers_json/1004@17/description",
+        "1896_Bryan_Boies/answers_json/1004@17/description",
+        "1896_Bryan_Teller/answers_json/1004@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "We need to keep it simple. Our primary goal in this campaign is to win the critical states of Iowa, Illinois, and Indiana.",
+      "sha256": "2ade71c238a23278dabb51795977d5a3719d596c5564d00af656f0cb081d9af7",
+      "zh": "我们需要保持简单明了。这场竞选的首要目标，是赢下艾奥瓦、伊利诺伊和印第安纳这几个关键州。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1011@25/description",
+        "1896_Bryan_Stevenson/answers_json/1011@29/description",
+        "1896_Bryan_Matthews/answers_json/1011@21/description",
+        "1896_Bryan_Boies/answers_json/1011@21/description",
+        "1896_Bryan_Teller/answers_json/1011@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "It's a shame that we need to even campaign in these beacons of the South. But if we have to, let us do it with effluence.",
+      "sha256": "1032824b4bf38535a2c337c348a868c29c5452d6272dc4010f82f54896efae08",
+      "zh": "我们竟然还需要在这些南方重镇竞选，实在令人遗憾。不过，既然非做不可，就放开手脚去干吧。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1012@26/description",
+        "1896_Bryan_Stevenson/answers_json/1012@30/description",
+        "1896_Bryan_Matthews/answers_json/1012@22/description",
+        "1896_Bryan_Boies/answers_json/1012@22/description",
+        "1896_Bryan_Teller/answers_json/1012@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "I will make my standard stump speech highlighting the dangers of the gold standard and advocating for free silver.",
+      "sha256": "c3b9e28c94a4543479b621cefc9037b62b69f4b80fdb1d52e6ec15c9d3318da4",
+      "zh": "我会发表惯常的竞选演说，强调金本位的危险，并主张自由铸银。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1013@27/description",
+        "1896_Bryan_Teller/answers_json/1013@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "Let's hit on the issue of tariffs. These voters need to be reminded that tariffs increase the cost of farm equipment and other manufactured goods.",
+      "sha256": "d00a4dc3bcc0b6d476d4fa76a2c0755d15b9f609ded13cc7652a14974d44ca29",
+      "zh": "着重谈关税问题吧。必须提醒这些选民，关税会增加农具和其他制成品的价格。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1014@28/description",
+        "1896_Bryan_Teller/answers_json/1014@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "I will speak to the general issues of the future -- free silver, higher wages, worker's rights, an end to child labor, and women's suffrage.",
+      "sha256": "31bb43a0392839afa1137d9c733e9cba79fa9c2939a275b6828278e356e740b3",
+      "zh": "我会谈关系未来的广泛议题：自由铸银、更高工资、工人权利、结束童工制度，以及妇女选举权。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1015@29/description",
+        "1896_Bryan_Teller/answers_json/1015@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "I am a moderate who supports the free coinage of silver. I am not a radical as so many claim. It is McKinley's antiquated insistence on the gold standard that is truly radical.",
+      "sha256": "899564a6f7f049f7b5f5049d01114962d95d58d3361eb94b24699cc6b1b60e08",
+      "zh": "我是支持白银自由铸币的温和派，并不是很多人声称的激进分子。真正激进的，是麦金莱对过时金本位制的执着。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1016@30/description",
+        "1896_Bryan_Teller/answers_json/1016@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "Overall the deficit is still low. Furthermore, if we allow the free coinage of silver the amount of our deficit will decrease commensurably as our currency inflates.",
+      "sha256": "fb6fc97ea4a8572458b2d9e354735d3115fe2df794dcb2b97739b5e5c35be6cb",
+      "zh": "总体而言，赤字仍然很低。此外，如果允许白银自由铸币，随着通货膨胀，赤字的数额也会相应减少。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1531@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "There would be no increase in the deficit if the Supreme Court hadn't overturned the income tax.",
+      "sha256": "5b67b58e21cb04d710c576f4ecf7bcad33b9ff568e38fd46accba0bc56dae904",
+      "zh": "如果最高法院没有推翻所得税，赤字就不会增加。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1532@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "Once we reinstitute our tariffs, this deficit will disappear. Best of all, the lion's share of these taxes will be paid by foreign merchants.",
+      "sha256": "a3c167496cb1f7d87e0eb51791dd2dbc3431a9d894bfcfef83dcbc3860906b9e",
+      "zh": "一旦恢复我们的关税，赤字就会消失。最妙的是，这些税的大部分将由外国商人支付。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1533@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "I would support such an Amendment if it gained traction within our system. I'm just sorry to see that the chances seem unlikely.",
+      "sha256": "097a142975e8c74804d2ad0f8c29d1c7f6e877f7a31aa820df5089b589437c00",
+      "zh": "如果这样的宪法修正案在我国制度内赢得广泛支持，我会赞成。可惜，目前看来，通过的希望很渺茫。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1539@53/description",
+        "1896_Bryan_Stevenson/answers_json/1539@53/description",
+        "1896_Bryan_Teller/answers_json/1539@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "We welcome the support of women and men. Where women are granted the vote, we are confident that they will support our ticket.",
+      "sha256": "5fffc19fd74b8d4c19dccfa2d72c5c9afebcd4f37bbff1472402f0dcc95afd6e",
+      "zh": "我们欢迎妇女和男子的支持。在妇女拥有投票权的地方，我们相信，她们会支持我们的竞选组合。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1540@54/description",
+        "1896_Bryan_Stevenson/answers_json/1540@54/description",
+        "1896_Bryan_Teller/answers_json/1540@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "I think there are more important issues for us to be focusing our efforts on. Extending the suffrage to women carries with it a whole host of dangers.",
+      "sha256": "7145a003fc13d70c4049c1c90cde5e6cf1b596b613c39be3b595aad961276c0e",
+      "zh": "我认为，还有更重要的问题值得投入精力。把选举权扩大到妇女，会带来各种各样的危险。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1541@55/description",
+        "1896_Bryan_Stevenson/answers_json/1541@55/description",
+        "1896_Bryan_Teller/answers_json/1541@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "These men are Americans and they are attempting to bring badly-needed order to the islands of Hawaii. If managed properly, an annexation will allow us to enjoy the benefits of Hawaii's innumerable sugar plantations. These islands are also a perfect location for a naval base.",
+      "sha256": "b9f9244314bc991ec2022efd3a74b5c558263a570c795b5472af45aa8772e394",
+      "zh": "这些人是美国人，正努力为夏威夷群岛带去急需的秩序。如果处理得当，吞并能让我们享受到当地无数甘蔗种植园的好处。这些岛屿也是海军基地的绝佳地点。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1573@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "This cabal may be hoping for recognition from the United States, but for now they are simply a group of Pacific island adventurers. I have no wishes for either their success or their failure. ",
+      "sha256": "364d5330a38da50f7aa3c8d7221fd41030bab59ce859da3f0f0219816bfccc36",
+      "zh": "这伙人或许指望得到美国承认，但目前，他们不过是一群太平洋岛屿上的冒险家。我既不希望他们成功，也不希望他们失败。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1574@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "We will never recognize or annex the so-called Hawaiian government while I am President.",
+      "sha256": "2095fd7832ebff2af9b4fe9b2794b1536ca3754bc19cbfe380c8e4f4f3b1930a",
+      "zh": "只要我担任总统，我们就绝不会承认所谓的夏威夷政府，也不会吞并它。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1575@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "I'm scared to take my own medicine sometimes for fear of what might be in there. Medicines should be clearly labeled with their ingredients, so that those who wish to avoid intoxicating substances can do so.",
+      "sha256": "95abc5601f78854277bf8925d1db14cbb2e792c8c3a6d37938e1e6e90bba0d27",
+      "zh": "有时我连自己的药都不敢吃，怕里面有什么成分。药品应当明确标注成分，让那些想避开使人醉迷的物质的人，能够做到。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1642@75/description",
+        "1896_Bryan_Stevenson/answers_json/1642@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Many patent medicine purveyors operate in a single locale, and do not cross state lines. Where appropriate, I would support regulation, but only where the Constitution allows it.",
+      "sha256": "6a3531e279a714b3a9f0dceefd0e2867e7ed2793882b678f801ace635e70dd79",
+      "zh": "许多成药商只在一个地方经营，不跨州营业。在适当情况下，我支持监管，但仅限于宪法允许的范围。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1643@76/description",
+        "1896_Bryan_Stevenson/answers_json/1643@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "This isn't an issue we should be concerned about. Additional regulation of drugs and medicinal practice would undermine our national liberty.",
+      "sha256": "114023bc00fdc415de24eaa0182efd825d7fa979b573440ad6ccd6931514613b",
+      "zh": "我们不该为这个问题操心。进一步监管药品和行医活动，会损害我国的自由。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1644@77/description",
+        "1896_Bryan_Stevenson/answers_json/1644@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "Let's spend the entire week in Illinois. That is the largest state that we have a chance to win.",
+      "sha256": "d99cd23a2158069cf0bb50cd0884829dfdc5e7e4c9903cd08db8a111241b5b1f",
+      "zh": "把整周都用在伊利诺伊吧。这是我们有机会赢下的最大州。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1648@81/description",
+        "1896_Bryan_Stevenson/answers_json/1648@84/description",
+        "1896_Bryan_Matthews/answers_json/1648@78/description",
+        "1896_Bryan_Boies/answers_json/1648@79/description",
+        "1896_Bryan_Teller/answers_json/1648@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Let's make one last general tour of the Midwest. Starting in Ohio, we will travel west and end in North Dakota, before moving down to Nebraska on Election Day.",
+      "sha256": "a39c746fa77edd3de1ad31836e5e1e6267227375a86aa61a93036db5a461b8be",
+      "zh": "最后再全面巡访一次中西部。从俄亥俄出发，向西行进，最后到北达科他，然后在投票日南下内布拉斯加。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1649@82/description",
+        "1896_Bryan_Stevenson/answers_json/1649@85/description",
+        "1896_Bryan_Matthews/answers_json/1649@79/description",
+        "1896_Bryan_Boies/answers_json/1649@80/description",
+        "1896_Bryan_Teller/answers_json/1649@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Let's focus on Iowa and the Dakotas. My presence can swing those states.",
+      "sha256": "9b731587211c26b6c720febe0772d545958754b8c85cea413a1e431b5bb2440a",
+      "zh": "把重点放在艾奥瓦和南北达科他。我亲自到场，可以扭转这些州的选情。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1650@83/description",
+        "1896_Bryan_Stevenson/answers_json/1650@86/description",
+        "1896_Bryan_Matthews/answers_json/1650@80/description",
+        "1896_Bryan_Boies/answers_json/1650@81/description",
+        "1896_Bryan_Teller/answers_json/1650@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "Indiana has always been the critical swing state. Let's spend most of our time there while also crossing over into Illinois and Kentucky.",
+      "sha256": "efe23621dc6a1a090036699a3af94fd604d5a2f8c08b8ef421d771000a77046d",
+      "zh": "印第安纳一直是关键的摇摆州。我们大部分时间留在那里，同时也跨境访问伊利诺伊和肯塔基。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1651@84/description",
+        "1896_Bryan_Stevenson/answers_json/1651@87/description",
+        "1896_Bryan_Matthews/answers_json/1651@81/description",
+        "1896_Bryan_Boies/answers_json/1651@82/description",
+        "1896_Bryan_Teller/answers_json/1651@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "We must secure the upper South. This means we start in in Maryland and Delaware, move through Virginia and West Virginia, and then through Kentucky.",
+      "sha256": "9dceca885267c5d9b783de1864c09349240b85b7e7d32bb870808d4a60b4d66f",
+      "zh": "我们必须拿下南方北部地区。从马里兰和特拉华出发，经过弗吉尼亚和西弗吉尼亚，再到肯塔基。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/1652@85/description",
+        "1896_Bryan_Stevenson/answers_json/1652@88/description",
+        "1896_Bryan_Matthews/answers_json/1652@82/description",
+        "1896_Bryan_Boies/answers_json/1652@83/description",
+        "1896_Bryan_Teller/answers_json/1652@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "The proper way for any Republican to balance the budget is through tariffs -- not through some radical change to the tax system.",
+      "sha256": "f2181722869c2184443be127caea2120996b5e89bff4689cbb9046fcc75dcf88",
+      "zh": "共和党人平衡预算的正确办法，是关税——不是激进地改变税制。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/547@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "Women can vote now in Colorado, Utah, Idaho, and Wyoming. This certainly can't hurt you in those states.",
+      "sha256": "842f7e2d5498d2a6966e1588a14474cc00c86e15aed7c740204951fe5ceee839",
+      "zh": "如今，妇女已经可以在科罗拉多、犹他、爱达荷和怀俄明投票。这在这些州当然不会害了你。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/549@21/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/631@69/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/549@20/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/631@69/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/549@23/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/631@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "This is a bread-and-butter response with emphasis on your bread-and-butter issue.",
+      "sha256": "873d722f3b40e5f34def34bd9dceff5ec961daa775d8104b4651ad6a453eea17",
+      "zh": "这是个惯常而稳妥的回答，着重强调了你的主打议题。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/563@24/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/563@22/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/563@23/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/563@24/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/563@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "You have made a strong appeal to farmers with this response. Make sure you appeal to the industrial classes as well as you move forward.",
+      "sha256": "bb11d6fbd096253acbcc056e37da4ebf4a34b02173851f5d6f478ff81c96e579",
+      "zh": "这个回答有力地争取了农民。接下来，也别忘了争取产业阶层。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/564@25/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/564@23/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/564@24/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/564@25/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/564@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "This is a good appeal to those in industry, but many in the middle class are skeptical of unions.",
+      "sha256": "164b1d2329dd01f0e7f946f026ab5a1f5b3ab4e6e88d259f2a6da58fcd522035",
+      "zh": "这很好地争取了工业界，但中产阶级中有不少人对工会持疑虑。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/565@26/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/565@24/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/565@25/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/565@26/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/565@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "This makes a broad appeal to your potential coalition while emphasizing the centrality of free silver to your campaign.",
+      "sha256": "370616f6dd273f1f8bcd26f1e11f2728287db6de70816dd11cbfc6b9d7709107",
+      "zh": "这番话广泛争取了潜在支持联盟，同时强调了自由铸银在竞选中的核心地位。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/566@27/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/566@25/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/566@26/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/566@27/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/566@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "You're hitting McKinley hard on the currency issue, which will especially appeal to voters in the West and the South.",
+      "sha256": "f0d16bd655309aebf5ad550a64a58a0d86f37af41957faaf63a572190e80d3b5",
+      "zh": "你在货币问题上猛烈抨击麦金莱，尤其能吸引西部和南方的选民。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/567@28/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/567@26/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/567@27/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/567@28/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/567@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "The Democratic base is solidly against tariffs, but keep in mind the fact that the crucial Midwestern states have a more nuanced view.",
+      "sha256": "9bbd29c9bddf9dfa77481c27543216e057180d8bb5676e67c07485bd23600887",
+      "zh": "民主党的基本盘坚决反对关税，但别忘了，关键的中西部各州，对这个问题的看法更复杂。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/568@29/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/568@27/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/568@28/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/568@29/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/568@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "McKinley is a Civil War veteran and a patriot, but he is also the favorite. You need to vigorous if you're to have a chance.",
+      "sha256": "88722b3f13e0ecd2223d5b226aa9419a1611430dd1aa1c4d866e5271f15aa9c7",
+      "zh": "麦金莱是内战老兵，也是爱国者，而且还是领先的热门人选。你要想有机会，就必须加把劲。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/569@30/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/569@28/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/569@29/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/569@30/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/569@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "This could be a way to reach out to moderates, but most silver Republicans hail from the West.",
+      "sha256": "feaf94f6bb1b321e20576f7b557e0107ee6c3454289aba69c93f7c65583064b5",
+      "zh": "这也许能争取温和派，但支持自由铸银的共和党人大多来自西部。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/570@31/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/570@29/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/570@30/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/570@31/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/570@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "By and large, the American people respect the Constitution and don't want to see measures like this put into place.",
+      "sha256": "8fbcf67149a7b2a29e7f1a801d5605e555300370c4cffb201326428ba9b2c2dc",
+      "zh": "总的来说，美国人民尊重宪法，不愿看到实施这样的措施。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/571@32/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/571@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "This is a vague answer, but one that is easily used to paint you as a radical.",
+      "sha256": "e9a2f72dec69581f040a8ab91bbab3b0ad99b35786b7b2bd6902d8505bf034c2",
+      "zh": "这个回答很模糊，却很容易被拿来把你描绘成激进分子。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/572@33/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/572@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Hitting back at the conservative propaganda-mongers is definitely your best bet. ",
+      "sha256": "1b3f0ec91c45ed5d25206c7cb26531614b2b09a5ba06567242257e8e8b98651a",
+      "zh": "反击那些散播宣传的保守派，肯定是你的最佳选择。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/573@34/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/573@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "This answer is a good way to emphasize that you wish to change things within the system.",
+      "sha256": "2848e3dadc264ebd33be7f6fac188beb42e514d7b1e37d71d08b025567a70cf3",
+      "zh": "这个回答很好地强调，你希望在现有制度内推动改变。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/574@35/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/574@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "There's no right or wrong answer -- just be aware that your support will take a small hit in the rest of the country as you tour the isolated West Coast.",
+      "sha256": "28e726487ccbd17b63cfdd8b0dcf5653a4591470cd9e95c3106d9a2ad011489a",
+      "zh": "没有对错之分；只要记住，当你巡访偏远的西海岸时，其他地区的支持会略有下降。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/575@36/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/575@34/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/575@31/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/575@32/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/575@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "There may be a method to your madness, but if you're going to go all the way out West, why not stay for a few days and build some real enthusiasm?",
+      "sha256": "1bc0790f76396fc0d60d772f302486a1a3cb6537fb8a257b688df8fd02a28b91",
+      "zh": "你这番看似疯狂的举动，也许自有道理。不过，既然大老远跑到西部，为什么不多留几天，真正激起些热情？",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/576@37/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/576@35/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/576@32/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/576@33/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/576@35/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "Not a bad choice. You don't want to distance yourself from the primary arena just as the campaigning picks up.",
+      "sha256": "7f0ec41966fe01729dc3d106ba9ae62a37a6ad86ab31f945e5d2b563b006d3eb",
+      "zh": "这个选择不错。竞选正升温时，你可不想远离主战场。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/577@38/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/577@36/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/577@33/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/577@34/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/577@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "Grover Cleveland may have won New York, but he was also <em>from</em> New York. A lot of things will need to go right for you to win there this year. ",
+      "sha256": "bfc9bd5b475f9edd259180af32cd99aa4c42b22102e3f1aa385e4d3b6314ada2",
+      "zh": "格罗弗·克利夫兰也许赢过纽约，但他本来就<em>来自</em>纽约。你今年要在那里获胜，还得有许多条件配合才行。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/578@39/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/578@37/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/578@34/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/578@35/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/578@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "True to form, you packed the streets of the Lower East Side and whipped the crowd into a frenzy. The <em>New York Times</em> filled its pages with sensational headlines and terrified editorials.",
+      "sha256": "77ac011dc89ad4ce0af8e7c60cd894cd7ce9abff0f2019d41aa40470bee47a07",
+      "zh": "不出所料，你挤满了下东区的街道，把人群的热情煽到了顶点。<em>《纽约时报》</em>的版面尽是耸动的标题和惊恐的社论。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/579@40/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/579@38/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/579@35/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/579@36/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/579@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "True to form your answer is either mocked or taken for the Gospel. It all depends on the person who is asked.",
+      "sha256": "92d9df6077b580c5d25458ec430f220c96b2813ee493444c1753768396c63b8a",
+      "zh": "一如既往，你的回答不是被嘲笑，就是被奉为福音。全看你问的是谁。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/584@41/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/584@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "You have appeased Mr. Tillman without coming across as a firebrand in the North.",
+      "sha256": "81bfde1eb31412d5ede8a570a19b8628806bc739bcb67161f3ed263cbe309ab5",
+      "zh": "你安抚了蒂尔曼先生，又没有在北方显得像个激进煽动者。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/585@42/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/585@44/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/585@36/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/585@37/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/585@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "Your heart is in the right place, but Southern leaders are furious. Your allies might be able to smooth this over once, but there are rumblings of support now for John Palmer.",
+      "sha256": "3efcc690e48ef8786500f2eea1ec2b229e9fc342b42bb67506331377478fc114",
+      "zh": "你的出发点是好的，但南方领袖怒不可遏。盟友也许能替你平息一次风波，不过，现在已经传出了转而支持约翰·帕尔默的风声。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/586@43/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/586@45/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/586@37/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/586@38/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/586@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "This is what Mr. Tillman and others wanted to hear, but there are rumblings in the Midwest that you are too friendly with extremist elements in the former Confederacy.",
+      "sha256": "eccc54419887a2158600fa6a858d1f90e13389f88a063a706eb562b63b4fc929",
+      "zh": "这正是蒂尔曼先生和其他人想听的话，但中西部已有人议论，说你与前邦联地区的极端势力过于亲近。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/587@44/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/587@46/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/587@38/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/587@39/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/587@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "There's nothing wrong with campaigning in the Midwest.",
+      "sha256": "5696a81680621da54ca0811d10149a53631032f5a6770a95a67b7593c4377211",
+      "zh": "在中西部竞选，没有什么不妥。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/594@45/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/594@47/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/594@42/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/594@43/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/594@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "It's a bad sign when a Democrat has to compete for Maryland and Delaware, but if you do win there you should have a good shot at this election.",
+      "sha256": "1dbfc1f33b882fb059faa7cb4dea788bf8666154e7cc6433ac628784ef26e86c",
+      "zh": "民主党人竟然需要争夺马里兰和特拉华，这可不是好兆头。不过，如果在那里获胜，你就很有希望赢下这场大选。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/595@46/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/595@48/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/595@43/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/595@44/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/595@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "This plays into criticism of you as a radical, but there are some people who favor taxing the rich.",
+      "sha256": "74d6a1784e73b1477e7bf054caf06f8994b9b1508daa6095b5443f6eaeba3f11",
+      "zh": "这让人更容易把你批评为激进分子，但也有一些人支持向富人征税。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/629@67/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "A Democrat supporting tariffs? Not a good political move for you.",
+      "sha256": "02cde25814e7188bdadcdb2dd0b25243a60952e15c75e026dade2d3b57051a68",
+      "zh": "民主党人支持关税？这对你可不是高明的政治选择。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/630@68/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "Settle into your parlor and await the telegraph results. Best of luck good sir, you have fought a brave battle.",
+      "sha256": "8f4f4581f81e8b187c96b675d5382d32b9ff4c8285c71dd2e72b3f43e0559082",
+      "zh": "在客厅里安坐，等电报传来选举结果吧。祝你好运，先生；这一仗，你打得很勇敢。",
+      "keys": [
+        "1896_Bryan_Sewall/answer_feedback_json/644@72/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/645@73/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/646@74/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/647@75/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/648@76/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/644@72/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/645@73/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/646@74/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/647@75/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/648@76/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/644@68/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/645@69/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/646@70/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/647@71/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/648@72/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/644@68/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/645@69/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/646@70/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/647@71/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/648@72/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/644@77/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/645@78/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/646@79/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/647@80/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/648@81/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "New York politics are dominated by a highly corrupt, patronage-based outfit known as Tammany Hall. Their boss, Richard Croker, has so far been indifferent to your campaign. Are you willing to make concessions to arouse his enthusiasm?",
+      "sha256": "d91f61d3c18bc4d14c599e36d423a8cc36bb7d12a9096b7a600dd488d9b437c2",
+      "zh": "纽约政坛被一个高度腐败、靠官职酬庸维系的组织所掌控，人称坦慕尼协会。它的头目理查德·克罗克，到目前为止，对你的竞选态度冷淡。你愿意作些让步，激起他的热情吗？",
+      "keys": [
+        "1896_Bryan_Stevenson/questions_json/143@12/description",
+        "1896_Bryan_Teller/questions_json/143@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "Corrupt organizations such as Tammany Hall drag the good name of the Democrats through the dirt. I would never debase my Christian ideals for their support.",
+      "sha256": "a5628a9ff9c3a8db64189766182f1737e39035373412969ef24a5288445a111e",
+      "zh": "坦慕尼协会这样的腐败组织，把民主党的好名声拖进了泥里。我绝不会为了它们的支持，贬损自己的基督教理想。",
+      "keys": [
+        "1896_Bryan_Stevenson/answers_json/995@19/description",
+        "1896_Bryan_Teller/answers_json/995@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "Croker is probably worried about my views on the temperance issue. I will assure him that a Bryan Administration will not push for Prohibition.",
+      "sha256": "2f18f8ff8443febc7c0f2e68abc6f37150ab3f091a6aaf4147c8f3874c039bb7",
+      "zh": "克罗克大概担心我在禁酒问题上的看法。我会向他保证，布赖恩政府不会推动禁酒。",
+      "keys": [
+        "1896_Bryan_Stevenson/answers_json/996@20/description",
+        "1896_Bryan_Teller/answers_json/996@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "I'm sure that Croker is concerned about the patronage positions his men will receive. Patronage jobs for New York men will be plentiful in my administration.",
+      "sha256": "a255ca000ae2854c639eba689dde5f8189aa57ff85ccb619cd7838e0269f7589",
+      "zh": "我相信，克罗克在意的是，他的人能得到哪些酬庸官职。我的政府，会为纽约人提供充足的这类职位。",
+      "keys": [
+        "1896_Bryan_Stevenson/answers_json/997@21/description",
+        "1896_Bryan_Teller/answers_json/997@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "Perhaps there is a misunderstanding. I will defend labor unions, fight against the temperance movements, and ensure adequate patronage jobs for New York Democrats. All I ask in return is that they deliver New York to the ticket.",
+      "sha256": "06be9c8c1308ae6c84278364e89753c6b544a61774b790a688f4c0d909a22188",
+      "zh": "也许有些误会。我会捍卫工会、反对禁酒运动，并为纽约民主党人提供足够的酬庸官职。作为回报，我只要求他们替我们的竞选组合拿下纽约。",
+      "keys": [
+        "1896_Bryan_Stevenson/answers_json/998@22/description",
+        "1896_Bryan_Teller/answers_json/998@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "You've written off New York but preserved your good name. Your chances of winning there were always negligible in any case.",
+      "sha256": "2bf3a91392e3488ba8fc779c5c19b136dfbfcae234b77155e9532e0dcd7018b9",
+      "zh": "你放弃了纽约，却保住了自己的好名声。反正，你在那里胜出的机会本来就微乎其微。",
+      "keys": [
+        "1896_Bryan_Stevenson/answer_feedback_json/580@39/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/580@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "You may have helped yourself in New York, but a lot of other places are concerned about the temperance issue. They thought you were on board with their beliefs.",
+      "sha256": "2d04e2e91370aeb32e19773c2992153e5ac41a89f6ba54d799dc418b818513e2",
+      "zh": "这也许有利于你在纽约的选情，但其他许多地方在意禁酒问题。他们原以为，你赞同他们的信念。",
+      "keys": [
+        "1896_Bryan_Stevenson/answer_feedback_json/581@40/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/581@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "This is somewhat effective, but the number of patronage jobs is dwindling each year and other states are worried about how many there are to go around.",
+      "sha256": "b317a849ea069f22659837d9abbb5b14abe6aa4bc85738b5ef31dfc095e76768",
+      "zh": "这多少有些效果，但酬庸官职一年比一年少，其他州也担心，自己还分得到多少。",
+      "keys": [
+        "1896_Bryan_Stevenson/answer_feedback_json/582@41/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/582@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "Bryan Caves to Tammany Hall! -- says the <em>New York Times</em>. Your position is much improved in New York, at an expense to your national reputation.",
+      "sha256": "5ce64736f22b81fa730732841ce1ba3a7c21d03cb62016e211332d0bc75739e9",
+      "zh": "“布赖恩向坦慕尼协会屈服！”——<em>《纽约时报》</em>如此报道。你在纽约的形势大为改善，却损害了全国声誉。",
+      "keys": [
+        "1896_Bryan_Stevenson/answer_feedback_json/583@42/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/583@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "Would you support an Amendment to the Constitution allowing the people to vote for their Senators directly?",
+      "sha256": "28cc7584c0574b95b6a8667d960b301d6ca1271c970fb0a5b03f07324975e40c",
+      "zh": "你支持通过一项宪法修正案，让人民直接选举本州的联邦参议员吗？",
+      "keys": [
+        "1896_Bryan_Matthews/questions_json/218@12/description",
+        "1896_Bryan_Boies/questions_json/218@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "Would you support federal \"Blue Laws\" to protect the sanctity of Sunday?",
+      "sha256": "5ebc2048041b996a81851a77c045a8e3f3e79a4f2eee6b9914b7cd9e712e4ed6",
+      "zh": "你支持制定联邦“蓝色法”，维护星期日的神圣性吗？",
+      "keys": [
+        "1896_Bryan_Matthews/questions_json/235@13/description",
+        "1896_Bryan_Boies/questions_json/235@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "What is your position on Rural Free Delivery of the mail, signed into law earlier this year by Grover Cleveland? Is this an acceptable strain to place on the finances of the Post Office?",
+      "sha256": "a787a54ae8ebda1db6dee76e70d4694d0f3757975f7385186e10a9a204fce341",
+      "zh": "你如何看待格罗弗·克利夫兰今年早些时候签署成法的农村免费投递邮件制度？让邮政部门承担这笔财政负担，是否可以接受？",
+      "keys": [
+        "1896_Bryan_Matthews/questions_json/208@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "Should the federal government make an effort to build a canal through Nicaragua to more efficiently link trade in the Atlantic and Pacific Oceans?",
+      "sha256": "dc01a07ce11d75090e3f13c2db431d207612e6f36392e3ebfeff523f1aeec67f",
+      "zh": "联邦政府应当努力修建横贯尼加拉瓜的运河，更高效地连接大西洋与太平洋之间的贸易吗？",
+      "keys": [
+        "1896_Bryan_Matthews/questions_json/247@17/description",
+        "1896_Bryan_Boies/questions_json/247@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "In an unusual move, the Populist Party has supported you for President while nominating their own running-mate. The man is Thomas Watson of Georgia -- a known radical. What do you have to say about this bizarre situation? ",
+      "sha256": "d057046d2335c9412ab77bc9fed292e7252a68ca9c89c16cc4f61b08a3b3c72a",
+      "zh": "人民党作出了不寻常的决定：支持你竞选总统，却另提名了一位自己的副总统候选人。这人是佐治亚的托马斯·沃森，以激进著称。你如何评价这个奇特的局面？",
+      "keys": [
+        "1896_Bryan_Matthews/questions_json/154@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "Horace Boies, the former Governor of Iowa, will be making a big speech tomorrow to capitalize on the crowds at the State Fair. Will you make the overnight trip to Iowa in time to deliver a concluding address to the farmers there?",
+      "sha256": "54c172c7dd86e2614dbef27ae534c720e106c2a09e46bdb13a9ac4804f6fd1bf",
+      "zh": "艾奥瓦前州长霍勒斯·博伊斯明天将发表重要演说，借州博览会的人潮造势。你会连夜赶往艾奥瓦，及时为当地农民作一场压轴演说吗？",
+      "keys": [
+        "1896_Bryan_Matthews/questions_json/147@22/description",
+        "1896_Bryan_Boies/questions_json/147@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "We need to focus more on Indiana and Michigan. Iowa should already be in the bag for us.",
+      "sha256": "5d054e4a7b4a3245f1583f426df18b2c71025433ace9430c4465dc6f0cb80c0a",
+      "zh": "我们需要更多关注印第安纳和密歇根。艾奥瓦应该已经十拿九稳了。",
+      "keys": [
+        "1896_Bryan_Matthews/answers_json/1008@18/description",
+        "1896_Bryan_Boies/answers_json/1008@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "Boies's time has passed. We need to avoid appearing with such radical politicians and cultivate the moderate wing of the party.",
+      "sha256": "7b9359d42ce499c89638bfd33e15efd03022fea14864bd00209be85c24bc0f38",
+      "zh": "博伊斯的时代已经过去。我们需要避免与这种激进政客同台，转而争取党内温和派。",
+      "keys": [
+        "1896_Bryan_Matthews/answers_json/1009@19/description",
+        "1896_Bryan_Boies/answers_json/1009@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "Absolutely. I would be honored to give this speech.",
+      "sha256": "ed1f04d10ed06518597397d74949d3678cfa1005346ac25a4302ba278da3c2fb",
+      "zh": "当然。能够发表这场演说，是我的荣幸。",
+      "keys": [
+        "1896_Bryan_Matthews/answers_json/1010@20/description",
+        "1896_Bryan_Boies/answers_json/1010@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "We have chosen our running mate and our ticket is set. I don't know what they are trying to accomplish.",
+      "sha256": "4a8a3be68ecac84d20cd0375387013aa90189503d7d3ec01ac92ede5afac177c",
+      "zh": "我们已经选定竞选搭档，组合也确定了。我不知道，他们还想达到什么目的。",
+      "keys": [
+        "1896_Bryan_Matthews/answers_json/1030@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

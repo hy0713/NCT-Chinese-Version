@@ -1,0 +1,245 @@
+NEW CAMPAIGN TRAIL	新竞选之路
+The New Campaign Trail	新竞选之路
+Do you have what it takes to win a Presidential Election?	你能赢得美国总统大选吗？
+Select a year and a candidate to find out.	选择选举年份和候选人，试试你的竞选策略。
+You will answer questions about your platform and positions, and also about your campaign strategy.	你将回答有关政纲、政策立场和竞选策略的问题。
+The answers will affect your popularity for better or worse, both nationally and in individual states.	你的回答将影响全国和各州选民对你的支持。
+Walk the fine line between appealing to your base and winning a majority of the votes.	在巩固基本盘和争取多数选票之间找到平衡。
+To load a mod, click the mod loader, select a mod from the drop down menu, click submit, and then press "Click Here to Begin!".	如需加载社区模组，请打开模组加载器，选择模组并提交，然后点击“开始游戏”。社区模组不属于本次汉化范围。
+Click here to begin!	开始游戏
+Blog	开发博客
+Modmaker	模组制作工具
+Mod Loader	模组加载器
+Mode	模式
+Play Soundtrack	播放音乐
+Pause	暂停
+Play	播放
+Volume:	音量：
+Time:	播放时间：
+Original site	原版网站
+created by Dan Bryan &copy; 2012-	作者：Dan Bryan &copy; 2012-
+To report bugs and view the source code, please visit our	反馈问题或查看源码，请访问
+Join our	加入我们的
+Discord Server here!	Discord 社区
+Button	按钮
+Game Difficulty:	游戏难度：
+Multiplier: 0	倍率：0
+Multiplier:	倍率：
+Benefit Check	选项效果分析
+IMF Loan	国际货币基金组织贷款
+Effect tooltips?	显示选项效果提示
+Skip to question:	跳转到题目：
+Skip	跳转
+To Game End	直接结算
+Scenario RNG?	启用剧本随机波动
+Optimal RNG?	使用最有利的随机波动
+Percentile:	百分位：
+Achievements	成就
+Additional Information	游戏说明
+Back	返回
+BACK	返回
+Continue	继续
+CONTINUE	继续
+For all achievements, unless otherwise stated, completing them must be done on normal or a harder difficulty	除另有说明外，成就须在普通或更高难度下完成。
+Welcome to the New Campaign Trail!	欢迎来到《新竞选之路》！
+Hello, and welcome to the New Campaign Trail! This is an updated version of The Campaign Trail (hence the name). What does TNCT bring that TCT doesn't? A number of new features, not limited to:	欢迎来到《新竞选之路》！这是原版《竞选之路》的扩展版本，新增功能包括：
+A mod loader/library, allowing many of the mods made by our fabulous community to be played/compiled	模组加载器与模组库，可游玩社区制作的剧本。
+Faster processing times, so you don't have to sit there forever while the game says	更快的结果处理，让你无需长时间等待
+Processing Results, wait one moment...	正在处理结果，请稍候……
+Achievements, for if you want to challenge yourself and memorialize unique results.	成就系统，用于挑战自我、记录特殊选举结果。
+Ending codes, a functionality of scenarios that allows the end screen to be altered depending on different factors like electoral and popular vote.	多结局功能，可根据选举人票、普选票等因素呈现不同结局。
+I could go on, but I think you get the point. We hope you enjoy playing it as much as we do. If you run into any issues, please either report them on the TNCT Github, or Discord server, both linked below at the bottom of the screen.	希望你享受这款游戏。如遇问题，可通过页面底部链接前往 GitHub 或 Discord 反馈。
+Credits:	制作人员：
+Dan Bryan (Original Site)	Dan Bryan（原版作者）
+DecstarG (Lead Dev)	DecstarG（主开发者）
+Danxv33 (Assistant Dev)	Danxv33（协助开发）
+ItsAstronomical (Community Manager)	ItsAstronomical（社区管理）
+T3CH0X (Dev)	T3CH0X（开发）
+The Campaign Trail Discord	《竞选之路》Discord 社区
+Recent patch notes:	最近更新：
+Added	新增
+support for variables to be used in Questions/Answers/Advisor Feedback	在问题、回答和顾问反馈中使用变量的功能
+Please select the election you will run in:	请选择参加的选举：
+Please select your candidate:	请选择总统候选人：
+Please select your running mate:	请选择副总统候选人：
+Party:	所属政党：
+Home State:	所属州：
+Name:	姓名：
+Select your game mode.	请选择游戏模式。
+Default (Winner-Take-All)	默认（赢家通吃）
+Proportional	按比例分配
+Sea to Shining Sea	从海岸到海岸
+Please choose your difficulty level:	请选择难度：
+Use the default method of allocating electoral votes for each state.	按照各州的默认规则分配选举人票。
+In the vast majority of cases, states use a winner-take-all method. For instance, if Candiate A defeats Candidate B in a state, worth 20 electoral votes, Candidate A will usually win all 20 votes.	绝大多数州实行赢家通吃。例如，某州有20张选举人票，候选人甲击败乙后，通常可以获得该州全部20票。
+This method tends to concentrate the election into a handful of swing states. It also makes it difficult for third-party candidates to win electoral votes. On the other hand, it is easier for a single candidate to gain an overall majority of the electoral votes.	这种制度使竞选集中于少数摇摆州，也让第三党候选人较难获得选举人票；同时，单一候选人更容易取得选举人票的过半多数。
+Allocate each state's electoral votes proportionally.	按照普选票比例分配各州的选举人票。
+Under this method, all candidates split the electoral votes in a state, in proportion to their popular vote %.	各候选人按本州普选得票率分配选举人票。
+There is still an advantage to winning a state -- the winner of the state will always receive a plurality of electoral votes. For instance, in a state with 4 electoral votes, if Candidate A wins 51% of the vote, they will be awarded 3 electoral votes.	赢下一州仍有优势：该州胜者始终获得最多的选举人票。例如，某州有4张选举人票，候选人甲获得51%的普选票时，将获得3张选举人票。
+Compared to a winner-take-all method, this method aligns the electoral vote more closely with the popular vote. It also makes it easier to third party candidates to increase their electoral vote totals. In some scenarios, this effect is highly significant on the final outcome. Some examples are 1860, 1948, 1968, and 2000.	与赢家通吃相比，比例分配让选举人票更接近普选结果，也让第三党更容易获得选举人票。这可能显著改变1860、1948、1968和2000等年份的结果。
+From sea to shining sea!	从海岸到海岸！
+The "advanced mode" New Campaign Trail experience.	《新竞选之路》的进阶模式。
+You will play with significantly increased control over the financial and internal aspects of your campaign, including:	你将更深入地管理竞选资金与团队，包括：
+- Campaign finance	- 竞选资金
+- Staffing your campaign	- 团队人员
+- Interactions with lobbies	- 与利益团体的关系
+- Ad buys	- 广告投放
+This is not the recommended experience for new players.	不建议新玩家首次游玩时选择此模式。
+One moment...	请稍候……
+Question	题目
+Latest Polls/Electoral Map	最新民调／选举地图
+The Campaign	竞选管理
+Advisor Feedback	顾问反馈
+Please select an answer before continuing!	请先选择一个回答，再继续。
+ESTIMATED SUPPORT	支持率预测
+Click on a state to view more info.	点击州查看详细信息。
+STATE SUMMARY	州概况
+Click/hover on a state to view more info.	点击州或将鼠标移到州上查看信息。
+Precise results will be available on election night.	准确结果将在选举之夜公布。
+Use this map to click on the next state you wish to visit. Choose wisely and focus your efforts where they will have the most impact.	点击地图选择下一站竞选访问的州。请审慎选择，将精力用于最有影响的地区。
+Back to the game	返回竞选
+Switch margin colouring gradient	切换领先幅度配色
+Enable/Disable Advisor Feedback	开启／关闭顾问反馈
+PV Estimate	普选得票预测
+Electoral Vote Estimate	选举人票预测
+Current Delegate Count	当前代表票数
+PRIMARY/CAUCUS RESULT	初选／党团会议结果
+Electoral Votes:	选举人票：
+Popular Votes:	普选票：
+Delegates:	代表票：
+You have chosen to visit	你选择访问
+-- is this correct?	——确认访问吗？
+YES	是
+NO	否
+Yes	是
+No	否
+OK	确定
+ELECTORAL VOTES	选举人票
+STATE RESULTS	州级结果
+Click on a state to view detailed results (once returns for that state arrive).	该州开始计票后，点击它查看详细结果。
+Go to Final Results	查看最终结果
+ELECTION TALLY	选举计票
+0% complete	计票进度：0%
+% complete	% 已计票
+to win	票即可获胜
+Returns for this state are not yet available!	该州尚未公布计票结果。
+Click on a state to view final results.	点击州查看最终结果。
+Candidate	候选人
+Delegates	代表票
+Electoral Votes	选举人票
+Popular Votes	普选票
+Popular Vote %	普选得票率
+Difficulty Multiplier:	难度倍率：
+Cheated difficulty	已修改难度
+[[BIG SHOT]] enabled	已启用 [[BIG SHOT]]
+Final Results:	最终结果：
+Game Link	对局链接
+(use link to view this result on its own page)	（可通过链接单独查看本局结果）
+Final Election Results	最终选举结果
+Election Map	选举地图
+Results by State	各州结果
+Overall Results Details	全国详细结果
+Further Reading	延伸阅读
+Play Again!	再玩一局！
+Election Results and Data by State	各州选举结果与数据
+View states by:	州排序方式：
+Alphabetical	按英文州名字母排序
+Most Electoral Votes	选举人票最多
+Closest States	胜负最接近
+Closest	最接近的
+Wins	胜选州
+Highest	最高
+Select a state:	请选择州：
+Results - This Game	本局结果
+Overall Election Details	全国选举详情
+Results - Historical	历史结果
+Historical Results - Your Candidate and Difficulty Level	相同候选人与难度的历史对局统计
+Win %	胜率
+EV Avg.	平均选举人票
+PV Avg.	平均普选票
+PV % Avg.	平均普选得票率
+EV Range	选举人票范围
+PV Range	普选票范围
+You have done better than approximately	你的成绩大约超过了
+of the games that have been played with your candidate and difficulty level.	的相同候选人、相同难度的对局。
+GAME LINK	对局链接
+Export Game as File	导出对局文件
+This election has no further reading.	本场选举没有延伸阅读资料。
+Are you interested in exploring the	想进一步了解
+election further? This page contains some further reading to get you up to speed.	年的选举吗？此处收录了相关延伸阅读资料。
+Are you sure you want to begin a new game?	确定要开始新的一局吗？
+This scenario was made by	本剧本作者：
+ACHIEVEMENT UNLOCKED	解锁成就
+Misc.	其他
+Mods	社区模组
+Answer	回答
+Feedback	顾问反馈
+Effects	效果
+Global:	全国效果：
+Issue:	议题效果：
+State:	州级效果：
+Affects	影响
+Funds	资金
+Lobbies	利益团体
+Staff	团队
+Campaign Time	竞选时间
+Ad Campaign	广告投放
+State of the Campaign	竞选概况
+Current balance:	当前资金：
+Change in balance from previous turn:	较上一回合的资金变化：
+Estimated change for next turn:	下一回合预计变化：
+Campaign currently in debt. Effectiveness will suffer.	竞选团队目前负债，竞选效果将受到影响。
+Organisation	组织
+Relationship	关系
+Description	说明
+Align your answers with an organisation's values in order to have them contribute to fundraising.	让回答符合组织的价值观，有助于争取该组织提供资金。
+Max Bonus: $	最高额外资助：$
+Opinion:	好感度：
+Name	姓名
+Cost (one time)	费用（一次性）
+Hired?	是否聘用
+Hire	聘用
+Hired.	已聘用
+Physically Campaigning:	实地竞选：
+Fundraising:	筹款：
+Media Engagement:	媒体活动：
+Note: will	注意：
+all	所有投放
+automatically be cancelled in the event of your campaign running a debt.	将在竞选团队负债时自动取消。
+Current Ad Spends	当前广告投放
+State	州
+Amount per Turn	每回合金额
+Remove	移除
+Select a state to add ad spending for it:	选择要投放广告的州：
+Enter ad spending amount:	请输入广告投放金额：
+Add Spending	添加投放
+Loyalist	忠诚支持者
+Surrogate	竞选代理人
+Spin Doctor	舆论顾问
+Debate Coach	辩论教练
+Wonk	政策专家
+Fundraiser	筹款人
+Media Manager	媒体主管
+Kingmaker	幕后推手
+Speechwriter	演讲稿撰写人
+Workhorse	实干家
+Smooth Talker	沟通高手
+Firebrand	激进鼓动者
+Trojan Horse	特洛伊木马
+Custom Theme Menu	自定义主题
+Background Image URL:	背景图片地址：
+Background Image Covers?:	背景图片铺满页面：
+Banner Image URL (suggested dimensions: 1000x303):	横幅图片地址（建议1000×303）：
+Window Image URL (	窗口图片地址（
+OPTIONAL	可选
+, WILL LOOK BAD IF YOU DON'T KNOW WHAT YOU'RE DOING):	，设置不当可能影响外观）：
+Window Colouring:	窗口颜色：
+Container Colouring:	容器颜色：
+Title Colouring:	标题颜色：
+Text Colouring:	文字颜色：
+Override Mod Themes? (experimental):	覆盖模组主题（实验功能）：
+Save	保存
+Prometheus' Menu	Prometheus 主题设置
+Don't give me advice	不显示顾问建议
+Go back to questions	返回题目
+Next Page	下一页

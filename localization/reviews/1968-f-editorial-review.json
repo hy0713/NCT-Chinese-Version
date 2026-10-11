@@ -1,0 +1,1068 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1968-f",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 299,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 42,
+      "reason": "Jumbo interpreted as vulgar LBJ nickname; anecdote evidence is secondary, original oral-history material not independently examined."
+    },
+    {
+      "index": 66,
+      "reason": "Dump the Hump rhyme explained using original placard catalogue; full page fetch failed, catalogue search extract read."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "As word gets around that Nixon probably sabotaged the Vietnam peace negotiations, you are the clear beneficiary of an 11th hour surge in the polls. Will it be enough to hand you a victory tonight?",
+      "sha256": "2eca8255436cf8fefe24260d2c860f57f3ede2276358de59052e7149bf5350f9",
+      "zh": "尼克松很可能破坏了越南和平谈判的消息传开，你明显受益，在最后关头的民调中迅速上升。这足以让你今晚获胜吗？",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/699@86/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/699@86/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/699@86/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/699@86/answer_feedback",
+        "1968_Wallace_LeMay/answer_feedback_json/699@18/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/699@18/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/699@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "The AFL-CIO is one of your fiercest supporters and you’re slamming them? They’ve retracted their endorsement of you and union masses have swapped to Wallace.",
+      "sha256": "8541a4d4ef31d416dc31faf7b785829ab0f1f3bdd8ddb8dfafa365c063de690a",
+      "zh": "劳联—产联是你最坚定的支持者之一，你却抨击他们？他们已经撤回对你的支持，大批工会成员转投华莱士。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2096@87/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2096@87/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2096@87/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2096@87/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Wow. In one stroke, you outrage every type of union member. Even prominent union leaders are now backing Wallace rather than you.",
+      "sha256": "cd0de71dbb7b977277968857e8f8958f6cde9f3986fbc68c850f38f612187b90",
+      "zh": "哇。你一下子把各类工会成员全都惹怒了。连知名工会领袖现在都转而支持华莱士，不再支持你。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2054@88/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2054@88/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2054@88/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2054@88/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Labor is ecstatic, and unions start winning back Wallace supporters. Union states are especially delighted by your response.",
+      "sha256": "305cb1a8c0ff9f9f97df3e21f6148d2ccb338b6205c9ddf9923abed0c3ea68d9",
+      "zh": "劳工阵营欣喜若狂，工会开始争取回华莱士的支持者。工会势力强的州尤其欢迎你的回应。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2055@89/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2055@89/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2055@89/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2055@89/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Hubert Humphrey opposing welfare? Multiple advisors wonder if they woke up in the wrong timeline.",
+      "sha256": "618902790c5b40dacadc6ab076088b4026ac2cc9082a3644813e2b4686458842",
+      "zh": "休伯特·汉弗莱反对福利？好几位顾问都怀疑，自己一觉醒来是不是到了另一条时间线。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2056@90/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2056@90/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2056@90/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2056@90/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Both your pessimism and the lack of support towards welfare, programs you’ve always fought for, worry core supporters.",
+      "sha256": "9d2101047ff898ecd920df662c59bf743b90c2f658e132b6e883d7ef9659aed3",
+      "zh": "你的悲观态度，以及对自己一贯争取的福利项目缺乏支持，都令核心支持者忧虑。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2057@91/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2057@91/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2057@91/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2057@91/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "You’ve shifted the conversation to regulations and the economy, but Americans across the political spectrum are concerned about the environment.",
+      "sha256": "c8141d7be6c26d3a6c9c198a647bf3707bd1370ceee26427a35ca2397292ee1e",
+      "zh": "你把话题转向监管和经济，但各个政治阵营的美国人都在关心环境。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2059@93/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2059@93/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2059@93/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2059@93/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "The Democratic base wants something more assertive on the environment.",
+      "sha256": "46ed8b3fef42f161317c1f5ce92b3aa75656c55e371da50da923fd3940ab4fe2",
+      "zh": "民主党基本盘希望你在环境问题上更坚决一些。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2060@94/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2060@94/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2060@94/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2060@94/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Good move. Promising further regulation to protect the environment pleases the base.",
+      "sha256": "7ab34b99fda53e98d7dca8016caf39a4b1075a4eea25ff21f0203bd7fcbbd2fd",
+      "zh": "干得好。你承诺加强监管、保护环境，令基本盘满意。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2061@95/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2061@95/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2061@95/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2061@95/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Federal tyranny? And what were you saying about <em>Brown v. Board of Education</em>?",
+      "sha256": "1792140a69a25404fdf1a2138d227547f13c2baa4556beddf942b123e9b3afa4",
+      "zh": "联邦暴政？那你对<em>布朗诉教育委员会案</em>又在说些什么？",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2062@96/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2062@96/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2062@96/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2062@96/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "The Warren Court is unpopular overall, but this clashes with many liberal supporters who have a positive view of the Court.",
+      "sha256": "d39f9c7a6fa1ff3d1690e545beded9c8b44e18fa831befc4b1f8298186bf61d4",
+      "zh": "沃伦法院总体上不受欢迎，但这个立场与你许多赞赏该法院的自由派支持者相冲突。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2063@97/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2063@97/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2063@97/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2063@97/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "This is a weak answer to liberals, but appeals strongly to moderates.",
+      "sha256": "9afeac7fb4b76e8d47fc501a388e927e6be110c6e6dc59d551903e17cde0eae2",
+      "zh": "在自由派看来，这个回答软弱无力，却很能吸引温和派。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2064@98/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2064@98/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2064@98/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2064@98/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Blacks and liberals are thrilled, but moderates dislike your approval and promise to continue the policies of the Warren Court.",
+      "sha256": "5e04e78b84d3bb767ede55763a8eeecd15b059523145ca5c1bb19996bc23ed97",
+      "zh": "黑人和自由派欢欣鼓舞，但温和派不喜欢你赞同沃伦法院，并承诺继续它的路线。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2065@99/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2065@99/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2065@99/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2065@99/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Abortion is a contentious issue and your view is unnecessarily conservative. Feminists, led by the National Organization for Women, are enraged and protests become common at your rallies.",
+      "sha256": "e394d03d1fb5c38479dbbd9902a59127d22e27e4877807fb58efd0d879ea3e86",
+      "zh": "堕胎是个争议很大的问题，你的观点保守得没有必要。全国妇女组织领导的女权主义者愤怒不已，你的集会上频频出现抗议。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2066@100/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2066@100/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2066@100/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2066@100/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Conservative Democrats love this, but it turns off your more liberal supporters.",
+      "sha256": "a3e4ce8600b53d0a4b2bcc469f67620eccee87ceae4df40133d6e0800912f9b1",
+      "zh": "保守派民主党人喜欢这个回答，但它令你更偏自由派的支持者反感。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2088@101/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2088@101/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2088@101/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2088@101/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "This is a liberal answer that still engages moderates. The negative? Conservative Democrats are upset by the answer.",
+      "sha256": "f3ddda6c750289f20f69414f86c60fa324fbf5c10aa9551a3238a071fcba71fe",
+      "zh": "这个回答偏自由派，却仍能争取温和派。坏处呢？保守派民主党人不高兴了。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2067@102/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2067@102/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2067@102/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2067@102/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "This is too liberal for many in your party to stomach.",
+      "sha256": "0a837c5e02fe5cc064a2b07db7c2bf6cf9f88ec91625e85317655cac5a05cade",
+      "zh": "这对党内许多人来说，自由派色彩浓得难以接受。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2068@103/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2068@103/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2068@103/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2068@103/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Many of your supporters, especially the Jewish community, disagree. The New Left have capitalized, fearmongering that it’s the end for separation of church and state based on your rhetoric.",
+      "sha256": "3444650dec50037f772dac5835860d414d3b6e3e772c3d1602cedb92ed533814",
+      "zh": "你的许多支持者，尤其是犹太人社区，并不赞同。新左派借题发挥，根据你的言论渲染恐慌，声称政教分离要完了。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2069@104/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2069@104/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2069@104/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2069@104/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Not the worst answer, but still a bad one. Your supporters are disturbed by enforcing religion on American children through the state.",
+      "sha256": "4ed7d25a536a446e2444e35fec93dc87025351e81f7c4875c90ab42e434c45cb",
+      "zh": "不是最糟糕的回答，但依然很差。你要通过国家强制美国儿童接受宗教，令支持者不安。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2070@105/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2070@105/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2070@105/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2070@105/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "This is a middle-ground answer that doesn’t rebuff any voters.",
+      "sha256": "3941998dad17189e92b848bea50676d6ea229c66586f75d49f2a70f740971f4a",
+      "zh": "这是个中间立场的回答，不会把任何选民推开。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2071@106/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2071@106/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2071@106/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2071@106/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "To most Americans, this position is a bit out of the mainstream.",
+      "sha256": "29ce861b053570a4808fa1c2efddf86fc2ee97e884a9e792962861a11246dadb",
+      "zh": "对大多数美国人来说，这个立场有点偏离主流。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2072@107/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2072@107/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2072@107/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2072@107/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Surprisingly, your disastrous answer has flown under the radar. Your advisors are incredibly relieved and set up on a emergency meeting to prevent you from spouting further nonsense.",
+      "sha256": "8ec2c389e72572f0acb605f9ee502fa954150b7cf27113f676398c6a6bb261fc",
+      "zh": "出人意料，你这个灾难性的回答没有引起注意。顾问们大大松了一口气，安排了紧急会议，以免你再胡说八道。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2073@108/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2073@108/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2073@108/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2073@108/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "This only paints you as indecisive towards voters. Even Nixon is more insistent, wanting to retain the program.",
+      "sha256": "40c39afb8450e497c7f6ae792862074fd8525471a5c27c1423efe87fc211d9a4",
+      "zh": "这只会让选民觉得你犹豫不决。连尼克松都比你坚决，主张保留这个项目。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2097@109/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2097@109/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2097@109/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2097@109/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "It’s good to stick by your proposals and policies.",
+      "sha256": "c8b0c8704ca3fa12ee9ff2ba0aa3ca9fc8040409d9466f0a37700289447f5b14",
+      "zh": "坚持自己的主张和政策是好事。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2074@110/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2074@110/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2074@110/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2074@110/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Negroes take offense to your response, viewing it as parroting Nixon and worse, Wallace. Even right-wing whites admit that you echo Wallace.",
+      "sha256": "ddc27d1eb54076bf1a76d12260fe5dfda81efc3100cc246b0ac66b3d1b88f3f8",
+      "zh": "黑人对你的回应感到冒犯，认为你在鹦鹉学舌地重复尼克松，甚至更糟，重复华莱士的话。连右翼白人都承认，你在附和华莱士。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2075@111/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2075@111/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2075@111/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2075@111/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "White voters are content, but blacks demand more from the Democrats, due to the poverty in their urban communities.",
+      "sha256": "a024ac31c6d55d6f4bfd2f78a1825b9625174b7c98ee4194bb440543fd6fcc82",
+      "zh": "白人选民满意，但黑人希望民主党做得更多，因为他们的城市社区仍陷于贫困。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2076@112/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2076@112/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2076@112/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2076@112/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "You defend the administration’s actions, which reassures African-Americans but frustrates white Americans who believe such measures to be excessive.",
+      "sha256": "189a9c9c3d6efc8185bdfa6c42be742ab48b337e732428191299cbf1a36a429b",
+      "zh": "你为政府的行动辩护，让非裔美国人安心，却令认为这些措施过头的白人美国人不满。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2077@113/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2077@113/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2077@113/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2077@113/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "Very liberal of you. You’ve won the absolute loyalty of the Negro community, and also lost many white voters. But you’ve exchanged them equally, so polls haven’t moved.",
+      "sha256": "218f3fbfc66c88d82a92ca1ab1c47d320c3db704b49d50864f66af7ec094572b",
+      "zh": "你可真是个自由派。你赢得了黑人社区的绝对忠诚，也失去了许多白人选民。两者相互抵消，民调因此没有变化。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2078@114/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2078@114/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2078@114/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2078@114/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "This is very out of touch with the current mood of America. On the bright side, you do receive a boost in Florida from Cuban-Americans.",
+      "sha256": "e22a511c180732f8ba82e4812300abb8b35a1a47925e3c472c5ace6785e2460d",
+      "zh": "这与美国当前的情绪非常脱节。好的一面是，佛罗里达州的古巴裔美国人给你的支持有所增加。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2110@115/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2110@115/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2110@115/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2110@115/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Much of the party, LBJ, moderates, and conservative Democrats are extremely elated. It proves to the country you’re not a radical left-wing, communist sympathizer.",
+      "sha256": "d5a78d3de076d11628bc3591453c0946912dd0b2ea4231b3a443828de8b58b7c",
+      "zh": "党内许多人、约翰逊、温和派和保守派民主党人都极其高兴。这向全国证明，你不是同情共产主义的激进左翼。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2079@116/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2079@116/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2079@116/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2079@116/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This has a certain appeal to your wide coalition. You backup Johnson and simultaneously throw a bone to the left.",
+      "sha256": "481aac7ffc2b76632a98824cd4a8962a0a0802941113510d3c91be9bf77c73dd",
+      "zh": "这对你广泛的支持者联盟颇有吸引力。你既支持约翰逊，也给左翼一点甜头。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2111@117/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2111@117/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2111@117/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2111@117/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "This legitimizes your detractors and right-wing claims that you are weak on Communism.",
+      "sha256": "986526ad17f4c218b5468d49ffddfe146c35bb30aafdcc3aff3c4e74ac491438",
+      "zh": "这让批评者和右翼关于你对共产主义软弱的指控显得有了依据。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2080@118/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2080@118/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2080@118/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2080@118/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Tough words, Hubert. Radical student organizations disavow you, but working-class and suburban Americans are appreciative towards your law and order stance.",
+      "sha256": "296fb8bfaeb319d8d0cc4baab26c4d59208e152b7b65a1fdda06010ed9385440",
+      "zh": "话够硬，休伯特。激进学生组织与你划清界限，但工薪阶层和郊区居民赞赏你维护法律与秩序的立场。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2089@119/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2089@119/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2089@119/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2089@119/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Nice rant, but it’s quite extreme and has horrified Democrats.",
+      "sha256": "120680b39788ff08f9ff2428c16fad8da40b5879eb21df7b04310ee783f28c5b",
+      "zh": "骂得痛快，但实在太极端，把民主党人吓坏了。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2081@120/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2081@120/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2081@120/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2081@120/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "This is a tad sympathetic to the protestors, but it gets the job done. But moderates, focused on the chaos, are bothered by your acknowledgment of student complaints.",
+      "sha256": "f9a8400d4be868d84e46aebf7e13903914d10add4acedaa37bd29ed73025996d",
+      "zh": "这对抗议者略有同情，但还是达到了目的。不过，关注混乱局面的温和派，对你承认学生诉求有所不满。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2082@121/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2082@121/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2082@121/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2082@121/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Johnson is unpopular, but he’s the most powerful mover and shaker within the party. Criticizing his governance just earned you his wrath.",
+      "sha256": "06d6b0eb735333b7d5e8e5fb7d3f0960712cb949254177aa935f3760d5ff5234",
+      "zh": "约翰逊虽然不受欢迎，却仍是党内最有权势的人物。批评他的治理，让你招来了他的怒火。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2083@122/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2083@122/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2083@122/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2083@122/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Labor and unions disagree.",
+      "sha256": "b43255a847a0cb3530c91507a7fa4a017c5b476d02e412d84b112571c8247199",
+      "zh": "劳工阵营和工会并不赞同。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2084@123/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2084@123/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2084@123/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2084@123/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "This is a good answer. You manage to mollify LBJ and also soothe unions who are anxious about the effect these agreements have.",
+      "sha256": "ed3a8091e48bcb71c59ac0bdcce5d522630eddc45bc23f3d8ca9c0861cee9dc3",
+      "zh": "回答得好。你既安抚了约翰逊，也让担忧这些协议影响的工会安心。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2086@124/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2086@124/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2086@124/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2086@124/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Americans generally like the pill.",
+      "sha256": "9e7a8399dd8fd8974aba3ec70145165f6f4b4c125c771d5bac87a62c554e890f",
+      "zh": "美国人总体上是喜欢避孕药的。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2098@125/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2098@125/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2098@125/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2098@125/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "The pill is not the biggest issue this election.",
+      "sha256": "95e94aa9af8247a59d88db1048354450684e6fe9a0638c3b1a07f591f1acbcb4",
+      "zh": "避孕药不是这次选举中最重要的问题。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2099@126/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2099@126/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2099@126/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2099@126/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "While true, this is the exact opposite of what Americans believe how the war is going and doesn’t endear you to anti-war voters.",
+      "sha256": "1424600e1605bf08ccfe8ad1eec712ec13a80bcd9bbc9f30867cf76590d2b426",
+      "zh": "虽说属实，但这与美国人对战局的看法完全相反，也不会让反战选民喜欢你。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2100@127/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2100@127/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2100@127/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2100@127/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "You’ve discredited the administration you served under, but the President hasn’t acted against you. The anti-war crowd welcomes you, and you shake off claims that you are merely a puppet for Johnson.",
+      "sha256": "a285d8e2a8b213beb57c9e4d5f4bbd01f57274ff6d564aaa4624f073a8992067",
+      "zh": "你否定了自己任职的政府，但总统没有对付你。反战群体欢迎你，你也摆脱了只不过是约翰逊傀儡的说法。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2101@128/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2101@128/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2101@128/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2101@128/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "You’ve justified President Johnson’s handling of Vietnam and have his thanks, but it pushes away doves - they despise Jumbo.",
+      "sha256": "481dd12f85d77e1a4fbcec83f9ac45870922190de812f91410ae718d9eddd1e3",
+      "zh": "你为约翰逊总统处理越南战争的做法辩护，获得他的感谢，却把鸽派推远了——他们讨厌“巨无霸”。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2102@129/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2102@129/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2102@129/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2102@129/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Voters want more than just gloating with hindsight.",
+      "sha256": "113a7eae8d019a7df6a234417dacbbc4de46bd0a64f1b7a94019f4a3033e9c2e",
+      "zh": "选民要的可不只是事后洋洋得意。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2103@130/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2103@130/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2103@130/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2103@130/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "A plurality of your advisors just resigned. The ones staying on are frankly just astonished by how stupid you are.",
+      "sha256": "a2ba7cf88132002c400e141b5745b7f237b334ac5885beeb794fcde09afd186c",
+      "zh": "辞职的顾问成了人数最多的一派。留下的那些人，坦白说，只是对你的愚蠢感到目瞪口呆。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2104@131/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2104@131/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2104@131/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2104@131/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Blacks wish for a comment, anything about police brutality from you. For whites, this is a great answer, showing that you aren’t just all talk about law and order.",
+      "sha256": "29a553d7cc32088c33eb31d81082307fbd45e89a2fc0bfebed0a95d8c0ee052a",
+      "zh": "黑人希望听到你对警察暴行有所表态，哪怕说点什么也好。对白人来说，这个回答很好，表明你维护法律与秩序不只是空谈。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2104@132/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2104@132/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2104@132/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2104@132/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Negroes vigorously applaud you, but most whites do not believe police overreacted when quelling the riots.",
+      "sha256": "6ac7278cc44e6b4d8701743707b43d59e6ad22f28f39d3866e682e40dede336e",
+      "zh": "黑人热烈地为你鼓掌，但多数白人不认为警察平息骚乱时反应过度。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2105@133/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2105@133/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2105@133/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2105@133/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Are you trying to lose the election?",
+      "sha256": "22f2dbee6c32334771cebbb530d04ebb7ab57e1dc3f5d4ea601a690be970f946",
+      "zh": "你是想输掉选举吗？",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2106@134/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2106@134/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2106@134/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2106@134/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "This is a moderate answer, being both patriotic and appeases college students.",
+      "sha256": "de79b03fdcfb364556ff2e63de13f0c6fb78ff3a2093eead29dc5f1442c9951d",
+      "zh": "这是个温和的回答，既体现爱国立场，也安抚了大学生。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2107@135/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2107@135/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2107@135/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2107@135/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Students and radicals agree with you. Nobody else does, resulting in you being firmly outside the mainstream.",
+      "sha256": "24cb912935fd7785aa76bde03eb293dfe0259b867f14a97a39e3ed24063b1092",
+      "zh": "学生和激进派赞同你，其他人都不赞同。结果，你彻底站到了主流之外。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2107@136/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2107@136/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2107@136/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2107@136/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Outside of a few students and radicals, nobody agrees with your viewpoint.",
+      "sha256": "768fdcfded05f898d143bf2bf94dabb6246bf9aa416d270eb22ba8b509fc4528",
+      "zh": "除了少数学生和激进派，没有人赞同你的观点。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2108@137/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2108@137/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2108@137/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2108@137/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "This gives the impression that you don’t really care about the environment at all.",
+      "sha256": "4ec56eccc18c7b7347da1c0e4a1f225702ccd507f81729c5adbb5fc97e82df42",
+      "zh": "这让人觉得你根本不在乎环境。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2108@138/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2108@138/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2108@138/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2108@138/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Unions and working-class voters adore your answer, but liberal environmentalists see it as toothless.",
+      "sha256": "5892382e3676cbabc1bcf03586954f8bf76993a0ce59113693fb6e4be23bb3c4",
+      "zh": "工会和工薪阶层选民喜欢你的回答，但自由派环保人士认为它没有力度。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2108@139/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2108@139/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2108@139/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2108@139/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "This is a decent, liberal answer except that it leaves you open for attacks: conservatives accuse you of being a tree hugging hippie.",
+      "sha256": "d4f4bc0589b520241566fb39ae81233b695ce62edab16ecacb2006b0a67a2531",
+      "zh": "这是个不错的自由派回答，不过留下了攻击的把柄：保守派指责你是个抱着树不放的嬉皮士。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2109@140/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2109@140/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2109@140/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2109@140/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "What? The voters that you need detest making interracial marriage illegal.",
+      "sha256": "daf7858b747414a00a650a8e5bd981120d893790179caa657fe0c7c4010dbbbe",
+      "zh": "什么？你需要争取的选民，可都厌恶把跨种族婚姻定为违法。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2112@141/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2112@141/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2112@141/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2112@141/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Making the subject about states rights is possibly the worst way to oppose it as a Democrat.",
+      "sha256": "6e2118bdfe130ff597e48b9f1ef2e855a622cd18fccc9368390a6632eeb75a71",
+      "zh": "身为民主党人，却把问题扯到州权上，可能是表达反对时最糟糕的办法。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2113@142/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2113@142/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2113@142/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2113@142/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Probably the best answer. The nation doesn't like interracial marriage, but doesn’t want laws pertaining to its legality.",
+      "sha256": "e3aef6c45fe97572364e7cff4136fea47834ae01eebe0806f6091b02343b8fe5",
+      "zh": "这大概是最好的回答。全国民众不喜欢跨种族婚姻，但也不希望用法律来规定它是否允许。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2115@143/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2115@143/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2115@143/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2115@143/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Your response leans conservative, hurting approval from liberals, but does great for many moderates.",
+      "sha256": "ba8b10c2e43fa40d5d038f1fae0098bf3a301301851d12bd04df3b509a6fb8df",
+      "zh": "你的回应偏保守，损害了自由派对你的认可，却很能争取许多温和派。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2117@145/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2117@145/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2117@145/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2117@145/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Poor citizens love it, but moderates and conservatives are less amused.",
+      "sha256": "c4d4ad78a81d4eb9fa5061ba89b9dbc1e01ddc4c2a33203ca1195f1af46abdb0",
+      "zh": "贫困民众喜欢它，但温和派和保守派没那么高兴。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2118@146/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2118@146/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2118@146/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2118@146/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Attempting to receive a endorsement from <em>The National Review</em> isn’t the best strategy, Hubert.",
+      "sha256": "8b20508794c59f2cf1ba19041d81653699995ea05700e1f139566bbda68032fe",
+      "zh": "休伯特，想争取<em>《国家评论》</em>的支持，可不是最好的策略。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2119@147/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2119@147/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2119@147/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2119@147/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "Taking a page out of George Wallace’s book, eh? To say the least, it didn’t go well.",
+      "sha256": "2726537b10cc2eaa9b61faf8557478a66c30fa15b2ad13084e88ead1b7745a7f",
+      "zh": "这是在学乔治·华莱士那一套，是吧？总之，效果很不好。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2120@148/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2120@148/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2120@148/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2120@148/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "Hubert Humphrey, ready to lead the country!",
+      "sha256": "5de405e3510b23b8f79a5bfa478fe1d995ba99d9f13f51ba8838ec1509d5cff3",
+      "zh": "休伯特·汉弗莱，已经准备好领导国家！",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2121@149/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2121@149/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2121@149/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2121@149/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "This is true, and binds yourself to the strong economy and the slain President.",
+      "sha256": "784cf8459987f71a857585e2b915fafb288187dfb167eda3c6f317817ea945d6",
+      "zh": "这话属实，也让你与强劲的经济和遇刺身亡的总统联系起来。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2122@150/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2122@150/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2122@150/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2122@150/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "You are going to have a very hard time winning this election if you agree with everything LBJ has done in Vietnam.",
+      "sha256": "4d69841d0f4a136bc07ac611db4454660cba9ed55182cdf56ae3b7fcb9fab4b1",
+      "zh": "如果你赞同约翰逊在越南做的一切，这场选举你会很难赢。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/696@151/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/696@151/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/696@151/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/696@151/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "Voters, particularly doves, notice your clear anti-war stance. Unfortunately, Lyndon does sabotage you, specifically in Texas.",
+      "sha256": "abbfa2fda609a7a52a35d4bb8828a9af1b52a9f13778d7c3616cb044ffc1c0a8",
+      "zh": "选民，尤其是鸽派，注意到了你明确的反战立场。不幸的是，林登确实在拆你的台，尤其是在得克萨斯州。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2123@152/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2123@152/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2123@152/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2123@152/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "You’ve demonstrated that you are your own man and not just Johnson’s goon. But campaign operatives report that the Texas Democratic Party is unusually hostile.",
+      "sha256": "4e365d5ed487a51451d1050c1e0b4c234497fe7854ab96401ed6e4b37376b992",
+      "zh": "你表明自己有独立主张，不只是约翰逊的打手。但竞选工作人员报告，得克萨斯州民主党对你格外敌视。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2124@153/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2124@153/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2124@153/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2124@153/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "Dump the Hump!",
+      "sha256": "eb34bcf81105b7f812160f3d651f4247b7c1edb42ae6a5b931864e78ce13b190",
+      "zh": "甩掉汉弗莱！",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2125@154/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2125@154/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2125@154/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2125@154/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "This is a bad answer. While you do appear tough on communism, it costs you the anti-war movement.",
+      "sha256": "df96eda34c85d82f2a96ae75587818c80c1acddbb83eda2f5ab8b92d398fef93",
+      "zh": "这个回答不好。你虽然显得对共产主义强硬，却付出了失去反战运动支持的代价。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2126@155/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2126@155/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2126@155/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2126@155/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "Some people talk change, others cause it.",
+      "sha256": "f5437a883bdb8c48ee2a2276a34a1fb8b25399fbc37ca34b5b1b2c11869f7ce5",
+      "zh": "有人空谈变革，有人促成变革。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2127@156/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2127@156/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2127@156/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2127@156/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "The American people disapprove of the war, but they also don’t want communism spreading across Southeast Asia.",
+      "sha256": "858ac2b9eda2c156ce0f8db7a8a6370e3f71bc0cb74d3ce4d3f1d4d05715ec99",
+      "zh": "美国人民反对这场战争，但也不想让共产主义在东南亚扩散。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2128@157/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2128@157/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2128@157/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2128@157/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "Are you going to make your next speech about social engineering, states rights, and the anarchy movement?",
+      "sha256": "ff13cfe11215b5b57ed707106e6ef4fe7a19fa943ffbd49842ecb82d87e6077a",
+      "zh": "你下一场演讲，打算谈社会改造、州权和无政府主义运动吗？",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2129@158/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2129@158/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2129@158/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2129@158/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "Decent, moderate response that shares the nation’s views, but it has harmed your reputation within your base.",
+      "sha256": "677165fd7c6f03ee37443c1325534dea1e61aba73c7a27b28874acfe9e59216e",
+      "zh": "这是个不错的温和回应，与全国的看法一致，却损害了你在基本盘中的声望。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2130@159/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2130@159/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2130@159/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2130@159/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "Probably the correct answer for this minefield. You have to stick up for liberalism nationally.",
+      "sha256": "5437755c1ff0de0a328fef14b5b97cb0d33cce4f64b99d5c7aae6daed630a574",
+      "zh": "面对这个雷区，这大概是正确答案。你必须在全国捍卫自由主义。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2131@160/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2131@160/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2131@160/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2131@160/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "Can you comment on the newly created Head Start program?",
+      "sha256": "851eb09f381fc2173a745a83d97cd26e3d0be7de08bfd12e9def7e03769287da",
+      "zh": "你能谈谈新设立的“启蒙计划”吗？",
+      "keys": [
+        "1968_Humphrey_Kennedy/questions_json/276@17/description",
+        "1968_Humphrey_Connally/questions_json/276@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "The Head Start program is another product of the out-of-touch, intellectual elite. It's a waste of money.",
+      "sha256": "d09a03dbe60f06c5365fddd91ca3ba6299afd996ecc99527a438cf5b962627d0",
+      "zh": "启蒙计划又是脱离现实的知识精英搞出来的东西，纯粹是在浪费钱。",
+      "keys": [
+        "1968_Humphrey_Kennedy/answers_json/1742@53/description",
+        "1968_Humphrey_Connally/answers_json/1742@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

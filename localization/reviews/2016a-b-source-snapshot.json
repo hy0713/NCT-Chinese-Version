@@ -1,0 +1,587 @@
+[
+  {
+    "source": "We don't really plan to discuss this. I'd rather not be responsible for whatever Sanders might say.",
+    "zh": "我们并不打算讨论这个问题。我不想对桑德斯可能说的任何内容负责。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4624@29/description",
+      "2016a_Clinton_Castro/answers_json/4624@33/description",
+      "2016a_Clinton_Warren/answers_json/4624@25/description"
+    ]
+  },
+  {
+    "source": "Donald Trump has repeatedly stepped over the line with his irresponsible rhetoric, and it shouldn't be any surprise that more and more protestors are turning out against him.",
+    "zh": "唐纳德·特朗普多次以不负责任的言论越界，越来越多的抗议者站出来反对他也就不足为奇了。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4633@30/description",
+      "2016a_Clinton_Castro/answers_json/4633@38/description",
+      "2016a_Clinton_Warren/answers_json/4633@31/description",
+      "2016a_Clinton_Brown/answers_json/4633@35/description"
+    ]
+  },
+  {
+    "source": "Donald Trump's words go against everything our nation stands for, but I don't think it's correct or helpful to disrupt his rallies or to shout epithets at his supporters.",
+    "zh": "唐纳德·特朗普的言论违背了我们国家所代表的一切，但我认为扰乱他的集会或对他的支持者大喊大叫是不正确或有帮助的。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4634@31/description",
+      "2016a_Clinton_Castro/answers_json/4634@39/description",
+      "2016a_Clinton_Warren/answers_json/4634@32/description",
+      "2016a_Clinton_Brown/answers_json/4634@36/description"
+    ]
+  },
+  {
+    "source": "We shouldn't dignify Donald Trump's views with a debate. I will decline to participate in them.",
+    "zh": "我们不应该通过辩论来尊重唐纳德·特朗普的观点。我将拒绝参加它们。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4637@32/description",
+      "2016a_Clinton_Castro/answers_json/4637@40/description",
+      "2016a_Clinton_Warren/answers_json/4637@35/description",
+      "2016a_Clinton_Brown/answers_json/4637@39/description"
+    ]
+  },
+  {
+    "source": "Any chance we can get to expose Trump's complete lack of preparation for the Presidency is a win for us.",
+    "zh": "只要有机会揭露特朗普完全缺乏担任总统的准备，对我们来说都是一场胜利。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4638@33/description",
+      "2016a_Clinton_Booker/answers_json/4639@34/description",
+      "2016a_Clinton_Booker/answers_json/4640@35/description",
+      "2016a_Clinton_Castro/answers_json/4638@41/description",
+      "2016a_Clinton_Castro/answers_json/4639@42/description",
+      "2016a_Clinton_Castro/answers_json/4640@43/description",
+      "2016a_Clinton_Warren/answers_json/4638@36/description",
+      "2016a_Clinton_Warren/answers_json/4639@37/description",
+      "2016a_Clinton_Warren/answers_json/4640@38/description",
+      "2016a_Clinton_Brown/answers_json/4638@40/description",
+      "2016a_Clinton_Brown/answers_json/4639@41/description",
+      "2016a_Clinton_Brown/answers_json/4640@42/description"
+    ]
+  },
+  {
+    "source": "Cory Booker is a bright, young, energetic man who will be perfectly ready to assume the Presidency from day one. He represents the best and brightest of the African-American community.",
+    "zh": "科里·布克是一位聪明、年轻、精力充沛的人，从第一天起就已经做好了就任总统的充分准备。他代表了非裔美国人社区中最优秀、最聪明的人。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4641@36/description"
+    ]
+  },
+  {
+    "source": "The Second Amendment, people. I am a strong supporter of the Second Amendment.",
+    "zh": "第二修正案，人民。我是第二修正案的坚定支持者。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4659@37/description",
+      "2016a_Trump_Brown/answers_json/4659@47/description",
+      "2016a_Trump_Christie/answers_json/4659@45/description"
+    ]
+  },
+  {
+    "source": "I would only consider very minimal measures, to keep guns from the hands of the insane.",
+    "zh": "我只会考虑采取非常最低限度的措施，以防止枪支落入疯子之手。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4660@38/description",
+      "2016a_Trump_Brown/answers_json/4660@48/description",
+      "2016a_Trump_Christie/answers_json/4660@46/description"
+    ]
+  },
+  {
+    "source": "I support common-sense measures to reduce gun violence in this country.",
+    "zh": "我支持采取常识性措施来减少这个国家的枪支暴力。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4661@39/description",
+      "2016a_Trump_Brown/answers_json/4661@49/description",
+      "2016a_Trump_Christie/answers_json/4661@47/description"
+    ]
+  },
+  {
+    "source": "We need to hold gun stores accountable when their weapons are used in violent crime. We need extensive measures to keep guns off the streets and away from criminals.",
+    "zh": "当枪支商店的武器被用于暴力犯罪时，我们需要追究其责任。我们需要采取广泛措施，让枪支远离街头，让犯罪分子远离枪支。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4662@40/description",
+      "2016a_Trump_Brown/answers_json/4662@50/description",
+      "2016a_Trump_Christie/answers_json/4662@48/description"
+    ]
+  },
+  {
+    "source": "There are some very bad things happening right now. The last eight years have been a disaster for this country.",
+    "zh": "现在发生了一些非常糟糕的事情。过去八年对这个国家来说是一场灾难。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4673@41/description",
+      "2016a_Clinton_Brown/answers_json/4673@50/description",
+      "2016a_Trump_Brown/answers_json/4673@51/description",
+      "2016a_Trump_Carson/answers_json/4673@41/description"
+    ]
+  },
+  {
+    "source": "I'm proud that we were able to elect an African-American as President in this country. I really am. But we need to focus on the future now, and not on what may have gone right or wrong the last few years.",
+    "zh": "我很自豪我们能够选举一位非裔美国人担任这个国家的总统。我确实是。但我们现在需要关注未来，而不是过去几年可能做对或做错的事情。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4674@42/description",
+      "2016a_Clinton_Brown/answers_json/4674@51/description",
+      "2016a_Trump_Brown/answers_json/4674@52/description",
+      "2016a_Trump_Carson/answers_json/4674@42/description"
+    ]
+  },
+  {
+    "source": "I will be very proud to continue with the policies and economy that Obama has left our country with.",
+    "zh": "我将非常自豪能够继续执行奥巴马留给我们国家的政策和经济。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4675@43/description",
+      "2016a_Clinton_Brown/answers_json/4675@52/description",
+      "2016a_Trump_Brown/answers_json/4675@53/description",
+      "2016a_Trump_Carson/answers_json/4675@43/description"
+    ]
+  },
+  {
+    "source": "Abortion is a terrible, terrible thing. We need judges in this country that will see it that way, and end this practice once and for all.",
+    "zh": "堕胎是一件非常非常可怕的事情。我们需要这个国家的法官以这种方式看待此事，并一劳永逸地结束这种做法。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4676@44/description",
+      "2016a_Clinton_Castro/answers_json/4676@48/description"
+    ]
+  },
+  {
+    "source": "I'm a pro-life candidate. Very pro-life. I think only if a woman is in serious danger should she be able to receive an abortion.",
+    "zh": "我是一名反堕胎候选人。非常反对堕胎。我认为只有当女性处于严重危险时才可以堕胎。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4677@45/description",
+      "2016a_Clinton_Castro/answers_json/4677@49/description"
+    ]
+  },
+  {
+    "source": "I will defend a woman's right to choose against any type of outside attack or meddling. We need to fight the recent attacks on abortion access.",
+    "zh": "我将捍卫女性选择的权利，免受任何类型的外部攻击或干涉。我们需要对抗最近对堕胎机会的攻击。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4679@46/description",
+      "2016a_Clinton_Castro/answers_json/4679@50/description"
+    ]
+  },
+  {
+    "source": "I can't support it. You know, once upon a time we actually had a legislature in this country which debated the laws and made these kinds of decisions.",
+    "zh": "我无法支持。你知道，很久以前，我们这个国家实际上有一个立法机关，负责辩论法律并做出此类决定。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4680@47/description",
+      "2016a_Trump_Carson/answers_json/4680@44/description"
+    ]
+  },
+  {
+    "source": "I fully support gay marriage, but I'd like to see every state make this decision for itself.",
+    "zh": "我完全支持同性婚姻，但我希望看到每个州自己做出这个决定。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4681@48/description",
+      "2016a_Trump_Carson/answers_json/4681@45/description"
+    ]
+  },
+  {
+    "source": "This decision was a milestone for equality in our country. I will appoint judges who feel the same way about it.",
+    "zh": "这一决定是我国平等的里程碑。我将任命对此有同样看法的法官。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4682@49/description",
+      "2016a_Trump_Carson/answers_json/4682@46/description"
+    ]
+  },
+  {
+    "source": "You can't confirm him. We've got to let the people decide this November.",
+    "zh": "你无法确认他。我们必须让人民在今年 11 月做出决定。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4683@50/description",
+      "2016a_Trump_Carson/answers_json/4683@47/description"
+    ]
+  },
+  {
+    "source": "This is congressional obstructionism at its worst. We've seen any number of judges be appointed in the final year of a term. We can't have what we're seeing right now.",
+    "zh": "这是最严重的国会阻挠行为。我们已经看到许多法官在任期的最后一年被任命。我们无法拥有现在所看到的。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4684@51/description",
+      "2016a_Trump_Carson/answers_json/4684@48/description"
+    ]
+  },
+  {
+    "source": "How about enforcing our current immigration law? We tried reform once already, and if it worked, we wouldn't even be discussing this now.",
+    "zh": "执行我们现行的移民法怎么样？我们已经尝试过一次改革，如果有效的话，我们现在就不会讨论这个了。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4685@52/description",
+      "2016a_Trump_Brown/answers_json/4685@54/description"
+    ]
+  },
+  {
+    "source": "I'm not opposed to comprehensive immigration reform. We just need to build a wall first, and deport the people who have no right to be in the United States.",
+    "zh": "我不反对全面的移民改革。我们只需要先建一堵墙，然后驱逐那些没有权利留在美国的人。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4686@53/description",
+      "2016a_Trump_Brown/answers_json/4686@55/description"
+    ]
+  },
+  {
+    "source": "I believe this is a good policy, and I'm willing to make compromises in the area of immigration enforcement to build a working coalition.",
+    "zh": "我相信这是一项很好的政策，我愿意在移民执法领域做出妥协，以建立一个工作联盟。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4687@54/description",
+      "2016a_Trump_Brown/answers_json/4687@56/description"
+    ]
+  },
+  {
+    "source": "I will push for comprehensive immigration reform within 100 days of taking office. This will bring security to millions of families and make it harder for companies to exploit foreign workers.",
+    "zh": "我将在上任后100天内推动全面的移民改革。这将为数百万家庭带来安全，并使公司更难剥削外国工人。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4688@55/description",
+      "2016a_Trump_Brown/answers_json/4688@57/description"
+    ]
+  },
+  {
+    "source": "The entire global warming alarm is a fantasy. A lot of people are pushing it so they can increase their own power and decision making.",
+    "zh": "整个全球变暖警报只是一个幻想。很多人都在推动它，这样他们就可以增加自己的权力和决策能力。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4692@56/description",
+      "2016a_Clinton_Castro/answers_json/4692@51/description",
+      "2016a_Clinton_Brown/answers_json/4692@53/description",
+      "2016a_Trump_Brown/answers_json/4692@58/description",
+      "2016a_Trump_Carson/answers_json/4692@49/description"
+    ]
+  },
+  {
+    "source": "Even if global warming is real, I highly doubt it has anything to do with human activity.",
+    "zh": "即使全球变暖是真实的，我也非常怀疑它与人类活动有任何关系。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4693@57/description",
+      "2016a_Clinton_Castro/answers_json/4693@52/description",
+      "2016a_Clinton_Brown/answers_json/4693@54/description",
+      "2016a_Trump_Brown/answers_json/4693@59/description",
+      "2016a_Trump_Carson/answers_json/4693@50/description"
+    ]
+  },
+  {
+    "source": "We need to encourage a healthy economy in general, so that green businesses can obtain the investment that they need to innovate. ",
+    "zh": "我们需要鼓励总体健康的经济，以便绿色企业能够获得创新所需的投资。 ",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4694@58/description",
+      "2016a_Clinton_Castro/answers_json/4694@53/description",
+      "2016a_Clinton_Brown/answers_json/4694@55/description",
+      "2016a_Trump_Brown/answers_json/4694@60/description",
+      "2016a_Trump_Carson/answers_json/4694@51/description"
+    ]
+  },
+  {
+    "source": "We need to extend our tax credits for green energy installations, and increase the amount of spending on research. We also need to take active steps to reduce carbon emissions.",
+    "zh": "我们需要扩大对绿色能源装置的税收抵免，并增加研究支出。我们还需要采取积极措施减少碳排放。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4695@59/description",
+      "2016a_Clinton_Castro/answers_json/4695@54/description",
+      "2016a_Clinton_Brown/answers_json/4695@56/description",
+      "2016a_Trump_Brown/answers_json/4695@61/description",
+      "2016a_Trump_Carson/answers_json/4695@52/description"
+    ]
+  },
+  {
+    "source": "We're going to crack down on waste and fraud. There's a terrible amount of bad stuff going on out there.",
+    "zh": "我们将打击浪费和欺诈行为。那里发生了很多糟糕的事情。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4699@60/description",
+      "2016a_Clinton_Brown/answers_json/4699@57/description"
+    ]
+  },
+  {
+    "source": "We need to constrain future spending increases and allow the economy to grow, which should make our debt more manageable over time.",
+    "zh": "我们需要限制未来的支出增长并允许经济增长，这将使我们的债务随着时间的推移变得更容易管理。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4700@61/description",
+      "2016a_Clinton_Brown/answers_json/4700@58/description"
+    ]
+  },
+  {
+    "source": "We're going to support anyone in this country who tries to get a college education. We're going to protect Social Security and make sure our veterans are adequately cared for.",
+    "zh": "我们将支持这个国家任何试图接受大学教育的人。我们将保护社会保障并确保我们的退伍军人得到充分的照顾。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4701@62/description",
+      "2016a_Clinton_Brown/answers_json/4701@59/description"
+    ]
+  },
+  {
+    "source": "The European Union has been a complete disaster, and I can't blame any country, especially the United Kingdom, that would want out. ",
+    "zh": "欧盟完全是一场灾难，我不能责怪任何想要退出的国家，尤其是英国。 ",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4705@63/description",
+      "2016a_Clinton_Warren/answers_json/4705@53/description",
+      "2016a_Clinton_Brown/answers_json/4705@60/description",
+      "2016a_Trump_Christie/answers_json/4705@58/description",
+      "2016a_Trump_Carson/answers_json/4705@53/description"
+    ]
+  },
+  {
+    "source": "We've all seen the issues with the European Union, and it obviously hasn't been perfect. But I'd hope that any country consider things very carefully before they decided to leave.",
+    "zh": "我们都看到了欧盟的问题，而且它显然并不完美。但我希望任何国家在决定离开之前都仔细考虑一下。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4706@64/description",
+      "2016a_Clinton_Warren/answers_json/4706@54/description",
+      "2016a_Clinton_Brown/answers_json/4706@61/description",
+      "2016a_Trump_Christie/answers_json/4706@59/description",
+      "2016a_Trump_Carson/answers_json/4706@54/description"
+    ]
+  },
+  {
+    "source": "We shouldn't be taking any refugees from Syria. We're talking about some very bad people here, who don't have America's interests at heart.",
+    "zh": "我们不应该接收任何来自叙利亚的难民。我们在这里谈论的是一些非常坏的人，他们并不把美国的利益放在心上。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4707@65/description",
+      "2016a_Clinton_Castro/answers_json/4707@58/description",
+      "2016a_Trump_Carson/answers_json/4707@55/description"
+    ]
+  },
+  {
+    "source": "We'll take as many refugees as Saudi Arabia takes. And in any case, we're going to helping out with a safe zone in Syria to protect vulnerable people.",
+    "zh": "我们将接收与沙特阿拉伯一样多的难民。无论如何，我们将帮助叙利亚建立安全区，以保护弱势群体。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4708@66/description",
+      "2016a_Clinton_Castro/answers_json/4708@59/description",
+      "2016a_Trump_Carson/answers_json/4708@56/description"
+    ]
+  },
+  {
+    "source": "You know, Steve Jobs was a descendent of Syrian refugees. We're screening these people very carefully and we can certainly afford to take in more than 10,000.",
+    "zh": "你知道，史蒂夫·乔布斯是叙利亚难民的后裔。我们正在非常仔细地筛选这些人，我们当然有能力接纳超过 10,000 人。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4709@67/description",
+      "2016a_Clinton_Castro/answers_json/4709@60/description",
+      "2016a_Trump_Carson/answers_json/4709@57/description"
+    ]
+  },
+  {
+    "source": "College administrators are skimming an unbelievable amount of money off of the federal government, and they're using student aid to drive up tuition. It's a terrible thing, really.",
+    "zh": "大学管理人员从联邦政府那里榨取了令人难以置信的巨额资金，并且他们利用学生援助来抬高学费。这真的是一件可怕的事情。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4713@68/description",
+      "2016a_Clinton_Warren/answers_json/4713@55/description",
+      "2016a_Trump_Carson/answers_json/4713@58/description"
+    ]
+  },
+  {
+    "source": "We need a more balanced trade situation, so that we have jobs available to people at all levels of society. We've really done a disservice to the white and African-American working class over the past twenty years.",
+    "zh": "我们需要更加平衡的贸易形势，以便为社会各阶层的人们提供就业机会。在过去的二十年里，我们确实伤害了白人和非裔美国工人阶级。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4714@69/description",
+      "2016a_Clinton_Warren/answers_json/4714@56/description",
+      "2016a_Trump_Carson/answers_json/4714@59/description"
+    ]
+  },
+  {
+    "source": "I have a plan to spend $350 over the next 10 years to help those who need it the most, to attend college.",
+    "zh": "我计划在未来 10 年内花费 350 美元来帮助最需要的人上大学。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4715@70/description",
+      "2016a_Clinton_Warren/answers_json/4715@57/description",
+      "2016a_Trump_Carson/answers_json/4715@60/description"
+    ]
+  },
+  {
+    "source": "I will do everything in my power to make a four-year degree available without cost to the students of tomorrow.",
+    "zh": "我将尽我所能，为明天的学生免费提供四年制学位。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4716@71/description",
+      "2016a_Clinton_Warren/answers_json/4716@58/description",
+      "2016a_Trump_Carson/answers_json/4716@61/description"
+    ]
+  },
+  {
+    "source": "Mr. Trump's gross and outlandish rhetoric should disgust any decent, hard-working women in our society. We need to show that there is no place for this rhetoric.",
+    "zh": "特朗普先生的粗俗和古怪的言论应该让我们社会中任何正派、勤奋的女性感到厌恶。我们需要表明这种言论没有立足之地。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4736@73/description",
+      "2016a_Clinton_Castro/answers_json/4736@69/description",
+      "2016a_Clinton_Warren/answers_json/4736@64/description",
+      "2016a_Clinton_Brown/answers_json/4736@67/description"
+    ]
+  },
+  {
+    "source": "Everybody knows about these kinds of statements. We shouldn't allow ourselves to be dragged into the gutter on this. Rather, we should focus on policy issues in our campaign.",
+    "zh": "每个人都知道这类陈述。我们不应该让自己在这件事上被拖入阴沟。相反，我们应该在竞选中关注政策问题。",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4737@74/description",
+      "2016a_Clinton_Castro/answers_json/4737@70/description",
+      "2016a_Clinton_Warren/answers_json/4737@65/description",
+      "2016a_Clinton_Brown/answers_json/4737@68/description"
+    ]
+  },
+  {
+    "source": "A lot of Democrats thought your answer was a bit snarky, though it does move you towards the center on immigration issues.",
+    "zh": "许多民主党人认为你的回答有点尖酸刻薄，尽管它确实让你在移民问题上走向了中心。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2006@0/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2006@0/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2006@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "Can you get your story straight on the gay marriage position? There is already some latent suspicion of your commitment-level from the LGBT community.",
+    "zh": "你能直接讲述同性婚姻的立场吗？ LGBT 群体已经对你的承诺水平产生了一些潜在的怀疑。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2014@1/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2014@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "Good luck tomorrow, and may you defeat The Donald!",
+    "zh": "祝你明天好运，祝你打败唐纳德！",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2015@2/answer_feedback",
+      "2016a_Clinton_Booker/answer_feedback_json/2016@3/answer_feedback",
+      "2016a_Clinton_Booker/answer_feedback_json/2017@4/answer_feedback",
+      "2016a_Clinton_Booker/answer_feedback_json/2018@5/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2015@1/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2016@2/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2017@3/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2018@4/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2015@0/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2016@1/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2017@2/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2018@3/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2015@0/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2016@1/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2017@2/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2018@3/answer_feedback",
+      "2016a_Trump_Brown/answer_feedback_json/2015@0/answer_feedback",
+      "2016a_Trump_Brown/answer_feedback_json/2016@1/answer_feedback",
+      "2016a_Trump_Brown/answer_feedback_json/2017@2/answer_feedback",
+      "2016a_Trump_Brown/answer_feedback_json/2018@3/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2015@0/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2016@1/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2017@2/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2018@3/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2015@2/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2016@3/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2017@4/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2018@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's not a big deal in this election, but there are some people who dislike Trump, yet are still uncomfortable with the tactics of these protestors.",
+    "zh": "这次选举没什么大不了的，但有些人不喜欢特朗普，但仍然对这些抗议者的策略感到不舒服。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2020@6/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2020@6/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2020@4/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2020@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "Just hit him on this as much as you can. It's a weak spot for him.",
+    "zh": "尽你所能地打击他。这对他来说是一个弱点。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2022@7/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2022@7/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2022@5/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2022@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Most people seem to think that your debates were inconclusive and will have little effect on the race.",
+    "zh": "大多数人似乎认为你们的辩论没有结果，对竞选影响不大。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2023@8/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2023@8/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2023@6/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2023@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "Needless to say, Obama is very popular among African-Americans and should help you maintain turnout in that demographic.",
+    "zh": "不用说，奥巴马在非裔美国人中非常受欢迎，应该可以帮助您保持该人群的投票率。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2026@9/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2026@9/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2026@7/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2026@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "People are surprised at your passive stance towards Trump.",
+    "zh": "人们对你对特朗普的消极态度感到惊讶。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2036@10/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2036@12/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2036@13/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2036@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "People certainly love Elizabeth Warren, but Sanders's relatively minimal role does not go unnoticed.",
+    "zh": "人们当然喜欢伊丽莎白·沃伦，但桑德斯相对较小的作用并不会被忽视。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2038@11/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2038@13/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2038@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "People wonder if you're using this position to hedge away from your college tuition plan.",
+    "zh": "人们想知道你是否利用这个职位来规避你的大学学费计划。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2039@12/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2039@15/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2039@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "Progressives are pleased to see your anti-TPP position carry over into the general election.",
+    "zh": "进步人士很高兴看到您的反 TPP 立场延续到大选中。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2040@13/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2040@14/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2040@16/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2040@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "Progressives are starting to believe that you really walk the walk on TPP. Behind the scenes, Obama is not pleased with you, however.",
+    "zh": "进步人士开始相信你真的践行了 TPP。然而，在幕后，奥巴马对你并不满意。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2041@14/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2041@15/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2041@17/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2041@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "Sanders brings the convention floor to its feet, helping to define the Democrats as a staunchly progressive party.",
+    "zh": "桑德斯使大会堂站起来，帮助将民主党定义为坚定的进步党。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2043@15/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2043@17/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2043@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Statements like this are a bit tone-deaf in the 2016 environment.",
+    "zh": "在 2016 年的环境下，这样的说法有点充耳不闻。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2044@16/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2044@18/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2044@18/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2044@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "The debates went well for you. Trump looked a little out of his depth on a few occasions.",
+    "zh": "辩论对你来说进展顺利。特朗普有几次看起来有点超出他的能力范围。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2049@17/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2049@20/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2049@22/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2049@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "The protests, when they get to a certain level, seem to help Trump more than hurt him. But many progressives don't like to hear you distance yourself like this.",
+    "zh": "当抗议达到一定程度时，似乎对他的帮助大于伤害特朗普。但许多进步人士不喜欢听到你这样疏远自己。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2051@18/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2051@22/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2051@24/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2051@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Republican position in Congress is not supported by most of the public.",
+    "zh": "共和党在国会的立场并未得到大多数公众的支持。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2052@19/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2052@7/answer_feedback"
+    ]
+  }
+]

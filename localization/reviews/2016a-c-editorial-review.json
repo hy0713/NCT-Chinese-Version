@@ -1,0 +1,936 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2016a-c",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 297,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 12,
+      "reason": "Original corrupted quote recovered as semantic quotation in Chinese only, original bytes untouched."
+    },
+    {
+      "index": 17,
+      "reason": "Triangulator refers Bill Clinton political positioning, not geometric investigator. Broken quotes restored in Chinese only."
+    },
+    {
+      "index": 22,
+      "reason": "Original started read as startled; English unchanged."
+    },
+    {
+      "index": 32,
+      "reason": "180 is a political reversal metaphor, not changed electoral numerical coefficient."
+    },
+    {
+      "index": 36,
+      "reason": "Broken quotes recovered as quotes in Chinese, serious-danger ambiguity retained."
+    },
+    {
+      "index": 47,
+      "reason": "Original accusation is explicitly alleged, not certified paternity fact. Original offensive hooker register retained as prostitute, no defamatory assertion added."
+    },
+    {
+      "index": 48,
+      "reason": "March2016 scenario scripted Berlin100death hypothetical retained, not conflated with December2016 Christmas-market attack."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "There is plenty to attack Trump on, but it seems odd to hear a sitting President take such a negative line during one of their final moments in the spotlight.",
+      "sha256": "369979774f084f9aca62c47973e9b4214de099c54252ffcfc21b10fdd0a1f03b",
+      "zh": "特朗普有很多地方可以攻击，但一位现任总统在最后几次备受瞩目的时刻之一，采取如此负面的论调，听起来有点奇怪。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2053@20/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2053@23/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2053@25/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2053@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "There's nothing wrong with singing the praises of Obama.",
+      "sha256": "5a2eeca92c2b179e5d48cb04e37be05d6b2ff603968e1e24786aea37ce021ee3",
+      "zh": "赞扬奥巴马，没有什么不妥。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2055@21/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2055@24/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2055@4/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2055@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "There's nothing wrong with this choice.",
+      "sha256": "5f045773ff14faa596a71dde3be174472b789337531f824a089769dde04854fa",
+      "zh": "这个选择没有什么问题。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2056@22/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2057@23/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2056@24/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2057@25/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2056@26/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2057@27/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2056@25/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2057@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "This could be a reasonable compromise on trade... or a way to pass the buck to whoever the next President will be.",
+      "sha256": "47506097cf6b2db4bf256062193789bd8bb085c9ed9b9fba9b689563ecb372a8",
+      "zh": "这或许是贸易问题上合理的妥协，也可能是把责任推给下一任总统。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2059@24/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2059@27/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2059@28/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2059@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "This is a little incrementalist, especially compared to your attacks on Bernie Sanders in the primaries.",
+      "sha256": "5de384ff2ababdd097220fc923dbcad00c1c15873e9ff09afabf817c4d474b22",
+      "zh": "这有点偏向渐进改革，尤其与你初选中攻击伯尼·桑德斯的言辞相比。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2060@25/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2060@5/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2060@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "This is a moderate position, but it leaves some supporters a little disappointed.",
+      "sha256": "31b36912284da67a9a913294b8bd136f016d9ae5c9df9521899bf90bba3a0d08",
+      "zh": "这是温和的立场，但让一些支持者有点失望。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2062@26/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2062@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "This is a safe answer -- it won't hurt you or help you either way.",
+      "sha256": "a35ad62771860328951f2fdad2291fe1dd7c284d4dff0f06500336a9bd9a64cc",
+      "zh": "这个回答很稳妥，不论怎样，都不会给你带来损失或帮助。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2064@27/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2064@30/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2064@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "This is a surprisingly conservative position, based on the current environment and even your own past statements.",
+      "sha256": "e287ef11a99e072da227bd7cddb53529b0d9bd9731c29cc9a60e5134ca6a7b0d",
+      "zh": "考虑到目前的环境，甚至你自己过去的表态，这个立场保守得令人意外。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2065@28/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2065@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "This is an unusual move, but it makes voting for you an easier pill to swallow for progressives and moderates alike, who just want to stop Trump this year.",
+      "sha256": "e66c91940f5fca2ea0403c4dfd3447298042440b17305e568776cbd5b3dfa48d",
+      "zh": "这个举动不寻常，但对今年只想挡住特朗普的进步派和温和派来说，投票支持你都更容易接受了。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2067@29/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2067@32/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2067@31/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2067@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "This is another position taken straight from the platform of Bernie Sanders. Interesting decision.",
+      "sha256": "f75a4b12d59aeeecd83804adc2cd5f03da1b08a3ff58d17a0027b902d2ee6b4f",
+      "zh": "这又是一个直接取自伯尼·桑德斯党纲的立场。这个决定挺有意思。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2068@30/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2068@32/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2068@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "This is certainly evocative of the Bill Clinton era.",
+      "sha256": "664e60e94179e504c5f6487ffeec601bd31336ede5d4936f8b921a987f71c815",
+      "zh": "这确实让人想起比尔·克林顿的时代。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2069@31/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2069@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "This is just what you were saying in the Democratic primaries.",
+      "sha256": "41b93395779640fa313b88c32e794f30c6a4d812ed78fdf70dba462fc5d215eb",
+      "zh": "这正是你在民主党初选时的说法。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2075@35/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2075@34/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2075@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "This is not the right way to “pivot to the center” for the general election.",
+      "sha256": "f8de23f108971ce628e70c4d9e4860eb3898344959916143dcdd4b949a9e7b99",
+      "zh": "为了大选“向中间转向”，这样做可不对。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2078@36/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2081@37/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2082@38/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2083@39/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2084@40/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2085@41/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2086@42/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2087@43/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2089@44/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2079@35/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2082@36/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2083@37/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2086@38/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2087@39/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2088@40/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2089@41/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2079@35/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2080@36/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2081@32/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2086@33/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2087@34/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2078@10/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2081@11/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2085@12/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2086@13/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2087@14/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2088@15/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2078@7/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2079@8/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2080@9/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2081@12/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2084@13/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2086@14/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2087@15/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2089@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "This is right in line with your views to date.",
+      "sha256": "978208d618b0126e29dc89cbcb35b68c5282ef370707f18ec314ddb8b3f8f568",
+      "zh": "这与你迄今的观点完全一致。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2091@46/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2091@16/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2091@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "This is surprisingly strident rhetoric, given your past views. But it inspires a lot more outrage in foreign policy circles than among actual voters.",
+      "sha256": "c0696e3ea020e874da2ccd936e690bb9dd2a092cd0fd76387dbffaa2fb5ef845",
+      "zh": "考虑到你过去的观点，这番言辞强硬得令人意外。但外交政策圈的愤怒，远比实际选民强烈。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2092@47/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2092@38/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2092@36/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2092@11/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2092@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "This seems like a non-sequitur to many, albeit one with a grain of truth.",
+      "sha256": "bad1d42762aba44e3f825d9360fea75ea47daa97f8526cd22ba4380694cdf1bf",
+      "zh": "许多人觉得，这像是在答非所问，尽管多少有点道理。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2094@48/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2094@39/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2094@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "This seems surprisingly passive, given the negative opinions about this episode.",
+      "sha256": "8fe0f39ef18e2619d627bb81df5cf1a348c730f223e9b28a80388abc00410438",
+      "zh": "考虑到大家对这件事的负面看法，这样似乎出奇地被动。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2096@49/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2096@43/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2096@42/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2096@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "This statement evokes memories of the “triangulator”, Bill. But that might help you as much as it hurts you.",
+      "sha256": "400360b45c1385d06680da17728f2235160d3479d68d7b9547ee159b72961a6d",
+      "zh": "这个表态让人想起擅长“三角定位”的比尔。不过，它对你的帮助，可能和伤害一样大。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2097@50/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2097@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "This statement isn't enough to appeal to moderates, and is disappointing to progressive supporters.",
+      "sha256": "5d88fbcc717951a3b16a4647c5985629e79a69b0e13a44b5e1ce6cc635e9b096",
+      "zh": "这个表态不足以吸引温和派，也让进步派支持者失望。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2098@51/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2098@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "This strikes a moderate tone, but it may be out of step in 2016.",
+      "sha256": "9087b5f588f6b0241874661564e92f2bcf504db99fd4dc53243f887699ca9ded",
+      "zh": "这听起来很温和，但可能与2016年的形势脱节。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2099@52/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2099@44/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2099@43/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2099@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "To many progressives, this seems overly passive in the face of the global warming threat.",
+      "sha256": "7c5bb74af7cfebc12ddd3a972d16d2235ccf21df364aea0a7cb49b84c254e8fa",
+      "zh": "许多进步派觉得，面对全球变暖威胁，这样显得过于被动。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2101@53/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2101@46/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2101@44/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2101@17/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2101@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Trump is having serious problems with the female vote, and there's no reason you shouldn't twist the knife.",
+      "sha256": "6103c9f2a1a88834149005958875edd46d3de29495c4f9657e5d6629dfcadf8b",
+      "zh": "特朗普在女性选民中遇到了严重问题，你没理由不再补上一刀。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2104@54/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2104@47/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2104@44/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2104@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Trump isn't popular. But people were a little started to hear such a negative nomination speech, in what is one of your most important moments in the spotlight.",
+      "sha256": "255dbf5b80a83beeecc7e4b9ece3a26189274c49aeced5d780968d54cc27cfa0",
+      "zh": "特朗普不受欢迎。但在你最重要的聚光灯时刻之一，提名演说竟然如此负面，大家还是有点吃惊。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2105@55/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2105@48/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2105@45/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2105@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "Trump University is a major liability for The Donald.",
+      "sha256": "8243e087e6d616b8885a2b63d238b229b1d5e870a6f9c157459136090e33950e",
+      "zh": "特朗普大学是“那位唐纳德”的一大包袱。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2106@56/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2106@49/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2106@46/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2106@47/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2107@48/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2108@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Unfortunately, for whatever reason, you just weren't on your game in these debates. Even liberal pundits are having a hard time explaining it.",
+      "sha256": "4423e34d8f85f340f2cfc69b1fa118e4cac7c5bd9b6877eff723170987bfc0aa",
+      "zh": "遗憾的是，不知为什么，你在这些辩论中就是不在状态。连自由派评论员都很难解释。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2111@57/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2111@50/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2111@49/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2111@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Word is getting around that you seem to have snubbed Bernie Sanders. This is probably not a good idea.",
+      "sha256": "e8d285bc06ccbc11455385ddefeaf778c823d4efc214bc52a3f81009472d56a1",
+      "zh": "大家渐渐传开了，说你似乎冷落了伯尼·桑德斯。这大概不是好主意。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2115@58/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2116@59/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2115@51/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2116@52/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2116@52/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2115@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "You might have to hit Sanders's talking points a little more than you'd like, but his presence will definitely be helpful.",
+      "sha256": "6032f257ce17ece249bd9c84567910e23ccc3aee3432ccdc96775275b4920365",
+      "zh": "你也许得比自己愿意的更多地采用桑德斯的说辞，但他的参与肯定会有帮助。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2119@60/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2119@54/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2119@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "You quickly clarify that you were not trying to attack the legacy of Obama, but nonetheless a few people are getting that impression.",
+      "sha256": "1f0db831518eb93b365d9521a85302289b4ddcd5906d1f313a0f42a604b760be",
+      "zh": "你迅速澄清，自己不是想攻击奥巴马的政治遗产。不过，仍有一些人得到那样的印象。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2120@61/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2120@55/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2120@18/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2120@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "You've strangely taken the side of the right in one of this election's defining issues.",
+      "sha256": "a1f5b931270fc398788f7e9f866a1c7e58291966cc58196834ac4ad5d957bf2d",
+      "zh": "在本次选举的标志性议题之一上，你竟然站到了右派一边。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2122@62/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2122@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "Your decision not to debate Trump is unpopular, and makes little sense to most people.",
+      "sha256": "dd0d396788aac9f4f27a5ac5cc7b6df18b0ce4843ebf16580ff855eaad050cdc",
+      "zh": "你不与特朗普辩论的决定不受欢迎，而且多数人觉得没什么道理。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2123@63/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2123@56/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2123@55/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2123@56/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "Your party and supporters mostly want to hear more aggressive rhetoric on the gun control issue.",
+      "sha256": "81414e26787f6eb35ab3dec0c0b56d21fff6ea538f294f2823e5c233cdfc0c80",
+      "zh": "你的党和支持者多数希望，在枪支管制问题上听到更积极进取的言辞。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2124@64/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2124@19/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2124@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "Your speech fires up the convention hall and sets a good tone for the coming campaign.",
+      "sha256": "6ac93d7edafa472d981db3734aee6f27826d648d86067b1c15c4652e3b0209ed",
+      "zh": "你的演说点燃了大会会场，为接下来的竞选开了个好头。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2126@65/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2127@66/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2128@67/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2126@58/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2127@59/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2128@60/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2126@56/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2127@57/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2128@58/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2126@57/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2127@58/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2128@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "This is too much of a 180 on the gun control issue for most people to process.",
+      "sha256": "5980b579e4b0e3414c23d1a0f875448773e95c6f0bfdd1e2b3defb419b52419f",
+      "zh": "你在枪支管制问题上来了个180度大转弯，多数人难以接受。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2179@68/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2179@54/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2179@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "It can't hurt you to be magnanimous once in awhile.",
+      "sha256": "d33ced96c54f71fac54515fcf7479f6aef760d6020cff5536615ba56521ac1e6",
+      "zh": "偶尔大度一点，对你没有坏处。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2187@69/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2187@63/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2187@55/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2187@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "Your unexpected praise of Obama is not helpful for your campaign.",
+      "sha256": "9a4ea370b61eeb88494480079801e3dc6c88144cc5e207cf6aaa22d77d99727d",
+      "zh": "你出人意料地赞扬奥巴马，对竞选没有帮助。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2188@70/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2188@64/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2188@56/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2188@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "Red meat for the conservative base.",
+      "sha256": "4e0a8e52e24e5ad881a86863de0f7f0ef1a348fa4ae528808a3ff765077f0ac5",
+      "zh": "这是保守派基本盘最爱听的强硬话。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2189@71/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2193@75/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2197@79/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2203@83/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2189@62/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2203@66/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2212@71/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2201@63/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2203@65/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2197@57/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2203@61/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2193@54/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2203@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "People joke about what “serious danger” means, but you seem to be leaving the door open to some exceptions.",
+      "sha256": "4248a5bda1371b7b11c3f33ebfcd49aa21063ea5419300cdf7fd8a397f70a47c",
+      "zh": "人们拿“严重危险”的含义开玩笑，但你似乎为某些例外留了余地。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2190@72/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2190@63/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "Conservatives distrusted you enough already. Now you've added fuel to the fire in a big way.",
+      "sha256": "2afab82235f36fc3d9f2d70c6a9ceea3c52295ad981113eaae64d64d0394fc30",
+      "zh": "保守派本来就够不信任你了。现在，你又狠狠地火上浇油。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2191@73/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2192@74/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2195@77/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2196@78/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2207@85/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2215@89/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2216@90/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2183@61/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2191@64/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2192@65/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2208@68/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2183@59/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2202@64/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2215@66/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2216@67/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2207@67/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2208@63/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2183@48/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2206@53/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2195@56/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2196@57/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2215@63/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2216@64/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "Another talking point that needles the conservative wing of the party.",
+      "sha256": "85469274b20a7c351d0b58a63faf81a1ec81cb929d47ed8884eb634fc3499d38",
+      "zh": "这又是一句让党内保守派刺耳的说辞。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2194@76/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2194@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "Good way to sound a bit more statesmanlike.",
+      "sha256": "a9c47ffcf0e06de0cdacdb9cec2e2fd8e6d8769d38e9f25e7b882ac383e77756",
+      "zh": "这能让你显得更有政治家的风范。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2198@80/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2198@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "This is too much of a 180 on the immigration issue for most people to process.",
+      "sha256": "9233c9f12dcbafdcfb3e1ae3a475e9aea474f26203645f6bf44f84999c027a65",
+      "zh": "你在移民问题上来了个180度大转弯，多数人难以接受。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2199@81/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2200@82/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2186@62/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2199@59/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2200@60/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2186@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "It seems to some that you do believe that climate change is real.",
+      "sha256": "7a7642ff234162859a393eec63c22ca0854b434c516e7e7ff2ac18363ee14046",
+      "zh": "在有些人看来，你确实相信气候变化是真的。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2204@84/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2204@67/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2204@66/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2204@62/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2204@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Typical rhetoric from the Donald.",
+      "sha256": "f86e7df2d1532240dd675cf9589cc76cb6671f4aa1b2ad237eb85d7f108601dc",
+      "zh": "这是“那位唐纳德”的典型言辞。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2209@86/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2209@65/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2209@68/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2209@54/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2209@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "People detect a subtle change of position in your stance on Syria.",
+      "sha256": "8d4f6852f38f00b5ef44879a49a2913b9210a485b0475413ad49671e868d77fe",
+      "zh": "人们察觉，你对叙利亚的立场有了微妙变化。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2210@87/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2210@69/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2210@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "This is too much of a 180 on the refugee issue for most people to process.",
+      "sha256": "f1a66091e7e09a82137a6e50513d1b979563b136762dc54f21080225c10a06ea",
+      "zh": "你在难民问题上来了个180度大转弯，多数人难以接受。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2211@88/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2211@70/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2211@62/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "What a ride. Good luck tomorrow!",
+      "sha256": "be110f4758d06566ddc46737dea47067df19c4fbcd55267b67d8587c579721c6",
+      "zh": "这一路真够跌宕起伏。祝你明天好运！",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2220@91/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2221@92/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2222@93/answer_feedback",
+        "2016a_Clinton_Booker/answer_feedback_json/2223@94/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2220@74/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2221@75/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2222@76/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2223@77/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2220@68/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2221@69/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2222@70/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2223@71/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2220@69/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2221@70/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2222@71/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2223@72/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2220@64/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2221@65/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2222@66/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2223@67/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2220@55/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2221@56/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2222@57/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2223@58/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2220@65/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2221@66/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2222@67/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2223@68/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "What was your rationale behind selecting Julian Castro as your running mate?",
+      "sha256": "926ef97fef93a5405419032b242a8bd56398f1c18e593edd0699e26ba7c2fdea",
+      "zh": "你选择朱利安·卡斯特罗作为竞选搭档，理由是什么？",
+      "keys": [
+        "2016a_Clinton_Castro/questions_json/805@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Donald Trump is regularly floating the accusation that Bill Clinton had a male child with an African-American hooker in Little Rock, and that both of you have conspired to bury the story. Do you have any comment?",
+      "sha256": "829facc7c9135e6d15258a835780a93f6bedb3e4eef05c532ecf124d7de61329",
+      "zh": "特朗普不断散布指控，称比尔·克林顿与小石城一名非裔妓女生下了一个男孩，而你们两人串通掩盖这件事。你有何评论？",
+      "keys": [
+        "2016a_Clinton_Castro/questions_json/840@4/description",
+        "2016a_Clinton_Warren/questions_json/840@6/description",
+        "2016a_Clinton_Brown/questions_json/840@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "There has been a coordinated, violent terrorist attack on Berlin today, resulting in the death of at least 100 people. How will you address this?",
+      "sha256": "d6e5ae82abc4f93963326fedfdac01f8088190dab85725d691480a471583d7e5",
+      "zh": "今天，柏林发生了一起协同实施的暴力恐怖袭击，造成至少100人死亡。你会如何回应？",
+      "keys": [
+        "2016a_Clinton_Castro/questions_json/837@10/description",
+        "2016a_Clinton_Brown/questions_json/837@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "To what extent will you make an increase in the minimum wage a key part of your campaign? Do you stand by your commitment to $12/hour?",
+      "sha256": "ea16bfa1f235459a0170cf8caeeb934c1199c28d4b0f545dcd58565a4c79fe64",
+      "zh": "你会在多大程度上，把提高最低工资作为竞选的关键内容？你仍坚持每小时12美元的承诺吗？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1057@9/description",
+        "2016_Clinton_Warren/questions_json/1057@10/description",
+        "2016a_Clinton_Castro/questions_json/794@12/description",
+        "2016a_Clinton_Brown/questions_json/794@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "Do you have plans to emphasize a path to universal health care in your campaign?",
+      "sha256": "44c1f2adee8c3636d323b9136df5b7ddb976907b464b0b53dced1c7126e330e1",
+      "zh": "你打算在竞选中强调迈向全民医疗保障的途径吗？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1065@10/description",
+        "2016_Clinton_Brown/questions_json/1065@12/description",
+        "2016_Clinton_Sanders/questions_json/1065@14/description",
+        "2016a_Clinton_Castro/questions_json/800@16/description",
+        "2016a_Clinton_Brown/questions_json/800@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "Do you stand by your position, voiced during the primaries, that you will not deport any illegal immigrant who has not otherwise committed a crime?",
+      "sha256": "84db61fe7975958cf133378e4f97c185d2a3cc3b0b39875eefd6a1777d72a0ae",
+      "zh": "初选期间，你表示不会遣返没有犯下其他罪行的非法移民；你仍坚持这一立场吗？",
+      "keys": [
+        "2016_Clinton_Sanders/questions_json/1064@11/description",
+        "2016a_Clinton_Castro/questions_json/799@17/description",
+        "2016a_Clinton_Warren/questions_json/799@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "Do you support the practice of fracking? What is your overall view on energy policy?",
+      "sha256": "329b9904f209b6136c4db3baa091cb0278539e82fc466fb5d08fde1559da5396",
+      "zh": "你是否支持水力压裂？你对能源政策的总体看法是什么？",
+      "keys": [
+        "2016a_Clinton_Castro/questions_json/828@19/description",
+        "2016a_Trump_Brown/questions_json/828@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "Do you support the recent nuclear deal between the United States and Iran?",
+      "sha256": "c4139efe7d79594e7338df5e45dc8b0d84e5a36e79aa2bafcb9261e020917abf",
+      "zh": "你是否支持美国与伊朗最近达成的核协议？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1068@16/description",
+        "2016_Clinton_Booker/questions_json/1068@9/description",
+        "2016_Clinton_Sanders/questions_json/1068@15/description",
+        "2016a_Clinton_Castro/questions_json/817@20/description",
+        "2016a_Clinton_Warren/questions_json/817@22/description",
+        "2016a_Trump_Christie/questions_json/817@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "What is your take on the Black Lives Matter movement?",
+      "sha256": "4d75e63f4a38a8a1a7189cc924335d2a10e99311f470f14818c598913eef36d2",
+      "zh": "你如何看待“黑人的命也是命”运动？",
+      "keys": [
+        "2016a_Clinton_Castro/questions_json/831@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "We should focus on defending the Affordable Care Act from the attacks being levied on it.",
+      "sha256": "ca2634aad40e1b485468d6141d3e02afa5e90f25e5502f9a28811b24f1d8e936",
+      "zh": "我们应该把重点放在捍卫《平价医疗法案》、抵御针对它的攻击上。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4632@3/description",
+        "2016a_Clinton_Brown/answers_json/4632@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "I'm going to announce during my acceptance speech that I support a minimum wage of $15 an hour.",
+      "sha256": "b9abb452fb102d34e844838d4039f093bb842544c38922a13ed5ee6b5dabb1ad",
+      "zh": "我会在接受提名的演说中宣布，我支持每小时15美元的最低工资。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4613@25/description",
+        "2016a_Clinton_Brown/answers_json/4613@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "Most Americans want to see an increase in the minimum wage, and I stand by my support for this measure.",
+      "sha256": "aff7aa14d1b2cb6440d639134b625fc75bbc4f9b2fc9ca9b9ca0ef42c4dbcd00",
+      "zh": "多数美国人希望提高最低工资，我仍坚持支持这项措施。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4614@26/description",
+        "2016a_Clinton_Brown/answers_json/4614@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "This is part of my platform, but it won't be a central part of my campaign speeches.",
+      "sha256": "5af198978535d5d4e76c5c5433665aaf18262af080c785845d7a5a9da6a8297e",
+      "zh": "这是我政纲的一部分，但不会成为竞选演说的核心内容。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4615@27/description",
+        "2016a_Clinton_Brown/answers_json/4615@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "I stand by that statement 100 percent. And I will push for immigration reform within my first 100 days as President.",
+      "sha256": "a82be8d61f9bb9c22f56442a810876855c382fed43b4552c102cb84ae764151f",
+      "zh": "我百分之百坚持这项表态。而且，我会在担任总统的头100天内推动移民改革。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4628@34/description",
+        "2016a_Clinton_Warren/answers_json/4628@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

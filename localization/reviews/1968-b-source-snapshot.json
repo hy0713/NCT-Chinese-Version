@@ -1,0 +1,805 @@
+[
+  {
+    "source": "I can't believe we haven't done this yet. How on earth are we supposed to win a war against an insidious enemy with one hand tied behind our back?",
+    "zh": "我不敢相信我们还没有做到这一点。我们到底如何能够单手绑在背后赢得一场针对阴险敌人的战争呢？",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1677@18/description",
+      "1968_Humphrey_Muskie/answers_json/1677@22/description",
+      "1968_Humphrey_Kennedy/answers_json/1677@22/description",
+      "1968_Wallace_Chandler/answers_json/1677@26/description"
+    ]
+  },
+  {
+    "source": "I don't think that kind of escalation is wise. The last thing we need is a regional war. I would stick to our mission of defending South Vietnam and preventing the spread of Communism.",
+    "zh": "我认为这种升级是不明智的。我们最不需要的就是地区战争。我将坚持保卫南越和防止共产主义蔓延的使命。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1678@19/description",
+      "1968_Humphrey_Muskie/answers_json/1678@23/description",
+      "1968_Humphrey_Kennedy/answers_json/1678@23/description",
+      "1968_Wallace_Chandler/answers_json/1678@27/description"
+    ]
+  },
+  {
+    "source": "We should always be wary of the corruption inherent in these large unions. I cannot say that I'm a supporter of the AFL-CIO.",
+    "zh": "我们应该始终警惕这些大型工会固有的腐败现象。我不能说我是美国劳工联合会-产联的支持者。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1685@20/description",
+      "1968_Humphrey_Kennedy/answers_json/1685@28/description",
+      "1968_Wallace_LeMay/answers_json/1685@28/description",
+      "1968_Wallace_Thurmond/answers_json/1685@24/description",
+      "1968_Wallace_Chandler/answers_json/1685@32/description"
+    ]
+  },
+  {
+    "source": "Every man should have a choice on whether to join a union or not. These large outfits monopolize the work force and use their power to perpetrate voter fraud and to enrich their bosses.",
+    "zh": "每个男人都应该选择是否加入工会。这些大型机构垄断了劳动力，并利用其权力进行选民欺诈并为老板谋取利益。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1686@21/description",
+      "1968_Humphrey_Kennedy/answers_json/1686@29/description",
+      "1968_Wallace_LeMay/answers_json/1686@29/description",
+      "1968_Wallace_Thurmond/answers_json/1686@25/description",
+      "1968_Wallace_Chandler/answers_json/1686@33/description"
+    ]
+  },
+  {
+    "source": "The AFL-CIO is a centerpiece of the great American bargain. Our economy can never thrive unless the people who work to keep it going thrive as well. I fully support the AFL-CIO.",
+    "zh": "AFL-CIO 是美国伟大讨价还价的核心。除非那些为经济发展而努力的人们也能蓬勃发展，否则我们的经济永远无法繁荣。我完全支持美国劳工联合会-产联。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1687@22/description",
+      "1968_Humphrey_Kennedy/answers_json/1687@30/description",
+      "1968_Wallace_LeMay/answers_json/1687@30/description",
+      "1968_Wallace_Thurmond/answers_json/1687@26/description",
+      "1968_Wallace_Chandler/answers_json/1687@34/description"
+    ]
+  },
+  {
+    "source": "Israel has every right to these territories they now occupy. They were attacked from all sides by an enemy bent on their destruction.",
+    "zh": "以色列对其现在占领的这些领土拥有一切权利。他们遭到一心要毁灭他们的敌人从四面八方的攻击。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1716@23/description",
+      "1968_Humphrey_Muskie/answers_json/1716@36/description",
+      "1968_Humphrey_Harris/answers_json/1716@37/description"
+    ]
+  },
+  {
+    "source": "As President, I'm confident that all sides can come together and negotiate a long-term peace agreement. Certainly the return of the Sinai or the Golan Heights should not be off the table.",
+    "zh": "作为总统，我相信各方能够齐心协力，谈判达成一项长期和平协议。当然，归还西奈半岛或戈兰高地不应被排除在外。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1717@24/description",
+      "1968_Humphrey_Muskie/answers_json/1717@37/description",
+      "1968_Humphrey_Harris/answers_json/1717@38/description"
+    ]
+  },
+  {
+    "source": "I fully support Israel's right to defend herself. However, I believe that these territories should be returned to the Arab states as a first step towards peace negotiations.",
+    "zh": "我完全支持以色列自卫的权利。然而，我认为这些领土应该归还给阿拉伯国家，作为和平谈判的第一步。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1718@25/description",
+      "1968_Humphrey_Muskie/answers_json/1718@38/description",
+      "1968_Humphrey_Harris/answers_json/1718@39/description"
+    ]
+  },
+  {
+    "source": "This business in Israel is no business of America. I wish them the best, but we should not be obtrusively inserting ourselves into these multilateral peace negotiations. Doing so will only serve to entangle us in the long run.",
+    "zh": "以色列的这项业务不属于美国。我祝愿他们一切顺利，但我们不应该强行介入这些多边和平谈判。这样做从长远来看只会让我们陷入困境。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1719@26/description",
+      "1968_Humphrey_Muskie/answers_json/1719@39/description",
+      "1968_Humphrey_Harris/answers_json/1719@40/description"
+    ]
+  },
+  {
+    "source": "Earl Warren is without a doubt the worst Supreme Court justice in the history of the United States. From <em>Brown v. Board of Education</em> up through the present day, he has been nothing but an agent of tyranny for the federal government.",
+    "zh": "厄尔·沃伦毫无疑问是美国历史上最糟糕的最高法院法官。来自 <em>布朗诉教育委员会案</em> 迄今为止，他只不过是联邦政府的暴政代理人。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1720@27/description",
+      "1968_Nixon_Rockefeller/answers_json/1720@34/description",
+      "1968_Humphrey_Kennedy/answers_json/1720@37/description",
+      "1968_Humphrey_Harris/answers_json/1720@41/description",
+      "1968_Wallace_LeMay/answers_json/1720@40/description",
+      "1968_Wallace_Thurmond/answers_json/1720@34/description"
+    ]
+  },
+  {
+    "source": "On the balance I would not appoint another justice like Mr. Warren. Desegregating our schools was one thing, but he has gone off the deep end on these issues like school prayer, Miranda rights, and other activist decisions.",
+    "zh": "总的来说，我不会任命另一位像沃伦先生这样的法官。废除我们学校的种族隔离是一回事，但他在学校祈祷、米兰达权利和其他激进决定等问题上走得太极端了。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1721@28/description",
+      "1968_Nixon_Rockefeller/answers_json/1721@35/description",
+      "1968_Humphrey_Kennedy/answers_json/1721@38/description",
+      "1968_Humphrey_Harris/answers_json/1721@42/description",
+      "1968_Wallace_LeMay/answers_json/1721@41/description",
+      "1968_Wallace_Thurmond/answers_json/1721@35/description"
+    ]
+  },
+  {
+    "source": "It would be better in some cases if we could get Congress to make these decisions, but I do support the stances Mr. Warren has taken on the Court.",
+    "zh": "在某些情况下，如果我们能让国会做出这些决定会更好，但我确实支持沃伦先生对法院采取的立场。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1722@29/description",
+      "1968_Nixon_Rockefeller/answers_json/1722@36/description",
+      "1968_Humphrey_Kennedy/answers_json/1722@39/description",
+      "1968_Humphrey_Harris/answers_json/1722@43/description",
+      "1968_Wallace_LeMay/answers_json/1722@42/description",
+      "1968_Wallace_Thurmond/answers_json/1722@36/description"
+    ]
+  },
+  {
+    "source": "The Warren Court is the first Supreme Court in history which has had the guts to use constitutional law for the benefit of the common citizen. I will continue to appoint sound judges like Mr. Warren, Abe Fortas, and Thurgood Marshall.",
+    "zh": "沃伦法院是历史上第一个有勇气运用宪法造福普通公民的最高法院。我将继续任命像沃伦、Abe Fortas 和 Thurgood 马歇尔先生这样的优秀法官。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1723@30/description",
+      "1968_Nixon_Rockefeller/answers_json/1723@37/description",
+      "1968_Humphrey_Kennedy/answers_json/1723@40/description",
+      "1968_Humphrey_Harris/answers_json/1723@44/description",
+      "1968_Wallace_LeMay/answers_json/1723@43/description",
+      "1968_Wallace_Thurmond/answers_json/1723@37/description"
+    ]
+  },
+  {
+    "source": "Can we just clarify my position on all of these fancy programs Johnson created? I oppose all of them. That includes HUD which will infringe on the rights of property owners and increase crime in our working class neighborhoods.",
+    "zh": "我们可以澄清我对创建的所有这些花哨程序约翰逊的立场吗？我全部反对。这包括住房和城市发展部（HUD），它将侵犯业主的权利并增加我们工人阶级社区的犯罪率。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1745@31/description",
+      "1968_Nixon_Reagan/answers_json/1745@34/description",
+      "1968_Nixon_Rockefeller/answers_json/1745@53/description",
+      "1968_Nixon_Romney/answers_json/1745@34/description",
+      "1968_Humphrey_Connally/answers_json/1745@44/description"
+    ]
+  },
+  {
+    "source": "I will do my best to ensure that this program is managed soundly and does not become some kind of welfare program without accountability.",
+    "zh": "我会尽力确保这个计划得到妥善管理，不会成为某种没有责任的福利计划。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1746@32/description",
+      "1968_Nixon_Reagan/answers_json/1746@35/description",
+      "1968_Nixon_Rockefeller/answers_json/1746@54/description",
+      "1968_Nixon_Romney/answers_json/1746@35/description",
+      "1968_Humphrey_Connally/answers_json/1746@45/description"
+    ]
+  },
+  {
+    "source": "We need to do everything in our power to ensure that our poorest citizens have affordable housing. The HUD department is a centerpiece of this initiative.",
+    "zh": "我们需要尽一切努力确保我们最贫困的公民拥有负担得起的住房。 HUD 部门是该计划的核心。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1747@33/description",
+      "1968_Nixon_Reagan/answers_json/1747@36/description",
+      "1968_Nixon_Rockefeller/answers_json/1747@55/description",
+      "1968_Nixon_Romney/answers_json/1747@36/description",
+      "1968_Humphrey_Connally/answers_json/1747@46/description"
+    ]
+  },
+  {
+    "source": "The Negro problem apparently wasn't enough for our federal bureaucrats, because they decided to add Mexicans and Orientals to the list as well. I oppose new immigration to this country. ",
+    "zh": "黑人问题显然对我们的联邦官僚来说还不够，因为他们决定将墨西哥人和东方人也添加到名单中。我反对新移民进入这个国家。 ",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1756@34/description",
+      "1968_Nixon_Rockefeller/answers_json/1756@56/description",
+      "1968_Wallace_LeMay/answers_json/1756@48/description",
+      "1968_Wallace_Thurmond/answers_json/1756@57/description"
+    ]
+  },
+  {
+    "source": "We need to be vigilant on the amount of immigration that we allow, but I also agree that we shouldn't restrict the practice based on national origin. In a Cold War world, we need to be mindful of international perceptions.",
+    "zh": "我们需要对允许的移民数量保持警惕，但我也同意我们不应该根据国籍来限制这种做法。在冷战世界中，我们需要留意国际看法。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1757@35/description",
+      "1968_Nixon_Rockefeller/answers_json/1757@57/description",
+      "1968_Wallace_LeMay/answers_json/1757@49/description",
+      "1968_Wallace_Thurmond/answers_json/1757@58/description"
+    ]
+  },
+  {
+    "source": "This is a fair and sensible policy that will allow skilled immigrants to enter the United States. It's ludicrous to state that this will somehow compromise our culture and our values.",
+    "zh": "这是一项公平且明智的政策，将允许技术移民进入美国。说这会在某种程度上损害我们的文化和价值观，这是荒谬的。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1758@36/description",
+      "1968_Nixon_Rockefeller/answers_json/1758@58/description",
+      "1968_Wallace_LeMay/answers_json/1758@50/description",
+      "1968_Wallace_Thurmond/answers_json/1758@59/description"
+    ]
+  },
+  {
+    "source": "Our former immigration policy was a national embarrassment. This country was built by immigrants and my only complaint right now is that the overall number of visas is still far too low for our needs.",
+    "zh": "我们以前的移民政策是全国性的耻辱。这个国家是由移民建立的，我现在唯一的抱怨是签证总数仍然太少，无法满足我们的需求。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1759@37/description",
+      "1968_Nixon_Rockefeller/answers_json/1759@59/description",
+      "1968_Wallace_LeMay/answers_json/1759@51/description",
+      "1968_Wallace_Thurmond/answers_json/1759@60/description"
+    ]
+  },
+  {
+    "source": "This increase in crime we see is the natural consequence of integration. I will not allow the black community in this country to get fancified notions of what they can get away with when I'm President.",
+    "zh": "我们看到的犯罪增加是一体化的自然结果。我不会允许这个国家的黑人社区对我担任总统时可以做的事情抱有幻想。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1760@38/description",
+      "1968_Nixon_Reagan/answers_json/1760@41/description",
+      "1968_Nixon_Romney/answers_json/1760@45/description",
+      "1968_Humphrey_Muskie/answers_json/1760@44/description",
+      "1968_Wallace_LeMay/answers_json/1760@52/description",
+      "1968_Wallace_Chandler/answers_json/1760@62/description"
+    ]
+  },
+  {
+    "source": "We have a system in place that gives precedence to the rights of criminals over law-abiding citizens. I will take a firm stand on this issue as President.",
+    "zh": "我们有一个制度，使罪犯的权利优先于守法公民。作为总统，我将在这个问题上采取坚定的立场。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1761@39/description",
+      "1968_Nixon_Reagan/answers_json/1761@42/description",
+      "1968_Nixon_Romney/answers_json/1761@46/description",
+      "1968_Humphrey_Muskie/answers_json/1761@45/description",
+      "1968_Wallace_LeMay/answers_json/1761@53/description",
+      "1968_Wallace_Chandler/answers_json/1761@63/description"
+    ]
+  },
+  {
+    "source": "We need to improve our policing practices, prevent riots and disorder, and also address the underlying economic causes that spread dissatisfaction with the status quo.",
+    "zh": "我们需要改进我们的警务实践，防止骚乱和骚乱，并解决传播对现状不满的根本经济原因。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1762@40/description",
+      "1968_Nixon_Reagan/answers_json/1762@43/description",
+      "1968_Nixon_Romney/answers_json/1762@47/description",
+      "1968_Humphrey_Muskie/answers_json/1762@46/description",
+      "1968_Wallace_LeMay/answers_json/1762@54/description",
+      "1968_Wallace_Chandler/answers_json/1762@64/description"
+    ]
+  },
+  {
+    "source": "There is a cynicism in our poorest neighborhoods engendered by poverty and by the brutality of the police. I will vigorously address both of these issues when I'm elected.",
+    "zh": "在我们最贫困的社区中，由于贫困和警察的暴行而产生了一种愤世嫉俗的情绪。当我当选后，我将积极解决这两个问题。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1763@41/description",
+      "1968_Nixon_Reagan/answers_json/1763@44/description",
+      "1968_Nixon_Romney/answers_json/1763@48/description",
+      "1968_Humphrey_Muskie/answers_json/1763@47/description",
+      "1968_Wallace_LeMay/answers_json/1763@55/description",
+      "1968_Wallace_Chandler/answers_json/1763@65/description"
+    ]
+  },
+  {
+    "source": "I don't think anyone opposes the idea of providing milk to our poor kids. My contention, however, is that the state and local governments are more in tune with their needs than some bureaucrats in Washington.",
+    "zh": "我想，没人反对给贫困儿童提供牛奶。但我的观点是，相较于华盛顿的一些官僚，州和地方政府更了解这些孩子的需要。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1774@42/description",
+      "1968_Nixon_Rockefeller/answers_json/1774@60/description",
+      "1968_Nixon_Romney/answers_json/1774@56/description",
+      "1968_Wallace_Thurmond/answers_json/1774@65/description"
+    ]
+  },
+  {
+    "source": "This is a sensible piece of legislation. I support it and I think that every decent American supports it too.",
+    "zh": "这是一项明智的立法。我支持它，我认为每一个正派的美国人也都支持它。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1775@43/description",
+      "1968_Nixon_Rockefeller/answers_json/1775@61/description",
+      "1968_Nixon_Romney/answers_json/1775@57/description",
+      "1968_Wallace_Thurmond/answers_json/1775@66/description"
+    ]
+  },
+  {
+    "source": "The Black Panthers are a radical group of militants who are plotting the overthrow of the United States government. It is my firm position, in accordance with the Constitution, that anyone planning treason against our country should be imprisoned and possibly executed.",
+    "zh": "黑豹党是一个激进的武装分子组织，他们正在密谋推翻美国政府。我的坚定立场是，根据宪法，任何计划叛国的人都应该被监禁，甚至可能被处决。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1776@44/description",
+      "1968_Nixon_Rockefeller/answers_json/1776@62/description",
+      "1968_Humphrey_Muskie/answers_json/1776@51/description",
+      "1968_Wallace_LeMay/answers_json/1776@59/description"
+    ]
+  },
+  {
+    "source": "I support a fair shake for every American. I support programs that help black businesses. I support desegregation. I oppose groups like the Black Panthers that have contributed to the rioting and chaos that has swept the nation these past three years.",
+    "zh": "我支持为每个美国人提供公平的待遇。我支持帮助黑人企业的计划。我支持废除种族隔离。我反对像黑豹党这样的团体，他们在过去三年里助长了席卷全国的骚乱和混乱。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1777@45/description",
+      "1968_Nixon_Rockefeller/answers_json/1777@63/description",
+      "1968_Humphrey_Muskie/answers_json/1777@52/description",
+      "1968_Wallace_LeMay/answers_json/1777@60/description"
+    ]
+  },
+  {
+    "source": "Our goal is a society that works for everyone. The Black Panthers have instigated some ugly incidents, and I believe on the balance that they have done more harm than good for the cause of integration.",
+    "zh": "我们的目标是建立一个为所有人服务的社会。黑豹党煽动了一些丑恶事件，我认为总的来说，他们对融合事业弊大于利。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1778@46/description",
+      "1968_Nixon_Rockefeller/answers_json/1778@64/description",
+      "1968_Humphrey_Muskie/answers_json/1778@53/description",
+      "1968_Wallace_LeMay/answers_json/1778@61/description"
+    ]
+  },
+  {
+    "source": "How these students have not been expelled is beyond me. If Administrators want to be complicit in the degradation of a private university, that is their own business. However, I won't spend a dime of federal money on a school that coddles radical agitators.",
+    "zh": "我不明白这些学生怎么没有被开除。如果管理者想成为私立大学堕落的同谋，那是他们自己的事。然而，我不会花一毛钱联邦资金在一所纵容激进煽动者的学校上。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1779@47/description",
+      "1968_Nixon_Reagan/answers_json/1779@52/description",
+      "1968_Nixon_Romney/answers_json/1779@58/description",
+      "1968_Humphrey_Kennedy/answers_json/1779@64/description",
+      "1968_Humphrey_Harris/answers_json/1779@54/description",
+      "1968_Wallace_LeMay/answers_json/1779@62/description",
+      "1968_Wallace_Thurmond/answers_json/1779@67/description"
+    ]
+  },
+  {
+    "source": "I will crack down on dope-smoking, homosexuality, LSD binging, illegal protesting, and flag-burning. These practices are the tools of left-wingers and Communists who wish to undermine our society.",
+    "zh": "我将严厉打击吸毒、同性恋、迷幻药、非法抗议和焚烧国旗。这些做法是左翼分子和共产党人想要破坏我们社会的工具。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1780@48/description",
+      "1968_Nixon_Reagan/answers_json/1780@53/description",
+      "1968_Nixon_Romney/answers_json/1780@59/description",
+      "1968_Humphrey_Kennedy/answers_json/1780@65/description",
+      "1968_Humphrey_Harris/answers_json/1780@55/description",
+      "1968_Wallace_LeMay/answers_json/1780@63/description",
+      "1968_Wallace_Thurmond/answers_json/1780@68/description"
+    ]
+  },
+  {
+    "source": "There are some legitimate complaints behind these abhorrent actions. I will work for peace in Vietnam and civil rights in the United States. In the meantime, I support the rights of university administrators as they combat this problem.",
+    "zh": "这些令人憎恶的行为背后有一些合理的投诉。我将为越南和美国的民权和平而努力。与此同时，我支持大学管理人员解决这个问题的权利。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1781@49/description",
+      "1968_Nixon_Reagan/answers_json/1781@54/description",
+      "1968_Nixon_Romney/answers_json/1781@60/description",
+      "1968_Humphrey_Kennedy/answers_json/1781@66/description",
+      "1968_Humphrey_Harris/answers_json/1781@56/description",
+      "1968_Wallace_LeMay/answers_json/1781@64/description",
+      "1968_Wallace_Thurmond/answers_json/1781@69/description"
+    ]
+  },
+  {
+    "source": "The unemployment rate won't stay low for long if we continue to pass new regulations on housing, mining, and industrial concerns. I speak for the working man when I say that we need to get the federal government out of these areas.",
+    "zh": "如果我们继续通过有关住房、采矿和工业问题的新法规，失业率不会长期保持在低位。当我说我们需要让联邦政府撤出这些地区时，我代表工人。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1788@50/description",
+      "1968_Nixon_Rockefeller/answers_json/1788@65/description",
+      "1968_Wallace_LeMay/answers_json/1788@65/description"
+    ]
+  },
+  {
+    "source": "We are keeping the unemployment rate artificially depressed with unsound fiscal and monetary policies. In the long-run, this will lead to a poor economy and higher unemployment.",
+    "zh": "我们通过不健全的财政和货币政策人为压低失业率。从长远来看，这将导致经济低迷和失业率上升。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1789@51/description",
+      "1968_Nixon_Rockefeller/answers_json/1789@66/description",
+      "1968_Wallace_LeMay/answers_json/1789@66/description"
+    ]
+  },
+  {
+    "source": "Democratic management of the economy these past eight years has been a clear success. I will continue to protect our unions and support the economy with smart government action.",
+    "zh": "过去八年对经济的民主管理取得了明显的成功。我将继续通过明智的政府行动保护我们的工会并支持经济。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1790@52/description",
+      "1968_Nixon_Rockefeller/answers_json/1790@67/description",
+      "1968_Wallace_LeMay/answers_json/1790@67/description"
+    ]
+  },
+  {
+    "source": "There is far more we can do. Jobs training programs and a continued fight against discrimination will ensure that all Americans can share in the low unemployment rate.",
+    "zh": "我们能做的还有很多。就业培训计划和持续打击歧视将确保所有美国人都能分享低失业率的成果。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1791@53/description",
+      "1968_Nixon_Rockefeller/answers_json/1791@68/description",
+      "1968_Wallace_LeMay/answers_json/1791@68/description"
+    ]
+  },
+  {
+    "source": "International trade will undermine the prosperity of the working man as quickly as it will undermine the sovereignty of the United States. I don't support any of these global organizations.",
+    "zh": "国际贸易将损害工人的繁荣，就像它损害美国的主权一样快。我不支持任何这些全球组织。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1792@54/description",
+      "1968_Nixon_Rockefeller/answers_json/1792@69/description",
+      "1968_Nixon_Romney/answers_json/1792@65/description",
+      "1968_Humphrey_Kennedy/answers_json/1792@67/description",
+      "1968_Humphrey_Connally/answers_json/1792@60/description",
+      "1968_Humphrey_Harris/answers_json/1792@63/description",
+      "1968_Wallace_LeMay/answers_json/1792@69/description",
+      "1968_Wallace_Thurmond/answers_json/1792@70/description",
+      "1968_Wallace_Chandler/answers_json/1792@66/description"
+    ]
+  },
+  {
+    "source": "I support the overall thrust of this policy. Foreign trade supports our Cold War allies, reduces the cost of goods in America, and supports a broader economic prosperity.",
+    "zh": "我支持这项政策的总体主旨。对外贸易支持我们的冷战盟友，降低美国的商品成本，并支持更广泛的经济繁荣。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1793@55/description",
+      "1968_Nixon_Rockefeller/answers_json/1793@70/description",
+      "1968_Nixon_Romney/answers_json/1793@66/description",
+      "1968_Humphrey_Kennedy/answers_json/1793@68/description",
+      "1968_Humphrey_Connally/answers_json/1793@61/description",
+      "1968_Humphrey_Harris/answers_json/1793@64/description",
+      "1968_Wallace_LeMay/answers_json/1793@70/description",
+      "1968_Wallace_Thurmond/answers_json/1793@71/description",
+      "1968_Wallace_Chandler/answers_json/1793@67/description"
+    ]
+  },
+  {
+    "source": "I support these international trade negotiations, but we must be sure that we don't undermine the rights of our own unions with one-sided agreements.",
+    "zh": "我支持这些国际贸易谈判，但我们必须确保我们不会通过片面协议损害我们自己工会的权利。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1794@56/description",
+      "1968_Nixon_Rockefeller/answers_json/1794@71/description",
+      "1968_Nixon_Romney/answers_json/1794@67/description",
+      "1968_Humphrey_Kennedy/answers_json/1794@69/description",
+      "1968_Humphrey_Connally/answers_json/1794@62/description",
+      "1968_Humphrey_Harris/answers_json/1794@65/description",
+      "1968_Wallace_LeMay/answers_json/1794@71/description",
+      "1968_Wallace_Thurmond/answers_json/1794@72/description",
+      "1968_Wallace_Chandler/answers_json/1794@68/description"
+    ]
+  },
+  {
+    "source": "The War on Poverty is a national disgrace. It is a program that steals from the productive to finance the lazy and the shiftless.",
+    "zh": "向贫困宣战是国家耻辱。这是一个从生产力中窃取资金来资助懒惰和无能者的计划。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1795@57/description",
+      "1968_Nixon_Reagan/answers_json/1795@61/description",
+      "1968_Humphrey_Muskie/answers_json/1795@58/description",
+      "1968_Humphrey_Harris/answers_json/1795@66/description"
+    ]
+  },
+  {
+    "source": "We need to focus less on handouts and more on encouraging initiative among our black and ethnic business owners. They will build the prosperity in our inner cities. I will analyze the War on Poverty on a program-by-program basis and cut those which are unnecessary.",
+    "zh": "我们需要减少对施舍的关注，而更多地关注鼓励黑人和少数族裔企业主的主动性。他们将建设我们内城的繁荣。我将逐个程序地分析向贫困宣战，并删除那些不需要的。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1796@58/description",
+      "1968_Nixon_Reagan/answers_json/1796@62/description",
+      "1968_Humphrey_Muskie/answers_json/1796@59/description",
+      "1968_Humphrey_Harris/answers_json/1796@67/description"
+    ]
+  },
+  {
+    "source": "I support the War on Poverty as it stands. We have passed a lot of new initiatives and we should wait to see what effect they have. To me, cracking down on the law and order issues is more important.",
+    "zh": "我支持向贫困宣战的现状。我们已经通过了很多新举措，我们应该拭目以待，看看它们会产生什么效果。对我来说，打击法律与秩序问题更为重要。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1797@59/description",
+      "1968_Nixon_Reagan/answers_json/1797@63/description",
+      "1968_Humphrey_Muskie/answers_json/1797@60/description",
+      "1968_Humphrey_Harris/answers_json/1797@68/description"
+    ]
+  },
+  {
+    "source": "We are the greatest nation on earth and we cannot rest until every citizen has an opportunity to share in that prosperity.",
+    "zh": "我们是地球上最伟大的国家，除非每个公民都有机会分享这种繁荣，否则我们不能休息。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/1798@60/description",
+      "1968_Nixon_Reagan/answers_json/1798@64/description",
+      "1968_Humphrey_Muskie/answers_json/1798@61/description",
+      "1968_Humphrey_Harris/answers_json/1798@69/description"
+    ]
+  },
+  {
+    "source": "I am the true conservative in this election. I support free enterprise, a hard line against Communism, and a devolution of responsibilities to the state governments.",
+    "zh": "这次选举我是真正的保守派。我支持自由企业、反对共产主义的强硬路线以及将责任下放给州政府。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3227@61/description",
+      "1968_Nixon_Reagan/answers_json/3227@65/description",
+      "1968_Nixon_Rockefeller/answers_json/3227@72/description",
+      "1968_Nixon_Romney/answers_json/3227@68/description"
+    ]
+  },
+  {
+    "source": "My primary focus is to return law and order to this country. The riots, the murders, the drug use, and the protests we've seen since 1965 are unacceptable.",
+    "zh": "我的首要任务是让法律与秩序返回这个国家。自 1965 年以来我们所看到的骚乱、谋杀、吸毒和抗议都是不可接受的。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3228@62/description",
+      "1968_Nixon_Reagan/answers_json/3228@66/description",
+      "1968_Nixon_Rockefeller/answers_json/3228@73/description",
+      "1968_Nixon_Romney/answers_json/3228@69/description"
+    ]
+  },
+  {
+    "source": "Lyndon Johnson has created more programs and agencies than any President except for FDR. I will act more in line with the wishes of the American people.",
+    "zh": "林登·约翰逊创建的计划和机构比除富兰克林·罗斯福之外的任何总统都多。我会更加符合美国人民的意愿。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3229@63/description",
+      "1968_Nixon_Reagan/answers_json/3229@67/description",
+      "1968_Nixon_Rockefeller/answers_json/3229@74/description",
+      "1968_Nixon_Romney/answers_json/3229@70/description"
+    ]
+  },
+  {
+    "source": "I am not a radical like Goldwater. I am a pragmatic, moderate problem-solver who will tackle the challenges of inflation and disorder with even-handedness.",
+    "zh": "我不像戈德华特那样激进。我是一个务实、温和的问题解决者，将不偏不倚地应对通货膨胀和混乱的挑战。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3230@64/description",
+      "1968_Nixon_Reagan/answers_json/3230@68/description",
+      "1968_Nixon_Rockefeller/answers_json/3230@75/description",
+      "1968_Nixon_Romney/answers_json/3230@71/description"
+    ]
+  },
+  {
+    "source": "The Vietnam War and the disorder in this country shows that our leadership has failed. I will work for American enterprise, end the war with honor, and end the violence in the streets.",
+    "zh": "越南战争和这个国家的混乱表明我们的领导失败了。我将为美国企业工作，光荣地结束战争，结束街头暴力。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3231@65/description",
+      "1968_Nixon_Reagan/answers_json/3231@69/description",
+      "1968_Nixon_Rockefeller/answers_json/3231@76/description",
+      "1968_Nixon_Romney/answers_json/3231@72/description"
+    ]
+  },
+  {
+    "source": "The actions of Lyndon Johnson since 1964 are exactly what Goldwater warned us about. The American people are ready to reconsider the message of true conservatism.",
+    "zh": "自 1964 年以来林登·约翰逊的行为正是戈德华特警告我们的。美国人民准备重新考虑真正保守主义的信息。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3232@66/description",
+      "1968_Nixon_Reagan/answers_json/3232@70/description",
+      "1968_Nixon_Rockefeller/answers_json/3232@77/description",
+      "1968_Nixon_Romney/answers_json/3232@73/description"
+    ]
+  },
+  {
+    "source": "I will praise Johnson's social programs like Medicare, while also lamenting the disorder in the streets. I will pledge to work with Democrats to find common ground at home and to end the war in Vietnam.",
+    "zh": "我会赞扬约翰逊像联邦医疗保险一样的社会项目，同时也会感叹街道上的混乱。我将承诺与民主党合作，在国内找到共同点并结束越南战争。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3233@67/description",
+      "1968_Nixon_Reagan/answers_json/3233@71/description",
+      "1968_Nixon_Rockefeller/answers_json/3233@78/description",
+      "1968_Nixon_Romney/answers_json/3233@74/description"
+    ]
+  },
+  {
+    "source": "I will focus most of my speech on the need to win in Vietnam. I will promise the American people that with more aggressive action, we can end the war there and bring our troops home.",
+    "zh": "我演讲的大部分内容将重点放在在越南获胜的必要性上。我将向美国人民保证，通过采取更积极的行动，我们可以结束那里的战争，并将我们的军队带回家。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3234@68/description",
+      "1968_Nixon_Reagan/answers_json/3234@72/description",
+      "1968_Nixon_Rockefeller/answers_json/3234@79/description",
+      "1968_Nixon_Romney/answers_json/3234@75/description"
+    ]
+  },
+  {
+    "source": "We want to compete in every southern state. I will run to the right of Wallace on economic issues while lamenting the interference of the federal government in education and housing.",
+    "zh": "我们要在南方每个州争取胜利。我将在经济问题上采取比华莱士更右的立场，同时批评联邦政府干预教育和住房事务。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3235@69/description",
+      "1968_Nixon_Reagan/answers_json/3235@73/description",
+      "1968_Humphrey_Muskie/answers_json/3235@62/description"
+    ]
+  },
+  {
+    "source": "We'll win some states and lose some states in the South. I will campaign elsewhere in the country and ignore racial issues as much as possible.",
+    "zh": "我们将赢得南方的一些州并失去一些州。我将在全国其他地方竞选，并尽可能忽视种族问题。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3236@70/description",
+      "1968_Nixon_Reagan/answers_json/3236@74/description"
+    ]
+  },
+  {
+    "source": "By staking the middle ground between Wallace and Humphrey on racial issues, I will split them apart and win a national majority.",
+    "zh": "通过在种族问题上在华莱士和汉弗莱之间采取中间立场，我将分裂他们并赢得全国多数。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3237@71/description",
+      "1968_Nixon_Reagan/answers_json/3237@75/description"
+    ]
+  },
+  {
+    "source": "I will make it a point to disavow racial divisiveness as I travel, lest there be any doubt of my stance. We can solidly defeat Humphrey outside of the South and win a mandate for real governance.",
+    "zh": "我将在旅行时强调否认种族分歧，以免我的立场受到任何怀疑。我们可以在南方之外坚定地击败汉弗莱，并赢得真正治理的授权。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3238@72/description",
+      "1968_Nixon_Reagan/answers_json/3238@76/description"
+    ]
+  },
+  {
+    "source": "Ronald Reagan and I do not agree on every issue. I trust that he will work for the team in 1968 if he wants a future in the Republican Party.",
+    "zh": "罗纳德·里根我并不在每个问题上都达成一致。我相信如果他想在共和党拥有未来，他会在 1968 年为球队工作。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3239@73/description"
+    ]
+  },
+  {
+    "source": "Reagan and I have real common ground on the law and order issue. I will remind him of this when we discuss our politics.",
+    "zh": "里根和我在法律与秩序问题上有真正的共同点。当我们讨论我们的政治时，我会提醒他这一点。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3240@74/description"
+    ]
+  },
+  {
+    "source": "The Republican Party will always stand for free enterprise and common-sense solutions. I am conservative just the same as Ronald Reagan is.",
+    "zh": "共和党将始终代表自由企业和常识性解决方案。我和罗纳德·里根一样保守。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3241@75/description"
+    ]
+  },
+  {
+    "source": "We have involved Ronald Reagan extensively in our campaign. I think that is clear for anyone to see.",
+    "zh": "我们广泛参与了罗纳德·里根我们的活动。我想这对任何人来说都是显而易见的。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3242@76/description"
+    ]
+  },
+  {
+    "source": "I refuse to condone this kind of a plan. I have limits on what I will do to win an election.",
+    "zh": "我拒绝宽恕这种计划。我对赢得选举所做的事情有限制。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3243@77/description",
+      "1968_Nixon_Reagan/answers_json/3243@77/description",
+      "1968_Nixon_Rockefeller/answers_json/3243@80/description",
+      "1968_Nixon_Romney/answers_json/3243@76/description"
+    ]
+  },
+  {
+    "source": "This will guarantee victory for us if successful. Let's roll the dice.",
+    "zh": "如果成功的话，这将保证我们的胜利。让我们掷骰子吧。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3244@78/description",
+      "1968_Nixon_Agnew/answers_json/3245@79/description",
+      "1968_Nixon_Agnew/answers_json/3246@80/description",
+      "1968_Nixon_Reagan/answers_json/3244@78/description",
+      "1968_Nixon_Reagan/answers_json/3245@79/description",
+      "1968_Nixon_Reagan/answers_json/3246@80/description",
+      "1968_Nixon_Rockefeller/answers_json/3244@81/description",
+      "1968_Nixon_Rockefeller/answers_json/3245@82/description",
+      "1968_Nixon_Rockefeller/answers_json/3246@83/description",
+      "1968_Nixon_Romney/answers_json/3244@77/description",
+      "1968_Nixon_Romney/answers_json/3245@78/description",
+      "1968_Nixon_Romney/answers_json/3246@79/description"
+    ]
+  },
+  {
+    "source": "We can't have the American people saying that I'm afraid to debate Hubert Humphrey. Let's do it.",
+    "zh": "我们不能让美国人民说我害怕与休伯特辩论汉弗莱。我们开始做吧。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3247@81/description",
+      "1968_Nixon_Agnew/answers_json/3248@82/description",
+      "1968_Nixon_Agnew/answers_json/3249@83/description",
+      "1968_Nixon_Reagan/answers_json/3247@81/description",
+      "1968_Nixon_Reagan/answers_json/3248@82/description",
+      "1968_Nixon_Reagan/answers_json/3249@83/description",
+      "1968_Nixon_Rockefeller/answers_json/3247@84/description",
+      "1968_Nixon_Rockefeller/answers_json/3248@85/description",
+      "1968_Nixon_Rockefeller/answers_json/3249@86/description",
+      "1968_Nixon_Romney/answers_json/3247@80/description",
+      "1968_Nixon_Romney/answers_json/3248@81/description",
+      "1968_Nixon_Romney/answers_json/3249@82/description"
+    ]
+  },
+  {
+    "source": "I won't risk a debate with Humphrey. We can defeat him without one.",
+    "zh": "我不会冒险与汉弗莱辩论。我们无需任何人就可以击败他。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3250@84/description",
+      "1968_Nixon_Reagan/answers_json/3250@84/description",
+      "1968_Nixon_Rockefeller/answers_json/3250@87/description",
+      "1968_Nixon_Romney/answers_json/3250@83/description"
+    ]
+  },
+  {
+    "source": "If we want to scoop up some states in the South, we can't say anything too agressive about racial issues. Let's just focus on Humphrey for now.",
+    "zh": "如果我们想抢占南方的一些州，我们就不能在种族问题上说太激进的话。现在我们只关注汉弗莱。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3259@85/description"
+    ]
+  },
+  {
+    "source": "We need to remind voters that Wallace is still a Democrat, and that his goal is to throw the election to the House.",
+    "zh": "我们需要提醒选民，华莱士仍然是民主党人，他的目标是将选举交给众议院。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3260@86/description"
+    ]
+  },
+  {
+    "source": "Doesn't this hurt Humphrey more than it does myself? Wallace's support amongst union voters in the North helps our campaign.",
+    "zh": "这对汉弗莱的伤害是不是比我自己还要大？华莱士北方工会选民的支持有助于我们的竞选活动。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3261@87/description"
+    ]
+  },
+  {
+    "source": "In a prime-time national speech, I will directly address the candidacy of Mr. Wallace and appeal to the better nature of our union voters.",
+    "zh": "在黄金时段的全国演讲中，我将直接谈论华莱士先生的候选资格，并呼吁我们工会选民的善良本性。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3262@88/description",
+      "1968_Humphrey_Muskie/answers_json/3262@77/description"
+    ]
+  },
+  {
+    "source": "I'm just going to run my campaign and whatever happens with those two will happen.",
+    "zh": "我只是要开展我的竞选活动，无论这两个人发生什么，都会发生。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3292@89/description",
+      "1968_Nixon_Reagan/answers_json/3292@88/description",
+      "1968_Nixon_Romney/answers_json/3292@87/description",
+      "1968_Humphrey_Muskie/answers_json/3292@92/description",
+      "1968_Humphrey_Kennedy/answers_json/3292@89/description",
+      "1968_Humphrey_Connally/answers_json/3292@84/description",
+      "1968_Humphrey_Harris/answers_json/3292@85/description"
+    ]
+  },
+  {
+    "source": "We shall certianly be campaigning in the South to some extent. We can't just concede the entire region to Wallace.",
+    "zh": "我们肯定会在某种程度上在南方开展竞选活动。我们不能将整个地区让给华莱士。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3293@90/description",
+      "1968_Nixon_Reagan/answers_json/3293@89/description",
+      "1968_Nixon_Rockefeller/answers_json/3293@89/description",
+      "1968_Nixon_Romney/answers_json/3293@88/description"
+    ]
+  },
+  {
+    "source": "Humphrey is our main opponent in key states, such as Ohio, Illinois, and California. We must focus on campaigning against him in these key states, or else, god forbid, Wallace actually deadlocks the Electoral College.",
+    "zh": "汉弗莱是我们在关键州的主要对手，例如俄亥俄州、伊利诺伊州和加利福尼亚州。我们必须集中精力在这些关键州开展针对他的竞选活动，否则，上帝保佑，华莱士实际上会使选举人团陷入僵局。",
+    "keys": [
+      "1968_Nixon_Agnew/answers_json/3294@91/description",
+      "1968_Nixon_Reagan/answers_json/3294@90/description",
+      "1968_Nixon_Rockefeller/answers_json/3294@90/description",
+      "1968_Nixon_Romney/answers_json/3294@89/description"
+    ]
+  },
+  {
+    "source": "You do want to make appeals to the conservative base, but Medicare is a very popular program. Perhaps another issue would be better for this kind of thing.",
+    "zh": "你确实需要争取保守派基本盘，但联邦医疗保险是一项深受欢迎的政策。要讨好保守派，或许该换个议题。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/652@0/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/652@0/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/652@0/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/652@0/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/652@3/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/652@3/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/652@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Republicans did not nominate you so that you could go on the trail and talk about socializing the health care system.",
+    "zh": "共和党提名您并不是为了让您能够继续讨论医疗保健系统的社会化。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/653@1/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/653@1/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/653@1/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/653@1/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/653@4/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/653@4/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/653@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "It may be a hard sell, but you need to make the case that <em>something</em> is wrong with the economy. After all, the Democrats have controlled everything for eight years now.",
+    "zh": "这可能很难推销，但你需要证明这一点 <em>一些东西</em> 经济是错误的。毕竟，民主党已经控制一切八年了。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/654@2/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/654@2/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/654@2/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/654@2/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/654@5/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/654@5/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/654@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Economists agree that you have staked out a position on the liberal fringe of the economic debate.",
+    "zh": "经济学家一致认为，您在经济辩论的自由主义边缘表明了立场。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/655@3/answer_feedback",
+      "1968_Nixon_Agnew/answer_feedback_json/682@25/answer_feedback",
+      "1968_Nixon_Agnew/answer_feedback_json/704@27/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/655@3/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/682@24/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/704@26/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/655@3/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/682@22/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/704@24/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/655@3/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/682@22/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/704@24/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/655@6/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/682@15/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/704@23/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/655@6/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/682@15/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/704@23/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/655@6/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/682@15/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/704@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your principles are admirable, but you're in danger of sounding like Goldwater in '64.",
+    "zh": "你的原则令人钦佩，但你有听起来像 64 年的戈德华特的危险。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/656@4/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/656@4/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/656@4/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/656@4/answer_feedback"
+    ]
+  }
+]

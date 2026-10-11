@@ -1,0 +1,871 @@
+[
+  {
+    "source": "<p>President Gerald Ford attempts to win election to office after replacing Richard Nixon in 1974, and narrowly defeating Ronald Reagan for the Republican nomination. Jimmy Carter is a new face on the national scene, having served as Governor of Georgia. He will make the case that the nation needs new blood after the scandals of the Nixon era. Both candidates are seen as moderate by the standards of their party. The battleground states are in the West, the Midwest, and the Northeast.</p>",
+    "zh": "<p>杰拉尔德·福特总统于1974年接替理查德·尼克松，随后险胜罗纳德·里根，获得共和党提名。如今，他希望通过选举正式赢得总统职位。曾任佐治亚州州长的吉米·卡特是全国政坛的新面孔。他将强调，经历尼克松时代的丑闻后，美国需要新鲜血液。按各自党内的标准，两人都属于温和派。主要战场位于西部、中西部和东北部。</p>",
+    "keys": [
+      "base/election_json/10@6/summary"
+    ]
+  },
+  {
+    "source": "<p>Jimmy Carter has served as Governor of Georgia for one term, and has never held an elected office in Washington. In an era of public disgust with Watergate, Vietnam, and the economy, Carter has used his outsider status to win the Democratic nomination. He is an outspoken Southern Baptist, and a moderate within the party on social and economic issues. He begins with an early lead in the polls against Gerald Ford.</p>",
+    "zh": "<p>吉米·卡特做过一届佐治亚州州长，从未在华盛顿担任民选公职。公众厌恶水门事件、越南战争和糟糕的经济，卡特借助政坛局外人的身份赢得了民主党提名。他公开信奉美南浸信会，在党内的社会与经济议题上属于温和派。竞选初期，他在民调中领先于杰拉尔德·福特。</p>",
+    "keys": [
+      "base/candidate_json/91@73/description"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1976 Presidential Election.</h3><p>Hopefully you can make good on your promises to clean up Washington and change the political and moral culture of the country. If you are successful, there is no reason you cannot run for reelection in 1980. Just be wary of any economic problems, or of some foreign policy crisis that could dent your popularity.</p>",
+    "zh": "<h3>恭喜！您赢得了 1976 年总统选举。</h3><p>但愿你能兑现承诺，整顿华盛顿政坛，改变这个国家的政治与道德风气。如果做得成功，你完全可以在1980年争取连任。只是要留意经济问题，以及可能损害你声望的外交危机。</p>",
+    "keys": [
+      "base/candidate_json/91@73/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1976 Presidential Election.</h3><p>As an outsider candidate, this was really your moment to make an impact on American politics and to win a national election. The beltway gossip already has it that Ted Kennedy is the frontrunner for the 1980 nomination. Perhaps you can run again for Governor of Georgia, or make an impact in some other way.</p>",
+    "zh": "<h3>抱歉，您在 1976 年总统选举中失败了。</h3><p>作为一名局外候选人，这确实是你对美国政治产生影响并赢得全国大选的时刻。环城高速的传闻已经表明特德·肯尼迪是 1980 年提名的领跑者。也许你可以再次竞选佐治亚州州长，或者以其他方式产生影响。</p>",
+    "keys": [
+      "base/candidate_json/91@73/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Wow! You have won in a squeaker.</h3><p>While the Electoral College ended in a tie, the Democrats have a huge advantage in the House of Representatives and are sure to elect you in that manner. Hopefully the closeness of this election doesn't undermine your promises to clean up Washington and unite the people of this country.</p>",
+    "zh": "<h3>哇！你在吱吱声中获胜了。</h3><p>虽然选举人团投票打成平局，民主党在众议院拥有巨大优势，肯定会通过众议院选举让你当选。但愿这场选举的胶着，不会损害你整顿华盛顿政坛、团结美国人民的承诺。</p>",
+    "keys": [
+      "base/candidate_json/91@73/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1976 Presidential Election.</h3><p>Hopefully you can continue to help the United States recover from the Watergate Scandal, the recent recession, and the debacle of Vietnam. In either case, this will be your final term as President. Speculation is sure to be intense on who will replace you. Will it be Ronald Reagan? Ted Kennedy? Or someone else entirely?</p>",
+    "zh": "<h3>恭喜！您赢得了 1976 年总统选举。</h3><p>希望您能继续帮助美国从水门事件丑闻、最近的经济衰退和越南的崩溃中恢复过来。无论哪种情况，这都将是您作为总统的最后一个任期。关于谁将取代你的猜测肯定会很激烈。会是罗纳德·里根吗？特德·肯尼迪？还是完全是别人？</p>",
+    "keys": [
+      "base/candidate_json/92@74/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1976 Presidential Election.</h3><p>Hopefully your opponent can make good on his promises to clean up Washington and change the political and moral culture of the country. Perhaps you can still play a role in 1980, or seek your old Congressional leadership positions. In any case, you can still take solace in the fact that you did the right thing by pardoning Nixon and moving the country beyond the Watergate episode.</p>",
+    "zh": "<h3>抱歉，您在 1976 年总统选举中失败了。</h3><p>但愿你的对手能兑现承诺，整顿华盛顿政坛，改变这个国家的政治与道德风气。或许你在1980年仍能发挥作用，或者谋求重返原来的国会领导职位。无论如何，你仍可以宽慰自己：赦免尼克松、让国家走出水门事件的阴影，是正确的决定。</p>",
+    "keys": [
+      "base/candidate_json/92@74/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1976 Presidential Election.</h3><p>While the Electoral College ended in a tie, the Democrats have a huge advantage in the House of Representatives and are sure to elect your opponent in that manner. Perhaps you can still play a role in 1980, or seek your old Congressional leadership positions. In any case, you can still take solace in the fact that you did the right thing by pardoning Nixon and moving the country beyond the Watergate episode.</p>",
+    "zh": "<h3>抱歉，您在 1976 年总统选举中失败了。</h3><p>虽然选举人团投票打成平局，民主党在众议院拥有巨大优势，肯定会通过众议院选举让你的对手当选。或许你在1980年仍能发挥作用，或者谋求重返原来的国会领导职位。无论如何，你仍可以宽慰自己：赦免尼克松、让国家走出水门事件的阴影，是正确的决定。</p>",
+    "keys": [
+      "base/candidate_json/92@74/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "Sorry, you lost the 1976 election.",
+    "zh": "抱歉，你输掉了 1976 年的选举。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l20.c13/text",
+      "1976_Carter_Church/ending/s0.l23.c13/text",
+      "1976_Carter_Glenn/ending/s0.l22.c13/text",
+      "1976_Carter_Jackson/ending/s0.l22.c13/text",
+      "1976_Ford_Dole/ending/s0.l22.c13/text",
+      "1976_Ford_Baker/ending/s0.l24.c13/text",
+      "1976_Ford_Anderson/ending/s0.l22.c13/text",
+      "1976_Ford_Connally/ending/s0.l23.c13/text"
+    ]
+  },
+  {
+    "source": "I can't fuckin think of anything funny for Ford, he is so bland, just pretend this gif is playing and he is falling down the stairs.",
+    "zh": "我他妈想不出福特有什么好笑的，他太平淡了，就假装这个 gif 正在播放，他从楼梯上摔下来。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l31.c33/text",
+      "1976_Carter_Church/ending/s0.l34.c33/text",
+      "1976_Carter_Glenn/ending/s0.l33.c33/text",
+      "1976_Carter_Jackson/ending/s0.l33.c33/text",
+      "1976_Ford_Dole/ending/s0.l33.c33/text",
+      "1976_Ford_Baker/ending/s0.l35.c33/text",
+      "1976_Ford_Anderson/ending/s0.l33.c33/text",
+      "1976_Ford_Connally/ending/s0.l34.c33/text"
+    ]
+  },
+  {
+    "source": "The year is 1984",
+    "zh": "年份是 1984 年",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l35.c16/text",
+      "1976_Carter_Church/ending/s0.l38.c16/text",
+      "1976_Carter_Glenn/ending/s0.l37.c16/text",
+      "1976_Carter_Jackson/ending/s0.l37.c16/text",
+      "1976_Ford_Dole/ending/s0.l37.c16/text",
+      "1976_Ford_Baker/ending/s0.l39.c16/text",
+      "1976_Ford_Anderson/ending/s0.l37.c16/text",
+      "1976_Ford_Connally/ending/s0.l38.c16/text"
+    ]
+  },
+  {
+    "source": "Jimmy Carter has been president for 8 years. Inflation has subsided to a steady amount, with unemployment dropping to virtually 0%. The budget had been balanced in 78, and poverty and hunger have been eradicated, as everyone unemployed became a farmer, and is eating peanut butter and peach jam sandwiches. the USSR on the 21st of January had seceded all their land to the USA and declared their government dissolved. Most importantly of all, the government is now trusted more than ever under the leadership of Jimmy Carter, who beat up Richard Nixon on live TV in 1981, garnering a 99% approval rating. Mondale has already won the most recent election 873 electoral votes to 0 against those sorry Republicans, who disbanded shortly after. All is good in the world, thanks to our wonderful leader, Jimmy Carter.",
+    "zh": "吉米·卡特已担任总裁 8 年。通货膨胀已稳定下来，失业率几乎降至 0%。 78年预算已经平衡，贫困和饥饿已经消除，每个失业者都成了农民，吃着花生酱和桃子酱三明治。 1月21日，苏联将所有土地割让给美国，并宣布政府解散。最重要的是，在吉米·卡特的领导下，政府现在比以往任何时候都更受信任，他于1981年在电视直播中击败了理查德·尼克松，获得了99%的支持率。蒙代尔在最近的选举中已经以 873 比 0 的选举人票战胜了那些令人遗憾的共和党人，后者不久后就解散了。世界上一切都美好，感谢我们出色的领导者，吉米·卡特。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l35.c49/text",
+      "1976_Carter_Church/ending/s0.l38.c49/text",
+      "1976_Carter_Glenn/ending/s0.l37.c49/text",
+      "1976_Carter_Jackson/ending/s0.l37.c49/text",
+      "1976_Ford_Dole/ending/s0.l37.c49/text",
+      "1976_Ford_Baker/ending/s0.l39.c49/text",
+      "1976_Ford_Anderson/ending/s0.l37.c49/text",
+      "1976_Ford_Connally/ending/s0.l38.c49/text"
+    ]
+  },
+  {
+    "source": "Congratulations! You won the 1976 election!",
+    "zh": "恭喜！你赢得了 1976 年的选举！",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l49.c13/text",
+      "1976_Carter_Church/ending/s0.l52.c13/text",
+      "1976_Carter_Glenn/ending/s0.l51.c13/text",
+      "1976_Carter_Jackson/ending/s0.l51.c13/text",
+      "1976_Ford_Dole/ending/s0.l51.c13/text",
+      "1976_Ford_Baker/ending/s0.l53.c13/text",
+      "1976_Ford_Anderson/ending/s0.l51.c13/text",
+      "1976_Ford_Connally/ending/s0.l52.c13/text"
+    ]
+  },
+  {
+    "source": "Congratulations! Even though you were the favourite from the start, you could have faltered in several ways. You've carried the will of the country and sent a clear message to those DC insiders. They'll need to tread carefully, as the impressive turnaround from 72, despite the playboy interview, shows what America thinks of Ol' Dick Nixon's cronies.",
+    "zh": "恭喜！尽管你从一开始就是最受欢迎的，但你可能会在几个方面陷入困境。你承载了国家的意愿，并向华盛顿特区内部人士发出了明确的信息。他们需要谨慎行事，因为尽管接受了《花花公子》的采访，72 年后的令人印象深刻的转变表明了美国人对老迪克尼克松亲信的看法。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l58.c17/text",
+      "1976_Carter_Church/ending/s0.l61.c17/text",
+      "1976_Carter_Glenn/ending/s0.l60.c17/text",
+      "1976_Carter_Jackson/ending/s0.l60.c17/text",
+      "1976_Ford_Dole/ending/s0.l60.c17/text",
+      "1976_Ford_Baker/ending/s0.l62.c17/text",
+      "1976_Ford_Anderson/ending/s0.l60.c17/text",
+      "1976_Ford_Connally/ending/s0.l61.c17/text"
+    ]
+  },
+  {
+    "source": "Congratulations! Even though you were the favourite from the start, you could have faltered in a number of ways. You've carried the will of the country and sent a clear message to those DC insiders. As expected, your Playboy interview prevented a glorious decimation of the Republicans, but you'll take it, seeing as it could have been worse with the economic recovery.",
+    "zh": "恭喜！尽管你从一开始就是最受欢迎的，但你可能会在很多方面陷入困境。你承载了国家的意愿，并向华盛顿特区内部人士发出了明确的信息。正如预期的那样，你的《花花公子》采访阻止了共和党的光荣灭亡，但你会接受它，因为随着经济复苏，情况可能会更糟。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l62.c15/text",
+      "1976_Carter_Church/ending/s0.l65.c15/text",
+      "1976_Carter_Glenn/ending/s0.l64.c15/text",
+      "1976_Carter_Jackson/ending/s0.l64.c15/text",
+      "1976_Ford_Dole/ending/s0.l64.c15/text",
+      "1976_Ford_Baker/ending/s0.l66.c15/text",
+      "1976_Ford_Anderson/ending/s0.l64.c15/text",
+      "1976_Ford_Connally/ending/s0.l65.c15/text"
+    ]
+  },
+  {
+    "source": "Congratulations! Even though you were the favourite from the start, you could have faltered in several ways. You've carried the will of the country and sent a clear message to those DC insiders. Many were shocked at the tightness of the election, seeing as the negativity around the GOP and DC in general. Maybe you were TOO honest, Jimmy...",
+    "zh": "恭喜！尽管你从一开始就是最受欢迎的，但你可能会在几个方面陷入困境。你承载了国家的意愿，并向华盛顿特区内部人士发出了明确的信息。许多人对选举的激烈程度感到震惊，认为共和党和华盛顿特区总体上存在消极情绪。也许你太诚实了，吉米……",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l66.c15/text",
+      "1976_Carter_Church/ending/s0.l69.c15/text",
+      "1976_Carter_Glenn/ending/s0.l68.c15/text",
+      "1976_Carter_Jackson/ending/s0.l68.c15/text",
+      "1976_Ford_Dole/ending/s0.l68.c15/text",
+      "1976_Ford_Baker/ending/s0.l70.c15/text",
+      "1976_Ford_Anderson/ending/s0.l68.c15/text",
+      "1976_Ford_Connally/ending/s0.l69.c15/text"
+    ]
+  },
+  {
+    "source": "Interestingly enough, Ford ended up winning the popular vote. Republicans are more shocked than angry. Perhaps passing a new version of the Bayh-Celler amendment can be among your reforms?",
+    "zh": "有趣的是，福特最终赢得了民众投票。共和党人更多的是震惊而不是愤怒。也许通过新版本的贝赫-Celler 修正案可以成为您的改革之一？",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l70.c17/text",
+      "1976_Carter_Church/ending/s0.l73.c17/text",
+      "1976_Carter_Glenn/ending/s0.l72.c17/text",
+      "1976_Carter_Jackson/ending/s0.l72.c17/text",
+      "1976_Ford_Dole/ending/s0.l72.c17/text",
+      "1976_Ford_Baker/ending/s0.l74.c17/text",
+      "1976_Ford_Anderson/ending/s0.l72.c17/text",
+      "1976_Ford_Connally/ending/s0.l73.c17/text"
+    ]
+  },
+  {
+    "source": "You still have many options, despite your defeat, as your jolt to the Democrats nomination and the new focus on character in politics will allow you to expand your horizons. While you might not run for president again in four years, a Senate seat in Georgia could suit you very well. Returning to the governor of the state also is possible. Perhaps all the campaigning and stress will inspire you to return to your peanut farm.",
+    "zh": "尽管你失败了，但你仍然有很多选择，因为你获得民主党提名以及对政治性格的新关注将使你扩大视野。虽然您可能在四年内不会再次竞选总统，但佐治亚州的参议院席位可能非常适合您。重返州长职位也是可能的。也许所有的竞选活动和压力都会激励您返回花生农场。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l75.c13/text",
+      "1976_Carter_Church/ending/s0.l78.c13/text",
+      "1976_Carter_Glenn/ending/s0.l77.c13/text",
+      "1976_Carter_Jackson/ending/s0.l77.c13/text",
+      "1976_Ford_Dole/ending/s0.l77.c13/text",
+      "1976_Ford_Baker/ending/s0.l79.c13/text",
+      "1976_Ford_Anderson/ending/s0.l77.c13/text",
+      "1976_Ford_Connally/ending/s0.l78.c13/text"
+    ]
+  },
+  {
+    "source": "The public just didn't think you were up to the task. That's the tradeoff with running a DC outsider like yourself, and the scale tipped in Fords' favour. He will have 4 more years to slash inflation and defend his reputation. He will have to be cautious and show restraint, as you came close to beating him. He with have the public breathing down his neck and Watergate looming over him for his term.",
+    "zh": "公众只是认为你无法胜任这项任务。这是与像你这样的华盛顿外来者进行权衡，而规模对福特有利。他还有四年的时间来削减通货膨胀并捍卫自己的声誉。当你差点击败他时，他必须保持谨慎并表现出克制。他的任期受到公众的关注，水门事件也笼罩着他。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l78.c15/text",
+      "1976_Carter_Church/ending/s0.l81.c15/text",
+      "1976_Carter_Glenn/ending/s0.l80.c15/text",
+      "1976_Carter_Jackson/ending/s0.l80.c15/text",
+      "1976_Ford_Dole/ending/s0.l80.c15/text",
+      "1976_Ford_Baker/ending/s0.l82.c15/text",
+      "1976_Ford_Anderson/ending/s0.l80.c15/text",
+      "1976_Ford_Connally/ending/s0.l81.c15/text"
+    ]
+  },
+  {
+    "source": "The public just didn't think you were up to the task. That's the tradeoff with running a DC outsider like yourself, and the scale tipped in Fords' favour. Many Democrats are wondering if Watergate might have affected the Republicans more than DC as a  whole, and more standard Democrats could have won this. certainly, your Playboy scandal makes them question nominating someone few people knew.",
+    "zh": "公众只是认为你无法胜任这项任务。这是与像你这样的华盛顿外来者进行权衡，而规模对福特有利。许多民主党人想知道水门事件对共和党的影响是否可能比整个华盛顿特区更大，而更标准的民主党人可能会赢得这场胜利。当然，你的《花花公子》丑闻让他们质疑提名一个很少有人知道的人。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l82.c16/text",
+      "1976_Carter_Church/ending/s0.l85.c16/text",
+      "1976_Carter_Glenn/ending/s0.l84.c16/text",
+      "1976_Carter_Jackson/ending/s0.l84.c16/text",
+      "1976_Ford_Dole/ending/s0.l84.c16/text",
+      "1976_Ford_Baker/ending/s0.l86.c16/text",
+      "1976_Ford_Anderson/ending/s0.l84.c16/text",
+      "1976_Ford_Connally/ending/s0.l85.c16/text"
+    ]
+  },
+  {
+    "source": "The public just didn't think you were up to the task. That's the tradeoff with running a DC outsider like yourself, and the scale tipped in Fords' favour. Lots of Democrats are incredibly angered that you could lose by such a margin, and are accusing you of throwing away the presidency with a single interview.",
+    "zh": "公众只是认为你无法胜任这项任务。这是与像你这样的华盛顿外来者进行权衡，而规模对福特有利。许多民主党人对你以如此大的差距落败感到非常愤怒，并指责你仅仅通过一次采访就放弃了总统宝座。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l86.c15/text",
+      "1976_Carter_Church/ending/s0.l89.c15/text",
+      "1976_Carter_Glenn/ending/s0.l88.c15/text",
+      "1976_Carter_Jackson/ending/s0.l88.c15/text",
+      "1976_Ford_Dole/ending/s0.l88.c15/text",
+      "1976_Ford_Baker/ending/s0.l90.c15/text",
+      "1976_Ford_Anderson/ending/s0.l88.c15/text",
+      "1976_Ford_Connally/ending/s0.l89.c15/text"
+    ]
+  },
+  {
+    "source": "If it wasn't already bad enough for you, the popular votes ended up going in your favour. The public and the Democrats are enraged and in despair, as the will of the people to remove the man who pardon Nixon failed. If the Bayh-Celler amendment didn't pass previously, surely the support to pass it will be present now?",
+    "zh": "如果这对你来说还不够糟糕的话，那么民众的投票最终对你有利。公众和民主党人感到愤怒和绝望，因为人们想要罢免赦免者尼克松的意愿失败了。如果贝赫-Celler修正案之前没有通过，现在肯定会得到通过它的支持吗？",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l90.c17/text",
+      "1976_Carter_Church/ending/s0.l93.c17/text",
+      "1976_Carter_Glenn/ending/s0.l92.c17/text",
+      "1976_Carter_Jackson/ending/s0.l92.c17/text",
+      "1976_Ford_Dole/ending/s0.l92.c17/text",
+      "1976_Ford_Baker/ending/s0.l94.c17/text",
+      "1976_Ford_Anderson/ending/s0.l92.c17/text",
+      "1976_Ford_Connally/ending/s0.l93.c17/text"
+    ]
+  },
+  {
+    "source": "Your quick thrusting into the political limelight and downfall was certainly dramatic. It's up to you what you do next. Perhaps a return to the house, although maybe not in a leadership role. A run in fours years is unlikely with Reagan and his coalition ready to nominate him. Perhaps he might extend an olive branch to you as you did to the conservatives this election, and consider you for his vice presidency?",
+    "zh": "你迅速进入政治聚光灯和垮台无疑是戏剧性的。接下来做什么取决于你。也许会回到家里，尽管可能不会担任领导职务。由于里根和他的联盟准备提名他，四年内的竞选不太可能。也许他可能会像这次选举中你向保守派那样向你伸出橄榄枝，并考虑你担任副总统？",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l98.c13/text",
+      "1976_Carter_Church/ending/s0.l101.c13/text",
+      "1976_Carter_Glenn/ending/s0.l100.c13/text",
+      "1976_Carter_Jackson/ending/s0.l100.c13/text",
+      "1976_Ford_Dole/ending/s0.l100.c13/text",
+      "1976_Ford_Baker/ending/s0.l102.c13/text",
+      "1976_Ford_Anderson/ending/s0.l100.c13/text",
+      "1976_Ford_Connally/ending/s0.l101.c13/text"
+    ]
+  },
+  {
+    "source": "Despite your best efforts, Jimmy Carter has bested you, making you the only president never elected to office. The toll of Watergate and Vietnam was just too much for you to handle. The recovering economy, however, made this election quite close, so you can take solace in the fact that you went down swinging.",
+    "zh": "尽管你已竭尽全力，吉米·卡特还是击败了你，使你成为唯一一位从未通过选举获得这一职位的总统。水门事件和越南问题留下的重担，实在难以承受。不过，经济复苏使本届选举格外胶着；至少，你奋战到了最后，这一点足以宽慰自己。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l101.c14/text",
+      "1976_Carter_Church/ending/s0.l104.c14/text",
+      "1976_Carter_Glenn/ending/s0.l103.c14/text",
+      "1976_Carter_Jackson/ending/s0.l103.c14/text",
+      "1976_Ford_Dole/ending/s0.l103.c14/text",
+      "1976_Ford_Baker/ending/s0.l105.c14/text",
+      "1976_Ford_Anderson/ending/s0.l103.c14/text",
+      "1976_Ford_Connally/ending/s0.l104.c14/text"
+    ]
+  },
+  {
+    "source": "Despite your best efforts, Jimmy Carter has bested you, making you the only president never elected to office. The toll of Watergate and Vietnam was just too much for you to handle. America showed they wanted an outsider, and Carter managed to take that title. Let's hope he can help restore faith in government, and help the inflation die down.",
+    "zh": "尽管你已竭尽全力，吉米·卡特还是击败了你，使你成为唯一一位从未通过选举获得这一职位的总统。水门事件和越南问题留下的重担，实在难以承受。美国人表明，他们想要一位政坛局外人，而卡特成功树立了这一形象。但愿他能重建公众对政府的信任，并缓解通货膨胀。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l105.c14/text",
+      "1976_Carter_Church/ending/s0.l108.c14/text",
+      "1976_Carter_Glenn/ending/s0.l107.c14/text",
+      "1976_Carter_Jackson/ending/s0.l107.c14/text",
+      "1976_Ford_Dole/ending/s0.l107.c14/text",
+      "1976_Ford_Baker/ending/s0.l109.c14/text",
+      "1976_Ford_Anderson/ending/s0.l107.c14/text",
+      "1976_Ford_Connally/ending/s0.l108.c14/text"
+    ]
+  },
+  {
+    "source": "Despite your best efforts, Jimmy Carter has bested you, making you the only president never elected to office. The toll of Watergate and Vietnam was just too much for you to handle. Your Watergate pardon might go down as one of the most blunderous moves in political history, as otherwise, you might have been able to disassociate yourself with Nixon. You, accordingly, got beaten by a larger than expected margin.",
+    "zh": "尽管你已竭尽全力，吉米·卡特还是击败了你，使你成为唯一一位从未通过选举获得这一职位的总统。水门事件和越南问题留下的重担，实在难以承受。你赦免尼克松的决定，或许会成为政治史上最严重的失误之一；否则，你本可以设法与尼克松划清界限。结果，你败选的差距比预期更大。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l109.c14/text",
+      "1976_Carter_Church/ending/s0.l112.c14/text",
+      "1976_Carter_Glenn/ending/s0.l111.c14/text",
+      "1976_Carter_Jackson/ending/s0.l111.c14/text",
+      "1976_Ford_Dole/ending/s0.l111.c14/text",
+      "1976_Ford_Baker/ending/s0.l113.c14/text",
+      "1976_Ford_Anderson/ending/s0.l111.c14/text",
+      "1976_Ford_Connally/ending/s0.l112.c14/text"
+    ]
+  },
+  {
+    "source": "Wow! Defying the odds, you have beaten back the Democrats to secure yet another term for your party. After the Watergate pardon, most thought you were done for, but you proved them wrong. You won by a quite shocking margin. It seems your rose garden strategy worked well.",
+    "zh": "哇！你们不顾一切，击退了民主党，为你们的政党赢得了连任。在水门事件赦免之后，大多数人都认为你完蛋了，但你证明他们错了。你以惊人的优势获胜。看来你的玫瑰园策略很有效。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l116.c14/text",
+      "1976_Carter_Church/ending/s0.l119.c14/text",
+      "1976_Carter_Glenn/ending/s0.l118.c14/text",
+      "1976_Carter_Jackson/ending/s0.l118.c14/text",
+      "1976_Ford_Dole/ending/s0.l118.c14/text",
+      "1976_Ford_Baker/ending/s0.l120.c14/text",
+      "1976_Ford_Anderson/ending/s0.l118.c14/text",
+      "1976_Ford_Connally/ending/s0.l119.c14/text"
+    ]
+  },
+  {
+    "source": "Wow! Defying the odds, you have beaten back the Democrats to secure yet another term for your party. After the Watergate pardon, most thought you were done for, but you proved them wrong. Carter put up a strong fight, however, and without the Playboy scandal, you likely wouldn't have won. The Democrats are sure to make some electoral changes after two outsiders in a row preventing them from winning...",
+    "zh": "哇！你们不顾一切，击退了民主党，为你们的政党赢得了连任。在水门事件赦免之后，大多数人都认为你完蛋了，但你证明他们错了。卡特然而，如果没有花花公子丑闻，你可能不会赢。在两名局外人连续阻止民主党获胜后，民主党肯定会做出一些选举改变……",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l120.c14/text",
+      "1976_Carter_Church/ending/s0.l123.c14/text",
+      "1976_Carter_Glenn/ending/s0.l122.c14/text",
+      "1976_Carter_Jackson/ending/s0.l122.c14/text",
+      "1976_Ford_Dole/ending/s0.l122.c14/text",
+      "1976_Ford_Baker/ending/s0.l124.c14/text",
+      "1976_Ford_Anderson/ending/s0.l122.c14/text",
+      "1976_Ford_Connally/ending/s0.l123.c14/text"
+    ]
+  },
+  {
+    "source": "Wow! Defying the odds, you have beaten back the Democrats to secure yet another term for your party. After the Watergate pardon, most thought you were done for, but you proved them wrong. You barely squeaked by, however. Carter gave you a run for your money, and congress isn't too friendly towards you either, so you better tread carefully.",
+    "zh": "哇！你们不顾一切，击退了民主党，为你们的政党赢得了连任。在水门事件赦免之后，大多数人都认为你完蛋了，但你证明他们错了。然而，你勉强勉强过去了。卡特给你的钱带来了竞争，国会对你也不太友好，所以你最好小心行事。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l124.c14/text",
+      "1976_Carter_Church/ending/s0.l127.c14/text",
+      "1976_Carter_Glenn/ending/s0.l126.c14/text",
+      "1976_Carter_Jackson/ending/s0.l126.c14/text",
+      "1976_Ford_Dole/ending/s0.l126.c14/text",
+      "1976_Ford_Baker/ending/s0.l128.c14/text",
+      "1976_Ford_Anderson/ending/s0.l126.c14/text",
+      "1976_Ford_Connally/ending/s0.l127.c14/text"
+    ]
+  },
+  {
+    "source": "You can hopefully expand upon the recovery from stagflation in your second term, and hopefully bring honour back to the white house. It won't be an easy feat with your pardon, but America wants to give you a chance. Do well and you might be remembered for more than Nixon's pardon.",
+    "zh": "您有望在第二个任期内扩大滞胀复苏，并有望为白宫带来荣誉。赦免你并不是一件容易的事，但美国想给你一个机会。如果做得好，你可能会因为尼克松的赦免而被记住。",
+    "keys": [
+      "1976_Carter_Mondale/ending/s0.l126.c13/text",
+      "1976_Carter_Church/ending/s0.l129.c13/text",
+      "1976_Carter_Glenn/ending/s0.l128.c13/text",
+      "1976_Carter_Jackson/ending/s0.l128.c13/text",
+      "1976_Ford_Dole/ending/s0.l128.c13/text",
+      "1976_Ford_Baker/ending/s0.l130.c13/text",
+      "1976_Ford_Anderson/ending/s0.l128.c13/text",
+      "1976_Ford_Connally/ending/s0.l129.c13/text"
+    ]
+  },
+  {
+    "source": "You have selected Walter Mondale as your running mate. Can you speak a little more about that?",
+    "zh": "您已选择沃尔特·蒙代尔作为您的竞选搭档。您能多谈谈吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/422@0/description"
+    ]
+  },
+  {
+    "source": "What will be your overall campaign strategy this year?",
+    "zh": "今年您的总体竞选策略是什么？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/415@1/description",
+      "1976_Carter_Church/questions_json/415@1/description",
+      "1976_Carter_Glenn/questions_json/415@1/description",
+      "1976_Carter_Jackson/questions_json/415@1/description"
+    ]
+  },
+  {
+    "source": "A lot of voters are concerned about honesty and integrity in our government. What can you say about yourself in this aspect?",
+    "zh": "许多选民担心我们政府的诚实和正直。在这方面您对自己有何评价？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/416@2/description",
+      "1976_Carter_Church/questions_json/416@2/description",
+      "1976_Carter_Glenn/questions_json/416@2/description",
+      "1976_Carter_Jackson/questions_json/416@2/description"
+    ]
+  },
+  {
+    "source": "What is your position on the federal government making loans to states or cities in need of financial help? An obvious recent example is the $2.3 billion bailout of New York city.",
+    "zh": "对于联邦政府向需要财政帮助的州或城市提供贷款，您持什么立场？最近一个明显的例子是对纽约州城市的 23 亿美元救助。",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/429@3/description",
+      "1976_Carter_Church/questions_json/429@10/description",
+      "1976_Carter_Glenn/questions_json/429@5/description",
+      "1976_Carter_Jackson/questions_json/429@3/description",
+      "1976_Ford_Dole/questions_json/429@4/description",
+      "1976_Ford_Baker/questions_json/429@5/description",
+      "1976_Ford_Anderson/questions_json/429@8/description",
+      "1976_Ford_Connally/questions_json/429@5/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on abortion, and specifically the recent <em>Roe v. Wade</em> decision?",
+    "zh": "您对堕胎有何看法，特别是最近的堕胎 <em>罗诉韦德案</em> 决定？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/434@4/description",
+      "1976_Carter_Church/questions_json/434@6/description",
+      "1976_Carter_Glenn/questions_json/434@7/description",
+      "1976_Carter_Jackson/questions_json/434@6/description",
+      "1976_Ford_Dole/questions_json/434@7/description",
+      "1976_Ford_Baker/questions_json/434@4/description",
+      "1976_Ford_Anderson/questions_json/434@6/description",
+      "1976_Ford_Connally/questions_json/434@4/description"
+    ]
+  },
+  {
+    "source": "Would you support a law for universal health care in this country?",
+    "zh": "您会支持这个国家的全民医疗保健法律吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/445@5/description",
+      "1976_Carter_Church/questions_json/445@3/description",
+      "1976_Carter_Glenn/questions_json/445@4/description",
+      "1976_Carter_Jackson/questions_json/445@7/description",
+      "1976_Ford_Dole/questions_json/445@6/description",
+      "1976_Ford_Baker/questions_json/445@10/description",
+      "1976_Ford_Anderson/questions_json/445@7/description",
+      "1976_Ford_Connally/questions_json/445@10/description"
+    ]
+  },
+  {
+    "source": "Do you support the Humphrey-Hawkins Full Employment Act?",
+    "zh": "您支持汉弗莱-霍金斯充分就业法案吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/444@6/description",
+      "1976_Carter_Church/questions_json/444@9/description",
+      "1976_Carter_Glenn/questions_json/444@3/description",
+      "1976_Carter_Jackson/questions_json/444@10/description",
+      "1976_Ford_Dole/questions_json/444@8/description",
+      "1976_Ford_Baker/questions_json/444@7/description",
+      "1976_Ford_Anderson/questions_json/444@10/description",
+      "1976_Ford_Connally/questions_json/444@6/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on the court-ordered busing of students within school districts, in a way designed to achieve racial balance in our schools?",
+    "zh": "您对法院下令在学区内载送学生以实现学校种族平衡的做法有何看法？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/432@7/description",
+      "1976_Carter_Church/questions_json/432@8/description",
+      "1976_Carter_Glenn/questions_json/432@10/description",
+      "1976_Carter_Jackson/questions_json/432@5/description",
+      "1976_Ford_Dole/questions_json/432@3/description",
+      "1976_Ford_Baker/questions_json/432@3/description",
+      "1976_Ford_Anderson/questions_json/432@5/description",
+      "1976_Ford_Connally/questions_json/432@3/description"
+    ]
+  },
+  {
+    "source": "Do you believe that the United States can afford a reduction in defense spending?",
+    "zh": "您认为美国能够承受国防开支的削减吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/433@8/description",
+      "1976_Carter_Church/questions_json/433@7/description",
+      "1976_Carter_Glenn/questions_json/433@8/description",
+      "1976_Carter_Jackson/questions_json/433@4/description",
+      "1976_Ford_Dole/questions_json/433@10/description",
+      "1976_Ford_Baker/questions_json/433@9/description",
+      "1976_Ford_Anderson/questions_json/433@3/description",
+      "1976_Ford_Connally/questions_json/433@7/description"
+    ]
+  },
+  {
+    "source": "What is your position on a pardon of Vietnam War draft evaders?",
+    "zh": "您对于赦免越南战争逃兵者的立场是什么？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/430@9/description",
+      "1976_Carter_Church/questions_json/430@5/description",
+      "1976_Carter_Glenn/questions_json/430@6/description",
+      "1976_Carter_Jackson/questions_json/430@8/description",
+      "1976_Ford_Dole/questions_json/430@9/description",
+      "1976_Ford_Baker/questions_json/430@8/description",
+      "1976_Ford_Anderson/questions_json/430@9/description",
+      "1976_Ford_Connally/questions_json/430@9/description"
+    ]
+  },
+  {
+    "source": "Do you support the ratification of the Equal Rights Amendment, which states \"Equality of rights under the law shall not be denied or abridged by the United States or by any State on account of sex.\"?",
+    "zh": "您是否支持批准《平等权利修正案》，该修正案规定“美国或任何州不得因性别而否认或削弱法律规定的权利平等”？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/431@10/description",
+      "1976_Carter_Church/questions_json/431@4/description",
+      "1976_Carter_Glenn/questions_json/431@9/description",
+      "1976_Carter_Jackson/questions_json/431@9/description",
+      "1976_Ford_Dole/questions_json/431@5/description",
+      "1976_Ford_Baker/questions_json/431@6/description",
+      "1976_Ford_Anderson/questions_json/431@4/description",
+      "1976_Ford_Connally/questions_json/431@8/description"
+    ]
+  },
+  {
+    "source": "In the next issue of Playboy, there's an interview where you used the words \"screw\" and \"shack up\" and confessed, \"I've committed adultery in my heart...\" Many of your religious supporters are furious. What can you say to explain yourself? ",
+    "zh": "在下一期《花花公子》的采访中，您使用了“拧”和“同居”等词并承认，“我在心里犯了通奸……”您的许多宗教支持者都感到愤怒。你能说什么来解释自己？ ",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/419@11/description",
+      "1976_Carter_Church/questions_json/419@11/description",
+      "1976_Carter_Glenn/questions_json/419@11/description",
+      "1976_Carter_Jackson/questions_json/419@11/description"
+    ]
+  },
+  {
+    "source": "In your infamous Playboy interview, you also referred to Lyndon Johnson as \"lying, cheating, and distorting the truth.\" This might make you look honest, but it could destroy your chances of winning Texas if you don't apologize.",
+    "zh": "在您臭名昭著的《花花公子》采访中，您还将林登·约翰逊称为“撒谎、欺骗和歪曲事实”。这可能会让你看起来很诚实，但如果你不道歉，它可能会破坏你获胜的机会得克萨斯州。",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/420@12/description",
+      "1976_Carter_Church/questions_json/420@12/description",
+      "1976_Carter_Glenn/questions_json/420@12/description",
+      "1976_Carter_Jackson/questions_json/420@13/description"
+    ]
+  },
+  {
+    "source": "There is talk of a Presidential Debate for the first time since 1960. Is this something that you're interested in doing?",
+    "zh": "自 1960 年以来第一次有人谈论总统辩论。您有兴趣这样做吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/417@13/description",
+      "1976_Carter_Church/questions_json/417@13/description",
+      "1976_Carter_Glenn/questions_json/417@13/description",
+      "1976_Carter_Jackson/questions_json/417@14/description",
+      "1976_Ford_Dole/questions_json/404@12/description",
+      "1976_Ford_Baker/questions_json/404@12/description",
+      "1976_Ford_Anderson/questions_json/404@13/description",
+      "1976_Ford_Connally/questions_json/404@12/description"
+    ]
+  },
+  {
+    "source": "You've recently appeared with George Wallace, infamous Governor of Alabama, on the campaign trail. What do you have to say about that?",
+    "zh": "你最近与臭名昭著的阿拉巴马州州长乔治·华莱士一起出现在竞选活动中。对此你有什么想说的？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/418@14/description",
+      "1976_Carter_Church/questions_json/418@14/description",
+      "1976_Carter_Glenn/questions_json/418@14/description",
+      "1976_Carter_Jackson/questions_json/418@15/description"
+    ]
+  },
+  {
+    "source": "General George Brown, Chairman of the Joint Chiefs of Staff, has made some comments that Israel has become a \"burden\" to the national defense effort. Do you agree with this?",
+    "zh": "参谋长联席会议主席乔治·布朗将军发表评论称，以色列已成为国防努力的“负担”。你同意这一点吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/428@15/description",
+      "1976_Carter_Church/questions_json/428@21/description",
+      "1976_Carter_Glenn/questions_json/428@17/description",
+      "1976_Carter_Jackson/questions_json/428@21/description",
+      "1976_Ford_Dole/questions_json/428@21/description",
+      "1976_Ford_Connally/questions_json/428@19/description"
+    ]
+  },
+  {
+    "source": "What are your feelings in the <em>Gregg v. Georgia</em> case, recently decided, that allows capital punishment in the U.S.?",
+    "zh": "你的感受是什么 <em>格雷格诉佐治亚州</em> 最近判决的案件允许在美国判处死刑？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/446@16/description",
+      "1976_Carter_Glenn/questions_json/446@20/description",
+      "1976_Carter_Jackson/questions_json/446@17/description",
+      "1976_Ford_Baker/questions_json/446@21/description",
+      "1976_Ford_Anderson/questions_json/446@23/description",
+      "1976_Ford_Connally/questions_json/446@22/description"
+    ]
+  },
+  {
+    "source": "What is your position on right-to-work laws? Would you support a national bill to repeal Taft-Hartley and do away with right-to-work?",
+    "zh": "您对工作权法律的立场是什么？您会支持废除塔夫脱-哈特利法案并废除工作权的国家法案吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/439@17/description",
+      "1976_Carter_Glenn/questions_json/439@21/description",
+      "1976_Ford_Dole/questions_json/439@19/description",
+      "1976_Ford_Baker/questions_json/439@17/description",
+      "1976_Ford_Connally/questions_json/439@21/description"
+    ]
+  },
+  {
+    "source": "Should there be a ban on nuclear weapons testing?",
+    "zh": "是否应该禁止核武器试验？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/440@18/description",
+      "1976_Carter_Church/questions_json/440@15/description",
+      "1976_Ford_Baker/questions_json/440@16/description",
+      "1976_Ford_Anderson/questions_json/440@17/description"
+    ]
+  },
+  {
+    "source": "Could we have done more to save South Vietnam in 1975, such as air strikes or a limited engagement?",
+    "zh": "1975 年我们是否可以采取更多措施来拯救南越，例如空袭或有限的交战？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/443@19/description",
+      "1976_Carter_Church/questions_json/443@17/description",
+      "1976_Carter_Glenn/questions_json/443@18/description",
+      "1976_Ford_Dole/questions_json/443@18/description",
+      "1976_Ford_Connally/questions_json/443@23/description"
+    ]
+  },
+  {
+    "source": "How can we best prevent another episode like the 1973 oil crisis, which paralyzed the country?",
+    "zh": "我们如何才能最好地防止再次发生像 1973 年石油危机那样导致国家瘫痪的事件？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/436@20/description",
+      "1976_Carter_Glenn/questions_json/436@15/description",
+      "1976_Carter_Jackson/questions_json/436@18/description",
+      "1976_Ford_Dole/questions_json/436@17/description",
+      "1976_Ford_Anderson/questions_json/436@19/description"
+    ]
+  },
+  {
+    "source": "The United States started selling large amounts of grain to the Soviet Union, in 1973. What is your opinion on this policy?",
+    "zh": "美国从1973年开始向苏联出售大量粮食。您对这一政策有何看法？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/441@21/description",
+      "1976_Carter_Church/questions_json/441@22/description",
+      "1976_Carter_Jackson/questions_json/441@22/description",
+      "1976_Ford_Dole/questions_json/441@20/description",
+      "1976_Ford_Baker/questions_json/441@19/description"
+    ]
+  },
+  {
+    "source": "In 1972, George McGovern proposed replacing the income tax exemption with a $1,000 guaranteed minimum income, for every American citizen. Are you interested in this type of proposal?",
+    "zh": "1972 年，乔治·麦戈文 (George McGovern) 提议用每位美国公民 1,000 美元的最低保障收入取代所得税豁免。您对此类提案感兴趣吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/442@22/description",
+      "1976_Carter_Jackson/questions_json/442@20/description",
+      "1976_Ford_Dole/questions_json/442@22/description",
+      "1976_Ford_Baker/questions_json/442@18/description",
+      "1976_Ford_Anderson/questions_json/442@22/description",
+      "1976_Ford_Connally/questions_json/442@20/description"
+    ]
+  },
+  {
+    "source": "On the Sunday before election day, your church has canceled its services rather than admit a black minister as a member. Will you terminate your own membership?",
+    "zh": "在选举日前夕，您的教会取消了礼拜活动，而不是接纳黑人牧师为会员。您会终止自己的会员资格吗？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/421@23/description",
+      "1976_Carter_Church/questions_json/421@23/description",
+      "1976_Carter_Glenn/questions_json/421@23/description",
+      "1976_Carter_Jackson/questions_json/421@23/description"
+    ]
+  },
+  {
+    "source": "Where will you focus your efforts on the last day before the election?",
+    "zh": "选举前的最后一天，您将把精力集中在哪里？",
+    "keys": [
+      "1976_Carter_Mondale/questions_json/447@24/description",
+      "1976_Carter_Church/questions_json/447@24/description",
+      "1976_Carter_Glenn/questions_json/447@24/description",
+      "1976_Carter_Jackson/questions_json/447@24/description",
+      "1976_Ford_Dole/questions_json/447@24/description",
+      "1976_Ford_Baker/questions_json/447@24/description",
+      "1976_Ford_Anderson/questions_json/447@24/description",
+      "1976_Ford_Connally/questions_json/447@24/description"
+    ]
+  },
+  {
+    "source": "People want an outsider in government. I'm in a unique position to unite the country and move it towards a newer, more open chapter in its history.",
+    "zh": "人们希望政府中有一个局外人。我处于一个独特的位置，可以团结这个国家并推动其历史上更新、更加开放的篇章。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3509@0/description",
+      "1976_Carter_Church/answers_json/3509@1/description",
+      "1976_Carter_Glenn/answers_json/3509@1/description",
+      "1976_Carter_Jackson/answers_json/3509@1/description"
+    ]
+  },
+  {
+    "source": "I know a lot of Democrats are concerned that I'm too moderate. I will make it a point to express support for a staunch liberal platform this fall.",
+    "zh": "我知道很多民主党人担心我过于温和。今年秋天，我将重点表达对坚定的自由主义纲领的支持。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3510@1/description",
+      "1976_Carter_Church/answers_json/3510@2/description",
+      "1976_Carter_Glenn/answers_json/3510@2/description",
+      "1976_Carter_Jackson/answers_json/3510@2/description"
+    ]
+  },
+  {
+    "source": "I won my party's nomination as a moderate, conciliatory politician. We will continue this strategy in the general election, and above all we'll avoid the mistakes of McGovern in '72.",
+    "zh": "我作为温和、和解的政治家赢得了党派的提名。我们将在大选中继续这一策略，最重要的是我们将避免麦戈文在 72 年犯下的错误。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3511@2/description",
+      "1976_Carter_Church/answers_json/3511@3/description",
+      "1976_Carter_Glenn/answers_json/3511@3/description",
+      "1976_Carter_Jackson/answers_json/3511@3/description"
+    ]
+  },
+  {
+    "source": "Gerald Ford pardoned Nixon, vetoed a school lunch program, and selected Bob Dole as his running mate. We need to remind the American people that he is far too much of a conservative insider to be President.",
+    "zh": "杰拉尔德·福特赦免了尼克松，否决了学校午餐计划，并选择鲍勃·多尔作为他的竞选搭档。我们需要提醒美国人民，他是一位过于保守的内部人士，不适合担任总统。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3512@3/description",
+      "1976_Carter_Church/answers_json/3512@4/description",
+      "1976_Carter_Glenn/answers_json/3512@4/description",
+      "1976_Carter_Jackson/answers_json/3512@4/description"
+    ]
+  },
+  {
+    "source": "I will never tell a lie to the American people. My Southern Baptist faith and my family have guided me for my entire life. I will make sure my biography and home town get heavy coverage in our advertisements.",
+    "zh": "我永远不会对美国人民撒谎。我的美南浸信会信仰和我的家人引导了我一生。我将确保我的传记和家乡在我们的广告中得到大量报道。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3513@4/description",
+      "1976_Carter_Church/answers_json/3513@5/description",
+      "1976_Carter_Glenn/answers_json/3513@5/description",
+      "1976_Carter_Jackson/answers_json/3513@5/description"
+    ]
+  },
+  {
+    "source": "Honesty and integrity is good, but voters want to hear about solutions. I have common-sense answers to our nation's problems.",
+    "zh": "诚实和正直很好，但选民希望听到解决方案。我对我们国家的问题有常识性的答案。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3514@5/description",
+      "1976_Carter_Church/answers_json/3514@6/description",
+      "1976_Carter_Glenn/answers_json/3514@6/description",
+      "1976_Carter_Jackson/answers_json/3514@6/description"
+    ]
+  },
+  {
+    "source": "We have a President in the White House who pardoned the most notorious liar in our nation's history. The previous President, Lyndon Johnson, lied our country into Vietnam. I will be a different kind of President.",
+    "zh": "我们的白宫总统赦免了我们国家历史上最臭名昭著的骗子。前总统，林登·约翰逊，欺骗我们的国家进入越南。我将成为一位不同类型的总统。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3515@6/description",
+      "1976_Carter_Church/answers_json/3515@7/description",
+      "1976_Carter_Glenn/answers_json/3515@7/description",
+      "1976_Carter_Jackson/answers_json/3515@7/description"
+    ]
+  },
+  {
+    "source": "Not really. We're starting this campaign with a huge lead. I'd rather not roll the dice on that.",
+    "zh": "并非如此。我们以巨大的领先优势开始这场活动。我宁愿不为此掷骰子。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3516@7/description",
+      "1976_Carter_Church/answers_json/3516@8/description",
+      "1976_Carter_Glenn/answers_json/3516@8/description",
+      "1976_Carter_Jackson/answers_json/3516@8/description"
+    ]
+  },
+  {
+    "source": "I think this is a good idea that will show I'm serious about openness in government.",
+    "zh": "我认为这是一个好主意，它将表明我对政府开放的认真态度。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3517@8/description",
+      "1976_Carter_Mondale/answers_json/3518@9/description",
+      "1976_Carter_Mondale/answers_json/3519@10/description",
+      "1976_Carter_Church/answers_json/3517@9/description",
+      "1976_Carter_Church/answers_json/3518@10/description",
+      "1976_Carter_Church/answers_json/3519@11/description",
+      "1976_Carter_Glenn/answers_json/3517@9/description",
+      "1976_Carter_Glenn/answers_json/3518@10/description",
+      "1976_Carter_Glenn/answers_json/3519@11/description",
+      "1976_Carter_Jackson/answers_json/3517@9/description",
+      "1976_Carter_Jackson/answers_json/3518@10/description",
+      "1976_Carter_Jackson/answers_json/3519@11/description"
+    ]
+  },
+  {
+    "source": "Anyone can see that I am a strong supporter of Civil Rights. I don't agree with what Wallace did, but my campaign is about healing this nation and bringing all sides together to face the future.",
+    "zh": "任何人都可以看到我是民权的坚定支持者。我不同意华莱士的做法，但我的竞选活动是为了治愈这个国家并让各方团结起来面对未来。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3520@11/description",
+      "1976_Carter_Church/answers_json/3520@12/description",
+      "1976_Carter_Glenn/answers_json/3520@12/description",
+      "1976_Carter_Jackson/answers_json/3520@12/description"
+    ]
+  },
+  {
+    "source": "I've appeared with George Wallace, just the same as I've appeared with any other Democrat who sought our nomination this year. People don't need to read any special significance into this.",
+    "zh": "我与乔治·华莱士一起出现，就像我与今年寻求提名的任何其他民主党人一起出现一样。人们不需要对此有任何特殊的意义。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3521@12/description",
+      "1976_Carter_Church/answers_json/3521@13/description",
+      "1976_Carter_Glenn/answers_json/3521@13/description",
+      "1976_Carter_Jackson/answers_json/3521@13/description"
+    ]
+  },
+  {
+    "source": "We might have our differences, but we have both been the Governors of Southern states, and it is important for us to show our camaraderie.",
+    "zh": "我们可能有分歧，但我们都曾担任过南方各州的州长，对我们来说表现出友情很重要。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3522@13/description",
+      "1976_Carter_Church/answers_json/3522@14/description",
+      "1976_Carter_Glenn/answers_json/3522@14/description",
+      "1976_Carter_Jackson/answers_json/3522@14/description"
+    ]
+  },
+  {
+    "source": "I think the interview speaks for itself. We need to focus on the issues and not on tabloid gossip.",
+    "zh": "我认为采访本身就说明了一切。我们需要关注问题而不是小报八卦。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3523@14/description",
+      "1976_Carter_Church/answers_json/3523@15/description",
+      "1976_Carter_Glenn/answers_json/3523@15/description",
+      "1976_Carter_Jackson/answers_json/3523@15/description"
+    ]
+  },
+  {
+    "source": "I will apologize and admit that Playboy was not the best forum to discuss my Christian faith.",
+    "zh": "我会道歉并承认花花公子不是讨论我的基督教信仰的最佳论坛。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3524@15/description",
+      "1976_Carter_Church/answers_json/3524@16/description",
+      "1976_Carter_Glenn/answers_json/3524@16/description",
+      "1976_Carter_Jackson/answers_json/3524@16/description"
+    ]
+  },
+  {
+    "source": "I was trying to have an honest conversation about the challenges of living a righteous life. I think once people stop and think about it, they will understand that.",
+    "zh": "我试图就过正义生活的挑战进行诚实的对话。我想一旦人们停下来思考一下，他们就会明白这一点。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3525@16/description",
+      "1976_Carter_Church/answers_json/3525@17/description",
+      "1976_Carter_Glenn/answers_json/3525@17/description",
+      "1976_Carter_Jackson/answers_json/3525@17/description"
+    ]
+  },
+  {
+    "source": "I meant what I said, and it's unfortunate that it has to be a big issue with some folks. But I told the American people, \"I will never tell a lie.\"",
+    "zh": "我是认真的，不幸的是，这对某些人来说是一个大问题。但我告诉美国人民，“我永远不会说谎。”",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3526@17/description",
+      "1976_Carter_Church/answers_json/3526@18/description",
+      "1976_Carter_Glenn/answers_json/3526@18/description",
+      "1976_Carter_Jackson/answers_json/3526@18/description"
+    ]
+  },
+  {
+    "source": "Playboy definitely twisted these words to make them worse than they were. I will apologize profusely to the Johnson family and clarify this statement.",
+    "zh": "花花公子绝对扭曲了这些词，使它们变得更糟。我将向约翰逊家人深表歉意并澄清这一声明。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3527@18/description",
+      "1976_Carter_Church/answers_json/3527@19/description",
+      "1976_Carter_Glenn/answers_json/3527@19/description",
+      "1976_Carter_Jackson/answers_json/3527@19/description"
+    ]
+  },
+  {
+    "source": "I've always believed in trying to change an institution from within. My family has consistently voted against segregation in our church, and will continue to do so.",
+    "zh": "我一直相信尝试从内部改变一个机构。我的家人一直投票反对我们教会的种族隔离，并将继续这样做。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3528@19/description",
+      "1976_Carter_Church/answers_json/3528@20/description",
+      "1976_Carter_Glenn/answers_json/3528@20/description",
+      "1976_Carter_Jackson/answers_json/3528@20/description"
+    ]
+  },
+  {
+    "source": "Our church has been open to some black attendees in the past, but this particular man is already the member of another church, and is clearly a Republican operative.",
+    "zh": "我们的教堂过去曾对一些黑人参加者开放，但这个特定的人已经是另一个教堂的成员，并且显然是共和党特工。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3529@20/description",
+      "1976_Carter_Church/answers_json/3529@21/description",
+      "1976_Carter_Glenn/answers_json/3529@21/description",
+      "1976_Carter_Jackson/answers_json/3529@21/description"
+    ]
+  },
+  {
+    "source": "My family has tried for many years to work for change in the Plains Baptist Church, but I can see now that we have failed. I have no choice but to withdraw my membership.",
+    "zh": "我的家人多年来一直试图为平原浸信会教堂的变革而努力，但我现在看到我们失败了。我别无选择，只能退出会员资格。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3530@21/description",
+      "1976_Carter_Church/answers_json/3530@22/description",
+      "1976_Carter_Glenn/answers_json/3530@22/description",
+      "1976_Carter_Jackson/answers_json/3530@22/description"
+    ]
+  }
+]

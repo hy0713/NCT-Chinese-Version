@@ -1,0 +1,805 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-g",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 154,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 4,
+      "reason": "Original tree abundance claim preserved, trees vs forest acreage and historical estimate not independently certified."
+    },
+    {
+      "index": 8,
+      "reason": "Schumpeter coined assertion preserved without scholarly priority certification."
+    },
+    {
+      "index": 11,
+      "reason": "Highest unemployment in nearly100years is original attack, not historical certification; Depression counterexample must be annotated."
+    },
+    {
+      "index": 13,
+      "reason": "Big tent means inclusive political coalition, not physical campaign tent."
+    },
+    {
+      "index": 14,
+      "reason": "Original inherent Obama's missing in repaired in Chinese."
+    },
+    {
+      "index": 23,
+      "reason": "Original GLBT order preserved distinct from LGBT variant in 2012-d."
+    },
+    {
+      "index": 24,
+      "reason": "Original GLBT order preserved."
+    },
+    {
+      "index": 31,
+      "reason": "Third rail political danger metaphor retained and explained in research, not third party or literal game railway."
+    },
+    {
+      "index": 50,
+      "reason": "Dakotas refers North and South Dakota, not one new state."
+    },
+    {
+      "index": 56,
+      "reason": "Original racing horses/10000 bet preserved; distinguish dressage horse expenses and separate actual political10000 wager before claiming fact."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "This is a terrible idea. Can't you just picture twenty million employees performing make-work jobs at miniscule wages?",
+      "sha256": "c54ab707eaa5ec482751a7e7ec36c2e6223e53f89ce166512c82b5c04a5e6b28",
+      "zh": "这主意糟透了。你就不能想象一下，2000万雇员拿着微薄工资，做着纯粹为了安排就业而硬造出来的工作吗？",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/271@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "There are better ways to help the poor among us.",
+      "sha256": "a07fecdb09dde08333a28e63bb4fa046ee9763c881f50e815641c9936e7ba65c",
+      "zh": "帮助贫困者，还有更好的办法。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/272@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "This sounds like a political non-starter. It's an interesting idea but let's steer the conversation towards something more productive.",
+      "sha256": "db26163de41ee61ee14a33837261a9d103eee04882e9fd653baf4bfc17bb9f4d",
+      "zh": "这听起来在政治上根本推不动。想法挺有意思，但我们还是把话题转向更有成果的事情吧。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/273@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "If we created jobs like this at a set minimum wage, it would benefit everyone. Private sector wages would increase and economic insecurity would be greatly mitigated for millions of people.",
+      "sha256": "fe0a38f0fc3ac50925561472aca3417950c679aab65f69d508d4eefe4162b3bd",
+      "zh": "如果我们按固定最低工资创造这种工作，人人都会受益。私营部门工资会上涨，数百万人的经济不安全感也会大幅减轻。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/274@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Absolutely there is. There are more trees in the United States now than there were at the time of the American Revolution.",
+      "sha256": "d864fc9321f345fab5e6227fa06ec5642b7aec0d4c2f29e27cd6a5b61961d697",
+      "zh": "绝对监管过多。美国现在的树，比美国独立战争时期还多。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/279@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "We need some rational management of our nation's resources, but I think too often we err on the side of caution when it comes to utilizing our nation's timber.",
+      "sha256": "2455cb79ad0a9ba7d99ad71fc7141592269711e01e28362b0d9264b457d75516",
+      "zh": "我们需要合理管理国家资源，但我认为，在利用本国木材方面，我们往往谨慎过头了。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/280@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "No, I don't think so. The last thing we need is a return to the abuses of the past.",
+      "sha256": "b8895785e0cbf0e84f355d6b5f7d710b5a536ca01bc7cac4d772654559d5d61d",
+      "zh": "不，我不这么认为。我们最不需要的，就是重蹈过去滥伐的覆辙。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/281@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Current practices are much too permissive. Priceless old-growth forest has been almost completely destroyed, and we are headed into the future on an unsustainable trajectory.",
+      "sha256": "c8fbd8eb9c82238069a3ca780458a48461899b334019bfc0ed35fbb2bcff8ede",
+      "zh": "现行做法宽松得过分。无价的原始森林几乎已经被毁光，我们正沿着不可持续的轨道走向未来。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/282@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Joseph Schumpeter coined the term of \"creative destruction\". Society will never evolve if some people aren't relocated into more productive pursuits from time to time.",
+      "sha256": "05b27c8594dd21a40fc2feb9cd37ffddf128506731b244cbec6c67f4d331c4c2",
+      "zh": "约瑟夫·熊彼特提出了“创造性破坏”这个术语。如果不时让一些人转向生产力更高的工作，社会就永远不会进步。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/369@75/description",
+        "2012_Romney_Portman/answers_json/369@63/description",
+        "2012_Romney_Rubio/answers_json/369@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "We created numerous companies like Staples, which are American success stories employing thousands of people.",
+      "sha256": "59f9a088fb19f2d7dd2f3b9497e1a056e2c45fd4e2f6ac5efd35bba99fe4ab96",
+      "zh": "我们创办了史泰博等许多企业；它们都是雇用数千人的美国成功典范。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/370@76/description",
+        "2012_Romney_Portman/answers_json/370@64/description",
+        "2012_Romney_Rubio/answers_json/370@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "We all made mistakes when we were younger. I'm no exception.",
+      "sha256": "91cb292c298a34b098c2615c115046bf61c2223f17d289c41367b21fba68dbc6",
+      "zh": "年轻时，我们都犯过错。我也不例外。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/371@77/description",
+        "2012_Romney_Portman/answers_json/371@65/description",
+        "2012_Romney_Rubio/answers_json/371@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "I will hammer on the theme that Obama has completely failed the United States as President. He has presided over the largest deficit increases and highest unemployment rate in almost a hundred years.",
+      "sha256": "54706b51c819f06655fee09045a103f9fc61da1f70764f78354c478a77741734",
+      "zh": "我会反复强调，奥巴马作为总统，彻底辜负了美国。他执政期间，赤字增幅最大，失业率也达到近百年来最高。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/391@78/description",
+        "2012_Romney_Portman/answers_json/391@74/description",
+        "2012_Romney_Rubio/answers_json/391@79/description",
+        "2012_Romney_Pawlenty/answers_json/391@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "My message will be a message of hope. After four years of economic blight the American people need to feel good about themselves, and they need to know that their efforts will be rewarded with material prosperity.",
+      "sha256": "70573d25b9f318181799c01887b578bec764b22e0119407e4eae283a9ef5bc0e",
+      "zh": "我传递的将是希望。经历四年经济萧条，美国人民需要重新振作，也需要知道，努力将换来物质上的繁荣。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/392@79/description",
+        "2012_Romney_Portman/answers_json/392@75/description",
+        "2012_Romney_Rubio/answers_json/392@80/description",
+        "2012_Romney_Pawlenty/answers_json/392@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "I will emphasize the point that the Republican Party has a big tent. We are the party for anyone who tries to work hard and get ahead in America.",
+      "sha256": "bbe5e9f8afcf523291249d439c248c415d3f22191997d75a124c7271055b998c",
+      "zh": "我会强调，共和党广纳各方。我们是属于每一个在美国努力工作、争取出人头地的人的政党。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/393@80/description",
+        "2012_Romney_Portman/answers_json/393@76/description",
+        "2012_Romney_Rubio/answers_json/393@81/description",
+        "2012_Romney_Pawlenty/answers_json/393@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "I will address the long-term danger that liberalism has to create an ossified, uncreative society. I will also emphasize the danger to our individual and collective rights that is inherent Obama's philosophy.",
+      "sha256": "4e562c7ea3749fb5c8b9619032b4ec1f5b94d709b8b09b4e65a5aa61921147bb",
+      "zh": "我会谈自由主义可能造成的长期危险：让社会僵化，失去创造力。我也会强调，奥巴马的理念本身给我们的个人及集体权利带来的威胁。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/394@81/description",
+        "2012_Romney_Portman/answers_json/394@77/description",
+        "2012_Romney_Rubio/answers_json/394@82/description",
+        "2012_Romney_Pawlenty/answers_json/394@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Barack Obama is a smart, engaging man. I like him and wish him all the best after we defeat him in November.",
+      "sha256": "55b509f074f49316f57545f0a7506c07738def270b7da535b6167fba4747ed13",
+      "zh": "贝拉克·奥巴马聪明、风趣。我喜欢他，也希望十一月我们击败他之后，他一切顺利。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/409@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "I'm not sure how much I have in common with someone like Obama. I don't really have an opinion one way or the other.",
+      "sha256": "920fc4d4d7f050f38c371c60bb8389767dab345fe2eca1d0dfd4e180f7e5d7bf",
+      "zh": "我不确定自己和奥巴马这样的人有多少共同点。我谈不上喜欢或不喜欢他。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/410@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Barack is a decent guy. Our personal feelings for each other are not the issue. What's important are our differences of opinion on how to get the American economy moving.",
+      "sha256": "5156bc20d69e35b28bee7a5f10d4a92464fd467b7cf494f53026559b6456a389",
+      "zh": "贝拉克是个不错的人。我们彼此的私人感情并不是问题所在。重要的是，我们对如何让美国经济运转起来有不同意见。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/411@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "I don't particularly like Barack. It's hard to feel good about someone who promotes policies as misguided as his.",
+      "sha256": "823c25c6e25b0a4e1f827ac75f716d834388e2be4dc01f0908c3d579fcd0b0ec",
+      "zh": "我不怎么喜欢贝拉克。一个人推行那么错误的政策，很难让人对他有好感。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/412@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "We will attack Barack Obama relentlessly. He has gone back on his pledge to clean up our political system, he has destroyed hundreds of thousands of jobs in his first term, his values are out of touch with those of most Americans, and his health care reform is disastrous.",
+      "sha256": "629079e9129080595c4d824370c5bb56f9c34e10404110c5e89115b08ad2da58",
+      "zh": "我们会毫不留情地攻击贝拉克·奥巴马。他背弃了整顿政治体系的承诺，第一个任期毁掉了数十万个工作岗位；他的价值观与多数美国人格格不入，医疗改革也灾难深重。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/730@90/description",
+        "2012_Romney_Portman/answers_json/730@85/description",
+        "2012_Romney_Rubio/answers_json/730@90/description",
+        "2012_Romney_Pawlenty/answers_json/730@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "My surrogates have plenty of points to make about the failure of the Obama Administration. As the nominee, I will take the high road and stick to a message of optimism and American renewal.",
+      "sha256": "c2860fc86fd9905cd9f1ab3c4bd57ab9689ee93838665110ba44783a5acd536f",
+      "zh": "我的竞选代言人有很多话，可以用来说明奥巴马政府的失败。作为提名人，我会保持风度，坚持传递乐观和美国振兴的信息。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/731@91/description",
+        "2012_Romney_Portman/answers_json/731@86/description",
+        "2012_Romney_Rubio/answers_json/731@91/description",
+        "2012_Romney_Pawlenty/answers_json/731@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "I will reach out to moderates and conservative Democrats and attempt to build an all-encompassing coalition. It's time that America had a true leader in charge.",
+      "sha256": "8900bf90111304dc6506a8ff0e6fa7c936add47e493b207b1669100382c0ee8b",
+      "zh": "我会主动争取温和派及保守派民主党人，尝试建立广泛包容的联盟。美国是时候由一位真正的领导人掌舵了。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/732@92/description",
+        "2012_Romney_Portman/answers_json/732@87/description",
+        "2012_Romney_Rubio/answers_json/732@92/description",
+        "2012_Romney_Pawlenty/answers_json/732@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "I will emphasize the conservatism of my views and my governing philosophy. I will remind the American people that I am strong on defense and that I'm pro-life, pro-free market, pro-business, and deeply religious.",
+      "sha256": "ee02c1a1903bb2d9eb17a249e2433c132ab7caf00f66be4e8d3720a515940615",
+      "zh": "我会强调自己观点和执政理念中的保守主义。我会提醒美国人民，我在国防上强硬，反对堕胎，支持自由市场、支持企业，而且信仰虔诚。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/733@93/description",
+        "2012_Romney_Portman/answers_json/733@88/description",
+        "2012_Romney_Rubio/answers_json/733@93/description",
+        "2012_Romney_Pawlenty/answers_json/733@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "The culture wars have been a feature of American politics for decades, and 2012 is no exception. An increasingly empowered GLBT community demands acceptance for gay marriage while most conservatives still find the idea to be anathema to their sensibilities. The ever-present debates on abortion, religious issues, and gun control are still running strong as well.",
+      "sha256": "665ee20ff4cc087b8638ee46c868db0045b6da9484def12a2d973902f67cc9ce",
+      "zh": "文化战争在美国政坛已持续数十年，2012年也不例外。力量日益增强的GLBT社群要求社会接受同性婚姻，但多数保守派仍认为这与他们的价值观水火不容。关于堕胎、宗教问题和枪支管制的争论，也始终激烈。",
+      "keys": [
+        "2012_Romney_Ryan/issues_json/4@4/description",
+        "2012_Romney_Portman/issues_json/4@4/description",
+        "2012_Romney_Rubio/issues_json/4@4/description",
+        "2012_Romney_Pawlenty/issues_json/4@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "After all their support, the GLBT community can't believe what you just said. You had better be prepared for a backlash from your liberal base.",
+      "sha256": "995e3a89db6e6554311c44473ad8f8216cfff163e35892d30f5d17627d3a24a4",
+      "zh": "GLBT社群支持你这么久，简直不敢相信你刚才说的话。你最好准备好面对自由派基本盘的反弹。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/379@6/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/379@9/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/379@10/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/379@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "A dubious statement, but it will help you a lot in Iowa this fall. Remember, that's a swing state.",
+      "sha256": "c37e06bf19b22d825c3935543b2569b765c19a820b55d136c6e2e704bf77b057",
+      "zh": "这话站不住脚，但今年秋天会在艾奥瓦州帮你不少。记住，那可是摇摆州。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/385@11/answer_feedback",
+        "2012_Romney_Ryan/answer_feedback_json/446@34/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/385@15/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/446@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Way to avoid giving a response. This question is a landmine.",
+      "sha256": "ea88355777879a3e9eb0c6fa628dfd8649384aaa5eb5567bc97bc03190f6ee76",
+      "zh": "好一招回避回答。这道问题是个雷区。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/386@12/answer_feedback",
+        "2012_Romney_Ryan/answer_feedback_json/447@35/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/386@16/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/447@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "This answer may be fatal to your chances of winning Iowa.",
+      "sha256": "bb68a496610f45ed753f34e682c3076cdcc410a0565a204ab7bc7f5cb4d4765c",
+      "zh": "这个回答可能彻底断送你赢得艾奥瓦州的机会。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/387@13/answer_feedback",
+        "2012_Romney_Ryan/answer_feedback_json/448@36/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/387@17/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/448@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "You sound like Walter Mondale or something, which in the right situations can be marginally effective. ",
+      "sha256": "a85eb52ff595d5c8db15ee65bf77226b38c88024cafa981f3bd70a7329b218ee",
+      "zh": "你听起来像沃尔特·蒙代尔之类的人；在适当情况下，这也许多少有点用。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/391@14/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/391@14/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/391@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Keep the debate right where you want it. This answer will cause you few problems from either the left or the right.",
+      "sha256": "f46d8f134e07f87738c34ea10d6c4904eced891b6543ae65ed7cbe33c2b6893e",
+      "zh": "把辩论维持在你想要的方向。这个回答几乎不会让你遭到左派或右派的麻烦。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/392@15/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/392@15/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/392@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "It's distressing to some of your liberal and elderly supporters to hear you referencing potential Social Security changes.",
+      "sha256": "39702540cbffceabd40bf1081d8ae4878ae45637e12f7f15206bc2b5879e39bd",
+      "zh": "听到你提及可能调整社会保障，一些自由派与老年支持者感到不安。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/393@16/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/393@16/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/393@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Congratulations! You have just touched the third rail of American politics. This response alone may be enough to lose you the election.",
+      "sha256": "b2cb7b994dd6ec03a781e60cef417769036098935dcc56d9f6405ff9dc2a75a2",
+      "zh": "恭喜！你刚刚碰到了美国政治的带电第三轨。仅凭这个回答，就可能让你输掉选举。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/394@17/answer_feedback",
+        "2012_Romney_Ryan/answer_feedback_json/457@40/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/394@17/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/457@37/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/394@21/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/457@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "The people who will elect you this fall are very much in favor of gun control. Try not to disappoint them.",
+      "sha256": "87399b08fad5677bdd9b227832d77c828bf441d7fae576698f143b19d8973fad",
+      "zh": "今年秋天会投票支持你的人，十分赞成枪支管制。尽量别让他们失望。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/395@18/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/395@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Congratulations. You may have found the one political issue that's even more toxic than abolishing Social Security.",
+      "sha256": "06a51956f02aa6b014456a12405e3da67609f70fb2cbfbc7986e50431436b3f5",
+      "zh": "恭喜。你可能找到了唯一一个比废除社会保障更危险的政治议题。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/402@23/answer_feedback",
+        "2012_Romney_Ryan/answer_feedback_json/468@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Your answers need to sound more confident.",
+      "sha256": "1f428ca702eb61e5338678e03888caed013f6361f4eeafaf86f5036f9a87a202",
+      "zh": "你的回答需要听起来更自信些。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/406@24/answer_feedback",
+        "2012_Romney_Ryan/answer_feedback_json/473@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "This is a flat-out confusing answer to get from Mitt Romney.",
+      "sha256": "6f800a6a326f383f85d649d779fb594094b4e6840ca6e162a18d38aed35b722f",
+      "zh": "米特·罗姆尼给出这种回答，简直让人摸不着头脑。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/454@37/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/454@34/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/454@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "That's a solid play. Don't give the liberals any openings to attack you on the Social Security issue.",
+      "sha256": "db2f9e35f407fa953cccb76e4a6de0c712babfde473efdf2740f09b141e83263",
+      "zh": "这招很扎实。在社会保障问题上，别给自由派留下任何攻击你的空当。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/455@38/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/455@35/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/455@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "This is a crowd-pleaser for the base, but you run the risk of alienating elderly voters.",
+      "sha256": "a8471da9c73c15e09c398239d38737f72719ffb981d970811ab5057cdd237338",
+      "zh": "这会讨基本盘欢心，但你也冒着疏远老年选民的风险。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/456@39/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/456@36/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/456@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "You can't say that Mitt. Period.",
+      "sha256": "b28da88c75dc20024491a40c148c0ff1285d6a6f560dd65e1dc3908489f4c4f6",
+      "zh": "米特，这话不能说。没得商量。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/459@41/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/459@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Nothing wrong with that response. It's important to keep the National Rifle Association happy as a Republican candidate.",
+      "sha256": "f2d4adf83afbd6c181a339e07f8dd7592d1ebc61fba5c55b876a301e8e4a2cbb",
+      "zh": "这个回答没问题。作为共和党候选人，让全国步枪协会满意很重要。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/460@42/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/460@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "As bad as things are, you might have a shot with a negative message towards the incumbent. Make sure you offer your own solutions too.",
+      "sha256": "55f4ec2615822182664f32905381b069cda40f4f193a9ca7755855b9b7532a5a",
+      "zh": "局面虽糟，但向现任总统传递负面信息，或许能让你有胜算。记得也提出你自己的解决办法。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/474@49/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/474@43/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/474@55/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/474@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "This could work very well for you. Make sure you also offer some policy specifics to keep your base fired up.",
+      "sha256": "20b23ff5535817080f3619d2fbf4521cfe204bb790138857665ce0b8c8f56a8c",
+      "zh": "这可能对你很有效。记得也提出一些具体政策，让基本盘保持热情。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/475@50/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/475@44/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/475@56/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/475@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "You will need to win some swing states this fall. It sounds like you're trying to strike a good balance between electability and the demands of your conservative base.",
+      "sha256": "b6fa27ebaa9ebdce2599b47513a1b8429114b642d2f2a6e89feef2d5236efd75",
+      "zh": "今年秋天，你需要赢下一些摇摆州。听起来，你正在努力平衡当选的可行性与保守派基本盘的要求。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/476@51/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/476@45/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/476@57/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/476@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "There are enough concrete problems for you to focus on. It seems like a bit of a detour to attack liberalism as a theory, instead of focusing on your own solutions.",
+      "sha256": "f57f12d7553ae311907f35b91d00c5bca840a6ee3b57f1ec44fd1b66ad9bbddd",
+      "zh": "你有足够多的具体问题可以集中火力。攻击自由主义理论，而不聚焦自己的解决办法，似乎有点绕远了。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/477@52/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/477@46/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/477@58/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/477@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Obama's popularity numbers are lukewarm, and the economy is bad. This could work for you.",
+      "sha256": "dc4e527b82e7826581d8b27f56bb7d4b055d4d1be90f9243d47068ca23082025",
+      "zh": "奥巴马的人气不温不火，经济也不好。这可能对你奏效。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/478@53/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/478@47/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/478@59/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/478@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Everyone knows that conservative activists are fantastic at negative advertising. Let them do their thing while you give positive, uplifting solutions.",
+      "sha256": "56de03b905dd258fc37ea678ac5ec31aa743c76ad350998e952a81b1feae007c",
+      "zh": "谁都知道，保守派活动人士很擅长负面广告。让他们各显其能，你则提出积极、鼓舞人心的解决办法。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/479@54/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/479@48/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/479@60/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/479@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "You already have a reputation as a moderate, and plenty of voters are looking for a new start. Make sure you get some conservative support though.",
+      "sha256": "2f3674fecfb922dd855dc5ed2443138f12af383860f0ddeda82d5f06f9e94433",
+      "zh": "你已经有温和派的名声，许多选民也想迎来新的开始。不过，别忘了确保一部分保守派支持你。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/480@55/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/480@49/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/480@61/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/480@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "It sounds like you want to stick to the basics and win a real mandate this fall. ",
+      "sha256": "15042c0ceb7a0878b50f4e1fb30e81f52d9581954f37ed5c4fc6fee3422deccd",
+      "zh": "听起来，你想坚持基本原则，在今年秋天赢得真正的民意授权。",
+      "keys": [
+        "2012_Romney_Ryan/answer_feedback_json/481@56/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/481@50/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/481@62/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/481@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Scott Brown is currently fighting the good fight in the Massachusetts Senate race. Would you be open to offering him a position in your Administration if he falls short there?",
+      "sha256": "32ec477faec6d4d33aabd19f0c332f1aad88d2a28a8a3a47975ab08597ae5212",
+      "zh": "斯科特·布朗目前正在马萨诸塞州参议员竞选中为正义而战。如果他在那里落败，你是否愿意在政府中给他一个职位？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/110@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Overall, are you satisfied with the trade relationship between the U.S. and China?",
+      "sha256": "d5d2964a630dcdbd00d9abbf54f94554dbf7d092c7dfc375db94613cf0e81339",
+      "zh": "总体而言，你是否满意美中贸易关系？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/26@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "How do you view the practice of hydraulic fracturing (aka 'fracking') in the Dakotas and elsewhere?",
+      "sha256": "aabb48156c37b1b21d51187891e6bf2ec4900190dd41a8e8a3b9000863519d46",
+      "zh": "你如何看待南、北达科他州及其他地区使用水力压裂法，也就是“压裂采油气”的做法？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/13@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "What is your opinion on the Tea Party movement?",
+      "sha256": "79d3dd51e4733f119a53229233fca596a676870e5dd06dc840c000f0070417c8",
+      "zh": "你对茶党运动有何看法？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/59@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Is it time for the federal government to cut spending, even with the economy growing at less than 2% annually?",
+      "sha256": "d6ea3f699dc743114a4fad598addddb61188e821abd0ccf4745357b19c173b87",
+      "zh": "即使经济年增长率不足2%，联邦政府是否也到了该削减支出的时候？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/47@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "To what extent will you speak about your religious faith (Mormonism) on the campaign trail?",
+      "sha256": "2f5fa6642e9ec15a1d5f0b4b2c47f777c1d3b4b025a8d573ab3a57aaf4f1b479",
+      "zh": "竞选途中，你会在多大程度上谈论自己的宗教信仰，也就是摩门教？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/116@17/description",
+        "2012_Romney_Rubio/questions_json/116@7/description",
+        "2012_Romney_Pawlenty/questions_json/116@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Would you nominate any Democrats to your cabinet if elected?",
+      "sha256": "881729b72320e6e5af0d6c3b570413ba36b13ad55921e5b2c666b54f7ceaf388",
+      "zh": "如果当选，你会提名民主党人进入内阁吗？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/107@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Do you think reduced penalties and increased treatment for drug users would help reduce the flow of drugs from Latin America?",
+      "sha256": "13529feb47292480542927bfc4240c5220c329f1c5185d0568480c94ea85e1fb",
+      "zh": "你认为，减轻对吸毒者的处罚、增加治疗，是否有助于减少从拉丁美洲流入的毒品？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/50@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Recent reports have highlighted the large amount of money that you and your wife spend on racing horses. Have you ever bet more than $10,000 on a horse race?",
+      "sha256": "7852edc1a7040a30ec9fd998078a977fd243eb88c6b5e7b92f7dbb3e0cad77bf",
+      "zh": "近期报道关注了你和妻子在赛马上花费的大笔金钱。你是否曾在一场赛马上下注超过1万美元？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/109@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "In the past you have expressed varying opinions about abortion. Can you reassure the evangelical Christian movement that you are 100% pro-life in all circumstances?",
+      "sha256": "119fd2fd33011eae1d2e1c6bdd9c4f8e1b1e648662a1aea4ecb5474263cad944",
+      "zh": "过去，你对堕胎表达过不同意见。你能否向福音派基督徒保证，在任何情况下，你都百分之百反对堕胎？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/102@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Should the United States contribute funds to help stabilize the European Union's sovereign debt problems, in order to prevent a possible debt contagion?",
+      "sha256": "213a827e41807e5cca2d1adf9d34d660617b8ba46ef2ae1ee7d8a34b6e912ffe",
+      "zh": "美国是否应该出资帮助欧盟稳定主权债务问题，以防债务危机蔓延？",
+      "keys": [
+        "2012_Romney_Portman/questions_json/16@24/description",
+        "2012_Romney_Rubio/questions_json/16@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Fracking poisons our drinking water and postpones the development of alternative energy sources. This practice should be outlawed.",
+      "sha256": "e5df30ee353f55ae0b88da1bdedbc14a730e69d5afd747b06b7416823f1e44e0",
+      "zh": "水力压裂污染饮用水，延缓替代能源的开发。应该禁止这种做法。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/49@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

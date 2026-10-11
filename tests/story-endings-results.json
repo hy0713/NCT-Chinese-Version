@@ -1,0 +1,1516 @@
+{
+  "date": "2026-10-11T07:29:38.755Z",
+  "fixtures": [
+    {
+      "scope": "2020_Biden_Harris",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Biden_Rice",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Biden_Duckworth",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Biden_Demings",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Biden_Bass",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Biden_Whitmer",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Biden_Warren",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 341,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "win",
+          "ev": 341,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "win",
+          "ev": 342,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "win",
+          "ev": 342,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 341,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 341,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 342,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 342,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        }
+      ]
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "fixtures": 192,
+      "uniqueOutputs": 17,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 341,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "win",
+          "ev": 341,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "win",
+          "ev": 342,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "win",
+          "ev": 342,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 341,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 341,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 342,
+          "popwin": true,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 342,
+          "popwin": false,
+          "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+        }
+      ]
+    },
+    {
+      "scope": "2016_Trump_Pence",
+      "fixtures": 192,
+      "uniqueOutputs": 11,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Trump_Christie",
+      "fixtures": 192,
+      "uniqueOutputs": 11,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Trump_Sessions",
+      "fixtures": 192,
+      "uniqueOutputs": 11,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Trump_Carson",
+      "fixtures": 192,
+      "uniqueOutputs": 11,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Trump_Palin",
+      "fixtures": 192,
+      "uniqueOutputs": 11,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Clinton_Kaine",
+      "fixtures": 192,
+      "uniqueOutputs": 13,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Clinton_Booker",
+      "fixtures": 192,
+      "uniqueOutputs": 13,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Clinton_Brown",
+      "fixtures": 192,
+      "uniqueOutputs": 13,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Clinton_Sanders",
+      "fixtures": 192,
+      "uniqueOutputs": 13,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016_Clinton_Warren",
+      "fixtures": 192,
+      "uniqueOutputs": 13,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Clinton_Booker",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Clinton_Castro",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Clinton_Warren",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Clinton_Brown",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Trump_Brown",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Trump_Christie",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2016a_Trump_Carson",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2012_Obama_Biden",
+      "fixtures": 192,
+      "uniqueOutputs": 12,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2012_Obama_Clinton",
+      "fixtures": 192,
+      "uniqueOutputs": 12,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2012_Romney_Ryan",
+      "fixtures": 192,
+      "uniqueOutputs": 14,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2012_Romney_Portman",
+      "fixtures": 192,
+      "uniqueOutputs": 14,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2012_Romney_Rubio",
+      "fixtures": 192,
+      "uniqueOutputs": 14,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2012_Romney_Pawlenty",
+      "fixtures": 192,
+      "uniqueOutputs": 14,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Bush_Cheney",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Bush_Danforth",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Bush_Ridge",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Bush_Powell",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Gore_Lieberman",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Gore_Graham",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Gore_Kerry",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Gore_Bayh",
+      "fixtures": 192,
+      "uniqueOutputs": 4,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "2000_Nader_LaDuke",
+      "fixtures": 192,
+      "uniqueOutputs": 1,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1988_Bush_Quayle",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": true,
+          "source": "<h3>“”</h3><p><p><p>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": false,
+          "source": "<h3>“”</h3><p><p><p>"
+        }
+      ]
+    },
+    {
+      "scope": "1988_Bush_Dole",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": true,
+          "source": "<h3>“”</h3><p><p><p>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": false,
+          "source": "<h3>“”</h3><p><p><p>"
+        }
+      ]
+    },
+    {
+      "scope": "1988_Bush_Kemp",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": true,
+          "source": "<h3>“”</h3><p><p><p>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": false,
+          "source": "<h3>“”</h3><p><p><p>"
+        }
+      ]
+    },
+    {
+      "scope": "1988_Dukakis_Bentsen",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1988_Dukakis_Glenn",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1988_Dukakis_Gore",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1988_Dukakis_Jackson",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Carter_Mondale",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Carter_Church",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Carter_Glenn",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Carter_Jackson",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Ford_Dole",
+      "fixtures": 192,
+      "uniqueOutputs": 7,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Ford_Baker",
+      "fixtures": 192,
+      "uniqueOutputs": 7,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Ford_Anderson",
+      "fixtures": 192,
+      "uniqueOutputs": 7,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1976_Ford_Connally",
+      "fixtures": 192,
+      "uniqueOutputs": 7,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Nixon_Agnew",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Nixon_Reagan",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Nixon_Rockefeller",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Nixon_Romney",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Humphrey_Muskie",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Humphrey_Kennedy",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Humphrey_Connally",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Humphrey_Harris",
+      "fixtures": 192,
+      "uniqueOutputs": 8,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "fixtures": 192,
+      "uniqueOutputs": 6,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 533,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 533,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 537,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 537,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 533,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 533,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 537,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 537,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 538,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 538,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        }
+      ]
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "fixtures": 192,
+      "uniqueOutputs": 6,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 533,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 533,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 537,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 537,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 533,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 533,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 537,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 537,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 538,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 538,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        }
+      ]
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "fixtures": 192,
+      "uniqueOutputs": 6,
+      "warnings": [],
+      "empty": [
+        {
+          "outcome": "win",
+          "ev": 533,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 533,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 537,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 537,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "win",
+          "ev": 538,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 533,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 533,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 537,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 537,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 538,
+          "popwin": true,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        },
+        {
+          "outcome": "loss",
+          "ev": 538,
+          "popwin": false,
+          "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+        }
+      ]
+    },
+    {
+      "scope": "1964_Johnson_Humphrey",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1964_Goldwater_Miller",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Kennedy_Johnson",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Kennedy_Symington",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Kennedy_Humphrey",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Nixon_Lodge",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Nixon_Dirksen",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Nixon_Rockefeller",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1960_Nixon_Goldwater",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1948_Truman_Barkley",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1948_Dewey_Warren",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1948_Dewey_Stassen",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1948_Dewey_Bricker",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1948_Dewey_Vandenberg",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1916_Wilson_Marshall",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1916_Wilson_Baker",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1916_Hughes_Fairbanks",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1916_Hughes_Burkett",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_McKinley_Hobart",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_McKinley_Reed",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_McKinley_Quay",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_McKinley_Gage",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_Bryan_Sewall",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_Bryan_Stevenson",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_Bryan_Matthews",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_Bryan_Boies",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1896_Bryan_Teller",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1860_Lincoln_Hamlin",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1860_Lincoln_Clay",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1860_Lincoln_Chase",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1860_Douglas_Johnson",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1860_Douglas_Guthrie",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1860_Douglas_Seymour",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1844_Polk_Dallas",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1844_Polk_Woodbury",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1844_Clay_Frelinghuysen",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1844_Clay_Sergeant",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    },
+    {
+      "scope": "1844_Clay_Fillmore",
+      "fixtures": 192,
+      "uniqueOutputs": 3,
+      "warnings": [],
+      "empty": []
+    }
+  ],
+  "checks": [
+    "Synthetic win/loss/tie, popular-vote inversion and EV boundary fixtures for all 105 pairings",
+    "Original endingPicker output resolves to Chinese without modifying source files",
+    "Wallace special ending: local video ended, Chinese typewriter ran, original nextTask completed offline"
+  ],
+  "errors": [],
+  "external": [],
+  "missing": [],
+  "warnings": [],
+  "upstreamEmptyEndings": [
+    {
+      "scope": "1988_Bush_Quayle",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": true,
+      "source": "<h3>“”</h3><p><p><p>"
+    },
+    {
+      "scope": "1988_Bush_Quayle",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": false,
+      "source": "<h3>“”</h3><p><p><p>"
+    },
+    {
+      "scope": "1988_Bush_Dole",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": true,
+      "source": "<h3>“”</h3><p><p><p>"
+    },
+    {
+      "scope": "1988_Bush_Dole",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": false,
+      "source": "<h3>“”</h3><p><p><p>"
+    },
+    {
+      "scope": "1988_Bush_Kemp",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": true,
+      "source": "<h3>“”</h3><p><p><p>"
+    },
+    {
+      "scope": "1988_Bush_Kemp",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": false,
+      "source": "<h3>“”</h3><p><p><p>"
+    }
+  ],
+  "upstreamMediaEndings": [
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "win",
+      "ev": 341,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "win",
+      "ev": 341,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "win",
+      "ev": 342,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "win",
+      "ev": 342,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "loss",
+      "ev": 341,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "loss",
+      "ev": 341,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "loss",
+      "ev": 342,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "outcome": "loss",
+      "ev": 342,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "win",
+      "ev": 341,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "win",
+      "ev": 341,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "win",
+      "ev": 342,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "win",
+      "ev": 342,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "loss",
+      "ev": 341,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "loss",
+      "ev": 341,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "loss",
+      "ev": 342,
+      "popwin": true,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "outcome": "loss",
+      "ev": 342,
+      "popwin": false,
+      "source": "<img src='https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png' width='320'/>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "win",
+      "ev": 533,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "win",
+      "ev": 533,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "win",
+      "ev": 537,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "win",
+      "ev": 537,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "loss",
+      "ev": 533,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "loss",
+      "ev": 533,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "loss",
+      "ev": 537,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "loss",
+      "ev": 537,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "loss",
+      "ev": 538,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "outcome": "loss",
+      "ev": 538,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "win",
+      "ev": 533,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "win",
+      "ev": 533,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "win",
+      "ev": 537,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "win",
+      "ev": 537,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "loss",
+      "ev": 533,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "loss",
+      "ev": 533,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "loss",
+      "ev": 537,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "loss",
+      "ev": 537,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "loss",
+      "ev": 538,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "outcome": "loss",
+      "ev": 538,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "win",
+      "ev": 533,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "win",
+      "ev": 533,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "win",
+      "ev": 537,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "win",
+      "ev": 537,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "win",
+      "ev": 538,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "loss",
+      "ev": 533,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "loss",
+      "ev": 533,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "loss",
+      "ev": 537,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "loss",
+      "ev": 537,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "loss",
+      "ev": 538,
+      "popwin": true,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "outcome": "loss",
+      "ev": 538,
+      "popwin": false,
+      "source": "<video src='https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg' onended='videoDone()' autoplay='true' width='500'></video>"
+    }
+  ],
+  "browser": "155.0.8059.39"
+}

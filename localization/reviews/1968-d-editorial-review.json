@@ -1,0 +1,1097 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1968-d",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 332,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 11,
+      "reason": "Original Wainright misspelling retained in English; Chinese uses conventional Wainwright case name."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "The Great Society is founded upon the best of intentions, but we cannot afford this growth in spending on wasteful programs throughout our government.",
+      "sha256": "5002063dc922763e45a8faf021440ca7f70ad5b16f316fbd0a9950b29fc97f53",
+      "zh": "伟大社会的出发点再好，我们也承担不起政府在浪费性项目上不断增加的支出。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1682@17/description",
+        "1968_Nixon_Romney/answers_json/1682@13/description",
+        "1968_Humphrey_Muskie/answers_json/1682@25/description",
+        "1968_Humphrey_Kennedy/answers_json/1682@25/description",
+        "1968_Humphrey_Harris/answers_json/1682@25/description",
+        "1968_Wallace_LeMay/answers_json/1682@25/description",
+        "1968_Wallace_Chandler/answers_json/1682@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I will do everything in my power to defend the Great Society initiatives that we have. In those cases where these programs fail to eradicate poverty, I will not hesitate to augment them.",
+      "sha256": "990698854ee6c810be32c665eeac01e993840119f3e4abe019ebb9797ca68964",
+      "zh": "我会竭尽所能，捍卫现有的伟大社会举措。如果这些项目未能消除贫困，我会毫不犹豫地加强它们。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1683@18/description",
+        "1968_Nixon_Romney/answers_json/1683@14/description",
+        "1968_Humphrey_Muskie/answers_json/1683@26/description",
+        "1968_Humphrey_Kennedy/answers_json/1683@26/description",
+        "1968_Humphrey_Harris/answers_json/1683@26/description",
+        "1968_Wallace_LeMay/answers_json/1683@26/description",
+        "1968_Wallace_Chandler/answers_json/1683@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "We still need a national health care system. We still need a federal education system. Our work is never finished as long as poverty exists in the United States.",
+      "sha256": "b93094881b678358575b10dd38d810d803c651627e676dc29779f384e0d9d98f",
+      "zh": "我们仍需要全国性的医疗保障体系，也需要联邦教育体系。只要美国还存在贫困，我们的工作就永远没有完成。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1684@19/description",
+        "1968_Nixon_Romney/answers_json/1684@15/description",
+        "1968_Humphrey_Muskie/answers_json/1684@27/description",
+        "1968_Humphrey_Kennedy/answers_json/1684@27/description",
+        "1968_Humphrey_Harris/answers_json/1684@27/description",
+        "1968_Wallace_LeMay/answers_json/1684@27/description",
+        "1968_Wallace_Chandler/answers_json/1684@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Ineffective, immoral, and illegal. Intellectuals in improperly influential offices are destroying the United States.",
+      "sha256": "17a05130c3dcc46fd902403ebc0a15eb8e03c8f02c2be17e14b60495a351ccfb",
+      "zh": "无效、不道德，而且违法。那些占据职位、拥有不当影响力的知识分子，正在毁掉美国。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1691@20/description",
+        "1968_Humphrey_Kennedy/answers_json/1691@31/description",
+        "1968_Wallace_LeMay/answers_json/1691@33/description",
+        "1968_Wallace_Chandler/answers_json/1691@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "I hope for all of our sakes that these programs work, but history proves that they may well have unintended consequences.",
+      "sha256": "506085121b6feb03a379f27387afc36ea2fa7734100826e39e0b8dbbe99e51f2",
+      "zh": "为了大家的利益，我希望这些项目能奏效，但历史证明，它们很可能带来意想不到的后果。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1692@21/description",
+        "1968_Humphrey_Kennedy/answers_json/1692@32/description",
+        "1968_Wallace_LeMay/answers_json/1692@34/description",
+        "1968_Wallace_Chandler/answers_json/1692@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "These will absolutely work. The condition of the indigent classes in this country is appalling.",
+      "sha256": "7571212e8e994667376420e585edfabf29382137d32af1bf0e87b574ed4ced68",
+      "zh": "它们绝对会奏效。这个国家贫困阶层的处境实在令人震惊。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1693@22/description",
+        "1968_Humphrey_Kennedy/answers_json/1693@33/description",
+        "1968_Wallace_LeMay/answers_json/1693@35/description",
+        "1968_Wallace_Chandler/answers_json/1693@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Abortion is an evil, murderous practice. I will stand firm against any attempts to protect this barbarism at the federal level.",
+      "sha256": "b3e1f3a5d363b1567d9ec79cf7c22b099865b70ad028b91ca3a712df4e2c1809",
+      "zh": "堕胎是一种邪恶的杀人行为。我会坚决反对任何在联邦层面保护这种野蛮行为的企图。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1727@38/description",
+        "1968_Humphrey_Kennedy/answers_json/1727@41/description",
+        "1968_Humphrey_Connally/answers_json/1727@30/description",
+        "1968_Wallace_Thurmond/answers_json/1727@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "We all have our own opinions on this practice, but I think the current system is the one that we should stay with. The individual states should be allowed to legislate on abortion as they so please.",
+      "sha256": "6f4f7fbfa68b552d792a04310f0ac003d4bbfdb474594476874773d008f53526",
+      "zh": "对这种做法，人人都有自己的看法，但我认为应维持现行制度。各州应有权按自己的意愿制定堕胎法律。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1728@39/description",
+        "1968_Humphrey_Kennedy/answers_json/1728@42/description",
+        "1968_Humphrey_Connally/answers_json/1728@31/description",
+        "1968_Wallace_Thurmond/answers_json/1728@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "I'm opposed to the practice of abortion personally, but I would support a federal law protecting access to this procedure in the most dire cases for the woman, such as when her life or health are in danger.",
+      "sha256": "13374a0579460302939656cdf6d5c0954d8dd2476402f98085013a12c3468863",
+      "zh": "我个人反对堕胎，但会支持联邦法律，在妇女面临最危急的情况，例如生命或健康受到威胁时，保障她接受这种手术的机会。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1729@40/description",
+        "1968_Humphrey_Kennedy/answers_json/1729@43/description",
+        "1968_Humphrey_Connally/answers_json/1729@32/description",
+        "1968_Wallace_Thurmond/answers_json/1729@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "I support the right of women to control their reproductive destiny. This should be defended at the federal level.",
+      "sha256": "16b554589a1ceb4378677c9d0e911d626df4a54b538c1fafb10380424697a60b",
+      "zh": "我支持妇女掌握自身生育命运的权利。联邦政府应当捍卫这一权利。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/1730@41/description",
+        "1968_Humphrey_Kennedy/answers_json/1730@44/description",
+        "1968_Humphrey_Connally/answers_json/1730@33/description",
+        "1968_Wallace_Thurmond/answers_json/1730@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "I'm just going to run my campaign, and whatever happens with those two shall happen.",
+      "sha256": "7895063bc107dfb4c7a1d7a373459964683345b0232220c7a6ff938f6937f504",
+      "zh": "我只管开展自己的竞选，他们两个会怎么样，就随他们去吧。",
+      "keys": [
+        "1968_Nixon_Rockefeller/answers_json/3292@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Has the current Supreme Court contributed to our disorder with decisions such as <em>Gideon v. Wainright</em> and <em>Miranda v. Arizona</em>?",
+      "sha256": "c2e5896d9c4de6cf5ba03ca40b5fa719fbde2712dece77deb21f33f2cefdc817",
+      "zh": "现任最高法院作出的<em>吉迪恩诉温赖特案</em>和<em>米兰达诉亚利桑那州案</em>等判决，是否助长了社会失序？",
+      "keys": [
+        "1968_Nixon_Romney/questions_json/271@15/description",
+        "1968_Humphrey_Connally/questions_json/271@15/description",
+        "1968_Wallace_Thurmond/questions_json/271@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Should Lyndon Johnson have been able to prevent the Tet Offensive?",
+      "sha256": "0b49335de8299c4d7424242b71d003819d6ee36b4bba78252fa83ceee697bbfd",
+      "zh": "林登·约翰逊本应能够阻止春节攻势吗？",
+      "keys": [
+        "1968_Nixon_Romney/questions_json/265@18/description",
+        "1968_Humphrey_Connally/questions_json/265@18/description",
+        "1968_Humphrey_Harris/questions_json/265@11/description",
+        "1968_Wallace_LeMay/questions_json/265@10/description",
+        "1968_Wallace_Thurmond/questions_json/265@21/description",
+        "1968_Wallace_Chandler/questions_json/265@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "What is your position on expanding the Clean Air Act of 1963? Do you believe that stricter enforcement against pollutants is necessary, or does the current law suffice?",
+      "sha256": "24e085f41b7bce3fd8a5f4ac8bc47b9086ed4f4b5fb02ecee9b70a4efe0e297d",
+      "zh": "你对扩大1963年《清洁空气法》的适用范围有何立场？你认为有必要更严格地治理污染物，还是现行法律已经足够？",
+      "keys": [
+        "1968_Nixon_Romney/questions_json/284@21/description",
+        "1968_Humphrey_Harris/questions_json/284@23/description",
+        "1968_Wallace_LeMay/questions_json/284@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Have you given any thought to programs that would set racial quotas for job hiring or college admissions, in order to accelerate the process of integration?",
+      "sha256": "1f877b36fad25efd4ee25fe3d428beaeb8380d68aa6478c63dc9f7e0f37944c0",
+      "zh": "为加快种族融合，有人主张在招聘或大学招生中设立种族配额。你考虑过这类计划吗？",
+      "keys": [
+        "1968_Nixon_Romney/questions_json/279@23/description",
+        "1968_Humphrey_Kennedy/questions_json/279@19/description",
+        "1968_Humphrey_Connally/questions_json/279@23/description",
+        "1968_Wallace_Chandler/questions_json/279@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "The Tet Offensive was an absolute disaster for the North Vietnamese. Why should it have been prevented?",
+      "sha256": "cdb87e5987d1ff641b7502626b56ad304211ea2a0e4a9a680a93f7540b185e7f",
+      "zh": "春节攻势对北越来说是一场彻底的灾难。为什么要阻止它？",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1700@16/description",
+        "1968_Humphrey_Connally/answers_json/1700@23/description",
+        "1968_Humphrey_Harris/answers_json/1700@33/description",
+        "1968_Wallace_LeMay/answers_json/1700@36/description",
+        "1968_Wallace_Thurmond/answers_json/1700@30/description",
+        "1968_Wallace_Chandler/answers_json/1700@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "I'm worried that for most or all of 1967, Lyndon Johnson repeatedly assured us that the North Vietnamese were on their last legs. It's difficult to assess the situation when we can't rely on the information that we have.",
+      "sha256": "2d57b3433a2cf2360d0ff531d2a12e14cd6fcc09501734716965cfba44ee6501",
+      "zh": "我担心的是，在1967年的大部分时间，甚至全年，林登·约翰逊都一再向我们保证北越已经奄奄一息。如果连获得的消息都不能相信，就很难判断局势。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1701@17/description",
+        "1968_Humphrey_Connally/answers_json/1701@24/description",
+        "1968_Humphrey_Harris/answers_json/1701@34/description",
+        "1968_Wallace_LeMay/answers_json/1701@37/description",
+        "1968_Wallace_Thurmond/answers_json/1701@31/description",
+        "1968_Wallace_Chandler/answers_json/1701@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "We should have had greater security in those places where we were attacked. Let us not forget, however, that this attack greatly hurt the Viet Cong and was a victory for the United States.",
+      "sha256": "bb0f32c5e3e5c0864c276695d36bc9e06413ef8614cafa2a1c7028b1ee742ae9",
+      "zh": "那些遭到袭击的地方，本应加强戒备。不过别忘了，这次进攻重创了越共，对美国来说是一场胜利。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1702@18/description",
+        "1968_Humphrey_Connally/answers_json/1702@25/description",
+        "1968_Humphrey_Harris/answers_json/1702@35/description",
+        "1968_Wallace_LeMay/answers_json/1702@38/description",
+        "1968_Wallace_Thurmond/answers_json/1702@32/description",
+        "1968_Wallace_Chandler/answers_json/1702@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "We could have prevented the Tet Offensive entirely if we'd never entangled ourselves in this Vietnamese quagmire.",
+      "sha256": "7938065737104aa27838a77644d42a25e9281c764fd8fdf89fcae0ca4a34ffd3",
+      "zh": "要是我们从未陷入越南这个泥潭，根本就不会有春节攻势。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1703@19/description",
+        "1968_Humphrey_Connally/answers_json/1703@26/description",
+        "1968_Humphrey_Harris/answers_json/1703@36/description",
+        "1968_Wallace_LeMay/answers_json/1703@39/description",
+        "1968_Wallace_Thurmond/answers_json/1703@33/description",
+        "1968_Wallace_Chandler/answers_json/1703@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Over the past five years we've sent a message to criminals that their rights are more important than the rights of law-abiding Americans. I don't know how anyone was surprised at the rioting and social chaos that we've seen since then.",
+      "sha256": "601e323ec8124ea3bd21305a4b71963696696d0ffedf5afd5573d94f5498a1c4",
+      "zh": "过去五年，我们向罪犯传递的讯息是：他们的权利比守法美国人的权利更重要。我不明白，为什么还会有人对之后的骚乱和社会混乱感到惊讶。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1724@24/description",
+        "1968_Humphrey_Connally/answers_json/1724@27/description",
+        "1968_Wallace_Thurmond/answers_json/1724@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "My priority as President will be to fight for law and order in this country. The Court had good intentions but I am concerned that they overstepped their bounds in these cases.",
+      "sha256": "04bbb613b461fc623ed4a026893f1a4ef5321e8cb43813017f24ae8b3140dcac",
+      "zh": "担任总统后，我的首要任务是为这个国家的法律与秩序而奋斗。最高法院的本意是好的，但我担心这些案件的判决超出了它的权限。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1725@25/description",
+        "1968_Humphrey_Connally/answers_json/1725@28/description",
+        "1968_Wallace_Thurmond/answers_json/1725@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Due process for defendants is a Constitutional right. I'm confident that we will find a way to enforce the law in this country without devolving into a police state.",
+      "sha256": "521507956fd6a01558b2725e909bd506193205369809e8f35b30872c1386e00c",
+      "zh": "被告获得正当法律程序保障，是宪法赋予的权利。我相信，我们能找到维护法律的办法，而不至于沦为警察国家。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1726@26/description",
+        "1968_Humphrey_Connally/answers_json/1726@29/description",
+        "1968_Wallace_Thurmond/answers_json/1726@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "You're dang right I've given some thought to this. We have laws in the books right now that require federal contractors to hire unqualified candidates, and we need to repeal them immediately.",
+      "sha256": "8f2d5f38f36ea1d4f749010deb31683702d2a66aa09c4d3e605a71b64fb9801b",
+      "zh": "你说得没错，我当然考虑过。我们现行法律居然要求联邦承包商雇用不合格的人选，必须立即废除这些法律。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1752@41/description",
+        "1968_Humphrey_Kennedy/answers_json/1752@56/description",
+        "1968_Humphrey_Connally/answers_json/1752@51/description",
+        "1968_Wallace_Chandler/answers_json/1752@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "We promise an equal opportunity to every person to succeed in America. I oppose discrimination in federal hiring and so on, but we also need to ask ourselves if a quota system is really the best way to monitor this issue.",
+      "sha256": "4ac794a44112776bea796608036db34af1c7fdab8640e4492366880124698c30",
+      "zh": "我们承诺，每个人在美国都有平等的成功机会。我反对联邦招聘等领域的歧视，但我们也得问问自己，用配额制度监督这个问题，是否真是最好的办法。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1753@42/description",
+        "1968_Humphrey_Kennedy/answers_json/1753@57/description",
+        "1968_Humphrey_Connally/answers_json/1753@52/description",
+        "1968_Wallace_Chandler/answers_json/1753@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "We absolutely need laws prohibiting discrimination, and we need to go the extra mile in ensuring equal opportunity for women and minorities. Kennedy and Johnson's executive orders relating to federal hiring do just that.",
+      "sha256": "4a5e7359c97f0f8005dc675f758e464c1f8e4fffdad27fd1f3bf4dcf88547b7b",
+      "zh": "我们绝对需要禁止歧视的法律，也必须付出更多努力，确保妇女和少数族裔享有平等机会。肯尼迪和约翰逊有关联邦招聘的行政命令，正是在做这件事。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1754@43/description",
+        "1968_Humphrey_Kennedy/answers_json/1754@58/description",
+        "1968_Humphrey_Connally/answers_json/1754@53/description",
+        "1968_Wallace_Chandler/answers_json/1754@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "What we have now is a good start, but we need to be taking more affirmative action to fight against the effects of racial injustice in this country.",
+      "sha256": "bba243f814cbf7ea0d8a23a4edc862afc46ce5ef50108fdb1522e07c38f02b5f",
+      "zh": "现有措施是良好的开端，但我们还需要采取更多平权措施，消除这个国家种族不公造成的影响。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1755@44/description",
+        "1968_Humphrey_Kennedy/answers_json/1755@59/description",
+        "1968_Humphrey_Connally/answers_json/1755@54/description",
+        "1968_Wallace_Chandler/answers_json/1755@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "This is another case of pointy-headed intellectualism that will regulate our factories right out of business and kill the jobs of the working man.",
+      "sha256": "2a7c45dbef66de6e5109daaefb4e242ef4fa635dae9519856e123441c8e188b9",
+      "zh": "这又是尖脑袋知识分子的空论。他们要用监管把我们的工厂整到倒闭，让劳动者失去饭碗。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1771@53/description",
+        "1968_Humphrey_Harris/answers_json/1771@51/description",
+        "1968_Wallace_LeMay/answers_json/1771@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "We need to find a balance between protecting the environment and protecting our economy. I support this Act but we also need to enforce it in a practical manner.",
+      "sha256": "6bf2139a7f5ba83806f8fd344438b2b576574e1c7d6618f77b391ae8afc0e949",
+      "zh": "我们必须在保护环境和保护经济之间找到平衡。我支持这部法律，但执行时也必须切合实际。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1772@54/description",
+        "1968_Humphrey_Harris/answers_json/1772@52/description",
+        "1968_Wallace_LeMay/answers_json/1772@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "I dream of a country where every citizen has clean air to breathe. The Clean Air Act is a good start but I'm not opposed to further legislation in this area.",
+      "sha256": "b54b6e5b9b729074a780ebd8f5d52c31393dcee6de038672056125194b1ae80c",
+      "zh": "我梦想中的国家，每个公民都能呼吸清洁空气。《清洁空气法》是个良好的开端，我也不反对在这一领域进一步立法。",
+      "keys": [
+        "1968_Nixon_Romney/answers_json/1773@55/description",
+        "1968_Humphrey_Harris/answers_json/1773@53/description",
+        "1968_Wallace_LeMay/answers_json/1773@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "What will you say in your acceptance speech at the Democratic Convention in Chicago? Will you address the rioting outside and the legacy of Robert Kennedy?",
+      "sha256": "64e387ef27c8b1e62dc2ba7fb37aa07c2651d27ece36d1bbc00d7b0d27a525c2",
+      "zh": "在芝加哥民主党全国代表大会的提名接受演讲中，你会说些什么？你会谈到场外的骚乱和罗伯特·肯尼迪留下的事业吗？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/328@0/description",
+        "1968_Humphrey_Kennedy/questions_json/328@1/description",
+        "1968_Humphrey_Connally/questions_json/328@0/description",
+        "1968_Humphrey_Harris/questions_json/328@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "What is the overall theme of your campaign, remembering that the Democratic Party is underfunded and severely divided?",
+      "sha256": "c57bcd313bdd0ea1d69a946bc7ba03f6df53bb00ca2631e7ae172cb4ea71ecd8",
+      "zh": "鉴于民主党资金不足、内部分裂严重，你的竞选总体主题是什么？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/327@1/description",
+        "1968_Humphrey_Kennedy/questions_json/327@0/description",
+        "1968_Humphrey_Connally/questions_json/327@1/description",
+        "1968_Humphrey_Harris/questions_json/327@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "What is your overall position on the Vietnam War?",
+      "sha256": "ef78da9def7a67d9e35afd784b989a8f725d6ada5fe0c37611959cf01939166c",
+      "zh": "你对越南战争的总体立场是什么？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/252@2/description",
+        "1968_Humphrey_Kennedy/questions_json/252@7/description",
+        "1968_Humphrey_Connally/questions_json/252@2/description",
+        "1968_Humphrey_Harris/questions_json/252@6/description",
+        "1968_Wallace_LeMay/questions_json/252@5/description",
+        "1968_Wallace_Thurmond/questions_json/252@1/description",
+        "1968_Wallace_Chandler/questions_json/252@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Richard Nixon, perhaps remembering the debacle of 1960, has expressed little interest in a debate this election. Will you challenge him to one?",
+      "sha256": "6a4ea1e1755ed4001e3ed3df1ae81b68d232b0b681b1663bd12cfd1cbfb4dc7a",
+      "zh": "理查德·尼克松也许还记得1960年的惨痛经历，对本届选举的辩论兴趣不大。你会向他发出辩论挑战吗？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/330@3/description",
+        "1968_Humphrey_Kennedy/questions_json/330@8/description",
+        "1968_Humphrey_Connally/questions_json/330@7/description",
+        "1968_Humphrey_Harris/questions_json/330@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "If elected, what will you do to get the student and Negro riots in this country under control?",
+      "sha256": "409d1f3bd4ecdb15f3dfe0f5a026aa0e10af2c6e08c9db241c8b919e968d3a40",
+      "zh": "如果当选，你会怎样控制这个国家的学生和黑人骚乱？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/253@4/description",
+        "1968_Humphrey_Kennedy/questions_json/253@4/description",
+        "1968_Humphrey_Connally/questions_json/253@6/description",
+        "1968_Humphrey_Harris/questions_json/253@8/description",
+        "1968_Wallace_LeMay/questions_json/253@4/description",
+        "1968_Wallace_Thurmond/questions_json/253@5/description",
+        "1968_Wallace_Chandler/questions_json/253@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "What is more important for your campaign -- competing with Nixon in the swing states, or winning over Wallace voters in the south and some northern cities?",
+      "sha256": "8dd68ed29f64a26baa5df63771d606ae84a6b8a2b344e785a0b611f347442694",
+      "zh": "对你的竞选来说，哪件事更重要：在摇摆州与尼克松竞争，还是争取南方及北方部分城市的华莱士选民？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/338@6/description",
+        "1968_Humphrey_Kennedy/questions_json/338@5/description",
+        "1968_Humphrey_Connally/questions_json/338@3/description",
+        "1968_Humphrey_Harris/questions_json/338@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "An alarming percentage of union voters are inspired by the aggressively racist rhetoric of George Wallace. What will you do to win this group back to your side?",
+      "sha256": "82a41c20e2c35621ea65f1647fe304c3dbef7db061162d12bc7f00448a6eadf0",
+      "zh": "乔治·华莱士咄咄逼人的种族主义言论，吸引了多得令人担忧的工会选民。你会怎样把他们争取回来？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/329@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "What can you say to the people of the South to dampen the appeal of George Wallace?",
+      "sha256": "c78a1afc3a96704a41386a7687e51a1b9fe3f03829d6f3dced4a31258b504674",
+      "zh": "你会对南方人民说些什么，以削弱乔治·华莱士的吸引力？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/336@15/description",
+        "1968_Humphrey_Connally/questions_json/336@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "After the debacle of the convention in Chicago, are you willing to make a statement condemning the student protestors? Or conversely, one blaming the Chicago police?",
+      "sha256": "c7c3723f74010b1ffa3632fe972b3a65964c6da6421398530b5fdcaac37a0a96",
+      "zh": "经历芝加哥大会的混乱之后，你愿意发表声明谴责学生抗议者吗？或者反过来，指责芝加哥警察？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/331@17/description",
+        "1968_Humphrey_Kennedy/questions_json/331@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "On the weekend before the election, Lyndon Johnson's peace negotiations have collapsed with the North Vietnamese. Even worse, there are rumors that a Nixon operative has sabotaged the negotiations. Nixon swears to you on his honor that he is innocent. Will you make this an issue over the last two days of the campaign?",
+      "sha256": "1a6905b07997820b3cd68b094e7813a426b5b99d0184de8df26ce813336c81ba",
+      "zh": "选举前的那个周末，林登·约翰逊与北越的和平谈判破裂了。更糟的是，有传言称尼克松的一名政治助手破坏了谈判。尼克松以名誉向你保证自己清白。你会在竞选最后两天拿这件事做文章吗？",
+      "keys": [
+        "1968_Humphrey_Muskie/questions_json/333@24/description",
+        "1968_Humphrey_Kennedy/questions_json/333@24/description",
+        "1968_Humphrey_Connally/questions_json/333@24/description",
+        "1968_Humphrey_Harris/questions_json/333@24/description",
+        "1968_Wallace_LeMay/questions_json/333@24/description",
+        "1968_Wallace_Thurmond/questions_json/333@24/description",
+        "1968_Wallace_Chandler/questions_json/333@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "We keep emboldening the enemy in Vietnam with half-measures. We will never win this war unless we escalate it.",
+      "sha256": "4c9cfb34469880c130d221085113d2ec57b67e0e93da46531b27c6f92e6a7566",
+      "zh": "我们在越南采取的半吊子措施，一再助长敌人的气焰。不升级战争，我们就永远赢不了。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1653@2/description",
+        "1968_Humphrey_Kennedy/answers_json/1653@2/description",
+        "1968_Humphrey_Connally/answers_json/1653@0/description",
+        "1968_Humphrey_Harris/answers_json/1653@0/description",
+        "1968_Wallace_LeMay/answers_json/1653@0/description",
+        "1968_Wallace_Thurmond/answers_json/1653@0/description",
+        "1968_Wallace_Chandler/answers_json/1653@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "I'm in no position to comment on the conduct of the war. When I'm President I will do everything in my power to seek peace, but I cannot undermine the current Administration.",
+      "sha256": "4abfa5622b506bbaad788ad65e30ace7f666024b819136d3b649690002763c1b",
+      "zh": "我不便评论战争的指挥。担任总统后，我会竭尽所能寻求和平，但不能拆现任政府的台。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1654@3/description",
+        "1968_Humphrey_Kennedy/answers_json/1654@3/description",
+        "1968_Humphrey_Connally/answers_json/1654@1/description",
+        "1968_Humphrey_Harris/answers_json/1654@1/description",
+        "1968_Wallace_LeMay/answers_json/1654@1/description",
+        "1968_Wallace_Thurmond/answers_json/1654@1/description",
+        "1968_Wallace_Chandler/answers_json/1654@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "We should stop bombing North Vietnam and attempt to negotiate a peace settlement. In the mean time, we should be putting our troops at risk only when absolutely necessary.",
+      "sha256": "7027911a1dbb6c452061f9959fe4c68592ddc17240ae4149641ed9f46c62afbf",
+      "zh": "我们应停止轰炸北越，尝试谈判达成和平解决方案。在此期间，只有在绝对必要时，才应让我们的部队冒险。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1655@4/description",
+        "1968_Humphrey_Kennedy/answers_json/1655@4/description",
+        "1968_Humphrey_Connally/answers_json/1655@2/description",
+        "1968_Humphrey_Harris/answers_json/1655@2/description",
+        "1968_Wallace_LeMay/answers_json/1655@2/description",
+        "1968_Wallace_Thurmond/answers_json/1655@2/description",
+        "1968_Wallace_Chandler/answers_json/1655@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "There has been a total abdication of responsibility in this country over the past five years. The riots in Detroit and Newark are simply the final straw in what we can accept. I will crack down severely on disorder and nominate judges who will overturn atrocious decisions such as <em>Miranda v. Arizona</em>.",
+      "sha256": "eb140a53d92d962afb4d89b4757a87d8812247bf2b196d082e95eee5e05e690d",
+      "zh": "过去五年，这个国家的当权者完全放弃了责任。底特律和纽瓦克的骚乱，已经到了我们忍无可忍的地步。我会严厉镇压混乱，提名能够推翻<em>米兰达诉亚利桑那州案</em>这类恶劣判决的法官。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1657@6/description",
+        "1968_Humphrey_Kennedy/answers_json/1657@6/description",
+        "1968_Humphrey_Connally/answers_json/1657@4/description",
+        "1968_Humphrey_Harris/answers_json/1657@4/description",
+        "1968_Wallace_LeMay/answers_json/1657@4/description",
+        "1968_Wallace_Thurmond/answers_json/1657@4/description",
+        "1968_Wallace_Chandler/answers_json/1657@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Law and order is the primary theme of my campaign. We also need to encourage investment in the ghettoes to ensure a high quality of life and prevent these occurrences.",
+      "sha256": "4f480ea6153917dcc0f3b323f0f36606b2f948107d288639abc35e447a6505ef",
+      "zh": "法律与秩序是我竞选的首要主题。我们也需要鼓励对贫困黑人聚居区的投资，改善生活质量，防止类似事件发生。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1658@7/description",
+        "1968_Humphrey_Kennedy/answers_json/1658@7/description",
+        "1968_Humphrey_Connally/answers_json/1658@5/description",
+        "1968_Humphrey_Harris/answers_json/1658@5/description",
+        "1968_Wallace_LeMay/answers_json/1658@5/description",
+        "1968_Wallace_Thurmond/answers_json/1658@5/description",
+        "1968_Wallace_Chandler/answers_json/1658@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Our first priority is always to have strong law enforcement. We also need more spending on education, more integration in our schools, and more programs to ensure that blacks can advance in our society after the stain of segregation.",
+      "sha256": "1a9cb6dfa146925322abe6a97ac05d45757526e3bebfbc275c05be5ca6c6f18a",
+      "zh": "我们的首要任务始终是有力执法。我们也需要增加教育支出，推动学校进一步融合，设立更多项目，让黑人在种族隔离留下的污点之后，能够在社会中获得向上发展的机会。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1659@8/description",
+        "1968_Humphrey_Kennedy/answers_json/1659@8/description",
+        "1968_Humphrey_Connally/answers_json/1659@6/description",
+        "1968_Humphrey_Harris/answers_json/1659@6/description",
+        "1968_Wallace_LeMay/answers_json/1659@6/description",
+        "1968_Wallace_Thurmond/answers_json/1659@6/description",
+        "1968_Wallace_Chandler/answers_json/1659@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "If we had peace in Vietnam and more investment in education here at home, we wouldn't be having these riots.",
+      "sha256": "66cb9f86318aa69e7c1bea23c95e0a6c26ec17eaec7a68964508132de6d1c396",
+      "zh": "如果越南实现和平，国内教育得到更多投资，我们就不会面对这些骚乱。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/1660@9/description",
+        "1968_Humphrey_Kennedy/answers_json/1660@9/description",
+        "1968_Humphrey_Connally/answers_json/1660@7/description",
+        "1968_Humphrey_Harris/answers_json/1660@7/description",
+        "1968_Wallace_LeMay/answers_json/1660@7/description",
+        "1968_Wallace_Thurmond/answers_json/1660@7/description",
+        "1968_Wallace_Chandler/answers_json/1660@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "We can afford to lose the South if we can win in the North. I will campaign elsewhere in the country and ignore racial issues as much as possible.",
+      "sha256": "c0d3123b4eb9825ee43e7628e00a739b0df90407622b554bd4cee4a63b3ad7a9",
+      "zh": "只要能赢下北方，我们就承受得起失去南方。我会到全国其他地区竞选，尽可能不谈种族问题。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3236@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "By staking a moderate stance on racial issues, I will win a national majority.",
+      "sha256": "475ed30ce0ef3ea77eda9c721a031877a1f37e35b7567338c75d1baa8571a1f1",
+      "zh": "在种族问题上采取温和立场，我就能在全国赢得多数支持。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3237@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "I will make it a point to disavow racial divisiveness as I travel, lest there be any doubt of my stance. We can solidly defeat Nixon and lock Wallace outside of the South and win a mandate for real governance.",
+      "sha256": "4e8fe64727232e90114ca7408342ddedf5d06e6c60746c315db3ad2d918ae3ab",
+      "zh": "我会在巡回竞选时明确反对挑动种族对立，让人们对我的立场不再有疑虑。我们可以稳稳击败尼克松，把华莱士的影响限制在南方，赢得切实治理国家的授权。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3238@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "For two decades I have fought for organized labor and supported the Civil Rights movement. I will focus heavily on my biography as I travel.",
+      "sha256": "719f7c647cf3f5e44e54bb4cc61ca12fa5307680c60b7f8540586280b12de186",
+      "zh": "二十年来，我一直为有组织的劳工运动奋斗，支持民权运动。巡回竞选时，我会着重讲述自己的经历。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3251@66/description",
+        "1968_Humphrey_Kennedy/answers_json/3251@70/description",
+        "1968_Humphrey_Connally/answers_json/3251@63/description",
+        "1968_Humphrey_Harris/answers_json/3251@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "I will reaffirm my support for the Great Society and pledge to do everything in my power to end the Vietnam War.",
+      "sha256": "f3acb2fa2612c7b218e0464a406d83260b035d830d1f63b64367d12293b9107a",
+      "zh": "我会重申对伟大社会的支持，并承诺竭尽所能结束越南战争。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3252@67/description",
+        "1968_Humphrey_Kennedy/answers_json/3252@71/description",
+        "1968_Humphrey_Connally/answers_json/3252@64/description",
+        "1968_Humphrey_Harris/answers_json/3252@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "The Johnson Administration has done a lot of good things for this country. I will continue his policies as President.",
+      "sha256": "70183aee633f43abeb57ec46de87d115144a231412065a8e5686351352e50882",
+      "zh": "约翰逊政府为这个国家做了许多好事。担任总统后，我会延续他的政策。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3253@68/description",
+        "1968_Humphrey_Kennedy/answers_json/3253@72/description",
+        "1968_Humphrey_Connally/answers_json/3253@65/description",
+        "1968_Humphrey_Harris/answers_json/3253@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "First and foremost, I will end the war in Vietnam by any means necessary. Beyond that I will support the AFL-CIO and otherwise bear the standard for liberalism in this country.",
+      "sha256": "df8f36965a574f6e940fdb1017b4bfd8e125a1fa7428e1d91905545ffb7a14f5",
+      "zh": "首先，我会尽一切必要手段结束越南战争。此外，我会支持劳联—产联，并在其他方面扛起美国自由主义的旗帜。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3254@69/description",
+        "1968_Humphrey_Kennedy/answers_json/3254@73/description",
+        "1968_Humphrey_Connally/answers_json/3254@66/description",
+        "1968_Humphrey_Harris/answers_json/3254@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "I will tactfully criticize the police overreaction and then pivot towards a promise to end the war in Vietnam. ",
+      "sha256": "7c2390acaf9fc9c0a6130edea4487fb382216d9b37c73d89d840b7d7fc1cd33d",
+      "zh": "我会委婉批评警察的过度反应，再把话题转向结束越南战争的承诺。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3255@70/description",
+        "1968_Humphrey_Kennedy/answers_json/3255@74/description",
+        "1968_Humphrey_Connally/answers_json/3255@67/description",
+        "1968_Humphrey_Harris/answers_json/3255@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "It is not worth addressing the violence outside. I will make a general pledge for law and order and focus my speech on the trials of the working man.",
+      "sha256": "b3d02115c56749fea3d475180e1b21b99e2fd96e46ea5ffab2df96f97ee24f56",
+      "zh": "场外的暴力不值得专门谈论。我会作出维护法律与秩序的一般承诺，把演讲重点放在劳动者的艰难处境上。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3256@71/description",
+        "1968_Humphrey_Kennedy/answers_json/3256@75/description",
+        "1968_Humphrey_Connally/answers_json/3256@68/description",
+        "1968_Humphrey_Harris/answers_json/3256@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "I will remind the American people that we stand at a critical juncture in the Civil Rights movement, pledge my full support, and also pledge to end the violence in the streets.",
+      "sha256": "f3517c34a81d4da6eae918d7edbb7f026c374bf583039b32534b04d29a6ef8b4",
+      "zh": "我会提醒美国人民，我们正处于民权运动的关键时刻，承诺给予全面支持，也承诺结束街头暴力。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3257@72/description",
+        "1968_Humphrey_Kennedy/answers_json/3257@76/description",
+        "1968_Humphrey_Connally/answers_json/3257@69/description",
+        "1968_Humphrey_Harris/answers_json/3257@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "My speech will hinge on a defense of liberalism and on the strong economy. I will call for a truce in Vietnam and for a truce on the racial issues in our country. ",
+      "sha256": "89a2673c90edaa204d389b28dcbecec7bebf45f89dcd68863d3f1c567cbb658a",
+      "zh": "我的演讲将围绕捍卫自由主义和强劲的经济展开。我会呼吁越南停战，也呼吁国内在种族问题上停止对抗。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3258@73/description",
+        "1968_Humphrey_Kennedy/answers_json/3258@77/description",
+        "1968_Humphrey_Connally/answers_json/3258@70/description",
+        "1968_Humphrey_Harris/answers_json/3258@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Without Texas we are done in this election. I will clearly state my disagreement with Wallace, but we should focus on other issues for the most part.",
+      "sha256": "7124e6138312ca19c6409804bab275d2e5249bba15292c481ee32549059c1044",
+      "zh": "没有得克萨斯州，这场选举我们就完了。我会明确表示与华莱士意见不同，但总体还是应该集中谈其他议题。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3259@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "We need to remind union workers at every opportunity that Mr. Wallace is anti-union and regressive on every economic issue of the day.",
+      "sha256": "1434f9a5c31327e94637c64e8db8698335ba36b27707b5ac8e5889b31354126e",
+      "zh": "我们必须抓住每个机会提醒工会工人：华莱士先生反对工会，在当今每个经济问题上都主张倒退。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3260@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Let's let the AFL-CIO campaign amongst the unions. I will focus on winning the anti-war voters back to our side, and I will reaffirm my commitment to Civil Rights so we can win the minority vote.",
+      "sha256": "93b00a3b7c49e817b22ada6a0ae8bea78e79592df4e506e68fa3b9b1d149b6be",
+      "zh": "让劳联—产联去工会中竞选吧。我会着重把反战选民争取回来，重申对民权的承诺，以赢得少数族裔选票。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3261@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "The debates in 1960 were an anomaly. If Nixon has no interest this time, I'm fine with that.",
+      "sha256": "90e71f498895f4e696f80cca375316a46358ebc783488e3f5b8ae061b0adad7b",
+      "zh": "1960年的辩论是个例外。如果尼克松这次没兴趣，我也无所谓。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3263@78/description",
+        "1968_Humphrey_Kennedy/answers_json/3263@78/description",
+        "1968_Humphrey_Connally/answers_json/3263@71/description",
+        "1968_Humphrey_Harris/answers_json/3263@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "This is a real opening for us. I will challenge Nixon on this issue relentlessly.",
+      "sha256": "fba9d5341ae57e33c3b7e6c77061a9038a450a9c20586372fccc47effcd1ecb9",
+      "zh": "这对我们是个真正的突破口。我会不断就此向尼克松发起挑战。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3264@79/description",
+        "1968_Humphrey_Muskie/answers_json/3265@80/description",
+        "1968_Humphrey_Muskie/answers_json/3266@81/description",
+        "1968_Humphrey_Kennedy/answers_json/3264@79/description",
+        "1968_Humphrey_Kennedy/answers_json/3265@80/description",
+        "1968_Humphrey_Kennedy/answers_json/3266@81/description",
+        "1968_Humphrey_Connally/answers_json/3264@72/description",
+        "1968_Humphrey_Connally/answers_json/3265@73/description",
+        "1968_Humphrey_Connally/answers_json/3266@74/description",
+        "1968_Humphrey_Harris/answers_json/3264@79/description",
+        "1968_Humphrey_Harris/answers_json/3265@80/description",
+        "1968_Humphrey_Harris/answers_json/3266@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "I fully blame the protestors for what happened. Their goal from day one was to spur a violent confrontation and disrupt the convention.",
+      "sha256": "d5c5b3da40eedf79794dc91d0b96870008a47ff6db0b3d87eccc45b0bc9c315d",
+      "zh": "我认为发生的一切全是抗议者的责任。他们从一开始就想挑起暴力冲突，扰乱大会。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3268@82/description",
+        "1968_Humphrey_Kennedy/answers_json/3268@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "What we saw in Chicago was a police riot, pure and simple. ",
+      "sha256": "f101495cd06208c6d58d7ed5b9bc562a8152a4149f7134a97e883e303d2a82a2",
+      "zh": "我们在芝加哥看到的，就是警察制造的暴乱，没有别的解释。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3269@83/description",
+        "1968_Humphrey_Kennedy/answers_json/3269@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "I think there's a lot of blame for both sides. Surely we can all agree that violence cannot be condoned, whatever the source.",
+      "sha256": "21f54743c788a127082a914eb8f50aae1c6a18b90b5fc0eded4087d2aabd371f",
+      "zh": "我认为双方都有不少责任。无论暴力来自哪一方，都不能纵容，这一点大家总能同意吧。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3270@84/description",
+        "1968_Humphrey_Kennedy/answers_json/3270@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "I won't be making any statements about Chicago in my campaign. We should forget this as soon as possible and move on to the issues affecting our country.",
+      "sha256": "d278dec69c20b5a3a1298d1cc8637c24399140ab0005a0d9b4627bdea490c0c7",
+      "zh": "我不会在竞选中就芝加哥事件发表任何声明。我们应尽快把它抛在脑后，转向影响国家的实际问题。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3271@85/description",
+        "1968_Humphrey_Kennedy/answers_json/3271@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "We have no idea if Nixon was involved in this or not. I won't cheapen the outcome of this election and risk my own reputation with flimsy innuendo.",
+      "sha256": "7d0f33d11aaa9e70dc643af0164d07cc224042e2dd46e47d2b210d29548bfb86",
+      "zh": "我们根本不知道尼克松是否参与了此事。我不会用站不住脚的影射玷污这场选举的结果，也不会拿自己的声誉冒险。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3275@86/description",
+        "1968_Humphrey_Kennedy/answers_json/3275@86/description",
+        "1968_Humphrey_Connally/answers_json/3275@78/description",
+        "1968_Humphrey_Harris/answers_json/3275@82/description",
+        "1968_Wallace_LeMay/answers_json/3275@72/description",
+        "1968_Wallace_Thurmond/answers_json/3275@73/description",
+        "1968_Wallace_Chandler/answers_json/3275@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "This is bordering on treason. The American people deserve to hear about this.",
+      "sha256": "6fa1fc5c9813c2d017cfc5ad9a0ba475e528dba61045f24709d38ddce78209ce",
+      "zh": "这几乎是叛国。美国人民有权知道这件事。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3276@87/description",
+        "1968_Humphrey_Muskie/answers_json/3277@88/description",
+        "1968_Humphrey_Kennedy/answers_json/3276@87/description",
+        "1968_Humphrey_Kennedy/answers_json/3277@88/description",
+        "1968_Humphrey_Connally/answers_json/3276@79/description",
+        "1968_Humphrey_Connally/answers_json/3277@80/description",
+        "1968_Humphrey_Harris/answers_json/3276@83/description",
+        "1968_Humphrey_Harris/answers_json/3277@84/description",
+        "1968_Wallace_LeMay/answers_json/3276@73/description",
+        "1968_Wallace_LeMay/answers_json/3277@74/description",
+        "1968_Wallace_Thurmond/answers_json/3276@74/description",
+        "1968_Wallace_Thurmond/answers_json/3277@75/description",
+        "1968_Wallace_Chandler/answers_json/3276@70/description",
+        "1968_Wallace_Chandler/answers_json/3277@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "Wallace is trying to throw the election to Nixon. How anyone could believe he's still a Democrat is beyond me.",
+      "sha256": "5a15273fd804566ecb95dcd73b7b608781e6f3c29892d18851dbef52b39c0358",
+      "zh": "华莱士想把选举送给尼克松。怎么还会有人相信他仍是个民主党人，我实在无法理解。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3286@89/description",
+        "1968_Humphrey_Connally/answers_json/3286@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "My policies will work better at cracking down on unlawfulness, because I'm actually going to address the root issues that have caused this recent trouble.",
+      "sha256": "3f26c8a049e12b9f4374344778950ff355b90475a5c71d88d3668d4ee50bb4ff",
+      "zh": "我的政策能更有效地打击违法行为，因为我会真正解决导致近来动荡的根本问题。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3287@90/description",
+        "1968_Humphrey_Connally/answers_json/3287@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "I'm more worried about Nixon than Wallace. We need to focus on winning Ohio, Missouri, Illinois, and California if we're gonna win.",
+      "sha256": "0a5b9ef6a31e14209c4d20a5de44645afa76c9b1d86671915017f9bc0380a6ab",
+      "zh": "比起华莱士，我更担心尼克松。要想获胜，我们必须集中力量赢下俄亥俄州、密苏里州、伊利诺伊州和加利福尼亚州。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3288@91/description",
+        "1968_Humphrey_Connally/answers_json/3288@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "Nixon is our main opponent in key states, such as Ohio, Illinois, and California. We must focus on campaigning against him in these key states, or else, god forbid, Wallace actually deadlocks the Electoral College.",
+      "sha256": "4f847e074a53c7fcac78c73def050ad01c2b0d8bace02a255fd9141a98ccb80f",
+      "zh": "尼克松才是我们在俄亥俄州、伊利诺伊州和加利福尼亚州等关键州的主要对手。我们必须在这些州集中火力对付他，否则——但愿不会如此——华莱士真有可能让选举人团陷入僵局。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3293@93/description",
+        "1968_Humphrey_Kennedy/answers_json/3293@90/description",
+        "1968_Humphrey_Connally/answers_json/3293@85/description",
+        "1968_Humphrey_Harris/answers_json/3293@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "We shall certianly be campaigning in the South to some extent. We can't just concede the entire region to Wallace. Plus, we must eat into the small, but potentially decisive support he has recieved in some northern cities.",
+      "sha256": "94c8fa265c459a93ad7115633a73aab146cfee0a6ac74a436c59ff6ac25423dc",
+      "zh": "我们当然会在南方进行一定程度的竞选，不能把整个地区都拱手让给华莱士。另外，我们必须削弱他在北方部分城市得到的支持；那些选票虽然不多，却可能决定胜负。",
+      "keys": [
+        "1968_Humphrey_Muskie/answers_json/3294@94/description",
+        "1968_Humphrey_Kennedy/answers_json/3294@91/description",
+        "1968_Humphrey_Connally/answers_json/3294@86/description",
+        "1968_Humphrey_Harris/answers_json/3294@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "Cheers and jeers mix in the convention hall, but elsewhere your speech is well-received.",
+      "sha256": "ba6f78b1b1a75507c37a1e44f5b19f431a78fa979a1769b8c8816bff1825b518",
+      "zh": "大会会场里欢呼和嘘声交织，但在其他地方，你的演讲获得了好评。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/687@0/answer_feedback",
+        "1968_Humphrey_Muskie/answer_feedback_json/689@3/answer_feedback",
+        "1968_Humphrey_Muskie/answer_feedback_json/687@8/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/687@0/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/689@3/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/687@8/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/687@0/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/689@3/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/687@8/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/687@0/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/689@3/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/687@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "The riots outside of the convention hall are the eight-hundred pound gorilla in the room. You can't just ignore them.",
+      "sha256": "1aece77ad523d3de417d45b122c55e56cf933f60b5ee6fc1014faf8559bf43f4",
+      "zh": "会场外的骚乱，是眼前那个谁都无法回避的大问题。你不能装作看不见。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/688@1/answer_feedback",
+        "1968_Humphrey_Muskie/answer_feedback_json/688@9/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/688@1/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/688@9/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/688@1/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/688@9/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/688@1/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/688@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

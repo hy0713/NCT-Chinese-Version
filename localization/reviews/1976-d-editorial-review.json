@@ -1,0 +1,1162 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1976-d",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 402,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "This is not what your party wants to hear out of you!",
+      "sha256": "55b05db97e0f0f7822dcc3880579bc9ebb01668e0248ad5980fdfaf69a83d4a2",
+      "zh": "这可不是党内人士想听你说的话！",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1174@109/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1174@122/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1174@119/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1174@112/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1174@110/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "This is the type of middle-ground answer that will keep you in contention, but some conservatives are upset.",
+      "sha256": "8f45f2902b64645ad93b050b5712b94b35abf09c8040191e236f6f4b9962b24c",
+      "zh": "这种中间立场的回答，能让你继续保持竞争力，但一些保守派不高兴了。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1175@110/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1175@123/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1175@120/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1175@113/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1175@111/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "This is a typical Republican position.",
+      "sha256": "2133c6903fac5ae34780e8addc96b21cb9a9b13453bd48fc30401e41b19dc08b",
+      "zh": "这是典型的共和党立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1176@111/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1176@124/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1176@121/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1176@114/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1176@112/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "Even Republicans are looking for ways to defuse Cold War tensions these days. This is in line with your actions as President thus far.",
+      "sha256": "7b1945c163e5683b3fc81402081ff3dbc73fd5fef86c45dda35c5edfd6d18c3b",
+      "zh": "在这些日子里，连共和党人都在寻找缓和冷战紧张局势的办法。这也符合你迄今担任总统时采取的行动。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1178@113/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1178@117/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1178@116/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1178@111/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "This isn't that popular of an idea. Even Democrats are divided on it...",
+      "sha256": "64279259061f77610ff8e53408583b73b18caf843cf70bed7a67e28a848a2c31",
+      "zh": "这个主意没有那么受欢迎。连民主党内部都意见不一……",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1183@118/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1183@118/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1183@125/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1183@121/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1183@113/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1183@113/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "Hmmm... Republicans are wondering what you mean by this...",
+      "sha256": "1849ba35688b7f4ae4e724ba122474b75624e47b0cbf3e2f8ae3b37644e70711",
+      "zh": "嗯……共和党人正在琢磨，你这话到底是什么意思……",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1184@119/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1184@119/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1184@126/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1184@122/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1184@114/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1184@114/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "Give 'em hell, Jerry!",
+      "sha256": "244355a0c280f2e39c2e3dad9332e79498e9fde698096f9de060f965ac013c9c",
+      "zh": "好好教训他们，杰里！",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1185@120/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1185@120/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1185@127/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1185@123/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1185@115/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1185@115/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "This is a dovish answer, but it repudiates some of your own actions as President.",
+      "sha256": "c68622bc8bf545dc6f548848b1536c679ee6531f4898d0befaa2377c61b8c5f9",
+      "zh": "这个回答偏鸽派，却否定了你担任总统时自己采取过的一些行动。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1186@121/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1186@122/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1186@125/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1186@128/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1186@116/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "This is the type of middle-ground answer that will keep you from alienating any large segment of voters.",
+      "sha256": "0dcb655bfb3aae3f41863974e5d9516c2a75da165c8e2fd1a7c7b9c0f112d1c3",
+      "zh": "这种中间立场的回答，能避免疏远任何一个大的选民群体。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1187@122/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1187@123/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1187@126/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1187@129/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1187@117/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "This is a good way to stick up for your policies as President, and to show the consequences of a gridlocked Congress.",
+      "sha256": "54e6485c6aff61b8fd5efd479efe3c9e2da62d0c20b3363a2f6b80ea8e27f4ae",
+      "zh": "这是为总统任内政策辩护、展示国会僵局后果的好办法。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1188@123/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1188@124/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1188@127/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1188@130/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1188@118/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "People are whispering that you sound more like Barry Goldwater than Gerald Ford.",
+      "sha256": "6c90007399110bc6ed6d354253369fdbfa978bddf0a7d543299984ca929b1d9f",
+      "zh": "人们私下议论，说你听起来更像巴里·戈德华特，而不是杰拉尔德·福特。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1189@124/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1189@125/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1189@128/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1189@131/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1189@119/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "You've certainly just changed your position on this issue. And not in a way that pleases the Republican voters.",
+      "sha256": "e9831375916786cb6489fd7475bf5bbe618d69f6dcbd50b4428492eb5c280fe7",
+      "zh": "你显然刚刚改变了自己在这个问题上的立场，而且变化的方向并不让共和党选民满意。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1190@125/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1190@126/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1190@129/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1190@121/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1190@132/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1190@124/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1190@116/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1190@120/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "This is a good chance to present yourself as the voice of common-sense and honesty.",
+      "sha256": "ef3d76ae01e79f481780155d9e3b7d59f7c191909390ebdec160962481e11377",
+      "zh": "这是一个把自己塑造成常识与诚实代言人的好机会。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1191@126/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1191@127/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1191@130/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1191@122/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1191@133/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1191@125/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1191@117/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1191@121/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "A lot of Republicans would prefer you veto this law, but on the other hand you do appear reasonable and conciliatory with this response.",
+      "sha256": "18d8e145c18bcfbc1935c1e9f17ee897ab6bf8413b2fef615e357c86c306c593",
+      "zh": "许多共和党人希望你否决这部法律，不过另一方面，这个回应确实让你显得通情达理、愿意和解。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1192@127/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1192@128/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1192@131/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1192@123/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1192@134/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1192@126/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1192@118/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1192@122/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "People are whispering that you sound more like Ronald Reagan than Gerald Ford.",
+      "sha256": "96335ebe80bc475f4305d48817eec158d61cb5afc2b0ebc955fb2836cb536f25",
+      "zh": "人们私下议论，说你听起来更像罗纳德·里根，而不是杰拉尔德·福特。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1193@128/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1193@129/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1193@132/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1193@124/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1193@135/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1193@127/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1193@119/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1193@123/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "Your party had a hard time getting on board for Medicare and Medicaid. Perhaps it's not a good idea to support universal health care at this time.",
+      "sha256": "4bc5266314f071b73fb4cec0312f1095381252c9f42134946912dd3150170f44",
+      "zh": "本党当初接受联邦医疗保险和医疗补助就已经很艰难。眼下支持全民医疗保障，或许不是好主意。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1194@129/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1195@130/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1194@130/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1195@131/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1194@133/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1195@134/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1194@125/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1195@126/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1194@136/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1195@137/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1194@128/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1195@129/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1194@120/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1195@121/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1194@124/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1195@125/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Good hedge. You can't possibly support this idea, but you can oppose it without sounding like a scrooge.",
+      "sha256": "8eb486d62d0a7706d84d9689e7520f5e02c8ca76dd797d17fe1b552d5c9600e7",
+      "zh": "留有余地，回答得好。你不可能支持这个主意，但反对时也不必显得像斯克鲁奇那样吝啬。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1196@131/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1196@132/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1196@135/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1196@127/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1196@138/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1196@130/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1196@122/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1196@126/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "This is a good answer to fire up the base.",
+      "sha256": "16371bbfd1f970641fe9c7006a5dc54993c502439404ee260a9183495dbf137c",
+      "zh": "这个回答很能点燃基本盘的热情。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1197@132/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1197@133/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1197@136/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1197@128/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1197@139/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1197@131/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1197@123/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1197@127/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "It's a brave stance you're taking in this day and age. Let's see how it goes.",
+      "sha256": "39047d737c6300819aeef8b5456dc6d7be4a826c2189a2b7f856a722fa8ae2a2",
+      "zh": "在如今这个时代，你采取这个立场很勇敢。看看效果如何吧。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1198@133/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1198@137/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1198@129/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1198@132/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1198@124/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1198@128/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Settle in and wait for the returns. Hopefully you can pull off a comeback for the ages!",
+      "sha256": "183d497db5f8f2dac722fbe44719c75e3c650542d5f6866a0d3e9fa0b26c448f",
+      "zh": "坐下来等计票结果吧。希望你能完成一场载入史册的逆转！",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1199@134/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1200@135/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1201@136/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1202@137/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1199@134/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1200@135/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1201@136/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1202@137/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1199@138/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1200@139/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1201@140/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1202@141/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1199@130/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1200@131/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1201@132/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1202@133/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1199@140/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1200@141/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1201@142/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1202@143/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1199@133/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1200@134/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1201@135/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1202@136/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1199@125/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1200@126/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1201@127/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1202@128/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1199@129/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1200@130/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1201@131/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1202@132/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "You have selected Frank Church as your running mate. Can you speak a little more about that?",
+      "sha256": "41210b23db67540841c899f7fa2a18783521b154a16e2543d5eb46ce4dd3ebc1",
+      "zh": "你选择了弗兰克·丘奇作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Carter_Church/questions_json/423@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Do you think that the Panama Canal should be turned back over to Panama?",
+      "sha256": "c4dd5c43880cc32c85de1ffbe5e5ad5614dcc1f69e958af1142068b57eaa5921",
+      "zh": "你认为巴拿马运河应交还巴拿马吗？",
+      "keys": [
+        "1976_Carter_Church/questions_json/438@16/description",
+        "1976_Carter_Glenn/questions_json/438@22/description",
+        "1976_Carter_Jackson/questions_json/438@19/description",
+        "1976_Ford_Dole/questions_json/438@16/description",
+        "1976_Ford_Baker/questions_json/438@20/description",
+        "1976_Ford_Connally/questions_json/438@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Do you think that the tax cuts in early 1975 were the right economic policy for this country?",
+      "sha256": "70f88c3c57f19fc7191cd49b21d81c0dbdde3f49c0c28cba24389ec4bdc20d96",
+      "zh": "你认为1975年初的减税，是适合我国的经济政策吗？",
+      "keys": [
+        "1976_Carter_Church/questions_json/435@18/description",
+        "1976_Carter_Glenn/questions_json/435@19/description",
+        "1976_Carter_Jackson/questions_json/435@16/description",
+        "1976_Ford_Dole/questions_json/435@23/description",
+        "1976_Ford_Baker/questions_json/435@22/description",
+        "1976_Ford_Anderson/questions_json/435@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "Do you have a position on the gun control issue?",
+      "sha256": "86710fa62c6675e5af9fc2575cc69710a6a1ea87e338817bdf2b200f53b80ffe",
+      "zh": "你对枪支管制问题持什么立场？",
+      "keys": [
+        "1976_Carter_Church/questions_json/437@19/description",
+        "1976_Carter_Glenn/questions_json/437@16/description",
+        "1976_Ford_Baker/questions_json/437@23/description",
+        "1976_Ford_Anderson/questions_json/437@20/description",
+        "1976_Ford_Connally/questions_json/437@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Frank Church has made some recent statements on the campaign trail that even more needs to be done to rein in America's military and intelligence agencies. Do you think he is going too far?",
+      "sha256": "59631817b87fa2bcf0bd06b00a792010a290552bff40fb3b8f937e5131e6dd1a",
+      "zh": "弗兰克·丘奇最近在竞选活动中说，还需要进一步约束美国军事和情报机构。你认为他走得太远了吗？",
+      "keys": [
+        "1976_Carter_Church/questions_json/424@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "I support this as a positive step, and I'm eager to see how current negotiations play out.",
+      "sha256": "6c0e9485b5955bfc7dbc36c44b73761c0949a3bd5355ce9eecd3bd64faa9cf0b",
+      "zh": "我支持这样做，认为它是积极的一步，也很期待看到目前的谈判结果。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3623@0/description",
+        "1976_Carter_Glenn/answers_json/3623@0/description",
+        "1976_Carter_Jackson/answers_json/3623@0/description",
+        "1976_Ford_Dole/answers_json/3623@0/description",
+        "1976_Ford_Baker/answers_json/3623@0/description",
+        "1976_Ford_Connally/answers_json/3623@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "Frank Church is committed to openness in government, and in exposing the kinds of intelligence abuses that all Americans deserve to hear about.",
+      "sha256": "2d8198b12f4ebd1e461f492addd6e7ab0db722b37dc73354cf635004e3c5920b",
+      "zh": "弗兰克·丘奇致力于政府公开透明，揭露那些所有美国人都有权知道的情报机构滥权行为。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3533@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "Frank Church has served his home state of Idaho well, and he is the best man for the job.",
+      "sha256": "ad721d8cf57d7b3f8e9c7707632106b5448b7382f98e52ab7872e8d0eb9397d6",
+      "zh": "弗兰克·丘奇为家乡爱达荷州尽心服务，是担任这个职位的最佳人选。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3534@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "Church is an honorable man, but I would never support the weakening of America's fundamental defense abilities. I support investigations, but not cuts to our defense.",
+      "sha256": "784f6c466c3148e15f183d7b61ad5125c79c017bbac7f0bd0e0234a8fbcb7dfb",
+      "zh": "丘奇是个正派的人，但我绝不会支持削弱美国的基本防卫能力。我支持调查，却不支持削减国防。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3535@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "I wouldn't phrase it in his manner. I think we can afford some cuts to our defense budget, but as a Navy man myself, I will always respect our military.",
+      "sha256": "598984bf5a88f165f207679fc72d0cea025b5032dab0056429717709c3b89f91",
+      "zh": "我不会用他的方式措辞。我认为我们承受得起一些国防预算削减，但我自己也是海军出身，始终会尊重军队。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3536@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "Church is right on the mark. The people still are not in a position where they can trust our leading government institutions, and that includes the military.",
+      "sha256": "c30c7abb242e0139c784b1e278668963c48b7fcb20954006814ba8b31f1f6ba4",
+      "zh": "丘奇说得完全正确。人民依然无法信任我国主要的政府机构，军队也包括在内。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3537@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "I think we've done enough in this area. My goal as President will be to move beyond the strife and scandals of the past few years.",
+      "sha256": "e6c115dd0ebf10052f191e155023d65e8c9f932d204655c1f61bc9a57b28bfcf",
+      "zh": "我认为，我们在这个领域已经做得够多了。担任总统后，我的目标是让国家走出过去几年的冲突和丑闻。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3538@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "Unfortunately these cuts were pretty limited. I would prefer larger tax cuts and a reduction in government spending.",
+      "sha256": "23a46f19a478c3ea4702c59efd6e1041e5bdb5c08ec770716106eb08a31c4838",
+      "zh": "不幸的是，这些减税相当有限。我更希望大幅减税，并削减政府支出。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3611@56/description",
+        "1976_Carter_Glenn/answers_json/3611@52/description",
+        "1976_Carter_Jackson/answers_json/3611@54/description",
+        "1976_Ford_Dole/answers_json/3611@54/description",
+        "1976_Ford_Baker/answers_json/3611@50/description",
+        "1976_Ford_Anderson/answers_json/3611@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "This was a good policy. Our economy has rebounded considerably since early 1975, and millions of new jobs have been created.",
+      "sha256": "61be8aee5b37ac167b9e4bec8e2d4ba2d96b8187be149847de3d53b322e2f094",
+      "zh": "这是项好政策。自1975年初以来，经济已经明显复苏，创造了数百万个新工作岗位。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3612@57/description",
+        "1976_Carter_Glenn/answers_json/3612@53/description",
+        "1976_Carter_Jackson/answers_json/3612@55/description",
+        "1976_Ford_Dole/answers_json/3612@55/description",
+        "1976_Ford_Baker/answers_json/3612@51/description",
+        "1976_Ford_Anderson/answers_json/3612@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "Maybe this contributed, but we also increased spending which certainly did its part to stimulate the economy.",
+      "sha256": "5f61e21898b4c14b67ee7aec199072621b7c141477d0ecfc9db5365a7f404d88",
+      "zh": "减税也许起了一些作用，但我们也增加了支出，这当然也刺激了经济。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3613@58/description",
+        "1976_Carter_Glenn/answers_json/3613@54/description",
+        "1976_Carter_Jackson/answers_json/3613@56/description",
+        "1976_Ford_Dole/answers_json/3613@56/description",
+        "1976_Ford_Baker/answers_json/3613@52/description",
+        "1976_Ford_Anderson/answers_json/3613@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "I believe that any recovery that has occurred was incidental to those tax cuts. The cause was a combination of natural economic strength and increased spending.",
+      "sha256": "11ae73bab60a36308d7246ac827785d677159d48f6a1265c8337d191f3a7abe9",
+      "zh": "我认为，任何复苏都只是碰巧发生在这些减税之后。真正的原因，是经济本身的活力，加上支出增加。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3614@59/description",
+        "1976_Carter_Glenn/answers_json/3614@55/description",
+        "1976_Carter_Jackson/answers_json/3614@57/description",
+        "1976_Ford_Dole/answers_json/3614@57/description",
+        "1976_Ford_Baker/answers_json/3614@53/description",
+        "1976_Ford_Anderson/answers_json/3614@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "Gun control is ineffective in reducing crime rates. I think a better option would be to examine our sentencing guidelines, and make sure that we put criminals in jail.",
+      "sha256": "4b7e9d98d10367a09c05bf959778a09242066e40c4c1ee6ae00d39ad626b12a8",
+      "zh": "枪支管制不能有效降低犯罪率。我认为，更好的办法是审视量刑准则，确保将罪犯关进监狱。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3619@60/description",
+        "1976_Carter_Glenn/answers_json/3619@60/description",
+        "1976_Ford_Baker/answers_json/3619@54/description",
+        "1976_Ford_Anderson/answers_json/3619@62/description",
+        "1976_Ford_Connally/answers_json/3619@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "I'm an opponent of gun control overall, but some common-sense measures like the 1968 Act are appropriate.",
+      "sha256": "9368d632d3cdaf3d2e4d8c203c2d0dae6d9d8687d00d2e94827669c480288b18",
+      "zh": "总体上我反对枪支管制，但1968年法案这样符合常识的措施，是适当的。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3620@61/description",
+        "1976_Carter_Glenn/answers_json/3620@61/description",
+        "1976_Ford_Baker/answers_json/3620@55/description",
+        "1976_Ford_Anderson/answers_json/3620@63/description",
+        "1976_Ford_Connally/answers_json/3620@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "I'd like to see more widespread licensing and registration of handguns and rifles, but it has been repeatedly defeated in the past.",
+      "sha256": "1376a6abad3b685620b76029b375b00dc53f15c4ce379cfbf085460895950aa5",
+      "zh": "我希望更广泛地要求手枪和步枪持有人取得许可、办理登记，但过去这类提案一再遭到否决。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3621@62/description",
+        "1976_Carter_Glenn/answers_json/3621@62/description",
+        "1976_Ford_Baker/answers_json/3621@56/description",
+        "1976_Ford_Anderson/answers_json/3621@64/description",
+        "1976_Ford_Connally/answers_json/3621@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "We have a long way to go on this issue, especially in light of the crime we've seen the past ten years. I support strict licensing and confiscation if necessary.",
+      "sha256": "f7b90bfddf24d4448e073e079ac3d8e81abc72bdf6657f73157271cef46e0658",
+      "zh": "在这个问题上，我们还有很长的路要走，尤其考虑到过去十年的犯罪状况。我支持严格许可制度，必要时也支持没收枪支。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3622@63/description",
+        "1976_Carter_Glenn/answers_json/3622@63/description",
+        "1976_Ford_Baker/answers_json/3622@57/description",
+        "1976_Ford_Anderson/answers_json/3622@65/description",
+        "1976_Ford_Connally/answers_json/3622@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "This is an issue I would have to consider more closely over the next couple of years. Let's see how the current negotiations go.",
+      "sha256": "087b3e0fcfeb2e6e91f9e1f3a4f4c9755c4d12d61958d5173e032dcaf6ab45bf",
+      "zh": "未来几年，我必须更仔细地考虑这个问题。先看看目前的谈判如何发展吧。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3624@64/description",
+        "1976_Carter_Glenn/answers_json/3624@64/description",
+        "1976_Carter_Jackson/answers_json/3624@62/description",
+        "1976_Ford_Dole/answers_json/3624@62/description",
+        "1976_Ford_Baker/answers_json/3624@58/description",
+        "1976_Ford_Connally/answers_json/3624@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "Absolutely not. The United States built this canal and it is a central part of world commerce. Who knows what might happen if we put Panama in charge.",
+      "sha256": "5377b1a1633318cc9f9de00813fb7a3f8d8580ae08f7c9a81d08c3834c6580a5",
+      "zh": "绝对不应该。美国建造了这条运河，它是世界贸易的核心环节。谁知道交给巴拿马管理后会发生什么。",
+      "keys": [
+        "1976_Carter_Church/answers_json/3625@65/description",
+        "1976_Carter_Glenn/answers_json/3625@65/description",
+        "1976_Carter_Jackson/answers_json/3625@63/description",
+        "1976_Ford_Dole/answers_json/3625@63/description",
+        "1976_Ford_Baker/answers_json/3625@59/description",
+        "1976_Ford_Connally/answers_json/3625@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "You're definitely playing to the urban wing of the party, and sacrificing a bit of support in the South.",
+      "sha256": "4206b363c1ea36a1706602d75917d1a2952fc69199edb907c917510a8df52015",
+      "zh": "你显然在讨好党内城市派，同时牺牲了一点南方支持。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1066@0/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1065@56/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1066@0/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1065@59/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1066@0/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1065@27/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1066@0/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1065@31/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1066@0/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1065@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "This is not a typical Republican position, but it could help you with the urban wing of the party.",
+      "sha256": "f5d785232bed9b4ad8038b58eda77c48f1bdebc99474811b3d52faa3d49b4901",
+      "zh": "这不是典型的共和党立场，但可能有助于你争取党内城市派。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1170@1/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1169@112/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1170@1/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1169@118/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1170@1/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1169@108/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1170@1/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1169@109/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1170@1/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1169@106/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "Frank Church should help burnish your credentials on defense and character issues.",
+      "sha256": "a523178fd37493fb9c77ba16bb0e9f2ebabfc8cdfecc3229cd4315286c25aad7",
+      "zh": "弗兰克·丘奇应该能为你在国防和品格问题上的资历增色。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1023@24/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1024@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "It doesn't look good to rebuke your running mate in such a hawkish manner.",
+      "sha256": "0ef27be1f6d29020eb3d40c62c2ded1391fdd99253c23fe2f77a4e2c00edc475",
+      "zh": "用如此鹰派的方式斥责自己的搭档，可不太好看。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1025@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "This is a pretty conservative answer for a Democrat.",
+      "sha256": "24dc6b8486415a7eb048cb4ca004b4d9a314c10d7d81c319b6d99101172f5cf3",
+      "zh": "对民主党人来说，这个回答相当保守。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1055@50/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1055@49/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1055@49/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1055@23/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1055@21/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1055@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "You're kind of praising the policies that Ford has enacted. Is this just a bit <em>too</em> honest for an election campaign?",
+      "sha256": "e94107a4582f266fd44df0f3514af0b5124994ff53e979588026926de01aa6cf",
+      "zh": "你有点像是在赞扬福特实施的政策。对于一场竞选来说，这是不是<em>太</em>诚实了？",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1056@51/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1056@50/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1056@50/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1056@24/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1056@22/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1056@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "This a good liberal answer on economic policy.",
+      "sha256": "f434275c375357603b922a85fc9fd76d9938e54f32d37f4b12e9484cbf613fc7",
+      "zh": "这是一个不错的自由派经济政策回答。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1057@52/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1058@53/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1057@51/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1058@52/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1057@51/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1058@52/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1057@25/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1058@26/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1057@23/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1058@24/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1057@23/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1058@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "Most in your party disagree. On the other hand, you do come from a region that opposes gun control.",
+      "sha256": "0af3a213367367cce31acad5edc5e510d86a83c5ae47f6c6a4bee6d94309d92a",
+      "zh": "党内多数人并不赞同。不过，你确实来自一个反对枪支管制的地区。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1063@54/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1063@57/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1063@25/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1063@29/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1063@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "Some defense hawks are upset at the idea of conceding the Panama Canal, but others think this will help build positive sentiment for the United States.",
+      "sha256": "6575b08e4b8a8b5a975cc4d3a2836e92fe58708f81bed4bdfc9a27f2555da92b",
+      "zh": "一些国防鹰派对交出巴拿马运河感到不满，另一些人则认为，这有助于增进对美国的好感。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1067@57/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1068@58/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1171@113/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1172@114/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1067@60/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1068@61/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1171@119/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1172@120/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1067@57/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1068@58/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1171@112/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1172@113/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1067@31/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1068@32/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1171@116/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1172@117/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1067@28/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1068@29/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1171@109/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1172@110/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1067@28/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1068@29/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1171@107/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1172@108/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "Those tax cuts have your name on them. Are you saying they weren't enough?",
+      "sha256": "d008505bad4a5c170d711c5b9b0de1d7d851c9dc5117c5b3c27c89d5fe67274a",
+      "zh": "那些减税可是以你的名义实施的。你是在说它们力度不够吗？",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1159@106/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1159@108/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1159@104/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1159@108/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1159@102/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1159@99/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "You can't lose with this answer. People like your tax cuts, and they're also starting to notice that the economy is getting a lot better this year.",
+      "sha256": "278db7718e792fb1fa8acb01f88e7ce1239ce23feb79cc58fe78fa662d117f5a",
+      "zh": "这个回答怎么都不会吃亏。人们喜欢你的减税，也开始注意到今年经济正在明显好转。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1160@107/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1160@109/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1160@105/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1160@109/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1160@103/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1160@100/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "Not only is this answer unorthodox for a Republican, but those tax cuts were your policy!",
+      "sha256": "48c5e1edc9ef0df14885bc662d7d8b29f4cfa4b062466cc2ebece53c1f3ac45e",
+      "zh": "这个回答不仅不符合共和党通常的立场，而且那些减税本来就是你的政策！",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1161@108/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1162@109/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1161@110/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1162@111/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1161@106/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1162@107/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1161@110/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1162@111/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1161@104/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1162@105/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1161@101/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1162@102/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "This an orthodox Republican answer. If only your party could get the South to see the light...",
+      "sha256": "2c07e67dc5b13fa4f0f01a66da1a300c0fd9951e307250ee8f32b2a20a826e48",
+      "zh": "这是正统的共和党回答。要是本党能让南方也认识到这一点就好了……",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1167@110/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1167@116/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1167@106/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1167@107/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1167@104/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "This is a pretty safe answer that appeals to your party without alienating moderates.",
+      "sha256": "25975e1f75d3f0fcbbc7a64ec587d7c14e1c181b15abe1b56ab33530d863cd22",
+      "zh": "这个回答相当稳妥，既能吸引党内人士，也不会疏远温和派。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1168@111/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1168@117/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1168@107/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1168@108/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1168@105/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "This is a good, conservative answer on foreign policy.",
+      "sha256": "9629e99d8bf856ebefa995c896b3bdc6495168a8826020f4ef6c3990fc28b546",
+      "zh": "这是个不错的保守派外交政策回答。",
+      "keys": [
+        "1976_Carter_Church/answer_feedback_json/1173@115/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1173@121/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1173@114/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1173@118/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1173@111/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1173@109/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "You have selected John Glenn as your running mate. Can you speak a little more about that?",
+      "sha256": "488db2085b60ce3b1bf887edf4f708c76a1e4262b63eaed3304f6e29d839fde0",
+      "zh": "你选择了约翰·格伦作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Carter_Glenn/questions_json/425@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "John Glenn is an American hero, and he has the right ideas about government. I'm proud to have him with me.",
+      "sha256": "4099eb4934c3c05f3aaa04246961f9414cbec11220050611879a3733a8892f02",
+      "zh": "约翰·格伦是美国英雄，对政府也有正确的主张。能与他携手，我很自豪。",
+      "keys": [
+        "1976_Carter_Glenn/answers_json/3539@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "John Glenn has served his home state of Ohio well, and he is the best man for the job.",
+      "sha256": "caf07e4223bd82c175b470bd6e38e19b8d34e9463503a1088e825b5139d88f37",
+      "zh": "约翰·格伦为家乡俄亥俄州尽心服务，是担任这个职位的最佳人选。",
+      "keys": [
+        "1976_Carter_Glenn/answers_json/3540@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "John Glenn is a broadly popular choice.",
+      "sha256": "9534c82602e03cd044c9ed26e0744ca1d764076445f3c1bb9e10209107ae4b44",
+      "zh": "约翰·格伦是一个广受欢迎的选择。",
+      "keys": [
+        "1976_Carter_Glenn/answer_feedback_json/1026@24/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1027@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "You have selected Scoop Jackson as your running mate. Can you speak a little more about that?",
+      "sha256": "4484d03aa402750a8610b607de8cc8be7e77cab43e91b45ff4dd36c5e0063a81",
+      "zh": "你选择了“斯库普”杰克逊作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Carter_Jackson/questions_json/426@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "Some have suggested that Scoop Jackson is too conservative for the Democratic Party. Can you explain a little why you've selected a defense hawk and anti-busing Senator as your running mate?",
+      "sha256": "663eba7b2e8edfd89bf040ec0e41108188c7a5e82eb207e3a8d1d5a11484a18c",
+      "zh": "有人说，“斯库普”杰克逊对民主党而言太保守了。能解释一下，你为什么选择一位国防鹰派、反对校车接送的参议员作为竞选搭档吗？",
+      "keys": [
+        "1976_Carter_Jackson/questions_json/427@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "Scoop Jackson has the right ideas about what it means to be a Democrat -- strong on defense, and tireless in his fight for working class American.",
+      "sha256": "f80d6cb1498883bcd8942cd7ff0edc5f8dfbf3fa2c64f86cac52b6e75f924155",
+      "zh": "“斯库普”杰克逊对民主党人的使命有正确认识：国防强硬，并为美国工人阶级不懈奋斗。",
+      "keys": [
+        "1976_Carter_Jackson/answers_json/3541@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "Scoop Jackson has served his home state of Washington well, and he is the best man for the job.",
+      "sha256": "73b28a8ef387022a62296bd34bc208adee50a74183f0270230d6055b15a4c6ec",
+      "zh": "“斯库普”杰克逊为家乡华盛顿州尽心服务，是担任这个职位的最佳人选。",
+      "keys": [
+        "1976_Carter_Jackson/answers_json/3542@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "Scoop Jackson stands for common-sense American values. I support a strong defense myself, and anyone can get a little concerned over how much the federal courts have interfered with education in this country.",
+      "sha256": "d08f53befe58b1940f45d36531f08576b1b91c5859b5087bbd273765072927fb",
+      "zh": "“斯库普”杰克逊代表符合常识的美国价值观。我自己也支持强大国防；联邦法院对国内教育干预这么多，谁都会有点担忧。",
+      "keys": [
+        "1976_Carter_Jackson/answers_json/3543@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "We might have a few areas in which we have different opinions, but that is what the Democratic Party is all about. Part of running a national campaign is compromising for the good of the whole.",
+      "sha256": "84c64790ea933e62e14f0793e145f5b4fb6c9d18f99fe210191ffffa37722649",
+      "zh": "我们或许在几个方面意见不同，但民主党本来就容纳不同观点。为了整体利益作出妥协，也是开展全国竞选的一部分。",
+      "keys": [
+        "1976_Carter_Jackson/answers_json/3544@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "Scoop Jackson is a polarizing choice, but he has his advantages.",
+      "sha256": "e2975e6d1e3e0d705243ad5d2df6780614498acd137911cb809973c4890497a6",
+      "zh": "“斯库普”杰克逊是个让人意见两极分化的选择，但他也有自己的优势。",
+      "keys": [
+        "1976_Carter_Jackson/answer_feedback_json/1028@22/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1029@23/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1030@24/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1031@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "You have selected Bob Dole as your running mate. Can you speak a little more about that?",
+      "sha256": "fdf61e990ae657551e392bc2b0f3a75860257a58e5ebb819ae01405a68248219",
+      "zh": "你选择了鲍勃·多尔作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/409@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "What will your overall campaign strategy be this year?",
+      "sha256": "7ed300986221018a49e547f22d62f88ef2ab780d607fb6da4858d78313c8dbb7",
+      "zh": "今年，你的总体竞选策略是什么？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/401@1/description",
+        "1976_Ford_Baker/questions_json/401@1/description",
+        "1976_Ford_Anderson/questions_json/401@1/description",
+        "1976_Ford_Connally/questions_json/401@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "A lot of voters are concerned about honesty and integrity in our government. What can you say about yourself in this aspect, particularly in light of your pardon of Richard Nixon?",
+      "sha256": "78021461c5d1e5c8a50935b30270a9667570985af36f5deb73bbc7bfe6a75a62",
+      "zh": "许多选民关心政府的诚实与廉正。在这方面，尤其考虑到你赦免了理查德·尼克松，你有什么可以介绍自己的？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/402@2/description",
+        "1976_Ford_Baker/questions_json/402@2/description",
+        "1976_Ford_Anderson/questions_json/402@2/description",
+        "1976_Ford_Connally/questions_json/402@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "Your campaign has just received a big break in the form of a controversial interview that Carter did with Playboy, where he confessed to \"committing adultery in his heart\" and used some coarse language. Any thoughts?",
+      "sha256": "e8bfb22aa8127756b97e368f641aea5f92194be21d23334156c529d3d9df736e",
+      "zh": "卡特接受《花花公子》采访时，坦言自己“在心里犯过奸淫”，还使用了一些粗俗语言，引发争议，让你的竞选获得了一个重大机会。你有什么想法？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/408@11/description",
+        "1976_Ford_Baker/questions_json/408@11/description",
+        "1976_Ford_Anderson/questions_json/408@12/description",
+        "1976_Ford_Connally/questions_json/408@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "Some of your operatives want to attack Carter for the way he has equivocated on abortion, gun control, busing, labor issues, and so on. Will you approve a series of ads labeling him as a \"flip-flopper\"? ",
+      "sha256": "0011698408fc24bed1d5ed86ebf364b0120f6ca378dd23f6a52356b7dfdb6eb0",
+      "zh": "一些竞选工作人员想攻击卡特在堕胎、枪支管制、校车接送、劳工等问题上含糊其辞。你会批准一系列广告，把他描述成“反复无常的人”吗？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/407@13/description",
+        "1976_Ford_Baker/questions_json/407@13/description",
+        "1976_Ford_Anderson/questions_json/407@16/description",
+        "1976_Ford_Connally/questions_json/407@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "Your Secretary of Agriculture, Earl Butz, will be quoted in next week's <em>Rolling Stone</em> as making some very crude and racist jokes. Some have suggested you fire him before the article is released. What are your thoughts?",
+      "sha256": "fdb05856b2f42e6f22acfd7a40e2263ac3d0425c839058a88cbbfd1d17558c7e",
+      "zh": "下周的<em>《滚石》</em>将引用你的农业部长厄尔·巴茨说过的一些极其粗俗、带有种族主义意味的笑话。有人建议你在文章发表前就解雇他。你怎么看？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/403@14/description",
+        "1976_Ford_Baker/questions_json/403@15/description",
+        "1976_Ford_Anderson/questions_json/403@15/description",
+        "1976_Ford_Connally/questions_json/403@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "You have vetoed a significant number of bills in your two years as President. What was your reasoning?",
+      "sha256": "2f9ca1fd485861f81231ef75bae1d21cb35d6bb6f83ea6dfcce63b0fe6276000",
+      "zh": "在担任总统的两年里，你否决了相当多的法案。你的理由是什么？",
+      "keys": [
+        "1976_Ford_Dole/questions_json/406@15/description",
+        "1976_Ford_Baker/questions_json/406@14/description",
+        "1976_Ford_Anderson/questions_json/406@14/description",
+        "1976_Ford_Connally/questions_json/406@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

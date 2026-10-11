@@ -1,0 +1,14 @@
+{
+  "base/candidate_json/119@103/party": {
+    "source": "Progressive",
+    "sha256": "c21bea0c6d590524b9dbbf3b358c7b66f3b84ed494b593cdae2bbc368b0005c3",
+    "zh": "进步党",
+    "reason": "Party field differs from ideological stance Progressive."
+  },
+  "base/candidate_json/126@110/party": {
+    "source": "Progressive",
+    "sha256": "c21bea0c6d590524b9dbbf3b358c7b66f3b84ed494b593cdae2bbc368b0005c3",
+    "zh": "进步党",
+    "reason": "Party field differs from ideological stance Progressive."
+  }
+}

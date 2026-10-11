@@ -1,0 +1,362 @@
+{
+  "checkedAt": "2026-10-08",
+  "slotsReviewed": 48,
+  "distinctKeys": 47,
+  "revisedSlots": [
+    1,
+    4,
+    8,
+    11,
+    12,
+    14,
+    18,
+    20,
+    25,
+    28,
+    30,
+    35,
+    41,
+    42,
+    43,
+    45
+  ],
+  "scope": "Chinese wording reviewed; historical attribution only where a source-linked note is provided.",
+  "records": [
+    {
+      "index": 0,
+      "key": "quote.all_men_are_created_equal_thomas_jefferson",
+      "source": "\"All men are created equal\" - Thomas Jefferson",
+      "sha256": "842ec48f82d1843b692256f3a57b4d0cb18a6427a873331b8212604c4c657cb1",
+      "zh": "“人人生而平等。”——托马斯·杰斐逊"
+    },
+    {
+      "index": 1,
+      "key": "quote.all_the_way_with_lbj",
+      "source": "\"All the Way with LBJ!\"",
+      "sha256": "00df2e43fe7f91e98d3eb6f9f51c4529d51c72bf66d7247aa046138f20ede973",
+      "zh": "“约翰逊，一路支持到底！”"
+    },
+    {
+      "index": 2,
+      "key": "quote.those_who_make_peaceful_revolution_impossible_make_violent_revolution_inevitable_john_kennedy",
+      "source": "\"Those who make peaceful revolution impossible, make violent revolution inevitable\" - John Kennedy",
+      "sha256": "95d2459201b2f53a5401d5d89ff00bd0c59e3edcbf590509f89ed994100933ce",
+      "zh": "“让和平革命成为不可能的人，会使暴力革命成为必然。”——约翰·肯尼迪"
+    },
+    {
+      "index": 3,
+      "key": "quote.i_m_gerald_ford_and_you_re_not",
+      "source": "\"I'm Gerald Ford, and you're not.\"",
+      "sha256": "13278278e277ab3d9e43e3e2d227ac5ae3f34e1bc5189fd795a2c9b2bfdf715d",
+      "zh": "“我是杰拉尔德·福特，而你不是。”"
+    },
+    {
+      "index": 4,
+      "key": "quote.fool_me_once_shame_on_shame_on_you_fool_me_you_can_t_get_fooled_again_george_w_bush",
+      "source": "\"Fool me once, shame on  -  shame on you. Fool me  -  you can't get fooled again.\" - George W. Bush",
+      "sha256": "7dc040f6ff66fbf6b43d8199d08000757b10dd1707ce9631abef98e14f17c49c",
+      "zh": "“骗我一次，丢脸的是……是你。再骗我……不能再上当了。”——乔治·W.·布什"
+    },
+    {
+      "index": 5,
+      "key": "quote.it_s_the_economy_stupid",
+      "source": "\"It's the economy stupid!\"",
+      "sha256": "65c1c5158d68f62bfb9e579e2d635b6fa81e40712c9006786a0fd6588a7c9c2b",
+      "zh": "“关键是经济，笨蛋！”"
+    },
+    {
+      "index": 6,
+      "key": "quote.you_shall_not_crucify_mankind_upon_a_cross_of_gold_william_jennings_bryan",
+      "source": "\"You shall not crucify mankind upon a cross of gold.\" - William Jennings Bryan",
+      "sha256": "d47f15b0609fe294faecbd51b5b7e9c66a907816a347977fb70745299c166043",
+      "zh": "“你们不能把人类钉在黄金的十字架上。”——威廉·詹宁斯·布赖恩"
+    },
+    {
+      "index": 7,
+      "key": "quote.politics_have_no_relations_to_morals_machiavelli",
+      "source": "\"Politics have no relations to morals.\" - Machiavelli",
+      "sha256": "b62c8d941ac0d78498463bf488571dccc1223bad395a50b8df0d374c86f465fc",
+      "zh": "“政治与道德无关。”——马基雅维利"
+    },
+    {
+      "index": 8,
+      "key": "quote.i_am_not_going_to_exploit_for_political_purposes_my_opponent_s_youth_and_inexperience_ronald_reagan",
+      "source": "\"I am not going to exploit, for political purposes, my opponent's youth and inexperience.\" - Ronald Reagan",
+      "sha256": "2a3944e6d6e8b84df353f80079ad12cb285a57a77da97c854746198242704531",
+      "zh": "“我不会出于政治目的，拿对手的年轻和经验不足做文章。”——罗纳德·里根"
+    },
+    {
+      "index": 9,
+      "key": "quote.there_are_weapons_of_mass_destruction_in_iraq_george_w_bush",
+      "source": "\"There are weapons of mass destruction in Iraq.\" - George W. Bush",
+      "sha256": "204c4128cac6e4bfa4a244d244189ec9a2a2ce01265beee79fcd6451edcf4cde",
+      "zh": "“伊拉克有大规模杀伤性武器。”——乔治·W·布什"
+    },
+    {
+      "index": 10,
+      "key": "quote.that_was_really_uncalled_for_senator_dan_quayle",
+      "source": "\"That was really uncalled for, Senator.\" - Dan Quayle",
+      "sha256": "f155c3c0f8cf0ae01f34e257674bf087b5f677a646882610ddc5858947f05140",
+      "zh": "“参议员，这话实在没有必要。”——丹·奎尔"
+    },
+    {
+      "index": 11,
+      "key": "quote.my_failures_have_been_error_in_judgement_not_intent_ulysses_s_grant",
+      "source": "\"My failures have been error in judgement, not intent.\" - Ulysses S. Grant",
+      "sha256": "404cd287555f9bb0a055f12405698aeeab5b0f3044eed5fd54e779f925d7648b",
+      "zh": "“我的失误在于判断，并非蓄意为之。”——尤利西斯·S.·格兰特"
+    },
+    {
+      "index": 12,
+      "key": "quote.when_the_president_does_it_that_means_it_is_not_illegal_richard_nixon",
+      "source": "\"When the president does it, that means it is not illegal\" - Richard Nixon",
+      "sha256": "12b4deab9267b2da909852039f4dc9f40752a71d66a22be092ec3436c6696c65",
+      "zh": "“总统做了，就说明这事不违法。”——理查德·尼克松"
+    },
+    {
+      "index": 13,
+      "key": "quote.leave_nothing_for_tomorrow_which_can_be_done_today_abraham_lincoln",
+      "source": "\"Leave nothing for tomorrow which can be done today\" - Abraham Lincoln",
+      "sha256": "846790a27c209caf2c2ce742d771e18350da84b08901ead4640f7c0e04382116",
+      "zh": "“今天能做的事，不要留到明天。”——亚伯拉罕·林肯"
+    },
+    {
+      "index": 14,
+      "key": "quote.extremism_in_the_defense_of_liberty_is_no_vice_barry_goldwater",
+      "source": "\"Extremism, in the defense of liberty, is no vice.\" - Barry Goldwater",
+      "sha256": "a32c7d4248449bd8237aa39460eb269636e00ae68a98cabcb1c52283e87a9364",
+      "zh": "“为捍卫自由而采取极端立场，并非恶行。”——巴里·戈德华特"
+    },
+    {
+      "index": 15,
+      "key": "quote.i_ve_signed_legislation_that_will_outlaw_russia_forever_we_begin_bombing_in_five_minutes_ronald_reagan",
+      "source": "\"I've signed legislation that will outlaw Russia forever. We begin bombing in five minutes.\" - Ronald Reagan",
+      "sha256": "37d79a3c347e93786673ade2b6b1a1b670a039f8b79d45ecd3a1ed5113ec9257",
+      "zh": "“我已签署法令，永久取缔俄罗斯。五分钟后开始轰炸。”——罗纳德·里根"
+    },
+    {
+      "index": 16,
+      "key": "quote.injustice_anywhere_is_a_threat_to_justice_everywhere_martin_luther_king",
+      "source": "\"Injustice anywhere, is a threat to justice everywhere.\" - Martin Luther King",
+      "sha256": "4ae79315e0f2b8ac6a7752743eddd8f92cd58455d468140c35a8e3b65fd02b3a",
+      "zh": "“任何地方的不公，都会威胁所有地方的正义。”——马丁·路德·金"
+    },
+    {
+      "index": 17,
+      "key": "quote.the_dream_shall_never_die_ted_kennedy",
+      "source": "\"The Dream shall never die!\" - Ted Kennedy",
+      "sha256": "d738a07bca77684f7dc796cd8ba0d02d004084a2d6718957d3ce46611714a72c",
+      "zh": "“梦想永不消逝！”——爱德华·肯尼迪"
+    },
+    {
+      "index": 18,
+      "key": "quote.i_have_binders_full_of_women_mitt_romney",
+      "source": "\"I have binders full of women!\" - Mitt Romney",
+      "sha256": "ac8e2568a9d9c09d14a193c5941fbbd16030bf5259958604fece347d99cc32fb",
+      "zh": "“我有满满几文件夹的女性！”——米特·罗姆尼"
+    },
+    {
+      "index": 19,
+      "key": "quote.who_am_i_why_am_i_here_james_stockdale",
+      "source": "\"Who am I? Why am I here?\" - James Stockdale",
+      "sha256": "2d4fa4ec61eeaa42cba835bc71088ca6169c1a55a82ee58f0ce64e48664a3d56",
+      "zh": "“我是谁？我为什么在这里？”——詹姆斯·斯托克代尔"
+    },
+    {
+      "index": 20,
+      "key": "quote.read_my_lips_no_new_taxes_george_hw_bush",
+      "source": "\"Read My Lips: No New Taxes.\" - George HW. Bush",
+      "sha256": "d3274ca36028358b48503857a7ccd512cecfac97006db0a77e7b38f02d4bcb36",
+      "zh": "“听清楚了：不增新税。”——乔治·H.·W.·布什"
+    },
+    {
+      "index": 21,
+      "key": "quote.thomas_jefferson_lives_john_adams",
+      "source": "\"Thomas Jefferson lives.\" - John Adams",
+      "sha256": "e35b7a3b19aca378c19eed560ea73ae0a787141e7586fdd59103313890489de9",
+      "zh": "“托马斯·杰斐逊还活着。”——约翰·亚当斯"
+    },
+    {
+      "index": 22,
+      "key": "quote.tippecanoe_and_tyler_too",
+      "source": "\"Tippecanoe and Tyler Too!\"",
+      "sha256": "716aa6d24b4ed76d554839cd347de6e991e116fd6ac38acf1f312a77de05b36c",
+      "zh": "“蒂皮卡努，还有泰勒！”"
+    },
+    {
+      "index": 23,
+      "key": "quote.there_is_no_soviet_domination_of_eastern_europe_gerald_ford",
+      "source": "\"There is no Soviet domination of eastern Europe!\" - Gerald Ford",
+      "sha256": "561a6bf10b2d0364b9a2f1cc43e11a097e50d9a392a6ea5c226c32f4754a63f9",
+      "zh": "“苏联没有控制东欧！”——杰拉尔德·福特"
+    },
+    {
+      "index": 24,
+      "key": "quote.change_based_on_principle_is_progress_constant_change_without_principle_becomes_chaos_dwight_eisenhower",
+      "source": "\"Change based on principle is progress. Constant change without principle becomes chaos.\" - Dwight Eisenhower",
+      "sha256": "40ef163f0943d9d8f357a44f864e5c8f7f846e08faa7e75d5681cf7cf7a1f678",
+      "zh": "“基于原则的改变是进步，没有原则的不断改变会成为混乱。”——德怀特·艾森豪威尔"
+    },
+    {
+      "index": 25,
+      "key": "quote.freedom_is_never_more_than_one_generation_away_from_extinction_ronald_reagan",
+      "source": "\"Freedom is never more than one generation away from extinction.\"\" - Ronald Reagan",
+      "sha256": "fae58e7400f1165429a508dfa05a211570c992e20878487106ef9dc2e2dbb485",
+      "zh": "“自由离消亡，永远只有一代人的距离。”——罗纳德·里根"
+    },
+    {
+      "index": 26,
+      "key": "quote.ladies_and_gentlemen_i_don_t_know_whether_you_fully_understand_that_i_have_just_been_shot_theodore_roosevelt",
+      "source": " \"Ladies and gentlemen, I don't know whether you fully understand that I have just been shot,\" - Theodore Roosevelt",
+      "sha256": "00176ed4516f845c945958a9c3c9a692edd98039c8bea0799f684c0e1e6e2b79",
+      "zh": "“女士们、先生们，我不知道你们是否完全明白，我刚刚中了枪。”——西奥多·罗斯福"
+    },
+    {
+      "index": 27,
+      "key": "quote.dewey_defeats_truman",
+      "source": "\"DEWEY DEFEATS TRUMAN\"",
+      "sha256": "8e927a52dcbc8ef3ae630e10d83b25b7bdbce0dcbe4fb409daba56dcbf59f086",
+      "zh": "“杜威击败杜鲁门”"
+    },
+    {
+      "index": 28,
+      "key": "quote.hell_no_we_won_t_go",
+      "source": "\"Hell no, we won't go!\"",
+      "sha256": "947065a0d61a737e4b8b5dc24a92b02fe6ee48791f152e092b114e8b0c3d2f60",
+      "zh": "“去他妈的，我们不去！”"
+    },
+    {
+      "index": 29,
+      "key": "quote.hey_hey_lbj_how_many_kids_did_you_kill_today",
+      "source": "\"Hey, hey, LBJ, how many kids did you kill today?\"",
+      "sha256": "abec4a427187658ec825ab92a5a6fd4bd65d1d924d7edc24db7a2779d90c5e91",
+      "zh": "“嘿，约翰逊，你今天害死了多少孩子？”"
+    },
+    {
+      "index": 30,
+      "key": "quote.vote_for_the_crook_it_s_important",
+      "source": "\"Vote for the Crook: It’s Important!",
+      "sha256": "2a59de895112e8ae806440f9390455297daa57dfb68701ae53141ead96b945ca",
+      "zh": "“投给那个贪腐的家伙，这很重要！”"
+    },
+    {
+      "index": 31,
+      "key": "quote.every_man_a_king_but_no_one_wears_a_crown",
+      "source": "\"Every man a king, but no one wears a crown!\"",
+      "sha256": "0a2f7fb2d00f514c76df057ab28d55de7e2c97a4616916dfa2c0cce546db5325",
+      "zh": "“人人皆国王，却无人戴王冠！”"
+    },
+    {
+      "index": 32,
+      "key": "quote.keep_cool_with_coolidge",
+      "source": "\"Keep cool with Coolidge!\"",
+      "sha256": "89bb7d10acfa20801c5e42887ca75fff2e0815a91d9ea4b76a366050e8fbbd7c",
+      "zh": "“与柯立芝一起保持冷静！”"
+    },
+    {
+      "index": 33,
+      "key": "quote.don_t_swap_horses_in_the_middle_of_the_stream",
+      "source": "\"Don't swap horses in the middle of the stream.\"",
+      "sha256": "d8581d6dbd5a83ff970e0f66377d1aab7778d4a51dfb0f2455d8c3ec1aaa4187",
+      "zh": "“渡河中途不要换马。”"
+    },
+    {
+      "index": 34,
+      "key": "quote.mr_gorbachev_tear_down_this_wall_ronald_reagan",
+      "source": "\"Mr. Gorbachev, tear down this wall!\" - Ronald Reagan",
+      "sha256": "7d26699b7d2976d1da0c3818dc66bd56e2da0dcbc1935fdbe2516870ea639fc5",
+      "zh": "“戈尔巴乔夫先生，拆掉这堵墙！”——罗纳德·里根"
+    },
+    {
+      "index": 35,
+      "key": "quote.pok_mon_go_to_the_polls_hillary_clinton",
+      "source": "\"Pokémon Go to the Polls!\" - Hillary Clinton",
+      "sha256": "4f6486c89aaa8a475ebe85c236d72f708db77d4438d5df79932be229479153de",
+      "zh": "“让宝可梦‘GO’，去投票！”——希拉里·克林顿"
+    },
+    {
+      "index": 36,
+      "key": "quote.the_only_thing_we_have_to_fear_is_fear_itself_franklin_roosevelt",
+      "source": "\"The only thing we have to fear is fear itself.\" - Franklin Roosevelt",
+      "sha256": "068a9c6cebb22d3f714e6d32d6664ad99e22f48085d5a224e2977fef4462373a",
+      "zh": "“我们唯一需要恐惧的，就是恐惧本身。”——富兰克林·罗斯福"
+    },
+    {
+      "index": 37,
+      "key": "quote.only_those_who_have_the_courage_to_fail_greatly_achieve_greatly_robert_kennedy",
+      "source": "\"Only those who have the courage to fail greatly achieve greatly.\" - Robert Kennedy",
+      "sha256": "1fa1d42285411ce9a8f0cf4a54e8f58fbf0bb432b415f7809a3746226b24a5d2",
+      "zh": "“只有敢于承受巨大失败的人，才能取得巨大成就。”——罗伯特·肯尼迪"
+    },
+    {
+      "index": 38,
+      "key": "quote.amnesty_acid_and_abortion",
+      "source": "\"Amnesty, acid, and abortion.\"",
+      "sha256": "6dd17c90c316bdf58ae14f70caca12188f5663f0be7dc640ff37963ad31de7f5",
+      "zh": "“赦免、迷幻药与堕胎。”"
+    },
+    {
+      "index": 39,
+      "key": "quote.in_your_heart_you_know_he_s_right",
+      "source": "\"In your heart, you know he's right!\"",
+      "sha256": "e417bdf6d22eb2522576e95c0ab776b64b8fb2a653aa2b496488b35e8b99a9bf",
+      "zh": "“你心里明白，他是对的！”"
+    },
+    {
+      "index": 40,
+      "key": "quote.give_me_liberty_or_give_me_death_patrick_henry",
+      "source": "\"Give me liberty, or give me death!\" - Patrick Henry",
+      "sha256": "9ee6198ed227cb0c9adc7eb820626de8c993aee3de23647ea1f52de90f72334e",
+      "zh": "“不自由，毋宁死！”——帕特里克·亨利"
+    },
+    {
+      "index": 41,
+      "key": "quote.vote_for_taft_now_you_can_vote_for_bryan_anytime",
+      "source": "\"Vote for Taft now, you can vote for Bryan anytime!\"",
+      "sha256": "a04d1c5a6ce9ad2c011e3d9ed1a963e785514b2ddc1f186e5f1c8ffc47483a10",
+      "zh": "“这次先投塔夫脱，布赖恩哪次都能投！”"
+    },
+    {
+      "index": 42,
+      "key": "quote.vote_for_the_crook_it_s_important",
+      "source": "\"Vote for the crook. It's important.\"",
+      "sha256": "9e67db9e0e633bd89396d10db57bf3b8a976d60440b536747b1ebbfcce32ee08",
+      "zh": "“投给那个贪腐的家伙，这很重要！”"
+    },
+    {
+      "index": 43,
+      "key": "quote.blaine_blaine_james_g_blaine_the_continental_liar_from_the_state_of_maine",
+      "source": "\"Blaine, Blaine, James G. Blaine, The Continental Liar from the State of Maine!\"",
+      "sha256": "564350620be883bd9f67954200d5e9843ede6ca962317a015cf4859afd4456f2",
+      "zh": "“布莱恩，布莱恩，詹姆斯·G.·布莱恩，缅因州来的举国大骗子！”"
+    },
+    {
+      "index": 44,
+      "key": "quote.i_like_ike",
+      "source": "\"I like Ike!\"",
+      "sha256": "63a4dbaa032d8d3b82c8d23ea3dd8d64f8c767ce93bd57d6651e4289d6b87cba",
+      "zh": "“我喜欢艾克！”"
+    },
+    {
+      "index": 45,
+      "key": "quote.a_house_divided_can_not_stand_abraham_lincoln",
+      "source": "\"A house divided can not stand.\" - Abraham Lincoln",
+      "sha256": "fda0d46817932d6bf8b7d93e9902c115e4af9ec2e155da8df68c67ee205d7bfa",
+      "zh": "“分裂之家，不能长存。”——亚伯拉罕·林肯"
+    },
+    {
+      "index": 46,
+      "key": "quote.ask_not_what_your_country_can_do_for_you_ask_what_you_can_do_for_your_country_john_kennedy",
+      "source": "\"Ask not what your country can do for you- ask what you can do for your country.\" - John Kennedy",
+      "sha256": "78ddf3933eed123572079e5f5733fec529024c2f336b35dea3291e7fc743b6c1",
+      "zh": "“不要问国家能为你做什么，要问你能为国家做什么。”——约翰·肯尼迪"
+    },
+    {
+      "index": 47,
+      "key": "quote.give_me_six_hours_to_chop_down_a_tree_and_i_will_spend_four_sharpening_the_axe_abraham_lincoln",
+      "source": "\"Give me six hours to chop down a tree and I will spend four sharpening the axe\" - Abraham Lincoln",
+      "sha256": "f65146ab46ffb0b57532c7d82712808612eb29bb47a0f7ff983056bdcd545031",
+      "zh": "“给我六小时砍一棵树，我会用四小时磨斧头。”——亚伯拉罕·林肯"
+    }
+  ]
+}

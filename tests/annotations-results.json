@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-10T03:03:27.049Z",
+  "notes": 288,
+  "bindings": 5916,
+  "humanReviewed": 5415,
+  "browser": "155.0.8059.39",
+  "checks": [
+    "Every exact source/key/SHA binding valid and human reviewed",
+    "Every note, including endings and 47 header keys, rendered and opened offline",
+    "All 48 original header slots attach notes; header cache and language switching stable",
+    "Changed sources never inherit stale annotations",
+    "Mouse/Enter/Escape/close do not change game object, radio selection or RNG",
+    "English hides notes; Chinese restores without duplicate buttons or state changes",
+    "Source links safe; no source-site requests on opening explanations",
+    "Answer/feedback/next flow remains operational",
+    "Panel fits 390px viewport and 80/100/125/150 percent CSS zoom",
+    "All 14 native reading lists resolve to revised Chinese with original link targets intact"
+  ],
+  "errors": [],
+  "external": [],
+  "missing": [],
+  "rendered": 5916,
+  "headerBindings": 47,
+  "headerSlotsReviewed": 48,
+  "headersRendered": 47,
+  "humanReviewedRecordPositions": 23396,
+  "readingListsReviewed": 14,
+  "readingListPositions": 19,
+  "readingListsRendered": 14,
+  "status": "passed"
+}

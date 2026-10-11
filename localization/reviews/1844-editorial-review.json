@@ -1,0 +1,3258 @@
+{
+  "checkedAt": "2026-10-08",
+  "batch": "1844",
+  "uniqueSourcesReviewed": 234,
+  "recordPositions": 895,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 71,
+      "reason": "Original does derive may be missing not; retain literal claim and attach explanation."
+    },
+    {
+      "index": 193,
+      "reason": "Original Thomas Birney retained; note identifies historical James G. Birney."
+    },
+    {
+      "index": 206,
+      "reason": "Original some of all is malformed; contextual some or all reading explicitly disclosed in note."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "This is probably your best option.",
+      "sha256": "76a8b436ec06d6c87a610a9cb5d4fd07992dc72846a0ffd129999c51f73f1e94",
+      "zh": "这大概是你最好的选择。",
+      "keys": [
+        "2016a_Clinton_Booker/answer_feedback_json/2090@45/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2090@42/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2090@37/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2090@35/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1723@75/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1723@81/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "There's nothing wrong with this response.",
+      "sha256": "d3847f694b6c400b1c7a0c4036342c9f8cb7a65b3f58759fa0310edee15fdc80",
+      "zh": "这个回答没有什么问题。",
+      "keys": [
+        "1988_Bush_Kemp/answer_feedback_json/1972@0/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1970@55/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1972@0/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1970@53/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1693@56/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1694@57/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1693@54/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1694@55/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1693@56/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1694@57/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "You are known as a supporter of annexation on the Texas front. Do you have anything you would like to add, now that you have been nominated?",
+      "sha256": "839fd717b5591a1879203d49fa56083a259501b10eac4f654a61f56d5f3d7719",
+      "zh": "你向来支持吞并得克萨斯。如今已获得提名，对这个问题还有什么要补充的吗？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/610@0/description",
+        "1844_Polk_Woodbury/questions_json/610@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "What points will emphasize in your acceptance letter, as you accept the Democratic nomination for President?",
+      "sha256": "bac4a779934570c226ea2183f8c3ea008f7ec27dbda6bfe0c7dc8e5aec54ea39",
+      "zh": "在接受民主党总统提名的公开信中，你将着重阐述哪些观点？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/609@1/description",
+        "1844_Polk_Woodbury/questions_json/609@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "John Tyler is pleased with your position on the Texas issue, and is prepared to withdraw his candidacy. Can you give him assurances that certain appointees of his will be safe in their positions, should you be elected?",
+      "sha256": "3d9ac18bf562b6ce9d69bca6b6ffbdfcb77ad3e437a7aa36feea3f846d604ea1",
+      "zh": "约翰·泰勒很满意你在得克萨斯问题上的立场，准备退出竞选。如果你当选，能否向他保证，让他指定的某些官员继续留任？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/611@2/description",
+        "1844_Polk_Woodbury/questions_json/611@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "What is your current position on the banking system?",
+      "sha256": "c3e0c0b09a036de8f68f818627bf7cdc33307aff5a33457b75e10f2f7c09eb12",
+      "zh": "你目前对银行制度持什么立场？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/638@3/description",
+        "1844_Polk_Woodbury/questions_json/638@4/description",
+        "1844_Clay_Frelinghuysen/questions_json/638@7/description",
+        "1844_Clay_Sergeant/questions_json/638@6/description",
+        "1844_Clay_Fillmore/questions_json/638@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "Do you support an Amendment that would limit the President to a single term in office?",
+      "sha256": "b48af75b43b785620263798b7dcbc1d92d119dcb0b5034b789c514f15e7ecfae",
+      "zh": "你是否支持通过宪法修正案，将总统任期限制为一届？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/639@4/description",
+        "1844_Polk_Woodbury/questions_json/639@6/description",
+        "1844_Clay_Frelinghuysen/questions_json/639@6/description",
+        "1844_Clay_Sergeant/questions_json/639@5/description",
+        "1844_Clay_Fillmore/questions_json/639@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "Do you believe that some revenue should be set aside from our tariffs to finance internal improvements, such as canals and roads?",
+      "sha256": "cd3a380c98c234b7ebde367bbdeedcf3c6220853e7bf69a161a5470a21e94d21",
+      "zh": "你是否认为，应当拨出部分关税收入，用于运河、道路等国内公共工程建设？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/637@5/description",
+        "1844_Polk_Woodbury/questions_json/637@3/description",
+        "1844_Clay_Frelinghuysen/questions_json/637@5/description",
+        "1844_Clay_Sergeant/questions_json/637@4/description",
+        "1844_Clay_Fillmore/questions_json/637@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "What should your party's position be on the Tariff of 1842, which increased tariffs?",
+      "sha256": "e02e3431f14fc2642d90c0001d38556a3051af1d489b7bd69b435c8b7c0ad48f",
+      "zh": "《1842年关税法》提高了关税。你们党应当对此持什么立场？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/636@6/description",
+        "1844_Polk_Woodbury/questions_json/636@5/description",
+        "1844_Clay_Frelinghuysen/questions_json/636@4/description",
+        "1844_Clay_Sergeant/questions_json/636@7/description",
+        "1844_Clay_Fillmore/questions_json/636@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "Would you support the annexation of Texas, even without an agreement with Mexico, and a possible war?",
+      "sha256": "6a5a3e18589300121c8d181a7266e2cf7b0c54f885eef89b965b506784068fc9",
+      "zh": "即使未与墨西哥达成协议，而且可能引发战争，你仍会支持吞并得克萨斯吗？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/622@7/description",
+        "1844_Polk_Woodbury/questions_json/622@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "Should your party attack Henry Clay's personal conduct? His gambling, womanizing, dueling, and generally irreligious nature?",
+      "sha256": "9fe3330cbc38efcc3f89b69064fe2474391e062c86b0a904ce7210eb3293504c",
+      "zh": "你们党是否应当攻击亨利·克莱的个人品行——赌博、拈花惹草、决斗，以及总体上不虔诚的作风？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/618@8/description",
+        "1844_Polk_Woodbury/questions_json/618@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "Do you have any statement on the presence of Theodore Frelinghuysen on the Whig ticket, and his association with known anti-Catholic agitators?",
+      "sha256": "ab38a28e3cfff572f8583c4f12ff0fbf602a97631e00466b454bb9b02eb55e66",
+      "zh": "西奥多·弗里林海森是辉格党的副总统候选人，又与一些知名的反天主教煽动者有交往。对此，你有什么声明？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/615@9/description",
+        "1844_Polk_Woodbury/questions_json/615@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "Silas Wright, the protege and successor to Van Buren, has been mentioned as a candidate for Governor of New York. He seems hesitant. Will you write him a letter imploring him to enter the race?",
+      "sha256": "6c7f6a60fdb7184bf400a124fe6ce14cfb0a8d60b5e0b8f808541c89b633a6fc",
+      "zh": "范布伦的门生和政治接班人赛拉斯·赖特，被提议为纽约州州长候选人，但他似乎有些犹豫。你会写信恳请他参选吗？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/619@10/description",
+        "1844_Polk_Woodbury/questions_json/619@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "Henry Clay supports the idea that the federal government should purchase the telegraph patent and manage the technology. To what extent should you attack him on this?",
+      "sha256": "47cd497e4dff72e118a6a648add3d0e8935e507d2635f708f0fe341b6875a3c2",
+      "zh": "亨利·克莱主张由联邦政府购买电报专利，并管理这项技术。你应当在多大程度上就此攻击他？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/617@11/description",
+        "1844_Polk_Woodbury/questions_json/617@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "Do you believe that any Southern Whig can call themselves a supporter of slavery, so long as Henry Clay equivocates on the Texas issue?",
+      "sha256": "32a7ab7ecdc22c60393fefb043c9789c701f681ce0c130fe81c2efd7be263832",
+      "zh": "只要亨利·克莱还在得克萨斯问题上含糊其辞，南方辉格党人就还能自称奴隶制的支持者吗？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/614@12/description",
+        "1844_Polk_Woodbury/questions_json/614@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "Cassius Clay, a cousin of Henry Clay, has published a letter stating Henry Clay is in accord with the abolitionist movement. Should your party disseminate copies of this letter as an attack?",
+      "sha256": "772ee049aa3f3bc909637c581ae7e538e879bfa0d95d537d59ec9d7ee9da8daf",
+      "zh": "亨利·克莱的亲戚卡修斯·克莱发表了一封信，声称亨利·克莱赞同废奴运动。你们党是否应当散发这封信的副本，以此攻击他？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/613@14/description",
+        "1844_Polk_Woodbury/questions_json/613@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "There have recently been riots and armed clashes between nativists and Irish immigrants in Philadelphia and elsewhere. Do you have any plans to condemn the nativist violence in these episodes?",
+      "sha256": "3d1ad2b69374606a06d01e2cfb3ab0a89215d998ebc205dbfee922d668927839",
+      "zh": "最近，费城等地的本土主义者与爱尔兰移民之间发生了暴乱和武装冲突。你是否准备谴责这些事件中本土主义者的暴力行为？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/620@15/description",
+        "1844_Polk_Woodbury/questions_json/620@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "What do you make of Martin Van Buren's 1842 visit to Henry Clay's estate? Is Clay too friendly with Northern interests?",
+      "sha256": "0178eb9a8b65f0abb828a1a1139cd05cf9727951dbc933a2ec7d98effa7aade8",
+      "zh": "马丁·范布伦曾在1842年造访亨利·克莱的庄园。你如何看待此事？克莱是不是与北方利益集团走得太近了？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/621@16/description",
+        "1844_Polk_Woodbury/questions_json/621@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "Do you agree with Robert Walker's letter, arguing that that slavery issue will be diluted by national expansion?",
+      "sha256": "d7d7fb6e2a97b116663f5e6ed9019912c7c5bb8afd323c2b5c1270fe43c42f36",
+      "zh": "罗伯特·沃克在信中主张，国家扩张将淡化奴隶制问题。你同意他的观点吗？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/646@17/description",
+        "1844_Clay_Sergeant/questions_json/646@17/description",
+        "1844_Clay_Fillmore/questions_json/646@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Regardless of your personal feelings, would you sign an act which established an independent Treasury for the government's funds?",
+      "sha256": "2ffbbe1a5ccbabba0b391c550afee226b56f97fbc832f384003251840242628d",
+      "zh": "撇开个人看法，你是否会签署一项法案，为政府资金设立独立国库？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/648@19/description",
+        "1844_Clay_Frelinghuysen/questions_json/648@23/description",
+        "1844_Clay_Fillmore/questions_json/648@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "Do you support any effort to establish a unified, national currency?",
+      "sha256": "85bca891b25f2ab2b5a0e82d997e08b8c85ad0426a71ac185d72b23f7714baad",
+      "zh": "你是否支持建立全国统一货币的努力？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/645@20/description",
+        "1844_Polk_Woodbury/questions_json/645@22/description",
+        "1844_Clay_Frelinghuysen/questions_json/645@22/description",
+        "1844_Clay_Sergeant/questions_json/645@16/description",
+        "1844_Clay_Fillmore/questions_json/645@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Do you support any changes to our current naturalization laws?",
+      "sha256": "d70b6a721ee3eace73c46eed1e6ae9e89926522eee6d5821dad75d33282d3f39",
+      "zh": "你是否支持修改现行入籍法？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/644@21/description",
+        "1844_Clay_Sergeant/questions_json/644@18/description",
+        "1844_Clay_Fillmore/questions_json/644@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Would you sign a law that lowered tariffs below the level needed to protect American industry from foreign imports?",
+      "sha256": "b5f8d34ac22b34cf079642bdae8d0219591242cca816dccaad2fb7ec8bef2e24",
+      "zh": "如果一项法律把关税降到不足以保护美国工业免受外国进口商品冲击的水平，你会签署吗？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/642@22/description",
+        "1844_Polk_Woodbury/questions_json/642@23/description",
+        "1844_Clay_Frelinghuysen/questions_json/642@20/description",
+        "1844_Clay_Fillmore/questions_json/642@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "Aside from the issue of Texas, do you support the expansion of the United States in general? Into Oregon, other parts of Mexico, Cuba, etc.?",
+      "sha256": "add4e2901036138d44e40b236e8ce6e32399792f29b844b8df5f6c0a2711d849",
+      "zh": "除了得克萨斯问题，你总体上是否支持美国扩张——进入俄勒冈、墨西哥其他地区、古巴等地？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/641@23/description",
+        "1844_Polk_Woodbury/questions_json/641@21/description",
+        "1844_Clay_Frelinghuysen/questions_json/641@16/description",
+        "1844_Clay_Sergeant/questions_json/641@23/description",
+        "1844_Clay_Fillmore/questions_json/641@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Is there a particular state where your party should concentrate its resources and most talented speakers as the election draws near?",
+      "sha256": "3c0f3d63f674e9b606a4e9583dae4a8aa8cb91670f7c9d6653cf993dc7adbb11",
+      "zh": "大选临近，你们党是否应当把资源和最优秀的演说家集中到某个州？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/651@24/description",
+        "1844_Polk_Woodbury/questions_json/651@24/description",
+        "1844_Clay_Frelinghuysen/questions_json/651@24/description",
+        "1844_Clay_Sergeant/questions_json/651@24/description",
+        "1844_Clay_Fillmore/questions_json/651@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "I will open with a full-throated defense of the annexation of Texas. I will also express my support for our current banking system, and for large reductions to our tariff rate.",
+      "sha256": "a2ab9f4d8dd45d72d55f0fac4144843cae0c524e25e34bc3c70e302d014dbc5b",
+      "zh": "我将开篇大力为吞并得克萨斯辩护，同时表明我支持现行银行制度，并主张大幅降低关税税率。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4120@0/description",
+        "1844_Polk_Woodbury/answers_json/4120@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "I will express my support for the annexation of Texas, and a favorable resolution to the Oregon situation. On other issues, we will continue Van Buren's efforts to establish an Independent Treasury, and will move to reduce tariffs.",
+      "sha256": "11f1377ec9348682073763e38f68228ab4210d97f8358cab8ec2f0944b35af9f",
+      "zh": "我将表明支持吞并得克萨斯，并支持以有利于我们的方式解决俄勒冈问题。在其他议题上，我们将继续范布伦设立独立国库的努力，并推动降低关税。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4121@1/description",
+        "1844_Polk_Woodbury/answers_json/4121@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "I will open with a defense of the annexation of Texas, and then spend the rest of the letter attacking Henry Clay and his obfuscations on the issue.",
+      "sha256": "02a7e59c9939eac22ae1328ffc3f613d662da212ffb4b8e943bc3878fa8deb81",
+      "zh": "我将开篇为吞并得克萨斯辩护，接着用信中其余篇幅，抨击亨利·克莱在这个问题上故意混淆视听。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4122@2/description",
+        "1844_Polk_Woodbury/answers_json/4122@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "My position on Texas is known. I will explain my own background more carefully, and emphasize that the Democrats are a national party that fights for the benefit of all sections.",
+      "sha256": "9a3d28dda7dbe014144ac7198dd5c89ee38d581486b08736b0c74cbf1bb03e00",
+      "zh": "我在得克萨斯问题上的立场已经众所周知。我将更详细地介绍自己的背景，强调民主党是一个全国性政党，为各地区的利益而奋斗。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4123@3/description",
+        "1844_Polk_Woodbury/answers_json/4123@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "We must annex Texas immediately.",
+      "sha256": "15fda5de9f6c445890742e4e63678e2a8e9dcde526e806c6c818e0f404e0ed6b",
+      "zh": "我们必须立即吞并得克萨斯。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4124@4/description",
+        "1844_Polk_Woodbury/answers_json/4124@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "We must annex Texas as soon as practicable.",
+      "sha256": "6add6e1de9def7ce7bc6f085eabf82ff6d30135a04cf74924123c31f06fbcc72",
+      "zh": "我们必须在条件允许时尽快吞并得克萨斯。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4125@5/description",
+        "1844_Polk_Woodbury/answers_json/4125@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "I obtained my nomination based on the Texas issue, and people know that. We need to pivot now, and make the case for other parts of our platform.",
+      "sha256": "b396531208a3bf5b67c670d0a80d810aa9e1d1cad146c652f1f0da21f74baa5f",
+      "zh": "我凭借得克萨斯问题上的立场获得提名，这一点人们都清楚。现在我们需要转移重点，阐明纲领的其他部分。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4126@6/description",
+        "1844_Polk_Woodbury/answers_json/4126@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "John Tyler lacks any broad base of support. It's more important to reserve these appointments for loyal Democrats.",
+      "sha256": "c264a2a7b986a563138c183d496fb261dc273229ce4f6cab1d0220c6f87b3a1f",
+      "zh": "约翰·泰勒没有广泛的支持基础。更重要的是，把这些任命留给忠诚的民主党人。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4127@7/description",
+        "1844_Polk_Woodbury/answers_json/4127@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "Getting Tyler out of the race is worth it. He can send us a reasonable list of people who will stay on when we're elected.",
+      "sha256": "f3e421c86ee9e3d96253887ed4892bc9a7ada9f697440f285c8e82c92d210558",
+      "zh": "让泰勒退出竞选，值得这样做。他可以给我们一份合理的名单，让上面的人在我们当选后留任。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4128@8/description",
+        "1844_Polk_Woodbury/answers_json/4128@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "That seems like a pretty obvious move to me. The Whigs have always had trouble finessing this issue.",
+      "sha256": "2e9e0aaaf79616ea90522024195527562fd721cc05c6a820a71fd641ba0f2ded",
+      "zh": "我觉得这么做显而易见。辉格党一直很难巧妙地处理这个问题。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4130@9/description",
+        "1844_Polk_Woodbury/answers_json/4130@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "Let's not appear too hasty here. We need to run as a national party and avoid alienating Northerners.",
+      "sha256": "bf00b48824490cdf1427e7c2cace3d67648765d336fab67f9e856c6d778a67a5",
+      "zh": "我们别显得过于急切。我们需要以全国性政党的身份参选，避免疏远北方人。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4131@10/description",
+        "1844_Polk_Woodbury/answers_json/4131@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "We have the upper-hand here, and we need to hammer the Southern Whigs on their allegiance to a party that is drifting towards increasingly radical positions.",
+      "sha256": "7082db775e1a303558a54f6cc1b9140498a654023bd6bb28dc745dd4524599bc",
+      "zh": "我们在这里占据上风，必须猛烈抨击南方辉格党人：他们仍然效忠一个立场日趋激进的政党。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4132@11/description",
+        "1844_Polk_Woodbury/answers_json/4132@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "Mr. Clay has certainly shown unusual reticence on the Texas issue, but many Southern Whigs are perfectly fine people.",
+      "sha256": "6a3006d7ea84fdfad164356da57c5d0e33efc20612669b41bf222363fc9c5709",
+      "zh": "克莱先生在得克萨斯问题上确实异常缄默，但许多南方辉格党人都很不错。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4133@12/description",
+        "1844_Polk_Woodbury/answers_json/4133@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "We don't really need to address this question one way or the other. Let's just run our campaign and get our own views out.",
+      "sha256": "ecbdc4ccba7affdbda80bb5e725da95b22c35b079a6eed28940249f5e02c1a1c",
+      "zh": "我们实在没有必要对这个问题作出肯定或否定的回答。专心竞选，把我们自己的观点传达出去就好。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4134@13/description",
+        "1844_Polk_Woodbury/answers_json/4134@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "The Democratic Party is a friend of the working-class, and of immigrants from abroad. We denounce the vile bigotry of the Whig Party, as evidenced by Frelinghuysen.",
+      "sha256": "2782717f7b22aaa2e0b0f71ada63f65dca9d2c4fa1a3531e3be6b997fa7cdc4e",
+      "zh": "民主党是工人阶级和外国移民的朋友。弗里林海森的表现，就是辉格党卑劣偏见的明证，我们对此予以谴责。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4135@14/description",
+        "1844_Polk_Woodbury/answers_json/4135@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "We won't have much to say about Frelinghuysen. He seems to avoided the vices which have plagued Henry Clay throughout his life.",
+      "sha256": "9f9b3a9bc843483f1096422dd6a77e4f7af6c0c9da7b07e389c1535c86cfef2a",
+      "zh": "我们不会对弗里林海森作过多评论。他似乎没有沾染那些困扰亨利·克莱一生的恶习。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4136@15/description",
+        "1844_Polk_Woodbury/answers_json/4136@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "I am a personal friend of Andrew Jackson, and have repeatedly taken advice from him throughout my political career. I'm proud of this and I believe it to be an asset in this campaign.",
+      "sha256": "ae2db97c30a455e3790143fe0b2c174362b1badc74fcc2e976f07da334ff6a05",
+      "zh": "我是安德鲁·杰克逊的私人朋友，在政治生涯中多次向他请教。我为此感到自豪，也相信这能为此次竞选加分。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4137@16/description",
+        "1844_Polk_Woodbury/answers_json/4137@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "There's no need to talk about Andrew Jackson at this point. Let's focus on Texas and other issues of our current time, rather than rehashing the battles of a decade ago.",
+      "sha256": "5b90fccff562755a572a261f8681a1dc87fea179ece2bc44b51e8c567146f37f",
+      "zh": "现在没有必要谈论安德鲁·杰克逊。让我们把重点放在得克萨斯等当前议题上，不要重提十年前的纷争。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4138@17/description",
+        "1844_Polk_Woodbury/answers_json/4138@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "We don't need to do anything so crazy as to denounce Andrew Jackson, but I think on the banking issue or the tariff issue, my positions are significantly different than what he advocated for.",
+      "sha256": "94960774d8fe49c51cc69bafc8537d219269aba9da0fcdc403f76ec1567ef2f2",
+      "zh": "我们没有必要做出谴责安德鲁·杰克逊这种荒唐之举。不过，在银行或关税问题上，我的立场确实与他的主张有很大不同。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4139@18/description",
+        "1844_Polk_Woodbury/answers_json/4139@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "This sounds like the most ridiculous idea yet from Mr. Clay's long public career. I trust that enterprising individuals and companies will develop this technology.",
+      "sha256": "11ca9f15b86c592d7a3aabe5921708a2331264197fedf10d56c6c8099290879f",
+      "zh": "这听起来是克莱先生漫长政治生涯中迄今最荒唐的主意。我相信，有进取心的个人和企业会发展这项技术。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4140@19/description",
+        "1844_Polk_Woodbury/answers_json/4140@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "We don't need to hammer on the internal improvements issue. We have other things to talk about which will better unite the party.",
+      "sha256": "aa9a14057fb68a6b6efa7c045846fdf16aad1582543f7db0be04f992f13c07e3",
+      "zh": "我们没有必要紧抓国内公共工程问题不放。还有其他议题，更能团结党内各方。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4141@20/description",
+        "1844_Polk_Woodbury/answers_json/4141@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "We can emphasize in my own biography that I have led an upright life, without any taint to my personal conduct.",
+      "sha256": "6f181c9b0318e8bb57b0b1bcedff6818e91088a2a930adbe0ab9b989816f21ca",
+      "zh": "我们可以在我的传记中强调，我一向为人正直，个人品行毫无污点。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4142@21/description",
+        "1844_Polk_Woodbury/answers_json/4142@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "The passions of these times seem to be towards someone who is more righteous in their behavior. We should attack Clay's conduct, and especially in the Northeast.",
+      "sha256": "13853f46b4f12170e4558483d0f048535166858be375e186a173b55d167c29bb",
+      "zh": "当下的社会风气，似乎更倾向于支持品行端正的人。我们应当攻击克莱的品行，尤其是在东北部。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4143@22/description",
+        "1844_Polk_Woodbury/answers_json/4143@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "I don't think that personal conduct is a good issue to bring into this campaign.",
+      "sha256": "9dcc86637328a0785b373768a7516d9ca200c2fe525c1661e21d65cfd849fc0a",
+      "zh": "我不认为个人品行适合作为这次竞选的议题。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4144@23/description",
+        "1844_Polk_Woodbury/answers_json/4144@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "This is an issue of state politics that I will stay removed from.",
+      "sha256": "584d43aacf1452cf69cbf37951fcf387143a01b01e9996696a4d16e2f9d720fb",
+      "zh": "这是州一级的政治问题，我不会介入。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4145@24/description",
+        "1844_Polk_Woodbury/answers_json/4145@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "I will put my word in as a supporter of Silas Wright.",
+      "sha256": "b931030fc5b177baf182368ef966b9639b0e03e439490e58b8995bfb229c76a3",
+      "zh": "我会出面表态，支持赛拉斯·赖特。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4146@25/description",
+        "1844_Polk_Woodbury/answers_json/4146@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "Only a very limited amount, for the most compelling projects. Otherwise the tariff should be for revenue purposes only.",
+      "sha256": "18165a15c8994c173a8895311c74a68e8bff8741132eb62758de39f97d6ea255",
+      "zh": "只能拨出极少一部分，用于最有说服力的工程。除此之外，关税应当仅以筹集财政收入为目的。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4193@26/description",
+        "1844_Polk_Woodbury/answers_json/4193@27/description",
+        "1844_Clay_Frelinghuysen/answers_json/4193@0/description",
+        "1844_Clay_Sergeant/answers_json/4193@0/description",
+        "1844_Clay_Fillmore/answers_json/4193@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "The Whig Party attempts to stand apart from these nativist mobs, yet their own candidate for Vice President has associated with virulent anti-Catholics.",
+      "sha256": "670c59d23f56200c05c6e69511025f222f0fe44363ad62f90e2762c4e22f71c9",
+      "zh": "辉格党试图与这些本土主义暴徒划清界限，但他们自己的副总统候选人，却与极端反天主教人士有交往。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4147@27/description",
+        "1844_Polk_Woodbury/answers_json/4147@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "I don't want to address civil disorder directly, but we should be clear that we oppose any changes to our naturalization laws.",
+      "sha256": "d0b6141b568247c558b788cbcfd3cf2a79e40101115162b60c339adfaf53e36f",
+      "zh": "我不想直接评论骚乱，但我们应当明确表示，反对修改入籍法。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4148@28/description",
+        "1844_Polk_Woodbury/answers_json/4148@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "Our national party should avoid addressing this issue.",
+      "sha256": "0589605bd3b5028bf7c35134cb7b4f436a56c1c9c5a35c39f4902a82b3811fea",
+      "zh": "我们这个全国性政党应当避免评论此事。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4149@29/description",
+        "1844_Polk_Woodbury/answers_json/4149@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "This incident was a source of insinuation against Van Buren during the nomination battle. In the main election, however, we shouldn't mention anything that could cause a rift in the party.",
+      "sha256": "8dc2adad91a9391d598fe1e108d3810459f726fc9e9aee0676ef5b4831b06b6e",
+      "zh": "在提名角逐中，有人借此影射攻击范布伦。不过，到了正式大选阶段，我们不应提及任何可能导致党内分裂的事情。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4150@30/description",
+        "1844_Polk_Woodbury/answers_json/4150@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "The prospect of war with a backwards country such as Mexico should play no part in our calculations.",
+      "sha256": "1c883885a0233fda66a281e8e57de5fe2ed11b43bfdc76b6f19b2bad814432a8",
+      "zh": "与墨西哥这样一个落后国家开战的可能性，不应影响我们的盘算。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4152@32/description",
+        "1844_Polk_Woodbury/answers_json/4152@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "I would hope that we could negotiate an annexation with Mexico before moving forward, to avoid any diplomatic incidents.",
+      "sha256": "96b3e2594a6b4cf9bb19f9726116e59a7ed0d3ce2aac81d696a3c7413e75ad9a",
+      "zh": "我希望在采取行动之前，能够先与墨西哥谈妥吞并事宜，以免引发外交风波。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4153@33/description",
+        "1844_Polk_Woodbury/answers_json/4153@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "We stand steadfast in support of this tariff. It is one of the few positive accomplishments of Mr. Tyler's so-called Presidency.",
+      "sha256": "e5cc0009ce298e3c70e31fb5842f80563a155f6dfd5ef59a6f2741d1334e001b",
+      "zh": "我们坚定支持这项关税。它是泰勒先生那个所谓总统任期中，为数不多的积极成果之一。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4188@34/description",
+        "1844_Polk_Woodbury/answers_json/4188@35/description",
+        "1844_Clay_Frelinghuysen/answers_json/4188@33/description",
+        "1844_Clay_Sergeant/answers_json/4188@32/description",
+        "1844_Clay_Fillmore/answers_json/4188@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "The primary purpose of our tariffs should be revenue. But should a small amount of protection <em>incidentally</em> occur from our tariff policy, that is acceptable.",
+      "sha256": "24688855c39291cfed6fdf7d1099cd79e1d4bdb02ffdd7c21124d2d27312a7b1",
+      "zh": "关税的首要目的应当是筹集财政收入。不过，如果关税政策<em>附带</em>产生少量保护作用，也是可以接受的。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4189@35/description",
+        "1844_Polk_Woodbury/answers_json/4189@36/description",
+        "1844_Clay_Frelinghuysen/answers_json/4189@34/description",
+        "1844_Clay_Sergeant/answers_json/4189@33/description",
+        "1844_Clay_Fillmore/answers_json/4189@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "We should avoid taking a strong position on this tariff. There are men in our party who stand on both sides of the issue.",
+      "sha256": "74ce4b2814821113e6420962ed1e9fc506688a35e30bec7981094ae062829aa7",
+      "zh": "我们应当避免在这项关税上采取鲜明立场。党内在这个问题上，两边都有人支持。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4190@36/description",
+        "1844_Polk_Woodbury/answers_json/4190@37/description",
+        "1844_Clay_Frelinghuysen/answers_json/4190@35/description",
+        "1844_Clay_Sergeant/answers_json/4190@34/description",
+        "1844_Clay_Fillmore/answers_json/4190@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "We must rescind this tariff and replace it with something much lower. I support free trade and low tariffs.",
+      "sha256": "acf2f09e8e640025385c3749c198516e14dc07523186a7fbcf971cb1b42b0cb5",
+      "zh": "我们必须废除这项关税，改用低得多的税率。我支持自由贸易和低关税。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4191@37/description",
+        "1844_Polk_Woodbury/answers_json/4191@38/description",
+        "1844_Clay_Frelinghuysen/answers_json/4191@36/description",
+        "1844_Clay_Sergeant/answers_json/4191@35/description",
+        "1844_Clay_Fillmore/answers_json/4191@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "This is one of the key objectives of our current tariff policy, and I would support a strong infrastructure program as President.",
+      "sha256": "d22329f276723ae9319a603892d1bb59ca9828df03e1c2535c9cf327cf6d4d41",
+      "zh": "这是现行关税政策的主要目标之一。如果当选总统，我会支持一项有力的基础设施建设计划。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4192@38/description",
+        "1844_Polk_Woodbury/answers_json/4192@39/description",
+        "1844_Clay_Frelinghuysen/answers_json/4192@37/description",
+        "1844_Clay_Sergeant/answers_json/4192@36/description",
+        "1844_Clay_Fillmore/answers_json/4192@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "I don't believe that it is constitutional or advisable for the federal government to undertake an internal improvements program.",
+      "sha256": "19672959280c416f23e95e7a0a62f8da2288e184ca09b382b5853c6e6950d93d",
+      "zh": "我认为，由联邦政府推行国内公共工程计划，既不合宪，也不明智。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4194@39/description",
+        "1844_Polk_Woodbury/answers_json/4194@40/description",
+        "1844_Clay_Frelinghuysen/answers_json/4194@38/description",
+        "1844_Clay_Sergeant/answers_json/4194@37/description",
+        "1844_Clay_Fillmore/answers_json/4194@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "I stand for a national bank, broadly similar to the late Second Bank of the United States.",
+      "sha256": "a7e777fea4fb62d93fb224dd1c2205947c0cb9fbccd3bd66bfec8231366ff24f",
+      "zh": "我主张设立一家国家银行，大体类似于已经撤销的美国第二银行。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4195@40/description",
+        "1844_Polk_Woodbury/answers_json/4195@41/description",
+        "1844_Clay_Frelinghuysen/answers_json/4195@39/description",
+        "1844_Clay_Sergeant/answers_json/4195@38/description",
+        "1844_Clay_Fillmore/answers_json/4195@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "I stand for a national bank or an independent Treasury -- whichever can gain the most support. I would require any national bank to maintain a branch in every state.",
+      "sha256": "ecc6dd78e837fa0e8d4846e0e13c5557b6b8c7ab1ce3deb1497a0d5100484d20",
+      "zh": "我支持国家银行或独立国库，哪一种能获得更多支持，就采用哪一种。我会要求任何国家银行都在每个州设立分行。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4196@41/description",
+        "1844_Polk_Woodbury/answers_json/4196@42/description",
+        "1844_Clay_Frelinghuysen/answers_json/4196@40/description",
+        "1844_Clay_Sergeant/answers_json/4196@39/description",
+        "1844_Clay_Fillmore/answers_json/4196@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "I will never support a national bank, but I do advocate an independent Treasury, so that federal funds won't be tied up in local speculations.",
+      "sha256": "0abd112a5632c0e0b1f3f4e6796dced7e671a01ef7040c6df3633934e7b74430",
+      "zh": "我绝不会支持国家银行，但我主张设立独立国库，让联邦资金不致卷入地方上的投机活动。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4197@42/description",
+        "1844_Polk_Woodbury/answers_json/4197@43/description",
+        "1844_Clay_Frelinghuysen/answers_json/4197@41/description",
+        "1844_Clay_Sergeant/answers_json/4197@40/description",
+        "1844_Clay_Fillmore/answers_json/4197@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "I support our current free banking system, and I see no need for the Treasury to insulate its operations from the state-chartered banks.",
+      "sha256": "f9d57be0bc9c2c9de876cb764a0982fd13997f41a36995fd1404746a3146afc9",
+      "zh": "我支持现行自由银行制度，看不出有什么必要让国库业务与各州特许设立的银行隔离开来。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4198@43/description",
+        "1844_Polk_Woodbury/answers_json/4198@44/description",
+        "1844_Clay_Frelinghuysen/answers_json/4198@42/description",
+        "1844_Clay_Sergeant/answers_json/4198@41/description",
+        "1844_Clay_Fillmore/answers_json/4198@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "This is a necessary step against the overreach and abuse of power of the Executive branch.",
+      "sha256": "281eaadb55de6257ceb783ac08cbf07b15f01b7ba5d3cef26b7424d7f91e483f",
+      "zh": "这是遏制行政部门越权和滥权的必要措施。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4199@44/description",
+        "1844_Polk_Woodbury/answers_json/4199@45/description",
+        "1844_Clay_Frelinghuysen/answers_json/4199@43/description",
+        "1844_Clay_Sergeant/answers_json/4199@42/description",
+        "1844_Clay_Fillmore/answers_json/4199@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "I don't support an Amendment on this issue, but I will personally promise not to run for reelection.",
+      "sha256": "3cbbf73eaf1439e99da569d7351b2229740ea3a7d3ff89077323894abdcd450f",
+      "zh": "我不支持为此修宪，但我个人会承诺不竞选连任。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4200@45/description",
+        "1844_Polk_Woodbury/answers_json/4200@46/description",
+        "1844_Clay_Frelinghuysen/answers_json/4200@44/description",
+        "1844_Clay_Sergeant/answers_json/4200@43/description",
+        "1844_Clay_Fillmore/answers_json/4200@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "I don't think that this is a necessary step, at this time.",
+      "sha256": "1a963c6d6ad98bdb47b8a4d5333f680f5615fbd36afb36039bcc4e5e7c091a24",
+      "zh": "我认为，眼下没有必要采取这项措施。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4201@46/description",
+        "1844_Polk_Woodbury/answers_json/4201@47/description",
+        "1844_Clay_Frelinghuysen/answers_json/4201@45/description",
+        "1844_Clay_Sergeant/answers_json/4201@44/description",
+        "1844_Clay_Fillmore/answers_json/4201@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "I am against the annexation of Texas. And just to show that this does derive from sectional prejudice, I am also against expansion into Oregon or other regions.",
+      "sha256": "da5b928bba8d8952ae9d16d3ab87ec1696d6cae694e88dbf5b13364ca6c248f1",
+      "zh": "我反对吞并得克萨斯。为表明这一立场确实出于地域偏见，我也反对向俄勒冈或其他地区扩张。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4205@47/description",
+        "1844_Polk_Woodbury/answers_json/4205@48/description",
+        "1844_Clay_Frelinghuysen/answers_json/4205@49/description",
+        "1844_Clay_Sergeant/answers_json/4205@48/description",
+        "1844_Clay_Fillmore/answers_json/4205@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "I believe that the United States, in line with the “Manifest Destiny” ideal, should expand wherever feasible.",
+      "sha256": "f695bbbf69f8d5c9aad4b35d89d3d1e272537bb99fdbd0a7095b7133b7b003a6",
+      "zh": "我认为，美国应当遵循“天定命运”的理想，在条件允许的地方扩张。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4206@48/description",
+        "1844_Polk_Woodbury/answers_json/4206@49/description",
+        "1844_Clay_Frelinghuysen/answers_json/4206@50/description",
+        "1844_Clay_Sergeant/answers_json/4206@49/description",
+        "1844_Clay_Fillmore/answers_json/4206@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "I would be forced to veto such a measure as President.",
+      "sha256": "bce65d02919722a88e23f675c305c6f756cc31f64b8e624026c2c1f3c8ae8a1c",
+      "zh": "如果我是总统，就不得不否决这样的措施。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4207@49/description",
+        "1844_Polk_Woodbury/answers_json/4207@50/description",
+        "1844_Clay_Frelinghuysen/answers_json/4207@51/description",
+        "1844_Clay_Fillmore/answers_json/4207@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "Regardless of my personal feelings, it is not the place of the President to override the will of Congress, unless the law in question is unconstitutional.",
+      "sha256": "eba1f1357a4d6cbe796877bd9c58079d230be12898d7cb0c7fdd68b676b2e79f",
+      "zh": "撇开我的个人看法，除非法律违宪，否则总统不应凌驾于国会意志之上。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4208@50/description",
+        "1844_Polk_Woodbury/answers_json/4208@51/description",
+        "1844_Clay_Frelinghuysen/answers_json/4208@52/description",
+        "1844_Clay_Fillmore/answers_json/4208@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 75,
+      "source": "I would gladly sign such a bill into law.",
+      "sha256": "46216a4bb37595289bf1c323ef6dd663b40d3da62ec32a49bd5cadc734155f0e",
+      "zh": "我会欣然签署这样的法案，使其成为法律。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4209@51/description",
+        "1844_Polk_Woodbury/answers_json/4209@52/description",
+        "1844_Clay_Frelinghuysen/answers_json/4209@53/description",
+        "1844_Clay_Fillmore/answers_json/4209@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 76,
+      "source": "I support our current naturalization laws as they stand.",
+      "sha256": "7b4574a2d4a75332b267a4299ebe4e9ea890a79ad18f27d591f4a8e59962df65",
+      "zh": "我支持维持现行入籍法。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4213@52/description",
+        "1844_Clay_Sergeant/answers_json/4213@53/description",
+        "1844_Clay_Fillmore/answers_json/4213@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 77,
+      "source": "Only some very minor changes, like increasing the waiting period before new citizens may vote.",
+      "sha256": "06bcd5644ad6194389be70c73d69133dc7d6dc7cbded3e30e66b1a3a21692248",
+      "zh": "只做一些很小的调整，例如延长新公民取得投票资格前的等待期。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4214@53/description",
+        "1844_Clay_Sergeant/answers_json/4214@54/description",
+        "1844_Clay_Fillmore/answers_json/4214@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 78,
+      "source": "Our current laws are in need of great revision, in light of the troubles we have had with recent immigrants.",
+      "sha256": "e89149140788c1e0075ffef65e5ee50a453ee4c9d47513d39793ae973228445e",
+      "zh": "鉴于新近移民带来的种种问题，现行法律需要大幅修改。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4215@54/description",
+        "1844_Clay_Sergeant/answers_json/4215@55/description",
+        "1844_Clay_Fillmore/answers_json/4215@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 79,
+      "source": "I support a national bank, and one clear argument for the bank is the total chaos we've had with our currency since 1837.",
+      "sha256": "ef12bbc967b804f6f5899dda88f35fca76f0eed8fd960c27818166ee0101fdc1",
+      "zh": "我支持国家银行。自1837年以来，我们的货币陷入一片混乱，这就是支持设立国家银行的一项有力理由。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4216@55/description",
+        "1844_Polk_Woodbury/answers_json/4216@56/description",
+        "1844_Clay_Frelinghuysen/answers_json/4216@54/description",
+        "1844_Clay_Sergeant/answers_json/4216@56/description",
+        "1844_Clay_Fillmore/answers_json/4216@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 80,
+      "source": "Only if we could establish one without chartering a new national bank.",
+      "sha256": "e0ae17fe4415feb24884ebd63f212f4003c45410b54d73b9c46cd604181914cd",
+      "zh": "只有在不必特许设立新国家银行的情况下，我才会支持。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4217@56/description",
+        "1844_Polk_Woodbury/answers_json/4217@57/description",
+        "1844_Clay_Frelinghuysen/answers_json/4217@55/description",
+        "1844_Clay_Sergeant/answers_json/4217@57/description",
+        "1844_Clay_Fillmore/answers_json/4217@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 81,
+      "source": "I support an independent Treasury, but not one that would disseminate a national currency.",
+      "sha256": "e776f41a73173a75517b2098131a94f6f1bdf8a9e3a1c24002caacb4c4c296ca",
+      "zh": "我支持独立国库，但不支持由它发行全国性货币。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4218@57/description",
+        "1844_Polk_Woodbury/answers_json/4218@58/description",
+        "1844_Clay_Frelinghuysen/answers_json/4218@56/description",
+        "1844_Clay_Sergeant/answers_json/4218@58/description",
+        "1844_Clay_Fillmore/answers_json/4218@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 82,
+      "source": "Our current system is more democratic than any alternative that could be devised. Let the private banks issue currency in line with their own strength and prosperity.",
+      "sha256": "e6410d3eaa2d4e4d330e163871b406d80d2800979823a9a9a24ea49be6f6ee26",
+      "zh": "现行制度比任何可能提出的替代方案都更民主。让私营银行根据各自的实力和经营状况发行货币吧。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4219@58/description",
+        "1844_Polk_Woodbury/answers_json/4219@59/description",
+        "1844_Clay_Frelinghuysen/answers_json/4219@57/description",
+        "1844_Clay_Sergeant/answers_json/4219@59/description",
+        "1844_Clay_Fillmore/answers_json/4219@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 83,
+      "source": "I believe this letter to be disingenuous at best. Further expansion will reopen the debate on slavery rather than suppress it.",
+      "sha256": "85d51b24b7252f4ee16007bcfc54191b4e9cdc49b0bbab04d1629efc59231d62",
+      "zh": "这封信往好里说，也是不够坦诚。进一步扩张将重新引发奴隶制争论，而不是平息它。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4220@59/description",
+        "1844_Clay_Sergeant/answers_json/4220@60/description",
+        "1844_Clay_Fillmore/answers_json/4220@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 84,
+      "source": "We won't address Mr. Walker's letter directly, but we are in favor of annexation.",
+      "sha256": "2d9c9e31bc42781eab25e84b7006201b8d758d9531e1b5d76854647b1d775182",
+      "zh": "我们不会直接评论沃克先生的信，但我们赞成吞并。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4221@60/description",
+        "1844_Clay_Sergeant/answers_json/4221@61/description",
+        "1844_Clay_Fillmore/answers_json/4221@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 85,
+      "source": "The independent Treasury is a halfway measure, designed to cover for the disaster that was the war against the Second Bank of the United States.",
+      "sha256": "f314781a1aca5e392dd7bb8befe602cb5461e4cdb61fd447956165987b42e9f5",
+      "zh": "独立国库是个折中办法，旨在掩饰打击美国第二银行所造成的灾难。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4224@61/description",
+        "1844_Clay_Frelinghuysen/answers_json/4224@60/description",
+        "1844_Clay_Fillmore/answers_json/4224@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 86,
+      "source": "I would prefer a national bank, but I would be willing to sign a bill which created an independent Treasury.",
+      "sha256": "0707e7a7c149abe783e6538472c81a50b840737b24bb38fafcaffadc5e390d6e",
+      "zh": "我更倾向于国家银行，但也愿意签署设立独立国库的法案。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4225@62/description",
+        "1844_Clay_Frelinghuysen/answers_json/4225@61/description",
+        "1844_Clay_Fillmore/answers_json/4225@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 87,
+      "source": "The creation of an independent Treasury will be one of the key initiatives of my Presidency.",
+      "sha256": "394e5e552b0f68103702074ca65e33124343dd1aced227f031564d218a163c12",
+      "zh": "设立独立国库，将是我担任总统期间的重点措施之一。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4226@63/description",
+        "1844_Clay_Frelinghuysen/answers_json/4226@62/description",
+        "1844_Clay_Fillmore/answers_json/4226@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 88,
+      "source": "I support our current banking system, and would not support any ill-conceived attempts to centralize our finances.",
+      "sha256": "999c566b832971ee36209bfcb0fdf6a970f8866ae6e86eeaca5a63752dc765a9",
+      "zh": "我支持现行银行制度，不会支持任何考虑不周、试图集中控制国家金融的做法。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4227@64/description",
+        "1844_Clay_Frelinghuysen/answers_json/4227@63/description",
+        "1844_Clay_Fillmore/answers_json/4227@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 89,
+      "source": "Regardless of our personal feelings, it always concerning when a religious leader and Presidential candidate can simply be killed by a mob.",
+      "sha256": "14f0e107157576c1b1a6f93051dda5fe427e81240dac05431326b8e73b1b38cf",
+      "zh": "不管我们个人怎么看，一个宗教领袖兼总统候选人竟然会被暴民杀害，总是令人忧虑的。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4231@65/description",
+        "1844_Polk_Woodbury/answers_json/4231@62/description",
+        "1844_Clay_Frelinghuysen/answers_json/4231@67/description",
+        "1844_Clay_Sergeant/answers_json/4231@65/description",
+        "1844_Clay_Fillmore/answers_json/4231@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 90,
+      "source": "This is not an issue that we plan to address in our campaign.",
+      "sha256": "647ef76323b747000e8c28550d0bdc3a4322b58f288e9484e60ffc24f10ff028",
+      "zh": "我们不打算在竞选中评论这个问题。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4232@66/description",
+        "1844_Polk_Woodbury/answers_json/4232@63/description",
+        "1844_Clay_Frelinghuysen/answers_json/4232@68/description",
+        "1844_Clay_Sergeant/answers_json/4232@66/description",
+        "1844_Clay_Fillmore/answers_json/4232@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 91,
+      "source": "Oregon is a different issue than that of Texas. In Oregon we have an existing, legitimate claim.",
+      "sha256": "aab66e2c8e01a3fc7bb9ca881603b3103d81fe724f43957c0b9e130f8053d7d0",
+      "zh": "俄勒冈与得克萨斯是不同的问题。对于俄勒冈，我们已经拥有合法的领土主张。",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4237@70/description",
+        "1844_Polk_Woodbury/answers_json/4237@67/description",
+        "1844_Clay_Frelinghuysen/answers_json/4237@72/description",
+        "1844_Clay_Sergeant/answers_json/4237@70/description",
+        "1844_Clay_Fillmore/answers_json/4237@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 92,
+      "source": "There's nothing wrong with keeping the discussion focused on Texas.",
+      "sha256": "98a8b13bf0f8758af695a3cf4e2c4a1fa9831dfbd00eff3bf4f65995f8b2d595",
+      "zh": "把讨论重点放在得克萨斯，没有什么不妥。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1608@0/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1606@10/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1607@11/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1608@0/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1606@10/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1607@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 93,
+      "source": "Good luck in this crucial state.",
+      "sha256": "0ac6d209ef1453d17d9e38e2d99699302a05a9a1ed31a504bca83b711b0c9170",
+      "zh": "祝你在这个关键州好运。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1667@1/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1668@2/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1669@3/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1670@4/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1728@81/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1729@82/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1730@83/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1731@84/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1667@1/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1668@2/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1669@3/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1670@4/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1728@77/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1729@78/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1730@79/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1731@80/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1667@0/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1668@1/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1669@2/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1670@3/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1728@86/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1729@87/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1730@88/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1731@89/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1667@0/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1668@1/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1669@2/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1670@3/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1728@83/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1729@84/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1730@85/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1731@86/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1667@0/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1668@1/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1669@2/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1670@3/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1728@87/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1729@88/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1730@89/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1731@90/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 94,
+      "source": "This is a strange aside to take, but one that is unlikely to make much of an impression.",
+      "sha256": "e26a79b3968482603d4d0ebe7d6abeac63dda58f7cf24891b72c1fad2712fa1b",
+      "zh": "这是个奇怪的岔题，不过大概不会给人留下太深印象。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1671@5/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1671@5/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1671@4/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1671@4/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1671@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 95,
+      "source": "Texas is the issue that can reignite your chances this fall! But there a few whispers that your banking policy comes straight from 1832.",
+      "sha256": "fb081ca24399728117c12bc7cbe7dc0a130d4dc7586a994ecbc12c8fa812de4a",
+      "zh": "得克萨斯问题能够重振你在今秋获胜的希望！不过，有些人私下议论，你的银行政策简直是照搬1832年的主张。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1602@6/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1602@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 96,
+      "source": "Texas is the issue that can reignite your chances this fall! Especially with the equivocation of Henry Clay.",
+      "sha256": "402791584973499cd7f36ea5007cae38a1a37cfae4287e21ab4aae094dd51420",
+      "zh": "得克萨斯问题能够重振你在今秋获胜的希望！亨利·克莱含糊其辞的态度，尤其对你有利。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1603@7/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1603@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 97,
+      "source": "Texas is the issue that can reignite your chances this fall! Clay is certainly prone to attack on that front.",
+      "sha256": "e77c00a55c31517b06e643b891146c7d807043deab2c6c3bb4b4229b32430c46",
+      "zh": "得克萨斯问题能够重振你在今秋获胜的希望！克莱在这个问题上确实容易受到攻击。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1604@8/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1604@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 98,
+      "source": "Your acceptance is well-received across the sections, but it can never hurt to hammer on the issues where your advantage is greatest.",
+      "sha256": "8685b2ff19daa8a82a08f876e9ec9cb08d5ee894f687ef900b91c5c30f0ddcb3",
+      "zh": "你接受提名的信在各地区都受到欢迎。不过，多强调那些你最占优势的议题，总没有坏处。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1605@9/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1605@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 99,
+      "source": "Loyal Democrats need all the patronage jobs they can get, but will your handling of the situation cost you any in Tyler's home state of Virginia?",
+      "sha256": "c68bee25a69a31244f497a5973a71996fb1a00e20197d82edcc40cd44d5075c4",
+      "zh": "忠诚的民主党人希望尽可能多地获得政治酬庸职位，但你处理此事的方式，会不会让你在泰勒的家乡弗吉尼亚州损失选票？",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1609@12/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1609@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 100,
+      "source": "Tyler has officially declared his withdrawal from the race. There are some whispers in the party about the jobs which may have come with that bargain, however. ",
+      "sha256": "9091113ac1e246b18c027fcd088ba4258f1098ddd207d0960afed52e1ff9371a",
+      "zh": "泰勒已正式宣布退出竞选。不过，党内有人私下议论，这笔交易可能附带了一些官职安排。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1610@13/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1610@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 101,
+      "source": "There's no reason to hold back here -- Cassius Clay has put his cousin in a very awkward position.",
+      "sha256": "54e62d68ee016697624ba51201e389b0f37b93aa4a30d22681745f60abaab52f",
+      "zh": "这里没有必要手下留情——卡修斯·克莱已经让他的亲戚陷入了十分尴尬的处境。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1612@14/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1613@15/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1612@15/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1613@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 102,
+      "source": "The slavery issue is increasingly becoming a problem for the Whigs of the South, and there's no reason to give them a pass on it.",
+      "sha256": "b66a2fd963530b1e13e10341d78544fd5c679090f9a72193bc42f93fb87176ba",
+      "zh": "奴隶制问题越来越令南方辉格党人头疼，没有理由在这个问题上放过他们。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1614@16/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1615@17/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1616@18/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1614@17/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1615@18/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1616@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 103,
+      "source": "The Irish vote in the North has gone heavily in your favor recently. It's a good idea to keep it that way.",
+      "sha256": "2a23c3f6ab28030768538bacbc4be7cbc0973446123b6dbdcb775567d68d86e2",
+      "zh": "最近，北方爱尔兰选民的选票明显倾向于你。设法保持这个势头，是个好主意。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1617@19/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1625@27/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1626@28/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1627@29/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1617@20/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1625@28/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1626@29/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1627@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 104,
+      "source": "A nice aside aimed at Clay, but you should show more vigor in defense of your Irish supporters.",
+      "sha256": "6932f97c57972ebd560b4311a9ee79341b2b2dff263f0c721f3019141dfa483b",
+      "zh": "这是对克莱的一次巧妙挖苦，不过，你应该更有力地维护支持你的爱尔兰选民。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1618@20/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1618@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 105,
+      "source": "This is a simple decision -- anything you can do to emphasize your close relationship with Andrew Jackson is a net positive.",
+      "sha256": "dd2f7e829ca4a48a2ca5d24fd9bafd410cf1b656e97bc4ac9a1e513ce65acfc6",
+      "zh": "这是个简单的决定——凡是能突出你与安德鲁·杰克逊亲密关系的做法，总体上都对你有利。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1619@21/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1620@22/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1621@23/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1619@22/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1620@23/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1621@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 106,
+      "source": "This isn't a central issue in this election, but you are definitely closer to the majority opinion here.",
+      "sha256": "f971844f1e0764b47c6fbd1d557bc863efc4d98f06b3397baa5621165e4e4824",
+      "zh": "这不是本次大选的核心议题，不过，你在这里确实更接近多数人的看法。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1622@24/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1622@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 107,
+      "source": "Your national supporters admire the fact that you are a man of integrity and will remain above the fray of local politics.",
+      "sha256": "5a148b4ea3a3664c2c9e2428863aaadbeb97bd146e56297ef41367f39ecaa468",
+      "zh": "你在全国各地的支持者，钦佩你为人正直，并且不卷入地方政治纷争。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1623@25/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1623@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 108,
+      "source": "This will certainly galvanize the vote in New York.",
+      "sha256": "8093a26c0f4763359bdbfc91a2d24f463b118dc0d034358087610a30a9e177d4",
+      "zh": "这肯定会激发纽约州选民的热情。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1624@26/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1624@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 109,
+      "source": "There's no reason to say anything that will make life awkward for Van Buren. You need a united party.",
+      "sha256": "eace43c29074a52a9c590a1dc0d2cee8225064ed23aea6c11d7e773b6f2e74c3",
+      "zh": "没有必要说些让范布伦难堪的话。你需要一个团结的政党。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1628@30/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1628@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 110,
+      "source": "This is definitely the majority opinion among the public.",
+      "sha256": "d072925006d39bfec4135d8661ad96c274be980cb9c90db53762b5d74988e0d5",
+      "zh": "这无疑是公众中的主流看法。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1629@31/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1629@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 111,
+      "source": "This puts you closer to Clay's position, and is a disappointment to the general public.",
+      "sha256": "ed9fb44dc9b88fd19b4f74754c1633818287518247330287051e5189fe2f19bd",
+      "zh": "这使你更接近克莱的立场，也让一般民众感到失望。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1630@32/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1630@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 112,
+      "source": "This puts you outside of the party mainstream, to say the least. Hopefully it will help in a couple of the Northern states.",
+      "sha256": "c3e7da93342ad5091b45bf263ce395f03fe6f75f11689d418a846b15517f3491",
+      "zh": "至少可以说，这让你偏离了党内主流。希望它能在北方几个州帮到你。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1631@33/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1631@34/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1631@5/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1631@5/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1631@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 113,
+      "source": "This answer satisfies the Southern wing of the party while providing some concession to Northern Democrats in states like New York.",
+      "sha256": "9ddf6017ab12301a267f3b0e031f74ed3878674eecf32a407d2fdc10409cd77e",
+      "zh": "这个回答让党内南方派满意，同时也向纽约等州的北方民主党人作了一些让步。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1632@34/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1636@38/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1632@35/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1636@39/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1632@6/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1636@10/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1632@6/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1636@10/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1632@6/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1636@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 114,
+      "source": "While true, people are getting the idea that you are dancing around a hot issue.",
+      "sha256": "e54bb09c0c7723c9652943f71ef72c1bc7186c838e7e0f275f4bbaed6019cdf8",
+      "zh": "虽然说得没错，但人们开始觉得，你在绕开一个热门议题。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1633@35/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1633@36/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1633@7/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1633@7/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1633@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 115,
+      "source": "This is certainly the party line on the tariff issue.",
+      "sha256": "a4d92a7dc1ebc3547d0470654f82e668f0fb1dedb47cfb3e045e5d5dadc818ca",
+      "zh": "这无疑符合本党在关税问题上的立场。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1634@36/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1637@39/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1634@37/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1637@40/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1634@8/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1637@11/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1634@8/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1637@11/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1634@8/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1637@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 116,
+      "source": "Support for a federal infrastructure program is quite limited within your party.",
+      "sha256": "111625e3c85589d53aede302ff24b1d4fac1307101a3d40bde9b422b2c5c1f2a",
+      "zh": "你们党内对联邦基础设施建设计划的支持相当有限。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1635@37/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1635@38/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1635@9/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1635@9/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1635@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 117,
+      "source": "Are you out of your mind? A national bank is anathema to the Democratic Party.",
+      "sha256": "d3bf6f2cd1a6fb2f5bb28fc06663ebdc06ac6c801eb98791f4ff8204b1da94ff",
+      "zh": "你疯了吗？国家银行是民主党最不能容忍的东西。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1638@40/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1639@41/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1638@41/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1639@42/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1638@12/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1639@13/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1638@12/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1639@13/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1638@12/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1639@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 118,
+      "source": "The independent Treasury idea has broad support in the party, and also shows that Democrats are trying to do something after the 1837 crisis.",
+      "sha256": "0ba9e3a8c12f442f3d0d8cef4825a5f73a9367292bf1101b66b3faf66c4cb14a",
+      "zh": "独立国库的主张在党内有广泛支持，也表明民主党人在1837年危机之后，正试图有所作为。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1640@42/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1640@43/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1640@14/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1640@14/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1640@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 119,
+      "source": "There's nothing wrong with defending the current system, which is the Democratic system in large part.",
+      "sha256": "a8988ff1ef3490d911983ed2075656996b5d146d61e307cbd93915cd9b6a7363",
+      "zh": "为现行制度辩护并无不妥；这套制度在很大程度上正是民主党的产物。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1641@43/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1641@44/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1641@15/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1641@15/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1641@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 120,
+      "source": "The problem is, this idea was clearly targeted at Andrew Jackson, and Democrats in general. You're really taking the Whig position here.",
+      "sha256": "a647ccbc04aeebf6acdae26737b60b2681d606a7de5fbef25806cbb8a9d0c9e8",
+      "zh": "问题在于，这个主张显然是针对安德鲁·杰克逊和整个民主党的。你实际上采取了辉格党的立场。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1642@44/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1642@45/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1642@16/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1642@16/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1642@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 121,
+      "source": "This is a good way to finesse this issue. It has the added advantage, since you were a dark horse candidate, of uniting the factions of your party.",
+      "sha256": "eec18b0f71628c28e70a4652e1607fbbb31a1f9c8863b29b4c5ee6f16140e444",
+      "zh": "这是巧妙处理这个问题的好办法。你本来就是提名战中的黑马，这样做还能够团结党内各派。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1643@45/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1643@46/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1643@17/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1643@17/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1643@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 122,
+      "source": "This is the party line, but after a bitter nomination fight, some are disappointed that your success would preempt their 1848 campaigns.",
+      "sha256": "891297b3b36db6438d78080af40c45e1ffde1179eea2d7315b227f26f7ff4ecc",
+      "zh": "这符合本党的立场。不过，提名争夺如此激烈，有些人会失望地发现：你的胜利将抢先堵住他们在1848年竞选的机会。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1644@46/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1644@47/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1644@18/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1644@18/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1644@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 123,
+      "source": "People are wondering if they are reading your words correctly. Annexation was supposed to be the primary issue of your campaign.",
+      "sha256": "afe7cf899689c3a41d9c30ff940154700e102b7fbe07c46e25a325803d2f520f",
+      "zh": "人们怀疑自己是不是看错了你的话。吞并本来应该是你竞选的首要议题。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1648@47/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1648@48/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1651@51/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1648@22/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1648@22/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1651@24/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1648@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 124,
+      "source": "This is a dissatisfying answer to many in your party.",
+      "sha256": "afdf4a33dbd5a9f1698d71ed12cb1df8ee0bb0633a77163ff28745ce0c096026",
+      "zh": "这个回答让党内许多人不满意。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1649@48/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1649@49/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1649@23/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1649@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 125,
+      "source": "This is probably the best stance to take, particularly if you care to win a state like New York or Pennsylvania.",
+      "sha256": "93df6f9ee166732dcf07485a319c06b4c0c46382ab79e025d9556c022a0a0b92",
+      "zh": "这大概是最好的立场，尤其是你想赢得纽约或宾夕法尼亚这样的州时。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1652@49/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1652@25/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1652@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 126,
+      "source": "Immigration restriction is more of a Whig position, and it does you little good to advocate for it.",
+      "sha256": "dad5eff1cd3971c342069dc5019437e5dbe1010ce65d077b1a0e5fd2fcafc2c2",
+      "zh": "限制移民更像是辉格党的主张，提倡这一点，对你没有多少好处。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1653@50/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1653@26/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1653@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 127,
+      "source": "A national bank is anathema to most Democrats.",
+      "sha256": "4661a2a49cedeb4b83d8534f4ff02e8648121812e9a236bba46cf775045564a0",
+      "zh": "大多数民主党人都极为反对国家银行。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1654@51/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1660@56/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1654@52/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1654@24/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1660@29/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1654@27/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1654@26/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1660@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 128,
+      "source": "There's nothing wrong with taking this position.",
+      "sha256": "bbf5bdfb2ef3fd019c008fc3fc18fc7bde0f50dcb4545a4d0eaf62c379cddff7",
+      "zh": "采取这个立场没有什么问题。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1655@52/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1656@53/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1662@58/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1655@53/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1656@54/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1655@25/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1656@26/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1662@31/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1655@28/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1656@29/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1655@27/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1656@28/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1662@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 129,
+      "source": "Better to just ignore this letter.",
+      "sha256": "3f25221bd3d735eb1a471483d57a41920d995ff4345db8c91e89a983e1d03626",
+      "zh": "最好直接不理会这封信。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1657@54/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1657@30/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1657@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 130,
+      "source": "What is the idea behind this outburst? The Bank War was, perhaps, Andrew Jackson's central initiative as President.",
+      "sha256": "ea8ffaa886cb41a74d005910e1c3b1dcae489de63eb05f86e223987f4935b417",
+      "zh": "你突然这么说，究竟是什么用意？“银行战争”或许是安德鲁·杰克逊担任总统时最核心的政治行动。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1659@55/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1659@28/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1659@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 131,
+      "source": "This is a good position to run a campaign on.",
+      "sha256": "3e7c125729f0a1c08213a13c56e3c8838681f7d4eb3ee4c951b2264d9a1f9e75",
+      "zh": "以这个立场开展竞选，是个不错的选择。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1661@57/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1661@30/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1661@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 132,
+      "source": "Are you trying to win the Mormon vote this year? This is one case where it's definitely best to keep your opinions private.",
+      "sha256": "6d9db4380fac9ebba8d6cda39726834497f0cd5f50c6ae8bfa688780f43911ba",
+      "zh": "你今年是想争取摩门教徒的选票吗？这件事上，最好还是把个人意见留在心里。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1666@59/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1727@80/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1666@56/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1727@76/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1666@35/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1727@85/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1666@34/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1727@82/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1666@37/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1727@86/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 133,
+      "source": "This is a little out of step with Whig ideology.",
+      "sha256": "97b2d7682d02e1d473c57f20f17847e7ef90d891eb4be1c8616882748a820ffb",
+      "zh": "这与辉格党的理念略有出入。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1699@60/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1700@61/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1701@62/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1702@63/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1703@64/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1705@66/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1706@67/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1699@57/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1700@58/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1701@59/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1702@60/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1703@61/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1705@63/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1706@64/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1699@62/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1700@63/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1701@64/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1702@65/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1703@66/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1705@68/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1706@69/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1699@60/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1700@61/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1701@62/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1702@63/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1703@64/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1705@66/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1706@67/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1699@62/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1700@63/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1701@64/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1702@65/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1703@66/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1705@68/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1706@69/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 134,
+      "source": "Many are surprised to hear you hedge your position on the bank issue.",
+      "sha256": "bcb9c5a32a3ec4434a59a526e9c90486fc103bcaccf0bbbceb379000bc25f58e",
+      "zh": "听到你在银行问题上开始含糊其辞，许多人都很意外。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1704@65/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1704@62/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1704@67/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1704@65/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1704@67/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 135,
+      "source": "This is in line with the opinion of many Whigs.",
+      "sha256": "5b3456e1fb88aee00ac41543de085221bc7af769a1fa803a6eac65d9b84d2db0",
+      "zh": "这与许多辉格党人的看法一致。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1707@68/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1708@69/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1713@71/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1707@65/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1708@66/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1713@68/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1707@70/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1708@71/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1713@76/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1707@68/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1708@69/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1707@70/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1708@71/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1713@76/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 136,
+      "source": "The Whig Party supports a one-term limit for the President, with Jackson fresh in mind. Harrison pledged he would follow this guideline during his campaign....",
+      "sha256": "e53bd1946f32a5d4440f5ba19d8ef4cd760aa6f71567fbfe259cd4e4083e03e4",
+      "zh": "杰克逊执政的记忆仍然鲜明，所以辉格党支持将总统任期限制为一届。哈里森在竞选时，也曾承诺遵守这一原则……",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1709@70/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1709@67/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1709@72/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1709@70/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1709@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 137,
+      "source": "What is the idea here? Henry Clay opposed to tariffs?",
+      "sha256": "8dfa2808b5422a259f1d8b5ebe843100e662a201532c82e93dfdbb7cacdacccb",
+      "zh": "这是怎么回事？亨利·克莱反对关税？",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1714@72/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1714@69/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1714@77/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1714@77/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 138,
+      "source": "Nativism appears to be on the rise, but you are probably better off, on the whole, taking a more moderate tack.",
+      "sha256": "330d60b6d96077aa2969fe3addf03ce6e73406d9d7b722ff788f96d9c9f58945",
+      "zh": "本土主义似乎正在抬头，不过总体而言，你大概还是采取较温和的路线更好。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1717@73/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1682@46/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1717@76/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1717@78/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 139,
+      "source": "What's wrong with a national bank? Your supporters are concerned by this statement.",
+      "sha256": "01e667707650a76478ebbe9e535c126b0d487c18c0009d53ec40af827ac4039d",
+      "zh": "国家银行有什么不好？你的支持者对这番表态感到担忧。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1718@74/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1718@72/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1718@78/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1718@77/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1718@79/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 140,
+      "source": "Henry Clay takes the Democratic line?",
+      "sha256": "1216e930ade2ef57351b8ce2433c196be8bd557b9bebdda9faef6e94422b958a",
+      "zh": "亨利·克莱竟然采取了民主党的立场？",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1719@75/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1719@73/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1719@79/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1719@78/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1719@80/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 141,
+      "source": "Probably best to ignore this letter.",
+      "sha256": "1da6404d7043b283655d3e80b16b3744d853b6c4f089353225f3ddbccbc4bbb5",
+      "zh": "大概还是不理会这封信最好。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1720@76/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1721@77/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1720@79/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1721@80/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1720@81/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1721@82/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 142,
+      "source": "Supporters are surprised and upset to hear you take a new position on the bank issue.",
+      "sha256": "91a5631eae42eba1b95bbd5e812b965aefb2a5fb81cbb2d94c8ace3ce102881e",
+      "zh": "听到你在银行问题上改变立场，支持者既意外又不满。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1724@78/answer_feedback",
+        "1844_Polk_Dallas/answer_feedback_json/1725@79/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1724@82/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1725@83/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1724@83/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1725@84/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 143,
+      "source": "This is a good way to rally Northern support.",
+      "sha256": "8a3ba5fae464c9329cfff3611e15fc4006ce8bb6ce2fe5b7218eda43ab2b4504",
+      "zh": "这是动员北方支持的好办法。",
+      "keys": [
+        "1844_Polk_Dallas/answer_feedback_json/1732@85/answer_feedback",
+        "1844_Polk_Woodbury/answer_feedback_json/1732@81/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1726@84/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1732@90/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1726@81/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1732@87/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1726@85/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1732@91/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 144,
+      "source": "Can you elaborate on why your allies intervened so strongly on behalf of Levi Woodbury, to be your running mate?",
+      "sha256": "e53bded441ebd0274b5e03de954d2482d0d46ebd46cafb0eefb8362457dd6ed8",
+      "zh": "你的盟友如此积极地力推利维·伍德伯里担任你的竞选搭档，能否详细解释一下原因？",
+      "keys": [
+        "1844_Polk_Woodbury/questions_json/612@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 145,
+      "source": "Do you have any statement to make on John Calhoun's “Packenham Letter”, stating slavery to be a positive blessing, and justifying the annexation of Texas as a pro-slavery move?",
+      "sha256": "a1eac1030a8b35047f1505bedfc45564143e98d5007bd8960eb64fe2f5922799",
+      "zh": "约翰·卡尔霍恩在“致帕肯纳姆信”中，宣称奴隶制是积极的福祉，并以维护奴隶制为理由，论证吞并得克萨斯的正当性。对此，你有什么声明？",
+      "keys": [
+        "1844_Polk_Woodbury/questions_json/643@18/description",
+        "1844_Clay_Sergeant/questions_json/643@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 146,
+      "source": "After the unfortunate death of Abel Upshur in the <em>Princeton</em> explosion, John Calhoun succeeded him as Secretary of State. Was this a wise appointment by President Tyler?",
+      "sha256": "bb7059bc4e05bc3013b1c8081a2f69d4b40279ad4d8249fe5b937c3f95b46b39",
+      "zh": "阿贝尔·厄普舒尔在<em>普林斯顿号</em>爆炸事故中不幸身亡后，约翰·卡尔霍恩接任国务卿。泰勒总统的这项任命是否明智？",
+      "keys": [
+        "1844_Polk_Woodbury/questions_json/647@20/description",
+        "1844_Clay_Frelinghuysen/questions_json/647@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 147,
+      "source": "Mr. Woodbury was a critical part of Jackson and Van Buren's Cabinets, and he has the right viewpoint on the Treasury and tariff questions.",
+      "sha256": "f2de847e4dc3d40b78d1f267c4bce342a6093747b7b84b3ca4ae9591b1a50b07",
+      "zh": "伍德伯里先生是杰克逊和范布伦内阁中的重要成员，在国库和关税问题上，也持有正确的观点。",
+      "keys": [
+        "1844_Polk_Woodbury/answers_json/4129@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 148,
+      "source": "I would not go to the lengths of John Calhoun, but Texas would certainly help expand the market for slavery in our country.",
+      "sha256": "30e3a81f8289cda95d9bd7a9c45bcee28aa970d90c9fe1eea8dcdc24af1a7562",
+      "zh": "我不会像约翰·卡尔霍恩那样走得那么远，但得克萨斯无疑有助于扩大我国的奴隶市场。",
+      "keys": [
+        "1844_Polk_Woodbury/answers_json/4210@53/description",
+        "1844_Clay_Sergeant/answers_json/4210@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 149,
+      "source": "We will frame Texas as an issue of national pride and national expansion. I rebuke the idea of Calhoun that this is purely a Southern enterprise.",
+      "sha256": "1b8127acf50b5935fdb16db9b3c4dbc948d202d2d39bee182c1c7d5737d50fd1",
+      "zh": "我们将把得克萨斯描述为关乎国家荣誉和领土扩张的问题。我反对卡尔霍恩将此视为纯粹南方事业的说法。",
+      "keys": [
+        "1844_Polk_Woodbury/answers_json/4211@54/description",
+        "1844_Clay_Sergeant/answers_json/4211@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 150,
+      "source": "I disagree with John Calhoun across the board, which leads to my opposition to the annexation of Texas.",
+      "sha256": "db45266ebb3251f5a4696c6bea7a4f436da78b6bc4c0182e3ad19875a41381a0",
+      "zh": "我在各方面都不同意约翰·卡尔霍恩，因此也反对吞并得克萨斯。",
+      "keys": [
+        "1844_Polk_Woodbury/answers_json/4212@55/description",
+        "1844_Clay_Sergeant/answers_json/4212@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 151,
+      "source": "This is one of the most ill-conceived decisions I have seen in my lifetime.",
+      "sha256": "e2116605b21607cff6f62a56526c9e1964e19b297fa505b0f180f5327e48da12",
+      "zh": "这是我一生所见最欠考虑的决定之一。",
+      "keys": [
+        "1844_Polk_Woodbury/answers_json/4222@60/description",
+        "1844_Clay_Frelinghuysen/answers_json/4222@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 152,
+      "source": "We don't have any plans to comment upon the Cabinet appointments of President Tyler.",
+      "sha256": "9e823cf4a625b7cdcd6a80e9f294322ee48ddfb39d2bcc8dc8a33ba22835ce5a",
+      "zh": "我们没有打算评论泰勒总统的内阁任命。",
+      "keys": [
+        "1844_Polk_Woodbury/answers_json/4223@61/description",
+        "1844_Clay_Frelinghuysen/answers_json/4223@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 153,
+      "source": "Woodbury is a little less moderate on some of the issues that could carry a state like Pennsylvania or New York. We shall see what happens.",
+      "sha256": "03e9277f4856f4d609d3c33392f7ca9e4734a5d9d4c9996878cfc9a8c8568afd",
+      "zh": "在一些可能决定宾夕法尼亚或纽约等州归属的议题上，伍德伯里略显不够温和。且看结果如何。",
+      "keys": [
+        "1844_Polk_Woodbury/answer_feedback_json/1611@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 154,
+      "source": "This is probably the best stance to take.",
+      "sha256": "fcb201540cacbe0ec4d0376679d238ff3bcb4292edd859636cf775ca39323745",
+      "zh": "这大概是最好的立场。",
+      "keys": [
+        "1844_Polk_Woodbury/answer_feedback_json/1650@50/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1650@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 155,
+      "source": "Calhoun may be past his heyday, but it serves little purpose to insult him.",
+      "sha256": "082f74411049b460e76239146b65bf1070dae3e8d5f4306740672ccecd901c41",
+      "zh": "卡尔霍恩或许已过了鼎盛时期，但侮辱他没有多少意义。",
+      "keys": [
+        "1844_Polk_Woodbury/answer_feedback_json/1658@55/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1658@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 156,
+      "source": "It's a difficult issue to address, but putting yourself in sympathy with John Calhoun is certainly not the right way to do it.",
+      "sha256": "9b70c8fa405396e0c4da920e8630f7b4165308702b16fe6329a1f3fda1ae4aab",
+      "zh": "这是个棘手的议题，但表示认同约翰·卡尔霍恩，肯定不是处理它的正确方式。",
+      "keys": [
+        "1844_Polk_Woodbury/answer_feedback_json/1715@70/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1715@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 157,
+      "source": "This is probably your best choice. It's just unfortunate that the Democrats continue to demagogue the public on this issue, rather than address the failures of their banking policy.",
+      "sha256": "4068798670ab3d4333c5fa411c09b6435b8d2e3853291ed000c4d2591c1204b5",
+      "zh": "这大概是你最好的选择。可惜民主党人仍然借这个议题煽动公众，而不去面对其银行政策的失败。",
+      "keys": [
+        "1844_Polk_Woodbury/answer_feedback_json/1716@71/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1716@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 158,
+      "source": "Hopefully you're planning to win this election in the North, and not the South.",
+      "sha256": "3bff20c537c48be0978e22a537eaafb3d26d769c89b5e94144e44b449094083d",
+      "zh": "希望你是打算靠北方赢得这场大选，而不是靠南方。",
+      "keys": [
+        "1844_Polk_Woodbury/answer_feedback_json/1722@74/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1722@80/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 159,
+      "source": "Martin Van Buren, Democrat and President until 1841, will be making a tour of the country to visit various friends and political figures. Will you extend the invitation for him to stay at your estate for a few days?",
+      "sha256": "108d1973bfeeb7b730b2d51cd22a170dbf49cfee20304a584f3ba1b99165a5f5",
+      "zh": "民主党人马丁·范布伦曾任总统，直到1841年卸任。他即将巡游全国，拜访各位朋友和政界人物。你是否会邀请他到你的庄园住上几天？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/623@0/description",
+        "1844_Clay_Sergeant/questions_json/623@0/description",
+        "1844_Clay_Fillmore/questions_json/623@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 160,
+      "source": "What points will emphasize in your acceptance letter, as you accept the Whig nomination for President?",
+      "sha256": "334d0f9727d7ac8555acd4f8e712dc5158ca76f75e5262b1aa5db1242b601d13",
+      "zh": "在接受辉格党总统提名的公开信中，你将着重阐述哪些观点？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/624@1/description",
+        "1844_Clay_Sergeant/questions_json/624@1/description",
+        "1844_Clay_Fillmore/questions_json/624@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 161,
+      "source": "What position will you take on the Texas annexation issue?",
+      "sha256": "73144d1f5d2863f9ebd2f56cf2f22a459fb6ef3241df3ba6bdeaeea1b5d2a4b0",
+      "zh": "在吞并得克萨斯的问题上，你将采取什么立场？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/625@2/description",
+        "1844_Clay_Sergeant/questions_json/625@2/description",
+        "1844_Clay_Fillmore/questions_json/625@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 162,
+      "source": "The background of your running mate, Theodore Frelinghuysen, has caused much distress among the Catholics of this country? Will you make any statements on this issue?",
+      "sha256": "6d3c130eb400cd80222a5a8847af4d3355d961b260703094e578a5d1cb630fa4",
+      "zh": "你的竞选搭档西奥多·弗里林海森的背景，让国内许多天主教徒深感不安。你会就此发表声明吗？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/626@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 163,
+      "source": "Does it make sense to attack Northern Democrats as enablers and fellow travelers of the Southern slavery expansion?",
+      "sha256": "cd964cef4371d63b5d83ca58a8bb5cc6bc07f645f87d119cf389786514e2e611",
+      "zh": "是否应当攻击北方民主党人，指责他们为南方扩张奴隶制提供便利，并与之沆瀣一气？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/634@8/description",
+        "1844_Clay_Sergeant/questions_json/634@9/description",
+        "1844_Clay_Fillmore/questions_json/634@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 164,
+      "source": "Is there something you can do to give the Southern Whigs political cover from the incessant attacks that they are in league with an anti-slavery party?",
+      "sha256": "805da48473941e541ade2e6bd634d1e9b4d8917f86fa477526aef62c194c18f5",
+      "zh": "南方辉格党人不断受到攻击，被指责与反奴隶制政党为伍。你能否采取什么措施，替他们提供政治上的辩护？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/635@9/description",
+        "1844_Clay_Sergeant/questions_json/635@14/description",
+        "1844_Clay_Fillmore/questions_json/635@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 165,
+      "source": "There have recently been riots and armed clashes between nativists and Irish immigrants in Philadelphia and elsewhere. Do you have any plans to condemn the Irish violence in these episodes?",
+      "sha256": "84920149f7f6d9e1e8130dfc5acd2923fb06cac3506db2feecb54f0f3d11b72f",
+      "zh": "最近，费城等地的本土主义者与爱尔兰移民之间发生了暴乱和武装冲突。你是否准备谴责这些事件中爱尔兰人的暴力行为？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/628@10/description",
+        "1844_Clay_Sergeant/questions_json/628@15/description",
+        "1844_Clay_Fillmore/questions_json/628@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 166,
+      "source": "Do you still support the idea that the federal government should purchase the telegraph patent and manage the technology?",
+      "sha256": "59c053a5b794eff19faded37db3dea00d567509a1970d46c6e03f7a1d17932f4",
+      "zh": "你是否仍然支持由联邦政府购买电报专利，并管理这项技术？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/632@11/description",
+        "1844_Clay_Sergeant/questions_json/632@11/description",
+        "1844_Clay_Fillmore/questions_json/632@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 167,
+      "source": "Cassius Clay, your cousin, has published a letter stating you are in accord with the abolitionist movement. How will you respond to this?",
+      "sha256": "603f97848411a0aa5b1a4bbaf3afdb80f9b598739b186fee1a60120696341474",
+      "zh": "你的亲戚卡修斯·克莱发表了一封信，声称你赞同废奴运动。你会如何回应？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/629@12/description",
+        "1844_Clay_Sergeant/questions_json/629@13/description",
+        "1844_Clay_Fillmore/questions_json/629@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 168,
+      "source": "Do you plan to make any attacks against the Liberty Party, a radical abolitionist group that is fielding a third party candidate?",
+      "sha256": "cb8bf52a60ecd9c9fbd23fe86bd9e9cd95b55b1d42cb03e17fa046819b047133",
+      "zh": "自由党是一个激进的废奴团体，正在推出第三党候选人。你是否打算对他们展开攻击？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/631@13/description",
+        "1844_Clay_Sergeant/questions_json/631@10/description",
+        "1844_Clay_Fillmore/questions_json/631@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 169,
+      "source": "There are a number of attacks which focus on your fondness for horse-racing, drinking, gambling, female conversation, and the like. Do you have a response to this?",
+      "sha256": "c93f7837fa73684fdabda6e538993394730b57e2db16bf40e6c321d11ad630c3",
+      "zh": "有人不断攻击你对赛马、饮酒、赌博、与女性闲谈等活动的喜好。对此，你有什么回应？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/630@15/description",
+        "1844_Clay_Sergeant/questions_json/630@8/description",
+        "1844_Clay_Fillmore/questions_json/630@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 170,
+      "source": "Do you support the lifting of the Gag Rule in Congress?",
+      "sha256": "46006de0ca5d5b5e6fdda7bb7d5eede10883ac75ae92023b292125d1483a2afe",
+      "zh": "你是否支持取消国会的禁议规则？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/640@17/description",
+        "1844_Clay_Sergeant/questions_json/640@19/description",
+        "1844_Clay_Fillmore/questions_json/640@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 171,
+      "source": "What is your position on the Oregon boundary question?",
+      "sha256": "c531ed0a0ac3f5dbe85f8af11dff64482b70dadfde48f2a5f39ac6356a23b5e8",
+      "zh": "你在俄勒冈边界问题上的立场是什么？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/questions_json/649@19/description",
+        "1844_Clay_Sergeant/questions_json/649@22/description",
+        "1844_Clay_Fillmore/questions_json/649@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 172,
+      "source": "It might be best if I don't appear overly friendly to leading Democrats. Especially one as unpopular as Van Buren.",
+      "sha256": "2a387c6bade053bf7fc560430797e95f1cb18d0a00728865c7c3888bc9174bc4",
+      "zh": "我最好不要显得与民主党领袖过于亲近，尤其是范布伦这样不受欢迎的人。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4154@1/description",
+        "1844_Clay_Sergeant/answers_json/4154@1/description",
+        "1844_Clay_Fillmore/answers_json/4154@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 173,
+      "source": "This would be a strictly personal invite. We are friends. And besides, it might blunt some opposition to my candidacy from New York.",
+      "sha256": "d9fef2201fa7dac94b1714d47c6d566ff66275c282825b5b62d725f8d57336d7",
+      "zh": "这纯粹是私人邀请。我们是朋友。何况，这或许也能缓和纽约州一些人对我参选的反对。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4155@2/description",
+        "1844_Clay_Sergeant/answers_json/4155@2/description",
+        "1844_Clay_Fillmore/answers_json/4155@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 174,
+      "source": "I stand opposed to any annexation of Texas. It will reopen settled questions and distract our nation from its important political issues, such as economic development.",
+      "sha256": "5a0b0053580a2a430bb2d10d9c672eca767e6877cac7231574bc253a6b406cfa",
+      "zh": "我反对以任何形式吞并得克萨斯。这会重新挑起已平息的争议，分散国家对经济发展等重要政治议题的注意力。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4156@3/description",
+        "1844_Clay_Sergeant/answers_json/4156@3/description",
+        "1844_Clay_Fillmore/answers_json/4156@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 175,
+      "source": "I support the annexation of Texas, so long as the admission of that state is paired with the admission of a free state. I will briefly mention that my positions on other issues are well-known and remain the same.",
+      "sha256": "75d73d069200cdf0a34d1037bb230818d4e82ec59394ee00720aab11d60b80e4",
+      "zh": "我支持吞并得克萨斯，前提是接纳该州入联邦的同时，也接纳一个自由州。我会简要说明，我在其他议题上的立场众所周知，而且没有改变。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4157@4/description",
+        "1844_Clay_Sergeant/answers_json/4157@4/description",
+        "1844_Clay_Fillmore/answers_json/4157@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 176,
+      "source": "I will strike a middle ground on the Texas question, supporting annexation so long as it doesn't lead to war with Mexico, or to significant opposition from any section of the country.",
+      "sha256": "b4dd0a29913af3fd90abf9d09612d1c2fe6b05cebfdaaa4d8e9c6af168fc32db",
+      "zh": "我将在得克萨斯问题上采取折中立场：只要吞并不会引发与墨西哥的战争，也不会招致国内任何地区的强烈反对，我就支持。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4159@6/description",
+        "1844_Clay_Sergeant/answers_json/4159@6/description",
+        "1844_Clay_Fillmore/answers_json/4159@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 177,
+      "source": "This discussion has grown tiresome, but let me restate that I support the annexation of Texas.",
+      "sha256": "75bc2552e19f441a83b506671cc740189c66031f886e88848964e021ea2d66fe",
+      "zh": "这场讨论已经令人厌烦，不过让我重申：我支持吞并得克萨斯。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4160@7/description",
+        "1844_Clay_Sergeant/answers_json/4160@7/description",
+        "1844_Clay_Fillmore/answers_json/4160@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 178,
+      "source": "This discussion has grown tiresome, but I will continue to advocate for a moderate solution on this issue.",
+      "sha256": "69e8eccd7e7315bd5bc0995e04aea1d4f7fbfba4c260066559dec8e475785571",
+      "zh": "这场讨论已经令人厌烦，不过我仍将主张以温和方式解决这个问题。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4161@8/description",
+        "1844_Clay_Sergeant/answers_json/4161@8/description",
+        "1844_Clay_Fillmore/answers_json/4161@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 179,
+      "source": "This discussion has grown tiresome, but let me restate that I oppose the annexation of Texas.",
+      "sha256": "c50dcab4bf1fef96dd6bff1f8a9ce2a0672164d2e55558dac81992d14d5fb802",
+      "zh": "这场讨论已经令人厌烦，不过让我重申：我反对吞并得克萨斯。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4162@9/description",
+        "1844_Clay_Sergeant/answers_json/4162@9/description",
+        "1844_Clay_Fillmore/answers_json/4162@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 180,
+      "source": "We need to address these concerns and state categorically that the Whigs support our current naturalization laws and do not stand for nativism.",
+      "sha256": "8ecd080ce53db90ba8bdd9757746c19ff7adeb7f6ba1ac52d8828586348b0877",
+      "zh": "我们需要回应这些担忧，明确声明：辉格党支持现行入籍法，不主张本土主义。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4163@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 181,
+      "source": "Let's not make any statements on this issue. There are too many people on both sides of it who might take offense.",
+      "sha256": "1c2613563e247dd1ed925c596434c8afc1415a5b4e0aa334cfe5943c62192b87",
+      "zh": "我们不要就此发表声明。双方都有太多人可能因此受到冒犯。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4164@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 182,
+      "source": "Of course we denounce rioting and lawlessness, but we do support some attempt to change our naturalization laws.",
+      "sha256": "0440828990d786eb1502c4d90cced0de1b1d89017be2710e6862ac927a32c864",
+      "zh": "我们当然谴责暴乱和违法行为，但也支持尝试修改入籍法。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4165@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 183,
+      "source": "We should condemn the apparent lawlessness of the Irish arrivals, and ask whether we ought to reconsider our generous naturalization policies.",
+      "sha256": "283fe957d552c2033fe4c3fe96f8d6f18d3ab86bccac154aafedb360ba31a717",
+      "zh": "我们应当谴责这些新来的爱尔兰人显然目无法纪的行为，并反思是否应该重新考虑宽松的入籍政策。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4168@13/description",
+        "1844_Clay_Sergeant/answers_json/4168@12/description",
+        "1844_Clay_Fillmore/answers_json/4168@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 184,
+      "source": "It's best if we avoid making any statements on this issue.",
+      "sha256": "ba59badf9e2609d0a6b1dc001e7bb5895215a653f10544c72a1e1750f125d164",
+      "zh": "我们最好不要就此发表任何声明。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4169@14/description",
+        "1844_Clay_Sergeant/answers_json/4169@13/description",
+        "1844_Clay_Fillmore/answers_json/4169@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 185,
+      "source": "After a few days have passed and tempers have cooled, let us reemphasize our support for current naturalization laws.",
+      "sha256": "ed1f4720f80ab6049bd909b380c59a9e5ad143979859a5fec712fbd2bddb86b0",
+      "zh": "等过了几天，人们怒气稍平，我们再重申对现行入籍法的支持。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4170@15/description",
+        "1844_Clay_Sergeant/answers_json/4170@14/description",
+        "1844_Clay_Fillmore/answers_json/4170@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 186,
+      "source": "We must put out a letter, clarifying that we only support abolition if slaveholders can be fairly compensated, with reasonable notice, and if freed slaves can be recolonized to Africa.",
+      "sha256": "cb4162d51303fabe6bd717fdd3475c49ddf88003aca4d8fb085c34d6a019e4c8",
+      "zh": "我们必须发表一封信，澄清只有在奴隶主获得公平补偿、得到合理的提前通知，而且获释奴隶可以被送往非洲殖民安置的条件下，我们才支持废奴。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4171@16/description",
+        "1844_Clay_Sergeant/answers_json/4171@15/description",
+        "1844_Clay_Fillmore/answers_json/4171@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 187,
+      "source": "We must attack Cassius Clay's statements at once, for the dishonest falsehoods that they are. I am in no way an abolitionist in this debate.",
+      "sha256": "88285c1149cad41d35aa59dcd38dec2d2f2c8e9e73ff4f6dd319df76bd5ed843",
+      "zh": "我们必须立即抨击卡修斯·克莱的言论，指出那是恶意编造的谎言。在这场争论中，我绝不是废奴主义者。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4172@17/description",
+        "1844_Clay_Sergeant/answers_json/4172@16/description",
+        "1844_Clay_Fillmore/answers_json/4172@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 188,
+      "source": "I'm not going to dignify this letter with a response.",
+      "sha256": "d8c9b46f9d7c83b0909afe7ca3e44ea31eba3e8e75ed5eb5054336253c35d1a7",
+      "zh": "我不会作出回应，让这封信显得值得认真对待。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4173@18/description",
+        "1844_Clay_Sergeant/answers_json/4173@17/description",
+        "1844_Clay_Fillmore/answers_json/4173@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 189,
+      "source": "There are a lot of places in America where men like that kind of thing. We will win the Yankee Puritan vote in any case.",
+      "sha256": "d182c92c878888d2951265856bd7d4c80f33897339a527a4b1aab91712665b8a",
+      "zh": "美国有不少地方的男人都喜欢这类活动。反正，北方清教徒的选票我们都会拿到。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4174@19/description",
+        "1844_Clay_Sergeant/answers_json/4174@18/description",
+        "1844_Clay_Fillmore/answers_json/4174@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 190,
+      "source": "I've undertaken the amusements of our times, perhaps a little more than most, but it has never had any bearing on the work I have done.",
+      "sha256": "e149e5c12cc7e03a3e0ae1887dd615066b4c22021d7ba611490034be942f68ac",
+      "zh": "我参与了这个时代常见的消遣，或许比多数人还多一点，但这从来没有影响我履行公职。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4175@20/description",
+        "1844_Clay_Sergeant/answers_json/4175@19/description",
+        "1844_Clay_Fillmore/answers_json/4175@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 191,
+      "source": "In anticipation of this attack, I've actually made some effort in the past year or so to scale back my amusements. I don't believe it is ever too late for a man to change their conduct.",
+      "sha256": "2629968c43b8cbf9f1fb1afb5269dded89e255b2890ff3f90279325a9bd6d3cb",
+      "zh": "我早就料到会有这种攻击，所以过去一年左右，确实已努力减少这些消遣。我相信，一个人想改变自己的行为，永远不算太晚。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4176@21/description",
+        "1844_Clay_Sergeant/answers_json/4176@20/description",
+        "1844_Clay_Fillmore/answers_json/4176@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 192,
+      "source": "Any attacks we make will only publicize this group more. Let's stick to our own campaign in this case.",
+      "sha256": "d1a0b5cf61b624ae7b20c44e1b67c56438b08f934890ebc787329095c2ff6f52",
+      "zh": "我们对他们的任何攻击，都只会让这个团体更加出名。还是专心开展我们自己的竞选吧。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4177@22/description",
+        "1844_Clay_Sergeant/answers_json/4177@21/description",
+        "1844_Clay_Fillmore/answers_json/4177@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 193,
+      "source": "Thomas Birney is a stooge of the Democrats, attempting to agitate emotions and divide our party. People ought to feel free to vote for him if they want to hand this election to James K. Polk.",
+      "sha256": "5503fc3fe3ecef09fe207a5d86d29aec06c32b6901410d88ebc160fac1067435",
+      "zh": "托马斯·伯尼是民主党的傀儡，企图煽动情绪、分裂我们党。如果人们想把这场大选拱手让给詹姆斯·K.·波尔克，尽管投票给他好了。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4178@23/description",
+        "1844_Clay_Sergeant/answers_json/4178@22/description",
+        "1844_Clay_Fillmore/answers_json/4178@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 194,
+      "source": "I am steadfast against the annexation of Texas and the expansion of slavery. I believe that Birney's followers should be made aware of this point.",
+      "sha256": "9d4c734a5623ba03e5348b4606c8aca0333b338fa6455332e5d0a1391bd8d9f6",
+      "zh": "我坚决反对吞并得克萨斯，反对扩张奴隶制。我认为，应当让伯尼的追随者清楚这一点。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4179@24/description",
+        "1844_Clay_Sergeant/answers_json/4179@23/description",
+        "1844_Clay_Fillmore/answers_json/4179@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 195,
+      "source": "I absolutely believe that the development of telegraph lines should take its place alongside canals, harbors, and railroads as a national prerogative.",
+      "sha256": "18c5e570de6f77f0577e347eb8a7f0dee5a12bb11c9808d384565216406b8fdc",
+      "zh": "我坚信，发展电报线路应当与运河、港口、铁路一样，成为国家应当承担的事务。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4180@25/description",
+        "1844_Clay_Sergeant/answers_json/4180@24/description",
+        "1844_Clay_Fillmore/answers_json/4180@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 196,
+      "source": "I've supported internal improvements throughout my career, but telegraph lines are a different thing. I trust that private individuals can build these.",
+      "sha256": "a8eb8aabf72180617119ca42621d9334785578826d36edb839400370a24feba5",
+      "zh": "在整个政治生涯中，我一直支持国内公共工程，但电报线路是另一回事。我相信，私人可以建设这些线路。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4181@26/description",
+        "1844_Clay_Sergeant/answers_json/4181@25/description",
+        "1844_Clay_Fillmore/answers_json/4181@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 197,
+      "source": "Let's not make any divisive statements on this issue. The public is hardly clamoring for my opinion in any case.",
+      "sha256": "42dff43b671c480bb331f4b2d69e283213e7fa48508e3ba63b1e59f8cb30edc3",
+      "zh": "我们不要在这个问题上发表容易引发分裂的言论。反正公众也没有迫切要求我表态。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4182@27/description",
+        "1844_Clay_Sergeant/answers_json/4182@26/description",
+        "1844_Clay_Fillmore/answers_json/4182@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 198,
+      "source": "I don't know how many times a man can deny an unjust allegation before fatigue sets in.",
+      "sha256": "38bd215a026d57f4cbc4388687d3ebf343ea0c977e0d89074bc7df9825bd9328",
+      "zh": "我不知道，一个人要否认多少次不公的指控，才会感到疲惫。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4183@28/description",
+        "1844_Clay_Sergeant/answers_json/4183@27/description",
+        "1844_Clay_Fillmore/answers_json/4183@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 199,
+      "source": "My opposition to the annexation of Texas is known, but we could more explicitly tie that maneuver to the expansion of slavery.",
+      "sha256": "1b909511e0f3a0ff2f5336ce13f406aaee8e7fa87c4ec5e9f2a9f05807b0a378",
+      "zh": "我反对吞并得克萨斯的立场已经众所周知，不过我们可以更明确地指出，这一举动与扩张奴隶制之间的联系。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4184@29/description",
+        "1844_Clay_Sergeant/answers_json/4184@28/description",
+        "1844_Clay_Fillmore/answers_json/4184@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 200,
+      "source": "We should attack the Northern Democrats on their opposition to, or flip-flopping on, the issues of tariffs and internal improvements. They are on soft ground in that debate.",
+      "sha256": "532b8b1b1b80a2d944a46fd8454afb337fde16e11c1d5cdd1b9e8fae1b3808c4",
+      "zh": "我们应当抨击北方民主党人在关税和国内公共工程问题上的反对立场，或其反复摇摆的态度。他们在这场争论中站不住脚。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4185@30/description",
+        "1844_Clay_Sergeant/answers_json/4185@29/description",
+        "1844_Clay_Fillmore/answers_json/4185@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 201,
+      "source": "I am as much in favor of the annexation of Texas as Mr. Polk is. To insinuate otherwise is nothing but dishonesty writ large.",
+      "sha256": "0ae7f2aa20b34f62cd61491024ed66b171d8f3b51cb7c7045b3697f23589e1b3",
+      "zh": "我与波尔克先生一样支持吞并得克萨斯。任何暗示并非如此的说法，都是赤裸裸的谎言。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4186@31/description",
+        "1844_Clay_Sergeant/answers_json/4186@30/description",
+        "1844_Clay_Fillmore/answers_json/4186@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 202,
+      "source": "I am opposed to radicalism from any region, and that includes anti-slavery radicalism. The Whig Party is a national party with a national program that will benefit all regions equally.",
+      "sha256": "e021e8ea45740eee1b21808ad68778f7076485f9e28ae3d15ed50c30dfa58fc2",
+      "zh": "我反对任何地区的激进主义，也包括反奴隶制的激进主义。辉格党是全国性政党，有一套让各地区平等受益的全国纲领。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4187@32/description",
+        "1844_Clay_Sergeant/answers_json/4187@31/description",
+        "1844_Clay_Fillmore/answers_json/4187@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 203,
+      "source": "Congress must function in an orderly fashion, without taking time out from its business to receive ill-conceived petitions. I support the Gag Rule.",
+      "sha256": "548020707c3b2baa6f7de95ca5dc03dd86304d7cdd530ec98e2280f7c4cc16b2",
+      "zh": "国会必须有序运作，不能放下正事，花时间受理考虑不周的请愿。我支持禁议规则。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4202@46/description",
+        "1844_Clay_Sergeant/answers_json/4202@45/description",
+        "1844_Clay_Fillmore/answers_json/4202@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 204,
+      "source": "Regardless of our feelings about the slavery issue, it is undemocratic for Congress to deny the people the right to petition the government. I believe the Gag Rule should be lifted.",
+      "sha256": "282a26a7f3c0c18375b7d070d38469ce4695ebee17d7dd9d860b47cd97a7de6f",
+      "zh": "无论我们如何看待奴隶制，国会剥夺人民向政府请愿的权利，都是不民主的。我认为应当取消禁议规则。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4203@47/description",
+        "1844_Clay_Sergeant/answers_json/4203@46/description",
+        "1844_Clay_Fillmore/answers_json/4203@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 205,
+      "source": "We have no plans to address the Gag Rule during our campaign.",
+      "sha256": "d03fb9bb7ecff80905e749a325c3f4cd9a8f153c9cd135e6fb674aa9ae689d1c",
+      "zh": "我们不打算在竞选中评论禁议规则。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4204@48/description",
+        "1844_Clay_Sergeant/answers_json/4204@47/description",
+        "1844_Clay_Fillmore/answers_json/4204@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 206,
+      "source": "We need to negotiate a permanent agreement with Great Britain that grants some of all of the Oregon Territory to the United States.",
+      "sha256": "a5da2d89345701035aeeb07c6aa5ae8dba72f6a5ffbcf05587b99cb56c238f15",
+      "zh": "我们需要与英国谈判，达成永久协议，将俄勒冈领地的部分或全部土地划归美国。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4229@65/description",
+        "1844_Clay_Sergeant/answers_json/4229@63/description",
+        "1844_Clay_Fillmore/answers_json/4229@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 207,
+      "source": "I would support any agreement, as long as the United States keeps the land that is south and east of the Colombia River.",
+      "sha256": "59254d86d14727f217eafe5314d911d3cc469c44a7731eebe929299edeffa777",
+      "zh": "只要美国保住哥伦比亚河以南及以东的土地，我就支持达成协议。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4230@66/description",
+        "1844_Clay_Sergeant/answers_json/4230@64/description",
+        "1844_Clay_Fillmore/answers_json/4230@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 208,
+      "source": "Ending the Gag Rule is definitely a Whig prerogative.",
+      "sha256": "296c2d5b51271feaa3a81ffc6df530ba07bde169da6dff94df34e05463c07bee",
+      "zh": "废除禁议规则，确实是辉格党应当争取的目标。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1645@19/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1646@20/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1645@19/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1646@20/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1645@19/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1646@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 209,
+      "source": "This is one time when it just might do to keep your mouth shut.",
+      "sha256": "4b77c22aa477580a36cf911c35a9c31cafa2264ace34295043baa47af45d3566",
+      "zh": "这种时候，闭口不言或许就够了。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1647@21/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1647@21/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1647@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 210,
+      "source": "This is a rallying cry that can certainly help your party in the North and West.",
+      "sha256": "bc33b224824d607a4decc7b5676418e91785c0dd815640e024aa8268468e23b2",
+      "zh": "这个号召肯定能帮助你们党争取北方和西部的支持。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1663@32/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1663@31/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1663@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 211,
+      "source": "There's no reason to equivocate on the Oregon issue. People want aggressive action there.",
+      "sha256": "bbae52cbd4d1f234a157a04360d83ad926e9c7e0c248f84ff517e0b21f74790f",
+      "zh": "没有理由在俄勒冈问题上含糊其辞。人们希望在这里采取强硬行动。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1664@33/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1665@34/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1664@32/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1665@33/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1664@35/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1665@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 212,
+      "source": "Word makes its way to New York that you had Martin Van Buren in your own hometown and did not extend an invitation to him.",
+      "sha256": "b1b8320bf907309c6da227ab24835300a59c85d6ef727651b78d2f1fe48493ee",
+      "zh": "消息传到了纽约：马丁·范布伦到了你的家乡，你却没有向他发出邀请。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1672@36/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1672@35/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1672@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 213,
+      "source": "Word makes its way to New York that you and Martin Van Buren were able to put political differences aside and enjoy a few days of warm, personal companionship.",
+      "sha256": "ee957e4052b4007d34e35f2fa3e182e58ff991e67062435dfed717d0ad5074f4",
+      "zh": "消息传到了纽约：你与马丁·范布伦暂时搁置政治分歧，共度了几天温暖融洽的私人相聚时光。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1673@37/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1673@36/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1673@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 214,
+      "source": "By coming out so forcefully, you are gambling that the Northern wing of the party can hand you a victory this fall. Meanwhile the Democrats are making hay with this issue.",
+      "sha256": "57465ca7c3450f4c446b05263677b5b9bb2c39c7ced1803f4f1cc680cc153217",
+      "zh": "你如此强硬地表态，是在押注党内北方派能够让你在今秋获胜。与此同时，民主党人正借此大做文章。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1674@38/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1674@37/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1674@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 215,
+      "source": "By coming out so forcefully, you are gambling that the Southern wing of the party can hand you a victory this fall. Meanwhile the Democrats are making hay with this issue.",
+      "sha256": "e6e80a628a8bd4d5c39cdf77ecab03d20bbdc0b3c8d83afcdd8977dad2640c02",
+      "zh": "你如此强硬地表态，是在押注党内南方派能够让你在今秋获胜。与此同时，民主党人正借此大做文章。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1675@39/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1675@38/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1675@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 216,
+      "source": "The worst of all worlds is to equivocate on such a central issue of the times. People of all persuasions doubt your motives, while the Democrats are making hay with this issue.",
+      "sha256": "2cf014bffe6286ebcaf14149cef8e45540dfcf363dc56b004eb235373ee5c3e6",
+      "zh": "对这样一个时代核心议题含糊其辞，只会两头不讨好。各种立场的人都怀疑你的动机，而民主党人正借此大做文章。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1676@40/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1677@41/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1676@39/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1677@40/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1676@42/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1677@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 217,
+      "source": "This is unfortunately one of those issues where, no matter how many times you repeat yourself, people will continue to press you.",
+      "sha256": "d51dcdf24bd50e81bd14906952b1c4f827a7b97629a846593b367c8f105166cf",
+      "zh": "遗憾的是，有些问题就是这样：无论你重复多少遍，人们还是会不断追问。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1678@42/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1679@43/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1680@44/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1678@41/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1679@42/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1680@43/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1678@44/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1679@45/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1680@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 218,
+      "source": "At the national level, this is probably your best position. In certain locales the nativist sentiment does appear to be rising, however.",
+      "sha256": "6f8bfdb7a805d0f283c5494644df179ccfd6384842b7515002d1ff98c829ff23",
+      "zh": "从全国来看，这大概是你最好的立场。不过，在某些地方，本土主义情绪似乎正在抬头。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1681@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 219,
+      "source": "This invigorates a certain wing of the party, but it could also cost you in certain states.",
+      "sha256": "6b9fb0d29c1610362d79cf0639a3f9cbe3b9b9692e7ae19ab344bd4a174f434c",
+      "zh": "这会振奋党内某一派，但也可能让你在某些州付出代价。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1684@47/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1684@45/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1684@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 220,
+      "source": "This could cost you some nativist support, but that wing is hopefully concentrated in states that aren't close.",
+      "sha256": "b86657e19edeaf21d07fbffcef01bc99c7ed88d094d7f359290a819fe1dd05b2",
+      "zh": "这可能让你失去一些本土主义者的支持；但愿这一派主要集中在那些选情并不胶着的州。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1685@48/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1685@46/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1685@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 221,
+      "source": "This will obviously be a more popular position in certain regions.",
+      "sha256": "434be3d9a629a31829df94e09d7ea22081785a1d1a6b1479e514f88a634aa019",
+      "zh": "显然，这个立场在某些地区会更受欢迎。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1686@49/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1687@50/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1686@47/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1687@48/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1686@49/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1687@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 222,
+      "source": "Silence is the worst of all choices here.",
+      "sha256": "e9884f935674e1bcdac531d7a78c1c8b98998ed9374bd1641a24b9150dac10e7",
+      "zh": "在这里，沉默是所有选择中最糟糕的。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1688@51/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1688@49/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1688@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 223,
+      "source": "Talk of personal foibles is probably just sound and fury in this election.",
+      "sha256": "5b917b53d666fadd5b0943fd271dcfd5cfe5ceac111bcdddb0cbaf0686247bec",
+      "zh": "这次大选中，对个人缺点的议论，多半只是空嚷嚷。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1689@52/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1690@53/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1691@54/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1689@50/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1690@51/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1691@52/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1689@52/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1690@53/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1691@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 224,
+      "source": "This seems like a bit of an eccentric position to many people.",
+      "sha256": "9a1e741e261865226ad6018812d23e48746ca5f3874f4f43297595fe0d86fa75",
+      "zh": "在许多人看来，这个立场有些古怪。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1692@55/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1692@53/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1692@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 225,
+      "source": "Sadly, some attacks never lose their luster.",
+      "sha256": "52db7e7f811d70854bd70ce847799b08f1f2a53208151822eb6d232e18552c94",
+      "zh": "遗憾的是，有些攻击永远不会失去吸引力。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1695@58/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1695@56/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1695@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 226,
+      "source": "This is probably your best stance vis a vis the Northern wing of the Democratic Party.",
+      "sha256": "02d1c5547993b2f8b682f377326e781aca196d53f9e50770ee9d5fb34aa034ef",
+      "zh": "在应对民主党北方派时，这大概是你最好的立场。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1696@59/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1696@57/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1696@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 227,
+      "source": "This position is broadly popular, but will it cost you in some regions?",
+      "sha256": "44c2a30be0cd1bcbfa935acf2c2c7a973e74c85df77984fe8638583f1cee0ffa",
+      "zh": "这个立场广受欢迎，不过会不会让你在某些地区付出代价？",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1697@60/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1697@58/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1697@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 228,
+      "source": "This is a good point to emphasize, especially if you don't support the Texas annexation.",
+      "sha256": "33a5b8fe993cd0c22859d7f426153e593d9a801c463271092011123cd401ce0a",
+      "zh": "这一点值得着重强调，尤其是在你不支持吞并得克萨斯的情况下。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1698@61/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1698@59/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1698@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 229,
+      "source": "Silence may be the best course, given the divisiveness of this issue.",
+      "sha256": "0bbbbf5f3464a96f354992c6744791e3f7b2d9ca9d84979e2e53652256ac126f",
+      "zh": "鉴于这个问题容易引发分裂，沉默或许是最好的办法。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1710@73/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1711@74/answer_feedback",
+        "1844_Clay_Frelinghuysen/answer_feedback_json/1712@75/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1710@71/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1711@72/answer_feedback",
+        "1844_Clay_Sergeant/answer_feedback_json/1712@73/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1710@73/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1711@74/answer_feedback",
+        "1844_Clay_Fillmore/answer_feedback_json/1712@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 230,
+      "source": "Regardless of your views on the banking question, many accuse your running mate of being too closely tied to the Second Bank of the United States, and too inexperienced in government. What is your response?",
+      "sha256": "580d8c0fbe50b2f7ab048d4ab9cf84fadd27427697388b3b794d84874ebcb519",
+      "zh": "无论你在银行问题上持什么看法，许多人都指责你的竞选搭档与美国第二银行关系过密，而且缺乏从政经验。你如何回应？",
+      "keys": [
+        "1844_Clay_Sergeant/questions_json/627@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 231,
+      "source": "I would attack any person who asserts that working with the Second Bank of the United States is poor preparation for government.",
+      "sha256": "45edc301ea23f2ded7e017a22f9a857a07abb9bce271bf9b81c96c34e97ab37c",
+      "zh": "凡是声称在美国第二银行工作不足以为从政作准备的人，我都会抨击。",
+      "keys": [
+        "1844_Clay_Sergeant/answers_json/4166@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 232,
+      "source": "Let's continue to emphasize our platform and my own experience in government, which dates to the War of 1812.",
+      "sha256": "9ee1c658d4a4cc9f34401d44b4d165120bca0a57f60ad0fac99feb4fd9729793",
+      "zh": "让我们继续强调自己的纲领，以及我自1812年战争时期就开始积累的从政经验。",
+      "keys": [
+        "1844_Clay_Sergeant/answers_json/4167@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 233,
+      "source": "People know that you have a strong opinion on the national bank -- there's no need to veer into extremism.",
+      "sha256": "16aac02c92f0c51a73a5e732daa417ea15ab92874ebc3aa38d2c0beebcd3bd74",
+      "zh": "人们知道，你在国家银行问题上立场鲜明，没有必要走向极端。",
+      "keys": [
+        "1844_Clay_Sergeant/answer_feedback_json/1683@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

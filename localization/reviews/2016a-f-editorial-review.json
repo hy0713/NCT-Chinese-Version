@@ -1,0 +1,830 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2016a-f",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 171,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 3,
+      "reason": "Original corrupted quotes restored in Chinese only; quoted Clinton claim not independently verified wording."
+    },
+    {
+      "index": 13,
+      "reason": "Original duplicated and removed in natural Chinese; sweeping European crimes claim is political assertion, not verified aggregate statistics."
+    },
+    {
+      "index": 15,
+      "reason": "Original Clinton sent protesters assertion retained as candidate conditional, not independently verified sponsorship."
+    },
+    {
+      "index": 16,
+      "reason": "Paid agitators and First Amendment claims retained as political stance, not established legal findings."
+    },
+    {
+      "index": 17,
+      "reason": "Original2016early remarks chronology retained; self-financing/no-lobbyist claim not independent audit."
+    },
+    {
+      "index": 22,
+      "reason": "Original its a shame punctuation repaired in Chinese; blue states denotes Democratic tendencies."
+    },
+    {
+      "index": 28,
+      "reason": "Original allegation about Chelsea paternity retained as proposed attack, no independent factual endorsement."
+    },
+    {
+      "index": 29,
+      "reason": "Original Clinton relationship missing possessive read as Clintons relationship, conjecture not historical finding."
+    },
+    {
+      "index": 31,
+      "reason": "Credible is speaker's characterization of accusation, not reviewer certification of paternity or conspiracy."
+    },
+    {
+      "index": 35,
+      "reason": "Sound and fury idiom rendered empty bluster; no unverified Shakespeare-author-intent assertion."
+    },
+    {
+      "index": 38,
+      "reason": "Discretion better part valor idiom rendered caution-as-prudence, not cowardice fact."
+    },
+    {
+      "index": 51,
+      "reason": "Lyin Ted campaign insult rendered 撒谎的特德; corrupt quotation characters restored Chinese only."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "It's a minor civil case, pursued by a few disgruntled people for political purposes. Most people were very satisfied with Trump University.",
+      "sha256": "dab0958caacc0c939af64ff755b6dbde17c5aaf40a1863c232fc6b757623dfdd",
+      "zh": "这只是几名心怀不满的人出于政治目的提起的小小民事案。多数人对特朗普大学非常满意。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4545@20/description",
+        "2016a_Trump_Christie/answers_json/4545@20/description",
+        "2016a_Trump_Carson/answers_json/4545@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I will apologize about this whole mess. And I'll ask where Clinton's apology is for the email server, the war in Iraq, the dead ambassador in Benghazi, and so many other issues of importance.",
+      "sha256": "fdf1f19a71163c4ee16bb1782a034ddae187fa0d8a531aea30457052780f0270",
+      "zh": "我会为这整场混乱道歉。然后，我会问：克林顿对邮件服务器、伊拉克战争、班加西遇难的大使，以及那么多其他重要事情，道歉又在哪里？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4546@21/description",
+        "2016a_Trump_Christie/answers_json/4546@21/description",
+        "2016a_Trump_Carson/answers_json/4546@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "I'll say whatever comes to mind at a given moment. But the thing is, we're going to get Mexico to build a wall, and then we're going to do something to reform the immigration system.",
+      "sha256": "819f12f5f75feff63fc16d28a9dcb3864c1e6c3b1876095549f49fe9b2c1a812",
+      "zh": "想到什么，我当时就说什么。不过，关键是，我们会让墨西哥修一堵墙，然后采取一些措施改革移民制度。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4547@22/description",
+        "2016a_Trump_Christie/answers_json/4547@22/description",
+        "2016a_Trump_Carson/answers_json/4547@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "I probably won't use the word “rapist” again. But I will, you know, remind people that Hillary Clinton was saying she was “adamantly against illegal immigrants”. What made her change her mind?",
+      "sha256": "dd81b52cf5aa7d1c16ce5a46fe066a7ea8cf4600cbb181cfc746c88f50ee016b",
+      "zh": "我大概不会再用“强奸犯”这个词。但我会，你知道，提醒大家，希拉里·克林顿自己说过，她“坚决反对非法移民”。是什么让她改变主意的？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4548@23/description",
+        "2016a_Trump_Christie/answers_json/4548@23/description",
+        "2016a_Trump_Carson/answers_json/4548@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Bill and Hillary Clinton have thrown millions of American jobs away. And also, a lot of these were jobs that African-Americans could be doing right now, which is why unemployment is so terrible in that community.",
+      "sha256": "ab2ad40eb22db81805a52296662cd325e59a79d06ddf47cba180d0aeac73b2cc",
+      "zh": "比尔和希拉里·克林顿毁掉了数百万美国人的工作。而且，其中许多岗位，本来现在可以由非裔美国人来做；这就是那个社群失业如此严重的原因。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4551@24/description",
+        "2016a_Trump_Carson/answers_json/4551@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "My position on this issue is clear, but we're going to focus on immigration and other issues more than trade.",
+      "sha256": "d09041d38dd9788d26845134ecf011787f570536f8771405248b4af56647750e",
+      "zh": "我在这个问题上的立场很清楚，但我们会更多聚焦移民和其他议题，而不是贸易。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4552@25/description",
+        "2016a_Trump_Carson/answers_json/4552@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "This has been misunderstood from the first day. All I'm calling for is for us to not send unqualified hacks to negotiate our trade deals. I love trade.",
+      "sha256": "b2fa231f1050b9e44f74c935b42f5ec94809879ac89d49efe8b3a10eff68fb93",
+      "zh": "从第一天起，这就被误解了。我要求的，只是别派那些不够资格的庸才去谈贸易协定。我喜欢贸易。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4553@26/description",
+        "2016a_Trump_Carson/answers_json/4553@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "This is the kind of issue that I wasn't thinking about very much when I was younger. But it's clear to me now what a terrible thing abortion is.",
+      "sha256": "1f5aff4ae8b7d4698ac989acc17249e91194a44273994bbd1a7a390e58815c92",
+      "zh": "年轻时，我没怎么思考这个问题。但现在，我很清楚，堕胎是多么可怕的事。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4554@27/description",
+        "2016a_Trump_Christie/answers_json/4554@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "The President is supposed to do what the American people want them to do, and the people in this country are pro-life, and I will respect that.",
+      "sha256": "cfc6e62cc0b214c58826134374e17f7b9fc983522b7e800a30f293c5cfff4a56",
+      "zh": "总统应该做美国人民希望他做的事，而这个国家的人民反对堕胎，我会尊重这一点。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4555@28/description",
+        "2016a_Trump_Christie/answers_json/4555@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "I think we can do everything we can to discourage abortion. But I'd say it depends ... if we're talking about making abortion illegal then that's a different story. You can be pro-life without saying it should be illegal.",
+      "sha256": "6be6b7683108631cd4436f8c79184cd8ec7e54ccfe1a9db0027b59acd1f0f56b",
+      "zh": "我认为，我们可以尽一切努力阻止堕胎。不过，我会说，要看情况……如果我们谈的是将堕胎定为非法，那就是另一回事了。你可以反对堕胎，但不主张它应该违法。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4556@29/description",
+        "2016a_Trump_Christie/answers_json/4556@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "When I'm President, I'm going to appoint Ted Cruz to the Supreme Court. And if he doesn't want the seat, we're letting him name his choice.",
+      "sha256": "cc7a0ac7cf0474e1a8d1039cde3fef0196b74eff65afd3b355efbc24c43fca10",
+      "zh": "我当上总统后，会任命特德·克鲁兹进入最高法院。如果他不想要这个席位，我们就让他挑一个人。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4557@30/description",
+        "2016a_Trump_Christie/answers_json/4557@29/description",
+        "2016a_Trump_Carson/answers_json/4557@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "How many times do I have to tell these people I'm on their side before they get the message?",
+      "sha256": "3d203b7bd2181317dec8def2002ba47b15b4790d49316e21385823c5d689cb3c",
+      "zh": "我得告诉这些人多少次，我站在他们这一边，他们才听得进去？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4558@31/description",
+        "2016a_Trump_Christie/answers_json/4558@30/description",
+        "2016a_Trump_Carson/answers_json/4558@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "What grand gesture? I'll just remind them that Hillary Clinton is going to be President if I lose.",
+      "sha256": "fac9d738a153d4d54aa3787f3593832415f545b4cc048c968b62723076d26a9b",
+      "zh": "什么重大姿态？我只要提醒他们，如果我输了，希拉里·克林顿就会当总统。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4559@32/description",
+        "2016a_Trump_Christie/answers_json/4559@31/description",
+        "2016a_Trump_Carson/answers_json/4559@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Absolutely I stand by it. People are being assaulted, killed, and and raped all over Europe this past year, and we want it to happen here too?",
+      "sha256": "d5a58c379e253c07db452ed9a066b8527ea95b04040aecc8dc1398d6bb888248",
+      "zh": "我当然坚持。过去一年，欧洲到处都有人遭袭击、杀害和强奸；我们也想让这些事在这里发生吗？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4560@33/description",
+        "2016a_Trump_Christie/answers_json/4560@32/description",
+        "2016a_Trump_Carson/answers_json/4560@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "I never meant that I was going to keep all Muslims from entering the United States. All I meant, was that we can't have people coming here with possible ties to ISIS until we figure out what's going on.",
+      "sha256": "fab1ce613177c48103efef41231ff3e542462a07d0e87a537b9aaa51ed150256",
+      "zh": "我从没说过，要禁止所有穆斯林进入美国。我的意思只是，在弄清情况之前，不能让可能与“伊斯兰国”有关的人进来。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4561@34/description",
+        "2016a_Trump_Christie/answers_json/4561@33/description",
+        "2016a_Trump_Carson/answers_json/4561@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "If Hillary Clinton doesn't stop sending leftist protestors to my events, how does she expect to not have Trump protestors disrupting her speeches?",
+      "sha256": "860f7ed6ed328aa495915e3d6b237ab515001603d0dc50a5ea9cf4ef97b8ea89",
+      "zh": "如果希拉里·克林顿不停止派左翼抗议者来我的活动，她凭什么指望特朗普的抗议者不会打断她的演说？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4562@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "It's so unfair what's happening, it's a tragedy. You have paid outside agitators breaking up my events and violating my 1st Amendment rights, and then the media is covering them to discredit my campaign.",
+      "sha256": "f38a6e3b62f71016a371ace20f07d825c403cf52ff6cce4c784db3acd56fad14",
+      "zh": "发生的事情太不公平了，是一场悲剧。有拿钱办事的外来煽动者打断我的活动，侵犯我的第一修正案权利，然后媒体又报道他们，抹黑我的竞选。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4563@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "You know, I said a few things at the beginning of 2016 for rhetorical effect, and I didn't mean for so many people to take them literally. I should have known that the press would be looking for any excuse to discredit an anti-establishment candidate who doesn't take money from Washington lobbyists.",
+      "sha256": "5ff312182ecbdb6a6a2e56ebe58af428097acaf47a04ad83eeacc262c8070326",
+      "zh": "你知道，2016年初我有几句话，是为了修辞效果说的；我没想到那么多人会照字面理解。我本该知道，媒体会寻找任何借口，抹黑一个不收华盛顿说客的钱、反对建制派的候选人。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4564@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "What is the point? Are they going to make Gary Johnson the President? Why don't they just vote for Hillary and cut out the middle man.",
+      "sha256": "eb56faa9baa91ea4244943ef492bfaf19592ce3b81a5d5c3c05e798cff6d8b8b",
+      "zh": "有什么意义？他们能让加里·约翰逊当总统吗？为什么不直接投希拉里，省掉中间这一步？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4565@38/description",
+        "2016a_Trump_Christie/answers_json/4565@34/description",
+        "2016a_Trump_Carson/answers_json/4565@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "My conservative credentials are beyond all question. It's really just sour grapes, and not accepting the will of the Republican voters in the primaries which is driving this.",
+      "sha256": "a1b3b48d9f9aabda2119d5d44bbafdee92d17d3cfa079852837d518a1425e146",
+      "zh": "我的保守派资历毫无疑问。驱使这些人的，其实就是吃不到葡萄说葡萄酸，不接受共和党初选选民的意愿。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4566@39/description",
+        "2016a_Trump_Christie/answers_json/4566@35/description",
+        "2016a_Trump_Carson/answers_json/4566@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "At this point, it's hard to have any faith that the media will moderate these debates in an impartial manner. I will buy a half hour of time on every major network and make my case directly to the people.",
+      "sha256": "81aac6a00ce5faef95343372609f414359345c02c20bdc30d3ab15754703de09",
+      "zh": "到了这个时候，很难相信媒体会公正主持这些辩论。我会在每一家主要电视网买下半小时，直接向人民说明我的主张。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4567@40/description",
+        "2016a_Trump_Christie/answers_json/4567@36/description",
+        "2016a_Trump_Carson/answers_json/4567@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Winning a nationally televised debate with Hillary Clinton will be the greatest experience of my life.",
+      "sha256": "969ed287b966e35d89330ae76a6b42b9e1ccf7e045409a823e8a5a6552ee7e9e",
+      "zh": "赢下一场与希拉里·克林顿的全国电视辩论，将是我一生最棒的经历。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4568@41/description",
+        "2016a_Trump_Brown/answers_json/4569@42/description",
+        "2016a_Trump_Brown/answers_json/4570@43/description",
+        "2016a_Trump_Christie/answers_json/4568@37/description",
+        "2016a_Trump_Christie/answers_json/4569@38/description",
+        "2016a_Trump_Christie/answers_json/4570@39/description",
+        "2016a_Trump_Carson/answers_json/4568@35/description",
+        "2016a_Trump_Carson/answers_json/4569@36/description",
+        "2016a_Trump_Carson/answers_json/4570@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Scott Brown did a tremendous job in the Senate. And, you know, its a shame that we can't get more people like him elected from the so-called blue states.",
+      "sha256": "29bdf24c19d3542bc4ca3376c7a92ac6209556157e8066d97850b07fdb0e33e7",
+      "zh": "斯科特·布朗在参议院干得非常出色。而且，你知道，我们没能从所谓的蓝州选出更多这样的人，真可惜。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4571@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "We've all seen Hillary Clinton lie about this scandal from the first day until now, and she's still lying about it. It's unbelievable what she thinks she can get away with.",
+      "sha256": "6547150802163ba4bcf63aef83fbc109dc08f4d21c51e7fae9f5b419f93ea2bb",
+      "zh": "我们都看到了，从第一天到现在，希拉里·克林顿一直在这场丑闻上撒谎，现在还在撒谎。她以为自己能蒙混过关，真让人难以置信。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4582@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I've gotta tell you, I'm pretty surprised. It would be a shame if we decided this election based on politically motivated prosecutions, rather than the issues.",
+      "sha256": "948b24a759f212c2608b627c5c3c8526fdd78e2d320e2cce6fba84474fcff569",
+      "zh": "我得说，我挺意外。如果我们靠出于政治动机的起诉来决定这场选举，而不是靠议题，那就太遗憾了。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4583@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "I think we have more to lose than to gain by going after the black vote heavily. So many Republican politicians have proven the futility of that course of action.",
+      "sha256": "231dd62e85fb2570e46dee1b04e327320eb9821be6613a1d7fb1996b56503c27",
+      "zh": "我认为，大力争取黑人选票，得不偿失。已经有那么多共和党政客证明，这种做法徒劳无功。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4724@66/description",
+        "2016a_Trump_Christie/answers_json/4724@61/description",
+        "2016a_Trump_Carson/answers_json/4724@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "I haven't really thought about it. Let's just stick to what we're doing.",
+      "sha256": "3680ead7a97f716f79bb2f2aedfc05d15d7c9cc86388e6085738ab424b14cd76",
+      "zh": "我没怎么想过。我们就继续现在的做法吧。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4725@67/description",
+        "2016a_Trump_Christie/answers_json/4725@62/description",
+        "2016a_Trump_Carson/answers_json/4725@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "We're going to be putting out 2-3 tweets a day about how the Clintons have failed the black community on trade and immigration and criminal justice. We have an opening to do much better than Romney or McCain did with this group.",
+      "sha256": "3575ff69fc9247974a29b011b9381b3a9f5640c3cb7828c52dde31cc736de1b8",
+      "zh": "我们每天会发两到三条推文，讲克林顿夫妇如何在贸易、移民和刑事司法上辜负黑人社群。在这个群体中，我们有机会比罗姆尼或麦凯恩做得好得多。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4726@68/description",
+        "2016a_Trump_Christie/answers_json/4726@63/description",
+        "2016a_Trump_Carson/answers_json/4726@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "We can't even be sure that Bill is Chelsea Clinton's father. There are a lot of good arguments pointing to other people on this one.",
+      "sha256": "aec7b3839c89bcd8d3252d5075459ee2b2f7fc48dc048cc872c2bc77d12603e7",
+      "zh": "我们甚至无法确定，比尔是不是切尔西·克林顿的父亲。有不少很有力的说法，指向其他人。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4738@69/description",
+        "2016a_Trump_Christie/answers_json/4738@64/description",
+        "2016a_Trump_Carson/answers_json/4738@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Is it any coincidence that the Clintons had Chelsea during the roughest part of Bill's political career? The people of Arkansas were beginning to figure out that there's no love in Clinton relationship. Just a naked ambition for power, that's all.",
+      "sha256": "139c76d8862480d391ff18fb56a5f2d77d3966649e9d11a8ac7fa33544ad0289",
+      "zh": "克林顿夫妇在比尔政治生涯最艰难的时候生下切尔西，这难道是巧合？阿肯色州人民当时开始看清，克林顿夫妇的关系里没有爱，只有赤裸裸的权力野心，仅此而已。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4740@70/description",
+        "2016a_Trump_Christie/answers_json/4740@65/description",
+        "2016a_Trump_Carson/answers_json/4740@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Any story we can get, let's throw it out there. We're going to go with the tactics that have gotten us this far.",
+      "sha256": "6cfda51153fda9d6e66436add1497ad1aaf30d35b7c849ae00dba8e0ed8bc809",
+      "zh": "能拿到什么故事，就抛出去吧。我们会继续用那些让我们走到今天的手法。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4741@71/description",
+        "2016a_Trump_Christie/answers_json/4741@66/description",
+        "2016a_Trump_Carson/answers_json/4741@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "You know, I almost hate to bring it up, but there are credible accusations that Bill fathered a black child with a Little Rock hooker. And furthermore... Hillary has conspired to threaten these people into keeping silent.",
+      "sha256": "5e93821e362730f5521c07bc9ec7dc6f3131bb88563d175f6c4807270b0126d1",
+      "zh": "你知道，我几乎不愿提起，但有可信的指控称，比尔与小石城一名妓女生下了一个黑人孩子。而且……希拉里还串通威胁这些人，让他们保持沉默。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4739@72/description",
+        "2016a_Trump_Christie/answers_json/4739@67/description",
+        "2016a_Trump_Carson/answers_json/4739@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "I will emphasize that I am self-funding and independent from special interests. Then I will document to the last detail who Hillary Clinton has taken money from, and what she did for them. Can you say Goldman Sachs?!",
+      "sha256": "115828122ab6c28df2bd47973bca7dd3165bc23bdf49e51901e5f2f9018235de",
+      "zh": "我会强调，竞选是我自己出钱，不受特殊利益集团控制。然后，我会把希拉里·克林顿收过谁的钱、替他们做过什么，一一记录到最后一个细节。听说过高盛吗？！",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4530@73/description",
+        "2016a_Trump_Christie/answers_json/4530@68/description",
+        "2016a_Trump_Carson/answers_json/4530@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "This seems like enough to make the party semi-enthusiastic for your campaign.",
+      "sha256": "0748564b68994d73cf5a1164954a06148d3f671316d2a0926b7250f027e54507",
+      "zh": "这似乎足以让党内对你的竞选多少有点热情。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2129@20/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2129@13/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2129@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "This could be an interesting way to turn the media attacks on you into a strength.",
+      "sha256": "1da15408a03dd7b34f1922a4818ee1567b5fdfde1b5cacd400b6b62eab26cc93",
+      "zh": "这可能是把媒体攻击转化为自身优势的有趣办法。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2130@21/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2130@14/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2130@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "More sound and fury from your camp.",
+      "sha256": "f196c3b58998c76957c915de57bc306dd4d76a4877153da82e9b363fdf12bf38",
+      "zh": "你们这边又是一阵雷声大雨点小。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2131@22/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2131@15/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2131@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "This seems to be an effective deterrent so far.",
+      "sha256": "d85d9fbf8dbfc125e515306b5ebb0b76ffacf37f0bd7173ec18e632a862bff94",
+      "zh": "目前看来，这似乎是一种有效的威慑。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2132@23/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2132@16/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2132@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "A lot of people are scratching their heads at your sudden change of tone.",
+      "sha256": "d8527b0e65c09a6afd46f9c13dd04891c3cb26f1ee8b749f24d5c1538006f031",
+      "zh": "你突然改变语气，让很多人摸不着头脑。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2133@24/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2133@17/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2133@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Maybe, even for you, discretion is the better part of valor on this front.",
+      "sha256": "dba8bc56db23dcaea6215d6b8d5c7331da74fe8bdd1fe6da0b4d9ac7c733f440",
+      "zh": "也许在这件事上，即使是你，也该知道谨慎才是勇敢的上策。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2134@25/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2134@18/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2134@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "The Benghazi allegations seem worn out at this point.",
+      "sha256": "102f621e72956f719f0622c4825159f0f80a47e445a691b2596466e6c7d9fc28",
+      "zh": "到了这个时候，班加西指控似乎已经说滥了。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2135@26/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2135@19/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2135@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Nothing wrong with keeping your name in the headlines, but people have come to expect it.",
+      "sha256": "ded674fab84fd77b871ceba756f47ec1c583f9d4c44ed8e2b3989481ea1e718a",
+      "zh": "让名字留在新闻头条上没什么问题，但大家已经习以为常。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2136@27/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2136@20/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2136@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Nothing wrong with this argument.",
+      "sha256": "c4b17b8b24fdf473b0093a7a1115f8b8444fd9389adca01bc6d256a2755e98e0",
+      "zh": "这个论点没什么问题。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2137@28/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2137@21/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2137@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "This is one of your best issues and you're leaving it on the table?",
+      "sha256": "1d87f250b3359bb19ec576a1feddb0f7f6103b7244bda6d12f8b2d7825b29d12",
+      "zh": "这是你最有优势的议题之一，你竟然弃而不用？",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2138@29/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2138@22/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2138@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "The Iraq invasion and Clinton's vote is a bit of a weak spot... if you can focus attention to it.",
+      "sha256": "162f481597acbdb91b6313cea43b310f289416eee3be9f161b68a52de20ce6b5",
+      "zh": "伊拉克入侵和克林顿的投票，算是个弱点，前提是你能把大家的注意力引到那里。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2139@30/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2140@31/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2139@23/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2140@24/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2139@32/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2140@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Interesting decision.",
+      "sha256": "b5ef1ccdc737e2f9fd48e7c460ddd759abe3a22c13e8eacc6cb63efee73c8942",
+      "zh": "这个决定挺有意思。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2141@32/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2141@25/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2141@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Many of Clinton's weaknesses lie buried in her past. You have to be relentless on the attack.",
+      "sha256": "65da638155fd0918468869ce2a4e868ed909e8c58fc99651d29cdb5c89f79010",
+      "zh": "克林顿的许多弱点埋在过往里。你必须毫不留情地攻击。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2142@33/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2145@36/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2148@37/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2142@26/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2145@29/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2142@35/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2145@38/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2148@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "More drama on the Trump University front. People just don't understand!",
+      "sha256": "076b65a84b4f13caf3d5f81d49a805ffa96efccdb3f1946fc22fa824cc33a4bc",
+      "zh": "特朗普大学方面，又有一出戏。大家就是不理解！",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2143@34/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2143@27/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2172@45/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2173@46/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2143@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Overall, the Trump University issue seems like a loser for you.",
+      "sha256": "dc5b11e7e5dd6724f5b914dd3aa5f6ab0a602d698460d401c6107027c6b25fe8",
+      "zh": "总体而言，特朗普大学这个问题似乎会让你吃亏。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2144@35/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2144@28/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2144@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "This seems like a semi-retreat to the orthodox conservative view on trade.",
+      "sha256": "0b620be42f47bff5824589a6190f6ab8c6cbddf832f2f4c4cbd82116a9ab0fe2",
+      "zh": "这似乎多少是在退回传统保守派的贸易观点。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2149@38/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2149@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Some people are noticing the somewhat moderate tone of this statement.",
+      "sha256": "5b54fadd9f72a94150e644ae2c0896bc964de6b9f722da6e44c2f119083de4da",
+      "zh": "有些人注意到，这个表态的语气还算温和。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2150@39/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2150@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "People are noting your surprisingly nuanced tone on the abortion issue.",
+      "sha256": "b29a95ee3e4554aa63adb7075281567048994346d1ca595fcff52467c9d26928",
+      "zh": "人们注意到，你在堕胎问题上的语气竟然如此细致、有分寸。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2151@40/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2151@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "From “Lyin' Ted” to a spot on the Supreme Court... But at least this helps you somewhat with the conservative base.",
+      "sha256": "4aecbec7cf39b30637c7297ba3215f98ac793a859bd82375b8b43c69db21aade",
+      "zh": "从“撒谎的特德”，到最高法院席位……不过，这至少在保守派基本盘中帮了你一些。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2152@41/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2152@34/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2152@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Seems reasonable.",
+      "sha256": "87402abad6cc2a068f65228741b5012e502e63077b521a5f823a3ea3d77d2b6f",
+      "zh": "听起来合理。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2153@42/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2153@35/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2153@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "You continue making controversy with these remarks, but they are well known by now.",
+      "sha256": "6b94e9dda87923a15f758428c672ae1c68aac60fe329ec90b071532971e9debf",
+      "zh": "这些话仍在制造争议，但如今已经广为人知。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2154@43/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2154@36/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2154@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Interesting argument. It seemed to be pretty clear that you meant, at the very least, all Muslims who were not U.S. citizens.",
+      "sha256": "474c625406fcbeb10a55a667ce5a885961c22b9944a1aa365e435553dbe43a55",
+      "zh": "这个论点挺有意思。之前你的意思似乎相当明确：至少是所有非美国公民的穆斯林。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2155@44/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2155@37/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2155@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Your statement sends waves of outrage through the media, but the actual polls seem stable.",
+      "sha256": "bc326a6f083498ef449d6814ece010f7ea11f4350ebe77a4aed899d5b2136481",
+      "zh": "你的表态在媒体中掀起愤怒浪潮，但实际民调似乎稳定。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2156@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "This is about as statesmanlike a comment as can be expected to come from The Donald.",
+      "sha256": "f88964b2ec52b0798268cba8bcbbc07b6aa452c58e2da635a3f7b9c30789cc57",
+      "zh": "这大概已经是能指望“那位唐纳德”说出的，最有政治家风范的话了。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2157@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Hopefully this doesn't affect the final outcome too much.",
+      "sha256": "2fed2121656d24914fc467f036c46e5b7008fa283f08c180221fb68f45aac616",
+      "zh": "希望这不会过多影响最终结果。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2158@47/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2158@38/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2158@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Your time slots are heavily watched, but people really wanted to see the debates.",
+      "sha256": "5c691813b8216198a2f2030b790eec2870f90b68124382f720e9ee1591097ee4",
+      "zh": "你的电视时段有很多人观看，但大家真正想看的是辩论。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2159@48/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2159@39/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2159@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Pundits, as much as they hate to admit it, must conclude that you really outperformed Clinton in the debates.",
+      "sha256": "d69a738b60510d368a3ce633fd271b0bd3fac2b0c1b3cdbe9165f6d186719c2d",
+      "zh": "评论员尽管不愿承认，也只能得出结论：你在辩论中的表现确实胜过克林顿。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2160@49/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2160@40/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2160@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

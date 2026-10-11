@@ -1,0 +1,161 @@
+{
+  "checkedAt": "2026-10-08",
+  "batch": "political-terms",
+  "uniqueSourcesReviewed": 12,
+  "recordPositions": 31,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<h3>As expected, you've lost the 1964 Election.</h3></p><p>Despite your best efforts, perhaps it was always an impossible task to beat an incumbent as strong as Johnson from the position you began in. You were certainly never favored, so this comes as no surprise to anyone.</p><p>Despite your failure, however, the door has been opened for your followers, like Ronald Reagan, to enter Republican politics as mainstream candidates. On another note, the Southern Strategy appears to have worked in full, and Republican strategists are already taking notes on how to exploit the now wide-open South. Though your chapter may be closed, a new chapter of the Republican Party may just be beginning. In any case, your popularity in Arizona remains. Perhaps another term in the Senate is in your future?",
+      "sha256": "a730b2fa6d77ec1363844b4df629b8e30951b9f99c22d104b099b4b514a2ec79",
+      "zh": "<h3>正如预料，你输掉了1964年大选。</h3></p><p>尽管你竭尽全力，但从最初的处境来看，要击败约翰逊这样强势的现任总统，或许本来就不可能。你从未被看好，因此这个结果并不令任何人意外。</p><p>然而，尽管你落败，罗纳德·里根等追随者以主流候选人的身份进入共和党政治的大门，已经打开。另一方面，“南方战略”似乎已充分奏效，共和党的竞选谋士正在研究，如何争取如今已向他们敞开大门的南方。你的这一章或许已经结束，但共和党的新篇章可能才刚刚开始。无论如何，你在亚利桑那州的声望依然在。也许你将来还能再当一届参议员？",
+      "keys": [
+        "base/candidate_json/6969@99/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "You have vindicated leftist critics, along with outraging your base. Dixiecrats are ecstatic, believing the Democratic party has bowed after many years, but they aren’t abandoning Wallace.",
+      "sha256": "7daee1273312bd4a2a9c1da9d4e92dfbc5cbb56b26d36d01851882a70bbbe06d",
+      "zh": "你既印证了左翼批评者的说法，又激怒了自己的基本盘。迪克西民主党人欣喜若狂，认为民主党多年之后终于低头了，但他们并不会因此放弃华莱士。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2004@26/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2004@26/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2004@26/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2004@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Nice try, but you’re attempting to appeal to those who distrust you and are firmly in Nixon’s camp. Worse, the black community has taken your choice of words as a racist dog whistle.",
+      "sha256": "79649e1b1abefaa46fa8bab402a9754ac2ca936fe00178fba9a4f227d0cb3545",
+      "zh": "尝试不错，但你试图争取的，是那些不信任你、又坚定站在尼克松阵营的人。更糟的是，黑人群体把你的措辞视为带有种族主义暗示的“狗哨”。",
+      "keys": [
+        "1968_Humphrey_Muskie/answer_feedback_json/2017@43/answer_feedback",
+        "1968_Humphrey_Kennedy/answer_feedback_json/2017@43/answer_feedback",
+        "1968_Humphrey_Connally/answer_feedback_json/2017@43/answer_feedback",
+        "1968_Humphrey_Harris/answer_feedback_json/2017@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Today, famous South Carolinian and 1948 Dixiecrat candidate Strom Thurmond has officially switched his party affiliation from Democratic to Republican, an expected move after his endorsement of Barry Goldwater for President.",
+      "sha256": "1cf9f81c39f0dbd414a7d7f480a88beb6e4804fd95e5002406425cca9369a182",
+      "zh": "今天，南卡罗来纳州知名政治人物、1948年迪克西民主党人的总统候选人斯特罗姆·瑟蒙德，正式由民主党转投共和党。此前他已支持巴里·戈德华特竞选总统，所以这个举动并不意外。",
+      "keys": [
+        "1964_Johnson_Humphrey/questions_json/269@18/description",
+        "1964_Goldwater_Miller/questions_json/269@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "I won’t be the one to lose the Solid South. With enough subtle hints, under-the-table deals, and backpedaling on earlier promises and policies we’ve made, we’ll reel the South back in yet.",
+      "sha256": "08d8606856a6e599acb4b05570c0171d80b5ac1cdc74e06f903c607f918b9cb4",
+      "zh": "我绝不会成为丢掉“稳固南方”的那个人。只要给出足够多的暗示、进行幕后交易，并在先前的承诺和政策上作些退让，我们仍能把南方拉回来。",
+      "keys": [
+        "1964_Johnson_Humphrey/answers_json/1669@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Your rebuke only worsens the fracture in the party, but Humphrey is pleased by your steadfast support- as are liberals nationwide. You may have broken the Solid South, but the rest of the country might just make up for it.",
+      "sha256": "2faecef0349a4e1d77a7f1c118bddc74abe5c1d763bf1acd2f1b16ea01b216f9",
+      "zh": "你的斥责进一步加剧了党内分裂，不过，你坚定的支持让汉弗莱和全国自由派都感到欣慰。你或许打破了“稳固南方”，但全国其他地区的支持，也许足以弥补损失。",
+      "keys": [
+        "1964_Johnson_Humphrey/answer_feedback_json/30011@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "We can support the idea of popular sovereignty, but that must include an acknowledgement that Kansas clearly desires to enter the Union as a free state.",
+      "sha256": "e3ebffc9d9ca01b7a2be028f7c7a4e8e516b2e137a22920d753764c9090d5929",
+      "zh": "我们可以支持人民主权原则，但同时必须承认，堪萨斯明确希望以自由州的身份加入联邦。",
+      "keys": [
+        "1860_Lincoln_Hamlin/answers_json/3305@3/description",
+        "1860_Lincoln_Clay/answers_json/3305@3/description",
+        "1860_Lincoln_Chase/answers_json/3305@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Douglas and his party are running on the failed, dishonest policy of popular sovereignty. I want the Republicans to point this out at every opportunity.",
+      "sha256": "7fde8a6df58327fc32cbf989b6eaf3c9f309f3342e99ae4ec3f4eb17bef8eba5",
+      "zh": "道格拉斯及其政党正凭着已经失败、又不诚实的人民主权政策开展竞选。我要共和党人在每一个机会中都指出这一点。",
+      "keys": [
+        "1860_Lincoln_Hamlin/answers_json/3967@8/description",
+        "1860_Lincoln_Clay/answers_json/3967@8/description",
+        "1860_Lincoln_Chase/answers_json/3967@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "We need to acknowledge the Know-Nothing point of view. Otherwise, they will bolt to this so-called Constitutional Union party.",
+      "sha256": "5b6dcf62bf9fccaf86a73d43ccbcecf65301be40966aa8e28b47dcae314c1f3a",
+      "zh": "我们需要顾及一无所知党人的观点，否则他们会转投这个所谓的宪法联邦党。",
+      "keys": [
+        "1860_Lincoln_Hamlin/answers_json/3991@32/description",
+        "1860_Lincoln_Clay/answers_json/3991@32/description",
+        "1860_Lincoln_Chase/answers_json/3991@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Better to keep the German vote in line -- A few Know-Nothings (in the North) may vote for Bell, but they are more likely to despise Stephen A. Douglas, and vote for the man who can beat him.",
+      "sha256": "ee8cd0cf43668d39a71201fc3da7b42d11176e17f6ca4fd782d485fe7424fdc9",
+      "zh": "最好稳住德裔选民的支持。北方一些一无所知党人或许会投给贝尔，但他们更可能厌恶斯蒂芬·A.·道格拉斯，转而支持能够击败他的人。",
+      "keys": [
+        "1860_Lincoln_Hamlin/answer_feedback_json/1534@25/answer_feedback",
+        "1860_Lincoln_Clay/answer_feedback_json/1534@25/answer_feedback",
+        "1860_Lincoln_Chase/answer_feedback_json/1534@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "I had hoped that popular sovereignty would resolve the slavery issue, but the intransigence of the Southern bolters has convinced me otherwise. I now believe that slavery must not be permitted in any new state or territory.",
+      "sha256": "80937e81d8f99009b9f823c9e5bc98479f036528c3f16ba14397a4477775f8e3",
+      "zh": "我曾希望人民主权原则能解决奴隶制问题，但那些脱离党派的南方人的顽固态度，让我不再这样想。现在我认为，任何新州或领地都不得允许奴隶制存在。",
+      "keys": [
+        "1860_Douglas_Johnson/answers_json/3306@1/description",
+        "1860_Douglas_Guthrie/answers_json/3306@1/description",
+        "1860_Douglas_Seymour/answers_json/3306@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "We will attack the Republican embrace of immigration as opportunistic and disingenuous. It doesn't take a genius to figure out which party the Know Nothings joined.",
+      "sha256": "db4851d4b4dd38a8bb28490b6c62ea1062783ae37521e7a117894752b07e4a6e",
+      "zh": "我们将抨击共和党拥护移民的态度，指出那是投机取巧、虚情假意。稍加思考，就知道一无所知党人后来加入了哪个政党。",
+      "keys": [
+        "1860_Douglas_Johnson/answers_json/4069@38/description",
+        "1860_Douglas_Guthrie/answers_json/4069@38/description",
+        "1860_Douglas_Seymour/answers_json/4069@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

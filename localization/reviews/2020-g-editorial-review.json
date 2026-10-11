@@ -1,0 +1,376 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2020-g",
+  "uniqueSourcesReviewed": 28,
+  "recordPositions": 65,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 2,
+      "reason": "Litmus test metaphor for political allegiance not chemical analysis."
+    },
+    {
+      "index": 15,
+      "reason": "Indian-American means SouthAsianIndian ancestry not NativeAmerican; hypotheticalThaparappointment not actual replacement."
+    },
+    {
+      "index": 18,
+      "reason": "AdvisorCDCendorsement qualification retained; mustdifferentiate actual debate doctors/scientists wording via sourced note."
+    },
+    {
+      "index": 20,
+      "reason": "Original usefullness typo interpreted usefulness."
+    },
+    {
+      "index": 27,
+      "reason": "Original decided is was read decided it was; Pence departure explanation hypothetical not actual2020ticket."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "You seem to be striking a balanced, measured tone on something for a change.",
+      "sha256": "4655f429318bc6f4ba270e744de570be448a63dce59ff52a1841364d164ef614",
+      "zh": "这回，你在一个问题上似乎终于采取了均衡、审慎的语气。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3079@25/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3080@26/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3079@25/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3080@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "You might enjoy folk hero status among your fervent supporters, but not even your endorsement can make a lockdown politically palatable.",
+      "sha256": "9fd5f0c11afcd1c6cff8f7278e2bf3786f82f640144d8e8a1bec85595c99e726",
+      "zh": "在热忱的支持者中，你也许有民间英雄般的地位，但即使得到你的支持，封锁在政治上仍难让人接受。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3081@27/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3081@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Nothing seems to be more of a litmus test for how people feel about you than The Wall.",
+      "sha256": "f81abb95b6bf4675aa6005e1061f2e4e090510d60fefd1a42f329c1ba8b0b85e",
+      "zh": "似乎没有什么比那堵墙更能检验人们对你的态度。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3082@28/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3082@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Your plans in Afghanistan seem to trigger bipartisan alarm within the Beltway. But... many average people want the troops gone from Afghanistan.",
+      "sha256": "c5bc6a6fade0f867ff06ca366dff0c9a327a9f968d77069580d933f4d32681cd",
+      "zh": "你的阿富汗计划，似乎在华盛顿政治圈引发了两党的警觉。不过……许多普通人都希望军队撤出阿富汗。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3083@29/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3083@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "If you think that the current political dynamic is good for you, then hammering on The Wall in your speeches will do nothing but reinforce it.",
+      "sha256": "a7d7d96e72a2b740b2f9f6970ec1096362074deffaa267d5bb231f55f051c728",
+      "zh": "如果你认为，当前政治态势有利于你，那么在演说中反复强调那堵墙，只会进一步巩固它。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3085@30/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3085@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Talk of immigration reform is not popular in your own party. However, you seem to keep your support almost no matter what you say.",
+      "sha256": "f38554a40bc25ea84786a21f7c6df1e165e64e92b217e46a8564e05ea567f19b",
+      "zh": "谈移民改革，在你自己的党内并不受欢迎。不过，你似乎几乎无论说什么，都能保住支持。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3086@31/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3086@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "This seems like basic, common sense to most of your supporters.",
+      "sha256": "afed954301a0fe5d612d5746790fd6426faa7b37b214ca3f813eab6fbf82d027",
+      "zh": "对于大多数支持者来说，这似乎只是基本常识。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3087@32/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3087@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "You're hitting the traditional Republican talking points here.",
+      "sha256": "af6222b613223e2b183610fb181e8bd84a1c64b1cdf9433c7641bc9a636e0dff",
+      "zh": "你在这里说的是共和党的传统宣传口径。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3088@33/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3088@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Your core supporters listen politely as you say these words. But they don't quite seem to cheer the way they normally do.",
+      "sha256": "d66c4948ead1a830187ef5299cb7a941786e7b4e39e87045eec8459037f140d8",
+      "zh": "你说这些话时，核心支持者礼貌地听着，但似乎不像平时那样欢呼。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3089@34/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3089@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Pundits question whether you're giving the right number here, but it is true that many other politicians are quite wealthy.",
+      "sha256": "d3d89568a1b08f45512b3097ef3b7e35456548adf6112cab916542bad276d711",
+      "zh": "评论人士质疑，你这里说的数字是否正确，不过，确实有许多其他政治人物相当富有。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3090@35/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3090@35/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "The fact of the matter is, there is no way that Republicans will not fill these seats on the Court, and you're simply stating the obvious.",
+      "sha256": "67327dfeaf1ecb934650b05bcb1640347a880ca3eed5621df429442068a54b68",
+      "zh": "事实是，共和党不可能放着这些法院席位不填，你不过是在说显而易见的事。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3091@36/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3091@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Who knows if anything will come of your openness to negotiate on this issue. In the short term, perhaps not really.",
+      "sha256": "64c578098c3276bdc001b06e28072b243df8d2b9019b0e24c8804e3a63884297",
+      "zh": "谁知道，你愿意在这个问题上谈判，会有什么结果。短期内，也许真的不会有什么。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3092@37/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3092@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Many people believe that you are escalating and tacitly encouraging this situation, rather than speaking out against it.",
+      "sha256": "b1d1d35e14d1b1e973be10a9f89645baab30ccd9acf2ff239abafce676f254d0",
+      "zh": "许多人认为，你是在激化、默许助长这种局面，而不是公开反对。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3093@38/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3093@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "This is a very popular pick among religious conservatives, many of whom believe that Barrett shares their core beliefs on religious freedom and abortion.",
+      "sha256": "7bf1c2265fe995c041c1af3ee87f7ccb7847c81ed54735bc967a86b0a2360e9b",
+      "zh": "宗教保守派很欢迎这个人选，其中许多人认为，巴雷特与他们在宗教自由和堕胎上的核心信念一致。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3094@39/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3094@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Skeptics believe that you passed over more experienced nominees to select someone from Florida. Which isn't to say that Lagoa isn't highly qualified.",
+      "sha256": "d52907deec4fdba1771c7f84c479ffa4f870df38a09225d73bdd85d9ceff6569",
+      "zh": "怀疑者认为，你放弃了经验更丰富的提名人，转而选择一个佛罗里达州的人。这并不是说，拉戈阿不够资格。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3095@40/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3095@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "You always hate to have litmus tests for the Court, but Democrats are definitely turning it into a “war on women” issue that you replaced Justice Ginsburg with a man. On the other hand, he is an Indian-American man.",
+      "sha256": "47b5834e24933bb6949866539d84a69ce47d9119de16b42811bfad3ba0ab7ff6",
+      "zh": "你总不喜欢给法院设定某种立场筛选标准，但民主党肯定要拿你以男性取代金斯伯格大法官这件事，宣称你在“向女性宣战”。不过，另一方面，他是一位印度裔美国男性。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3096@41/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3096@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "You know that this kind of a compromise will never happen. After a couple of days of hemming and hawing, you go ahead and nominate Justice Barrett.",
+      "sha256": "0595129c68fec9208e6fa76bf8d390ba1181f573206c735733c287c7a5332790",
+      "zh": "你知道，这种妥协永远不会实现。犹豫、支吾了几天后，你还是提名了巴雷特法官。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3097@42/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3097@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Skeptics wonder if you're even close to making a real vaccine announcement, but it's certainly in line with your personality to promise big.",
+      "sha256": "c1a3abd7d10f2aba529012c1e1c99a1a54662564ff92e4b2aad4968a0660f750",
+      "zh": "怀疑者想知道，你到底是否真已接近公布疫苗的消息。不过，许下宏大承诺，确实很符合你的性格。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3098@43/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3098@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Harris hits back at you and clarifies her statement (she wouldn't take the vaccine unless the CDC endorsed it), but no matter.",
+      "sha256": "9263bf9aa15f62cbee1d040c8bac31d924265e8afe07f3c2b93ac9579945f9f1",
+      "zh": "哈里斯反击，澄清了自己的话：除非疾病控制与预防中心认可，否则她不会接种。不过，那又如何。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3099@44/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3099@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Pundits are unanimous that you seemed, by far, the less presidential of the two candidates. Many are skeptical, though, that it will have any effect in this environment.",
+      "sha256": "718e2ecbc814d7de2233bce78794b3ba66a5ff3bf150bccd41ce76f083d4abbc",
+      "zh": "评论人士一致认为，你在两人中远远更缺乏总统风范。不过，许多人怀疑，在这种政治环境下，这能有什么影响。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3100@45/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3101@46/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3102@47/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3100@45/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3101@46/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3102@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Maybe these debates have outlived their usefullness anyway. Still, there are some whispers that you may have made a mistake.",
+      "sha256": "a16deef6437c445c44e80ccdd2827e104884fd2fd853fdba3e220a21609553cf",
+      "zh": "也许这些辩论早已失去用途。不过，仍有人低声议论，说你可能犯了个错误。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3103@48/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3103@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "You're certainly not the type to second guess yourself. There's no sense in changing that now.",
+      "sha256": "467f3ed7d61cb7e2c285478ada41d2876f21371840a8e1c82f45947748e60d1c",
+      "zh": "你显然不是会反复怀疑自己的人，现在也没必要改变。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3104@49/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3104@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Many pundits deride your remarks as dangerous and inflammatory, and also point to the polls showing you way behind in the race.",
+      "sha256": "6900476b3ec3dc86d5d57cb4f5f361fd114dbe026283ec0d144fee1f70b3fb07",
+      "zh": "许多评论人士嘲笑你的言论危险、煽动，还指出民调显示你在竞选中远远落后。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3105@50/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3105@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "A lot of people are pleasantly surprised to hear you back away from some of the more dangerous statements you've made. Maybe that will include some independent voters?",
+      "sha256": "4208931afa7f87e704e122c0a2b94ba0751a9d7a9ef137a9d30e8f34550c5b9b",
+      "zh": "听到你收回一些更危险的言论，很多人感到惊喜。也许，其中包括一些独立选民？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3106@51/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3106@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Let's see what kind of an effect this story has on the final days of the campaign.",
+      "sha256": "05dcb147aa098aaa8ba6961cdf85eadee55877b0d18cec1301208b86a99b50b8",
+      "zh": "看看这个故事，会对竞选最后几天产生什么影响。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3107@52/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3108@53/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3109@54/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3110@55/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3107@52/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3108@53/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3109@54/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3110@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "You have definitely raised some eyebrows with your selection of Nikki Haley as your running mate. What made you decide to make the switch?",
+      "sha256": "830465780d439784549a99a11fd17c86f52334f4564e1a7cb6ac0297f9336441",
+      "zh": "你选择妮基·黑利作为搭档，确实让一些人吃惊。是什么让你决定换人？",
+      "keys": [
+        "2020_Trump_Haley/questions_json/1326@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "I've always believed that you need the best person for the job, and what Nikki showed me during her time in my Administration was really impressive. She can really be an inspiration for women and children of immigrants everywhere.",
+      "sha256": "3b0fc3cdcf0b11a26935b7228a89e5701716cab6ceb94284512119178d719aef",
+      "zh": "我一直相信，职位就该交给最适合的人。妮基在我的政府任职时，所展现的能力让我印象深刻。她真能鼓舞各地的女性和移民子女。",
+      "keys": [
+        "2020_Trump_Haley/answers_json/6210@95/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "The truth is that Mike and I talked, and he's a great man, one of the best ever, and he decided is was time to focus on other priorities and leave a legacy for his family. And of course Nikki is great and we're thrilled to have her on the team.",
+      "sha256": "6436566ddf8f0417fe43a73d387d9ab3425627c358893af4238739912b24d12f",
+      "zh": "事实是，迈克和我谈过。他是个很棒的人，史上最出色的人之一。他决定，是时候关注其他优先事项，为家人留下一份遗产。当然，妮基很棒，我们很高兴她加入团队。",
+      "keys": [
+        "2020_Trump_Haley/answers_json/6211@96/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

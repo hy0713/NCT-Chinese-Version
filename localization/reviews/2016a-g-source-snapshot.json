@@ -1,0 +1,248 @@
+[
+  {
+    "source": "For all of the hype, pundits agree that nothing seemed to happen in these debates that will affect the race.",
+    "zh": "尽管炒作铺天盖地，评论人士一致认为，这些辩论中没有发生足以影响选情的事情。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2161@50/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2161@41/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2161@48/answer_feedback"
+    ]
+  },
+  {
+    "source": "Unfortunately, Clinton seemed to get the best of you on a number of points during the debates.",
+    "zh": "不幸的是，克林顿在辩论中似乎在很多观点上都胜过了你们。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2162@51/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2162@42/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2162@49/answer_feedback"
+    ]
+  },
+  {
+    "source": "After months of denials from liberal pundits, the Clinton email scandal does seem like it will have significant consequences on this election.",
+    "zh": "经过自由派专家几个月的否认后，克林顿电子邮件丑闻似乎确实会对这次选举产生重大影响。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2168@52/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems remarkably hands-off for what appears to be a major scandal in the Clinton camp.",
+    "zh": "对于克林顿阵营中的重大丑闻来说，这似乎是非常不干涉的。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2169@53/answer_feedback"
+    ]
+  },
+  {
+    "source": "If you're going to win, you need to make a few new friends ... or dampen enthusiasm for Hillary.",
+    "zh": "如果你想获胜，你需要结交一些新朋友……或者削弱对希拉里的热情。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2224@68/answer_feedback",
+      "2016a_Trump_Brown/answer_feedback_json/2225@69/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2224@59/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2225@60/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2224@69/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2225@70/answer_feedback"
+    ]
+  },
+  {
+    "source": "You're certainly raising eyebrows, but there's a grain of truth to what you're saying.",
+    "zh": "你确实令人惊讶，但你所说的有一定道理。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2226@70/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2226@61/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2226@71/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many voters, women in particular, are deeply offended by your unsubstantiated insinuations.",
+    "zh": "许多选民，特别是女性选民，对你未经证实的暗示感到深深的冒犯。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2233@71/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2233@62/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2233@72/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are specializing in gutter politics this year, although some have to uncomfortably admit that this might not be completely out of Bill's wheelhouse.",
+    "zh": "今年你专注于阴沟政治，尽管有些人不得不不安地承认这可能并不完全超出了比尔的掌控范围。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2234@72/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2234@63/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2234@73/answer_feedback"
+    ]
+  },
+  {
+    "source": "Sure enough, the mudslinging tone of your campaign continues.",
+    "zh": "果然，你的竞选活动的诽谤语气仍在继续。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2236@73/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2236@64/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2236@74/answer_feedback"
+    ]
+  },
+  {
+    "source": "A few voters, women in particular, are offended by your insinuations. Others are just confused, or have learned to tune out your attacks.",
+    "zh": "一些选民，尤其是女性选民，被你的暗示所冒犯。其他人只是感到困惑，或者已经学会了忽略你的攻击。",
+    "keys": [
+      "2016a_Trump_Brown/answer_feedback_json/2235@74/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2235@65/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2235@75/answer_feedback"
+    ]
+  },
+  {
+    "source": "What was your rationale behind selecting Chris Christie as your running mate?",
+    "zh": "您选择克里斯·克里斯蒂作为竞选搭档的理由是什么？",
+    "keys": [
+      "2016_Trump_Christie/questions_json/1004@3/description",
+      "2016a_Trump_Christie/questions_json/776@1/description"
+    ]
+  },
+  {
+    "source": "Beginning in July, the Dow Jones Industrial Average entered an extremely bearish stretch, based on news out of China, losing over 25% of its value by October. A recession seems likely. Will you address this as you campaign?",
+    "zh": "根据来自中国的消息，从 7 月开始，道琼斯工业平均指数进入极度看跌区间，到 10 月市值已下跌超过 25%。经济衰退似乎是有可能的。您会在竞选时解决这个问题吗？",
+    "keys": [
+      "2016a_Trump_Christie/questions_json/781@4/description",
+      "2016a_Trump_Carson/questions_json/781@2/description"
+    ]
+  },
+  {
+    "source": "Should Mitt Romney be given a speaking slot at the Republican Convention this year, given the tension between you two?",
+    "zh": "鉴于你们两人之间的紧张关系，米特·罗姆尼应该在今年的共和党大会上获得发言机会吗？",
+    "keys": [
+      "2016_Trump_Carson/questions_json/1019@4/description",
+      "2016a_Trump_Christie/questions_json/766@14/description"
+    ]
+  },
+  {
+    "source": "How concerned are you about the $17 trillion debt that the United States currently owes?",
+    "zh": "您对美国目前所欠的 17 万亿美元债务有多担心？",
+    "keys": [
+      "2016_Clinton_Brown/questions_json/1062@10/description",
+      "2016a_Trump_Christie/questions_json/826@21/description"
+    ]
+  },
+  {
+    "source": "Absolutely not. I don't want him anywhere near the convention. He was a loser in 2012 and he'd lose again if we were crazy enough to give him the nomination.",
+    "zh": "绝对不是。我不希望他出现在大会附近的任何地方。 2012 年他是个失败者，如果我们疯狂到给他提名的话，他还会再次失败。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4549@24/description"
+    ]
+  },
+  {
+    "source": "If Romney is willing to endorse me and give a speech supporting me, we can let him into the convention hall.",
+    "zh": "如果罗姆尼愿意支持我并发表支持我的演讲，我们可以让他进入会议厅。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4550@25/description"
+    ]
+  },
+  {
+    "source": "Chris Christie has walked the walk as Governor of New Jersey. I'm going to work with the best people as President.",
+    "zh": "克里斯·克里斯蒂已经作为新泽西州的州长履行了职责。作为总统，我将与最优秀的人一起工作。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4573@40/description"
+    ]
+  },
+  {
+    "source": "America has been undermined for years now. I've been warning about trade with China this entire time, that Clinton and Obama have been signing off on. We have very stupid people in government.",
+    "zh": "这些年来，美国一直受到损害。我从头到尾都在警告与中国的贸易问题，而克林顿和奥巴马一直在为此开绿灯。我们政府里有一些蠢得不得了的人。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4580@41/description",
+      "2016a_Trump_Carson/answers_json/4580@39/description"
+    ]
+  },
+  {
+    "source": "We're going to be having huge infrastructure projects to rebuild our country. We can't be dependent on China to power our economy or it will be a disaster.",
+    "zh": "我们将进行大型基础设施项目来重建我们的国家。我们不能依赖中国来为我们的经济提供动力，否则这将是一场灾难。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4581@42/description",
+      "2016a_Trump_Carson/answers_json/4581@40/description"
+    ]
+  },
+  {
+    "source": "This entire case is a farce from start to finish. It's a minor civil case.",
+    "zh": "整个案件从头到尾都是一场闹剧。这是一起小民事案件。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4586@43/description"
+    ]
+  },
+  {
+    "source": "I've apologized for my role in this university already, and I will again today.",
+    "zh": "我已经为我在这所大学所扮演的角色道歉了，今天我也会再次道歉。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4587@44/description"
+    ]
+  },
+  {
+    "source": "This is absolutely obscene, and it's not going to keep growing when I am President.",
+    "zh": "这绝对是淫秽的，当我担任总统时，它不会继续增长。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4696@55/description"
+    ]
+  },
+  {
+    "source": "Barack Obama has reduced the deficit of this country by over half since his first year in office, and I will do anything I can to continue his policies.",
+    "zh": "贝拉克·奥巴马自他上任第一年以来已将这个国家的赤字减少了一半以上，我将尽一切努力继续他的政策。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4697@56/description"
+    ]
+  },
+  {
+    "source": "I will increase taxes on wealthy Americans to stabilize the federal budget and reduce our debt.",
+    "zh": "我将增加对富有的美国人的税收，以稳定联邦预算并减少我们的债务。",
+    "keys": [
+      "2016a_Trump_Christie/answers_json/4698@57/description"
+    ]
+  },
+  {
+    "source": "This is factually true, although the deficit and debt remain very high.",
+    "zh": "这确实是事实，尽管赤字和债务仍然很高。",
+    "keys": [
+      "2016a_Trump_Christie/answer_feedback_json/2070@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Now it looks as through you're shutting Romney out, which makes you look isolated, etc. and makes Mormons mad.",
+    "zh": "现在看起来你把罗姆尼拒之门外，这让你看起来很孤立，等等，让摩门教徒生气。",
+    "keys": [
+      "2016a_Trump_Christie/answer_feedback_json/2146@30/answer_feedback"
+    ]
+  },
+  {
+    "source": "Probably best to avoid yet another controversy involving Romney.",
+    "zh": "可能最好避免涉及罗姆尼的另一场争议。",
+    "keys": [
+      "2016a_Trump_Christie/answer_feedback_json/2147@31/answer_feedback"
+    ]
+  },
+  {
+    "source": "People have been saying all along that a recession would make Clinton's chances harder, since Democrats would be somewhat incriminated.",
+    "zh": "人们一直在说经济衰退会让克林顿的机会更加困难，因为民主党会受到一定程度的牵连。",
+    "keys": [
+      "2016a_Trump_Christie/answer_feedback_json/2166@43/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2167@44/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2166@50/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2167@51/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is an unexpected area for you to praise Obama in.",
+    "zh": "这是一个意想不到的值得你称赞的领域奥巴马。",
+    "keys": [
+      "2016a_Trump_Christie/answer_feedback_json/2205@52/answer_feedback"
+    ]
+  },
+  {
+    "source": "What was your rationale behind selecting Ben Carson as your running mate?",
+    "zh": "您选择本·卡森作为竞选搭档的理由是什么？",
+    "keys": [
+      "2016_Trump_Carson/questions_json/1003@3/description",
+      "2016a_Trump_Carson/questions_json/775@1/description"
+    ]
+  },
+  {
+    "source": "Ben Carson knows just how badly Clinton and Obama have failed the black community. Not to mention, he's a very patriotic, conservative figure who is more than qualified to be my Vice President.",
+    "zh": "本·卡森知道克林顿和奥巴马让黑人社区感到多么失望。更不用说，他是一个非常爱国、保守的人物，完全有资格担任我的副总统。",
+    "keys": [
+      "2016a_Trump_Carson/answers_json/4572@38/description"
+    ]
+  }
+]

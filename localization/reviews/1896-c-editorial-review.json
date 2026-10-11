@@ -1,0 +1,1026 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1896-c",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 261,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 15,
+      "reason": "Original gives 1894 for repeal of the Sherman Silver Purchase Act; retain original date in prose and explain the documented 1893 repeal in an adjacent note."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "You have stuck to the party line on this issue.",
+      "sha256": "b65fa11cafa3c482417bd3f2adcaaf25b2662194de4c694665768b6889f976d4",
+      "zh": "在这个问题上，你坚持了本党的路线。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/605@45/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/605@48/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/605@47/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/605@48/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/605@51/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/605@53/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/605@49/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/605@50/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/605@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "I see what you're doing, and I like it. It might not be a bad thing to compromise on some issues outside of silver coinage.",
+      "sha256": "7aaafe36de0cbff5532c45c93c353da2f8acf49bd5da865d8c603afd2ea3ae14",
+      "zh": "我明白你的用意，而且很赞同。在白银铸币以外的某些问题上作些妥协，未必是坏事。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/606@46/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/606@49/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/606@48/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/606@49/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/606@52/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/606@54/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/606@50/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/606@51/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/606@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "You have drifted a little far from your core beliefs here. Farmers are upset with you.",
+      "sha256": "69db2eb8fadf99779681226cddbabac47efb0a2ef5fb12abd772743b21723c70",
+      "zh": "你在这里偏离自己的核心信念有点远了。农民们很不满意。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/607@47/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/607@50/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/607@49/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/607@50/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/607@53/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/607@55/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/607@51/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/607@52/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/607@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "Boos and hisses from the audience! This is what the 'Boy Orator of the Platte' came to talk about?!",
+      "sha256": "a422dbe78d216501c0d445979f55befe93e905d767800138f6fc31066b220bb8",
+      "zh": "听众一片嘘声！“普拉特河的少年演说家”来这里，就是要说这些？！",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/608@48/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/608@51/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/608@50/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/608@51/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/608@54/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/608@56/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/608@52/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/608@53/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/608@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "One of your favorite lines -- and a favorite of your supporters also.",
+      "sha256": "c54ac041c87bbefda2654193f4ff5f37ec8dfd07d734062a551eacdf37cf2407",
+      "zh": "这是你最爱说的话之一，你的支持者也很喜欢。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/609@49/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/609@52/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/609@51/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/609@52/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/609@55/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/609@57/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/609@53/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/609@54/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/609@62/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "You have aligned yourself with Coxey and his army. We'll see how that turns out.",
+      "sha256": "782f2278ef2b1ca249ec0f1171e3a9faf2e0ba09b36e6fe91e5e0212984c043f",
+      "zh": "你站到了考克西和他的队伍那一边。结果如何，就等着看吧。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/610@50/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/610@53/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/610@52/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/610@53/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/610@56/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/610@58/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/610@54/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/610@55/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/610@63/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "What? You're supposed to be a man of the people, not of the trusts.",
+      "sha256": "d4ab707593d551a7d77e88e86cc0baea7fce0d7cc8dcf9090c0ff83011c1543b",
+      "zh": "什么？你不是该代表人民吗，怎么倒成了托拉斯的代言人？",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/612@52/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/612@55/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/612@54/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/612@55/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/612@58/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/612@60/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/612@56/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/612@57/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/612@65/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "This view is a little out of the mainstream, but not that much.",
+      "sha256": "7cb7a0006acd763eff4187bc05f832165f9477ce924cef852fc2842acec39911",
+      "zh": "这个观点稍稍偏离主流，但也没有偏得太远。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/614@54/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/614@57/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/614@56/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/614@57/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/614@60/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/614@62/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/614@58/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/614@59/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/614@67/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "Are you taking the side of Grover Cleveland over that of hard-working American railroad men?",
+      "sha256": "a4802f2bf2c7a02bba0bde4cdc35e9900ea16fb9a608988600be91ddf59e2e1e",
+      "zh": "你是在站到格罗弗·克利夫兰那边，反对辛勤劳动的美国铁路工人吗？",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/615@55/answer_feedback",
+        "1896_McKinley_Hobart/answer_feedback_json/616@56/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/615@58/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/616@59/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/615@57/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/616@58/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/615@58/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/616@59/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/615@61/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/616@62/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/615@63/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/616@64/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/615@59/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/616@60/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/615@60/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/616@61/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/615@68/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/616@69/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "This is another case where your earnest Christian beliefs might be better left unstated.",
+      "sha256": "f094badf23fab3cf644f2e01b4e0d4195cec43503dcf22311abd23f18ce20a9e",
+      "zh": "这又是一个最好把你虔诚的基督教信念留在心里的场合。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/617@57/answer_feedback",
+        "1896_McKinley_Reed/answer_feedback_json/617@60/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/617@59/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/617@60/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/617@63/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/617@65/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/617@61/answer_feedback",
+        "1896_Bryan_Boies/answer_feedback_json/617@62/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/617@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "You cannot close Pandora's Box. Fifteen percent of Americans were born abroad and they will not abide by this rhetoric.",
+      "sha256": "d6a78b126585c86eb11ad52a862d29c75d77bfa181c251196bc355a941bbdb0c",
+      "zh": "打开潘多拉魔盒，就关不上了。15%的美国人出生于海外，他们不会容忍这种言辞。",
+      "keys": [
+        "1896_McKinley_Hobart/answer_feedback_json/633@63/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/633@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "What is your interpretation of the antitrust statutes? Do large American business profit from monopolistic practices?",
+      "sha256": "e353b4382e1766f33353b1325c18795eeb5db442fe81e007c94937762d95cc1d",
+      "zh": "你如何解释反托拉斯法律？美国大企业是否从垄断行为中获利？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/206@12/description",
+        "1896_McKinley_Gage/questions_json/206@14/description",
+        "1896_Bryan_Matthews/questions_json/206@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "John Palmer, a Gold Democrat, is also running against Bryan. He has offered to remove his name from the ballot on the East and West Coast if you will do the same in the South. He argues that this will consolidate the anti-Bryan vote. What do you think?",
+      "sha256": "96984268a704d66492da4662c3d4d3a8f45577c6bb7a7ae2560a7787ade0b09a",
+      "zh": "支持金本位的民主党人约翰·帕尔默也在与布赖恩竞争。他提议：如果你把自己的名字从南方各州的选票上撤下，他就退出东西海岸的竞选。他认为，这能整合反布赖恩的选票。你怎么看？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/171@14/description",
+        "1896_McKinley_Gage/questions_json/171@19/description",
+        "1896_Bryan_Teller/questions_json/171@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "Is it generally appropriate for federal courts to issue injunctions against striking unions?",
+      "sha256": "5a2fa9d4a3f7ad42e288f2fb2b90d87bb738dc6bd4e9ed10d602a568fc36c3cb",
+      "zh": "一般而言，联邦法院针对罢工工会发布禁令，是否恰当？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/250@15/description",
+        "1896_McKinley_Quay/questions_json/250@19/description",
+        "1896_Bryan_Sewall/questions_json/250@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "Do you think that there should be federal oversight of the New York and Chicago trading markets?",
+      "sha256": "1ace5576ea7600a75d8e4a4c1192604c3127d7c271b2cd4f9f967985590d45ef",
+      "zh": "你认为，应当由联邦政府监管纽约和芝加哥的交易市场吗？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/237@16/description",
+        "1896_McKinley_Quay/questions_json/237@15/description",
+        "1896_Bryan_Sewall/questions_json/237@11/description",
+        "1896_Bryan_Stevenson/questions_json/237@22/description",
+        "1896_Bryan_Teller/questions_json/237@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "Grover Cleveland led the push to repeal the Sherman Silver Purchase Act in 1894. What are your thoughts on his actions during that period?",
+      "sha256": "cf5066d9c63835baada01e794b59f6b470f099efb93d7bd9fce6e0f1fbb22e57",
+      "zh": "格罗弗·克利夫兰在1894年牵头推动废除《谢尔曼白银购买法》。你如何评价他在那段时期的行动？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/198@17/description",
+        "1896_McKinley_Quay/questions_json/198@12/description",
+        "1896_McKinley_Gage/questions_json/198@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Some labor leaders have called for regulation standardizing a ten or even an eight hour workday. Do you support these calls?",
+      "sha256": "071653e7b7429bab263b6987ab92b96c254cb988d30f9ce0fb823c9ba76a99c5",
+      "zh": "一些工会领袖要求立法统一规定十小时，甚至八小时工作制。你支持这些要求吗？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/220@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "The Wilson-Gorman Tariff Act of 1894 lowered the rates on many goods, while still falling well short of Cleveland's ideal levels. What do you think about this act as a whole?",
+      "sha256": "fb5709203b2bf0031a22370d01d7b446fdc7293a7eb8f82a7f781abdf56d01aa",
+      "zh": "1894年的《威尔逊—戈尔曼关税法》降低了许多商品的税率，但与克利夫兰理想的水平仍相差甚远。总体上，你如何评价这部法律？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/202@19/description",
+        "1896_McKinley_Quay/questions_json/202@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "In general, is the Supreme Court too obstructionist in their rulings on economic issues? Would you appoint judges who would bring a new perspective to these issues?",
+      "sha256": "b7e8dfe9d63230b64f844b75b3b8be818470cc1867d3f1827aa0bace48fb95c3",
+      "zh": "总体而言，最高法院在经济问题上的裁决，是否过于阻碍改革？你会任命能为这些问题带来新视角的法官吗？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/232@20/description",
+        "1896_Bryan_Stevenson/questions_json/232@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Would you support a program to compensate workers who are injured on the job? Is this a proper responsibility of the federal government?",
+      "sha256": "0bedbb7d6a36a8e8ac62babad6678b8143778ae9874f5c2480a40be9c588ee1c",
+      "zh": "你会支持一项赔偿工伤工人的计划吗？这属于联邦政府应当承担的职责吗？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/219@21/description",
+        "1896_Bryan_Matthews/questions_json/219@20/description",
+        "1896_Bryan_Teller/questions_json/219@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "What do you have to say about William Jennings Bryan's campaign, at a high level?",
+      "sha256": "9a55adb230dee9b58d820f8c7992588fbbd7b889cc5a9a244f7ac82777698f8f",
+      "zh": "总体上，你对威廉·詹宁斯·布赖恩的竞选有什么评论？",
+      "keys": [
+        "1896_McKinley_Reed/questions_json/169@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Bryan combines vague, non-sensical appeals to emotion with a near-blasphemous use of religious symbolism. I'm confident that the voters will reject this demagogue.",
+      "sha256": "573e3e465c2d81a98718bbda5399479b157016089e142c45d70bda13b4b78357",
+      "zh": "布赖恩以模糊、荒谬的言辞煽动情绪，还使用近乎亵渎神明的宗教象征。我相信，选民会拒绝这个蛊惑人心的政客。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1365@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Free coinage of silver will debase our currency and make a mockery of us to the rest of the world.",
+      "sha256": "ba083d2c412e9a326c74fea6eb6478c4f669c363ea3d3e8778a9ea5bf537de9b",
+      "zh": "白银自由铸币会使我们的货币贬值，让我们沦为世界的笑柄。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1366@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "William Jennings Bryan is a devout, honest man. It's unfortunate that he proposes such misguided policies.",
+      "sha256": "ba5e2d6b47d873c242d73e17265de70510f96a75a715074fcf343a84ed017d42",
+      "zh": "威廉·詹宁斯·布赖恩是个虔诚、诚实的人。可惜，他提出的政策如此误入歧途。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1367@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Our campaign is much better positioned to address the concerns of ordinary Americans than Bryan's. He is overly focused on the silver issue.",
+      "sha256": "e88f9b6f335cc182c1d12571e76878d4f36bcdf1131cdf6ba016c567394baf5c",
+      "zh": "与布赖恩相比，我们的竞选更能回应普通美国人的关切。他太执着于白银问题了。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1368@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Absolutely not. Can you imagine how it would look if we removed ourselves from the ticket in any state? And for an old man like Palmer?",
+      "sha256": "070fa76460223d9393d50cc29f3635eccced2972a14deed6ec3b7a53d9ba30e4",
+      "zh": "绝不！你能想象，我们在任何一个州退出竞选，会让人怎么看吗？而且，还是为帕尔默这样的老人让路？",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1372@18/description",
+        "1896_McKinley_Gage/answers_json/1372@19/description",
+        "1896_Bryan_Teller/answers_json/1372@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "If Palmer will remove himself from the ballot in Kentucky, Indiana, West Virginia, Maryland, and Delaware, then I will give him free reign in the Deep South.",
+      "sha256": "c0ce77533aa1bc9b4bf88cf5844daa261bcdd5d8efafc79c86f2d4015f0ac8ed",
+      "zh": "如果帕尔默退出肯塔基、印第安纳、西弗吉尼亚、马里兰和特拉华，我就让他在深南部放手竞选。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1373@19/description",
+        "1896_McKinley_Gage/answers_json/1373@20/description",
+        "1896_Bryan_Teller/answers_json/1373@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "I hope Palmer will see fit to remove himself unilaterally from the most hotly contested border states. His is purely a protest candidacy however, and I cannot remove myself from a ballot on his behalf without looking like a buffoon.",
+      "sha256": "90a655cccb2ca2eb3aa8b43d827b3894b6460fd5c7665e3a71992df89aeee54e",
+      "zh": "我希望帕尔默能自行决定，退出竞争最激烈的边界州。不过，他参选纯粹是为了表达抗议；我不能为了他从选票上撤名，否则就像个傻瓜。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1374@20/description",
+        "1896_McKinley_Gage/answers_json/1374@21/description",
+        "1896_Bryan_Teller/answers_json/1374@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "I am willing to make an expansive deal with Palmer. He may remain on the ballot in Illinois, but must remove himself completely from the other northern states. In turn I will give him free reign in the entire South.",
+      "sha256": "d288464793639428fcb600bdac5fbf1b9e209ed5e3cee773b5363c86083c8fcc",
+      "zh": "我愿意与帕尔默达成一项范围广泛的协议。他可以留在伊利诺伊的选票上，但必须完全退出其他北方州的竞选。作为交换，我会让他在整个南方放手竞选。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1375@21/description",
+        "1896_McKinley_Gage/answers_json/1375@22/description",
+        "1896_Bryan_Teller/answers_json/1375@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "I support the coinage of silver, and this action was a step in the wrong direction. It took money out of the system when we needed it the most, and is partly to blame for the depth of our current downturn.",
+      "sha256": "368ff58130cdd31c96565d67f191f12b7aa7fb91da6112a4cf3a80b4ce0385f9",
+      "zh": "我支持白银铸币，这个举动是倒退。我们最需要货币的时候，它却抽走了货币，也是当前萧条如此严重的部分原因。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1481@57/description",
+        "1896_McKinley_Quay/answers_json/1481@73/description",
+        "1896_McKinley_Gage/answers_json/1481@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "Unfortunately the Treasury was bankrupt. I do think that Cleveland approached this in the usual heavy-handed, abrasive manner, but he was absolutely in the right. This whole episode demonstrates the folly of silver coinage.",
+      "sha256": "ee4d48b9f7f315991c114828c33d1257d471df7176b29a233d0de9b652b6788c",
+      "zh": "遗憾的是，国库已经破产。我确实认为，克利夫兰处理此事时，一如既往地强硬而粗暴，但他完全做对了。这整件事证明，白银铸币有多愚蠢。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1482@58/description",
+        "1896_McKinley_Quay/answers_json/1482@74/description",
+        "1896_McKinley_Gage/answers_json/1482@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "We can criticize Cleveland for a lot of things, but his repeal of the Silver Purchase Act is not one of them. I supported Cleveland all the way in the repeal debate.",
+      "sha256": "3ca8a3b75b1053261f189c8b3f69b083a914afd56f2e1eba7aa75c705c9b4d74",
+      "zh": "克利夫兰有很多值得批评的地方，但废除《白银购买法》不在其中。在废法争论中，我始终支持他。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1483@59/description",
+        "1896_McKinley_Quay/answers_json/1483@75/description",
+        "1896_McKinley_Gage/answers_json/1483@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "We would also like to move a little more in the direction of lower tariffs, but overall this is a good law.",
+      "sha256": "95665ad638564fd22852a911a1ebf84ea0ccf316ffe23e18e26106dc66bb2482",
+      "zh": "我们也希望进一步降低关税，但总的来说，这是一部不错的法律。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1494@60/description",
+        "1896_McKinley_Quay/answers_json/1494@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "I am disappointed with the half measures taken in this act. If Senators were directly elected by the people, they would be less beholden to the types of financial interests who wrote their own tariffs into this law. ",
+      "sha256": "48a5f79dacbd84524d7372254c36875225dbcd08559c3fc7845bb2fb0a595de9",
+      "zh": "这部法律只采取了半吊子措施，让我很失望。如果联邦参议员由人民直接选举，就不会如此受制于那些把自己的关税要求写进法律的金融利益集团。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1495@61/description",
+        "1896_McKinley_Quay/answers_json/1495@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "This act was the result of countless hours of compromise and negotiations. It's time we closed this issue and stopped changing our entire tariff system every time a new Administration takes over.",
+      "sha256": "3260cbb3cc2994f6a8d5bccaa7512863e30e452e09235466f8b8f428227e8b34",
+      "zh": "这部法律经过了无数小时的妥协与协商。该让这个问题告一段落了，别再每换一届政府，就把整套关税制度改上一遍。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1496@62/description",
+        "1896_McKinley_Quay/answers_json/1496@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "My first action as President will be to reinstate higher tariffs. This is an American policy that supports American factories and American workers.",
+      "sha256": "88618be6eeeb13e83179922a1580c9275b5c5683d8411aaf571db54b3cf67cf6",
+      "zh": "我当上总统后的第一件事，就是恢复较高的关税。这是支持美国工厂、美国工人的美国政策。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1497@63/description",
+        "1896_McKinley_Quay/answers_json/1497@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "When I am President, you will finally have someone who takes our antitrust legislation seriously. I will break up monopolistic banks and railroads in places where they stifle competition.",
+      "sha256": "3d9e00292cb6218779166d636a70a233455bdce30fbbbccf77a8eb34478c9456",
+      "zh": "我当上总统后，你们终于会有一个认真执行反托拉斯法律的人。在垄断银行和铁路公司扼杀竞争的地方，我会拆分它们。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1507@64/description",
+        "1896_McKinley_Gage/answers_json/1507@71/description",
+        "1896_Bryan_Matthews/answers_json/1507@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "I take a very narrow view of the term \"monopoly\". There is a need for these statutes but they open up a lot of danger for political witch hunts.",
+      "sha256": "a98b7743eeb2c233edaa1a1e48e89e2e2136207742ba07ca3597afdcb253606e",
+      "zh": "我对“垄断”采取非常狭义的解释。这些法律确有必要，但也容易被用来发动政治迫害。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1508@65/description",
+        "1896_McKinley_Gage/answers_json/1508@72/description",
+        "1896_Bryan_Matthews/answers_json/1508@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "I favor a hands-off approach to the economy. The federal government has no business stepping in and breaking a company into pieces.",
+      "sha256": "f53c501b3dbab9f8a94b9e93b30ea65a77035a01f105d69b2091670654a8aa94",
+      "zh": "我主张不干预经济。联邦政府没有理由插手，把一家企业拆成碎片。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1509@66/description",
+        "1896_McKinley_Gage/answers_json/1509@73/description",
+        "1896_Bryan_Matthews/answers_json/1509@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "We absolutely need a federal program for this purpose. The Bible says that we must love all people -- even those who have been cast aside by our Darwinian industrial machinery.",
+      "sha256": "9a0909576112a2aab54ed1c8a6608171bee98f627edcf9f7c8a157a0fd29e540",
+      "zh": "我们绝对需要一个联邦计划来做这件事。《圣经》教导我们，应当爱所有人——包括那些被我们达尔文式的工业机器淘汰的人。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1545@71/description",
+        "1896_Bryan_Matthews/answers_json/1545@57/description",
+        "1896_Bryan_Teller/answers_json/1545@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "This is more properly a state responsibility. It is outside the scope of the federal government to regulate working conditions in this manner.",
+      "sha256": "9a599e348d7816b82e3e6331be9f4c7b849cfdb3d217b5c75944036006feb341",
+      "zh": "这更应当由州政府负责。以这种方式规范劳动条件，超出了联邦政府的权限。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1546@72/description",
+        "1896_Bryan_Matthews/answers_json/1546@58/description",
+        "1896_Bryan_Teller/answers_json/1546@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "It is the responsibility of the worker to put aside such funds as are necessary to protect them from these events. This is why we have mutual aid societies in place.",
+      "sha256": "c73f0c0fa40527fb3ffddae33a4851033a5ad3caebdf176467d60ffa77bb9f1a",
+      "zh": "工人有责任自行储备必要的资金，防范这类遭遇。我们设立互助会，就是为此。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1547@73/description",
+        "1896_Bryan_Matthews/answers_json/1547@59/description",
+        "1896_Bryan_Teller/answers_json/1547@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Not only would this greatly improve working conditions for Americans, it would increase employment by spreading our working hours amongst more people.",
+      "sha256": "e13410895151850f16409c689377ae3ea22e4932bbe15f86a577ecfe32a0c83f",
+      "zh": "这不但能大幅改善美国人的劳动条件，还能把工作时数分给更多人，从而增加就业。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1548@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "I am a strong supporter of labor, but I also think that working hour restrictions are more appropriate for women and children than for grown men.",
+      "sha256": "9f3edd56a71a013a37d6c3b14a6811110f907fde43efda67bf44a19d6d5eb43d",
+      "zh": "我坚定支持劳工，但也认为，限制工作时间更适用于妇女和儿童，而不是成年男子。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1549@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "I do not see the authority for regulating this under the Commerce Clause of the Constitution. This is something that individual states would need to investigate.",
+      "sha256": "54db07caabdd0664606def64468ca178468e76431a25866125c7f636165288d4",
+      "zh": "我看不出，宪法的商业条款授予了监管此事的权力。这个问题需要由各州自行研究。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1550@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "I don't believe that outside parties should regulate the working arrangements between a man and his employer.",
+      "sha256": "d08026c3e91de24748ac6828e3b003b2d080c115982b4f399eaf4153ad815147",
+      "zh": "我不认为，外人应当干预个人与雇主之间的工作安排。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1551@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "If we could manage it, I would increase the number of justices on the Court so that we can dissipate the influence of the reactionaries presently in control there.",
+      "sha256": "2d29fab26c640b6a4475a1f6b23eb8751bcb68bf6f4aca23c4ad310f31de90bf",
+      "zh": "如果办得到，我会增加最高法院的大法官人数，削弱目前掌控法院的反动派的影响。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1586@78/description",
+        "1896_Bryan_Stevenson/answers_json/1586@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "Absolutely. I will appoint sensible, assertive judges as President. The purpose of the Court is not to simply overturn half of the laws passed by Congress, on picayune Constitutional objections.",
+      "sha256": "b285cde15c3e006427b4737ea9a3ebe57ceec990fdda5732f1b522b12f8d1b10",
+      "zh": "当然。我当上总统后，会任命明智而积极有为的法官。法院的职责，不是凭着琐碎的违宪异议，就把国会通过的法律推翻一半。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1587@79/description",
+        "1896_Bryan_Stevenson/answers_json/1587@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "It is not my place as a politician, running for a position in the Executive Branch, to comment on the performance of the Court.",
+      "sha256": "abf1db157015cbad88eeeeb284ac1aecae10abc914c74e148713b9af45507f4a",
+      "zh": "我作为竞选行政职位的政治人物，不宜评论法院的表现。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1588@80/description",
+        "1896_Bryan_Stevenson/answers_json/1588@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "The poor man is called a socialist if he believes that the wealth of the rich should be divided among the poor, but the rich man is called a financier if he devises a plan by which the pittance of the poor can be converted to his use.",
+      "sha256": "9202d6f43d604172b6267c54f8900f324b1959405811eb76b3c7f502592698c2",
+      "zh": "穷人认为应该把富人的财富分给穷人，就被称为社会主义者；富人设计一个办法，把穷人仅有的一点钱挪为己用，却被称为金融家。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1602@81/description",
+        "1896_McKinley_Quay/answers_json/1602@83/description",
+        "1896_Bryan_Sewall/answers_json/1602@62/description",
+        "1896_Bryan_Stevenson/answers_json/1602@62/description",
+        "1896_Bryan_Teller/answers_json/1602@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "It was stock market and railroad company chicanery which caused the Panic of 1893. Sensible regulation of this process could have saved us all a lot of trouble.",
+      "sha256": "a65bc8b730844bb3dd3f07c741177d70458ae4451885554e6609ba207ae7136a",
+      "zh": "正是股票市场和铁路公司的欺诈，造成了1893年恐慌。如果合理监管这些活动，我们本可以少受许多苦。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1603@82/description",
+        "1896_McKinley_Quay/answers_json/1603@84/description",
+        "1896_Bryan_Sewall/answers_json/1603@63/description",
+        "1896_Bryan_Stevenson/answers_json/1603@63/description",
+        "1896_Bryan_Teller/answers_json/1603@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "The New York Stock Exchange is a private company providing liquidity to other companies. The last thing our fragile economy needs is some hare-brained intervention in this process.",
+      "sha256": "068d7e0989cebae689e850972d7d306ba819a66a82446beefdbd774b99566e46",
+      "zh": "纽约证券交易所是一家私人企业，为其他企业提供流动性。我们脆弱的经济，最不需要的就是对这个过程横加一些荒唐的干预。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1604@83/description",
+        "1896_McKinley_Quay/answers_json/1604@85/description",
+        "1896_Bryan_Sewall/answers_json/1604@64/description",
+        "1896_Bryan_Stevenson/answers_json/1604@64/description",
+        "1896_Bryan_Teller/answers_json/1604@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "There has already been considerable reform of the stock markets since the dangerous days of the 1860s. There's no need to take this idea any further.",
+      "sha256": "d0ce78096015be06cf5e354218866d9d085937f17bfb670dbb8a7ea86cf7c04d",
+      "zh": "自1860年代那些危险的日子以来，股票市场已经历了相当多的改革。没有必要再推进这个主意了。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1605@84/description",
+        "1896_McKinley_Quay/answers_json/1605@86/description",
+        "1896_Bryan_Sewall/answers_json/1605@65/description",
+        "1896_Bryan_Stevenson/answers_json/1605@65/description",
+        "1896_Bryan_Teller/answers_json/1605@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "The use of injunctions is a favored court tactic for union busting and it must stop. I support the right of striking workers to picket their workplace while on strike.",
+      "sha256": "8c462af26c22bbfca9e88b81e73fe768264e933f93bc583d29248ea9dd360200",
+      "zh": "法院喜欢用禁令来打击工会，这种做法必须停止。我支持罢工工人在罢工期间，到工作场所设置纠察线的权利。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1645@87/description",
+        "1896_McKinley_Quay/answers_json/1645@94/description",
+        "1896_Bryan_Sewall/answers_json/1645@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "Maybe in limited cases, where unions are a threat to public safety or where they undermine an essential industry. The courts are notoriously conservative, however, and definitely take this practice too far.",
+      "sha256": "06f8c36a28e4d9865a0b203dd861f1e78fcbb69a4de3a2eea26fe70e2ae45a5f",
+      "zh": "在少数情况下，也许可以，比如工会威胁公共安全，或破坏关键行业。不过，法院向来以保守著称，运用这种办法时肯定走得太远了。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1646@88/description",
+        "1896_McKinley_Quay/answers_json/1646@95/description",
+        "1896_Bryan_Sewall/answers_json/1646@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "The Pullman Strike of 1894 disrupted half of the nation's rail traffic and threatened to throw our society into complete turmoil. A small group of radicals should never have the power to disrupt the lives of millions.",
+      "sha256": "958c54e1ee11f1f9b5b2b5d4213078fdf7b3161cbf9b18e32dd565587dca0d19",
+      "zh": "1894年普尔曼大罢工扰乱了全国一半的铁路运输，险些让社会陷入彻底混乱。绝不能让一小撮激进分子有权打乱数百万人的生活。",
+      "keys": [
+        "1896_McKinley_Reed/answers_json/1647@89/description",
+        "1896_McKinley_Quay/answers_json/1647@96/description",
+        "1896_Bryan_Sewall/answers_json/1647@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "You have echoed the concern of many immigrants and moderates that Bryan is a religious fundamentalist.",
+      "sha256": "14c7286bdea8c6b5498a9e49efca1962a61d11a06d322ca3a807bc459c5632fa",
+      "zh": "你呼应了许多移民和温和派的担忧：布赖恩是个宗教原教旨主义者。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/489@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "You should also be concerned about appearances. If you receive 0 votes in the entire South, you may well lose the national popular vote like Harrison in 1888 even while you win the election. ",
+      "sha256": "90cee2e03be92ede3341e896df51cf12b3f9c84728d565f3efaf4eb5f604835a",
+      "zh": "你也该注意观感。如果整个南方都不给你一票，即使赢下大选，你也很可能像1888年的哈里森一样，在全国普选票中落败。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/491@9/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/491@8/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/491@0/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "This is a limited compromise. Palmer of course is an old man who will lose all of the states you conceded him, but every vote will count in Kentucky.",
+      "sha256": "1685384f7591d02d37479159549a24a332e531f1c864122d8873997ddb1ae7f1",
+      "zh": "这是有限的妥协。帕尔默毕竟年事已高，你让出的州他一个也赢不了；但在肯塔基，每一票都很关键。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/492@10/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/492@9/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/492@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "You may win a close state without Palmer on the ballot, but your willingness to cut this deal has the whiff of a scandal in certain quarters.",
+      "sha256": "4dae661950565b2f37d10fc193bc8478f6ce07ef797b615d38422da657d6b03c",
+      "zh": "没有帕尔默出现在选票上，你或许能赢下一个胶着的州。不过，你愿意做这笔交易，在某些人看来颇有丑闻的气味。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/493@11/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/493@10/answer_feedback",
+        "1896_Bryan_Teller/answer_feedback_json/493@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "Keep pointing out the practical problems associated with silver coinage so that Americans can make an informed decision this November.",
+      "sha256": "08d2fb1aaf6f33afc434ed50c181187bb92233a906d4609fab8189a1146447ec",
+      "zh": "继续指出白银铸币在实际运作中的问题，让美国人在今年十一月作出明智的选择。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/540@41/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/540@39/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/540@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "Frightening comments to hear from a so-called Republican!",
+      "sha256": "f013ceeb869222f5259aeb8444d316a31db56c7cbb54c045706e1ceb3813e54f",
+      "zh": "一个所谓的共和党人，说出这种话，真让人害怕！",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/543@42/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/543@41/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/543@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "Businessmen are confused about your apparent disregard for law and order.",
+      "sha256": "37aff5d1154307f150dc80d5ac6b9459c5efc47212eed9c4dee58da564069c14",
+      "zh": "你似乎漠视法律与秩序，这让商人们很困惑。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/562@43/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/562@41/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/562@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "It's a bit uncomfortable when you discuss the near bankruptcy of the Treasury. After all, wouldn't silver coinage just cause this same problem again?",
+      "sha256": "25fa12f0d8ed25dacc5d1fd3573fb607a3fafcaf44de60496a62b7fa7a7db91e",
+      "zh": "谈起国库濒临破产，多少令人尴尬。毕竟，白银铸币不就会再次造成同样的问题吗？",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/621@64/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/621@63/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/621@64/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "Your supporters hate the railroads, and you should fall in line with their wishes.",
+      "sha256": "ad956382f6ac0776e6e5ef2125e2c39e93dcd72ae019910b1e6050a938b2b20e",
+      "zh": "你的支持者憎恨铁路公司，你应该顺应他们的意愿。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/624@65/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/624@65/answer_feedback",
+        "1896_Bryan_Matthews/answer_feedback_json/624@65/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "Workers are hoping you would take a stronger stand on this, as the man of the people in this election.",
+      "sha256": "5f887681c2bcc7a94e7c253216c828dc2d10236c0a2134b6bf2cc93c2f17d36a",
+      "zh": "工人们希望，你作为本次选举中代表人民的候选人，能在这个问题上采取更坚定的立场。",
+      "keys": [
+        "1896_McKinley_Reed/answer_feedback_json/643@66/answer_feedback",
+        "1896_McKinley_Quay/answer_feedback_json/643@65/answer_feedback",
+        "1896_Bryan_Sewall/answer_feedback_json/643@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "Jacob Coxey's protests fell on deaf ears in 1894. With so many men out of work, is there any role for a public works program that would keep them occupied until business improves?",
+      "sha256": "27dc58879dd83249a408ba17aab27a861fcbfd96d4a3001188244aee2375363b",
+      "zh": "1894年，雅各布·考克西的抗议无人理会。如今这么多人失业，能否通过公共工程，让他们在经济好转前有些活干？",
+      "keys": [
+        "1896_McKinley_Quay/questions_json/243@13/description",
+        "1896_Bryan_Stevenson/questions_json/243@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "What do you have to say about your own Christian faith? And how does it inform your political views?",
+      "sha256": "3599cb274695142addfed73c550485daf244c7cee57b8d697563cfdcc8a9d01d",
+      "zh": "你如何说明自己的基督教信仰？它又如何影响你的政治观点？",
+      "keys": [
+        "1896_McKinley_Quay/questions_json/173@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "Do you believe that the federal government should monitor and improve important waterways in the interests of commerce, such as the Mississippi River?",
+      "sha256": "7b1738a834175ffc3bc29f7b3dde676638054585932044115c1d8feb9db7e276",
+      "zh": "你认为，联邦政府应当为了商业利益，监督并改善密西西比河等重要水道吗？",
+      "keys": [
+        "1896_McKinley_Quay/questions_json/246@17/description",
+        "1896_McKinley_Gage/questions_json/246@23/description",
+        "1896_Bryan_Stevenson/questions_json/246@16/description",
+        "1896_Bryan_Matthews/questions_json/246@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "John Rockefeller is concerned about the possible effects of the Sherman Antitrust Act, passed in 1890. It seems that certain rabble-rousers believe this law should be used to break up Standard Oil. Can you reassure him that you will take a narrow interpretation of this law in your Administration?",
+      "sha256": "51d202fb16a2898208f1e704155b8d34f583c376c735c7cf2bc5b13f25e457db",
+      "zh": "约翰·洛克菲勒担心，1890年通过的《谢尔曼反托拉斯法》会产生什么影响。似乎有些煽动者认为，应当用这部法律拆分标准石油公司。你能向他保证，执政时会狭义解释这部法律吗？",
+      "keys": [
+        "1896_McKinley_Quay/questions_json/181@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "Today it looks like it's the Milwaukee Chamber of Commerce who have made the trip to your house. Do you have something inspiring to tell them in your speech?",
+      "sha256": "27b8eaedc4d3eb1253de2c3bfb9e03f91e9358dd3d857dea24c526222b21d2c8",
+      "zh": "看来，今天来你家的是密尔沃基商会。你打算在演说中说些什么，鼓舞他们？",
+      "keys": [
+        "1896_McKinley_Quay/questions_json/187@21/description",
+        "1896_McKinley_Gage/questions_json/187@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "I feel like discussing the incredible danger that Bryan represents to our Republic.",
+      "sha256": "500524e752c8aa8e445d1fb41bf904c6b908a999e21a880767375ece06d68d3d",
+      "zh": "我想谈谈，布赖恩对我们共和国构成的巨大危险。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1433@1/description",
+        "1896_McKinley_Quay/answers_json/1440@43/description",
+        "1896_McKinley_Gage/answers_json/1433@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "I am a proud Methodist. We all pray to the same Christian God and there is no need to use divisive, radical religious rhetoric.",
+      "sha256": "f63ef0ca938ea835af1a4d1a656391e7f0434daaf2403bc320984e4667b8313e",
+      "zh": "我自豪地信奉循道宗。我们向同一位基督教上帝祈祷，没必要使用激进、制造分裂的宗教言辞。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1380@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "We all believe in God. I am just as Christian as Mr. Bryan. No more. No less.",
+      "sha256": "e0dbb42ce6e32fd71fbefbafa3d7253bf0f91e9e5011c64257c5db67898e6949",
+      "zh": "我们都信上帝。我和布赖恩先生一样，都是基督徒，不多也不少。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1381@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "My faith calls for the true equality of man. Our Constitution enshrines the ideals that each man has God-given rights which cannot be ignored by any earthly power.",
+      "sha256": "0d39d131523dd83b1aef3bec6256cb26ce2ecf90cf0950e326f0cce3a2fd4d96",
+      "zh": "我的信仰要求人类真正平等。我们的宪法确立了这些理想：每个人都有上帝赋予的权利，任何世俗权力都不能漠视。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1382@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

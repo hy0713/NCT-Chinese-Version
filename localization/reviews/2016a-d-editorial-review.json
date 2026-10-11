@@ -1,0 +1,773 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2016a-d",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 122,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 6,
+      "reason": "Original150b owed/free money description retained as attack; sanctions frozen Iranian assets vs US payment to clarify from agreement sources."
+    },
+    {
+      "index": 13,
+      "reason": "Original broad Islam-hostility assertion retained, not softened to only extremist subgroup or endorsed."
+    },
+    {
+      "index": 22,
+      "reason": "Original signifiant typo read as significant."
+    },
+    {
+      "index": 23,
+      "reason": "Original you trying missing are repaired in Chinese only."
+    },
+    {
+      "index": 30,
+      "reason": "Sugar/medicine metaphor retained; resemblance to Mary Poppins lyric not asserted as verified author intent."
+    },
+    {
+      "index": 36,
+      "reason": "London100death incident scripted hypothetical, no identification as a later historical attack."
+    },
+    {
+      "index": 37,
+      "reason": "Scripted shooting hypothetical not certified actual occurrence."
+    },
+    {
+      "index": 38,
+      "reason": "Scripted FBI indictment recommendation hypothetical, not conflated with actual2016 investigation result."
+    },
+    {
+      "index": 39,
+      "reason": "Original2002war support wording preserved; vote was authorization of military force before2003invasion, note needed."
+    },
+    {
+      "index": 48,
+      "reason": "Witch hunt political-persecution metaphor, not literal witchcraft investigation or translator legal finding."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "This is my preferred position. But unfortunately, it looks as though the courts will rule that Obama has gone too far.",
+      "sha256": "ee1768c18b2888c04c1a7147198417b29437b3428e3818d82a7b8466fa328895",
+      "zh": "这是我倾向的立场。但遗憾的是，看来法院会裁定奥巴马走得太远了。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4629@35/description",
+        "2016a_Clinton_Warren/answers_json/4629@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "We need to do something to drive turnout and keep Sanders supporters off of the sidelines. I will pledge to fight for universal health care as President.",
+      "sha256": "c5821c95a47326075fdb07c64dd963cb803c4dbf83b09102f85148da61a53d2d",
+      "zh": "我们需要做些什么，提高投票率，别让桑德斯的支持者袖手旁观。我会承诺，作为总统，争取全民医疗保障。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4630@36/description",
+        "2016a_Clinton_Brown/answers_json/4630@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "I will repeat my opinion that the goal is desirable, but impractical in our current political environment.",
+      "sha256": "06f1c67ebc2801ecd9819e6b4c8506be39d126a12793f223874e4bb95809a36b",
+      "zh": "我会重申自己的看法：这个目标值得追求，但在当前政治环境下并不现实。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4631@37/description",
+        "2016a_Clinton_Brown/answers_json/4631@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "Julian Castro is a bright, young, energetic man who will be perfectly ready to assume the Presidency from day one. He represents the best and brightest of the Hispanic community.",
+      "sha256": "71edf33d61be53523aa5ebcc6a53b0a421f2a65d41b4f457581442a00d341d8a",
+      "zh": "朱利安·卡斯特罗聪明、年轻、精力充沛，从第一天起就完全准备好接任总统。他代表着拉美裔社群中最优秀、最聪慧的人才。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4642@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "This is a signature accomplishment of the Obama Administration, and I support it whole-heartedly.",
+      "sha256": "bb75b4c56f0b94c7f780aafd14c05e4f42d5ba10a246539f77f620420894c380",
+      "zh": "这是奥巴马政府的标志性成就，我全心全意支持。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4667@45/description",
+        "2016a_Clinton_Warren/answers_json/4667@44/description",
+        "2016a_Trump_Christie/answers_json/4667@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "I support this deal, but I will work very hard as President to see that it is aggressively enforced.",
+      "sha256": "da5ba24dfe149f704011e635d4ae67b883a3a7612f563120dd467fe1814afa95",
+      "zh": "我支持这项协议，但当上总统后，我会非常努力，确保严格执行它。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4668@46/description",
+        "2016a_Clinton_Warren/answers_json/4668@45/description",
+        "2016a_Trump_Christie/answers_json/4668@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "This deal is a completely asinine joke. We still owe Iran $150 billion if we change our mind. We just give them the money.",
+      "sha256": "e55770f6136d22d406b49c0f79249b4158ea55181de669d9dbf7bd8cb431c1ba",
+      "zh": "这项协议是个蠢透了的笑话。即使改变主意，我们还是欠伊朗1500亿美元。我们就是把钱送给他们。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4669@47/description",
+        "2016a_Clinton_Warren/answers_json/4669@46/description",
+        "2016a_Trump_Christie/answers_json/4669@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "I love fracking. We need to do anything we can to support it.",
+      "sha256": "34d731a70501dba8de1c9626aaad2b2ef656db0c68a29267d144058b7b162a81",
+      "zh": "我喜欢水力压裂。我们应该尽一切可能支持它。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4702@55/description",
+        "2016a_Trump_Brown/answers_json/4702@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "Until green energy technologies are ready to shoulder the load, we need help from oil and fracking.",
+      "sha256": "63e2961ff51a8b7f71f3ed5942a8ea80505670168ee4f7153010b1f8561fac18",
+      "zh": "在绿色能源技术准备好承担重任之前，我们还需要石油和水力压裂的帮助。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4703@56/description",
+        "2016a_Trump_Brown/answers_json/4703@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "I'm opposed to fracking, and I think we need a lot more regulation of the practice.",
+      "sha256": "64e572a1841dfc86566a59e035b5877ecb8269586b345f27b5acbf42801871a3",
+      "zh": "我反对水力压裂，认为我们需要大幅加强对这种做法的监管。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4704@57/description",
+        "2016a_Trump_Brown/answers_json/4704@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "I support our police officers, who are working so hard to uphold the law in this country.",
+      "sha256": "f8f0b53824eddeead5418fa4922083b8516747e03184c3856e66ad81a22f832f",
+      "zh": "我支持我们的警察。他们为了维护本国法律，如此辛勤地工作。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4710@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "I support African-Americans in this country and I oppose police brutality. But these activists are a different story. There have been some very hateful things said, and they are tied to a number of riots that we've seen.",
+      "sha256": "7d260e08be321694ad454828b8de16bc5949d37390e8ece7097835cf214f41be",
+      "zh": "我支持本国非裔美国人，也反对警察暴力。但这些活动人士是另一回事。有些话充满仇恨，而且他们与我们看到的多场骚乱有关。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4711@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "I believe that black lives matter. I fully support this group in their objectives. They are the civil rights group of our time.",
+      "sha256": "81b3a678a8ba74bfaee20ee4ba9caa8f0211c03553a68612dc4eba34fe4b5e07",
+      "zh": "我相信，黑人的命也是命。我完全支持这个团体的目标。他们是我们这个时代的民权团体。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4712@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "This is another case of radical Islamists attempting to destroy the values that we stand for. We have to admit that a huge part of Islam is at war with America and the western world, and we continue to have far too many people who are looking the other way.",
+      "sha256": "79c9d113f5a5edcebbd276f20fe77d455d9bfedd41211fda63f7492fedd9a156",
+      "zh": "这又是激进伊斯兰主义者企图摧毁我们所珍视的价值观。我们必须承认，伊斯兰世界中有很大一部分，正与美国及西方世界为敌；但仍有太多人装作没看见。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4730@65/description",
+        "2016a_Clinton_Warren/answers_json/4727@60/description",
+        "2016a_Clinton_Brown/answers_json/4730@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "The first thing is, let's take a moment of respect for the people who were affected by this horrible tragedy. And I trust that the European authorities are on this case and over the coming weeks we will get more information about what happened.",
+      "sha256": "c4815b1208f4645b98137e6e35557414d6d92b58a6c9da6e74dec0596b10baba",
+      "zh": "首先，让我们向受到这场可怕悲剧影响的人们致意。我相信，欧洲当局正在调查，未来几周，我们会得到更多事件信息。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4731@66/description",
+        "2016a_Clinton_Warren/answers_json/4728@61/description",
+        "2016a_Clinton_Brown/answers_json/4731@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "We're going to find whoever did this and bring them to justice. And let us remember, our country is at its best when we stand united. Islam is a religion of peace, and we only encourage the spread of terrorism if we overreact against innocent, patriotic Americans in the wake of this.",
+      "sha256": "0b7a47e80d44f69653f7b1837a5942b34a2f72aa8ed265039c7f8c87fd4435d0",
+      "zh": "我们要找出凶手，让他们接受司法制裁。也请记住，国家团结一致时，才最能发挥力量。伊斯兰教是和平的宗教；如果事后对无辜、爱国的美国人反应过度，只会助长恐怖主义蔓延。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4732@67/description",
+        "2016a_Clinton_Warren/answers_json/4729@62/description",
+        "2016a_Clinton_Brown/answers_json/4732@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Mr. Trump's attacks are grotesque and outrageous. I trust that Americans of all persuasions will vote this type of rhetoric down in November.",
+      "sha256": "9168e32766f1e842df904cfc433d70c5a20504d4988501334597507eea8c6925",
+      "zh": "特朗普先生的攻击怪诞、骇人。我相信，不同立场的美国人都会在十一月用选票拒绝这种言辞。",
+      "keys": [
+        "2016a_Clinton_Castro/answers_json/4734@68/description",
+        "2016a_Clinton_Warren/answers_json/4734@63/description",
+        "2016a_Clinton_Brown/answers_json/4734@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "It's fine to support the police, but not in a way that deflects questions about Black Lives Matter or seems to imply that movement isn't helpful.",
+      "sha256": "07f0e8c4d51612cab3a08bd25d310e6946366e9bc6477d2be16015bcb2ab133e",
+      "zh": "支持警察没问题，但不能借此回避关于“黑人的命也是命”的问题，或暗示这个运动没有帮助。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2019@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "Of course, The Donald is already using these attacks to agitate for further measures against Muslims... and to blame you and the Obama Administration for incompetence.",
+      "sha256": "992a42e6e9c46f3c70870b6d62280189b49231ed8ca3988bc1b4aac548375e5a",
+      "zh": "当然，“那位唐纳德”已经借这些袭击煽动对穆斯林采取更多措施，也指责你和奥巴马政府无能……",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2031@10/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2032@11/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2029@9/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2030@10/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2031@8/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2032@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Progressives fear that you are planning to abandon the $12/hour push, now that you have gotten Sanders out of the way.",
+      "sha256": "b3773149bc796b62b4ad59a4751b6ccef3d9973bb872cd220243ebdc95502929",
+      "zh": "进步派担心，既然你已经把桑德斯挤开，就打算放弃争取每小时12美元最低工资了。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2042@16/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2042@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "The attacks themselves are bad enough, but the way you have swung to the right in your own positions is disheartening to many progressives.",
+      "sha256": "818659365aec7187f58a9292123757a418fa3bd38828c6139a56a53c908fc9c9",
+      "zh": "袭击本身已足够糟糕，但你自己的立场也向右转，让许多进步派灰心。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2046@19/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2045@19/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2046@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "The Donald seems to be specializing in gutter politics this year.",
+      "sha256": "553b703b5302b01bc5f5bea178e1953bf2799dd9b93ff8697bdf896e7bd12fd9",
+      "zh": "“那位唐纳德”今年似乎专攻低俗的政治攻击。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2050@21/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2050@23/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2050@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "This brings a rousing cheer from your supporters, but is a signifiant break with your position so far.",
+      "sha256": "ec8d0cf99f37cf82e6a400774830056492dbe59d5b979e4322e49bc053821306",
+      "zh": "这让支持者热烈欢呼，但与你迄今的立场有明显不同。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2058@26/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2058@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "This is a moderate enough position, but progressives and Hispanics sense that you trying to back away from your earlier pledges on this issue.",
+      "sha256": "af6de083600042f2e22b8f5120383ce37b7bdb37d3457c0e10692c40f014ee36",
+      "zh": "这个立场还算温和，但进步派与拉美裔感觉，你正在试图退回去，不再履行此前在这个问题上的承诺。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2061@28/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2061@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "This is a moderate stance, but is that the best option in this election? Many Democrats want to hear more from you.",
+      "sha256": "4d587ed583c223601f175f4288b131fdb3878f1fcf3ee633f3dc148b5e81e90c",
+      "zh": "这是温和立场，但在这次选举中，是最佳选择吗？许多民主党人希望听到你说得更多。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2063@29/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2063@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "This is a surprisingly progressive position, compared to what your stance was in the primaries. But it is definitely making the news today.",
+      "sha256": "c0b66975397032b3ea55b725a13b18c0333595f26baaca146268fdcf11bb2440",
+      "zh": "与你初选时的立场相比，这出人意料地进步。不过，今天的新闻肯定会报道。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2066@31/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2066@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "This type of incrementalism is leaving many Democrats uninspired.",
+      "sha256": "6f702f32b6eb5a8d209e4bd3c1c99e82e5812a94a0dd0865a6570d81e3cfa64a",
+      "zh": "这种渐进改革，让许多民主党人提不起劲。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2100@45/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2100@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "You are continuing your liberal rhetoric on immigration.",
+      "sha256": "73100af4eb08d57e7306789a201ca37fd9cb0a64bf3d200896739d7a5cdcb6c2",
+      "zh": "你正在延续移民问题上的自由派言辞。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2117@53/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2117@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "You're stating your own position very clearly on this issue.",
+      "sha256": "2fe29041efefdeebcd77ff7ba3830a0c35d6cd2a9c2a6ac4878b0775f0c54500",
+      "zh": "你在这个问题上把自己的立场说得很清楚。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2121@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "Your renunciation of Black Lives Matter does not sit well with the progressive movement.",
+      "sha256": "408f44a3e03de6a39e9c5fbac4fd2211ca738ab6ac0ea526438b512958f02aa3",
+      "zh": "你对“黑人的命也是命”运动的否定，让进步派运动难以接受。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2125@57/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "A spoon full of sugar helps the medicine go down?",
+      "sha256": "70aad06633b3e137cc5c609c1b7487df8bf742647af6f69abe82587b76571a8c",
+      "zh": "加一勺糖，就能让苦药容易下咽？",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2213@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "There's a lot of confusion over your change of heart.",
+      "sha256": "2ce3a633c7a2867fac9a15b3284eaaa4a1f13084c082f7a4a5e32b0cfae2993c",
+      "zh": "你改变心意，让大家很困惑。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2214@73/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "As tragic as any act of terrorism is, you have been sounding the alarm on radical Islam while your opponent refuses to mention the term.",
+      "sha256": "dc3cd953517fd88367e0bd2a2a852226325d471360afe8d5271bd41e50d58896",
+      "zh": "任何恐怖行为都是悲剧，但你一直在对激进伊斯兰主义发出警告，对手却拒绝提及这个词。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2230@78/answer_feedback",
+        "2016a_Clinton_Castro/answer_feedback_json/2231@79/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2227@72/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2228@73/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2230@73/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2231@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "A lot of supporters are confused that you have backed away from your earlier rhetoric on Islam, particularly after a huge terrorist attack.",
+      "sha256": "887baa2635e715668c452c62e954a0d0ae410680b9a5e48ae5cabe24be6d6824",
+      "zh": "许多支持者感到困惑：尤其在重大恐袭之后，你竟然放弃了此前关于伊斯兰教的言辞。",
+      "keys": [
+        "2016a_Clinton_Castro/answer_feedback_json/2232@80/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2229@74/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2232@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "What was your rationale behind selecting Elizabeth Warren as your running mate?",
+      "sha256": "6a0199cb02b8635d4f89983af8d68fecd7ec5ed517901452051a24df50c3af11",
+      "zh": "你选择伊丽莎白·沃伦作为竞选搭档，理由是什么？",
+      "keys": [
+        "2016_Clinton_Warren/questions_json/1049@4/description",
+        "2016a_Clinton_Warren/questions_json/806@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "In the wake of Trump's nomination, a number of prominent anti-Trump Republicans are organizing to cast votes for Libertarian Gary Johnson as a protest, with an emphasis on the Western states. What are your thoughts?",
+      "sha256": "87e5b5a94640d177ed743fad41c967f1e5d28e86c022efa70dff6dc574c98ed4",
+      "zh": "特朗普获提名后，一些知名的反特朗普共和党人正组织起来，准备以投票支持自由意志党的加里·约翰逊来表示抗议，尤其着重于西部各州。你怎么看？",
+      "keys": [
+        "2016a_Clinton_Warren/questions_json/802@3/description",
+        "2016a_Clinton_Brown/questions_json/802@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "There has been a coordinated, violent terrorist attack on London today, resulting in the death of at least 100 people. How will you address this?",
+      "sha256": "60cd85762881aa5e3e564c80569b741cfac5d8c51a2ae7d0966c68ed40c18ee0",
+      "zh": "今天，伦敦发生了一起协同实施的暴力恐怖袭击，造成至少100人死亡。你会如何回应？",
+      "keys": [
+        "2016a_Clinton_Warren/questions_json/836@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "At a Trump rally today, a deranged supporter fired at several protestors before he was tackled. Are these rallies getting out of hand?",
+      "sha256": "ce71ad1f80c89c338dce2b185e854a029845f92fe98f168e89305406da9fa5d2",
+      "zh": "在今天的一场特朗普集会上，一名失常的支持者朝几名抗议者开枪，随后被扑倒制服。这些集会是不是正在失控？",
+      "keys": [
+        "2016a_Clinton_Warren/questions_json/813@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "The FBI has recommended the indictment of several of your aides, based on classified intelligence which they obtained from secure facilities and emailed to you. Do you have any comment?",
+      "sha256": "38c00074299cf9bcfd174bf4635d92ce935af489116fdabfcb4dcf44a60c8006",
+      "zh": "联邦调查局建议起诉你的几名助手，因为他们从安全设施取得机密情报，再用电子邮件发给你。你有何评论？",
+      "keys": [
+        "2016a_Clinton_Warren/questions_json/811@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "Donald Trump is attacking you almost daily on your 2002 vote in favor of the Iraq War. How do you plan to respond?",
+      "sha256": "fba54826a08484db20b3a5cb8365457811430f9a5bc40d477189764d6f87af23",
+      "zh": "特朗普几乎每天都在攻击你2002年投票支持伊拉克战争的事。你打算如何回应？",
+      "keys": [
+        "2016_Clinton_Booker/questions_json/1063@16/description",
+        "2016_Clinton_Brown/questions_json/1063@16/description",
+        "2016_Clinton_Sanders/questions_json/1063@12/description",
+        "2016_Clinton_Warren/questions_json/1063@9/description",
+        "2016a_Clinton_Warren/questions_json/798@15/description",
+        "2016a_Clinton_Brown/questions_json/798@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Do you support the construction of a 20-foot wall along the entire length of the U.S.-Mexico border?",
+      "sha256": "265c6fb7edb77d69527ece3e52d0c7c3f37dfd5b5b77f98b4d125c4f9cca26af",
+      "zh": "你是否支持沿整条美墨边境修建一堵20英尺高的墙？",
+      "keys": [
+        "2016a_Clinton_Warren/questions_json/818@21/description",
+        "2016a_Trump_Christie/questions_json/818@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "Do you support the recent reopening of relations with Cuba?",
+      "sha256": "77a3f63338c2b756499f0155aa2818fd8098c5fcbfe665238dd45a3448999b2f",
+      "zh": "你是否支持近期与古巴恢复关系的做法？",
+      "keys": [
+        "2016a_Clinton_Warren/questions_json/824@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Trump is lying if he says he opposed this war. There's no evidence or recorded statement of his opposition until well after the war began.",
+      "sha256": "c0bafd631e081453d732d0ccab91bb54143dd51f71661d3a266876926eaf6fc5",
+      "zh": "如果特朗普说他反对这场战争，那就是撒谎。战争开始很久之后，才有他反对战争的证据或录音表态。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4625@26/description",
+        "2016a_Clinton_Brown/answers_json/4625@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "I had to make a decision based on the evidence we had at the time. I would not make this vote, knowing what I know today.",
+      "sha256": "77f57ec71099bfa03fc73ba5b7d3785073ad0ad392af3ce17c879f50637559db",
+      "zh": "我必须根据当时掌握的证据作决定。如果当时知道今天所知道的，我就不会那样投票。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4626@27/description",
+        "2016a_Clinton_Brown/answers_json/4626@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "We would have stabilized Iraq and won a great victory there, if we hadn't pulled out so hastily.",
+      "sha256": "f6d90250ce360bb130b789d2461913c81c896da6bbd35ee683b9974c213300b2",
+      "zh": "如果我们没有那么仓促地撤出，就能让伊拉克稳定，取得伟大胜利。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4627@28/description",
+        "2016a_Clinton_Brown/answers_json/4627@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "It isn't my place to step into these kinds of disputes. I would hope that people see Hillary Clinton as the best candidate for President when they look at the ballot.",
+      "sha256": "45155952fb78c7381ac0475be476e833300103d1990f59e4e9c019150dd167a5",
+      "zh": "我不适合介入这种争执。我希望，大家看选票时，会认为希拉里·克林顿是最佳总统候选人。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4635@33/description",
+        "2016a_Clinton_Brown/answers_json/4635@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "I believe, regardless of how we feel about Donald Trump, that he won his party's nomination and should not be challenged in this manner.",
+      "sha256": "bce63ece78fb60458aee886a585ab703b0e300945a146036812f34e19e0f277f",
+      "zh": "我认为，不论我们如何看待特朗普，他已经赢得本党提名，不应该以这种方式挑战他。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4636@34/description",
+        "2016a_Clinton_Brown/answers_json/4636@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "Elizabeth Warren is a good friend and an icon of the progressive movement. There are very few people in this country who have done more to advance progressive ideals than Ms. Warren.",
+      "sha256": "b836825e9e175d10c6034213adf46d822cba819bff3d9b42208f9bf9f3ff376d",
+      "zh": "伊丽莎白·沃伦是我的好朋友，也是进步派运动的标志性人物。这个国家里，很少有人在推动进步理念上，比沃伦女士做得更多。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4643@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "This is yet another example, like Benghazi or many others, of a politically motivated witch hunt. I support my associates completely, and fully expect to see their names cleared before this is done.",
+      "sha256": "6b406591a8c5aa11271af55354127d3b77818ac4f0c9f334967fa4ecbb3711e6",
+      "zh": "这又是一次出于政治动机的迫害，和班加西及许多其他事情一样。我完全支持同事们，也充分相信，事情结束之前，他们会洗清指控。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4650@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "I will immediately apologize for any lapses that occurred while I was Secretary of State, and will pledge to do anything possible to cooperate moving forward, so that we can get to the bottom of this.",
+      "sha256": "c459cf42a1dca95614b42cc5cdb9fc73f696ae758c56a69a195e9e229b443ed2",
+      "zh": "对于我担任国务卿时出现的任何疏漏，我会立即道歉，并承诺今后尽一切可能配合，以查明真相。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4651@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "Repeatedly, Mr. Trump has refused to acknowledge the consequences of his divisive rhetoric, and events at his rallies continue to escalate. What will it take for him to acknowledge that he is responsible?",
+      "sha256": "27d4ee099a21dc75c9cee240c660396220b281bbabc65fc2b1102687ca09c0df",
+      "zh": "特朗普先生一再拒绝承认，他分裂民众的言辞会造成后果，而集会上的事件不断升级。要怎样，他才肯承认自己负有责任？",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4654@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "Whatever our thoughts, let's send our prayers for the people affected and hope that no further incidents occur in the future.",
+      "sha256": "25ef14e9a64c87de400b2be354b4bb5969024421476102ae0a0c26596fd1ba40",
+      "zh": "不论我们怎么想，都让我们为受到影响的人们祈祷，希望未来不再发生类似事件。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4655@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "We're going to build the wall, and Mexico is going to pay for it.",
+      "sha256": "10a938f69a376143bf62258aa36eb6b290b5f09eb6baeb631fdb05f227e0cae4",
+      "zh": "我们要修那堵墙，而且墨西哥要为它付钱。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4670@47/description",
+        "2016a_Trump_Christie/answers_json/4670@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "Maybe this issue has been caught up in a bit of rhetorical excess, but I will be very tough on illegal immigration when I am President.",
+      "sha256": "cbaed5c7dbe8a7c6e97403501d56b916b8be3d7d026a2c71d424d5f11fcb94bc",
+      "zh": "这个问题可能被一些夸张言辞搅得失了分寸，但我担任总统时，会非常强硬地对待非法移民。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4671@48/description",
+        "2016a_Trump_Christie/answers_json/4671@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "This is one of the most far-fetched ideas that I've heard in my political career.",
+      "sha256": "cf7c2eb7ef177f4d30e0af296fdc17f0786b5b227425bddf5fc590f9271bbc28",
+      "zh": "这是我政治生涯中听过的最不切实际的想法之一。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4672@49/description",
+        "2016a_Trump_Christie/answers_json/4672@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "The way our current President has been kowtowing to the repressive leaders of Cuba is a disgrace. It really is.",
+      "sha256": "71aa610b8421932e768c752ae411e2a5c25ea754b5b98e8812a2de92cb7f2d03",
+      "zh": "我们现任总统向古巴那些压制民众的领导人卑躬屈膝，实在是耻辱，真的。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4689@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "I'm glad that we have reached out to Cuba, but I would like to have seen a little more insistence that they liberalize their country first.",
+      "sha256": "d2095efe6cbb51ef9177f5e9e50877de7f46d44df18276cfa210109884dde2ee",
+      "zh": "很高兴我们向古巴伸出了手，但我希望，先要求他们放宽国内管制的态度再坚决一点。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4690@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "I fully support Barack Obama's actions in regards to Cuba.",
+      "sha256": "05372473e0fc345b771d49947a36cfcbe7c6eb8b75c06f196cbcbd7a49e07ebc",
+      "zh": "我完全支持贝拉克·奥巴马对古巴采取的行动。",
+      "keys": [
+        "2016a_Clinton_Warren/answers_json/4691@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "Obama has come under some criticism, but many people also favor the new stance towards Cuba.",
+      "sha256": "93741a7a612c6d04f737c561e7d56f312d7a41c249a8b9dea71fc4807b222b1c",
+      "zh": "奥巴马受到了一些批评，但许多人也支持对古巴的新立场。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2028@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "Of course, this type of dissension in the Republican ranks only helps you.",
+      "sha256": "947b09ebf6c2121ef3aea2c3a729707db9f41058719eee22e3eba9c76859f3f7",
+      "zh": "当然，共和党内部这种分歧，只会帮助你。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2033@11/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2034@12/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2033@10/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2034@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

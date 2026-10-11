@@ -1,0 +1,86 @@
+[
+  {
+    "source": "<p>President Tyler has defined the key issue of this election with his proposed annexation of Texas. James K. Polk, the Democrat, gained his nomination by favoring the measure. Henry Clay, the Whig, has more latitude.</p><p>The Liberty Party lurks as an abolitionist third party, and will pressure the Whigs. Conversely, John Tyler hopes to use the Texas issue to energize an independent campaign, if Polk wavers. Other campaign issues are tariffs, internal improvements, and the banking system.</p>",
+    "keys": [
+      "base/election_json/13@18/summary"
+    ]
+  },
+  {
+    "source": "<p>James K. Polk won the Democratic nomination as a dark horse candidate, after Martin Van Buren was rejected for being soft on the Texas issue. He is a former Speaker of the House, and also served as Governor of Tennessee. Polk's support is strongest in the South, but he must hold some Northern states to win. To do this, he could exploit the Oregon issue, fond memories of Andrew Jackson, and the emerging Catholic vote. Note that John Tyler has yet to formally renounce his independent bid.</p>",
+    "keys": [
+      "base/candidate_json/131@111/description"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1844 Election</h3><p>Your first order of business will be to confirm the annexation of Texas. More generally you can fight for the expansion of the United States in line with the ideals of \"Manifest Destiny\". With a Democratic majority in Congress, you will have wide latitude to implement your program, after four years of Tyler's paralysis. Best wishes for your term in office.</p>",
+    "keys": [
+      "base/candidate_json/131@111/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry. You have lost the 1844 Election</h3><p>President Clay is sure to obstruct the annexation of Texas. Hopefully a new President can bring this to a better conclusion in four years. In the meantime, your voice may hold some influence, in an advisory capacity, with the Democratic majority in Congress. It is unlikely, however, that you will be nominated for President over the likes of Lewis Cass, James Buchanan, or others in 1848.</p>",
+    "keys": [
+      "base/candidate_json/131@111/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Wow. No candidate has achieved a majority in the Electoral College</h3><p>This is surely an unusual situation, given that no candidate besides yourself and Clay seemed poised to win an electoral vote. Fortunately, the Democrats have won a majority in the House and seem likely to confirm you as the ultimate winner. Best wishes for your term in office.</p>",
+    "keys": [
+      "base/candidate_json/131@111/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<p>Henry Clay runs in a Presidential election for the third time, and begins as the favorite against Polk. He must quickly define a position on Texas. It will be difficult to do so without alienating some bloc of the Whigs.</p><p>Clay would prefer to keep slavery and expansion on the back-burner, and advance his own issues like tariffs, internal improvements, and a national currency. Can he find redemption from his political defeats to Andrew Jackson, and finally break into the White House?</p>",
+    "keys": [
+      "base/candidate_json/132@112/description"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1844 Election</h3><p>Your first order of business will be to block the annexation of Texas, and hopefully to end the further discussion of this issue. Then you can concentrate on undoing the damage that Andrew Jackson and his followers have inflicted on the American System. Unfortunately, it appears that you will have to deal with a Democratic majority in Congress. Best wishes for these next four years.</p>",
+    "keys": [
+      "base/candidate_json/132@112/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry. You have lost the 1844 Election</h3><p>President Polk is sure to go through with the annexation of Texas. You can only hope it doesn't lead to war. Even if the U.S. is successful in the short-term, the acquisition of such territory is sure to reopen the slavery question in a way which may hurt the Whigs. As for your own fortunes, you have likely missed your last chance to become President. How will your legacy be remembered?</p>",
+    "keys": [
+      "base/candidate_json/132@112/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Wow. No candidate has achieved a majority in the Electoral College</h3><p>This is sure an unusual situation, given that no candidate besides yourself and Polk seemed poised to win an electoral vote. Unfortunately, the Democrats have won a majority in the House and seem likely to confirm James K. Polk as the ultimate winner. How will your legacy be remembered?</p>",
+    "keys": [
+      "base/candidate_json/132@112/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<p>George Dallas has served as a Pennsylvania Senator, and as Mayor of Philadelphia. Pennsylvania is a crucial state to win if the Democrats are to return to the White House. Dallas would balance the ticket in two ways. First, he is a Northerner. Secondly, he is a moderate on the issues of tariffs and banking, compared to Polk, Jackson, and most other Southerners. He is not a moderate on the issue of expansion, and would help define that as the central Democratic issue in this election.</p>",
+    "keys": [
+      "base/candidate_json/135@115/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Dallas is the preferred choice of the Convention, but Polk could intervene on behalf of Levi Woodbury. Woodbury's reputation is more national than Dallas's, but he also comes from a smaller state. Woodbury has served as Secretary of the Treasury and is much more orthodox on economic issues, favoring a limited view of the federal government's powers. This could galvanize Democrats in the closer states in the South and West, but could also be a hindrance in Pennsylvania and New York.</p>",
+    "keys": [
+      "base/candidate_json/136@116/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Theodore Frelinghuysen has served as a Senator from New Jersey, and as Mayor of Newark. He is known as something of an evangelist, being involved in numerous bible societies and advocating for moral uplift. Associates of Frelinghuysen have voiced anti-Catholic sympathies, however. His selection would help with nativists, but exacerbate the Whigs' problems with the Catholic vote. Southerners with a long memory also recall his loud opposition to the Indian Removal Act.</p>",
+    "keys": [
+      "base/candidate_json/137@117/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>John Sergeant ran with Henry Clay in 1832, and has served in Congress on three occasions. He worked for the Second Bank of the United States, and strongly favors a revival of the national banking system. He is also known as an opponent of slavery, even voting against the Missouri Compromise in 1820. Obviously, this background could help Clay in certain regions, and hurt him in others. Sergeant has also been out of political office for over three years.</p>",
+    "keys": [
+      "base/candidate_json/138@118/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Millard Fillmore was an influential Congressman before leaving that body in 1843. He has strongly supported Whig economic policies such as a tariff and national bank. He has taken stances against the expansion of slavery, without veering into the dangerous territory of abolitionism. He is well-connected to New York politics, and his selection would undoubtedly motivate the party in that crucial state.</p>",
+    "keys": [
+      "base/candidate_json/139@119/description_as_running_mate"
+    ]
+  }
+]

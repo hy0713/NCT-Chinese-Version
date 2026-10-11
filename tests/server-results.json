@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-08",
+  "platform": "Windows",
+  "runtime": "Python 3.12",
+  "defaultServer": "localhost:8000",
+  "startBatTest": "cmd /c start.bat --port 8001",
+  "observed": "Server started, browser opened entry, HTML/JS/CSS/localization/data/images returned HTTP 200",
+  "status": "passed"
+}

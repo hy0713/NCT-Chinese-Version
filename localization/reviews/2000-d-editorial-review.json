@@ -1,0 +1,1132 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2000-d",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 339,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 3,
+      "reason": "Original never-lived-in-New-York claim retained, not independently certified as accurate at November 2000."
+    },
+    {
+      "index": 9,
+      "reason": "Original categorical view of Second Amendment is candidate position, not a current judicial holding."
+    },
+    {
+      "index": 13,
+      "reason": "Original added a greatly understood as added greatly."
+    },
+    {
+      "index": 27,
+      "reason": "Original LGBTQ+ terminology retained as supplied, not substituted for differently worded original ending."
+    },
+    {
+      "index": 35,
+      "reason": "Original twenty-three-million jobs campaign claim retained, not independently certified as a precise count or causal estimate."
+    },
+    {
+      "index": 44,
+      "reason": "Original eduction read as education; English unchanged."
+    },
+    {
+      "index": 50,
+      "reason": "Claim of admitted cocaine use preserved as simulated attack dialogue; must not certify a real admission by Bush."
+    },
+    {
+      "index": 69,
+      "reason": "Invented internet is question/attack allegation; annotation must distinguish original Gore interview wording."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "This message appeals to solid conservatives only. Clinton is too popular elsewhere.",
+      "sha256": "966fd11fc1aa90b8fae4705208fcb6fceeedbd093002021527cfd34503d79168",
+      "zh": "这种说法只吸引坚定的保守派。克林顿在其他人群中太受欢迎了。",
+      "keys": [
+        "2000_Bush_Danforth/answer_feedback_json/801@67/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/801@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Some people agree, but many conservatives are wondering what was so moderate about Bill Clinton.",
+      "sha256": "c992cfadc959c858bee452b8f8e5b119e7f1be0eb5fb8e9540eefef078df3437",
+      "zh": "有些人赞同，但许多保守派正在问，比尔·克林顿究竟哪里算温和。",
+      "keys": [
+        "2000_Bush_Danforth/answer_feedback_json/802@68/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/802@76/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Some pro-life groups are concerned about your selection of Tom Ridge as running mate. Can you speak more about him?",
+      "sha256": "5fd8630e3adbe1f256b4360cafa60fafc21287a8b2e457267d4fb3a2c6b430c4",
+      "zh": "一些反堕胎团体对你选择汤姆·里奇作竞选搭档感到担忧。你能多谈谈他吗？",
+      "keys": [
+        "2000_Bush_Ridge/questions_json/395@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Do you believe it is appropriate for Hillary Clinton to run for Senate in the state of New York -- a state where she has never lived?",
+      "sha256": "6dbcbb846dd4ebac29e65dd843dbd7d27d467febee8f66b615f1f9f7e88bac7d",
+      "zh": "希拉里·克林顿从未在纽约州生活过，却要在那里竞选参议员。你认为这样合适吗？",
+      "keys": [
+        "2000_Bush_Ridge/questions_json/360@14/description",
+        "2000_Bush_Powell/questions_json/360@15/description",
+        "2000_Gore_Bayh/questions_json/360@15/description",
+        "2000_Nader_LaDuke/questions_json/360@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "What do you think of Bill Clinton's recent action to tap the Strategic Petroleum Reserve to reduce the costs of home heating, particularly in the northeast?",
+      "sha256": "b830c4b25687a129602a43ee3203233df6715b66690f57cfa220158562acfef5",
+      "zh": "比尔·克林顿最近决定动用战略石油储备，降低家庭取暖成本，特别是东北部地区的成本。你对此有什么看法？",
+      "keys": [
+        "2000_Bush_Ridge/questions_json/363@17/description",
+        "2000_Bush_Powell/questions_json/363@21/description",
+        "2000_Gore_Lieberman/questions_json/363@21/description",
+        "2000_Gore_Graham/questions_json/363@17/description",
+        "2000_Gore_Kerry/questions_json/363@19/description",
+        "2000_Nader_LaDuke/questions_json/363@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Do you support additional gun control measures in this country? Can you give some specifics of what you want?",
+      "sha256": "92370fccb0baaecbadfbff5f42fbdcf75ed1bfdb68f1daa1f7bbe149d5864463",
+      "zh": "你支持美国采取更多枪支管制措施吗？能具体说说你希望采取什么措施吗？",
+      "keys": [
+        "2000_Bush_Ridge/questions_json/353@18/description",
+        "2000_Gore_Lieberman/questions_json/353@15/description",
+        "2000_Gore_Kerry/questions_json/353@18/description",
+        "2000_Gore_Bayh/questions_json/353@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "I do not support new gun control laws. We need better enforcement of the existing laws we have. The Assault Weapons Ban should be allowed to expire.",
+      "sha256": "e13aa5888bfb14bc68dc77f4623078e32d142714c526d0de6d8778f638f00975",
+      "zh": "我不支持新的枪支管制法。我们需要更好地执行现有法律。《攻击性武器禁令》应当到期失效。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3347@34/description",
+        "2000_Gore_Lieberman/answers_json/3347@37/description",
+        "2000_Gore_Kerry/answers_json/3347@37/description",
+        "2000_Gore_Bayh/answers_json/3347@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "I support the right to bear arms, with a couple of common-sense restrictions. We need background checks at gun shows, and better prevention measures to keep guns away from the mentally ill.",
+      "sha256": "e8e671a65edca8cd4817a41f57d3e4a66dc2c8176462c52db77c407737a61e1f",
+      "zh": "我支持持有武器的权利，也支持一些合乎常理的限制。我们需要在枪展上进行背景审查，并采取更好的预防措施，防止精神疾病患者获得枪支。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3348@35/description",
+        "2000_Gore_Lieberman/answers_json/3348@38/description",
+        "2000_Gore_Kerry/answers_json/3348@38/description",
+        "2000_Gore_Bayh/answers_json/3348@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "We need to renew the Assault Weapons Ban and make it permanent. I support other measures such as trigger locks to reduce gun violence in this country.",
+      "sha256": "1b6641135d2eaff8e032eb13611013b2ef7b8a53883b5acd3a028c5b944715a5",
+      "zh": "我们需要延长《攻击性武器禁令》，并使其永久有效。我也支持扳机锁等其他措施，减少我国的枪支暴力。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3349@36/description",
+        "2000_Gore_Lieberman/answers_json/3349@39/description",
+        "2000_Gore_Kerry/answers_json/3349@39/description",
+        "2000_Gore_Bayh/answers_json/3349@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "The only way we will end gun violence in this country is through large-scale legislation and the confiscation of troublesome weapons. The Second Amendment was never meant to apply to individuals.",
+      "sha256": "4d29f8eff976509e76702f0150eca506e3d532cc721c82635ba1ad265912ba1a",
+      "zh": "要结束我国的枪支暴力，唯一办法就是大规模立法，并没收带来问题的武器。第二修正案从来就不是针对个人的。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3350@37/description",
+        "2000_Gore_Lieberman/answers_json/3350@40/description",
+        "2000_Gore_Kerry/answers_json/3350@40/description",
+        "2000_Gore_Bayh/answers_json/3350@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "This seems like another attempt by the Clintons to stretch the rules. Hillary Clinton is clearly from Arkansas and should seek office from that state if she so desires.",
+      "sha256": "7eba188fb040c1d1fad09859182fc6df3fd98d86bedd03cf0e956b17dfe6e339",
+      "zh": "这看来又是克林顿夫妇试图钻规则空子。希拉里·克林顿显然来自阿肯色州，如果她想竞选公职，就应在那里参选。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3374@45/description",
+        "2000_Bush_Powell/answers_json/3374@45/description",
+        "2000_Gore_Bayh/answers_json/3374@48/description",
+        "2000_Nader_LaDuke/answers_json/3374@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "I don't have any comment. I trust the people of New York to make the right decision on this issue.",
+      "sha256": "267a220286ac57c1d4c4d6e5b02e3c34d9c8ae21e369e91d193044bad03d82d0",
+      "zh": "我没有什么要说的。我相信纽约人民会在这个问题上作出正确决定。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3375@46/description",
+        "2000_Bush_Powell/answers_json/3375@46/description",
+        "2000_Gore_Bayh/answers_json/3375@49/description",
+        "2000_Nader_LaDuke/answers_json/3375@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Off the record, I am uncomfortable with this, but I prefer not to make a public statement about it.",
+      "sha256": "6c7b3a5f17bef8bd833698d8680fe1d7469f63c80f6378afacf7867eaa54b3d1",
+      "zh": "私下说，我对此不太认同，但我不愿公开表态。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3376@47/description",
+        "2000_Bush_Powell/answers_json/3376@47/description",
+        "2000_Gore_Bayh/answers_json/3376@50/description",
+        "2000_Nader_LaDuke/answers_json/3376@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "The Clintons have added a greatly to the political life of the United States. I support Hillary Clinton in her campaign.",
+      "sha256": "5ee584acffbad5d34bce6004c787aee2ebf41af971fd25f9fd11f34074263c5f",
+      "zh": "克林顿夫妇为美国的政治生活作出了很大贡献。我支持希拉里·克林顿的竞选。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3377@48/description",
+        "2000_Bush_Powell/answers_json/3377@48/description",
+        "2000_Gore_Bayh/answers_json/3377@51/description",
+        "2000_Nader_LaDuke/answers_json/3377@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "This is clear political gamesmanship which I cannot support in good conscience. The Reserve should be used in cases of national emergency only. Furthermore, why did Clinton announce this decision so close to the election?",
+      "sha256": "f98429b2418951be35794b20650855aa49b36683b5513e8ba13558c2559ee369",
+      "zh": "这显然是在耍政治手腕，我无法昧着良心支持。储备只能在国家紧急情况下动用。另外，克林顿为什么在这么接近选举的时候宣布这个决定？",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3385@52/description",
+        "2000_Bush_Powell/answers_json/3385@56/description",
+        "2000_Gore_Lieberman/answers_json/3385@56/description",
+        "2000_Gore_Graham/answers_json/3385@45/description",
+        "2000_Gore_Kerry/answers_json/3385@53/description",
+        "2000_Nader_LaDuke/answers_json/3385@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "I understand the impulse to help America's families, but the Reserve should be used in cases of national emergency only. This action is unwise.",
+      "sha256": "b381c023428cfce22b40f125ebbd3464153e6cbab3acd54e16e9fb1660f5cbee",
+      "zh": "我理解帮助美国家庭的心愿，但储备只能在国家紧急情况下动用。这一行动并不明智。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3386@53/description",
+        "2000_Bush_Powell/answers_json/3386@57/description",
+        "2000_Gore_Lieberman/answers_json/3386@57/description",
+        "2000_Gore_Graham/answers_json/3386@46/description",
+        "2000_Gore_Kerry/answers_json/3386@54/description",
+        "2000_Nader_LaDuke/answers_json/3386@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Oil prices have spiked to nearly $40 a barrel. We need to help hard-working Americans in states like New Hampshire by making temporary allowances from our reserve.",
+      "sha256": "141c3ce93b05d9c09e1067a0a32bb7ac18eb3c10719b0200ae33402bd0728812",
+      "zh": "油价已飙升至每桶近40美元。我们需要暂时动用储备，帮助新罕布什尔等州勤劳的美国人。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3387@54/description",
+        "2000_Bush_Powell/answers_json/3387@58/description",
+        "2000_Gore_Lieberman/answers_json/3387@58/description",
+        "2000_Gore_Graham/answers_json/3387@47/description",
+        "2000_Gore_Kerry/answers_json/3387@55/description",
+        "2000_Nader_LaDuke/answers_json/3387@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Good people don't agree on every issue. Tom Ridge understands that we will run a pro-life administration.",
+      "sha256": "a8117a343db9ccaa9b731a17bd701e42dcccae02d427addb45762a98e7bdb0ab",
+      "zh": "好人也不会在每个问题上都意见一致。汤姆·里奇明白，我们将领导一届反对堕胎的政府。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3497@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Tom Ridge has served his home state of Pennsylvania well. It would be a shame to ignore that because of a litmus test on one issue.",
+      "sha256": "576b2f42ca505e18f366d5a1f63b4a1a88fcc90ac0d2ac56f683e8e29d9d02b6",
+      "zh": "汤姆·里奇出色地服务了家乡宾夕法尼亚州。因为单一议题的立场考验就忽视这一点，实在可惜。",
+      "keys": [
+        "2000_Bush_Ridge/answers_json/3498@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "There's not much to be gained by commenting on the Clintons or inserting yourself into New York politics.",
+      "sha256": "791647a92d60cc7ca5777779c6f7053de2d7dcec80002f13601517dfe1ed81e7",
+      "zh": "评论克林顿夫妇，或把自己卷入纽约政坛，并没有多少好处。",
+      "keys": [
+        "2000_Bush_Ridge/answer_feedback_json/761@41/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/762@42/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/763@43/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/764@44/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/859@111/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/860@112/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/861@113/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/956@159/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/957@160/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/958@161/answer_feedback",
+        "2000_Bush_Ridge/answer_feedback_json/959@162/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/761@40/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/762@41/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/763@42/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/764@43/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/859@111/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/860@112/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/861@113/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/956@161/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/957@162/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/958@163/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/959@164/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/761@43/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/762@44/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/763@45/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/764@46/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/859@86/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/860@87/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/861@88/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/956@157/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/957@158/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/958@159/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/959@160/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/761@43/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/762@44/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/763@45/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/764@46/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/859@92/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/860@93/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/861@94/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/956@145/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/957@146/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/958@147/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/959@148/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "A lot of oil companies and national security hawks are upset with this move, and not too thrilled that you have embraced it.",
+      "sha256": "5130b5de063f690a5bc01ea5d11763a85d4b9b06f71d5cab9858be4f36356b7e",
+      "zh": "许多石油公司和国家安全鹰派对这个决定不满，也不太高兴看到你表示支持。",
+      "keys": [
+        "2000_Bush_Ridge/answer_feedback_json/769@47/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/769@48/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/769@46/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/769@39/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/769@47/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/769@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "As a Democrat, there's nothing wrong with showing your support for the Clintons.",
+      "sha256": "ad9afb8ef013e157478bd229183fcf4c0dd048f86e156fa82b3935f87db52e16",
+      "zh": "作为民主党人，支持克林顿夫妇并没有什么不妥。",
+      "keys": [
+        "2000_Bush_Ridge/answer_feedback_json/862@114/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/862@114/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/862@89/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/862@95/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Those few who pay close attention admire your integrity and avoidance of regional favoritism on this issue. Except for those who live in New England of course.",
+      "sha256": "834684f925690cd1952a45c32bbb0b1e354df38f089e6c6462a05fef2661e426",
+      "zh": "少数密切关注此事的人，欣赏你的原则，以及你没有偏袒某个地区的做法。当然，住在新英格兰的人除外。",
+      "keys": [
+        "2000_Bush_Ridge/answer_feedback_json/868@117/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/868@120/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/868@91/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/868@72/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/868@89/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/868@98/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "If you want to win New Hampshire, supporting this move can't hurt.",
+      "sha256": "e6fb9703de05d95f65eff0cb364cfddcc8cc4bbcfeab5290d755aa1ef31e49f2",
+      "zh": "如果想赢下新罕布什尔州，支持这个决定并没有坏处。",
+      "keys": [
+        "2000_Bush_Ridge/answer_feedback_json/869@118/answer_feedback",
+        "2000_Bush_Powell/answer_feedback_json/869@121/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/869@92/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/869@73/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/869@90/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/869@99/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Some pro-life and pro-gun groups are concerned about your selection of Colin Powell as running mate. Can you speak more about him?",
+      "sha256": "962041fd6a750f015c2d4faa1dc1f2658bc96d559f844d9594d9785adcabfba4",
+      "zh": "一些反堕胎和拥枪团体，对你选择科林·鲍威尔作竞选搭档感到担忧。你能多谈谈他吗？",
+      "keys": [
+        "2000_Bush_Powell/questions_json/396@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Good people don't agree on every issue. Colin Powell understands that we respect life and the 2nd Amendment.",
+      "sha256": "f4e10aa63d0e824d38a7c983449f62a16e5ea46248630d7bd577631e333089fd",
+      "zh": "好人也不会在每个问题上都意见一致。科林·鲍威尔明白，我们尊重生命和第二修正案。",
+      "keys": [
+        "2000_Bush_Powell/answers_json/3499@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Colin Powell is a uniter, not a divider. I'm serious about working with all types of people to move our country forward.",
+      "sha256": "7f9f4a3c697ee1591d78fedefafe95703cd41f1ac7913aa1f5e012fc193525d9",
+      "zh": "科林·鲍威尔会团结人民，而不是制造分裂。我是真心要与各种人合作，推动国家进步。",
+      "keys": [
+        "2000_Bush_Powell/answers_json/3500@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "What will happen next is up to you, although most people have some expectations. Tax cuts will certainly be going into effect, and some bills related to gay marriage or LGBTQ+ people in the military will as well. Just keep an eye out for 2004, and don't make the same mistakes as your dad.",
+      "sha256": "2753b38a34591bb4560fc70658e369732008ffd8f423a8a6e2366cc57d6151a4",
+      "zh": "接下来会发生什么，取决于你，尽管多数人已经有所预期。减税肯定会实施，一些涉及同性婚姻或LGBTQ+人士在军中服役的法案也会出台。只是要留心2004年，别重蹈你父亲的覆辙。",
+      "keys": [
+        "2000_Gore_Lieberman/ending/s0.l117.c28/text",
+        "2000_Gore_Graham/ending/s0.l117.c28/text",
+        "2000_Gore_Kerry/ending/s0.l117.c28/text",
+        "2000_Gore_Bayh/ending/s0.l117.c28/text",
+        "2000_Nader_LaDuke/ending/s0.l117.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Today you have announced the selection of Joe Lieberman as running mate. Can you speak more about him?",
+      "sha256": "adacf2a8f3f7e45b171b0d2a79877993a816c0e66545b28501d8ab6cb93f71b9",
+      "zh": "今天，你宣布选择乔·利伯曼作为竞选搭档。你能多谈谈他吗？",
+      "keys": [
+        "2000_Gore_Lieberman/questions_json/397@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "What is your position on American trade policy? How do you feel about the World Trade Organization or NAFTA?",
+      "sha256": "896bebb8acaceb8f212bf48df7079718aee983a58b2d73e071b2aefcfd5763aa",
+      "zh": "你对美国贸易政策持什么立场？你如何看待世界贸易组织或《北美自由贸易协定》？",
+      "keys": [
+        "2000_Gore_Lieberman/questions_json/356@20/description",
+        "2000_Gore_Kerry/questions_json/356@15/description",
+        "2000_Nader_LaDuke/questions_json/356@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "It is November 2nd, only five days before the voting. News has just broken that George Bush was arrested for drunken driving in 1976. What is your response?",
+      "sha256": "22b0ed29f852037a34566bb2964fbfa25235f8c84e4eb6db716ade38edbc2802",
+      "zh": "现在是11月2日，距投票只有五天。乔治·布什在1976年因酒后驾车被捕的消息刚刚曝光。你会怎样回应？",
+      "keys": [
+        "2000_Gore_Lieberman/questions_json/385@23/description",
+        "2000_Gore_Graham/questions_json/385@23/description",
+        "2000_Gore_Kerry/questions_json/385@23/description",
+        "2000_Gore_Bayh/questions_json/385@23/description",
+        "2000_Nader_LaDuke/questions_json/386@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "These agreements are bad because they favor the rights of countries like China and Mexico over those of the United States. I support foreign trade, but I do not support the surrender of America's rights and sovereignty.",
+      "sha256": "7e484439256e4622679025d6003dce2e565d64b05eea28966aa2617046168cb3",
+      "zh": "这些协定不好，因为它们偏袒中国和墨西哥等国的权利，损害美国的权利。我支持对外贸易，但不支持放弃美国的权利和主权。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3359@45/description",
+        "2000_Gore_Kerry/answers_json/3359@45/description",
+        "2000_Nader_LaDuke/answers_json/3359@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Free trade is a bulwark of American prosperity. I support our efforts to protect and increase foreign trade.",
+      "sha256": "865f81e66d7102e3c4ca147dd212a77b5b4b04808eaaf01b4c8174a420c6ad82",
+      "zh": "自由贸易是美国繁荣的支柱。我支持我们保护和扩大对外贸易的努力。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3360@46/description",
+        "2000_Gore_Kerry/answers_json/3360@46/description",
+        "2000_Nader_LaDuke/answers_json/3360@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Our prosperity depends on the expansion of trade, especially with neighboring countries like Mexico and Canada. We should also expand our programs to support and retrain workers who are displaced.",
+      "sha256": "f61e47941754e63ee2e81eef8be86195f48ed73dd9114b64041fddbbdbf33dfd",
+      "zh": "我们的繁荣有赖于扩大贸易，特别是与墨西哥和加拿大等邻国的贸易。我们也应扩大项目，支持并再培训失去工作的劳动者。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3361@47/description",
+        "2000_Gore_Kerry/answers_json/3361@47/description",
+        "2000_Nader_LaDuke/answers_json/3361@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "These organizations and agreements are a scheme to enrich corporations at the expense of the American worker. Employment and wages will plummet while corporate profits expand.",
+      "sha256": "21fa613c94c5007b70e2afa4fcd860ad1554d5e3f9bb341bce7ba9cb891dab88",
+      "zh": "这些组织和协定，是牺牲美国劳动者、让企业发财的图谋。就业和工资将暴跌，企业利润却会增长。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3362@48/description",
+        "2000_Gore_Kerry/answers_json/3362@48/description",
+        "2000_Nader_LaDuke/answers_json/3362@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "The Clinton Administration has added 23 million jobs to the American economy and unleashed an unprecedented wave of prosperity and innovation. I will continue his policies as President so that all Americans can prosper in the coming years.",
+      "sha256": "c61e3e2efd342ca01a460fa73a1bae7061b5fb1921f9c3d574bcf09c7e1d4163",
+      "zh": "克林顿政府为美国经济新增了2300万个就业岗位，带来了前所未有的繁荣与创新浪潮。作为总统，我会延续他的政策，让所有美国人在未来几年都能繁荣发展。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3397@62/description",
+        "2000_Gore_Graham/answers_json/3397@50/description",
+        "2000_Gore_Kerry/answers_json/3397@61/description",
+        "2000_Gore_Bayh/answers_json/3397@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "We must not undo eight years of progress under President Clinton by cutting key programs and squandering the surplus on tax cuts for the rich. My opponent not only lacks experience, but his conservative ideas are out of step with those of the American public.",
+      "sha256": "d02c223f8b04fe3b7de9add4508679c939c460c894896edabb0d92436532715c",
+      "zh": "我们不能削减关键项目、把预算盈余浪费在为富人减税上，毁掉克林顿总统执政八年的进步。我的对手不仅缺乏经验，他的保守观念也与美国公众脱节。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3398@63/description",
+        "2000_Gore_Graham/answers_json/3398@51/description",
+        "2000_Gore_Kerry/answers_json/3398@62/description",
+        "2000_Gore_Bayh/answers_json/3398@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "I stand here tonight as my own man. We have much more work to do to ensure that America's prosperity flows to all of the people. We need more spending for education, infrastructure, and important research. We also need to protect Social Security, Medicare, and the environment.",
+      "sha256": "beea03cf36817def0b5754ec6bc36645dfdb990cc64ef86fd558671e0e27b764",
+      "zh": "今晚，我站在这里，有自己的原则。要让美国的繁荣惠及所有人，我们还有许多工作要做。我们需要增加教育、基础设施和重要研究的投入，也需要保护社会保障制度、老年医疗保险和环境。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3399@64/description",
+        "2000_Gore_Graham/answers_json/3399@52/description",
+        "2000_Gore_Kerry/answers_json/3399@63/description",
+        "2000_Gore_Bayh/answers_json/3399@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "I stand here tonight as my own man. I will work day and night to support the hard-working American people. I will make sure our debt is paid down, and that senior citizens and middle class families are protected into the future. I will protect our most important programs from attacks and budget cuts.",
+      "sha256": "687a3537805072b2e53348c32afb35c04aa8da02c5950a3f229a22755c148b60",
+      "zh": "今晚，我站在这里，有自己的原则。我将日夜工作，支持辛勤劳动的美国人民。我会确保偿还债务，保障老年人和中产家庭的未来。我会保护我们最重要的项目，不让它们遭到攻击和预算削减。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3400@65/description",
+        "2000_Gore_Graham/answers_json/3400@53/description",
+        "2000_Gore_Kerry/answers_json/3400@64/description",
+        "2000_Gore_Bayh/answers_json/3400@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "We will hammer Bush on his lack of experience and qualifications for the Presidency. We should point to the tactics his operatives used to defeat John McCain as evidence that he is not nearly as moderate and conciliatory as he claims to be. We will point out his connections to America's economic elites.",
+      "sha256": "bb0d845c7bcbc5330a0778160c7c9b89638ad686586dbdd9b064e8da7bbd69b4",
+      "zh": "我们会紧抓布什缺乏担任总统的经验和资格这一点。我们应指出，他的操盘手为了击败约翰·麦凯恩而使用的手段，证明他远没有自己所说的那么温和、那么愿意和解。我们会指出，他与美国经济精英的联系。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3409@66/description",
+        "2000_Gore_Graham/answers_json/3409@54/description",
+        "2000_Gore_Kerry/answers_json/3409@65/description",
+        "2000_Gore_Bayh/answers_json/3409@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Why screw up a good thing? I will campaign on the positive record of Bill Clinton and the Democrats over the past eight years, and pledge to continue those policies. I will appear with Clinton at a few rallies during the campaign to make sure Americans get the message.",
+      "sha256": "4a08528f49fef8d8a23eb9063e378011dd187a40fb4ec0b3e896a4247cab3f72",
+      "zh": "好端端的局面，为什么要搞砸？我会以比尔·克林顿和民主党过去八年的良好政绩展开竞选，承诺延续这些政策。竞选期间，我会与克林顿共同出席几场集会，确保美国人明白这一点。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3410@67/description",
+        "2000_Gore_Graham/answers_json/3410@55/description",
+        "2000_Gore_Kerry/answers_json/3410@66/description",
+        "2000_Gore_Bayh/answers_json/3410@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "It is important to shore up our support from liberal Democrats, especially with Ralph Nader in the race. I will pledge to increase spending on our most valued social programs, continue to increase taxes on high-earners like Clinton did, and I will look for other areas where I can appeal to the left.",
+      "sha256": "f1a480efee8f61afee7b738ca6b51af3e38c9cc78925793d40be6d457e5255a7",
+      "zh": "巩固自由派民主党人的支持很重要，尤其是拉尔夫·纳德也在参选。我会承诺增加我们最珍视的社会项目的投入，像克林顿一样继续提高高收入者的税负，并寻找其他能吸引左翼的领域。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3411@68/description",
+        "2000_Gore_Graham/answers_json/3411@56/description",
+        "2000_Gore_Kerry/answers_json/3411@67/description",
+        "2000_Gore_Bayh/answers_json/3411@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "We need to establish our independence from the Clinton Administration and let the American people know that I am my own man. I will emphasize my own scandal-free conduct, while pledging to help those Americans who have been left behind during the recent years of prosperity.",
+      "sha256": "d9b06b730e80423732b44b89189883c7cd850c37c538f37f0e219747890fc5c5",
+      "zh": "我们需要与克林顿政府保持独立，让美国人民知道，我有自己的原则。我会强调自己没有丑闻的表现，同时承诺帮助那些在近年的繁荣中被抛在身后的美国人。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3412@69/description",
+        "2000_Gore_Graham/answers_json/3412@57/description",
+        "2000_Gore_Kerry/answers_json/3412@68/description",
+        "2000_Gore_Bayh/answers_json/3412@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Let's give a good speech about how I am the mainstream, liberal candidate who will help hard-working Americans and use our surplus to shore up important government programs.",
+      "sha256": "40cbc85a616263c100bb93bbf1170759588e05e10b6370f4d1157c42894f7b57",
+      "zh": "我们来好好讲一讲，我是主流的自由派候选人，会帮助辛勤劳动的美国人，用预算盈余巩固重要的政府项目。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3429@70/description",
+        "2000_Gore_Lieberman/answers_json/3437@74/description",
+        "2000_Gore_Graham/answers_json/3429@58/description",
+        "2000_Gore_Graham/answers_json/3433@62/description",
+        "2000_Gore_Graham/answers_json/3437@66/description",
+        "2000_Gore_Kerry/answers_json/3429@69/description",
+        "2000_Gore_Bayh/answers_json/3429@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Domestic issues. Let's talk about my plans to protect Social Security, public eduction, and Medicare to ensure the future prosperity of America. Let's remind voters that these are common-sense proposals that appeal to almost everyone.",
+      "sha256": "4dfd9b6db53a356aa7340f3334d55cba34c05d8c3352cadc71f195a42fda1ec0",
+      "zh": "国内问题。谈谈我保护社会保障制度、公立教育和老年医疗保险的计划，以确保美国未来的繁荣。提醒选民，这些都是合乎常理、几乎人人都能认同的提议。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3430@71/description",
+        "2000_Gore_Lieberman/answers_json/3438@75/description",
+        "2000_Gore_Graham/answers_json/3430@59/description",
+        "2000_Gore_Graham/answers_json/3434@63/description",
+        "2000_Gore_Graham/answers_json/3438@67/description",
+        "2000_Gore_Kerry/answers_json/3430@70/description",
+        "2000_Gore_Bayh/answers_json/3430@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "We need to attack George Bush's views on the environment, on energy, on taxes, on spending, and on the right direction for our country. He is out of touch with the American people.",
+      "sha256": "5574db73974759fb747e3e78a0f5d62d5a6d3151b6524739c96577f370cd32d7",
+      "zh": "我们需要攻击乔治·布什对环保、能源、税收、开支，以及国家应走什么方向的看法。他脱离了美国人民。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3431@72/description",
+        "2000_Gore_Lieberman/answers_json/3439@76/description",
+        "2000_Gore_Graham/answers_json/3431@60/description",
+        "2000_Gore_Graham/answers_json/3435@64/description",
+        "2000_Gore_Graham/answers_json/3439@68/description",
+        "2000_Gore_Kerry/answers_json/3431@71/description",
+        "2000_Gore_Bayh/answers_json/3431@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "I will emphasize my record and experience as Vice President to Bill Clinton. Voters are satisfied with the economy and direction of the country, and it is my job to continue the policies that have led to our current prosperity.",
+      "sha256": "5fe33719bcf8778023234a6cc596929017ddb51c1dd0d86cae82c75c97c2ae29",
+      "zh": "我会强调自己担任比尔·克林顿副总统期间的政绩和经验。选民对经济和国家方向感到满意，我的任务就是延续那些带来当前繁荣的政策。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3432@73/description",
+        "2000_Gore_Lieberman/answers_json/3440@77/description",
+        "2000_Gore_Graham/answers_json/3432@61/description",
+        "2000_Gore_Graham/answers_json/3436@65/description",
+        "2000_Gore_Graham/answers_json/3440@69/description",
+        "2000_Gore_Kerry/answers_json/3432@72/description",
+        "2000_Gore_Bayh/answers_json/3432@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "I will spend the end of my campaign with my running mate in Florida. This state will be critical to our chances.",
+      "sha256": "03be0c458572524fdd4018494e3e0e7aaa297846a768617ebcf5ca9151dd3e86",
+      "zh": "竞选最后阶段，我会与搭档一起待在佛罗里达州。这个州对我们的胜算至关重要。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3457@78/description",
+        "2000_Gore_Graham/answers_json/3457@71/description",
+        "2000_Gore_Kerry/answers_json/3457@74/description",
+        "2000_Gore_Bayh/answers_json/3457@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "I will appear in Pennsylvania and spend the latter half of the day in Ohio. These are two huge states that we can secure.",
+      "sha256": "f1f9ccd42ea90a5ad84d21ab90c4abfabedc8b5eb76f0cdc3c5c7b7f133b49de",
+      "zh": "我会在宾夕法尼亚州露面，当天后半段前往俄亥俄州。这两个大州，我们都能争取到。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3458@79/description",
+        "2000_Gore_Graham/answers_json/3458@72/description",
+        "2000_Gore_Kerry/answers_json/3458@75/description",
+        "2000_Gore_Bayh/answers_json/3458@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "We need to focus on states like Missouri, Tennessee, and Arkansas. Clinton may have won them four years ago, but they seem to be wavering this time around.",
+      "sha256": "053a6b64aa1d6a28f2cd375b77023114c3da13c73ebf32892976c3900f7589a6",
+      "zh": "我们需要着重争取密苏里、田纳西和阿肯色等州。克林顿也许四年前赢过这些州，但这次它们似乎开始动摇了。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3460@81/description",
+        "2000_Gore_Graham/answers_json/3460@74/description",
+        "2000_Gore_Kerry/answers_json/3460@77/description",
+        "2000_Gore_Bayh/answers_json/3460@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "I will hold a press conference and ask the American people what else George Bush is lying about. Not only did he admit to cocaine use, but now he has been caught red-handed attempting to hide a DUI arrest.",
+      "sha256": "5a167b8ec5ff376429dbdef094d6cf12b3c706b36711721f6fdc6e3ccad2456b",
+      "zh": "我会召开记者会，问美国人民，乔治·布什还在什么事情上撒谎？他不仅承认使用过可卡因，现在还被当场抓住，试图隐瞒酒驾被捕的经历。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3468@82/description",
+        "2000_Gore_Graham/answers_json/3468@75/description",
+        "2000_Gore_Kerry/answers_json/3468@78/description",
+        "2000_Gore_Bayh/answers_json/3468@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "I will remind the American people that this election is about the issues of who will better lead the nation. Personal foibles like a DUI arrest in 1976 should not factor into the voting.",
+      "sha256": "5cb50c0b575d15b7ea5d67b23cd41cc684ba44eddc5189cfb0be97fd9d6c9c0d",
+      "zh": "我会提醒美国人民，这场选举关注的是谁能更好地领导国家。1976年因酒驾被捕这样的个人过失，不应成为投票时的考量。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3469@83/description",
+        "2000_Gore_Graham/answers_json/3469@76/description",
+        "2000_Gore_Kerry/answers_json/3469@79/description",
+        "2000_Gore_Bayh/answers_json/3469@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "This isn't an appropriate story for me to comment on. I will stick to the issues in my campaign speeches, and my spokesperson will issue a brief denial that we had anything to do with the timing of this revelation.",
+      "sha256": "2e15dff723b3506f6135161de96867cbe40d578c40b9bcd222c548716bd94540",
+      "zh": "这件事不适合由我评论。我会在竞选演说中坚持谈议题，由发言人简短声明，我们与消息在此时曝光毫无关系。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3470@84/description",
+        "2000_Gore_Graham/answers_json/3470@77/description",
+        "2000_Gore_Kerry/answers_json/3470@80/description",
+        "2000_Gore_Bayh/answers_json/3470@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "I can't speak to the conduct of Bill Clinton in office. I am my own man, running my own campaign for President. To emphasize my independence, I am not accepting Clinton's offer to make campaign appearances on my behalf.",
+      "sha256": "30960c916cee316329e2da7b95962f09bd9264731b2e8d245fda3b62de77d249",
+      "zh": "我无法代比尔·克林顿解释他的任职行为。我有自己的原则，正在开展自己的总统竞选。为强调独立性，我不会接受克林顿为我助选的提议。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3484@85/description",
+        "2000_Gore_Graham/answers_json/3484@78/description",
+        "2000_Gore_Bayh/answers_json/3484@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Bill Clinton is one of the best Presidents we have had in recent memory. His Administration added 23 million jobs and oversaw a booming economy, and I have nothing but good things to say about it.",
+      "sha256": "16123e0ba39c4503fd147c7154ba70a20a525d3115500ca6f6c2ac4b29a2d322",
+      "zh": "比尔·克林顿是近些年来最优秀的总统之一。他的政府新增了2300万个就业岗位，带来了经济繁荣。我对他的执政只有赞许。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3485@86/description",
+        "2000_Gore_Graham/answers_json/3485@79/description",
+        "2000_Gore_Bayh/answers_json/3485@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "His policies were good, but I was disappointed by the personal scandals of recent years. To emphasize that I am different, I will appear frequently with my own wife, and will not shy away from expressing my affection publicly.",
+      "sha256": "e37e62341e393659f412878eac9bed17baff3dc330ff7b62c782bb0aab8003e4",
+      "zh": "他的政策很好，但近年来的个人丑闻让我失望。为强调我的不同，我会经常与自己的妻子共同露面，也不会回避公开表达爱意。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3486@87/description",
+        "2000_Gore_Graham/answers_json/3486@80/description",
+        "2000_Gore_Bayh/answers_json/3486@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Joe Lieberman is a historic choice for Vice President, and a valued member of the Democratic Party.",
+      "sha256": "1dc3ea7659fb9e6ab5257733c9f7b64536f95b14c8109ed29249d34f52ccac11",
+      "zh": "选择乔·利伯曼担任副总统，具有历史意义。他也是民主党一位受到重视的成员。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3501@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Joe Lieberman is an independent thinker who has challenged people of all views. These are the people I want in my administration.",
+      "sha256": "2f4d74d6264576b6ad7e82d484f89f0c34e9d9ce6e3d64fbac444cc3f386a453",
+      "zh": "乔·利伯曼善于独立思考，曾向持各种观点的人提出挑战。这正是我希望政府中拥有的人才。",
+      "keys": [
+        "2000_Gore_Lieberman/answers_json/3502@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Free trade is an issue that unites the left and far-right in opposition. On the other hand, both main parties generally support it.",
+      "sha256": "9403903b5c1aa7b9a83c00027541fb54a404b1680cd38d22e6233eb8ee66d60c",
+      "zh": "自由贸易让左翼与极右翼联合反对。另一方面，两大党总体上都支持它。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/751@40/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/753@42/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/845@81/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/846@82/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/847@83/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/848@84/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/944@156/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/945@157/answer_feedback",
+        "2000_Gore_Lieberman/answer_feedback_json/946@158/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/751@40/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/753@42/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/845@82/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/846@83/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/847@84/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/848@85/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/944@152/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/945@153/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/946@154/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/751@39/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/753@41/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/845@84/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/846@85/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/847@86/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/848@87/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/944@139/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/945@140/answer_feedback",
+        "2000_Nader_LaDuke/answer_feedback_json/946@141/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Millions of satisfied Americans are watching you embrace the legacy of Clinton and pledge to continue it. ",
+      "sha256": "5cec83992cd9e0c793f6d61e25353a28b1e815c8b0a47f91e63591cee19a61e0",
+      "zh": "数百万对现状满意的美国人，正看着你认同克林顿的政绩，并承诺延续它。 ",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/872@94/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/872@75/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/872@93/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/872@96/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "Good combination of embracing Clinton and attacking Bush.",
+      "sha256": "99eb170150363262ab4e08e3950ff472b20de7e707c4cdb07ae13bff2bf16646",
+      "zh": "既认同克林顿，又攻击布什，这个组合不错。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/873@95/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/873@76/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/873@94/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/873@97/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "This could work, and maybe you'll remind the Nader crowd why they should hold their nose and vote for you.",
+      "sha256": "1016af9a0d03ae8e780fe66143d416a50c1f69613696366f0638b7c00fad9af9",
+      "zh": "这可能奏效，也许你会提醒纳德的支持者，为什么他们应该捏着鼻子投你一票。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/876@98/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/876@79/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/876@97/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/876@100/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "It's rarely a bad idea to tie your fortunes to the popular Bill Clinton.",
+      "sha256": "e5d676ae3dd2548153cde3a27273f02cd6634c5aa5da1380d547eebb6a851128",
+      "zh": "把自己的政治前途与受欢迎的比尔·克林顿联系起来，很少会是坏主意。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/877@99/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/877@80/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/877@98/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/877@101/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "This is an interesting strategy, but maybe not the best. Some think you are pushing yourself too far from the center to win a national election.",
+      "sha256": "7451736481b296c25f8191309d8436372c0edf88abb546ee3e1439ef0726e7dc",
+      "zh": "这个策略有点意思，但也许不是最好的。有些人认为，要赢得全国选举，你把自己推得离中间路线太远了。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/878@100/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/878@81/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/878@99/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/878@102/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "This strategy isn't a disaster, but why work so hard to distance yourself from a popular, successful President who you worked under?",
+      "sha256": "0e1b7f5236c3cf9e3563aec0502766881e548055748a7200baf672ddfff979c9",
+      "zh": "这个策略不算灾难，但你为什么如此费力地与一位受欢迎、成功、而且自己曾为之工作的总统保持距离？",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/879@101/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/879@82/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/879@100/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/879@103/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "This is not the best response to a revelation that should be hurting Bush. By inserting yourself into things, you've not helped your image heading into the election.",
+      "sha256": "afcf9183ae1897c42ae4ddfe79171ff6b2bc779f1af288dafb702d99c814c4c0",
+      "zh": "这次曝光本该伤害布什，你的回应却不是最好的。把自己卷进去，并没有改善你临近大选时的形象。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/896@114/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/896@99/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/896@109/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/896@112/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "Why let Bush off the hook like that? You look almost too magnanimous heading into Election Day.",
+      "sha256": "575f250ac01d5403171a9088fdca26eb1f1975a5d9279fa5f7106df6f6ecd414",
+      "zh": "为什么就这样放过布什？临近选举日，你显得宽宏大量得有点过头了。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/897@115/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/897@100/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/897@110/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/897@113/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "This is probably your best bet. Bush might lose a few votes, but there's nothing you can do to pile on.",
+      "sha256": "7aedc7a9f8081ac792ae732a81fd26eabe60565771f0b38e454a9fdc870bde5c",
+      "zh": "这大概是你最好的选择。布什也许会丢掉一些选票，但你也没什么办法再补上一刀。",
+      "keys": [
+        "2000_Gore_Lieberman/answer_feedback_json/898@116/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/898@101/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/898@111/answer_feedback",
+        "2000_Gore_Bayh/answer_feedback_json/898@114/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "Today you have announced the selection of Bob Graham as running mate. Can you speak more about him?",
+      "sha256": "1b4beff5dd380bfbdd6fe39d5d486f6f46b73b8af979e066f17de0512966cd2d",
+      "zh": "今天，你宣布选择鲍勃·格雷厄姆作为竞选搭档。你能多谈谈他吗？",
+      "keys": [
+        "2000_Gore_Graham/questions_json/398@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "Is it true that you claimed to have invented the internet?",
+      "sha256": "631a956bcadffedbcccaa4a85a092e38330a7c60f94a6cb5c5abcf6e2ef7bcfe",
+      "zh": "你真的声称过，是你发明了互联网吗？",
+      "keys": [
+        "2000_Gore_Graham/questions_json/392@15/description",
+        "2000_Gore_Kerry/questions_json/392@21/description",
+        "2000_Gore_Bayh/questions_json/392@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "What do you have to say about the candidacy of Ralph Nader?",
+      "sha256": "a5847becba6c06cc96b2c09c9e5a160991ae18987cb09a79aa732fbfec1ea218",
+      "zh": "对于拉尔夫·纳德参选，你有什么要说的？",
+      "keys": [
+        "2000_Gore_Graham/questions_json/391@22/description",
+        "2000_Gore_Kerry/questions_json/391@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "I think this is a naive, misguided campaign that will split liberal support and risks putting George W. Bush in the White House. I will attack Nader's campaign and call upon him to withdraw.",
+      "sha256": "432119e455a9540f53f166816d2a5b5bad2b09c08ab6e753fb5e6f7978c208d1",
+      "zh": "我认为这场竞选天真而误入歧途，会分散自由派的支持，有可能把乔治·W.布什送进白宫。我会攻击纳德的竞选，并呼吁他退出。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3487@70/description",
+        "2000_Gore_Kerry/answers_json/3487@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "You don't punch down in politics. I will run my own campaign and trust that the voters will be smart enough to reject the Green Party in November.",
+      "sha256": "8a39e56fa59b3456b02c465f7a56f62b1af592104588fc3a99c4e93e5cbe45ef",
+      "zh": "搞政治，不该向比自己弱的对手出拳。我会开展自己的竞选，相信选民在11月足够明智，会拒绝绿党。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3488@81/description",
+        "2000_Gore_Kerry/answers_json/3488@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "We shouldn't mention Nader by name, but it wouldn't be a bad idea to emphasize the more liberal aspects of our platform to reduce his support.",
+      "sha256": "652e6281fb1a4bda73011e59d5baa129ba2d144cf8df5023d1b7cf87e4b97b65",
+      "zh": "我们不应点名提纳德，但强调纲领中更偏自由派的部分、减少他获得的支持，也不是坏主意。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3489@82/description",
+        "2000_Gore_Kerry/answers_json/3489@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "Maybe I didn't personally sit down and invent the internet. But I was crucial in fighting for the funding that allowed our universities to build this system.",
+      "sha256": "a1b2db5c63e72f8ee647aabd61fad21569560bc1373778cbad7797c9cb116e82",
+      "zh": "也许我没有亲手坐下来发明互联网。但在争取经费、让我们的大学能够建立这个系统的过程中，我发挥了关键作用。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3490@83/description",
+        "2000_Gore_Kerry/answers_json/3490@83/description",
+        "2000_Gore_Bayh/answers_json/3490@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

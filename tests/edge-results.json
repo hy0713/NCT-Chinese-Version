@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-08T07:35:17.136Z",
+  "browser": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",
+  "checks": [
+    "All game mode descriptions and difficulty options are Chinese; values survive switching",
+    "Advanced campaign funds, time, ads, staff, lobbies and back navigation",
+    "Built-in benefit dialog, localized effects and unchanged game state",
+    "Chinese home layout at 80/100/125/150 percent CSS zoom",
+    "Variable translation and missing-key fallback",
+    "Optional themes remain local with cached assets or documented substitutes",
+    "Missing Chinese entry falls back to original English",
+    "Slow native data load is safe; Start waits for data readiness",
+    "1844 and 1860 historical map libraries, native state info and switching",
+    "Zero JS errors, missing assets or external requests"
+  ],
+  "errors": [],
+  "external": [],
+  "missing": [],
+  "version": "150.0.4078.48",
+  "status": "passed"
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "source": "<p>Abraham Lincoln runs as the Republican against his rival Stephen A. Douglas. Slavery is the dominant issue and has caused two splinter candidates to step forward -- Breckinridge and Bell -- both with Southern roots.</p><ul><li>Lincoln begins with the lead, and must simply hold his Northern coalition together to take the victory.</li><li>The other three candidates must find some way to prevent a Lincoln victory. In that case, the House of Representatives will choose.</li>\r</ul>",
+    "keys": [
+      "base/election_json/8@13/summary",
+      "base/election_json/8@17/summary"
+    ]
+  },
+  {
+    "source": "<p>Abraham Lincoln begins the campaign in a strong position. The new Republican Party is largely united, and his advantage in several Northern states is overwhelming. The challenge will be to win the closer states, like Illinois, New York, and Ohio. To do so he must finesse several hot issues of the day, not the least of which is slavery.</p><p>Other Republican issues such as tariffs, homesteads, and a trans-continental railroad also dominate the discussion.</p>",
+    "keys": [
+      "base/candidate_json/67@47/description"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1860 Presidential Election.</h3><p>Don't celebrate just yet, however. Word has already arrived that South Carolina is planning a secession convention, with other states soon to follow. Your Presidency will surely be defined by how you deal with this challenge. Will you take a hard line against this action, seek a compromise Amendment to protect slavery, or simply allow the states to secede? There are few good choices for you.</p>",
+    "keys": [
+      "base/candidate_json/67@47/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry. You have lost the 1860 Presidential Election.</h3><p>You began this campaign as the heavy favorite, but somehow things just didn't come together for you. Hopefully the nation will survive the next four years, at which point the Republicans can field a candidate who promises to win. The only positive you can take out of this is that the Southern threats of secession seem to have quieted down with your defeat.</p>",
+    "keys": [
+      "base/candidate_json/67@47/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>No candidate captured an Electoral College majority.</h3><p>This leaves everyone in a bad situation. Congress will now choose from the top three candidates in the electoral vote count. You are highly unlikely to be the compromise candidate in this situation, however. It is unclear whether Congress will select Douglas or Bell, or if they will deadlock and precipitate a Constitutional crisis. If Douglas is selected, how would the South react? There are even whispers about a civil war.</p>",
+    "keys": [
+      "base/candidate_json/67@47/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<p>Stephen Douglas, thanks to a Democratic schism, has little hope of winning the election outright. His path to victory involves throwing the election the House, and finishing in the top three in the electoral vote count. In this case, he could win or at least deny the Republicans a victory.</p><p>Douglas has been a proponent of 'popular sovereignty', but this compromise has lost its luster in North and South alike. If he is to deny Lincoln a majority, he must carry some Northern states.</p>",
+    "keys": [
+      "base/candidate_json/68@48/description"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1860 Presidential Election.</h3><p>How on earth did you pull this off? Hopefully you can soothe the frayed nerves from this turbulent campaign, and move the country past its slavery issues of the 1850s. Your supporters are already preparing a compromise amendment, offering permanent protection for slavery in the South in return for the admission of more free states. An invasion of Cuba may also be in order.</p>",
+    "keys": [
+      "base/candidate_json/68@48/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry. You have lost the 1860 Presidential Election.</h3><p>You began this campaign as the heavy underdog, and sure enough you were shut out of the North and South alike. Depending on what happens next, you may be called upon to keep the Democratic Party loyal to the Union. There are already rumblings of secession from several Southern states.</p>",
+    "keys": [
+      "base/candidate_json/68@48/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>No candidate captured an Electoral College majority.</h3><p>Congress will now choose from the top three candidates in the electoral vote count. If you are in the top three, you have a great chance. Otherwise, Bell will be the favorite. Your supporters are already preparing a compromise amendment, offering permanent protection for slavery in the South in return for the admission of more free states. You will likely have to make such promises to prevent a deadlock in the House vote.</p>",
+    "keys": [
+      "base/candidate_json/68@48/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<p>Hannibal Hamlin is a Senator and former Governor from Maine and a long-time opponent of slavery. It was this issue that caused him to change his allegiance from the Democratic Party in 1856, in the aftermath of the Kansas-Nebraska Act. Hamlin will help to balance the ticket regionally and give it name recognition.</p>",
+    "keys": [
+      "base/candidate_json/71@51/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Herschel Johnson is a former Governor of Georgia with a stated opposition to the Fire-Eaters and talk of secession. He is one of the last leading Democrats of the South to have not bolted to the Southern Democrat splinter party. Unfortunately, it is not very likely that Johnson's presence will help Douglas compete with Breckenridge or Bell in the South.</p>",
+    "keys": [
+      "base/candidate_json/72@52/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Cassius Clay is an anti-slavery publisher from Kentucky who has faced numerous threats to his life for the views he has taken. He served in the Kentucky House until his views hindered further political advancement in his home state. He has a wide reputation as an abolitionist publisher, and would help burnish the anti-slavery platform of the Republicans. Detractors claim that Clay is <em>too</em> extreme, and has a limited record in public office.<p>",
+    "keys": [
+      "base/candidate_json/127@55/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Salmon Chase has served as Governor of Ohio and was influential in the founding of the Republican Party. He has worked on the behalf of fugitive slaves as an attorney and has strong anti-slavery credentials, while stopping just short of a call for outright abolitionism. He is also known to be ambitious, and might be an uneasy number two man to campaign with.</p>",
+    "keys": [
+      "base/candidate_json/128@56/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>James Guthrie served as Secretary of the Treasury under Franklin Pierce, and paid off most of the federal debt during that term. He is a slaveholder and states' rights advocate, but a bitter opponent of secession. His selection would allow Douglas to run with a Southerner who is still somewhat connected to the national political scene. Guthrie has also long advocated internal improvements and owns a railroad, which could attract some limited crossover support from former Whigs.</p>",
+    "keys": [
+      "base/candidate_json/129@57/description_as_running_mate"
+    ]
+  },
+  {
+    "source": "<p>Horatio Seymour has served as Governor of New York and is influential in that state's politics. By selecting him, Douglas would be running with an all-northern ticket, but he could gain valuable votes in the nation's largest state. Seymour has been associated with the \"Hunker\" faction of New York Democrats, who favor internal improvements and oppose agitation on the slavery issue. It would take some cajoling and possibly more for Seymour to accept the nomination.</p>",
+    "keys": [
+      "base/candidate_json/130@58/description_as_running_mate"
+    ]
+  }
+]

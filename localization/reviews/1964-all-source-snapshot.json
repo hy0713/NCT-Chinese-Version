@@ -1,0 +1,1640 @@
+[
+  {
+    "source": "America in 1964 stands unsettled, memories of the beloved late John F. Kennedy still prominent in the nation's memory. As the nation recovers from the shock of November 1963, the 1964 campaign is just beginning, with questions swirling around America’s course in Vietnam, Social Security, and Civil Rights, among others.<li>Lyndon B. Johnson aims to maintain his large lead in the polls, defending his policies while keeping both integrationist and segregationist voters of the Democratic Party on board.</li><li>Barry Goldwater hopes to make up ground quickly, reuniting his party behind his conservative vision after a contentious primary, as well as flipping the South for the first time since Reconstruction.</li>",
+    "zh": "1964年的美国仍未安定下来，深受爱戴的约翰·F.·肯尼迪总统之死依然烙印在国民心中。国家尚在从1963年11月的震惊中恢复，1964年的竞选已拉开序幕。美国在越南的政策、社会保障和民权等问题，正引发纷纷议论。<li>林登·B.·约翰逊希望保持民调中的巨大领先优势。他既要捍卫自己的政策，也要同时留住民主党内支持种族融合和支持种族隔离的选民。</li><li>巴里·戈德华特希望迅速缩小差距。经历充满争议的初选后，他需要让共和党重新团结在自己的保守主义路线周围，并争取自重建时期以来首次扭转南方的党派版图。</li>",
+    "keys": [
+      "base/election_json/69@8/summary"
+    ]
+  },
+  {
+    "source": "n/a",
+    "zh": "不适用",
+    "keys": [
+      "base/candidate_json/36@2/electoral_victory_message",
+      "base/candidate_json/36@2/electoral_loss_message",
+      "base/candidate_json/36@2/no_electoral_majority_message",
+      "base/candidate_json/30@7/electoral_victory_message",
+      "base/candidate_json/30@7/electoral_loss_message",
+      "base/candidate_json/30@7/no_electoral_majority_message",
+      "base/candidate_json/31@8/electoral_victory_message",
+      "base/candidate_json/31@8/electoral_loss_message",
+      "base/candidate_json/31@8/no_electoral_majority_message",
+      "base/candidate_json/32@9/description",
+      "base/candidate_json/32@9/electoral_victory_message",
+      "base/candidate_json/32@9/electoral_loss_message",
+      "base/candidate_json/32@9/no_electoral_majority_message",
+      "base/candidate_json/33@10/description",
+      "base/candidate_json/33@10/electoral_victory_message",
+      "base/candidate_json/33@10/electoral_loss_message",
+      "base/candidate_json/33@10/no_electoral_majority_message",
+      "base/candidate_json/34@11/description",
+      "base/candidate_json/34@11/electoral_victory_message",
+      "base/candidate_json/34@11/electoral_loss_message",
+      "base/candidate_json/34@11/no_electoral_majority_message",
+      "base/candidate_json/37@12/description",
+      "base/candidate_json/37@12/electoral_victory_message",
+      "base/candidate_json/37@12/electoral_loss_message",
+      "base/candidate_json/37@12/no_electoral_majority_message",
+      "base/candidate_json/38@13/description",
+      "base/candidate_json/38@13/electoral_victory_message",
+      "base/candidate_json/38@13/electoral_loss_message",
+      "base/candidate_json/38@13/no_electoral_majority_message",
+      "base/candidate_json/39@14/description",
+      "base/candidate_json/39@14/electoral_victory_message",
+      "base/candidate_json/39@14/electoral_loss_message",
+      "base/candidate_json/39@14/no_electoral_majority_message",
+      "base/candidate_json/40@15/description",
+      "base/candidate_json/40@15/electoral_victory_message",
+      "base/candidate_json/40@15/electoral_loss_message",
+      "base/candidate_json/40@15/no_electoral_majority_message",
+      "base/candidate_json/41@16/description",
+      "base/candidate_json/41@16/electoral_victory_message",
+      "base/candidate_json/41@16/electoral_loss_message",
+      "base/candidate_json/41@16/no_electoral_majority_message",
+      "base/candidate_json/42@17/description",
+      "base/candidate_json/42@17/electoral_victory_message",
+      "base/candidate_json/42@17/electoral_loss_message",
+      "base/candidate_json/42@17/no_electoral_majority_message",
+      "base/candidate_json/43@18/description",
+      "base/candidate_json/43@18/electoral_victory_message",
+      "base/candidate_json/43@18/electoral_loss_message",
+      "base/candidate_json/43@18/no_electoral_majority_message",
+      "base/candidate_json/55@22/description",
+      "base/candidate_json/55@22/electoral_victory_message",
+      "base/candidate_json/55@22/electoral_loss_message",
+      "base/candidate_json/55@22/no_electoral_majority_message",
+      "base/candidate_json/56@23/description",
+      "base/candidate_json/56@23/electoral_victory_message",
+      "base/candidate_json/56@23/electoral_loss_message",
+      "base/candidate_json/56@23/no_electoral_majority_message",
+      "base/candidate_json/44@24/description",
+      "base/candidate_json/44@24/electoral_victory_message",
+      "base/candidate_json/44@24/electoral_loss_message",
+      "base/candidate_json/44@24/no_electoral_majority_message",
+      "base/candidate_json/9998@25/description",
+      "base/candidate_json/9998@25/electoral_victory_message",
+      "base/candidate_json/9998@25/electoral_loss_message",
+      "base/candidate_json/9998@25/no_electoral_majority_message",
+      "base/candidate_json/9999@26/description",
+      "base/candidate_json/9999@26/electoral_victory_message",
+      "base/candidate_json/9999@26/electoral_loss_message",
+      "base/candidate_json/9999@26/no_electoral_majority_message",
+      "base/candidate_json/57@27/description",
+      "base/candidate_json/57@27/electoral_victory_message",
+      "base/candidate_json/57@27/electoral_loss_message",
+      "base/candidate_json/57@27/no_electoral_majority_message",
+      "base/candidate_json/58@28/description",
+      "base/candidate_json/58@28/electoral_victory_message",
+      "base/candidate_json/58@28/electoral_loss_message",
+      "base/candidate_json/58@28/no_electoral_majority_message",
+      "base/candidate_json/59@29/description",
+      "base/candidate_json/59@29/electoral_victory_message",
+      "base/candidate_json/59@29/electoral_loss_message",
+      "base/candidate_json/59@29/no_electoral_majority_message",
+      "base/candidate_json/60@30/description",
+      "base/candidate_json/60@30/electoral_victory_message",
+      "base/candidate_json/60@30/electoral_loss_message",
+      "base/candidate_json/60@30/no_electoral_majority_message",
+      "base/candidate_json/61@31/description",
+      "base/candidate_json/61@31/electoral_victory_message",
+      "base/candidate_json/61@31/electoral_loss_message",
+      "base/candidate_json/61@31/no_electoral_majority_message",
+      "base/candidate_json/62@32/description",
+      "base/candidate_json/62@32/electoral_victory_message",
+      "base/candidate_json/62@32/electoral_loss_message",
+      "base/candidate_json/62@32/no_electoral_majority_message",
+      "base/candidate_json/63@33/description",
+      "base/candidate_json/63@33/electoral_victory_message",
+      "base/candidate_json/63@33/electoral_loss_message",
+      "base/candidate_json/63@33/no_electoral_majority_message",
+      "base/candidate_json/64@34/description",
+      "base/candidate_json/64@34/electoral_victory_message",
+      "base/candidate_json/64@34/electoral_loss_message",
+      "base/candidate_json/64@34/no_electoral_majority_message",
+      "base/candidate_json/45@38/description",
+      "base/candidate_json/45@38/electoral_victory_message",
+      "base/candidate_json/45@38/electoral_loss_message",
+      "base/candidate_json/45@38/no_electoral_majority_message",
+      "base/candidate_json/46@39/description",
+      "base/candidate_json/46@39/electoral_victory_message",
+      "base/candidate_json/46@39/electoral_loss_message",
+      "base/candidate_json/46@39/no_electoral_majority_message",
+      "base/candidate_json/47@40/description",
+      "base/candidate_json/47@40/electoral_victory_message",
+      "base/candidate_json/47@40/electoral_loss_message",
+      "base/candidate_json/47@40/no_electoral_majority_message",
+      "base/candidate_json/48@41/description",
+      "base/candidate_json/48@41/electoral_victory_message",
+      "base/candidate_json/48@41/electoral_loss_message",
+      "base/candidate_json/48@41/no_electoral_majority_message",
+      "base/candidate_json/49@42/description",
+      "base/candidate_json/49@42/electoral_victory_message",
+      "base/candidate_json/49@42/electoral_loss_message",
+      "base/candidate_json/49@42/no_electoral_majority_message",
+      "base/candidate_json/50@43/description",
+      "base/candidate_json/50@43/electoral_victory_message",
+      "base/candidate_json/50@43/electoral_loss_message",
+      "base/candidate_json/50@43/no_electoral_majority_message",
+      "base/candidate_json/51@44/description",
+      "base/candidate_json/51@44/electoral_victory_message",
+      "base/candidate_json/51@44/electoral_loss_message",
+      "base/candidate_json/51@44/no_electoral_majority_message",
+      "base/candidate_json/52@45/description",
+      "base/candidate_json/52@45/electoral_victory_message",
+      "base/candidate_json/52@45/electoral_loss_message",
+      "base/candidate_json/52@45/no_electoral_majority_message",
+      "base/candidate_json/53@46/description",
+      "base/candidate_json/53@46/electoral_victory_message",
+      "base/candidate_json/53@46/electoral_loss_message",
+      "base/candidate_json/53@46/no_electoral_majority_message",
+      "base/candidate_json/67@47/description_as_running_mate",
+      "base/candidate_json/68@48/description_as_running_mate",
+      "base/candidate_json/69@49/electoral_victory_message",
+      "base/candidate_json/69@49/electoral_loss_message",
+      "base/candidate_json/69@49/no_electoral_majority_message",
+      "base/candidate_json/69@49/description_as_running_mate",
+      "base/candidate_json/70@50/electoral_victory_message",
+      "base/candidate_json/70@50/electoral_loss_message",
+      "base/candidate_json/70@50/no_electoral_majority_message",
+      "base/candidate_json/70@50/description_as_running_mate",
+      "base/candidate_json/71@51/description",
+      "base/candidate_json/71@51/electoral_victory_message",
+      "base/candidate_json/71@51/electoral_loss_message",
+      "base/candidate_json/71@51/no_electoral_majority_message",
+      "base/candidate_json/72@52/description",
+      "base/candidate_json/72@52/electoral_victory_message",
+      "base/candidate_json/72@52/electoral_loss_message",
+      "base/candidate_json/72@52/no_electoral_majority_message",
+      "base/candidate_json/73@53/description",
+      "base/candidate_json/73@53/electoral_victory_message",
+      "base/candidate_json/73@53/electoral_loss_message",
+      "base/candidate_json/73@53/no_electoral_majority_message",
+      "base/candidate_json/76@54/description",
+      "base/candidate_json/76@54/electoral_victory_message",
+      "base/candidate_json/76@54/electoral_loss_message",
+      "base/candidate_json/76@54/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You’ve won the 1964 Election!</h3><p></p>It comes as no surprise to anyone but the most devoted Goldwater supporters, but you have emerged victorious from the 1964 Election- an outcome that was never in doubt. Your supporters sit back in smug satisfaction as Goldwater delivers a muted concession speech, and you can rest assured that another four years in office awaits you.<p></p>Who knows what the future holds? If all goes well, maybe you can run again in 1968. Make sure to keep the economy chugging and the Vietnam War going smoothly, or you may be in trouble- Goldwater seems to have kicked the hornet’s nest of conservatives, and they’ll be looking to challenge you in the future...",
+    "zh": "<h3>恭喜！您赢得了 1964 年大选！</h3><p></p>除了最忠实的戈德华特支持者之外，任何人都不会感到惊讶，但你们在 1964 年的选举中取得了胜利 - 这是一个不容置疑的结果。当戈德华特发表无声的败选演讲时，您的支持者沾沾自喜地坐了下来，您可以放心，还有四年的任期等待着您。<p></p>谁知道未来会怎样？如果一切顺利的话，也许你可以在1968年再次参选。一定要保持经济的发展和越南战争的顺利进行，否则你可能会遇到麻烦——戈德华特似乎已经捅了保守派的马蜂窝，他们将来会找机会挑战你的……",
+    "keys": [
+      "base/candidate_json/6970@98/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Astounding! You have lost the 1964 Election!</h3><p></p>In an utterly flabbergasting turn of events, the Democratic landslide forecast by every pundit from May to November has been turned completely on its head. They may be struggling to explain it on ABC, but the news is true all the same- by a combination of the Goldwater campaign’s competence, your complete and utter collapse in the last few months, and what seems like divine intervention, Barry Goldwater will be the next President.<p></p>There’s a lot of blame being thrown around the Democratic Party, and almost all of it is directed at you. To blow such a commanding polling lead is almost unheard of- indeed, some whisper that you intentionally sabotaged your campaign, as ridiculous as this may be. No matter the reason, your political career is over. Best read up on Thomas Dewey.",
+    "zh": "<h3>令人震惊！你输掉了 1964 年的选举！</h3><p></p>在一个完全令人震惊的事态发展中，所有专家预测的从 5 月到 11 月的民主党将取得压倒性胜利，结果完全被颠覆了。他们可能很难在 ABC 上解释这一点，但这个消息仍然是真实的 - 通过戈德华特竞选活动的能力、过去几个月你的彻底崩溃以及看似神圣的干预，巴里·戈德华特将成为下一任总统。<p></p>民主党周围有很多指责，几乎所有的指责都是针对你的。打破如此压倒性的民调领先优势几乎是闻所未闻的——事实上，有人私下说你故意破坏你的竞选活动，尽管这可能很荒谬。不管出于什么原因，你的政治生涯已经结束了。最好阅读托马斯·杜威。",
+    "keys": [
+      "base/candidate_json/6970@98/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>A tie has been forced in the 1964 Election.</h3><p></p>How did this manage to happen? America stands surprised at the unexpected outcome before them- for the first time in over a century, a winner has not been decided on Election Night. By some strange miracle, Goldwater has battled his way back just far enough to tie the election.<p></p>You have nothing to fear about losing the Presidency, of course- Democrats control both the Senate and the House- but already, questions are being raised about your viability as a candidate. After all, if someone as unpopular as Goldwater could catch up to your lead, imagine what a Nixon could do? Best pray your ideas are as successful as you hope.",
+    "zh": "<h3>1964 年选举中被迫打成平局。</h3><p></p>这是怎么发生的？美国对眼前的意外结果感到惊讶——一个多世纪以来，第一次在选举之夜尚未确定获胜者。凭借某种奇怪的奇迹，戈德华特一路奋战，勉强扳平了选举。<p></p>当然，您无需担心失去总统职位 - 民主党控制着参议院和众议院 - 但人们已经对您作为候选人的生存能力提出了质疑。毕竟，如果像戈德华特这样不受欢迎的人能够赶上你的领先地位，想象一下尼克松能做什么？最好祈祷您的想法如您希望的那样成功。",
+    "keys": [
+      "base/candidate_json/6970@98/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Amazing! You’ve defeated the odds and won the 1964 Election!</h3></p><p>They said a miracle would be needed for Barry Goldwater to win, and it seems a miracle has taken place. Your supporters flood the streets as pollsters and pundits struggle to explain how this occurred. By shrewd competence, good fortune, and what seems like divine intervention, Barry Goldwater has won the election.</p><p>Where you go from here is anyone’s guess. Undoubtedly, your effectiveness will be decided by the makeup of Congress- it will certainly be yet another struggle to pass your agenda through the moderates and liberals that make up much of the government- but for now, sit back and relax, knowing you’ve pulled off an upset greater than 1948!",
+    "zh": "<h3>太棒了！您战胜了困难，赢得了 1964 年大选！</h3></p><p>他们说巴里·戈德华特需要奇迹才能获胜，看来奇迹已经发生了。你的支持者涌上街头，民意调查专家和专家们努力解释这是如何发生的。凭借精明的能力、好运和看似神圣的干预，巴里·戈德华特赢得了选举。</p><p>任何人都在猜测你接下来会去哪里。毫无疑问，你的效率将取决于国会的组成——要让你的议程通过政府大部分的温和派和自由派，肯定会是另一场斗争——但现在，坐下来放松一下，知道你已经完成了比 1948 年更大的失败！",
+    "keys": [
+      "base/candidate_json/6969@99/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>You have forced a tie in the 1964 Election.</h3></p><p>America stands surprised at the peculiar situation before them- for the first time in over a century, the winner of the Presidency has not been decided on Election Night. Through some combination of a furious comeback on your behalf and a cruel joke played by God, you have neither failed to or defeated Lyndon Johnson for the Presidency- an exact tie has occurred.</p><p>As impressive as this feat is, the cruelty of the situation doesn’t end there- Democrats control both the Senate and the House, all but dooming your chances at winning. At the least, take pride in the conservative revolution you have brought to Congress- and, if you’re still open for it, perhaps your old seat in the Senate will be open sooner or later.",
+    "zh": "<h3>您在 1964 年选举中迫使双方打成平局。</h3></p><p>美国对眼前的特殊情况感到惊讶——一个多世纪以来第一次，总统选举之夜尚未确定。通过代表你的猛烈反击和上帝开的残酷玩笑的某种结合，你在总统职位上既没有失败也没有击败林登·约翰逊——已经发生了精确的平局。</p><p>尽管这一壮举令人印象深刻，但残酷的情况并没有就此结束——民主党控制着参议院和众议院，几乎注定了你获胜的机会。至少，为你给国会带来的保守派革命感到自豪——如果你仍然对此持开放态度，也许你在参议院的旧席位迟早会空出来。",
+    "keys": [
+      "base/candidate_json/6969@99/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "Congratulations on securing the Democratic nomination for President! As you take the stage to thunderous applause, what would you like to emphasize to kick this campaign off?",
+    "zh": "恭喜您获得民主党总统提名！当您在雷鸣般的掌声中走上讲台时，您想强调什么来拉开这次活动的序幕？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/322@0/description"
+    ]
+  },
+  {
+    "source": "Some of your supporters expected candidates like Robert Kennedy to be selected as your running mate. Can you explain why you chose Hubert Humphrey instead?",
+    "zh": "你的一些支持者期望像罗伯特·肯尼迪这样的候选人被选为你的竞选搭档。您能解释一下为什么您选择休伯特汉弗莱吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/321@1/description"
+    ]
+  },
+  {
+    "source": "An embarrassing gaffe has hit papers all over the country- Goldwater suggests the use of nuclear weapons in Vietnam!",
+    "zh": "一个令人尴尬的失态已经登上了全国各地的报纸 - 戈德华特建议在越南使用核武器！",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/338@2/description",
+      "1964_Goldwater_Miller/questions_json/338@2/description"
+    ]
+  },
+  {
+    "source": "Television advertising has become a greater part of political campaigning in the last few years, with more and more families owning televisions every day. As such, we need to decide on the tone of what we air to the public- it could color this election from day one.",
+    "zh": "过去几年，电视广告已成为政治竞选的重要组成部分，每天都有越来越多的家庭拥有电视。因此，我们需要决定向公众播放的内容的基调——它可能从第一天起就给这次选举带来色彩。",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/255@3/description"
+    ]
+  },
+  {
+    "source": "A new wave of Goldwater’s attack ads have gone out across the nation, highlighting Johnson’s involvement with Bobby Baker and Bill Sol Estes!",
+    "zh": "戈德华特新一轮攻击广告已在全国投放，矛头直指约翰逊与鲍比·贝克、比利·索尔·埃斯蒂斯之间的牵连！",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/326@4/description"
+    ]
+  },
+  {
+    "source": "Despite your best efforts, there’s no question about it- there’s a massive divide between the Northern, integrationist wing and the Southern, segregationist wing of the Democratic Party. Do you have a plan on bringing the two back together- at the least, for this election?",
+    "zh": "尽管你尽了最大努力，但毫无疑问 - 民主党的北方融合主义派和南方种族隔离主义派之间存在巨大分歧。您是否有计划让两者重新走到一起——至少在这次选举中？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/256@5/description"
+    ]
+  },
+  {
+    "source": "Civil rights continue to be a major issue of the times, with African-American activists like MLK and Malcolm X still marching on the streets for further enforcement and expansion of the Civil Rights Act. What should be our campaign’s approach to them?",
+    "zh": "民权仍然是时代的一个重大问题，MLK 和 Malcolm X 等非裔美国活动人士仍在街头游行，要求进一步执行和扩大民权法案。我们的竞选活动应该采取什么方法来应对他们？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/254@6/description"
+    ]
+  },
+  {
+    "source": "Hubert Humphrey is one of the most outspoken liberals in the Democratic Party, and that reputation seems to be following him- Goldwater has recently denounced him as a 'left-extremist'. Should we step in to defend him?",
+    "zh": "休伯特汉弗莱是民主党中最直言不讳的自由主义者之一，这种声誉似乎正在追随着他 - 戈德华特最近谴责他是“左翼极端主义者”。我们应该站出来为他辩护吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/266@7/description"
+    ]
+  },
+  {
+    "source": "Goldwater has swung around to attack your Presidency from a different angle, attacking you as too soft and ineffectual on Vietnam to be entrusted with the war. Would you like to respond?",
+    "zh": "戈德华特已经从不同的角度攻击你的总统职位，攻击你在越南问题上过于软弱和无能，无法委托参战。您愿意回应吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/263@8/description"
+    ]
+  },
+  {
+    "source": "Goldwater’s campaign continues to hit your campaign hard on the Bobby Baker and Billie Sol Estes scandals, accusing you of being a corrupt, lying cheat! What actions, if any, should we take to downplay the issue?",
+    "zh": "戈德华特的竞选团队继续利用鲍比·贝克和比利·索尔·埃斯蒂斯的丑闻猛攻你，指责你是一个贪污腐败、满口谎言的骗子！我们该采取什么行动来淡化这件事，还是干脆不作回应？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/272@9/description"
+    ]
+  },
+  {
+    "source": "Moderate Republicans have been quite dissatisfied with the course of Goldwater’s campaign, and many major figures on the liberal-moderate wing have refused to endorse him. There may be an opportunity to win these moderates over. Should we go for it?",
+    "zh": "温和派共和党人对戈德华特的竞选过程非常不满意，自由温和派的许多主要人物都拒绝支持他。也许有机会赢得这些温和派的支持。我们应该去争取吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/271@10/description"
+    ]
+  },
+  {
+    "source": "Speeches are a big part of any campaign, and yours is no exception. What would you like to talk about today?",
+    "zh": "演讲是任何竞选活动的重要组成部分，您的也不例外。今天你想聊什么？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/274@11/description"
+    ]
+  },
+  {
+    "source": "Richard Nixon, the former Vice President, has given a speech attacking Hubert Humphrey in support of Goldwater’s campaign. Nixon still enjoys a fair amount of popularity in America- we can’t simply ignore his comments.",
+    "zh": "理查德·尼克松，前副总统，发表演讲攻击休伯特汉弗莱，以支持戈德华特的竞选活动。尼克松在美国仍然享有相当高的人气——我们不能简单地忽视他的评论。",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/287@12/description"
+    ]
+  },
+  {
+    "source": "Your 'Great Society' has been a major part of your campaign promises, but many potential voters are wondering how you plan to come through on some of these promises- like slashing poverty. Would you care to expand on your plans?",
+    "zh": "您的“伟大社会”一直是您竞选承诺的主要部分，但许多潜在选民想知道您计划如何兑现其中一些承诺，例如消除贫困。您愿意扩展您的计划吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/291@13/description"
+    ]
+  },
+  {
+    "source": "Would you appoint federal judges who support the decision <em>Engel v. Vitale</em> outlawing mandatory school prayer?",
+    "zh": "您会任命支持该决定的联邦法官吗 <em>恩格尔诉维塔莱</em> 禁止学校强制祈祷？\n仅仅 5 分钟后，",
+    "keys": [
+      "1968_Nixon_Rockefeller/questions_json/273@19/description",
+      "1968_Humphrey_Kennedy/questions_json/273@10/description",
+      "1968_Wallace_LeMay/questions_json/273@19/description",
+      "1968_Wallace_Thurmond/questions_json/273@9/description",
+      "1968_Wallace_Chandler/questions_json/273@12/description",
+      "1964_Johnson_Humphrey/questions_json/273@14/description",
+      "1964_Goldwater_Miller/questions_json/273@14/description"
+    ]
+  },
+  {
+    "source": "If elected as President, what would you do to lower the inflation rate in this country, which currently stands at over 4%?",
+    "zh": "如果当选总统，您会采取什么措施来降低这个国家目前超过 4% 的通货膨胀率？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/278@20/description",
+      "1968_Nixon_Romney/questions_json/278@22/description",
+      "1968_Humphrey_Connally/questions_json/278@16/description",
+      "1968_Wallace_Thurmond/questions_json/278@15/description",
+      "1968_Wallace_Chandler/questions_json/278@22/description",
+      "1964_Johnson_Humphrey/questions_json/278@15/description",
+      "1964_Goldwater_Miller/questions_json/278@15/description"
+    ]
+  },
+  {
+    "source": "Another story has broken our way- Goldwater has received an endorsement from the leader of the Alabama Ku Klux Klan!",
+    "zh": "另一个故事打破了我们的道路——戈德华特已获得阿拉巴马州三K党领导人的认可！",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/286@16/description"
+    ]
+  },
+  {
+    "source": "Goldwater has famously had a large amount of backing from the ultra-conservative John Birch Society, which has recently been disavowed by numerous prominent conservatives. This has only further hurt Goldwater’s numbers.",
+    "zh": "戈德华特众所周知得到了极端保守的约翰·伯奇协会的大力支持，但该协会最近被许多著名的保守派人士否认。这只会进一步损害戈德华特的数量。",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/289@17/description"
+    ]
+  },
+  {
+    "source": "Nikita Khrushchev, Premier of the Soviet Union, has been overthrown by Leonid Brezhnev! This has hurt the Goldwater campaign, which has been using belligerent quotes from Khrushchev to gather votes from foreign policy minded voters.",
+    "zh": "苏联总理尼基塔·赫鲁晓夫已被勃列日涅夫推翻！这伤害了戈德华特竞选活动，该竞选活动一直利用赫鲁晓夫的好战言论来收集具有外交政策意识的选民的选票。",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/270@19/description",
+      "1964_Goldwater_Miller/questions_json/270@19/description"
+    ]
+  },
+  {
+    "source": "What is your opinion of the military draft that is currently in place?",
+    "zh": "您对目前的军事草案有何看法？",
+    "keys": [
+      "1968_Humphrey_Harris/questions_json/261@14/description",
+      "1968_Wallace_LeMay/questions_json/261@17/description",
+      "1964_Johnson_Humphrey/questions_json/261@20/description",
+      "1964_Goldwater_Miller/questions_json/261@20/description"
+    ]
+  },
+  {
+    "source": "Famous actor Ronald Reagan has given a long speech in support of Barry Goldwater in California. The speech, immediately popular nationwide, has been dubbed ‘A Time For Choosing.’",
+    "zh": "著名演员罗纳德·里根在加利福尼亚州中发表了支持巴里·戈德华特的长篇演讲。这篇演讲立即风靡全国，被称为“选择的时刻”。",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/324@21/description",
+      "1964_Goldwater_Miller/questions_json/324@21/description"
+    ]
+  },
+  {
+    "source": "Though it may seem like a foregone conclusion to attack Goldwater on the Klan endorsement fiasco, the fact remains that we are still behind in the South, where the Klan still has substantial influence. Should we press this line of attack?",
+    "zh": "虽然攻击戈德华特三K党代言惨败似乎已成定局，但事实仍然是，我们在南方仍然落后，在那里，三K党仍然具有重大影响力。我们应该进攻这条线吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/282@22/description"
+    ]
+  },
+  {
+    "source": "The campaign is rapidly moving towards its close, and civil rights remains as a major issue in America today. Is there any last-minute appeal you would like to make to win voters over?",
+    "zh": "该活动正在迅速接近尾声，而民权仍然是当今美国的一个主要问题。您是否想在最后一刻发出呼吁以赢得选民的支持？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/268@23/description"
+    ]
+  },
+  {
+    "source": "The final days of the campaign are here, and both campaigns are throwing everything they have left in to come out on top. Where should your campaign concentrate its last efforts?",
+    "zh": "竞选活动的最后几天已经到来，两个竞选团队都在竭尽全力以求取得胜利。你的竞选活动最后的努力应该集中在哪里？",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/325@24/description"
+    ]
+  },
+  {
+    "source": "They have a point. The Civil Rights Act was watered down by obstruction and interference from segregationist senators, and I’d like to see one with better protections make it to my desk in my second term.",
+    "zh": "他们说得有道理。民权法案由于种族隔离主义参议员的阻挠和干扰而被淡化，我希望看到一个具有更好保护措施的法案在我的第二个任期内出现在我的办公桌上。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1661@0/description"
+    ]
+  },
+  {
+    "source": "We’ll be sure to enforce the Act to the best of our abilities. Anything past that, I can’t. We’ll do what we need to do, whether that’s another Act or not.",
+    "zh": "我们一定会尽最大努力执行该法案。除此之外，我不能。我们会做我们需要做的事情，无论这是否是另一项法案。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1662@1/description"
+    ]
+  },
+  {
+    "source": "Haven’t we done enough? The Civil Rights Act of 1964 was enough of a pain to pass. We’ve given them what they want- I can’t make any promises on legislation past that.",
+    "zh": "我们做得还不够吗？ 1964 年的民权法案已经足够让人痛苦了。我们已经给了他们他们想要的东西——我不能对除此之外的立法做出任何承诺。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1664@2/description"
+    ]
+  },
+  {
+    "source": "Goldwater’s made a number of bad decisions in his career. We’d be cutting our own arm off to not be using it against him.",
+    "zh": "戈德华特在他的职业生涯中做出了一些错误的决定。我们会砍掉自己的手臂，以免用它来对付他。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1665@3/description"
+    ]
+  },
+  {
+    "source": "Focus on my record- Civil Rights, Social Security, strength at home and abroad. We’re the incumbents- let’s act like it.",
+    "zh": "着重强调我的政绩——民权、社会保障，以及国内外的实力。我们是执政的一方，就该拿出执政者的气势。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1666@4/description"
+    ]
+  },
+  {
+    "source": "Why should I tie myself to the sinking ship that is the Southern Democrats? With the numbers I have, they should be begging me for help. Either get with the program, or get the hell out of my way.",
+    "zh": "为什么我要把自己绑在南方民主党这艘正在下沉的船上？以我掌握的人数，他们应该向我求助。要么继续这个计划，要么滚开。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1671@6/description"
+    ]
+  },
+  {
+    "source": "We’ll stick to typical railing against Republicans. Anything drastic we do will just anger one side or the other. Leave it for some other poor bastard to clean up.",
+    "zh": "我们照常痛骂共和党就行。采取任何激烈举措，都只会惹怒一方或另一方。把这烂摊子留给别的倒霉蛋去收拾吧。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1670@7/description"
+    ]
+  },
+  {
+    "source": "We need to make sure that our military is adequately filled with personnel. That being said, I would prefer to see a volunteer system in place. I'm confident that there are enough patriotic young men in this country to make that system work.",
+    "zh": "我们需要确保我们的军队有足够的人员。话虽这么说，我更希望看到一个志愿者系统到位。我相信这个国家有足够多的爱国年轻人来使这个制度发挥作用。",
+    "keys": [
+      "1968_Humphrey_Harris/answers_json/1689@28/description",
+      "1968_Wallace_LeMay/answers_json/1689@31/description",
+      "1964_Johnson_Humphrey/answers_json/1689@8/description",
+      "1964_Goldwater_Miller/answers_json/1689@7/description"
+    ]
+  },
+  {
+    "source": "The draft is evil and should be abolished. We would never need it in the first place if warmongers like Johnson hadn't gotten us into this mess over in Vietnam.",
+    "zh": "草案是邪恶的，应该废除。如果像约翰逊这样的战争贩子没有让我们在越南陷入混乱，我们一开始就不需要它。",
+    "keys": [
+      "1968_Humphrey_Harris/answers_json/1690@29/description",
+      "1968_Wallace_LeMay/answers_json/1690@32/description",
+      "1964_Johnson_Humphrey/answers_json/1690@9/description",
+      "1964_Goldwater_Miller/answers_json/1690@8/description"
+    ]
+  },
+  {
+    "source": "If Goldwater wants a fight over Vietnam, we’ll give him one. It would be practically  criminal not to, with the ridiculous ideas he’s spewed about it.",
+    "zh": "如果戈德华特想要一场越南战争，我们会给他一场。不这样做实际上就是犯罪，因为他对此提出了荒谬的想法。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1694@10/description"
+    ]
+  },
+  {
+    "source": "We’re so far ahead, why should we even bother? A fair portion of our base already dislikes the war, and we have no reason to remind them.",
+    "zh": "我们已经遥遥领先，为什么还要费心呢？我们的基地中有相当一部分人已经不喜欢战争，我们没有理由提醒他们。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1695@11/description"
+    ]
+  },
+  {
+    "source": "Let Goldwater spout his nonsense. We don’t need to tie ourselves to Humphrey any further than we already have- we still need moderates to win, after all.",
+    "zh": "让戈德华特说出他的废话。我们不需要比现在更进一步地将自己与汉弗莱捆绑在一起——毕竟，我们仍然需要温和派才能获胜。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1707@12/description"
+    ]
+  },
+  {
+    "source": "Goldwater accusing anyone of being an extremist is rich. Humphrey is a reasonable man with reasonable ideas, and we’re glad to have him on.",
+    "zh": "戈德华特指责任何人是极端分子都是有钱人。汉弗莱是一个理性的人，有合理的想法，我们很高兴有他加入。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1708@13/description"
+    ]
+  },
+  {
+    "source": "I am the candidate of stability, of safety, and of responsibility. Civil rights will be treated with the care and attention it requires under a Johnson Presidency, with no extreme actions for one side or the other.",
+    "zh": "我是稳定、安全和责任的候选人。民权将在约翰逊总统任期内得到所需的照顾和关注，一方或另一方不会采取极端行动。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1712@14/description"
+    ]
+  },
+  {
+    "source": "I am the candidate of hope and change. In my next term, I will advance civil rights even further, and create a society that is equal in every way. On this, I give my word.",
+    "zh": "我是希望和改变的候选人。在我的下一个任期中，我将进一步推进民权，创建一个在各方面都平等的社会。对此，我保证。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1713@15/description"
+    ]
+  },
+  {
+    "source": "I am the candidate of responsibility and pragmatism. Civil rights has been advanced as far as it must be- any further action will simply be federal overreach, and must be avoided. The South has nothing to fear from a Johnson Presidency.",
+    "zh": "我是责任和务实的候选人。民权已经达到了必须的程度——任何进一步的行动都将是联邦政府的越权行为，必须避免。南方对于约翰逊总统职位没有什么可担心的。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1714@16/description"
+    ]
+  },
+  {
+    "source": "That dirty little snake will regret it soon enough.",
+    "zh": "那条肮脏的小蛇很快就会后悔的。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1716@17/description"
+    ]
+  },
+  {
+    "source": "An unintended consequence, but one we welcome.",
+    "zh": "这是一个意想不到的结果，但我们对此表示欢迎。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1723@18/description"
+    ]
+  },
+  {
+    "source": "How could we pass up an opportunity like this? I want the ad men on this, as soon as possible.",
+    "zh": "这样的机会我们怎么能错过呢？我希望广告人员尽快解决这个问题。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1724@19/description"
+    ]
+  },
+  {
+    "source": "It’s no use. Those men haven’t voted for a Democrat since Roosevelt. Let’s keep focusing on the groups we know we can win.",
+    "zh": "没有用。自罗斯福以来，这些人就没有投票给民主党。让我们继续关注我们知道可以获胜的群体。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1726@20/description"
+    ]
+  },
+  {
+    "source": "I will not deny that I knew and worked with Baker and Sol Estes back in the 50’s- that is public knowledge. However, not once did I take part in nor know of either of their fraudulent schemes. I trust that my name will be exonerated as the truth comes out.",
+    "zh": "我不会否认我早在 50 年代就认识贝克和 Sol Estes，并与他们一起工作过——这是众所周知的。然而，我一次也没有参与过，也不知道他们的任何一个欺诈计划。我相信，当真相大白时，我的名字将会被证明是无罪的。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1727@21/description"
+    ]
+  },
+  {
+    "source": "These are desperate, slanderous attacks from the Goldwater camp. I hardly knew either of these two men when I was in office, and I trust that the legal system will handle this situation with competence and tact.",
+    "zh": "这些是来自戈德华特阵营的绝望的诽谤性攻击。当我在任时，我几乎不认识这两个人，我相信法律系统会以能力和机智处理这种情况。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1728@22/description"
+    ]
+  },
+  {
+    "source": "We should be talking less about Bobby Baker and Billy Sol Estes and more about my great successes in office.",
+    "zh": "我们应该少谈论鲍比贝克和比利·索尔·埃斯蒂斯，而更多地谈论我在办公室取得的巨大成功。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1729@23/description"
+    ]
+  },
+  {
+    "source": "This decision was atrocious. I don't think it's an exaggeration to say that our way of life is at stake here when we don't allow our schools to teach basic moral values to our children.",
+    "zh": "这个决定是残酷的。我认为，如果我们不允许学校向孩子们传授基本的道德价值观，那么我们的生活方式就会受到威胁，这并不夸张。",
+    "keys": [
+      "1968_Nixon_Rockefeller/answers_json/1731@42/description",
+      "1968_Humphrey_Kennedy/answers_json/1731@45/description",
+      "1968_Wallace_LeMay/answers_json/1731@44/description",
+      "1968_Wallace_Thurmond/answers_json/1731@45/description",
+      "1968_Wallace_Chandler/answers_json/1731@50/description",
+      "1964_Johnson_Humphrey/answers_json/1731@24/description",
+      "1964_Goldwater_Miller/answers_json/1731@23/description"
+    ]
+  },
+  {
+    "source": "I was disappointed with this decision. I would certainly appoint judges who see the wisdom in teaching our kids a few lessons about morality.",
+    "zh": "我对这个决定感到失望。我当然会任命那些认为给我们的孩子上一些道德课的智慧的法官。",
+    "keys": [
+      "1968_Nixon_Rockefeller/answers_json/1732@43/description",
+      "1968_Humphrey_Kennedy/answers_json/1732@46/description",
+      "1968_Wallace_LeMay/answers_json/1732@45/description",
+      "1968_Wallace_Thurmond/answers_json/1732@46/description",
+      "1968_Wallace_Chandler/answers_json/1732@51/description",
+      "1964_Johnson_Humphrey/answers_json/1732@25/description",
+      "1964_Goldwater_Miller/answers_json/1732@24/description"
+    ]
+  },
+  {
+    "source": "We have Catholics, Jews, and others in this country who should not be forced to pray in a certain way because of what some principal believes in a public school. This is a First Amendment issue in my opinion.",
+    "zh": "这个国家有天主教徒、犹太人和其他人，他们不应该因为某些校长对公立学校的信仰而被迫以某种方式祈祷。我认为这是第一修正案的问题。",
+    "keys": [
+      "1968_Nixon_Rockefeller/answers_json/1733@44/description",
+      "1968_Humphrey_Kennedy/answers_json/1733@47/description",
+      "1968_Wallace_LeMay/answers_json/1733@46/description",
+      "1968_Wallace_Thurmond/answers_json/1733@47/description",
+      "1968_Wallace_Chandler/answers_json/1733@52/description",
+      "1964_Johnson_Humphrey/answers_json/1733@26/description",
+      "1964_Goldwater_Miller/answers_json/1733@25/description"
+    ]
+  },
+  {
+    "source": "I will appoint judges who support religious freedom in the United States. Absolutely.",
+    "zh": "我将任命支持美国宗教自由的法官。绝对地。",
+    "keys": [
+      "1968_Nixon_Rockefeller/answers_json/1734@45/description",
+      "1968_Humphrey_Kennedy/answers_json/1734@48/description",
+      "1968_Wallace_LeMay/answers_json/1734@47/description",
+      "1968_Wallace_Thurmond/answers_json/1734@48/description",
+      "1968_Wallace_Chandler/answers_json/1734@53/description",
+      "1964_Johnson_Humphrey/answers_json/1734@27/description",
+      "1964_Goldwater_Miller/answers_json/1734@26/description"
+    ]
+  },
+  {
+    "source": "Let’s talk about Vietnam, the Cold War, and what we’re doing to fight communism.",
+    "zh": "让我们谈谈越南、冷战以及我们正在采取的措施来对抗共产主义。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1735@28/description"
+    ]
+  },
+  {
+    "source": "Let’s talk about Goldwater’s extremism and scandals.",
+    "zh": "我们来谈谈戈德华特的极端主义和丑闻。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1736@29/description"
+    ]
+  },
+  {
+    "source": "Let’s talk about Southern issues and our commitment to respecting the rights of the states.",
+    "zh": "让我们谈谈南方问题以及我们对尊重各州权利的承诺。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1737@30/description"
+    ]
+  },
+  {
+    "source": "Let’s talk about the Great Society, the Civil Rights Act, and my accomplishments in office.",
+    "zh": "让我们谈谈伟大社会、民权法案和我在办公室的成就。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1737@31/description"
+    ]
+  },
+  {
+    "source": "Our inflation is being caused by all of this Great Society nonsense that Johnson passed. I will slash these programs, slash our deficits, and end our inflation problem overnight.",
+    "zh": "我们的通货膨胀是由约翰逊通过的所有这些伟大社会废话造成的。我将削减这些计划，削减我们的赤字，并在一夜之间结束我们的通货膨胀问题。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1748@37/description",
+      "1968_Nixon_Romney/answers_json/1748@37/description",
+      "1968_Humphrey_Connally/answers_json/1748@47/description",
+      "1968_Wallace_Thurmond/answers_json/1748@53/description",
+      "1968_Wallace_Chandler/answers_json/1748@54/description",
+      "1964_Johnson_Humphrey/answers_json/1748@32/description",
+      "1964_Goldwater_Miller/answers_json/1748@30/description"
+    ]
+  },
+  {
+    "source": "The inflation rate we have in this country speaks to the heart of the Democrats' problems in running the economy. They claim to be the party of the working man, but they are fine with debasing wages and property values with their misguided social engineering.",
+    "zh": "这个国家的通货膨胀率说明了民主党在经济管理方面的核心问题。他们声称自己是工人的政党，但他们对通过误导性的社会工程来降低工资和财产价值并不介意。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1749@38/description",
+      "1968_Nixon_Romney/answers_json/1749@38/description",
+      "1968_Humphrey_Connally/answers_json/1749@48/description",
+      "1968_Wallace_Thurmond/answers_json/1749@54/description",
+      "1968_Wallace_Chandler/answers_json/1749@55/description",
+      "1964_Johnson_Humphrey/answers_json/1749@33/description",
+      "1964_Goldwater_Miller/answers_json/1749@31/description"
+    ]
+  },
+  {
+    "source": "Right now we have the strongest economy almost in the history of the United States. Unemployment is at 3% and our national output is growing at a furious pace. Compared to this, our 4% inflation rate is a pretty minor concern.",
+    "zh": "目前，我们拥有几乎美国历史上最强劲的经济。失业率为 3%，而我们的国民产出正在以惊人的速度增长。与此相比，我们 4% 的通胀率只是一个小问题。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1750@39/description",
+      "1968_Nixon_Romney/answers_json/1750@39/description",
+      "1968_Humphrey_Connally/answers_json/1750@49/description",
+      "1968_Wallace_Thurmond/answers_json/1750@55/description",
+      "1968_Wallace_Chandler/answers_json/1750@56/description",
+      "1964_Johnson_Humphrey/answers_json/1750@34/description",
+      "1964_Goldwater_Miller/answers_json/1750@32/description"
+    ]
+  },
+  {
+    "source": "The Republicans are grasping at straws with this inflation argument. They know that Kennedy and Johnson have managed the economy far better than Eisenhower, so they are resorting to the only argument they have left.",
+    "zh": "共和党人正在抓住通货膨胀论点的救命稻草。他们知道肯尼迪和约翰逊对经济的管理远好于艾森豪威尔，因此他们诉诸了他们仅存的论据。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1751@40/description",
+      "1968_Nixon_Romney/answers_json/1751@40/description",
+      "1968_Humphrey_Connally/answers_json/1751@50/description",
+      "1968_Wallace_Thurmond/answers_json/1751@56/description",
+      "1968_Wallace_Chandler/answers_json/1751@57/description",
+      "1964_Johnson_Humphrey/answers_json/1751@35/description",
+      "1964_Goldwater_Miller/answers_json/1751@33/description"
+    ]
+  },
+  {
+    "source": "Are you kidding? What we’ll lose in the South, we’ll make up ten times over in the rest of the country. Run the ads.",
+    "zh": "你在开玩笑吗？我们在南方失去的东西，我们将在全国其他地区十倍地弥补。投放广告。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1764@36/description"
+    ]
+  },
+  {
+    "source": "Making up ground in the South is better than expanding our massive lead in the North. It hurts me to say it, but hold back on the attacks for now.",
+    "zh": "在南方收复失地比扩大我们在北方的巨大领先优势要好。这么说让我很伤心，但现在先不要攻击。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1765@37/description"
+    ]
+  },
+  {
+    "source": "He can’t stop shooting himself in the foot!",
+    "zh": "他无法停止搬起石头砸自己的脚！",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1777@38/description"
+    ]
+  },
+  {
+    "source": "You’d think he’d have retired from politics by now.",
+    "zh": "你可能认为他现在已经从政界退休了。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1780@39/description"
+    ]
+  },
+  {
+    "source": "We may as well not even campaign at this rate!",
+    "zh": "我们甚至可能不以这种速度开展活动！",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1787@40/description"
+    ]
+  },
+  {
+    "source": "We’re going to expand welfare, expand Social Security, expand Medicare, and give the average American a leg up. It’s what the American people deserve.",
+    "zh": "我们要扩大福利，扩大社会保障，扩大联邦医疗保险，让普通美国人获得更多机会。这是美国人民应得的。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1792@41/description"
+    ]
+  },
+  {
+    "source": "We’re seeing a lot of growth with what we’re doing now, and the last thing we should do is rock the boat. You won’t see any big changes to government policy in my next term.",
+    "zh": "我们现在所做的事情取得了很大的增长，我们最不应该做的就是破坏现状。在我的下一个任期内，你不会看到政府政策发生任何重大变化。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1794@42/description"
+    ]
+  },
+  {
+    "source": "These new federal programs we’re making are only serving to speed our inflation problem. We’re going to cut federal bureaucracy, slash tax rates, and let the private sector pull the people up into the wealth we as Americans are capable of.",
+    "zh": "我们正在制定的这些新的联邦计划只会加速我们的通货膨胀问题。我们将削减联邦官僚机构，削减税率，让私营部门让人民获得我们作为美国人有能力的财富。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1793@43/description"
+    ]
+  },
+  {
+    "source": "I can’t think of a man more consistently behind measures I support than Hubert Humphrey. He’s been fighting the good fight since 1948, and I’m proud to stand with him on this campaign.",
+    "zh": "我想不出还有谁比休伯特汉弗莱更坚定地支持我支持的措施。自 1948 年以来，他一直在为正义而战，我很自豪能在这场竞选中与他站在一起。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3229@44/description"
+    ]
+  },
+  {
+    "source": "Hubert Humphrey has served Minnesota with honor and pride, and I’m certain he’ll carry that drive and motivation with us to the White House.",
+    "zh": "休伯特汉弗莱怀着荣誉和自豪的心情服务于明尼苏达州，我确信他会带着我们的动力和动力来到白宫。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3231@45/description"
+    ]
+  },
+  {
+    "source": "Everyone knows what I want already. Let's talk about Goldwater, his extremism, and how he's completely unfit for office- that should get them worked up.",
+    "zh": "每个人都知道我想要什么。让我们谈谈戈德华特，他的极端主义，以及他完全不适合担任公职——这应该会让他们生气。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3232@46/description"
+    ]
+  },
+  {
+    "source": "Let's focus on the Great Society- Medicare, Social Security expansions, and the Civil Rights Act. These are all things I have championed in my first two years, and I will champion them further in my next four.",
+    "zh": "让我们关注伟大社会-联邦医疗保险、社会保障扩展和民权法案。这些都是我在前两年所倡导的事情，我将在接下来的四年中进一步倡导它们。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3233@47/description"
+    ]
+  },
+  {
+    "source": "Let's give them a real show- promise expansions to Civil Rights, more Social Security and welfare expansions, and a continued commitment to liberal ideals.",
+    "zh": "让我们给他们一个真正的表演——承诺扩展至民权、更多社会保障和福利扩展，以及对自由主义理想的持续承诺。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3234@48/description"
+    ]
+  },
+  {
+    "source": "We need to go the other way for now. Talk about moderacy and reason, continued respect of the rights of the states, and promise to win in Vietnam and keep inflation low.",
+    "zh": "我们现在需要走另一条路。谈论温和和理性，继续尊重各国的权利，并承诺在越南获胜并保持低通胀。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3235@49/description"
+    ]
+  },
+  {
+    "source": "He should stick to movies if he has any sense.",
+    "zh": "如果他还有理智的话，他应该坚持看电影。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3239@50/description"
+    ]
+  },
+  {
+    "source": "The Midwest is critical to our success in this election, and we can't take any chances. Illinois, Indiana, and Ohio will be good hosts for our final few rallies.",
+    "zh": "中西部对于我们在这次选举中取得成功至关重要，我们不能冒险。伊利诺伊州、印第安纳州和俄亥俄州将成为我们最后几次集会的好东道主。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3243@51/description"
+    ]
+  },
+  {
+    "source": "The Deep South has been Goldwater's stronghold this whole election, but they're Democrats at heart. We'll swing through Mississippi, Alabama, and Georgia to wrap this up.",
+    "zh": "深南部在整个选举中一直是戈德华特的据点，但他们本质上是民主党。我们将通过密西西比州、阿拉巴马州和佐治亚州来结束这一点。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3244@52/description"
+    ]
+  },
+  {
+    "source": "The Rockies have had some alarming polling numbers recently. We should roll through there and make sure they're still on our side, before making a final stop in California.",
+    "zh": "落基山脉最近的民调数字令人震惊。在最后停留在加利福尼亚州之前，我们应该穿过那里并确保他们仍然站在我们这边。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3245@53/description"
+    ]
+  },
+  {
+    "source": "The Plains have been a bit rocky in their support for us recently. We'll go through there and secure their votes.",
+    "zh": "平原最近对我们的支持有点不稳定。我们将通过那里并确保他们的选票。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3246@54/description"
+    ]
+  },
+  {
+    "source": "Those damn conmen!",
+    "zh": "这些该死的骗子！",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3247@55/description"
+    ]
+  },
+  {
+    "source": "If he keeps talking like that, we won’t even need to campaign.",
+    "zh": "如果他继续这样说话，我们甚至不需要竞选。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/3292@56/description"
+    ]
+  },
+  {
+    "source": "We have had a draft in place for decades. I will not accept cowardice as an excuse among the young men of America.",
+    "zh": "我们已经制定了数十年的草案。我不会接受美国年轻人以怯懦为借口。",
+    "keys": [
+      "1968_Humphrey_Harris/answers_json/1688@88/description",
+      "1968_Wallace_LeMay/answers_json/1688@88/description",
+      "1964_Johnson_Humphrey/answers_json/1688@57/description",
+      "1964_Goldwater_Miller/answers_json/1688@60/description"
+    ]
+  },
+  {
+    "source": "Your liberal base is fired up at your idealistic plans, but moderates are wary of further expansions to these programs, and Southern Democrats are offput entirely.",
+    "zh": "你们的自由派基础对你们的理想主义计划感到愤怒，但温和派对这些计划的进一步扩张持谨慎态度，而南方民主党人则完全反感。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30000@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pundits are unsurprised by your campaign taking swings at Goldwater right out the gate, but it's having its intended effect.",
+    "zh": "专家们对你的竞选活动一开始就在戈德华特上发生波动并不感到惊讶，但它正在产生预期的效果。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30001@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "This moderate turn is welcomed by moderates and Southern Democrats alike, making up ground among them- but liberal supporters are very deflated at your seeming abandonment of the issues they champion.",
+    "zh": "这种温和的转变受到温和派和南方民主党人的欢迎，在他们中间占据了一席之地——但自由派支持者对你似乎放弃了他们所支持的问题感到非常沮丧。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30002@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pointing at your accomplishments elevates the tone of the campaign, as well as adding a nice sheen to your image.",
+    "zh": "指出您的成就可以提升活动的基调，并为您的形象增添光彩。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30003@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "By leaning full-force into Humphrey’s record, you’ve fired up your liberal base- at the expense of your chances at winning the South back from Goldwater. Of course, with the lead you’ve started with, does it matter?",
+    "zh": "通过全力支持汉弗莱的记录，你已经点燃了你的自由派基础 - 代价是你从戈德华特手中夺回南方的机会。当然，以你一开始的领先优势，这重要吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30004@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "Some notice a bit of hesitancy to touch on Humphrey’s record with this response, sparking rumors that you plan to run a moderate campaign this election season. This is a bit deflating to your liberal base.",
+    "zh": "有些人注意到，在这个回应中触及汉弗莱的记录时有些犹豫，引发了有关您计划在本选举季开展温和竞选活动的谣言。这对你们的自由派基础来说有点泄气。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30005@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Goldwater’s famous slips of the tongue will provide your attack ads with all the ammunition they can ever need throughout this campaign.",
+    "zh": "戈德华特著名的口误将为您的攻击广告提供他们在整个活动中所需的所有弹药。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30006@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "Analysts are surprised at your refusal to go low against Goldwater. These ads are effective enough but some advisors think you’re leaving some of your most potent arguments on the table by taking the high road.",
+    "zh": "分析师对您拒绝降低戈德华特的价格感到惊讶。这些广告足够有效，但一些顾问认为，如果你走正路，你就会把一些最有力的论据留在桌面上。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30007@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "Despite your best efforts, the Bobby Baker trial remains as an ugly mark for Goldwater to needle you on.",
+    "zh": "尽管你尽了最大努力，鲍比贝克审判仍然是戈德华特的丑陋标记，让你感到困扰。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30009@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "They say discretion is the better part of valor, but allowing the rift to grow wider might spell doom in future elections. Thankfully, with how you’re polling in the rest of the country, it shouldn’t be an issue for you.",
+    "zh": "他们说，谨慎是勇气的重要组成部分，但允许分歧扩大可能会给未来的选举带来厄运。值得庆幸的是，根据您在全国其他地区的民意调查，这对您来说不应该是问题。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30010@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "On the upside, hesitant Southern Democrats are eagerly throwing their support behind you. On the downside, liberals and Humphrey suspect that something’s up, hurting your numbers across the North.",
+    "zh": "从好的方面来说，犹豫不决的南方民主党人正急切地支持你。不利的一面是，自由主义者和汉弗莱怀疑出了什么问题，损害了整个北方的人数。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30012@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a very disappointing answer to liberals and activists alike, not least of which is your running mate Humphrey, but it may win over wary moderates- and it certainly won’t push Southern Democrats further away.",
+    "zh": "对于自由主义者和活动人士来说，这是一个非常令人失望的答案，尤其是你的竞选搭档汉弗莱，但它可能会赢得谨慎的温和派 - 并且它肯定不会将南方民主党推得更远。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30013@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "Humphrey is more than happy with this, as are African-Americans and liberals across the country. However, moderates who were wary of the first Civil Rights Act recoil at the idea of a second, more radical one- and Southern Democrats are practically frothing at the mouth at the news.",
+    "zh": "汉弗莱对此非常满意，全国各地的非裔美国人和自由主义者也是如此。然而，对第一个民权法案持谨慎态度的温和派对第二个更激进的想法感到反感，而南方民主党人对此消息几乎是口吐白沫。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30014@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "This kind of answer angers nobody, but it doesn’t particularly please anyone either. Perhaps some moderates in border states will be swayed.",
+    "zh": "这种答案不会激怒任何人，但也不会特别令任何人满意。也许边境各州的一些温和派会受到影响。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30015@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "Bobby Baker was a protege and good friend of yours, and your business connections with both men in the 50’s have been widely publicized. Your numbers take a big hit as both Goldwater and the press rakes you for this outright lie. Best hope this blows over soon...",
+    "zh": "鲍比贝克是您的门徒和好朋友，您与 20 世纪 50 年代的这两个人的业务关系已被广泛宣传。你的数字受到了很大的打击，因为戈德华特和媒体都在猛烈抨击你这个彻头彻尾的谎言。最好希望这一切尽快结束......",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30016@16/answer_feedback",
+      "1964_Johnson_Humphrey/answer_feedback_json/30017@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your openness surprises many analysts, but perhaps the impact of the scandal is lessened by your honesty? It’s hard to say.",
+    "zh": "你的坦率让许多分析师感到惊讶，但也许丑闻的影响会因你的诚实而减弱？很难说。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30018@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "'Confessions Of A Republican', as it’s called, is making waves across the North in moderate Republican circles.",
+    "zh": "这则名为《一名共和党人的自白》的广告，正在北方的温和派共和党人中引起强烈反响。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30019@19/answer_feedback"
+    ]
+  },
+  {
+    "source": "Richard Nixon’s voice still holds sway, and Goldwater’s numbers see a rise- at your expense. Hopefully, he won’t run in 1968.",
+    "zh": "理查德·尼克松的声音仍然占据主导地位，戈德华特的人数有所增加 - 但代价是你。希望他不会在 1968 年参选。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30020@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "Unfortunately, this probably puts South Carolina out of reach for your campaign.",
+    "zh": "不幸的是，这可能会使南卡罗来纳州超出您的营销活动范围。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30023@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "Moderates like this appeal, even if it disappoints liberals and activists nationwide. Will it be enough to push you over the top?",
+    "zh": "温和派喜欢这种呼吁，即使它让全国范围内的自由主义者和活动人士感到失望。这足以让你超越巅峰吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30024@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "Liberals and activists are ecstatic with this answer, even as moderates shy away and Southern Democrats rage. Will their enthusiasm be enough?",
+    "zh": "自由派和活动人士对这个答案感到欣喜若狂，尽管温和派回避而南方民主党人愤怒不已。他们的热情够吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30024@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "Southern Democrats are reassured by your last-minute appeal, even if liberals and activists are infuriated by your flip-flopping. Will the South carry you to victory?",
+    "zh": "南方民主党人对你最后一刻的呼吁感到放心，即使自由派和活动人士因你的反复无常而愤怒。南方会带你走向胜利吗？",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30024@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "Congratulations! You have won the 1964 Republican nomination for President! As you take the stage to cheers and applause from one side of the floor- and stony silence from the other- what will you touch on in your acceptance speech?",
+    "zh": "恭喜！您赢得了 1964 年共和党总统提名！当你走上讲台时，一边是欢呼声和掌声，另一边却是冷冰冰的沉默——你会在获奖感言中谈到什么？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/322@0/description"
+    ]
+  },
+  {
+    "source": "Why did you pick Bill Miller as your running mate?",
+    "zh": "你为什么选择比尔米勒作为你的竞选搭档？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/255@3/description"
+    ]
+  },
+  {
+    "source": "A new wave of attack ads have gone out across the nation, highlighting Johnson’s involvement with Bobby Baker and Bill Sol Estes.",
+    "zh": "新一轮攻击广告已在全国投放，重点揭露约翰逊与鲍比·贝克、比利·索尔·埃斯蒂斯之间的牵连。",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/326@4/description"
+    ]
+  },
+  {
+    "source": "Your nomination has scared off moderates in the Republican Party, with several Republicans such as George Romney and Nelson Rockefeller refusing to endorse you. How will you unite your party?",
+    "zh": "你的提名吓跑了共和党中的温和派，乔治·罗姆尼和纳尔逊·洛克菲勒等几位共和党人拒绝支持你。你将如何团结你的政党？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/256@5/description"
+    ]
+  },
+  {
+    "source": "Your civil rights position is the most controversial part of your campaign. Would you like to clarify your position to help ease the fears of Southern Democrats or Northern moderates?",
+    "zh": "您的民权立场是您的竞选活动中最具争议的部分。您想澄清您的立场，以帮助缓解南方民主党人或北方温和派的恐惧吗？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/254@6/description"
+    ]
+  },
+  {
+    "source": "Dwight D. Eisenhower is a very popular figure in the Midwest and Plains, but not as popular in the South. You’ve recently filmed a television ad appearing with Eisenhower. Where and how frequently would you like to air this ad?",
+    "zh": "德怀特·D.·艾森豪威尔在中西部和平原地区是一个非常受欢迎的人物，但在南方却不那么受欢迎。您最近拍摄了一个与艾森豪威尔一起出现的电视广告。您希望在何处以及以何种频率播放此广告？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/263@8/description"
+    ]
+  },
+  {
+    "source": "Lyndon Johnson has attacked our record on social security greatly, even running an ad where our own running mate Bill Miller says we wish to destroy the social security system! How should we fight back against these ads?",
+    "zh": "林登·约翰逊极大地攻击了我们在社会保障上的记录，甚至在我们自己的竞选搭档比尔米勒的广告中说我们希望摧毁社会保障系统！我们该如何反击这些广告呢？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/272@9/description"
+    ]
+  },
+  {
+    "source": "Hubert Humphrey is another weakspot of Lyndon Johnson's, we could try to attack his running mate to gain an edge in the poll to hopefully swing more conservative-aligned moderates to our side.",
+    "zh": "休伯特汉弗莱是林登·约翰逊的另一个弱点，我们可以尝试攻击他的竞选搭档，以在民意调查中获得优势，以期将更多保守派温和派转向我们这边。",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/271@10/description"
+    ]
+  },
+  {
+    "source": "Another day, another speech. What will you say today on the campaign trail?",
+    "zh": "又一天，另一场演讲。您今天在竞选活动中会说什么？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/274@11/description"
+    ]
+  },
+  {
+    "source": "There's been a lot of talk from your camp about cutting spending to reduce the growing inflation, what programs would you have in mind?",
+    "zh": "你们阵营中已经有很多关于削减支出以降低不断增长的通货膨胀的讨论，您会想到什么计划？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/287@12/description"
+    ]
+  },
+  {
+    "source": "Goldwater has received an endorsement from the leader of the Alabama Ku Klux Klan. LBJ has already capitalized with attack ads going out nationwide. What should we do?",
+    "zh": "戈德华特已获得阿拉巴马州三K党领导人的认可。林登·约翰逊已经利用攻击性广告在全国范​​围内传播。我们应该做什么？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/291@13/description"
+    ]
+  },
+  {
+    "source": "Goldwater has been seen as the candidate of the John Birch Society, a fervent group of anti-communist conspiracy theorists. What should we do about this?",
+    "zh": "戈德华特被视为约翰·伯奇协会 (John Birch Society) 的候选人，该协会是一个狂热的反共阴谋论者团体。对此我们该怎么办？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/286@16/description"
+    ]
+  },
+  {
+    "source": "Having recently received endorsements from the Ku Klux Klan and the John Birch Society, you need to find a way to distance yourself from extremists and put yourself into the American political mainstream.",
+    "zh": "最近获得了三K党和约翰·伯奇协会的支持，你需要找到一种方法来远离极端分子，让自己融入美国政治主流。",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/289@17/description"
+    ]
+  },
+  {
+    "source": "Vermont and Indiana are key states for any Republican to win. Would you like to put campaign efforts into winning these states?",
+    "zh": "佛蒙特州和印第安纳州是任何共和党人获胜的关键州。您愿意投入竞选努力来赢得这些州吗？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/282@22/description"
+    ]
+  },
+  {
+    "source": "The 1964 Campaign is drawing to a close, and chances don’t look good for Goldwater’s success. Are there any last minute statements you’d like to make to win voters over?",
+    "zh": "1964 年战役即将结束，戈德华特成功的机会看起来不大。您想在最后一刻发表任何声明来赢得选民的支持吗？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/268@23/description"
+    ]
+  },
+  {
+    "source": "Where would you like to campaign on the last day before election day?",
+    "zh": "选举日前最后一天您想在哪里竞选？",
+    "keys": [
+      "1964_Goldwater_Miller/questions_json/325@24/description"
+    ]
+  },
+  {
+    "source": "Let it be known that I side with the states on the civil rights issue. I will not change this.",
+    "zh": "让大家知道我在民权问题上站在各州一边。我不会改变这一点。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1661@0/description"
+    ]
+  },
+  {
+    "source": "I would like to clarify in regards to the Civil Rights Act of 1964. Despite my vote against the bill, I will uphold it as President. I would like to see it repealed- I still believe it is unconstitutional- but a President cannot ignore laws that he dislikes.",
+    "zh": "我想澄清一下 1964 年的民权法案。尽管我投票反对该法案，但作为总统我将支持该法案。我希望看到它被废除——我仍然认为它违宪——但总统不能忽视他不喜欢的法律。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1662@1/description"
+    ]
+  },
+  {
+    "source": "I would like to change my previous position. With the passage of the Civil Rights Act of 1964, I shall make no attempt to remove this law, but I will oppose further legislation, such as mass busing or forced integration.",
+    "zh": "我想改变我之前的立场。随着 1964 年民权法案的通过，我不会试图废除这项法律，但我会反对进一步的立法，例如大规模公交车或强制融合。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1664@2/description"
+    ]
+  },
+  {
+    "source": "Bill Miller is a devout Catholic, a good man, and he has served New York with honor and distinction.",
+    "zh": "比尔米勒是一位虔诚的天主教徒，一个好人，他以荣誉和杰出的方式服务于纽约州。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1665@3/description"
+    ]
+  },
+  {
+    "source": "Miller and I agree on just about everything. I chose him because I believe we represent the future of this country.",
+    "zh": "米勒我几乎同意所有事情。我选择他是因为我相信我们代表了这个国家的未来。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1666@4/description"
+    ]
+  },
+  {
+    "source": "We need to emphasize that Humphrey and Johnson are nothing but socialists and puppets of big union bosses.",
+    "zh": "我们需要强调，汉弗莱和约翰逊只不过是社会主义者和大工会老板的傀儡。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1669@5/description"
+    ]
+  },
+  {
+    "source": "There may be differences between our wings of the party, but we must remember that we are all Republicans, and we stand united in our common goals.",
+    "zh": "我们党派之间可能存在分歧，但我们必须记住，我们都是共和党人，我们为了共同的目标而团结一致。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1670@6/description"
+    ]
+  },
+  {
+    "source": "Ike is too popular not to have this playing in every household.",
+    "zh": "艾克太受欢迎了，每个家庭都在玩这个。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1694@9/description"
+    ]
+  },
+  {
+    "source": "Limit this ad to the Plains and Midwest. Ike enjoys the most popularity there.",
+    "zh": "将此广告限制在平原和中西部地区。艾克在那里最受欢迎。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1695@10/description"
+    ]
+  },
+  {
+    "source": "Damn those TV ads!",
+    "zh": "该死的那些电视广告！",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1707@11/description"
+    ]
+  },
+  {
+    "source": "We need to double-down on the states rights issue. Our only hope of victory is through the South.",
+    "zh": "我们需要加倍努力解决各州的权利问题。我们唯一的胜利希望是通过南方。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1712@12/description"
+    ]
+  },
+  {
+    "source": "Social Security is a winning issue. In these final days, we must expose Johnson’s lies about our opinion on the subject, and turn the tables back on him.",
+    "zh": "社会保障是一个获胜问题。在这最后的日子里，我们必须揭露约翰逊关于我们对这个问题的看法的谎言，并扭转局面。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1713@13/description"
+    ]
+  },
+  {
+    "source": "I would like to remind civil rights conscious voters that I was fighting for civil rights long before they were popular, as well as helping found the Arizona Chapter of the NAACP.",
+    "zh": "我想提醒民权有意识的选民，早在民权受欢迎之前我就在为他们而战，并帮助建立了全国有色人种协进会的亚利桑那州分会。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1714@14/description"
+    ]
+  },
+  {
+    "source": "We need whoever we can get.",
+    "zh": "我们需要我们能找到的任何人。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1716@15/description"
+    ]
+  },
+  {
+    "source": "Goddamn it.",
+    "zh": "该死的。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1723@16/description"
+    ]
+  },
+  {
+    "source": "Hubert Humphrey is an extremist and a socialist. We cannot let this man be one heartbeat away from the Presidency.",
+    "zh": "休伯特汉弗莱是一名极端主义者和社会主义者。我们不能让这个人距离总统宝座仅一步之遥。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1724@17/description"
+    ]
+  },
+  {
+    "source": "We should avoid talking about Humphrey. It’s in poor taste.",
+    "zh": "我们应该避免谈论汉弗莱。味道很差。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1725@18/description"
+    ]
+  },
+  {
+    "source": "Want to know who's at fault for this Civil Rights Act? It's Hubert Horatio Humphrey.",
+    "zh": "想知道这件事是谁的错吗？民权法案？我是休伯特·霍雷肖汉弗莱。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1726@19/description"
+    ]
+  },
+  {
+    "source": "Goldwater’s record on Social Security has always been in support of the program. This is dirty politics from Johnson.",
+    "zh": "戈德华特在社会保障上的记录一直支持该计划。这是来自约翰逊的肮脏政治。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1727@20/description"
+    ]
+  },
+  {
+    "source": "We need to clarify- Goldwater only advocates reforming Social Security into a voluntary program.",
+    "zh": "我们需要澄清 - 戈德华特仅主张将社会保障改革为自愿计划。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1728@21/description"
+    ]
+  },
+  {
+    "source": "Let’s counter-attack Johnson on the inflation issue. This hurts the Social Security program more than anything I’ve proposed.",
+    "zh": "让我们在通货膨胀问题上反击约翰逊。这对社会保障计划的伤害比我提出的任何建议都要大。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1729@22/description"
+    ]
+  },
+  {
+    "source": "We should talk about states rights' and the Democrats plan to destroy the 10th amendment.",
+    "zh": "我们应该谈论州权和民主党计划摧毁第十修正案。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1735@27/description"
+    ]
+  },
+  {
+    "source": "Let us talk about fiscal conservatism and our plans to reduce inflation.",
+    "zh": "让我们谈谈财政保守主义和我们降低通货膨胀的计划。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1736@28/description"
+    ]
+  },
+  {
+    "source": "Johnson’s weak point is the Bobby Baker case. Let’s talk about Baker and Billy Sol Estes.",
+    "zh": "约翰逊的弱点是鲍比贝克案件。我们来谈谈贝克和比利·索尔·埃斯蒂斯。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1737@29/description"
+    ]
+  },
+  {
+    "source": "I don’t believe we have a good chance at these two states, but I would like to put effort into winning New Hampshire. We had a great primary showing there.",
+    "zh": "我不认为我们在这两个州有很好的机会，但我想努力赢得胜利新罕布什尔州。我们在那里进行了一场精彩的初选表演。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1764@34/description"
+    ]
+  },
+  {
+    "source": "These states have to be won to win the election.",
+    "zh": "必须赢得这些州才能赢得选举。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1765@35/description"
+    ]
+  },
+  {
+    "source": "I’d rather put effort into winning the South. Vermont and Indiana are hopeless.",
+    "zh": "我宁愿努力赢得南方。佛蒙特州和印第安纳州是没有希望的。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1766@36/description"
+    ]
+  },
+  {
+    "source": "Put out a magazine article denouncing all these crazy conspiracies, but don't mention the Birchers by name.",
+    "zh": "发表一篇杂志文章，谴责所有这些疯狂的阴谋，但不要提及伯彻家族的名字。\n然而，",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1776@37/description"
+    ]
+  },
+  {
+    "source": "We reject Bircherism. Make that an official statement.",
+    "zh": "我们拒绝伯彻主义。将此作为正式声明。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1777@38/description"
+    ]
+  },
+  {
+    "source": "We need their votes. We cannot risk denouncing the group in any way.",
+    "zh": "我们需要他们的选票。我们不能冒险以任何方式谴责该组织。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1778@39/description"
+    ]
+  },
+  {
+    "source": "First and foremost, cuts will be in foreign aid.",
+    "zh": "首先也是最重要的是，削减外援。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1779@40/description"
+    ]
+  },
+  {
+    "source": "For too long, farmers have been stopped from participating properly in the free market. Cutting their subsidies will benefit both the budget and the farmers.",
+    "zh": "长期以来，农民被阻止适当参与自由市场。削减补贴将有利于预算和农民。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1780@41/description"
+    ]
+  },
+  {
+    "source": "I’m not sure. Maybe everywhere, really.",
+    "zh": "我不确定。也许到处都是，真的。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1781@42/description"
+    ]
+  },
+  {
+    "source": "I want to remain silent on this.",
+    "zh": "我想对此保持沉默。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1786@43/description"
+    ]
+  },
+  {
+    "source": "These groups have a right to free speech, but Goldwater is neither a Klan member nor a Bircher.",
+    "zh": "这些团体拥有言论自由权，但戈德华特既不是三K党成员，也不是 Bircher。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1787@44/description"
+    ]
+  },
+  {
+    "source": "We need to reject this endorsement right away.",
+    "zh": "我们需要立即拒绝此认可。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1792@45/description"
+    ]
+  },
+  {
+    "source": "I hate to admit it, but we need whatever support we can get. Keep quiet on this.",
+    "zh": "我不愿意承认这一点，但我们需要我们能得到的一切支持。对此保持沉默。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/1793@46/description"
+    ]
+  },
+  {
+    "source": "What does it sound like I said? We need extreme solutions to extreme problems.",
+    "zh": "我说的听起来像什么？我们需要针对极端问题的极端解决方案。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3229@47/description"
+    ]
+  },
+  {
+    "source": "Does a person not love their country extremely? Do people not believe in their God extremely? I hold my convictions extremely and I hope all that vote for us in November do too.",
+    "zh": "一个人难道不热爱自己的国家吗？人们不是非常相信他们的上帝吗？我坚信我的信念，我希望所有 11 月份投票给我们的人也如此。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3230@48/description"
+    ]
+  },
+  {
+    "source": "By the word extremism, I simply meant patriotism. This is just one big misunderstanding.",
+    "zh": "我所说的极端主义一词只是指爱国主义。这只是一个天大的误会。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3231@49/description"
+    ]
+  },
+  {
+    "source": "We'll need to pivot left somewhat if we want to cut in on Johnson's majority. By promising to respect the Civil Rights Act and highlighting our own forwardness on the issue, we can assuage liberal fears.",
+    "zh": "如果我们想介入约翰逊的多数派，我们需要稍微向左倾斜。通过承诺尊重民权法案并强调我们自己在这个问题上的前瞻性，我们可以缓解自由派的恐惧。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3232@50/description"
+    ]
+  },
+  {
+    "source": "If we want a chance to get back in this fight, we need the moderates on board. Our speech will be on unity and strength in the party as much as it is about my ideals.",
+    "zh": "如果我们想有机会重返这场战斗，我们需要温和派的加入。我们的演讲将主题是党内的团结和力量，以及我的理想。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3233@51/description"
+    ]
+  },
+  {
+    "source": "I've been the candidate of the conservatives this entire campaign, and I won't change that here. We're going to hit home on fiscal responsibility, tax breaks, escalation in Vietnam- red meat for our base.",
+    "zh": "在整个竞选过程中我一直是保守派候选人，我不会在这里改变这一点。我们将在财政责任、税收减免、越南局势升级等问题上直击要害——为我们的基地提供红肉。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3234@52/description"
+    ]
+  },
+  {
+    "source": "Let’s campaign in the border states- Arkansas, Tennessee, and North Carolina.",
+    "zh": "让我们在边境州开展活动 - 阿肯色州、田纳西州和北卡罗来纳州。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3243@54/description"
+    ]
+  },
+  {
+    "source": "Let’s campaign in the Plains. We have a real shot there.",
+    "zh": "让我们在平原上竞选吧。我们在那里有一个真正的机会。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3244@55/description"
+    ]
+  },
+  {
+    "source": "One final round trip- Vermont, New Hampshire, and Indiana!",
+    "zh": "最后一轮 - 佛蒙特州、新罕布什尔州和印第安纳州！",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3245@56/description"
+    ]
+  },
+  {
+    "source": "We can win California. Put all efforts into that state.",
+    "zh": "我们能赢加利福尼亚州。把所有的努力都投入到那个状态里。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3246@57/description"
+    ]
+  },
+  {
+    "source": "Keep the attacks coming.",
+    "zh": "继续攻击。",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3247@58/description"
+    ]
+  },
+  {
+    "source": "We need to find a way to shut me up!",
+    "zh": "我们需要找到一种方法让我闭嘴！",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3292@59/description"
+    ]
+  },
+  {
+    "source": "Many fail to see the logic in your reasoning, but those who do cheer you on for standing by your words.",
+    "zh": "许多人看不到你推理中的逻辑，但那些确实为你坚持自己的话而欢呼的人。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/652@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a weak point of Johnson’s, and is sure to hurt him..",
+    "zh": "这是约翰逊的弱点，肯定会伤害他..",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20000@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "This appeals to Southern voters, with the downside of driving moderate Northern voters away.",
+    "zh": "这对南方选民有吸引力，但缺点是会赶走温和的北方选民。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20002@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Parts of the party are falling back in line, albeit begrudgingly. It’s better than nothing.",
+    "zh": "党内部分人士正在重新站队，尽管很不情愿。这比什么都没有好。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20001@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "This will be a common pattern throughout the entire campaign.",
+    "zh": "这将是整个活动的常见模式。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1909@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "This clarification helps downplay your radical reputation, while also dampening damage done to your numbers among those who are voting for your civil rights positions.",
+    "zh": "这一澄清有助于淡化您激进的声誉，同时也减少了投票支持您的民权职位的人数对您造成的损害。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20003@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Trying to appeal to New Yorkers may be a lost cause.",
+    "zh": "试图吸引纽约人可能会失败。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1910@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "Goldwater/Miller is sure to drive conservative turnout this election season.",
+    "zh": "戈德华特/米勒肯定会在这个选举季提高保守派的投票率。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1911@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "Perhaps a good sentiment for a more united time, but disaffected liberals in the party fail to see what common goals are left.",
+    "zh": "也许这是一个更加团结的时代的良好情绪，但党内不满的自由派看不到还剩下什么共同目标。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1912@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a big shift from your earlier stance. While it may improve your standing with Midwestern moderates, those who were voting for you because of your civil rights position are quite upset and demoralized.",
+    "zh": "这与您之前的立场相比有很大转变。虽然这可能会提高您在中西部温和派中的地位，但那些因为您的民权立场而投票给您的人会感到非常沮丧和士气低落。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1913@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "The socialist angle is always effective, but the irony of Barry Goldwater calling anyone an extremist is not lost on many.",
+    "zh": "社会主义的角度总是有效的，但巴里·戈德华特称任何人为极端主义者的讽刺意味并不少见。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1914@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "This attack will do little to help win anybody but outspoken segregationists.",
+    "zh": "除了直言不讳的种族隔离主义者之外，这种攻击对赢得任何人都无济于事。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1915@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "Bircherism is popular in your homestate of Arizona.",
+    "zh": "桦木主义在你的家乡亚利桑那州很流行。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1917@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Klan’s endorsement is bad enough for your reputation. Your silence on it is worse.",
+    "zh": "三K党的认可对你的声誉来说已经够糟糕的了。你对此的沉默更糟糕。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1918@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "If there were doubts about you winning South Carolina, they should be gone now.",
+    "zh": "如果对你获胜南卡罗来纳州存在疑问，那么现在应该消失了。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/1917@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "It’s not the strongest rebuttal, but it takes some of the edge off the attacks while maintaining a conservative outlook.",
+    "zh": "这不是最强烈的反驳，但它在保持保守观点的同时削弱了攻击的一些优势。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20004@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "This falls a bit flat- especially to conservative allies, who are decidedly not in support of the Social Security program as it stands.",
+    "zh": "这有点平淡 - 特别是对于保守派盟友来说，他们绝对不支持现有的社会保障计划。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20005@16/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pointing attention to Johnson’s faults is always a good thing.",
+    "zh": "指出约翰逊的缺点总是一件好事。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20006@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Some sense a missed opportunity, but others agree that the angles of attack on Humphrey are weak at best outside of the South.",
+    "zh": "一些人感觉错失了机会，但另一些人则认为，在南方以外的地区，汉弗莱的攻击角度充其量是微弱的。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20007@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "You have made a final appeal to Southern voters, at the expense of moderate support elsewhere. Will it be enough to win?",
+    "zh": "您向南方选民发出了最后的呼吁，但牺牲了其他地方的温和支持。这足以获胜吗？",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20008@19/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your last second switch on civil rights appeals to moderates as much as it angers Southern voters. Will they sweep you to victory?",
+    "zh": "你最后一秒打开民权既吸引了温和派，也激怒了南方选民。他们会横扫你取得胜利吗？",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20009@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "The focus on Social Security in the final days of the campaign energizes fiscal conservatives nationwide. Will it be enough to make up the difference?",
+    "zh": "竞选最后几天对社会保障的关注激发了全国财政保守派的活力。是否足以弥补差额？",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20010@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "If you want to reunite your party, your appeal to moderates is certainly a step in the right direction, though the media focuses on one sentence in particular...",
+    "zh": "如果你想重新团结你的政党，你对温和派的呼吁无疑是朝着正确方向迈出的一步，尽管媒体特别关注一句话......",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20011@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "As expected, this speech has an enthusiastic reception by your strongest supporters, though it's no olive branch to the moderate-liberal wing- and one sentence in particular is gaining attention.",
+    "zh": "不出所料，这篇演讲受到了你们最坚定的支持者的热烈欢迎，尽管它并不是向温和自由派伸出的橄榄枝，但其中有一句话特别受到关注。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20012@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "A surprisingly liberal tone is detected in your acceptance speech- to the chagrin of your conservative following, even if it does soothe the worries of those across the aisle. One sentence stands out, however.",
+    "zh": "在您的获奖感言中发现了令人惊讶的自由主义语气，这让您的保守派追随者感到懊恼，即使它确实缓解了两党人士的担忧。然而，有一句话很引人注目。",
+    "keys": [
+      "1964_Goldwater_Miller/answer_feedback_json/20013@24/answer_feedback"
+    ]
+  }
+]

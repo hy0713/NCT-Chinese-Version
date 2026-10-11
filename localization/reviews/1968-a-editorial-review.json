@@ -1,0 +1,1341 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1968-a",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 568,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 13,
+      "reason": "1968 debate is playable counterfactual; original 1964 turnaround comparison retained and annotated."
+    },
+    {
+      "index": 30,
+      "reason": "Malformed a crusader against civil rights bill interpreted contextually as a campaign against the law; original unchanged."
+    },
+    {
+      "index": 70,
+      "reason": "Nixon was Vice President/presiding Senate officer in 1957, not serving Senator; preserve claim and distinguish offices."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>The 1968 election enters its final stretch in chaos. Riots are a frequent occurrence as the Vietnam War divides the nation, and Johnson's \"Great Society\" is under full attack.</p> <ul><li>Nixon attempts to present himself as a law-and-order candidate who will bear the standard of Republicanism.</li><li>Humphrey tries to hold the line for liberalism in a year of social chaos and racial agitation.</li> <li>Wallace hopes to bring an end to Civil Rights and desegregation.</ul>",
+      "sha256": "ac8db3edc51c6c32b1bcdcae2e02ed8a1f97301eeae83a167c5d3eb860a58235",
+      "zh": "<p>1968年选举在混乱中进入最后阶段。越南战争撕裂了国家，骚乱频繁发生，约翰逊的“伟大社会”正遭到全面攻击。</p> <ul><li>尼克松试图把自己塑造成维护法律与秩序的候选人，扛起共和主义的旗帜。</li><li>汉弗莱试图在社会混乱、种族冲突激烈的一年里，守住自由主义的阵地。</li> <li>华莱士希望终结民权政策，阻止取消种族隔离。</ul>",
+      "keys": [
+        "base/election_json/4@7/summary"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<h3>Sorry, you have lost the 1968 election.</h3><p>Never has a candidate been so far ahead in a Presidential election, only to come up short. After your heartbreaking loss in 1960, it's going to take a long while for you to recover from this new defeat.</p><p>The American public will never know what might have transpired with you in the Oval Office. As it is, you are sure to enjoy a long retirement after this one...</p>",
+      "sha256": "781af9139179ce15fdc73f29e3f6b36f74f698f5f32a22733fad51553c14cab7",
+      "zh": "<h3>很遗憾，你输掉了1968年选举。</h3><p>从未有总统候选人在如此遥遥领先之后，竟最终败选。1960年那场令人心碎的失利之后，如今又遭遇新的挫败，你恐怕需要很久才能恢复。</p><p>美国公众永远不会知道，如果由你入主椭圆形办公室，究竟会发生什么。事已至此，这次过后，你想必会度过漫长的退休生活……</p>",
+      "keys": [
+        "base/candidate_json/23@19/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Wow! No candidate holds a majority in the electoral college.</h3><p>Wallace's machinations have succeeded. The election will go to the House of Representatives where the Democrats hold a clear majority.</p><p>You do hold some cards however -- Humphrey would certainly rather make concessions to you, rather than deal with George Wallace. Perhaps you could obtain a place in his Administration, or some assurances on a policy issue of your choice.</p>",
+      "sha256": "ab048d1495ddb903355dd79d57b2b8b05bcea4eb74d8a48107f32b5749becf88",
+      "zh": "<h3>哇！没有候选人取得选举人团多数。</h3><p>华莱士的谋划成功了。选举将交由众议院决定，而民主党在那里占据明确多数。</p><p>不过，你手里仍有一些筹码。汉弗莱肯定宁愿向你让步，也不愿与乔治·华莱士打交道。也许你能在他的政府里谋得一个职位，或在某项你选定的政策上得到保证。</p>",
+      "keys": [
+        "base/candidate_json/23@19/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "<h3>Congratulations! You have won the 1968 election!</h3><p>It looked like a hopeless case as you accepted the nomination, but you have run an outstanding campaign in the interval.</p><p>Now you must press forward with your efforts to defend the Great Society and to end the war in Vietnam. Failure in the latter case could be devastating when you seek reelection in 1972. After all, just look at what happened to the once-lustrous reputation of Lyndon Johnson over the past four years...</p>",
+      "sha256": "4d7229100f153d1094741f49b30b6ff734bb637a942f823e051f9b245da1ff07",
+      "zh": "<h3>恭喜！你赢得了1968年选举！</h3><p>你接受提名时，局面看起来毫无希望；但此后，你打了一场出色的竞选。</p><p>现在，你必须继续捍卫伟大社会，并努力结束越南战争。如果后者失败，你在1972年争取连任时，可能会遭遇毁灭性打击。看看林登·约翰逊曾经光彩照人的声望，在过去四年里变成了什么样，就知道了……</p>",
+      "keys": [
+        "base/candidate_json/24@20/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>Sorry, you have lost the 1968 election.</h3><p>You may have performed admirably under trying circumstances, but it was always a tough sell for you after the chaos at the Democratic Convention in Chicago.</p><p>Your only consolation is that Nixon himself is a former loser. Even so, this is a horrednous turn of events for Democrats after the landslide of 1964. The best you can do now is to plot a comeback to the Senate, or as a candidate for President in 1972.</p>",
+      "sha256": "36a938f08c6d800e7807b9a4e9063d48758a23afe3598a2912239c418c9e05fc",
+      "zh": "<h3>很遗憾，你输掉了1968年选举。</h3><p>你也许在艰难的处境下表现得十分出色，但芝加哥民主党全国大会的混乱之后，要让选民接受你，始终是一场苦战。</p><p>唯一的安慰是，尼克松自己也曾经败选。即便如此，在1964年压倒性胜利之后，民主党落到这一步，仍然糟糕透顶。眼下，你最多只能筹划重返参议院，或在1972年再次竞选总统。</p>",
+      "keys": [
+        "base/candidate_json/24@20/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "<h3>Wow! No candidate achieved a majority in the electoral college.</h3><p>Fortunately for you the Democrats have won a majority of the nation's Congressional delegations. Unfortunately, you also have to deal with George Wallace. He will not allow the Southern states to support any candidate who advocates desegregation.</p><p>Your best chance, sadly, is to try to broker a deal with Nixon or with other moderate Republicans.</p><p>You are the likely winner, but who knows where this all ends?</p>",
+      "sha256": "3f85f98e7d8d3938359e64c14a91445221a22e407fbf286edcddd31660ff1ad8",
+      "zh": "<h3>哇！没有候选人取得选举人团多数。</h3><p>好在民主党赢得了全国多数州的国会代表团。不过，你还必须面对乔治·华莱士。他不会允许南方各州支持任何主张取消种族隔离的候选人。</p><p>遗憾的是，你最好的机会，是试着与尼克松或其他温和派共和党人达成协议。</p><p>你很可能获胜，但谁知道这件事最终会走向哪里？</p>",
+      "keys": [
+        "base/candidate_json/24@20/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>Wow! You have won the 1968 election in a shocker!</h3><p>Dixie forever! Even with the Long Hot Summer of 1967, nobody guessed that you could do well enough in the Northern states to win the election outright. You have instantly become most polarizing President-elect since Abraham Lincoln.</p>",
+      "sha256": "8181c9f59e784d78dae56745401bd111cc54bfc966877b27c683a33f0b4c0629",
+      "zh": "<h3>哇！你出人意料地赢得了1968年选举！</h3><p>迪克西万岁！即便经历了1967年那个漫长而炎热的夏天，也没人想到，你在北方各州的表现竟然足以直接赢得选举。你一举成为亚伯拉罕·林肯以来，最具争议、最让全国意见两极分化的当选总统。</p>",
+      "keys": [
+        "base/candidate_json/25@21/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "<h3>Sorry, you did not prevent an electoral college majority.</h3><p>You put in a good effort, but your dream of brokering an end to desegregation will not come to fruition in 1968. No winning candidate will negotiate that point with you unless they absolutely have no choice.</p><p>The best you can do for now is continue to sound the call for a return to sanity in American politics. Perhaps if the riots and discord continue, you will have a better chance of making your voice heard in 1972.</p>",
+      "sha256": "01d2a0dbc7a59e80b51c19845ea3dad349b9d0846e404d4c9fbb8589aa9b8a72",
+      "zh": "<h3>很遗憾，你没能阻止其他候选人取得选举人团多数。</h3><p>你已经尽了很大努力，但通过政治交易终结取消种族隔离政策的梦想，不会在1968年实现。除非绝对别无选择，胜选候选人不会在这一点上与你谈判。</p><p>眼下，你最多只能继续呼吁，让美国政治恢复你所说的理智。也许，如果骚乱和纷争持续下去，1972年你会更有机会让人们听到你的声音。</p>",
+      "keys": [
+        "base/candidate_json/25@21/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "<h3>Congratulations! You have deadlocked the electoral college with your votes in the South.</h3><p>In a close election, your electoral votes in the South have prevented either candidate from winning a majority. Get ready to put the squeeze on Humphrey and Nixon.</p><p>Of course, you still have to deal with the possibility that Humphrey and Nixon dislike you so much that they will simply strike a deal with each other. Whatever happens, it's sure to be interesting.</p>",
+      "sha256": "69bf364a6ef876203994799c200eaeec095b1c1e376da3f50e329524660b0323",
+      "zh": "<h3>恭喜！你凭南方的选举人票，让选举人团陷入僵局。</h3><p>在这场势均力敌的选举中，你在南方的选举人票，阻止了另两位候选人中的任何一人取得多数。准备好向汉弗莱和尼克松施压吧。</p><p>当然，还有一种可能：汉弗莱和尼克松都太讨厌你，干脆彼此达成协议。无论如何，接下来一定很有意思。</p>",
+      "keys": [
+        "base/candidate_json/25@21/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "* Ha^^ ha^^ ha^^ ha^^^^^^...<^^^^^^^^^^^^^^^^^^* Did you REALLY think it was OVER!?!?<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^* I mean, we haven't even shown you what happens when Wallace wins every state yet...^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "sha256": "9edd41b1688006f43749d0e798bab257a5d91ca55a7fc16f8fc598b229c53c9e",
+      "zh": "* 哈^^ 哈^^ 哈^^ 哈^^^^^^……<^^^^^^^^^^^^^^^^^^* 你真的以为已经结束了吗！？<^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^* 我是说，我们还没给你看华莱士赢下每一个州会发生什么呢……^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "keys": [
+        "1968_Nixon_Agnew/event/s0.l29.c13/text",
+        "1968_Nixon_Reagan/event/s0.l29.c13/text",
+        "1968_Nixon_Rockefeller/event/s0.l29.c13/text",
+        "1968_Nixon_Romney/event/s0.l29.c13/text",
+        "1968_Humphrey_Muskie/event/s0.l29.c13/text",
+        "1968_Humphrey_Kennedy/event/s0.l29.c13/text",
+        "1968_Humphrey_Connally/event/s0.l29.c13/text",
+        "1968_Humphrey_Harris/event/s0.l29.c13/text",
+        "1968_Wallace_LeMay/event/s0.l29.c13/text",
+        "1968_Wallace_Thurmond/event/s0.l29.c13/text",
+        "1968_Wallace_Chandler/event/s0.l29.c13/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Sorry, you lost the 1968 election.",
+      "sha256": "034e9769ca63ca8cbc5a00544b256786128b08eac90d22a29ab41b25bccc2f7c",
+      "zh": "很遗憾，你输掉了1968年选举。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l66.c19/text",
+        "1968_Nixon_Reagan/ending/s0.l66.c19/text",
+        "1968_Nixon_Rockefeller/ending/s0.l66.c19/text",
+        "1968_Nixon_Romney/ending/s0.l66.c19/text",
+        "1968_Humphrey_Muskie/ending/s0.l66.c19/text",
+        "1968_Humphrey_Kennedy/ending/s0.l66.c19/text",
+        "1968_Humphrey_Connally/ending/s0.l66.c19/text",
+        "1968_Humphrey_Harris/ending/s0.l66.c19/text",
+        "1968_Wallace_LeMay/ending/s0.l66.c19/text",
+        "1968_Wallace_Thurmond/ending/s0.l66.c19/text",
+        "1968_Wallace_Chandler/ending/s0.l66.c19/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "<h3>Order!</h3><p>Richard M Nixon, how do you plead on 1 count of treason against the United States of America, 1 count of misappropriation of campaign funds, 1 count of obstruction of justice, one count of abuse of power, one count of…</p><p>Richard Nixon, as he heard all this droning from the judge, closed his eyes, waiting for the sentence to end. He had been up all night, unable to sleep due to all the stress from the trial. Before he knew it, he’d fallen unconscious. All of a sudden, he jolted awake to the sound of the judge screaming; \"NIXON! What do you plead?...\"</p><p>\"Uh, not guilty, your honour… not guilty?\"</p><p>\"On 1 count of sleeping in a court of law?...\"</p><p>\"When did you say tha- actually yes, your honour. The liberal media has been painting an askew picture of me. I was merely resting my eyes.\"</p>",
+      "sha256": "d84d73397fa0ac0f36c4ef9f1bb874efbd1cc1a9a61f085851fa269cc91587e3",
+      "zh": "<h3>肃静！</h3><p>理查德·M. 尼克松，面对一项叛国罪、一项挪用竞选资金罪、一项妨碍司法罪、一项滥用职权罪，以及一项……你作何答辩？</p><p>理查德·尼克松听着法官喋喋不休，闭上眼睛，等着这句话结束。审判的压力让他整夜难以入睡，不知不觉，他就失去了意识。突然，法官的叫喊把他惊醒了：“尼克松！你作何答辩？……”</p><p>“呃，无罪，法官大人……无罪？”</p><p>“对于在法庭上睡觉这一项罪名呢？……”</p><p>“你什么时候说了这——其实，是的，法官大人。自由派媒体一直在歪曲我的形象。我只是在闭目养神。”</p>",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l73.c13/text",
+        "1968_Nixon_Reagan/ending/s0.l73.c13/text",
+        "1968_Nixon_Rockefeller/ending/s0.l73.c13/text",
+        "1968_Nixon_Romney/ending/s0.l73.c13/text",
+        "1968_Humphrey_Muskie/ending/s0.l73.c13/text",
+        "1968_Humphrey_Kennedy/ending/s0.l73.c13/text",
+        "1968_Humphrey_Connally/ending/s0.l73.c13/text",
+        "1968_Humphrey_Harris/ending/s0.l73.c13/text",
+        "1968_Wallace_LeMay/ending/s0.l73.c13/text",
+        "1968_Wallace_Thurmond/ending/s0.l73.c13/text",
+        "1968_Wallace_Chandler/ending/s0.l73.c13/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Congratulations! You won the 1968 election!",
+      "sha256": "db9f11c88667bff891cf1a772a65bbf17711d960a4ead1dd302c463b682402e2",
+      "zh": "恭喜！你赢得了1968年选举！",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l89.c23/text",
+        "1968_Nixon_Reagan/ending/s0.l89.c23/text",
+        "1968_Nixon_Rockefeller/ending/s0.l89.c23/text",
+        "1968_Nixon_Romney/ending/s0.l89.c23/text",
+        "1968_Humphrey_Muskie/ending/s0.l89.c23/text",
+        "1968_Humphrey_Kennedy/ending/s0.l89.c23/text",
+        "1968_Humphrey_Connally/ending/s0.l89.c23/text",
+        "1968_Humphrey_Harris/ending/s0.l89.c23/text",
+        "1968_Wallace_LeMay/ending/s0.l89.c23/text",
+        "1968_Wallace_Thurmond/ending/s0.l89.c23/text",
+        "1968_Wallace_Chandler/ending/s0.l89.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Congratulations! Despite the intense battle from Humphrey and Wallace, you have disproven the doubters and redeemed your name. Your performance in debates and campaigning were widely praised compared to 1960, which allowed you to win with a massive landslide. What a turnaround from 1964!",
+      "sha256": "21deccefa675d919435a18e81ae268b1e3f35b096d05b1b8163723ad02904639",
+      "zh": "恭喜！尽管汉弗莱和华莱士与你激烈交锋，你仍让怀疑者哑口无言，重新证明了自己。与1960年相比，你在辩论和竞选中的表现广受赞扬，帮助你以压倒性优势获胜。与1964年相比，真是天翻地覆！",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l95.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l95.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l95.c32/text",
+        "1968_Nixon_Romney/ending/s0.l95.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l95.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l95.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l95.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l95.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l95.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l95.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l95.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Congratulations! Despite the intense battle from Humphrey and Wallace, you have disproven the doubters and redeemed your name. Your lead dwindled a bit as Wallace’s appeal dampened, but your coalition managed to remain intact.",
+      "sha256": "ab52db4876ee182447a875d44f5c55cf2d99805d6cc16cb71f2349f18d6f1a80",
+      "zh": "恭喜！尽管汉弗莱和华莱士与你激烈交锋，你仍让怀疑者哑口无言，重新证明了自己。随着华莱士的吸引力减弱，你的领先优势略有缩小，但支持你的联盟仍然团结。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l97.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l97.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l97.c32/text",
+        "1968_Nixon_Romney/ending/s0.l97.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l97.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l97.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l97.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l97.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l97.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l97.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l97.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Congratulations! Despite the intense battle from Humphrey and Wallace, you have disproven the doubters and redeemed your name. The bombing halt and Wallace collapsing in the north nearly lost you the election, but you managed to hang on.",
+      "sha256": "d4c21946473030d794e82b705bcb24e373a838068441841353c896a49e1fdb51",
+      "zh": "恭喜！尽管汉弗莱和华莱士与你激烈交锋，你仍让怀疑者哑口无言，重新证明了自己。停止轰炸，加上华莱士在北方的支持崩塌，差点让你输掉选举，不过你还是守住了胜利。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l100.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l100.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l100.c32/text",
+        "1968_Nixon_Romney/ending/s0.l100.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l100.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l100.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l100.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l100.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l100.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l100.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l100.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "For the first time since 1888, the winner of the electoral vote lost the popular vote. It seems many people underestimated how much of an effect Wallace had on your campaign in the south.",
+      "sha256": "5535975a6a82cb0adb6a4c4d008a489b620be54832527d7ec497658e11e0e389",
+      "zh": "自1888年以来，首次出现选举人票胜者输掉普选票的情况。看来，许多人低估了华莱士在南方对你竞选的影响。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l103.c33/text",
+        "1968_Nixon_Reagan/ending/s0.l103.c33/text",
+        "1968_Nixon_Rockefeller/ending/s0.l103.c33/text",
+        "1968_Nixon_Romney/ending/s0.l103.c33/text",
+        "1968_Humphrey_Muskie/ending/s0.l103.c33/text",
+        "1968_Humphrey_Kennedy/ending/s0.l103.c33/text",
+        "1968_Humphrey_Connally/ending/s0.l103.c33/text",
+        "1968_Humphrey_Harris/ending/s0.l103.c33/text",
+        "1968_Wallace_LeMay/ending/s0.l103.c33/text",
+        "1968_Wallace_Thurmond/ending/s0.l103.c33/text",
+        "1968_Wallace_Chandler/ending/s0.l103.c33/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": " Despite the environment seemingly being perfect for a Nixon comeback, you had a sudden and shocking reversal of fortunes, and have lost yet another presidential election. Republicans are shocked they have now lost 7 of the last 9 presidential elections. With the margins being as close as 8 years ago, you are already having flashbacks of 1960.",
+      "sha256": "0bb30c3f4f4a4e85d3879a627c8c78470d6c623c01f07e684f9c820047cf3744",
+      "zh": "尽管局势看起来十分适合尼克松卷土重来，你却突然遭遇惊人的逆转，再次输掉总统选举。共和党人震惊地发现，他们已输掉最近九次总统选举中的七次。差距与八年前一样接近，让你眼前又浮现1960年的情景。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l108.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l108.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l108.c32/text",
+        "1968_Nixon_Romney/ending/s0.l108.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l108.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l108.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l108.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l108.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l108.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l108.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l108.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": " Despite the environment seemingly being perfect for a Nixon comeback, you had a sudden and shocking reversal of fortunes, and have lost yet another presidential election. Republicans are shocked they have now lost 8 of the last 10 presidential elections. Somehow you managed to do worse compared to 1960. Nobody is quite sure how that is even possible, but suffice it to say you will receive much of the blame.",
+      "sha256": "cabb7bc72e2815418e017c222d9b09ff68200cb654f1025af6f695ecc558cf81",
+      "zh": "尽管局势看起来十分适合尼克松卷土重来，你却突然遭遇惊人的逆转，再次输掉总统选举。共和党人震惊地发现，他们已输掉最近十次总统选举中的八次。不知怎么，你的表现居然比1960年还差。没人说得清这是怎么发生的，但可以肯定，大部分责任都会落到你头上。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l111.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l111.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l111.c32/text",
+        "1968_Nixon_Romney/ending/s0.l111.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l111.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l111.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l111.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l111.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l111.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l111.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l111.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": " Despite the environment seemingly being perfect for a Nixon comeback, you had a sudden and shocking reversal of fortunes, and have lost yet another presidential election. Republicans are shocked they have now lost 8 of the last 10 presidential elections. Not only did you lose, but you got crushed. Under the weight of two ideologically different candidates, your moderate positions seemed to not appeal. If the skirmish between liberal and conservative republicans wasn’t already bad, it was going to get a lot worse after this.",
+      "sha256": "e4004ac322b0e317f48312718822ab0e05fa082b0f402b71b2bff1aa495c69ef",
+      "zh": "尽管局势看起来十分适合尼克松卷土重来，你却突然遭遇惊人的逆转，再次输掉总统选举。共和党人震惊地发现，他们已输掉最近十次总统选举中的八次。你不但输了，还输得很惨。在两个意识形态不同的候选人夹击之下，你的温和立场似乎没能吸引选民。共和党自由派和保守派原本的交锋若还不算糟，这次过后，只会变得更加激烈。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l113.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l113.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l113.c32/text",
+        "1968_Nixon_Romney/ending/s0.l113.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l113.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l113.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l113.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l113.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l113.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l113.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l113.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "At the end of the day, in possibly the most shocking turn of events, the popular vote fell in your favour. Nobody is sure what to make of this, but maybe the Democrats can use their house and senate supermajorities, combined with disaffected Republicans, to pass electoral reform?",
+      "sha256": "c175ee798767fcc424524176f8b713d4d8a18d88dc4c1afa61f7e1fb9888b482",
+      "zh": "最终，局势发生了也许最令人震惊的转折：你反而赢得了普选票。没人知道该如何理解这个结果，不过，民主党也许能凭借在参众两院的压倒性多数，加上不满的共和党人，推动选举制度改革？",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l117.c33/text",
+        "1968_Nixon_Reagan/ending/s0.l117.c33/text",
+        "1968_Nixon_Rockefeller/ending/s0.l117.c33/text",
+        "1968_Nixon_Romney/ending/s0.l117.c33/text",
+        "1968_Humphrey_Muskie/ending/s0.l117.c33/text",
+        "1968_Humphrey_Kennedy/ending/s0.l117.c33/text",
+        "1968_Humphrey_Connally/ending/s0.l117.c33/text",
+        "1968_Humphrey_Harris/ending/s0.l117.c33/text",
+        "1968_Wallace_LeMay/ending/s0.l117.c33/text",
+        "1968_Wallace_Thurmond/ending/s0.l117.c33/text",
+        "1968_Wallace_Chandler/ending/s0.l117.c33/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "A return to the Senate might be in order, so you might defend liberalism from demise during Nixon's administration, or gearing up for a run in 1972. perhaps you can do both. In any case, let's hope Nixon can cool tensions in America and bring the troops home.",
+      "sha256": "fe765fde909ae8d2887b334962ef76d5548336d9b43a1737d58348f63299f5c4",
+      "zh": "也许该重返参议院，在尼克松执政期间捍卫自由主义，免其衰亡；也可以为1972年竞选作准备。或许两件事可以同时做。无论如何，希望尼克松能缓和美国的紧张局势，把军队带回家。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l122.c27/text",
+        "1968_Nixon_Reagan/ending/s0.l122.c27/text",
+        "1968_Nixon_Rockefeller/ending/s0.l122.c27/text",
+        "1968_Nixon_Romney/ending/s0.l122.c27/text",
+        "1968_Humphrey_Muskie/ending/s0.l122.c27/text",
+        "1968_Humphrey_Kennedy/ending/s0.l122.c27/text",
+        "1968_Humphrey_Connally/ending/s0.l122.c27/text",
+        "1968_Humphrey_Harris/ending/s0.l122.c27/text",
+        "1968_Wallace_LeMay/ending/s0.l122.c27/text",
+        "1968_Wallace_Thurmond/ending/s0.l122.c27/text",
+        "1968_Wallace_Chandler/ending/s0.l122.c27/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Despite your best efforts in a tough climate, Richard Nixon will succeed Johnson in the presidency. It was always going to be difficult being so closely associated with an unpopular administration, in a divided party. You still fought hard, and took Nixon to the brink as Kennedy did in 60.",
+      "sha256": "7bc6034782d236dc8d81e308506832a22be74f725d0d301ea3d550d81b2ab873",
+      "zh": "尽管你在艰难局势下竭尽全力，理查德·尼克松仍将接替约翰逊担任总统。你与一个不受欢迎的政府关系如此密切，党内又四分五裂，竞选注定艰难。不过，你仍然奋力一战，像肯尼迪在1960年那样，把尼克松逼到了胜负边缘。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l124.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l124.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l124.c32/text",
+        "1968_Nixon_Romney/ending/s0.l124.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l124.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l124.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l124.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l124.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l124.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l124.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l124.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Despite your best efforts in a tough climate, Richard Nixon will succeed Johnson in the presidency. It was always going to be difficult being so closely associated with an unpopular administration, in a divided party. The crime and rioting took a toll on your campaign hard, and Nixon's law and order theme really hit home for many Americans.",
+      "sha256": "44afc6923ee0078bbc04c6b8b20e74b4da0e485be44976cc7ce16f83185ab09c",
+      "zh": "尽管你在艰难局势下竭尽全力，理查德·尼克松仍将接替约翰逊担任总统。你与一个不受欢迎的政府关系如此密切，党内又四分五裂，竞选注定艰难。犯罪和骚乱严重拖累了你的竞选，而尼克松的法律与秩序主题，确实说到了许多美国人心里。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l126.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l126.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l126.c32/text",
+        "1968_Nixon_Romney/ending/s0.l126.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l126.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l126.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l126.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l126.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l126.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l126.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l126.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Despite your best efforts in a tough climate, Richard Nixon will succeed Johnson in the presidency. It was always going to be difficult being so closely associated with an unpopular administration, in a divided party. It seems liberalism very well might be over with this loss, as you have been crushed. A more moderate candidate in 4 years will likely be chosen.",
+      "sha256": "bca9610c0d015f37f01d55c71b8697b077e72e4e49dee0936b1f9e05104b2ac0",
+      "zh": "尽管你在艰难局势下竭尽全力，理查德·尼克松仍将接替约翰逊担任总统。你与一个不受欢迎的政府关系如此密切，党内又四分五裂，竞选注定艰难。你遭遇惨败，这场失利似乎很可能意味着自由主义的终结。四年后，民主党大概会选择更温和的候选人。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l128.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l128.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l128.c32/text",
+        "1968_Nixon_Romney/ending/s0.l128.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l128.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l128.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l128.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l128.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l128.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l128.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l128.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Your first course of action is to fix what Johnson caused. Vietnam and the riots need to be dealt with. Johnson might not like how you deal with it, but this is your administration, and you'll deal with it the way you do. Act quickly, or you just might become as unpopular as Johnson.",
+      "sha256": "3a180ab090bcbc4962ff8341be494f05c68cbf45a813b86cd132429003b01fd2",
+      "zh": "你上任后要做的第一件事，就是收拾约翰逊造成的局面。越南战争和骚乱都必须处理。约翰逊也许不喜欢你的做法，但现在是你的政府，你会按自己的方式处理。赶快行动，否则你也许会变得和约翰逊一样不受欢迎。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l131.c27/text",
+        "1968_Nixon_Reagan/ending/s0.l131.c27/text",
+        "1968_Nixon_Rockefeller/ending/s0.l131.c27/text",
+        "1968_Nixon_Romney/ending/s0.l131.c27/text",
+        "1968_Humphrey_Muskie/ending/s0.l131.c27/text",
+        "1968_Humphrey_Kennedy/ending/s0.l131.c27/text",
+        "1968_Humphrey_Connally/ending/s0.l131.c27/text",
+        "1968_Humphrey_Harris/ending/s0.l131.c27/text",
+        "1968_Wallace_LeMay/ending/s0.l131.c27/text",
+        "1968_Wallace_Thurmond/ending/s0.l131.c27/text",
+        "1968_Wallace_Chandler/ending/s0.l131.c27/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "As expected, you lost the 1968 election",
+      "sha256": "440875fc15c30c21f86b9e6c20e1b82b974583fa40760d47af8f6b6a24a76d47",
+      "zh": "正如预料，你输掉了1968年选举。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l141.c23/text",
+        "1968_Nixon_Reagan/ending/s0.l141.c23/text",
+        "1968_Nixon_Rockefeller/ending/s0.l141.c23/text",
+        "1968_Nixon_Romney/ending/s0.l141.c23/text",
+        "1968_Humphrey_Muskie/ending/s0.l141.c23/text",
+        "1968_Humphrey_Kennedy/ending/s0.l141.c23/text",
+        "1968_Humphrey_Connally/ending/s0.l141.c23/text",
+        "1968_Humphrey_Harris/ending/s0.l141.c23/text",
+        "1968_Wallace_LeMay/ending/s0.l141.c23/text",
+        "1968_Wallace_Thurmond/ending/s0.l141.c23/text",
+        "1968_Wallace_Chandler/ending/s0.l141.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "What happens next is your choice. Another governorship wouldn't hurt, and perhaps you can run again in 4 years if you're up to it. Unfortunately (for you), civil rights will persist.",
+      "sha256": "dd191e077a487d1e66ed4684f0b640b7f5fd8c94e38bd0cd25a82f129332afa6",
+      "zh": "接下来怎么做，由你决定。再当一届州长也无妨；如果你愿意，也许四年后还可以再次参选。遗憾的是——对你而言——民权政策仍将继续。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l142.c23/text",
+        "1968_Nixon_Reagan/ending/s0.l142.c23/text",
+        "1968_Nixon_Rockefeller/ending/s0.l142.c23/text",
+        "1968_Nixon_Romney/ending/s0.l142.c23/text",
+        "1968_Humphrey_Muskie/ending/s0.l142.c23/text",
+        "1968_Humphrey_Kennedy/ending/s0.l142.c23/text",
+        "1968_Humphrey_Connally/ending/s0.l142.c23/text",
+        "1968_Humphrey_Harris/ending/s0.l142.c23/text",
+        "1968_Wallace_LeMay/ending/s0.l142.c23/text",
+        "1968_Wallace_Thurmond/ending/s0.l142.c23/text",
+        "1968_Wallace_Chandler/ending/s0.l142.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Unbelievable! You won the 1968 election!",
+      "sha256": "29655ddb6b618faa127b8ff71a100f769aa4753edaa5013cc12a37b86f865176",
+      "zh": "难以置信！你赢得了1968年选举！",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l147.c31/text",
+        "1968_Nixon_Reagan/ending/s0.l147.c31/text",
+        "1968_Nixon_Rockefeller/ending/s0.l147.c31/text",
+        "1968_Nixon_Romney/ending/s0.l147.c31/text",
+        "1968_Humphrey_Muskie/ending/s0.l147.c31/text",
+        "1968_Humphrey_Kennedy/ending/s0.l147.c31/text",
+        "1968_Humphrey_Connally/ending/s0.l147.c31/text",
+        "1968_Humphrey_Harris/ending/s0.l147.c31/text",
+        "1968_Wallace_LeMay/ending/s0.l147.c31/text",
+        "1968_Wallace_Thurmond/ending/s0.l147.c31/text",
+        "1968_Wallace_Chandler/ending/s0.l147.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "In a shock to all parties involved, neither Hubert Horatio Humphrey nor Richard Milhous Nixon will be the next president of the United States. Somehow, you managed to come out on top. Southerners are ecstatic, liberals are foaming at the mouth, and the black population has never been more fearful.",
+      "sha256": "c23597c78a4a24275e2fcb8628b4f9f83de2310db290bc1e509eda930376ee28",
+      "zh": "所有阵营都震惊了：下一任美国总统既不是休伯特·霍雷肖·汉弗莱，也不是理查德·米尔豪斯·尼克松。不知怎么，你竟然脱颖而出。南方人欣喜若狂，自由派气得口吐白沫，而黑人群体从未如此恐惧。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l148.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l148.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l148.c32/text",
+        "1968_Nixon_Romney/ending/s0.l148.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l148.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l148.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l148.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l148.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l148.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l148.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l148.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Pundits are shocked, trying to figure out how you managed to capture states outside the deep south to win it all. What happens next is entirely unknown. Its likely a crusader against the civil rights bill will happen, as well as the deconstruction of Great Society, and the escalation of Vietnam. Whatever happens, sit back and relax knowing you've done the greatest upset in US political history! ",
+      "sha256": "cbf486a27a33f016dc8522ab543ba822024de099847092ab1f565a8ff330806c",
+      "zh": "评论员震惊不已，试图弄清楚，你怎样赢下深南部以外的州，从而取得最终胜利。接下来会发生什么，完全无人知晓。很可能会出现针对民权法案的讨伐，伟大社会遭到拆解，越南战争进一步升级。无论如何，先坐下来放松一下：你创造了美国政治史上最大的选举逆转！",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l149.c31/text",
+        "1968_Nixon_Reagan/ending/s0.l149.c31/text",
+        "1968_Nixon_Rockefeller/ending/s0.l149.c31/text",
+        "1968_Nixon_Romney/ending/s0.l149.c31/text",
+        "1968_Humphrey_Muskie/ending/s0.l149.c31/text",
+        "1968_Humphrey_Kennedy/ending/s0.l149.c31/text",
+        "1968_Humphrey_Connally/ending/s0.l149.c31/text",
+        "1968_Humphrey_Harris/ending/s0.l149.c31/text",
+        "1968_Wallace_LeMay/ending/s0.l149.c31/text",
+        "1968_Wallace_Thurmond/ending/s0.l149.c31/text",
+        "1968_Wallace_Chandler/ending/s0.l149.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "As most expected, you've lost. This isn't a surprise, as you're a third party. even worse, your second goal of deadlocking the electoral college failed. You did, however, come very close, picking up a number of states you weren't expected to pick up. It seems that your crusade for the south turned out really well. You could run in four years perhaps, and try and win the same coalition, trying to deadlock the election then. You've sent a clear message to the Democrats; the south isn't to be ignored,",
+      "sha256": "a272ba29068e9cddbf3ae5ea80ee1ed5de6a597acf5bc23ad6c22ecbdc0d0edc",
+      "zh": "正如多数人预料，你输了。作为第三党候选人，这并不奇怪。更糟的是，让选举人团陷入僵局的第二个目标，也失败了。不过，你已经非常接近，赢下了几个原本不被看好的州。看来，你为南方而战的行动成效很大。也许四年后，你可以再次参选，争取同样的联盟，再尝试制造选举僵局。你已经向民主党发出明确的信息：南方不能被忽视。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l152.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l152.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l152.c32/text",
+        "1968_Nixon_Romney/ending/s0.l152.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l152.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l152.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l152.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l152.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l152.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l152.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l152.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "As most expected, you've lost. This isn't a surprise, as you're a third party. even worse, your second goal of deadlocking the electoral college failed. You did, however, poll a bit higher above what you were set to win. So good job outdoing your predictions. The south isn't done yet, as you've shown here.",
+      "sha256": "36675b4bbda92d7bdd2873a9ed457c0708fb27bbba7c4a9477d45917b4ae9dc0",
+      "zh": "正如多数人预料，你输了。作为第三党候选人，这并不奇怪。更糟的是，让选举人团陷入僵局的第二个目标，也失败了。不过，你的得票比原先预计的略高，超出了预期，做得不错。你在这里证明，南方的抗争还没结束。",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l154.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l154.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l154.c32/text",
+        "1968_Nixon_Romney/ending/s0.l154.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l154.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l154.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l154.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l154.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l154.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l154.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l154.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "As most expected, you've lost. This isn't a surprise, as you're a third party. even worse, your second goal of deadlocking the electoral college failed. You won just about as much as expected, and yet it wasn't enough. Your supporters are disillusioned that you weren't able to deadlock the college. That's how it is, though...",
+      "sha256": "528b6441f85769671470dbcfd3468606823d015f94ccd46ccc33e7f98b41dbb8",
+      "zh": "正如多数人预料，你输了。作为第三党候选人，这并不奇怪。更糟的是，让选举人团陷入僵局的第二个目标，也失败了。你赢得的支持大致符合预期，但仍然不够。你没能让选举人团陷入僵局，支持者感到失望。现实就是如此……",
+      "keys": [
+        "1968_Nixon_Agnew/ending/s0.l156.c32/text",
+        "1968_Nixon_Reagan/ending/s0.l156.c32/text",
+        "1968_Nixon_Rockefeller/ending/s0.l156.c32/text",
+        "1968_Nixon_Romney/ending/s0.l156.c32/text",
+        "1968_Humphrey_Muskie/ending/s0.l156.c32/text",
+        "1968_Humphrey_Kennedy/ending/s0.l156.c32/text",
+        "1968_Humphrey_Connally/ending/s0.l156.c32/text",
+        "1968_Humphrey_Harris/ending/s0.l156.c32/text",
+        "1968_Wallace_LeMay/ending/s0.l156.c32/text",
+        "1968_Wallace_Thurmond/ending/s0.l156.c32/text",
+        "1968_Wallace_Chandler/ending/s0.l156.c32/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "What will be the overall theme of your campaign as you criss-cross the United States?",
+      "sha256": "45658a8e77bda00c5bf183a97c1dc9f89b743283fad20870a7d06545c3160373",
+      "zh": "你穿梭于美国各地时，竞选的总体主题将是什么？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/321@0/description",
+        "1968_Nixon_Reagan/questions_json/321@0/description",
+        "1968_Nixon_Rockefeller/questions_json/321@1/description",
+        "1968_Nixon_Romney/questions_json/321@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "What will be the thrust of your speech as you accept the Republican nomination in Miami?",
+      "sha256": "1402f339394b16489a0936cd74775eee6178e41f5e7a7522b522e97059db786b",
+      "zh": "你在迈阿密接受共和党提名时，演说的重点将是什么？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/322@1/description",
+        "1968_Nixon_Reagan/questions_json/322@1/description",
+        "1968_Nixon_Rockefeller/questions_json/322@0/description",
+        "1968_Nixon_Romney/questions_json/322@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "What is more important for your campaign -- competing with Humphrey in the swing states, or winning over Wallace voters in the south?",
+      "sha256": "171b7f25dd325fd5f1bd7b2e541dfc7af9d62a7799cf535aff94947cf99c9f0f",
+      "zh": "对你的竞选来说，哪件事更重要：在摇摆州与汉弗莱竞争，还是争取南方的华莱士选民？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/338@2/description",
+        "1968_Nixon_Rockefeller/questions_json/338@3/description",
+        "1968_Nixon_Romney/questions_json/338@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Are you satisfied with the progress of desegregation in this country since the passage of the Civil Rights Act of 1964?",
+      "sha256": "a7b32956acf3c15b39264f46aab77b8234fe189f214468ff545886d12a614bde",
+      "zh": "自1964年《民权法案》通过以来，你对我国取消种族隔离的进展满意吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/256@3/description",
+        "1968_Nixon_Reagan/questions_json/256@5/description",
+        "1968_Nixon_Rockefeller/questions_json/256@2/description",
+        "1968_Nixon_Romney/questions_json/256@4/description",
+        "1968_Humphrey_Muskie/questions_json/256@5/description",
+        "1968_Humphrey_Kennedy/questions_json/256@2/description",
+        "1968_Humphrey_Connally/questions_json/256@4/description",
+        "1968_Humphrey_Harris/questions_json/256@2/description",
+        "1968_Wallace_LeMay/questions_json/256@1/description",
+        "1968_Wallace_Thurmond/questions_json/256@4/description",
+        "1968_Wallace_Chandler/questions_json/256@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Are you satisfied with this nation's economic performance over the previous five years?",
+      "sha256": "03af683286014b76b7f1fafbe3c59ba984a0f719f93d53a2002fd6123c6dcee2",
+      "zh": "你对过去五年我国的经济表现满意吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/255@5/description",
+        "1968_Nixon_Reagan/questions_json/255@4/description",
+        "1968_Nixon_Rockefeller/questions_json/255@4/description",
+        "1968_Nixon_Romney/questions_json/255@5/description",
+        "1968_Humphrey_Muskie/questions_json/255@8/description",
+        "1968_Humphrey_Kennedy/questions_json/255@3/description",
+        "1968_Humphrey_Connally/questions_json/255@5/description",
+        "1968_Humphrey_Harris/questions_json/255@7/description",
+        "1968_Wallace_LeMay/questions_json/255@6/description",
+        "1968_Wallace_Thurmond/questions_json/255@2/description",
+        "1968_Wallace_Chandler/questions_json/255@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "What is your opinion of Lyndon Johnson's new Medicare program?",
+      "sha256": "5fde63f71f454c852a7ceb89f7b61fa3aa89e630be47d0c3c5799f94ca72e605",
+      "zh": "你如何看待林登·约翰逊新推出的老年医疗保险计划？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/254@6/description",
+        "1968_Nixon_Reagan/questions_json/254@2/description",
+        "1968_Nixon_Rockefeller/questions_json/254@6/description",
+        "1968_Nixon_Romney/questions_json/254@2/description",
+        "1968_Humphrey_Muskie/questions_json/254@7/description",
+        "1968_Humphrey_Kennedy/questions_json/254@6/description",
+        "1968_Humphrey_Connally/questions_json/254@8/description",
+        "1968_Humphrey_Harris/questions_json/254@5/description",
+        "1968_Wallace_LeMay/questions_json/254@3/description",
+        "1968_Wallace_Thurmond/questions_json/254@6/description",
+        "1968_Wallace_Chandler/questions_json/254@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Would you be willing to call an unconditional bombing halt of North Vietnam in the hopes of restarting peace negotiations?",
+      "sha256": "63a403156bbdfd3894ec0a19ea3b9a15e1446faeb89b7ccea6eda2f7b9e5beb1",
+      "zh": "为了争取重启和平谈判，你愿意无条件停止轰炸北越吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/257@7/description",
+        "1968_Nixon_Rockefeller/questions_json/257@22/description",
+        "1968_Humphrey_Harris/questions_json/257@20/description",
+        "1968_Wallace_LeMay/questions_json/257@21/description",
+        "1968_Wallace_Thurmond/questions_json/257@13/description",
+        "1968_Wallace_Chandler/questions_json/257@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Do you support the Child Nutrition Act of 1966, which provides free breakfast and milk to qualified schoolchildren of impoverished backgrounds? Or do you believe that the program is too costly and constitutes a misuse of federal power?",
+      "sha256": "16bdf8af72d0ee18bea7cb43c22faeaa70b3fcf2a722782363b0eed22a552008",
+      "zh": "你支持1966年《儿童营养法》吗？它为符合条件的贫困家庭学童提供免费早餐和牛奶。还是你认为，这项计划花费太大，也是在滥用联邦权力？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/285@8/description",
+        "1968_Nixon_Rockefeller/questions_json/285@10/description",
+        "1968_Nixon_Romney/questions_json/285@9/description",
+        "1968_Wallace_Thurmond/questions_json/285@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "The unemployment rate is currently under 4%, in spite of the chaos that prevails in our nation. What will you do as president to keep unemployment low?",
+      "sha256": "6841368e015c31249c421032232ff87d63bfd577145bc909f809836c3e68a90a",
+      "zh": "尽管我国混乱不堪，目前失业率仍低于4%。担任总统后，你会做些什么，以保持低失业率？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/290@9/description",
+        "1968_Nixon_Rockefeller/questions_json/290@15/description",
+        "1968_Wallace_LeMay/questions_json/290@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "How would you prevent campus incidents like the takeover of Columbia University that occurred this past spring?",
+      "sha256": "4e52367e2dc7336e50536684b2c83fae71b458d254de71058267b6cabf2218cf",
+      "zh": "你将如何防止今年春天哥伦比亚大学遭占领那样的校园事件？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/287@10/description",
+        "1968_Nixon_Reagan/questions_json/287@22/description",
+        "1968_Nixon_Romney/questions_json/287@19/description",
+        "1968_Humphrey_Kennedy/questions_json/287@21/description",
+        "1968_Humphrey_Harris/questions_json/287@15/description",
+        "1968_Wallace_LeMay/questions_json/287@8/description",
+        "1968_Wallace_Thurmond/questions_json/287@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "What do you think about the efforts of the AFL-CIO and other large unions? Do they have a positive effect on America?",
+      "sha256": "2deaa0c6571a06784d1488aaddeb0f49878e33a564dc4001fc256d3003eaae56",
+      "zh": "你如何看待劳联—产联及其他大型工会的活动？它们对美国产生了积极影响吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/260@11/description",
+        "1968_Humphrey_Kennedy/questions_json/260@22/description",
+        "1968_Wallace_LeMay/questions_json/260@13/description",
+        "1968_Wallace_Thurmond/questions_json/260@18/description",
+        "1968_Wallace_Chandler/questions_json/260@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "An alarming percentage of voters are inspired by the aggressively racist rhetoric of George Wallace. What will you do to win this group?",
+      "sha256": "a07b97acc6486f4a07cb78c0251145299e9c279b847c20e3f7d936a4224b4cb1",
+      "zh": "乔治·华莱士咄咄逼人的种族主义言论，吸引了数量令人担忧的选民。你会如何争取这个群体？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/329@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "How far are you willing to go to compete in the American South against the campaign of George Wallace?",
+      "sha256": "c9c35006f854066e12c04c9c29815069ee79482e1df01b188f86ea8b1273dac9",
+      "zh": "为了在美国南方与乔治·华莱士竞争，你愿意做到什么程度？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/323@13/description",
+        "1968_Nixon_Reagan/questions_json/323@23/description",
+        "1968_Humphrey_Muskie/questions_json/323@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "What is your opinion of the Immigration and Nationality Act of 1965? Is it a good idea to liberalize our immigration policy and to outlaw national origin quotas?",
+      "sha256": "b3220cda3a8c9558d39f66bee35519479ab74eeb95d3ec6274a89e412f71bad9",
+      "zh": "你如何看待1965年《移民与国籍法》？放宽移民政策、取消按国籍来源设置的配额，是好主意吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/280@14/description",
+        "1968_Nixon_Rockefeller/questions_json/280@9/description",
+        "1968_Wallace_LeMay/questions_json/280@20/description",
+        "1968_Wallace_Thurmond/questions_json/280@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "As Governor of California, Ronald Reagan will be crucial to your chances in that state. Can you reassure him that you are sufficiently conservative to warrant his enthusiasm after your battle for the Republican nomination?",
+      "sha256": "802b48f649f298d6453ac04e01bfb328f0303746f772bde73627aa1e0107ae33",
+      "zh": "身为加利福尼亚州州长，罗纳德·里根对你在该州的胜算至关重要。在共和党提名争夺战之后，你能向他保证，自己的立场足够保守，值得他热情支持吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/324@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Can we all agree that the Black Panthers are a menace to the security of the United States?",
+      "sha256": "297667782321d355d01640b5207b510c5d308e461012568697dce911b8bfadc0",
+      "zh": "大家能否一致认同，黑豹党危及美国的安全？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/286@16/description",
+        "1968_Nixon_Rockefeller/questions_json/286@18/description",
+        "1968_Humphrey_Muskie/questions_json/286@19/description",
+        "1968_Wallace_LeMay/questions_json/286@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Do you think the Department of Housing and Urban Development, newly created by Lyndon Johnson, serves a useful purpose in American life?",
+      "sha256": "b52c1555e2801b5173273fed6a4c806b18afa6141e1c1ef32ee0fb8d59674320",
+      "zh": "林登·约翰逊新设立的住房和城市发展部，对美国社会有实际作用吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/277@17/description",
+        "1968_Nixon_Reagan/questions_json/277@10/description",
+        "1968_Nixon_Rockefeller/questions_json/277@14/description",
+        "1968_Nixon_Romney/questions_json/277@10/description",
+        "1968_Humphrey_Connally/questions_json/277@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "Would you consider sending troops into Laos, Cambodia, or North Vietnam to more aggressively combat the flow of Communist troops into South Vietnam?",
+      "sha256": "024cb2ac2a153c4df2854667ccffe853777c3bc447dc75e9b4f3db86fb1dd5c9",
+      "zh": "你会考虑派军队进入老挝、柬埔寨或北越，更积极地阻止共产主义部队进入南越吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/258@18/description",
+        "1968_Humphrey_Muskie/questions_json/258@13/description",
+        "1968_Humphrey_Kennedy/questions_json/258@15/description",
+        "1968_Wallace_Chandler/questions_json/258@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Do you believe that President Johnson overstepped his bounds in negotiating the Kennedy Round of trade agreements? Do you support the liberalization of international trade under the GATT?",
+      "sha256": "bf62b1c1c868370b73a1c957a5092f738e8f8605c6a9d0224b89a761c06f1ba5",
+      "zh": "你认为约翰逊总统在谈判“肯尼迪回合”贸易协定时，超越了自己的权限吗？你支持在《关税及贸易总协定》框架下放宽国际贸易吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/291@19/description",
+        "1968_Nixon_Rockefeller/questions_json/291@17/description",
+        "1968_Nixon_Romney/questions_json/291@13/description",
+        "1968_Humphrey_Kennedy/questions_json/291@18/description",
+        "1968_Humphrey_Connally/questions_json/291@21/description",
+        "1968_Humphrey_Harris/questions_json/291@13/description",
+        "1968_Wallace_LeMay/questions_json/291@15/description",
+        "1968_Wallace_Thurmond/questions_json/291@20/description",
+        "1968_Wallace_Chandler/questions_json/291@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "What is causing the massive increase of crime in America? How will you reverse the trend?",
+      "sha256": "65e0f9097bfed81052a29f47cc2fa97e2e203e011e20ad40f18de4bc695375fb",
+      "zh": "美国犯罪大幅增加的原因是什么？你将如何扭转这种趋势？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/281@20/description",
+        "1968_Nixon_Reagan/questions_json/281@8/description",
+        "1968_Nixon_Romney/questions_json/281@20/description",
+        "1968_Humphrey_Muskie/questions_json/281@11/description",
+        "1968_Wallace_LeMay/questions_json/281@7/description",
+        "1968_Wallace_Chandler/questions_json/281@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "What is your stance on the Six-Day War that occurred last year, and how should Israel handle the new territories it has taken possession of?",
+      "sha256": "5bb1a3440fa9be6ae9126b603b5f0cacce49fbfae8fec19d20e025e13e76c0e2",
+      "zh": "你对去年发生的六日战争持什么立场？以色列应如何处理新占领的领土？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/269@21/description",
+        "1968_Humphrey_Muskie/questions_json/269@14/description",
+        "1968_Humphrey_Harris/questions_json/269@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Are you concerned with some of the activist stances that Earl Warren has taken in his time with the Supreme Court?",
+      "sha256": "5b1efdc195c324ee8057f682ff5c7cf65c570e2159bbb19096d35a2812507435",
+      "zh": "厄尔·沃伦在最高法院任职期间的一些积极干预立场，让你感到担忧吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/270@22/description",
+        "1968_Nixon_Rockefeller/questions_json/270@12/description",
+        "1968_Humphrey_Kennedy/questions_json/270@12/description",
+        "1968_Humphrey_Harris/questions_json/270@17/description",
+        "1968_Wallace_LeMay/questions_json/270@11/description",
+        "1968_Wallace_Thurmond/questions_json/270@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Do we need more spending in the War on Poverty, especially in light of the riots since 1965?",
+      "sha256": "d7080531e3739aa6d660f1ea3825e9405a77f95e73d7b2e4f1343a038e8228a4",
+      "zh": "我们是否需要在向贫困宣战的项目上增加开支，尤其考虑到1965年以来的骚乱？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/292@23/description",
+        "1968_Nixon_Reagan/questions_json/292@12/description",
+        "1968_Humphrey_Muskie/questions_json/292@16/description",
+        "1968_Humphrey_Harris/questions_json/292@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Sources have indicated that Johnson is close to reaching a breakthrough in negotiations with the North Vietnamese, which could almost assure a Democratic win on Tuesday. An operative with connections to the South Vietnam government is willing to sabotage these negotiations with promises that you will offer a better deal when elected. Will you take a chance on this plan?",
+      "sha256": "dff7ca9fc5c811697c401f57cdb868a2c46449574dbb832c989ce6c0a89bcaa2",
+      "zh": "消息表明，约翰逊即将在与北越的谈判中取得突破，这几乎能确保民主党在周二获胜。一名与南越政府有联系的人，愿意破坏这些谈判，向他们保证你当选后会提供更好的条件。你会冒险实施这个计划吗？",
+      "keys": [
+        "1968_Nixon_Agnew/questions_json/325@24/description",
+        "1968_Nixon_Reagan/questions_json/325@24/description",
+        "1968_Nixon_Rockefeller/questions_json/325@24/description",
+        "1968_Nixon_Romney/questions_json/325@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Absolutely not. I'm looking for ways to end this war with an honorable peace agreement, not ways to incite the wrath of Red China.",
+      "sha256": "fbf311d70ae91aa19ebfcedd062d605d3cc97e73a3b0d474d4f244c17631ad62",
+      "zh": "绝对不会。我寻找的是以体面的和平协议结束战争的办法，不是激怒红色中国的办法。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1679@0/description",
+        "1968_Humphrey_Muskie/answers_json/1679@0/description",
+        "1968_Humphrey_Kennedy/answers_json/1679@0/description",
+        "1968_Wallace_Chandler/answers_json/1679@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "We need to pull our forces out of Vietnam as soon as possible. This war is a national disgrace.",
+      "sha256": "8132fd20796f22a320a602f90c2b45bf44f7d63aa9889a3a5ca630820f8d6ef6",
+      "zh": "我们需要尽快把军队撤出越南。这场战争让国家蒙羞。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1680@1/description",
+        "1968_Nixon_Agnew/answers_json/1676@17/description",
+        "1968_Nixon_Rockefeller/answers_json/1676@15/description",
+        "1968_Humphrey_Muskie/answers_json/1680@1/description",
+        "1968_Humphrey_Muskie/answers_json/1656@5/description",
+        "1968_Humphrey_Kennedy/answers_json/1680@1/description",
+        "1968_Humphrey_Kennedy/answers_json/1656@5/description",
+        "1968_Humphrey_Connally/answers_json/1656@3/description",
+        "1968_Humphrey_Harris/answers_json/1656@3/description",
+        "1968_Humphrey_Harris/answers_json/1676@23/description",
+        "1968_Wallace_LeMay/answers_json/1656@3/description",
+        "1968_Wallace_LeMay/answers_json/1676@23/description",
+        "1968_Wallace_Thurmond/answers_json/1656@3/description",
+        "1968_Wallace_Thurmond/answers_json/1676@23/description",
+        "1968_Wallace_Chandler/answers_json/1680@1/description",
+        "1968_Wallace_Chandler/answers_json/1656@5/description",
+        "1968_Wallace_Chandler/answers_json/1676@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "Medicare is the first step towards socialized medicine in this country. We need to end this program as soon as possible and return health care to the states and to the people.",
+      "sha256": "b67ac6c2668f405edbd0dd8472534a37d6be7c108becb48ac6cc1a75c357b73f",
+      "zh": "老年医疗保险，是我国走向医疗社会化的第一步。我们必须尽快终止这项计划，把医疗事务重新交还各州和人民。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1661@2/description",
+        "1968_Nixon_Reagan/answers_json/1661@0/description",
+        "1968_Nixon_Rockefeller/answers_json/1661@0/description",
+        "1968_Nixon_Romney/answers_json/1661@0/description",
+        "1968_Humphrey_Muskie/answers_json/1661@10/description",
+        "1968_Humphrey_Kennedy/answers_json/1661@10/description",
+        "1968_Humphrey_Connally/answers_json/1661@8/description",
+        "1968_Humphrey_Harris/answers_json/1661@8/description",
+        "1968_Wallace_LeMay/answers_json/1661@8/description",
+        "1968_Wallace_Thurmond/answers_json/1661@8/description",
+        "1968_Wallace_Chandler/answers_json/1661@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "We need to be very cautious about this program. It's important to ensure that the indigent can receive care, but programs like these always run the risk of adding precipitously to our national deficit.",
+      "sha256": "559e6127e21ca6f7188878f4e4ac546cd055d3fc2cf595343bb49766e9c3737d",
+      "zh": "我们必须非常谨慎地对待这项计划。确保贫困者得到医疗很重要，但这类计划总有使国家赤字急剧增加的风险。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1662@3/description",
+        "1968_Nixon_Reagan/answers_json/1662@1/description",
+        "1968_Nixon_Rockefeller/answers_json/1662@1/description",
+        "1968_Nixon_Romney/answers_json/1662@1/description",
+        "1968_Humphrey_Muskie/answers_json/1662@11/description",
+        "1968_Humphrey_Kennedy/answers_json/1662@11/description",
+        "1968_Humphrey_Connally/answers_json/1662@9/description",
+        "1968_Humphrey_Harris/answers_json/1662@9/description",
+        "1968_Wallace_LeMay/answers_json/1662@9/description",
+        "1968_Wallace_Thurmond/answers_json/1662@9/description",
+        "1968_Wallace_Chandler/answers_json/1662@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "I commend this piece of legislation. Already we see many Americans receiving health care who would otherwise be stricken with serious and/or fatal conditions.",
+      "sha256": "f406187b0bfca1aaa0714f114904e6fc3ee6342570b60123648f6f67dd063145",
+      "zh": "我赞赏这项立法。我们已经看到，许多原本会遭受严重甚至致命疾病困扰的美国人，现在得到了医疗服务。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1663@4/description",
+        "1968_Nixon_Reagan/answers_json/1663@2/description",
+        "1968_Nixon_Rockefeller/answers_json/1663@2/description",
+        "1968_Nixon_Romney/answers_json/1663@2/description",
+        "1968_Humphrey_Muskie/answers_json/1663@12/description",
+        "1968_Humphrey_Kennedy/answers_json/1663@12/description",
+        "1968_Humphrey_Connally/answers_json/1663@10/description",
+        "1968_Humphrey_Harris/answers_json/1663@10/description",
+        "1968_Wallace_LeMay/answers_json/1663@10/description",
+        "1968_Wallace_Thurmond/answers_json/1663@10/description",
+        "1968_Wallace_Chandler/answers_json/1663@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "Medicare is only the beginning of what we need to do in this country. I support a national health care system for all Americans.",
+      "sha256": "6bfcbaf7600898cf5920e054e6ab6546986c5b9c6e1f93a8e37304a975be4baa",
+      "zh": "老年医疗保险只是我国必要改革的开端。我支持为所有美国人建立全国性的医疗保障制度。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1664@5/description",
+        "1968_Nixon_Reagan/answers_json/1664@3/description",
+        "1968_Nixon_Rockefeller/answers_json/1664@3/description",
+        "1968_Nixon_Romney/answers_json/1664@3/description",
+        "1968_Humphrey_Muskie/answers_json/1664@13/description",
+        "1968_Humphrey_Kennedy/answers_json/1664@13/description",
+        "1968_Humphrey_Connally/answers_json/1664@11/description",
+        "1968_Humphrey_Harris/answers_json/1664@11/description",
+        "1968_Wallace_LeMay/answers_json/1664@11/description",
+        "1968_Wallace_Thurmond/answers_json/1664@11/description",
+        "1968_Wallace_Chandler/answers_json/1664@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "How can anyone be satisfied with the course our nation has taken? Inflation is killing the value of the dollar and the gold standard itself is at risk. Unemployment is highest under the Johnson Administration among the very people he claims to care about the most.",
+      "sha256": "5fed4e2452e540e4f4b3236a633ecd59ce31cc7ce13d4c3c7c49a0d0aae27e89",
+      "zh": "谁能对国家目前的道路感到满意？通货膨胀正在摧毁美元的价值，连金本位本身都面临危险。而在约翰逊口口声声最关心的那些人当中，失业率却最高。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1665@6/description",
+        "1968_Nixon_Reagan/answers_json/1665@4/description",
+        "1968_Nixon_Rockefeller/answers_json/1665@4/description",
+        "1968_Nixon_Romney/answers_json/1665@4/description",
+        "1968_Humphrey_Muskie/answers_json/1665@14/description",
+        "1968_Humphrey_Kennedy/answers_json/1665@14/description",
+        "1968_Humphrey_Connally/answers_json/1665@12/description",
+        "1968_Humphrey_Harris/answers_json/1665@12/description",
+        "1968_Wallace_LeMay/answers_json/1665@12/description",
+        "1968_Wallace_Thurmond/answers_json/1665@12/description",
+        "1968_Wallace_Chandler/answers_json/1665@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "Our current economic path is not sustainable. We need to continue the growth we have seen but we cannot allow this inflation we have to continue.",
+      "sha256": "ccccb14c75adde0f33899fc84d1aaf4c751d46c4e7421b210ac861708f4e9821",
+      "zh": "我们目前的经济道路不可持续。我们要保持已经取得的增长，却不能让这样的通胀继续下去。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1666@7/description",
+        "1968_Nixon_Reagan/answers_json/1666@5/description",
+        "1968_Nixon_Rockefeller/answers_json/1666@5/description",
+        "1968_Nixon_Romney/answers_json/1666@5/description",
+        "1968_Humphrey_Muskie/answers_json/1666@15/description",
+        "1968_Humphrey_Kennedy/answers_json/1666@15/description",
+        "1968_Humphrey_Connally/answers_json/1666@13/description",
+        "1968_Humphrey_Harris/answers_json/1666@13/description",
+        "1968_Wallace_LeMay/answers_json/1666@13/description",
+        "1968_Wallace_Thurmond/answers_json/1666@13/description",
+        "1968_Wallace_Chandler/answers_json/1666@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "The unemployment rate right now is under four percent. Workers, particularly those in labor unions, enjoy high purchasing power and an ever-expanding lifestyle. Economic growth throughout the 1960s has been outstanding.",
+      "sha256": "4e5420aa2c14beb6df8388f5348c10222f06b8c52031485079e9b411d4efa4f5",
+      "zh": "目前失业率低于4%。劳动者，尤其是工会成员，拥有很强的购买力，生活水平也不断提高。整个60年代的经济增长都非常出色。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1667@8/description",
+        "1968_Nixon_Reagan/answers_json/1667@6/description",
+        "1968_Nixon_Rockefeller/answers_json/1667@6/description",
+        "1968_Nixon_Romney/answers_json/1667@6/description",
+        "1968_Humphrey_Muskie/answers_json/1667@16/description",
+        "1968_Humphrey_Kennedy/answers_json/1667@16/description",
+        "1968_Humphrey_Connally/answers_json/1667@14/description",
+        "1968_Humphrey_Harris/answers_json/1667@14/description",
+        "1968_Wallace_LeMay/answers_json/1667@14/description",
+        "1968_Wallace_Thurmond/answers_json/1667@14/description",
+        "1968_Wallace_Chandler/answers_json/1667@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "The worst thing we can do right now is to sabotage the progress we have seen by continuing to squander our money on a war in Vietnam. I support a full employment economy as well -- meaning we must be vigilant against misguided attempts to raise interest rates.",
+      "sha256": "1dee385af86f7be9061565092b2b02b6e160786a3fef940b4a43f1e1281d1af5",
+      "zh": "眼下，我们最不该做的，就是继续把钱浪费在越南战争上，破坏已经取得的进步。我也支持充分就业的经济，因此必须警惕那些错误的加息企图。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1668@9/description",
+        "1968_Nixon_Reagan/answers_json/1668@7/description",
+        "1968_Nixon_Rockefeller/answers_json/1668@7/description",
+        "1968_Nixon_Romney/answers_json/1668@7/description",
+        "1968_Humphrey_Muskie/answers_json/1668@17/description",
+        "1968_Humphrey_Kennedy/answers_json/1668@17/description",
+        "1968_Humphrey_Connally/answers_json/1668@15/description",
+        "1968_Humphrey_Harris/answers_json/1668@15/description",
+        "1968_Wallace_LeMay/answers_json/1668@15/description",
+        "1968_Wallace_Thurmond/answers_json/1668@15/description",
+        "1968_Wallace_Chandler/answers_json/1668@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "Whites and Negroes are naturally unsuited to mix together in society. The entire premise of desegregation is a farce, and my campaign is dedicated to ending this misguided policy.",
+      "sha256": "8b6b660da6f0906863fbc90c3d9a27b703792ee83718b66220ea8a1d5cc93fd8",
+      "zh": "白人与黑人天生就不适合在社会中混在一起。取消种族隔离的整个前提就是一场闹剧，我的竞选就是要终结这项错误政策。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1669@10/description",
+        "1968_Nixon_Reagan/answers_json/1669@8/description",
+        "1968_Nixon_Rockefeller/answers_json/1669@8/description",
+        "1968_Nixon_Romney/answers_json/1669@8/description",
+        "1968_Humphrey_Muskie/answers_json/1669@18/description",
+        "1968_Humphrey_Kennedy/answers_json/1669@18/description",
+        "1968_Humphrey_Connally/answers_json/1669@16/description",
+        "1968_Humphrey_Harris/answers_json/1669@16/description",
+        "1968_Wallace_LeMay/answers_json/1669@16/description",
+        "1968_Wallace_Thurmond/answers_json/1669@16/description",
+        "1968_Wallace_Chandler/answers_json/1669@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "I strongly support what we have done to end the insidious practice of segregation in the South. However I'm also alarmed at some of the ideas I've heard about forced integration of neighborhoods, or the proposed busing of students to distant schools.",
+      "sha256": "c8c9a80e6654d2b6e16d073baad9ed7b488801d980cd57707004da73887449b7",
+      "zh": "我强烈支持我们为终结南方阴险的种族隔离制度所作的努力。不过，我也担忧一些主张，例如强制社区种族融合，或用校车把学生送到远处学校的提议。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1670@11/description",
+        "1968_Nixon_Reagan/answers_json/1670@9/description",
+        "1968_Nixon_Rockefeller/answers_json/1670@9/description",
+        "1968_Nixon_Romney/answers_json/1670@9/description",
+        "1968_Humphrey_Muskie/answers_json/1670@19/description",
+        "1968_Humphrey_Kennedy/answers_json/1670@19/description",
+        "1968_Humphrey_Connally/answers_json/1670@17/description",
+        "1968_Humphrey_Harris/answers_json/1670@17/description",
+        "1968_Wallace_LeMay/answers_json/1670@17/description",
+        "1968_Wallace_Thurmond/answers_json/1670@17/description",
+        "1968_Wallace_Chandler/answers_json/1670@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "We have achieved great strides on this issue in the past twenty years -- and let the record show that I shepherd the Civil Rights Act of 1957 through the Senate and have supported Civil Rights bills during my time in the House and Senate. We still have a long way to go, however, before we can truly realize the dream of Martin Luther King.",
+      "sha256": "acc6a913b6f4106c3ace7b0f573ad8828c01e974d483af269af917b0b60750ee",
+      "zh": "过去二十年，我们在这个问题上取得了巨大进步。历史记录也表明，是我推动1957年《民权法案》在参议院过关，并在担任众议员和参议员期间支持民权法案。不过，要真正实现金博士的梦想，我们还有很长的路要走。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1671@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "We need to be very aggressive in fighting racism and its effects where they exist. I support programs such as busing, affirmative action, the new HUD department, and anything else that is necessary to integrate all regions of the United States.",
+      "sha256": "4c362050cd0e22d290e41ecd3f62531b2271e882b003446081d392f48d11159c",
+      "zh": "凡是存在种族主义及其影响的地方，我们都必须积极对抗。我支持跨区校车接送、平权行动、新设的住房和城市发展部，以及为促成美国各地区种族融合所必需的其他措施。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1672@13/description",
+        "1968_Nixon_Reagan/answers_json/1672@11/description",
+        "1968_Nixon_Rockefeller/answers_json/1672@11/description",
+        "1968_Nixon_Romney/answers_json/1672@11/description",
+        "1968_Humphrey_Muskie/answers_json/1672@21/description",
+        "1968_Humphrey_Kennedy/answers_json/1672@21/description",
+        "1968_Humphrey_Connally/answers_json/1672@19/description",
+        "1968_Humphrey_Harris/answers_json/1672@19/description",
+        "1968_Wallace_LeMay/answers_json/1672@19/description",
+        "1968_Wallace_Thurmond/answers_json/1672@19/description",
+        "1968_Wallace_Chandler/answers_json/1672@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "If anything, we need to escalate the bombing of North Vietnam. I don't go to bed at night with the feeling that they truly respect the power of America.",
+      "sha256": "68a236488b368a1d2799401bde10cc071ac5e8ace15375106219b4fc3b6fb792",
+      "zh": "要说有什么需要改变，那就是加大对北越的轰炸力度。我每晚睡觉时，都不觉得他们真正敬畏美国的力量。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1673@14/description",
+        "1968_Nixon_Rockefeller/answers_json/1673@12/description",
+        "1968_Humphrey_Harris/answers_json/1673@20/description",
+        "1968_Wallace_LeMay/answers_json/1673@20/description",
+        "1968_Wallace_Thurmond/answers_json/1673@20/description",
+        "1968_Wallace_Chandler/answers_json/1673@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "We will never win the peace in Vietnam by caving in to the Communists. I cannot support such an ill-conceived measure.",
+      "sha256": "c475619c31fd7f11888e2c7fe6a6668fd738799e44ee13af99ea550f9fda9086",
+      "zh": "向共产党人屈服，绝不可能赢得越南的和平。我不能支持这样考虑不周的措施。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1674@15/description",
+        "1968_Nixon_Rockefeller/answers_json/1674@13/description",
+        "1968_Humphrey_Harris/answers_json/1674@21/description",
+        "1968_Wallace_LeMay/answers_json/1674@21/description",
+        "1968_Wallace_Thurmond/answers_json/1674@21/description",
+        "1968_Wallace_Chandler/answers_json/1674@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "I would be willing to take this step and see what develops. It is imperative that we end the war in Vietnam as soon as possible.",
+      "sha256": "82c14895aac66707f2832bec4dad7f655e8e5df9de27c8c417188d411efc7c46",
+      "zh": "我愿意采取这一步，看看局势如何发展。我们必须尽快结束越南战争。",
+      "keys": [
+        "1968_Nixon_Agnew/answers_json/1675@16/description",
+        "1968_Nixon_Rockefeller/answers_json/1675@14/description",
+        "1968_Humphrey_Harris/answers_json/1675@22/description",
+        "1968_Wallace_LeMay/answers_json/1675@22/description",
+        "1968_Wallace_Thurmond/answers_json/1675@22/description",
+        "1968_Wallace_Chandler/answers_json/1675@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

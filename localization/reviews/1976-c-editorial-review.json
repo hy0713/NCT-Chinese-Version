@@ -1,0 +1,1433 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1976-c",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 668,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 14,
+      "reason": "On the trial read contextually as campaign trail, not a court trial; English unchanged."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "To be fair, you've appeared with people across the Democratic spectrum, and you shouldn't ignore your Southern base completely.",
+      "sha256": "9aa94d6d6d2582122cb45cfa8e0c94b1d81a855b552e50cb776f6e4e5d4d85ff",
+      "zh": "公平地说，你与民主党各派人士都一同露过面，也不应完全忽视南方基本盘。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1010@11/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1010@13/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1010@13/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1010@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "This might be true, but there are more people in your Party opposed to Wallace than supportive of him.",
+      "sha256": "12b720d92b95e6ca9e550732c8dcb2097949e669ddb71f2edd592a073eef15f6",
+      "zh": "这或许属实，但党内反对华莱士的人，比支持他的人更多。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1011@12/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1011@14/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1011@14/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1011@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "This might play well in the South, but it definitely detracts from your national appeal.",
+      "sha256": "0cb151351ac7a508a37f60778ef0e99057d843cf69d5e40fedd18a7327cfe1e3",
+      "zh": "这或许在南方讨好，但肯定会削弱你在全国的吸引力。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1012@13/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1012@15/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1012@15/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1012@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "It was a bad idea to do this interview in the first place. The least you can do is show some contrition.",
+      "sha256": "83246849adfd2498336927c3e164590a8bf8d292ed5d09430281c4d82c7088a2",
+      "zh": "当初接受这场采访就是个坏主意。你至少应该表现出一点悔意。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1013@14/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1013@16/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1013@16/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1013@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "It's probably smart to cut your losses and move on from this issue. But for the first time now, a lot of people are questioning your judgment...",
+      "sha256": "dad3859a75213fc3b842c44baa36008b534ba6d2e9d27fb8b13a85e780590d88",
+      "zh": "及时止损、翻过这一页，大概是明智的。不过，现在第一次有许多人开始怀疑你的判断力……",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1014@15/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1014@17/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1014@17/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1014@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "It was a bad idea to do this interview in the first place. You don't need to make things worse by digging your heels in.",
+      "sha256": "8440b14bb32705cffcb791ce9be24daa77593825f3d141b5cd07a29808808568",
+      "zh": "当初接受这场采访就是个坏主意。你没必要死不认错，把事情弄得更糟。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1015@16/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1015@18/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1015@18/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1015@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "You've gained a bit for being honest, but this can't be good for your chances in Texas.",
+      "sha256": "ecd4f84cf4c814abfe9547b3c9454fb9a8170cd5742a10206ca2f2bda0397480",
+      "zh": "诚实让你得到了一点好处，但这肯定不利于你在得克萨斯州的胜算。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1016@17/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1016@19/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1016@19/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1016@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "Probably a smart move to walk back from these comments, although it does undermine your claims to honesty by a small amount.",
+      "sha256": "f9a1e9a9a086783533c1b8af18907b902edfbb833d98a23ff266399282371b2d",
+      "zh": "收回这些话，大概是明智的做法，尽管多少损害了你自称诚实的形象。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1017@18/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1017@20/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1017@20/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1017@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "Unfortunately there's not much you can do with this awkward situation. But you've spoken out enough for Civil Rights that this shouldn't hurt you too much...",
+      "sha256": "fb2f8daeda09c58a39b6b14319340180656ad701e54d2c714444cafe8ec05e37",
+      "zh": "不幸的是，面对这个尴尬局面，你能做的不多。不过，你为民权说过足够多的话，应该不会受到太大损害……",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1018@19/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1018@21/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1018@21/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1018@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "This answer sounds too strident and waffling to have much appeal on either side. Hopefully the damage is limited.",
+      "sha256": "0446723b60a96ee958c490836af1b5a91ddd17e850f4195612297894831b7eca",
+      "zh": "这个回答语气太冲，又摇摆不定，很难讨好任何一方。希望损害有限。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1019@20/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1019@22/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1019@22/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1019@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "It's nice to talk about the New South, but there is sure to be a backlash (especially from the Southern Baptist vote). On the other hand, this could help you a bit elsewhere.",
+      "sha256": "934d5d1bc2131d1ee9c8d7b54c5ae87588678ef8e2cb3f320ec5736861c2e93a",
+      "zh": "谈新南方当然不错，但肯定会引发反弹，尤其是在美南浸信会选民中。另一方面，这也可能让你在其他地方略有收获。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1020@21/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1020@23/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1020@23/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1020@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "Walter Mondale is a popular choice among mainstream Democrats.",
+      "sha256": "2593551eb6068ddeaa51541b3b25e5951e9c32b3c383b107b646e8c88cd8ef09",
+      "zh": "沃尔特·蒙代尔是主流民主党人欢迎的选择。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1021@22/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1022@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "This is a strong answer, but it certainly helps you with the Jewish vote in New York and elsewhere.",
+      "sha256": "4cef8e8c6cce35b0cb4691ff3517dc88050bc3d08414fd64461ae967109f185b",
+      "zh": "这个回答很强硬，不过，它确实有助于你争取纽约和其他地方的犹太选票。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1032@24/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1135@81/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1032@27/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1135@82/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1032@26/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1135@84/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1032@26/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1135@80/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1032@0/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1135@84/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1032@2/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1135@80/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "This is a good enough answer, but some Jewish supporters were hoping for more.",
+      "sha256": "9d8686198bf01a42b0171a4e32af9335c38b1278e2ef81210db4b1f6b43b10ca",
+      "zh": "这个回答已经不错，但一些犹太人支持者原本期待你说得更多。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1033@25/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1033@28/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1033@27/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1033@27/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1033@1/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1033@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "Your position on this controversy has become news itself. People are wondering if you're opposed to Israel or the Jewish people, and it is not helping you on the trial.",
+      "sha256": "5d5c632869262f4936bac8ae2441484b63d8519ce061dfa19e9e6d229e5f5d3b",
+      "zh": "你对这场争议的立场，本身已经成了新闻。人们在猜测，你是否反对以色列或犹太人，这对你的竞选没有帮助。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1034@26/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1035@27/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1137@83/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1138@84/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1034@29/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1035@30/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1137@84/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1138@85/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1034@28/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1035@29/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1137@86/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1138@87/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1034@28/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1035@29/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1137@82/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1138@83/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1034@2/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1035@3/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1137@86/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1138@87/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1034@4/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1035@5/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1137@82/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1138@83/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "This is a good liberal answer, but perhaps a bit too liberal.",
+      "sha256": "04824ef397ad52e1e4f04c2a6ce7442782ff873fed56dae761e530ae1c5ffad8",
+      "zh": "这是个不错的自由派回答，但也许有点过于自由派了。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1036@28/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1036@31/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1036@30/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1036@30/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1036@4/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1036@2/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1036@2/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1036@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "This is not the best response for a Democrat.",
+      "sha256": "4ef64af95298628b99a17747a0d1dba8f9417e3d322c519f01b7b2a148e2a5e0",
+      "zh": "对民主党人来说，这不是最好的回应。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1037@29/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1039@31/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1037@32/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1039@34/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1037@31/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1039@33/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1037@31/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1039@33/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1037@5/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1039@7/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1037@3/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1039@5/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1037@3/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1039@5/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1037@7/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1039@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "This is a controversial answer, but as an outsider it could help feed your popularity.",
+      "sha256": "4fe7ffd9306f724c3dfbc1dcbd910fc27794b4de663368fd77cdee192300e736",
+      "zh": "这个回答有争议，但你是个局外人，或许反而能借此提升人气。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1038@30/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1038@33/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1038@32/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1038@32/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1038@6/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1038@4/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1038@4/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1038@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "This is the mainstream answer shared by all major politicians (unless you count a guy like Reagan).",
+      "sha256": "c1b5c48bc435e865f4dd9aed9e45f62fdbaab1a8403a20e5bf291b0077abe5af",
+      "zh": "这是所有主要政治人物共同持有的主流回答，除非你也把里根那样的人算进去。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1040@32/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1145@91/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1040@35/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1145@92/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1040@34/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1145@94/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1040@34/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1145@90/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1040@8/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1145@94/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1040@6/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1145@88/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1040@6/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1145@85/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1040@10/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1145@90/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Even Gerald Ford supports this Amendment. Some wings of the party are pretty disappointed in this stance.",
+      "sha256": "4f054a6285d1a6188ef22304410054c01c980a04b40cd07cae5f00774c283c00",
+      "zh": "连杰拉尔德·福特都支持这项修正案。党内一些派别对你的立场相当失望。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1041@33/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1042@34/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1041@36/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1042@37/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1041@35/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1042@36/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1041@35/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1042@36/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1041@9/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1042@10/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1041@7/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1042@8/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1041@7/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1042@8/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1041@11/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1042@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "Even Gerald Ford supports this Amendment. It's good to win the labor vote, but there are other factors to consider as well.",
+      "sha256": "58ffe774458c085021589b23c45cc1faf227c20cf1df869a7e9b1e8b2179ed07",
+      "zh": "连杰拉尔德·福特都支持这项修正案。争取劳工选票固然好，但也得考虑其他因素。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1043@35/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1043@38/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1043@37/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1043@37/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1043@11/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1043@9/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1043@9/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1043@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Busing is not a popular policy, but to come out so strongly against it offends some in your party.",
+      "sha256": "cf01af84e9d28cae3106841c52b90e836745431ab229e1fb8ed6f6a035658bef",
+      "zh": "校车接送不是受欢迎的政策，但你如此强烈地反对，也冒犯了党内一些人。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1044@36/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1044@39/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1044@38/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1044@38/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1044@12/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1044@10/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1044@10/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1044@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "You've taken the same position as Ford on this issue. But it is probably the majority view at this time.",
+      "sha256": "67b55e31ed9f65226a5ee1c2a26aa64874e3fd0a95113cbc6f1490c5270a944d",
+      "zh": "你在这个问题上采取了与福特相同的立场。不过，它大概也是目前多数人的看法。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1045@37/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1045@40/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1045@39/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1045@39/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1045@13/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1045@11/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1045@11/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1045@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "You've offended nobody, but also pleased nobody. There are whispers from some that you can't take a stand on any important issue.",
+      "sha256": "f40f50219b5ec1b772e5bd85b2ef85d9be274a1ffd94e063b49cab9233145c01",
+      "zh": "你没有冒犯任何人，也没有让任何人满意。有人私下议论，说你在任何重要问题上都拿不出立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1046@38/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1046@41/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1046@40/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1046@40/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1046@14/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1046@12/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1046@12/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1046@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "This issue divides your party, and you've cast your lot very clearly. Let's see what happens.",
+      "sha256": "73929cea27e5901ae0cb9aa0f36e37b6f77b2052e8a635994d6cce9a456b5efb",
+      "zh": "这个问题让党内意见分裂，而你已经明确选边站了。看看会发生什么吧。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1047@39/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1047@42/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1047@41/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1047@41/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1047@15/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1047@13/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1047@13/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1047@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "On the balance, your party is surprised to hear you take this stance.",
+      "sha256": "279f9ea5a39609a9f4242997758b3429447dd53a8218bf9299463e93aaa74e5e",
+      "zh": "总的来说，党内人士对你采取这个立场感到意外。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1048@40/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1048@43/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1048@42/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1048@42/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1048@16/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1048@14/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1048@14/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1048@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "This is a good, safe answer on the topic.",
+      "sha256": "5786acf058e27ebb76990e32473adf25e4f799f0e3c534db1bbdbb2bbd29410f",
+      "zh": "这是个不错而稳妥的回答。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1049@41/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1049@44/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1049@43/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1049@43/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1049@17/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1049@15/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1049@15/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1049@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "What you've said is true, but you've certainly staked out a liberal position on the issue.",
+      "sha256": "c1789bdde7d0c1b2f2f708b22b130fbb9523b230c15e9991d4336e6fac17147e",
+      "zh": "你说的属实，但你在这个问题上显然采取了自由派立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1050@42/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1050@45/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1050@44/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1050@44/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1050@18/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1050@16/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1050@16/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1050@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "This is another hot-button issue where it might be better for a Democrat to hedge a little.",
+      "sha256": "b5d3962939c4fef8da296178ad406fa240f3d4fe1ac2572ca25c781c66bb5570",
+      "zh": "这又是一个敏感议题，民主党人或许还是稍微留些余地更好。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1051@43/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1051@46/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1051@45/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1051@45/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1051@19/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1051@17/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1051@17/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1051@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "It's hard to know what to do with this question. It might well be best to give a non-committal answer and hope the issue goes away after this election.",
+      "sha256": "09bde4db5a689615f08cf28edee3f1e5534e2e9cefab7bbe14c0cf62aaacaeb6",
+      "zh": "很难判断这个问题该怎么处理。或许最好不作明确承诺，希望选举后这件事就不再受到关注。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1052@44/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1053@45/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1156@102/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1157@103/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1052@47/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1053@48/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1064@55/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1156@103/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1157@104/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1052@46/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1053@47/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1064@58/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1156@105/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1157@106/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1052@46/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1053@47/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1156@101/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1157@102/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1052@20/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1053@21/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1156@105/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1157@106/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1052@18/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1053@19/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1064@26/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1156@99/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1157@100/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1052@18/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1053@19/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1064@30/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1156@96/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1157@97/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1052@22/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1053@23/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1064@26/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1156@101/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1157@102/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "Some in your party are glad to hear this, but it is also an unpopular position in the South.",
+      "sha256": "1b7a85dfba92ecea3388f14bcd8d61472711556b3912d4ddf3db92071d9cb76b",
+      "zh": "党内一些人很高兴听到这番话，但这个立场在南方并不受欢迎。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1054@46/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1054@49/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1054@48/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1054@48/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1054@22/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1054@20/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1054@20/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1054@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "Voters don't care much what you do, as long as there are no more gas shortages and long lines at the pump.",
+      "sha256": "5648ee4f1f2ad9282a3996ce5e84d7d98d4c144bcff4101d1f8781c5850d392b",
+      "zh": "只要不再缺油、加油站前不再排长队，选民并不太在意你具体怎么做。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1059@47/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1060@48/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1061@49/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1062@50/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1163@105/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1164@106/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1165@107/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1166@108/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1059@53/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1060@54/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1061@55/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1062@56/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1163@112/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1164@113/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1165@114/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1166@115/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1059@53/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1060@54/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1061@55/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1062@56/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1163@108/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1164@109/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1165@110/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1166@111/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1059@27/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1060@28/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1061@29/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1062@30/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1163@112/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1164@113/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1165@114/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1166@115/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1059@25/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1060@26/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1061@27/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1062@28/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1163@103/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1164@104/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1165@105/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1166@106/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "This certainly helps you with the urban hard hat vote, but it could hurt you in the South, where most states are right-to-work.",
+      "sha256": "6d490c609ff7973673fc80977b254ceb563d8477c0bb183c4e5df0f62d875fbd",
+      "zh": "这肯定有助于你争取城市建筑工人的选票，却可能在南方伤害你，因为那里的多数州实行工作权法。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1070@51/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1070@63/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1070@34/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1070@31/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1070@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "This is the type of middle-ground answer that will keep you from alienating any large wing of the party.",
+      "sha256": "b541c85bfcbea7cae26ea4a0e0eb15196f62a51b1bc40cc7f011622870e4c032",
+      "zh": "这种中间立场的回答，能避免疏远党内任何一个大派别。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1071@52/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1083@64/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1083@67/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1071@64/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1083@67/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1071@35/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1083@44/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1071@32/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1071@32/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1083@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "This is a big break from the Democratic platform. You'd better be prepared to explain this a little more.",
+      "sha256": "a1ae1a6bca946d72804ebcc344d377608b3b2a1b44bd4d764d60fe411d0d9da9",
+      "zh": "这与民主党纲领有很大出入。你最好准备好进一步解释。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1072@53/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1072@65/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1072@36/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1072@33/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1072@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "You've definitely come down with the dovish wing of the party on this issue.",
+      "sha256": "70b84232fa874184af43aec43f028391137003b2ff2e3ec3cc5ff58fb89176fc",
+      "zh": "在这个问题上，你明确站到了党内鸽派一边。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1073@54/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1177@112/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1073@60/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1177@116/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1073@34/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1177@115/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1073@32/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1177@110/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "This is a popular, mainstream answer on this issue. Even Republicans are looking for ways to defuse Cold War tensions these days.",
+      "sha256": "718a22056883f663704fc87c088fcbda185db63118cbe7ecc796c2a6149476cd",
+      "zh": "这个回答很受欢迎，也符合主流。在这些日子里，连共和党人都在寻找缓和冷战紧张局势的办法。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1074@55/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1074@61/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1074@35/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1074@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "You've definitely come down with the hawkish wing of the party on this issue.",
+      "sha256": "50deab2ae59e3a4731c4b3f5e286a943d9da32ae28a379983ac62be144849e74",
+      "zh": "在这个问题上，你明确站到了党内鹰派一边。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1075@56/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1179@114/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1069@59/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1075@62/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1179@118/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1069@62/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1069@59/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1069@33/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1069@30/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1075@36/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1179@117/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1075@34/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1179@112/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1069@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "This answer is a bit apathetic, and you've missed a good chance to win support from the farm states.",
+      "sha256": "6c32ad9ca3dc358205fb5494e27db785ffb200788070cd6665d883d81d5fa3ac",
+      "zh": "这个回答有些漠不关心，你错过了争取农业州支持的好机会。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1076@57/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1180@115/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1076@63/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1180@119/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1076@60/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1180@115/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1076@37/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1180@122/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1076@37/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1180@118/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "A lot of farm states are happy to have another market for their grain, and this is a good foreign policy win as well.",
+      "sha256": "63ecd7eefec33edd92fca88b23464ebfe6b66c04f744b728d3ea1a37bdd9008f",
+      "zh": "许多农业州很高兴粮食又多了一个市场，这也是不错的外交收获。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1077@58/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1181@116/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1077@64/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1181@120/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1077@61/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1181@116/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1077@38/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1181@123/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1077@38/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1181@119/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "This might make you look more conservative, but it's not the popular answer for this election.",
+      "sha256": "96c755cc245d23bb691ed92ca0c31b516955fab513497260c9321a35ca9debd8",
+      "zh": "这或许让你显得更保守，但不是这次选举中受欢迎的回答。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1078@59/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1182@117/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1078@65/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1182@121/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1078@62/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1182@117/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1078@39/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1182@124/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1078@39/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1182@120/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "McGovern lost pretty badly in '72, if you'll remember. It might not the best strategy to copy his policies.",
+      "sha256": "05531dd6bfe552e53f12bceeae860e434c930d950560326bf955fb3a2c96f3b6",
+      "zh": "如果你还记得，麦戈文1972年输得很惨。模仿他的政策，恐怕不是最佳策略。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1079@60/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1079@63/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1079@40/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1079@40/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1079@35/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1079@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "This a good way to please your liberal base without associating yourself with the McGovern disaster.",
+      "sha256": "8a53084d6904ad1cc93f51d41cefa9a529dc077cfa564d21bc112380f55d44bd",
+      "zh": "这是一个讨好自由派基本盘的好办法，又不用让自己与麦戈文的惨败联系起来。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1080@61/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1080@64/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1080@41/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1080@41/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1080@36/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1080@35/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "This is not a good way to win support from the Democrats in 1976.",
+      "sha256": "27c5062ac89a8a19375a1f57e7bc50c5e75580d78a81efc2b28de4ad420a50cd",
+      "zh": "这可不是1976年争取民主党人支持的好办法。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1081@62/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1081@65/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1081@42/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1081@42/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1081@37/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1081@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "This is a dovish answer, but one that many Americans agree with.",
+      "sha256": "8d13374350ccf382ecec2490ca35f70255df680ad9878e400a9532e2ea965e31",
+      "zh": "这个回答偏鸽派，但许多美国人都赞同。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1082@63/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1082@66/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1082@66/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1082@43/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1082@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "This puts you at odds with the Democratic Party, but it could help you with the defense hawk types.",
+      "sha256": "ce13ae8c12db2de66cfb0f11fe62714cb2adf1679c3dff52cd193789282c1b02",
+      "zh": "这让你与民主党立场冲突，却可能帮助你争取国防鹰派。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1084@65/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1084@68/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1084@68/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1084@45/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1084@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "Americans, and particularly Democrats, do not want a President who sounds like this on the Vietnam issue. Let bygones be bygones.",
+      "sha256": "5439dbb7ef77852ca95e995576edc366906a446c36aa6aa83da89b48499b5c0e",
+      "zh": "美国人，尤其是民主党人，不想要一位在越南问题上这样说话的总统。过去的就让它过去吧。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1085@66/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1085@69/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1085@69/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1085@46/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1085@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "This is a pretty liberal policy, but it's broadly popular with Democrats and particularly important to Hubert Humphrey.",
+      "sha256": "4313285ea0750296a728d72231de5f5ccd4e4dd40ae72d70dc1c8c6a62629a6e",
+      "zh": "这项政策颇为自由派，但在民主党内广受欢迎，对休伯特·汉弗莱也尤其重要。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1086@67/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1086@70/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1086@70/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1086@66/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1086@47/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1086@43/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1086@38/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1086@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "This is a good chance to present yourself as the voice of common-sense and honesty, but many Democrats favor the proposed law.",
+      "sha256": "32093861cfc08cc023860084cd660b9693bcc9ed0f4118097a004e76ca85eb0b",
+      "zh": "这是一个把自己塑造成常识与诚实代言人的好机会，但许多民主党人支持这项拟议法律。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1087@68/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1087@71/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1087@71/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1087@67/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1087@48/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1087@44/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1087@39/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1087@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "You have enjoyed broad appeal, but sometimes it is almost too broad. As the election approaches, some voters worry that you can't take a clear stand on many of the issues.",
+      "sha256": "aaffb43dd5403a1b933ee4cedae7b338a72b30e4ed6c3215bd1fb2401b091ca3",
+      "zh": "你的吸引力一直很广泛，但有时几乎广泛过头了。选举临近，一些选民担心，你在许多议题上都无法采取明确立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1088@69/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1088@72/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1088@72/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1088@68/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1088@49/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1088@45/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1088@40/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1088@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "This is a pretty conservative answer for a Democrat. It sounds like something Ronald Reagan might say.",
+      "sha256": "4c3db54578ad84d59a429d463221ad010f1d2056e3f077ebf29b722c77c8bab9",
+      "zh": "对民主党人来说，这个回答相当保守，听起来像罗纳德·里根会说的话。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1089@70/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1089@73/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1089@73/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1089@69/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1089@50/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1089@46/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1089@41/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1089@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "This is a pretty standard answer for a Democrat. Of course, if you're elected, liberals in the party (such as Ted Kennedy) will expect you to take action on this issue.",
+      "sha256": "9464a70dfcdba95bbb228d5838840527ad7f1064fc02b4494244dc96b31815ba",
+      "zh": "对民主党人来说，这是相当标准的回答。当然，如果当选，特德·肯尼迪这样的党内自由派会期待你在这个问题上采取行动。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1090@71/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1090@74/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1090@74/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1090@70/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1090@51/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1090@47/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1090@42/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1090@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "This is another answer that offends nobody, but also pleases nobody.",
+      "sha256": "81a604403ba4b85d790158f2df74f7a40c662eaca83e4117f06b8754f9af22af",
+      "zh": "这又是一个不冒犯任何人、也不让任何人满意的回答。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1091@72/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1091@75/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1091@75/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1091@71/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1091@52/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1091@48/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1091@43/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1091@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "This is not inspiring stuff to the Democratic base.",
+      "sha256": "06e04c8f45e7ab78a029875402690479dff665ae7a8fc177bcdcd54b21ed3498",
+      "zh": "这些话可鼓舞不了民主党基本盘。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1092@73/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1092@76/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1092@76/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1092@72/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1092@53/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1092@49/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1092@44/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1092@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "Even Ford is less opposed to health care measures than this. You've taken a pretty conservative stance here.",
+      "sha256": "d9c0cbcc3e781a0dfa448fde86631ffabd46b43c991ee4536ef9ec689c07c719",
+      "zh": "连福特都没有这样反对医疗保障措施。你在这里采取了相当保守的立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1093@74/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1093@77/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1093@77/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1093@73/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1093@54/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1093@50/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1093@45/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1093@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "This is a good, liberal answer, but a bit outside the mainstream.",
+      "sha256": "9afb409392bae0bc0ace492b6c0d3820610b1bfadb3502d8e1f9400be8d0839e",
+      "zh": "这是个不错的自由派回答，但有点偏离主流。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1094@75/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1094@78/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1094@74/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1094@51/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1094@46/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1094@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "The party has a little more of a nuanced position on this issue.",
+      "sha256": "c63b6f7c2569bcefd1287f0c3ec3ecc7c196bb1b25e0a7f24f33ede5d9aa3922",
+      "zh": "民主党在这个问题上的立场，要更细致一些。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1095@76/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1095@79/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1095@75/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1095@52/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1095@47/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1095@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "Settle in and wait for the returns. Hopefully you can hold on for the win!",
+      "sha256": "7694b568ed6479d74d463195f4d2c8e978433aed690987252f9bbf19156611b3",
+      "zh": "坐下来等计票结果吧。希望你能守住胜利！",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1096@77/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1097@78/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1098@79/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1099@80/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1096@78/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1097@79/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1098@80/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1099@81/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1096@80/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1097@81/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1098@82/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1099@83/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1096@76/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1097@77/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1098@78/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1099@79/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1096@55/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1097@56/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1098@57/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1099@58/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1096@53/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1097@54/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1098@55/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1099@56/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1096@48/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1097@49/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1098@50/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1099@51/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1096@51/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1097@52/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1098@53/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1099@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "This is a good enough answer, but some Jewish voters were hoping for more.",
+      "sha256": "e8677298217dca8f28b831286bb3ffe4578e86a6c0edc7a58a26b9d5f695799d",
+      "zh": "这个回答已经不错，但一些犹太选民原本期待你说得更多。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1136@82/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1136@83/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1136@85/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1136@81/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1136@85/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1136@81/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "This is not the kind of answer that Republicans want to hear.",
+      "sha256": "304f61b22f0744c47f3916d2ca6fed1c42a83cf273603a77ef60132c2ff104d3",
+      "zh": "这可不是共和党人想听到的回答。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1139@85/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1139@86/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1139@88/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1139@84/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1139@88/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1139@82/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1139@79/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1139@84/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "Some accuse you of flip-flopping after you decided to bail out New York. It's good to emphasize that they passed reforms first.",
+      "sha256": "4c30ffafa7a8dd038697f1d91d724fc7b05bf3404304c90b0c497c06d82ad8ae",
+      "zh": "你决定救助纽约后，有人指责你反复无常。强调他们先进行了改革，是个好办法。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1140@86/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1140@87/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1140@89/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1140@85/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1140@89/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1140@83/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1140@80/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1140@85/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "This would be a good answer, but unfortunately you signed off on the New York bailout. It will take some tortuous logic to explain how this position is consistent with that act.",
+      "sha256": "e7054f48f314a76d04aa36a65db60c0485008be3a93d6ecee0647f00203e3979",
+      "zh": "这本来会是个不错的回答，但不幸的是，你已经批准了纽约救助。要解释这个立场如何与那项行动一致，恐怕得费尽周折。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1141@87/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1141@88/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1141@90/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1141@86/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1141@90/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1141@84/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1141@81/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1141@86/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "This is not a popular answer with Republicans.",
+      "sha256": "e8820371ef841c1b79eb76c15cfbf4f4f67f908da09f01ed79d8d2a0cec6323e",
+      "zh": "这个回答在共和党人中并不受欢迎。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1142@88/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1142@89/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1142@91/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1142@87/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1142@91/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1142@85/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1142@82/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1142@87/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "You've definitely enjoyed a day of generally positive press coverage with this stance. But behind the scenes, conservatives and veterans are upset.",
+      "sha256": "0ab29151d435afceafc1e4ad611d666a9581f8774a97af05b218872382d48ab7",
+      "zh": "采取这个立场，让你今天总体上得到积极的媒体报道。不过，幕后保守派和退伍军人很不满。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1143@89/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1143@90/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1143@92/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1143@88/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1143@92/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1143@86/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1143@83/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1143@88/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "This is the party line, but it's also a controversial issue with much disagreement.",
+      "sha256": "c528e17be78c240e2f05db266e5907771e1b471b016c259767359ff72a0bc201",
+      "zh": "这符合本党路线，但也是个争议很大、意见不一的问题。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1144@90/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1144@91/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1144@93/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1144@89/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1144@93/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1144@87/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1144@84/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1144@89/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "This is a good compromise position if you don't want to support the Amendment.",
+      "sha256": "b6870cbe666357e1fc004982fa99b6cecff744925797d3c1285c02ebe29206c1",
+      "zh": "如果你不想支持这项修正案，这是个不错的妥协立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1146@92/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1146@93/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1146@95/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1146@91/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1146@95/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1146@89/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1146@86/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1146@91/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "This is a good answer to fire up the base. But women voters, including your own wife, are upset with you. Enjoy sleeping on the White House couch for a few days.",
+      "sha256": "ff0cbc77b15e669d424e563a430b2e747bced14b8249903498b812ac50bf79f2",
+      "zh": "这个回答很能点燃基本盘的热情。不过，女性选民，包括你自己的妻子，都对你不满。准备在白宫沙发上睡几天吧。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1147@93/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1147@94/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1147@96/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1147@92/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1147@96/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1147@90/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1147@87/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1147@92/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "You've managed to offend everyone with this answer. Sounding conservative and praising labor unions at the same time?",
+      "sha256": "a09d18a3aa5e04745c4a61199cf56359ad9dd441c732275e7929939bc42ccd43",
+      "zh": "这个回答把所有人都得罪了。既要说得保守，又要赞扬工会？",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1148@94/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1148@95/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1148@97/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1148@93/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1148@97/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1148@91/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1148@88/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1148@93/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "Busing is not a popular policy, and there's not that much to lose by coming out against it.",
+      "sha256": "537d5c6a1f67d447a73e2386572b08dd45a5236bcbd60fc0a85cf76cd3ef6dd8",
+      "zh": "校车接送不是受欢迎的政策，公开反对它，不会让你失去太多。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1149@95/answer_feedback",
+        "1976_Carter_Mondale/answer_feedback_json/1150@96/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1149@96/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1150@97/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1149@98/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1150@99/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1149@94/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1150@95/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1149@98/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1150@99/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1149@92/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1150@93/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1149@89/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1150@90/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1149@94/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1150@95/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "Busing is a pretty unpopular policy, and even more so in your party.",
+      "sha256": "a4ccd36e16dee5603d6a122f831743c64f7df0a5609bff20c8cd0577ebdcb606",
+      "zh": "校车接送相当不受欢迎，在你党内尤其如此。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1151@97/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1151@98/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1151@100/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1151@96/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1151@100/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1151@94/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1151@91/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1151@96/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "This is a standard, Republican position.",
+      "sha256": "df1ed9870d759ed31766640e8cc4ae9e1d2a8601e3a900d4361a9efe60750af6",
+      "zh": "这是标准的共和党立场。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1152@98/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1152@99/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1152@101/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1152@97/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1152@101/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1152@95/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1152@92/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1152@97/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "In this day and age, this might be the best stance. Voters like the fact that we're not at war right now.",
+      "sha256": "f8b6fd17ff19fb755c0e61b3ad8ed68d1d0b054820f548fa0ae33ca990a54db2",
+      "zh": "在如今这个时代，这也许是最好的立场。选民喜欢我们现在没有打仗这个事实。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1153@99/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1153@100/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1153@102/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1153@98/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1153@102/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1153@96/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1153@93/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1153@98/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "You're really thinking outside the box for a Republican. But there will be a backlash.",
+      "sha256": "626f32646cc00e637b5d8c3d59a9a00a9f0ed0d0263e83dd71036a2a6ac10a40",
+      "zh": "对共和党人来说，你的想法真是打破了常规。不过，会有反弹。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1154@100/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1154@101/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1154@103/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1154@99/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1154@103/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1154@97/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1154@94/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1154@99/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "There has been a lot of debate in your party on this issue, but allowing each state to make their own decision is a good compromise, right?",
+      "sha256": "2be17dab79ca446feccd5033846309e7bc94e33ca5541c9619f1df40cdafc716",
+      "zh": "党内对这个问题一直有大量争论，但让各州自行决定，是个不错的妥协，对吧？",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1155@101/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1155@102/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1155@104/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1155@100/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1155@104/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1155@98/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1155@95/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1155@100/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "You've come out more strongly in favor of abortion than Carter, or even McGovern did. You're definitely making headlines today.",
+      "sha256": "74886f3778ca3a4e50cf5aa1dbe130d83b29dbab96625919bbc7ba08a1a3f734",
+      "zh": "你支持堕胎的立场，比卡特，甚至比麦戈文，都更鲜明。你今天肯定要上新闻头条了。",
+      "keys": [
+        "1976_Carter_Mondale/answer_feedback_json/1158@104/answer_feedback",
+        "1976_Carter_Church/answer_feedback_json/1158@105/answer_feedback",
+        "1976_Carter_Glenn/answer_feedback_json/1158@107/answer_feedback",
+        "1976_Carter_Jackson/answer_feedback_json/1158@103/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1158@107/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1158@101/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1158@98/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1158@103/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

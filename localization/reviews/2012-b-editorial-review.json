@@ -1,0 +1,825 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-b",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 182,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 11,
+      "reason": "Sovereign state means federated Nevada state powers in this candidate argument, not independent country."
+    },
+    {
+      "index": 13,
+      "reason": "Original it at time interpreted as at the time; English retained."
+    },
+    {
+      "index": 17,
+      "reason": "Original reducing immigration not narrowed to illegal immigration; English claim is not independently certified statistic."
+    },
+    {
+      "index": 22,
+      "reason": "Original opposed this missing to repaired in natural Chinese; political position retained."
+    },
+    {
+      "index": 23,
+      "reason": "Original specifially typo read as specifically; English unchanged."
+    },
+    {
+      "index": 26,
+      "reason": "Original rise taxes interpreted as raise taxes; tax policy stance intact."
+    },
+    {
+      "index": 36,
+      "reason": "Socializing healthcare context rendered public management; preserve condemnation without implying only a philosophical slogan."
+    },
+    {
+      "index": 48,
+      "reason": "Writedown is reduction in debt value, not routine new borrowing or blanket cancellation."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "The Confederate Flag is a symbol of slavery, racism, and rebellion against the United States. It's abominable that in 2012, any state could consider flying such a symbol.",
+      "sha256": "d7bc20be344f1acf6abd880cbf41d60e4cb4db9cdd3f067143365e8a78c78d6b",
+      "zh": "邦联旗帜象征奴隶制、种族主义和对美国的叛乱。到了2012年，竟然还有州考虑悬挂这样的象征，实在令人憎恶。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/17@0/description",
+        "2012_Obama_Clinton/answers_json/17@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I would prefer to see it go, but there's not much I could do to make that happen as President. It's an issue for South Carolinians to decide. ",
+      "sha256": "f885b8c11293223502c7e0af62191987a0b8df044a4f0ed755599adbef96cfab",
+      "zh": "我希望看到它被撤走，但作为总统，我也没什么办法促成这件事。这是该由南卡罗来纳州民众决定的问题。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/18@1/description",
+        "2012_Obama_Clinton/answers_json/18@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "The good people of South Carolina have already worked out a compromise on this issue, and I don't see how it's useful for us today to revisit that.",
+      "sha256": "26c08831a08e8bec97390230437826e5ca572e6c39cedbc614d0934dc7f9c7b6",
+      "zh": "南卡罗来纳州的善良民众已经就此达成了妥协，我看不出我们今天重新翻出这件事有什么益处。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/19@2/description",
+        "2012_Obama_Clinton/answers_json/19@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "The Confederate Flag is a symbol of southern heritage and history. I don't see a problem.",
+      "sha256": "a79f10eecf0275da38fbfdd5fcbc9a7ddb3be625355eb199137e61c415b243c7",
+      "zh": "邦联旗帜象征南方的传统和历史。我看不出有什么问题。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/20@3/description",
+        "2012_Obama_Clinton/answers_json/20@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "This is an unconscionable violation of civil rights and will certainly lead to racial profiling.",
+      "sha256": "2a729fddf0b76800176c48d301ca62ce8a83eacd7f03e5a63311fe0ded167217",
+      "zh": "这是对公民权利的严重侵犯，绝对无法容忍，而且必然会导致执法人员按种族筛查嫌疑人。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/25@4/description",
+        "2012_Obama_Clinton/answers_json/25@12/description",
+        "2012_Romney_Ryan/answers_json/25@0/description",
+        "2012_Romney_Portman/answers_json/25@4/description",
+        "2012_Romney_Rubio/answers_json/25@8/description",
+        "2012_Romney_Pawlenty/answers_json/25@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "The proper authority for enforcement rests with the federal government. This law goes further than federal laws and even if constitutional, should be repealed.",
+      "sha256": "6d1d7935368382d99d8098b95d66195febde2946e0b08bff2048aa828ccd5287",
+      "zh": "这方面的执法权限应归联邦政府。这项法律超出了联邦法律的规定，即使合宪，也应该废除。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/26@5/description",
+        "2012_Obama_Clinton/answers_json/26@13/description",
+        "2012_Romney_Ryan/answers_json/26@1/description",
+        "2012_Romney_Portman/answers_json/26@5/description",
+        "2012_Romney_Rubio/answers_json/26@9/description",
+        "2012_Romney_Pawlenty/answers_json/26@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "I don't want to comment on an issue that is best left to the voters of Arizona.",
+      "sha256": "f3c2c41c866147b1147ff754615e43492ef9d3e8c92bf5e4f4b57a8fa8eecc61",
+      "zh": "这个问题最好交给亚利桑那州选民，我不想对此发表评论。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/27@6/description",
+        "2012_Obama_Clinton/answers_json/27@14/description",
+        "2012_Romney_Ryan/answers_json/27@2/description",
+        "2012_Romney_Portman/answers_json/27@6/description",
+        "2012_Romney_Rubio/answers_json/27@10/description",
+        "2012_Romney_Pawlenty/answers_json/27@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "The federal government has forced Arizona's hand by being too lax on enforcement for far too long.",
+      "sha256": "1bd346c70871d381323e30b95ce6513f333cd744d8da42654ff8f687d0125315",
+      "zh": "联邦政府执法不力，而且放任得太久，逼得亚利桑那州不得不出手。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/28@7/description",
+        "2012_Obama_Clinton/answers_json/28@15/description",
+        "2012_Romney_Ryan/answers_json/28@3/description",
+        "2012_Romney_Portman/answers_json/28@7/description",
+        "2012_Romney_Rubio/answers_json/28@11/description",
+        "2012_Romney_Pawlenty/answers_json/28@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Nuclear power has proven itself to be a dangerous policy idea. We should be moving away from nuclear and into more environmentally friendly types of energy.",
+      "sha256": "f402d3780ff816a753b72469e0ecba8c09835f621e18fbe5dc78a95a284a8bc1",
+      "zh": "事实已经证明，发展核能是一项危险的政策主张。我们应该逐步摆脱核能，转向更环保的能源。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/33@8/description",
+        "2012_Romney_Pawlenty/answers_json/33@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "I think that what we're doing now is fine. There is no point in revisiting this issue, since the Yucca Mountain plans have been scrapped in any case.",
+      "sha256": "929459a7dfe8f974d48484d36cc81a6934d89c3c9ce1aa8480196e33e579b7ad",
+      "zh": "我认为目前的做法没问题。反正尤卡山计划已经取消，再谈这个问题也没意义。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/34@9/description",
+        "2012_Romney_Pawlenty/answers_json/34@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "We have to put this waste somewhere. I understand the objections from some in Nevada, but where else are we supposed to store it?",
+      "sha256": "a912140a4041480e3b442768153ef6310a642ace32ca934eabbb6de666eec7ed",
+      "zh": "总得找个地方存放这些废料。我理解内华达州一些人的反对意见，但不放在那里，我们还能存到哪儿？",
+      "keys": [
+        "2012_Obama_Biden/answers_json/35@10/description",
+        "2012_Romney_Pawlenty/answers_json/35@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "As a sovereign state, Nevada has every right to reject this proposal. Nobody wants to live next to a toxic nuclear waste site.",
+      "sha256": "6dd9f5e4c9b2abb5fadd088b72a15d93d0fd1199182a47344b39419464794111",
+      "zh": "内华达州作为拥有自主权的州，完全有权拒绝这项提案。没人愿意住在有毒的核废料场旁边。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/36@11/description",
+        "2012_Romney_Pawlenty/answers_json/36@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Decades of meddling by the U.S. has created these unstable situations in the Middle East. We should have withheld our support for Mubarak when he first took office, instead of giving him billions in military aid.",
+      "sha256": "dae12a176fbfac648d7da6b7c7a4d75c108830b7fcfb0b5292f0bec87a5cb136",
+      "zh": "美国几十年来的干涉，造成了中东这些动荡局面。我们本该在穆巴拉克刚上台时就拒绝支持他，而不是给他数十亿美元的军事援助。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/45@12/description",
+        "2012_Romney_Pawlenty/answers_json/45@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "That's a great question. It's hard to speculate on what might have been, but it at time it seemed clear that Mubarak had to go.",
+      "sha256": "d3aa2a7f1b8c950df18a1d33e60b6031f75d170bed98bf44ed552c4a2b078efa",
+      "zh": "这是个很好的问题。很难推测另一种做法会带来什么结果，但当时显然觉得穆巴拉克必须下台。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/46@13/description",
+        "2012_Romney_Pawlenty/answers_json/46@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "We should have been more active in brokering a compromise solution between Mubarak and the protestors.",
+      "sha256": "983a415863dbe3a03c593bf07b5203dbbfecad48b4f0ddb63357d2cc1f2417b4",
+      "zh": "我们本该更积极地促成穆巴拉克与抗议者之间的妥协方案。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/47@14/description",
+        "2012_Romney_Pawlenty/answers_json/47@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "We have allowed one of the last moderate regimes in the Middle East to be replaced by Muslim fundamentalists. This is an unconscionable betrayal of our ally Israel and will harm American security.",
+      "sha256": "d92ae7f6339171d1a2a18cc8a49506c41bdbab6c3efe082bad0008f506a73cee",
+      "zh": "我们任由中东仅存的几个温和政权之一被伊斯兰原教旨主义者取代。这是对盟友以色列不可容忍的背叛，也将危害美国安全。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/48@15/description",
+        "2012_Romney_Pawlenty/answers_json/48@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "The border fence is inhumane. We should expand legal immigration instead of living in fear of Mexican culture.",
+      "sha256": "f9beb8bdc75d6d118bced2a59d44cabbab4109c4ae74eb1e05d6f29ce3a1e2f1",
+      "zh": "边境围栏不人道。我们应该扩大合法移民，而不是生活在对墨西哥文化的恐惧之中。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/69@16/description",
+        "2012_Romney_Ryan/answers_json/69@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "I think that what we have now is sufficient. There's no need to constantly revisit this issue when the Border Patrol has seen documented success in reducing immigration over the past few years.",
+      "sha256": "49f2cbaac7efe961b1dce8601bbd59d8e391937422920ea4a8c5b042335de66c",
+      "zh": "我认为现有措施已经足够。过去几年，边境巡逻队在减少移民入境方面取得了有据可查的成绩，没必要老是重新争论这个问题。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/70@17/description",
+        "2012_Romney_Ryan/answers_json/70@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "The border fence should become a border wall, with more depth to its patrols. It is simply too easy for migrants to sneak across the border right now.",
+      "sha256": "f110a30597ddf62b0034261fc0f9b30cbf33189001d14acf45ea7b612b5eb5f6",
+      "zh": "边境围栏应该升级为边境墙，并扩大巡逻的纵深。现在移民偷偷越过边境实在太容易了。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/71@18/description",
+        "2012_Romney_Ryan/answers_json/71@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "I support a wall and I support the presence of American troops. The purpose of the military is to defend our borders.",
+      "sha256": "194c77a5f56559cc9aee954cabb60936f60a2abb38ac13e4a8df86660646611e",
+      "zh": "我支持修墙，也支持部署美军。军队的职责就是保卫我们的边界。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/72@19/description",
+        "2012_Obama_Clinton/answers_json/76@23/description",
+        "2012_Romney_Ryan/answers_json/72@7/description",
+        "2012_Romney_Ryan/answers_json/76@11/description",
+        "2012_Romney_Pawlenty/answers_json/76@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Gay marriage should be protected at the federal level. The Defense of Marriage Act should be repealed.",
+      "sha256": "e2474f8f8e552ad20d5bfcb7fb62872834932d9146d953cf0937d517edaba831",
+      "zh": "同性婚姻应该在联邦层面受到保护。《婚姻保护法》应该废除。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/85@20/description",
+        "2012_Obama_Clinton/answers_json/85@24/description",
+        "2012_Romney_Ryan/answers_json/85@12/description",
+        "2012_Romney_Portman/answers_json/85@16/description",
+        "2012_Romney_Rubio/answers_json/85@20/description",
+        "2012_Romney_Pawlenty/answers_json/85@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "I think civil unions are an acceptable compromise for the majority of mainstream Americans.",
+      "sha256": "c21d257314404fe812b8c53e65a17e2291616c4f83338b21070fceb7a16791e4",
+      "zh": "我认为，对大多数美国主流民众来说，民事结合是一种可以接受的折中方案。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/86@21/description",
+        "2012_Obama_Clinton/answers_json/86@25/description",
+        "2012_Romney_Ryan/answers_json/86@13/description",
+        "2012_Romney_Portman/answers_json/86@17/description",
+        "2012_Romney_Rubio/answers_json/86@21/description",
+        "2012_Romney_Pawlenty/answers_json/86@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "I'm opposed this personally. I think that, you know, different states have different opinions on this matter and it's best left to them to decide on the issue.",
+      "sha256": "1f6dfdf67836a8acb2eaf8d047807da557d9ede3977674ef0dd750a6b316ab91",
+      "zh": "我个人反对同性婚姻。我觉得，你知道，各州对此有不同看法，最好让他们自己决定。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/87@22/description",
+        "2012_Obama_Clinton/answers_json/87@26/description",
+        "2012_Romney_Ryan/answers_json/87@14/description",
+        "2012_Romney_Portman/answers_json/87@18/description",
+        "2012_Romney_Rubio/answers_json/87@22/description",
+        "2012_Romney_Pawlenty/answers_json/87@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Under no circumstances should the sacred institution of marriage be undermined. The Defense of Marriage Act was passed specifially to address this issue.",
+      "sha256": "c6305ff72d347860169a22caf2b645742e1b5b24c32570294ebd98087a05bbbc",
+      "zh": "在任何情况下，都不应该破坏神圣的婚姻制度。《婚姻保护法》正是为解决这个问题而通过的。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/88@23/description",
+        "2012_Obama_Clinton/answers_json/88@27/description",
+        "2012_Romney_Ryan/answers_json/88@15/description",
+        "2012_Romney_Portman/answers_json/88@19/description",
+        "2012_Romney_Rubio/answers_json/88@23/description",
+        "2012_Romney_Pawlenty/answers_json/88@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I support letting the cuts expire. It's time that wealthy Americans paid their fair share for the opportunities our society gives to them.",
+      "sha256": "913ed029880ee1ca1a699a5d24653b6f0354b491d84c32ce8a098505a8bb6c53",
+      "zh": "我支持让减税政策到期失效。富裕的美国人应该为社会给予他们的机会缴纳公平的一份税款。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/97@24/description",
+        "2012_Obama_Clinton/answers_json/97@28/description",
+        "2012_Romney_Ryan/answers_json/97@20/description",
+        "2012_Romney_Portman/answers_json/97@24/description",
+        "2012_Romney_Rubio/answers_json/97@24/description",
+        "2012_Romney_Pawlenty/answers_json/97@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Perhaps we can consider letting these expire at some point in the future, but for now we are mired in a stagnant economy and need to avoid tax increases.",
+      "sha256": "8250062b1e2f8b5f16366cae2aec158f3d7a07d4848f0bc9ec56d08352c87f87",
+      "zh": "也许将来某个时候可以考虑让它到期，但眼下经济停滞不前，我们需要避免增税。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/98@25/description",
+        "2012_Obama_Clinton/answers_json/98@29/description",
+        "2012_Romney_Ryan/answers_json/98@21/description",
+        "2012_Romney_Portman/answers_json/98@25/description",
+        "2012_Romney_Rubio/answers_json/98@25/description",
+        "2012_Romney_Pawlenty/answers_json/98@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "We should keep the tax cuts as is for the foreseeable future. I don't think it's sound economics to rise taxes on this group.",
+      "sha256": "d84f757ac71d89581feb2f8812a476db61d2434458a50db60cb8d7d962289c81",
+      "zh": "在可预见的未来，我们应该维持现有减税政策。我不认为对这群人增税是合理的经济政策。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/99@26/description",
+        "2012_Obama_Clinton/answers_json/99@30/description",
+        "2012_Romney_Ryan/answers_json/99@22/description",
+        "2012_Romney_Portman/answers_json/99@26/description",
+        "2012_Romney_Rubio/answers_json/99@26/description",
+        "2012_Romney_Pawlenty/answers_json/99@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "Our most productive citizens need further tax cuts to stimulate business confidence, investment, and further job creation.",
+      "sha256": "27955bdeb4ad5b8418fd1c09f642a197d9e3d825a89874739af0e70b19dd450d",
+      "zh": "我们最有生产力的公民需要进一步减税，以提振企业信心、促进投资，并创造更多就业。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/100@27/description",
+        "2012_Obama_Clinton/answers_json/100@31/description",
+        "2012_Romney_Ryan/answers_json/100@23/description",
+        "2012_Romney_Portman/answers_json/100@27/description",
+        "2012_Romney_Rubio/answers_json/100@27/description",
+        "2012_Romney_Pawlenty/answers_json/100@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "This policy has contributed to the degradation of the American diet and contributes to our exploding obesity and diabetes epidemics. It should be ended.",
+      "sha256": "1b889291d5f1a862a54ade1926b30026f693c70c59ecee5f4673b6ac17cbae19",
+      "zh": "这项政策使美国人的饮食质量下降，加剧了迅速蔓延的肥胖和糖尿病问题。应该取消它。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/109@28/description",
+        "2012_Romney_Pawlenty/answers_json/109@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "There is a need for some level of subsidies, but what we have now is too much.",
+      "sha256": "6e8680b5349f372f221bf38966f74a0c8272d317da867a4cb34f8c7910b75433",
+      "zh": "某种程度的补贴是必要的，但现在给得太多了。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/110@29/description",
+        "2012_Romney_Pawlenty/answers_json/110@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This policy distorts the free market and favors certain types of food over others. It is an example of crony capitalism.",
+      "sha256": "b56a420007392c152af7a8df3e06a27b4202c9321df595e8f4248bc3072a81d9",
+      "zh": "这项政策扭曲自由市场，偏袒某些食品而损害另一些食品的利益。这是裙带资本主义的一个例子。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/111@30/description",
+        "2012_Romney_Pawlenty/answers_json/111@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "The Department of Agriculture uses subsidies to rationally manage food production. It would be foolish to reverse that policy.",
+      "sha256": "8a5b4cccbcac3a810f40907a56e7ac18b43440d0c46c46d29ec35dc54cb6f978",
+      "zh": "农业部通过补贴合理调节粮食生产。推翻这项政策是愚蠢的。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/112@31/description",
+        "2012_Romney_Pawlenty/answers_json/112@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "This practice undermines our public education system, and should not be permitted.",
+      "sha256": "81364de080bbd33c6aebc8b8847d053c155e951d172d6d9e8ca58cf5f557b0a2",
+      "zh": "这种做法破坏了我们的公立教育体系，不应该允许。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/129@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "In limited cases, such as those currently in place, there is a role for vouchers. But improving public education should be our primary focus.",
+      "sha256": "75bae14e287ad437f28b9440df471920d27781e4cdeeb07311bb7b4f5ab3cad2",
+      "zh": "在目前已有的某些有限情况下，学券能发挥作用。但我们的首要任务应该是改善公立教育。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/130@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "This is a good idea and it should be expanded.",
+      "sha256": "f42844b25d925f1d04730beb9704e92cb14d8921ee970fbf407a2be33f2529ed",
+      "zh": "这是个好主意，应该扩大实施。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/131@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "This has the potential to develop into another out-of-control federal program. It's best not to go down that road.",
+      "sha256": "93ebf0d8fbc50f2a46ef613b50bd7758f0d9fdeb41be7373516833d27160cf3f",
+      "zh": "这可能发展成又一项失控的联邦计划。最好不要走这条路。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/132@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "This program will be a disaster. Not only is it an unconstitutional violation of personal freedom, but it will lead to a decline in American health care and will prove to be financially impossible to maintain without socializing the health care system.",
+      "sha256": "33ca6d0a5b7e930653d5d63634a4b916643b8bbdb139cfce199e1ce7958c4a33",
+      "zh": "这项计划将是一场灾难。它不仅违宪，侵犯个人自由，还会导致美国医疗质量下降；除非把医疗体系收归公共管理，否则在财政上根本无法维持。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/165@36/description",
+        "2012_Obama_Clinton/answers_json/165@48/description",
+        "2012_Romney_Ryan/answers_json/165@40/description",
+        "2012_Romney_Portman/answers_json/165@36/description",
+        "2012_Romney_Rubio/answers_json/165@44/description",
+        "2012_Romney_Pawlenty/answers_json/165@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "This is the wrong way to reform the American health care system. We should be focusing on malpractice reform and on cutting red tape for private insurers.",
+      "sha256": "7ba2cbf8fd1f64f11fe7cf02a14900c25f37a750a3f789cf07fb676fb7988d20",
+      "zh": "这不是改革美国医疗体系的正确办法。我们应该把重点放在医疗事故责任制度改革，以及为私人保险公司减少繁文缛节上。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/166@37/description",
+        "2012_Obama_Clinton/answers_json/166@49/description",
+        "2012_Romney_Ryan/answers_json/166@41/description",
+        "2012_Romney_Portman/answers_json/166@37/description",
+        "2012_Romney_Rubio/answers_json/166@45/description",
+        "2012_Romney_Pawlenty/answers_json/166@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "I'm convinced that this program will work. This is a good compromise allowing private insurers to conduct business, while securing access to health insurance for more Americans. If anything, the increased transparency will reduce insurance costs.",
+      "sha256": "01ae17212fd21e3196429e55998f9598af09d36941725dc7c208079e10f6e04c",
+      "zh": "我确信这项计划会奏效。这是一种不错的折中方案，既允许私人保险公司经营，也让更多美国人获得医疗保险。至少，提高透明度将降低保险成本。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/167@38/description",
+        "2012_Obama_Clinton/answers_json/167@50/description",
+        "2012_Romney_Ryan/answers_json/167@42/description",
+        "2012_Romney_Portman/answers_json/167@38/description",
+        "2012_Romney_Rubio/answers_json/167@46/description",
+        "2012_Romney_Pawlenty/answers_json/167@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "There should be a public insurance company offering health care to all Americans. Private insurers are simply too greedy and too likely to turn down people with pre-existing health conditions.",
+      "sha256": "f051b5b7621bddabbaab85688753a5e0e4826111e21cff82d76d782145fa7681",
+      "zh": "应该设立一家公共保险机构，为所有美国人提供医疗保障。私人保险公司实在太贪婪，也太容易拒绝有既往病史的人。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/168@39/description",
+        "2012_Obama_Clinton/answers_json/168@51/description",
+        "2012_Romney_Ryan/answers_json/168@43/description",
+        "2012_Romney_Portman/answers_json/168@39/description",
+        "2012_Romney_Rubio/answers_json/168@47/description",
+        "2012_Romney_Pawlenty/answers_json/168@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Absolutely not. The right to disseminate one's political viewpoints freely is central to American democracy.",
+      "sha256": "ac2b2ed415a387879289eaf834b5a7e5815e885b5af2e7662711616c5ed3bb97",
+      "zh": "绝对不支持。自由传播政治观点的权利，是美国民主的核心。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/169@40/description",
+        "2012_Romney_Ryan/answers_json/169@44/description",
+        "2012_Romney_Rubio/answers_json/169@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Perhaps not a Constitutional Amendment. These should be reserved for the most serious of issues. I think we can investigate maybe other ways to prevent money from having an undue influence in politics.",
+      "sha256": "cebf2cead207c314c7e4bce5cc8aa541b01264f513ca3b47a09d67ca256fef7f",
+      "zh": "也许不该动用宪法修正案。修宪应留给最重大问题。我认为，我们可以研究其他办法，防止金钱对政治产生不当影响。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/170@41/description",
+        "2012_Romney_Ryan/answers_json/170@45/description",
+        "2012_Romney_Rubio/answers_json/170@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "I would be happy to disavow the use of Super PAC advertising if my opponent would as well. Unfortunately the other side will do anything to win this election, regardless of how it aligns with the will of the public.",
+      "sha256": "5648ed6274fffc482c7bfe830c9e8f05aafe3e0cab4a7611585e65a376f921bb",
+      "zh": "只要我的对手也肯放弃，我很乐意声明不使用超级政治行动委员会的广告。遗憾的是，对方为了赢得这次选举什么都做得出来，根本不管是否符合公众意愿。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/171@42/description",
+        "2012_Romney_Ryan/answers_json/171@46/description",
+        "2012_Romney_Rubio/answers_json/171@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "This is one of the worst decisions in the history of the court. If they can't see that campaign finance regulation is entirely constitutional, then we do need to have an Amendment in place.",
+      "sha256": "8a3bed5df922f8c3108604e0c4c5a3a3c2f1f41790c4bacf0c97a44b6f68331d",
+      "zh": "这是最高法院历史上最糟糕的判决之一。如果他们看不出竞选融资监管完全符合宪法，那我们确实需要通过修正案。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/172@43/description",
+        "2012_Romney_Ryan/answers_json/172@47/description",
+        "2012_Romney_Rubio/answers_json/172@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "These workers were very well paid in comparison to the average person in their area. I don't see a problem with what Apple is doing.",
+      "sha256": "c3d295b20b83d97fb9f3bf0a4e36a32eea00041e7885d344461a49f3218cc6de",
+      "zh": "与当地一般人的收入相比，这些工人的薪酬相当不错。我看不出苹果的做法有什么问题。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/199@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Any trade deals should be negotiated with a fair balance between American and Chinese interests. China is not doing enough to protect the rights of their workers, which gives them an unfair advantage in global trade.",
+      "sha256": "7b4a36b0d7ee744dd8aeb2eb537bcec93370a483ff88b929bf0f839df415b54f",
+      "zh": "任何贸易协定都应该在美国与中国的利益之间取得公平平衡。中国在保护劳动者权利方面做得不够，因此在全球贸易中获得了不公平的优势。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/200@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "The U.S.-China relationship has destroyed middle class jobs for close to three decades. We need drastic changes including more protection for American manufacturing.",
+      "sha256": "ea62d404a74f24f5e4a2eb41f94918f78210ca063ca2ed149aa00c09965417f4",
+      "zh": "美中关系近三十年来摧毁了中产阶级的就业。我们需要重大改变，包括加强对美国制造业的保护。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/201@46/description",
+        "2012_Romney_Portman/answers_json/101@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Under no circumstances would the United States consider that as a course of action.",
+      "sha256": "f066585e70753b94bda9ce74a29f287f2291cc11bf2c28fb9b533d1899fd0fb4",
+      "zh": "美国在任何情况下都不会考虑采取这种做法。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/205@47/description",
+        "2012_Romney_Pawlenty/answers_json/205@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "We need to consider all options. A controlled debt writedown just might be the best way to reignite the world economy, which is suffering from an abundance of bad debt at the current moment.",
+      "sha256": "c5f26b17ed838c488fb1bff9e27162f57942900d9fc27200bfbf0bcc00d5ca52",
+      "zh": "我们需要考虑所有选项。目前世界经济背负着大量坏账，有序的债务减记或许正是重振经济的最佳办法。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/206@48/description",
+        "2012_Romney_Pawlenty/answers_json/206@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "No sensible investor would put a dime into the Social Security program if they weren't forced to by law. It is unfair to ask America's workers to put money into a program that has no promise of ever providing them with benefits.",
+      "sha256": "912130d0da0b24c15864ab01aa9288ee31060eee6303a5beaa976d475f49d5a5",
+      "zh": "如果不是法律强制，没有理性的投资者会把一分钱投入社会保障计划。让美国劳动者缴钱给一个根本不能保证他们最终能领到待遇的计划，是不公平的。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/209@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "If practical I would support a program that allows younger workers to invest a certain portion of their Social Security taxes into a different program.",
+      "sha256": "20f0137a0234c3bc0749b30e0030d62ca02d6b036b4ea99442b48acdb3eb6bad",
+      "zh": "如果可行，我会支持一项计划，允许年轻劳动者把一部分社会保障税投入另一种计划。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/210@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "We definitely need to make some changes to the Social Security program, but this is going too far.",
+      "sha256": "fc90d36a764e8d1a153f48ca2f17720a481170dc9c71958f3a8bb4d71b5ddb6b",
+      "zh": "我们确实需要对社会保障计划作出一些调整，但这走得太远了。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/211@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "This is the first step that those who wish to abolish Social Security would like to implement. The integrity of Social Security should be preserved at all times.",
+      "sha256": "6d668343457292d952d1db50eb21249749e2931c028e622d90da06f324ffcd99",
+      "zh": "这正是那些想废除社会保障的人打算迈出的第一步。我们必须始终维护社会保障制度的完整性。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/212@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "The Peace Corps is a pointless department and it should be abolished.",
+      "sha256": "32d312bb1489364873334f7107d0515f565cfd46701a9ef99efaca39951ff054",
+      "zh": "和平队是个毫无意义的部门，应该撤销。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/224@53/description",
+        "2012_Romney_Portman/answers_json/224@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "This is a valuable component of our international presence. We should maintain the funding we have in place, which is miniscule in proportion to our overall budget.  ",
+      "sha256": "145a3a8efac1d5e637e96bb15648f550c166b5af5f1aaac44ee3a07a815ed3b8",
+      "zh": "这是我国海外活动中很有价值的一部分。我们应该维持现有经费；与整个预算相比，这点支出微不足道。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/225@54/description",
+        "2012_Romney_Portman/answers_json/225@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "A substantial amount. We cannot afford to let ourselves get rolled over by false and misleading claims from our opponent.",
+      "sha256": "7d4aa1a2a66e7c7cf75be98764158e2b229e65d612fce7a62edf6323a4d7f14e",
+      "zh": "会投放相当多。我们不能任由对手虚假、误导性的说法把我们压倒。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/236@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "If our opponent does that kind of thing, then we will certainly follow suit.",
+      "sha256": "6e575ed411cea7b55aa769b64732620d88af7a493e378c85d6eee942ff460ca4",
+      "zh": "如果对手用这种手段，我们当然也会跟进。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/237@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "I will run an uplifting, positive campaign focusing on the issues that concern the American people. I trust that they will see through any petty, unfounded attacks that our opponents come up with.",
+      "sha256": "63a2ef5935cda6816eff3b84bc26df56a3571fcc9ba475290b34780897923899",
+      "zh": "我会开展鼓舞人心的正面竞选，聚焦美国人民关心的议题。我相信，他们能看穿对手那些小气又毫无根据的攻击。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/238@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "These banks would have never grown so large in the first place without colluding with the federal government. They only exist now because of a corrupt and possibly unconstitutional bailout.",
+      "sha256": "7240944a77b47e9434d3c34ed8c447d300b659c7d23dfe789a949a572c44ff67",
+      "zh": "如果没有与联邦政府勾结，这些银行一开始就不可能膨胀到这么大。它们如今还能存活，只是靠一场腐败、甚至可能违宪的救助。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/239@58/description",
+        "2012_Obama_Clinton/answers_json/239@59/description",
+        "2012_Romney_Ryan/answers_json/239@60/description",
+        "2012_Romney_Portman/answers_json/239@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "That's not the best solution for us to take. The last thing we need right now in the financial sector is some kind of arbitrary, destabilizing government action.",
+      "sha256": "03a4662fbf5b81884909716a548e01bfaef0e52aa2c5c9b41b0df8f9a150a5f5",
+      "zh": "这不是最好的解决办法。金融业眼下最不需要的，就是政府采取某种武断、破坏稳定的行动。",
+      "keys": [
+        "2012_Obama_Biden/answers_json/240@59/description",
+        "2012_Obama_Clinton/answers_json/240@60/description",
+        "2012_Romney_Ryan/answers_json/240@61/description",
+        "2012_Romney_Portman/answers_json/240@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

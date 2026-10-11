@@ -1,0 +1,742 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-e",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 99,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 2,
+      "reason": "Original over-half dismissed statistic not independently verified; no inference that rejected complaints were false."
+    },
+    {
+      "index": 7,
+      "reason": "Original HUD nearly4b reduction retained, fiscal base and comparison not independently certified."
+    },
+    {
+      "index": 29,
+      "reason": "Original wipe Israel off map translation controversy and speaker attribution require research; preserve candidate assertion, no factual endorsement."
+    },
+    {
+      "index": 33,
+      "reason": "Original causal assertion in gunwalking answer retained, distinguish recovered associated guns from proven fatal bullet."
+    },
+    {
+      "index": 38,
+      "reason": "Original Pakistan government paid mansion with US money accusation retained as option, not verified construction finance fact."
+    },
+    {
+      "index": 52,
+      "reason": "Original Consumer Financial Protection Board is agency name error; Chinese uses recognized bureau name while English retained. Warren appointment claim needs chronology note."
+    },
+    {
+      "index": 54,
+      "reason": "Original Some her missing of repaired in Chinese only."
+    },
+    {
+      "index": 56,
+      "reason": "Original strict permission description retained; flood insurance participation standards not universal federal building permit system."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "Would you support posting active U.S. Army troops on the U.S.-Mexico border to prevent illegal immigration and drug smuggling?",
+      "sha256": "d3351ca94e7e6746116a5280850dc501e10fcc29dce610948dc356c589393131",
+      "zh": "你是否支持在美墨边境部署现役美国陆军，以阻止非法移民和毒品走私？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/19@10/description",
+        "2012_Romney_Ryan/questions_json/19@19/description",
+        "2012_Romney_Pawlenty/questions_json/19@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Should the government be doing more to stabilize home prices?",
+      "sha256": "6adf8ab56c1d960798dd72365100672a00e7975fa49af03debc9f01f6023b82e",
+      "zh": "政府是否应该采取更多措施稳定房价？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/4@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Over half of all sexual harassment complaints filed in 2011 were dismissed -- an increase from previous years. Do you think enough is being done to prevent sexual harassment in the workplace?",
+      "sha256": "23890025a067dbf291892fdae1bc22141c17055d2651db2ddbe69f5851789c76",
+      "zh": "2011年提出的性骚扰申诉中，有一半以上被驳回，比例比往年上升。你认为，防止职场性骚扰的措施足够了吗？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/98@14/description",
+        "2012_Romney_Pawlenty/questions_json/98@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Some on the left have criticized your reliance on drone strikes to project American interests, stating that they lead to unnecessary civilian casualties. What can you say to this?",
+      "sha256": "a2b836d6ca6095dc8f4da9718d737ac6f4de433548c319b89b4d20536f22b2be",
+      "zh": "左派中有人批评，你依赖无人机打击来维护美国利益，造成了不必要的平民伤亡。对此你有什么话要说？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/86@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Do you believe the federal government is doing enough to enforce laws against employing illegal immigrants?",
+      "sha256": "4b5968f58aee1bb4aa22828e392eca2696d6f098ae13911c25d00577769d2d14",
+      "zh": "你认为，联邦政府在执行禁止雇用非法移民的法律方面做得够不够？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/6@17/description",
+        "2012_Romney_Portman/questions_json/6@8/description",
+        "2012_Romney_Rubio/questions_json/6@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Elizabeth Warren is currently fighting the good fight in the Massachusetts Senate race. Would you be open to offering her a position in your Administration if she falls short there?",
+      "sha256": "c3ff0a6ce0fed81a07c61c32a44f327929486d129ce58dd003cca0519848b1ad",
+      "zh": "伊丽莎白·沃伦目前正在马萨诸塞州参议员竞选中为正义而战。如果她在那里落败，你是否愿意在政府中给她一个职位？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/91@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Do FEMA insurance payouts encourage real estate developers to build in disaster prone areas?",
+      "sha256": "8d69b8c84686704be8e2e5fa0707745cb89b7e9b9cf13537da33b6407bc7281e",
+      "zh": "联邦紧急事务管理署支付的保险赔款，是否鼓励房地产开发商在容易受灾的地区建房？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/96@20/description",
+        "2012_Romney_Rubio/questions_json/96@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "The budget for the Department of Housing and Urban Development was cut by nearly $4 billion in 2012. Do you think subsidized housing for the poor is a good place to begin reducing the federal deficit?",
+      "sha256": "1480b043bd47735193c6db06949a2b3de89053e9ea5377b6c082a51105c81086",
+      "zh": "住房和城市发展部2012年的预算削减了近40亿美元。削减对贫困者的住房补贴，是开始降低联邦赤字的好办法吗？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/57@21/description",
+        "2012_Romney_Rubio/questions_json/57@21/description",
+        "2012_Romney_Pawlenty/questions_json/57@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Should the federal government continue to finance newer companies that attempt to develop alternative energy resources, such as solar power and electric car manufacturers?",
+      "sha256": "93b41990cc62fbbecacbde1cd4f5d46945fc27d8a9fa4d2911634f578c0d7052",
+      "zh": "联邦政府是否应该继续资助尝试开发替代能源的新企业，例如太阳能企业和电动汽车制造商？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/10@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Will you launch an air campaign against Iranian nuclear sites if diplomatic negotiations continue to yield minimal results?",
+      "sha256": "8307eed16819fe9fa78c5d5e4ab1abab6c83b2a2023c154ac6595ea895557042",
+      "zh": "如果外交谈判继续收效甚微，你会对伊朗核设施发动空袭吗？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/29@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Does it still make sense to provide military aid to Pakistan's government?",
+      "sha256": "88ac48c6279e85b3ddae24ab490a41d6e71d562a22c151b7316017ba59854b5d",
+      "zh": "继续向巴基斯坦政府提供军事援助，是否还有道理？",
+      "keys": [
+        "2012_Obama_Clinton/questions_json/40@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "There should be a federal program to cover any shortfall when a homeowner is forced to sell for less than the value of their mortgage.",
+      "sha256": "38aae65a0e0c32532875cd49414c767861faba5543d82e2064ccf08ae260a4dc",
+      "zh": "如果房主被迫以低于所欠按揭金额的价格出售房屋，就应该设立联邦计划，补足差额。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/13@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "I think we could be doing more to purchase homes from the banks, and perhaps rent them out until the situation improves. This would help support a price recovery.",
+      "sha256": "f11b61f0a7c072dd6a8b9026e2dd8809aae183b6edced8b384e8c035b0dce04a",
+      "zh": "我认为，我们可以做更多事，从银行手中收购房屋，或许先出租，直到情况改善。这会有助于房价回升。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/14@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "For the most part, I don't think that's appropriate. There are some limited areas, like relaxing restrictions on foreign ownership, where we can still help out.",
+      "sha256": "e5bdeb80ba0aa863369dfc9d9d351a5aee39180dea02fcae6a4d615b43733c15",
+      "zh": "总体而言，我认为这不合适。但在少数方面，我们仍能提供帮助，比如放宽外国人购房的限制。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/15@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "The government has no business regulating the value of a home. We will never fully recover from this recession until prices are allowed to find their floor, and then start increasing through market forces.",
+      "sha256": "5a16aabc5d925f1f92729316dea3f9ba96df97e20147480117fe1dde90a43837",
+      "zh": "政府无权管控房屋价值。只有让价格找到底部，再靠市场力量开始回升，我们才能彻底走出这场衰退。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/16@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "The Department of Homeland Security is deporting hundreds of thousands of illegal immigrants each year. How can anyone suggest that we're not trying to address this issue? ",
+      "sha256": "8b6a34344a89716477390fd734cac5f867e6e4b81b1ae859e549e3f2c3e86c5c",
+      "zh": "国土安全部每年都在遣返数十万非法移民。怎么还能有人说，我们没有努力解决这个问题？",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/21@8/description",
+        "2012_Romney_Portman/answers_json/21@0/description",
+        "2012_Romney_Rubio/answers_json/21@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "The flow of illegal immigrants into the U.S. has slowed in recent years. We should be focusing more on expanding legal opportunities and bringing immigrants out of the shadows.",
+      "sha256": "701ecdaf2433dddfe90f804fa9e353746ad466ff607943cfed28bd9ef95d0817",
+      "zh": "近年非法移民流入美国的速度已经放缓。我们应该更多地着眼于扩大合法渠道，让移民不再躲在暗处。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/22@9/description",
+        "2012_Romney_Portman/answers_json/22@1/description",
+        "2012_Romney_Rubio/answers_json/22@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "E-Verify is a good start, but too many companies don't use it. It should be mandatory for any employer hiring more than a few employees.",
+      "sha256": "73cf46d7128ccf4e065bcd68eb49a4a620485e26ad6ad621a8e3061cde4e8fed",
+      "zh": "E-Verify就业资格核验系统是个好的开端，但不用它的企业太多了。雇用超过少数几名员工的雇主，都应该被要求使用它。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/23@10/description",
+        "2012_Romney_Portman/answers_json/23@2/description",
+        "2012_Romney_Rubio/answers_json/23@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Not at all. Even companies that have been caught red-handed hiring illegals have gotten away with token fines. This happens all of the time in the meat processing industry, for instance.",
+      "sha256": "38f22ba0a913e37975aa70f41909a88f714d8c7af3af90da0b4b5e61c3c5ab1a",
+      "zh": "完全不够。就连被当场抓住雇用非法移民的公司，都能靠象征性罚款过关。例如，肉类加工业就经常发生这种事。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/24@11/description",
+        "2012_Romney_Portman/answers_json/24@3/description",
+        "2012_Romney_Rubio/answers_json/24@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Every day that we don't invest in solar power is a day that we fall further behind countries like China and Germany. Investment should be increased.",
+      "sha256": "585108166c2ea961e57a642153fb30b05d5d186bffe65cc792b2cc8aecdd9b4a",
+      "zh": "每一天不投资太阳能，我们就比中国和德国这样的国家落后更多。应该增加投资。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/37@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Obviously a couple of firms went bankrupt, but that happens sometimes with new companies. We shouldn't let that distract us from the overall idea of this project. Funding should remain as is.",
+      "sha256": "b4a0b1fcd2a03c411c94791f619b836d815f859d890d4f87529a6e236f6841e4",
+      "zh": "显然，有几家公司破产了，但新企业有时就是会这样。我们不应该因此偏离这项计划的整体思路。资助应该维持现状。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/38@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "We have the example of Solyndra staring us in the face, and people want to do the same thing again with other companies? We should end this program as soon as possible.",
+      "sha256": "cdbe85baa49eb62ea9be72040e5fd000e8c103c08166c165006f7ae187ff3ac0",
+      "zh": "索林德拉公司的教训就在眼前，有人竟然还想在其他公司身上重来一次？我们应该尽快结束这项计划。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/39@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "End subsidies for alternative energy companies -- and for oil companies as well.",
+      "sha256": "af4500a56d10f3fcb3f382fc6135fea3f662276eaf6c735a655a8ae40a31f6dc",
+      "zh": "取消对替代能源公司的补贴，也取消对石油公司的补贴。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/40@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "This is probably unconstitutional and would represent another step in the transformation of our country into a police state.",
+      "sha256": "5abbc873eca0128fb330e670be58d2287a786a946ac895f3769d7e5729e170d2",
+      "zh": "这大概违宪，也意味着我国朝警察国家又迈出了一步。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/73@20/description",
+        "2012_Romney_Ryan/answers_json/73@8/description",
+        "2012_Romney_Pawlenty/answers_json/73@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I don't agree with that course of action. The Border Patrol is in place to do just that job.",
+      "sha256": "ec9957a047e027c816db6aceb50397f5b039f5b8f5502ffd9c856f0fcf95d8c6",
+      "zh": "我不赞成这样做。边境巡逻队的职责正是干这件事。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/74@21/description",
+        "2012_Romney_Ryan/answers_json/74@9/description",
+        "2012_Romney_Pawlenty/answers_json/74@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Those decisions, you know, I think our military is a fine force and that's not necessarily the best use of its resources.",
+      "sha256": "45156f7d76352dd76982787ebf3defc2b9ff72aa2288711e7c196872b420b49c",
+      "zh": "这类决定，你知道，我认为我们的军队是一支优秀的力量，而这未必是利用其资源的最佳办法。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/75@22/description",
+        "2012_Romney_Ryan/answers_json/75@10/description",
+        "2012_Romney_Pawlenty/answers_json/75@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "The United States has no right to say who should or shouldn't have a nuclear weapon.",
+      "sha256": "2b58a9dbcccb8f6812d5ca3c978d3611a86ae51fe76ae3c69202919c06e378c2",
+      "zh": "美国无权决定谁应该或不应该拥有核武器。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/113@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "I'd rather not discuss this issue right now while diplomatic negotiations are in progress.",
+      "sha256": "d065da5fb39f2733b1cdf16c00763d5c64eb1f29c3d7260bf5ff73e08ced9a0b",
+      "zh": "外交谈判正在进行，我现在宁愿不讨论这个问题。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/114@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Of course I will always act in the best interests of the United States. We are keeping all options on the table, but it's irresponsible at this point to go into further details.",
+      "sha256": "539f41420e7ab91433d3603c9b813ad7897fea50ad10ff3523c3f7e8eaa2a9ed",
+      "zh": "我当然始终会以美国的最佳利益为准。我们保留所有选项，但在现阶段透露更多细节是不负责任的。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/115@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "This is a regime that has publicly stated its desire to 'wipe Israel off the map'. It would be suicidal to watch them develop a nuclear weapon without making some attempt to strike back.",
+      "sha256": "547b63691940f08aec5527e39e86f5936d615886239f19bd9480131aeef0fbbf",
+      "zh": "这个政权公开说过，想把“以色列从地图上抹去”。眼看着他们发展核武器却不试着回击，无异于自寻死路。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/116@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "It makes sense to track gun sales over a period of time, to get a better picture of who is buying them, and to try and arrest more important cartel leaders.",
+      "sha256": "3b45018f85a28ad7f3bb2f93cad57030d23154586a6a5ade31e19b32b78389c7",
+      "zh": "追踪一段时间的枪支销售，有助于更清楚地了解买家身份，并尝试逮捕更重要的贩毒集团头目，这样做有道理。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/149@36/description",
+        "2012_Romney_Rubio/answers_json/149@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "This is a specialized occupational question that can best be answered by the ATF and the Department of Justice.",
+      "sha256": "c48bada8f773fcda310908b9064f235b5422c19fc4823156f354a4f64a3626d1",
+      "zh": "这是个专业执法问题，最好由烟酒枪炮及爆炸物管理局和司法部来回答。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/150@37/description",
+        "2012_Romney_Rubio/answers_json/150@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Perhaps in limited cases. I am skeptical of these programs because they place too much faith in Mexican authorities to pursue cases once they cross the border.",
+      "sha256": "e5ee6d5e92ef46c0ac0476fdf18dad3fcc16eb4feacf6185884b27486f1caaff",
+      "zh": "也许在少数情况下可行。我对这些行动持怀疑态度，因为枪支越过边境之后，行动能否继续侦办，过分依赖墨西哥当局。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/151@38/description",
+        "2012_Romney_Rubio/answers_json/151@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "The tactic of 'gunwalking' led directly to the death of a Border Patrol agent. If we see people breaking the law, it makes no sense not to punish them. I would support the removal of Eric Holder as Attorney General.",
+      "sha256": "ce5f0f8181650391513e3579f5b06e7e7bde98fffac14c8e22e398b6b9145470",
+      "zh": "“放枪追踪”手法直接导致了一名边境巡逻员死亡。既然发现有人违法，却不惩处，毫无道理。我会支持撤换司法部长埃里克·霍尔德。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/152@39/description",
+        "2012_Romney_Rubio/answers_json/152@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "This is a sensible policy that will reduce teen pregnancies and help our children make informed decisions.",
+      "sha256": "ca1a0f80ddb17c3d26cd27762ef86a16ff04de255d851adeb94b62fc6409b420",
+      "zh": "这是一项合理的政策，能减少青少年怀孕，并帮助孩子作出知情的决定。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/153@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "I'm going to defer to local administrators on that question. That's not something the President should be involved with.",
+      "sha256": "4471dad27ae45987be1eba6f796d08279241b9de37f01fe48959194ed3f8a6f0",
+      "zh": "在这个问题上，我会尊重地方管理者的决定。这不是总统应该插手的事。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/154@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "That doesn't sound like a good idea to me. Perhaps with high schoolers it makes more sense to, you know, delve into some of those details.",
+      "sha256": "bc970ef6a675cce4cab82e691cca64d330a8f1487840fd2a69072a2fb09721f4",
+      "zh": "我觉得这不是什么好主意。也许对高中生来说，你知道，讲一些具体细节更合适。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/155@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "I support abstinence-only education, and believe that federal funding should be tied to adherence with this policy.",
+      "sha256": "174d9f09b8eaaa946f19be1d0174cc3ffa6c29d5b4ab9cbb3770631750914123",
+      "zh": "我支持只讲禁欲的性教育，并认为，联邦资助应该以遵循这项政策为条件。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/156@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Osama Bin Laden was living in a mansion that the government paid for with our money. It's time for this relationship to end.",
+      "sha256": "1aa883e7e74ac76e546aa2b78d405fcd0e2e676bcdc866e09f9bd376c0fbc2b4",
+      "zh": "奥萨马·本·拉登住在一座豪宅里，而那座豪宅是政府用我们的钱付账的。是时候结束这段关系了。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/157@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "I will undertake a full review of all military aid with a distinguished panel as soon as the election is over.",
+      "sha256": "b88790e03575528c4be67c700f6617fa75ab908d9eee79ea03bc095313a169df",
+      "zh": "选举一结束，我就会组织一个卓有声望的小组，全面审查所有军事援助。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/158@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Further aid should be directly tied to Pakistan's continuing progress towards openness and democracy.",
+      "sha256": "b5bdf98f2a9f2c5d7daca2eb8732f32ddf4dfe1d63643bfe2a06f84580a4c35b",
+      "zh": "进一步援助应该直接与巴基斯坦继续迈向开放和民主的进展挂钩。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/159@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Yes this is bad, but what are the alternatives? Should we let Pakistan fall to Muslim fundamentalists as well?",
+      "sha256": "2cbb1d851947cab89c1b13f926206e96dd3091e99d0cf11d6eb8362147619030",
+      "zh": "没错，这确实不好，但还有什么替代办法？难道也要让巴基斯坦落入伊斯兰原教旨主义者手中吗？",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/160@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "We'll have to make decisions like these at some point. It's better to do so now when we still have some control over the outcome, rather than waiting for a budget crisis to kick in.",
+      "sha256": "4502892a671eb52849449a9d4d53e74eb2000c1674dd5d4b213fde2beeeb9584",
+      "zh": "这种决定，我们迟早得作。趁现在还能在一定程度上掌控结果就做决定，总比等预算危机爆发后再做要好。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/213@52/description",
+        "2012_Romney_Rubio/answers_json/213@56/description",
+        "2012_Romney_Pawlenty/answers_json/213@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "We have to make difficult choices. I don't like this any more than most people, but small cuts are necessary to put us on a fiscally sustainable path.",
+      "sha256": "a1d0296c9261c03362ae4b22b04e2ec80cf4d66b2393258e9898711d0c2db9b3",
+      "zh": "我们必须作出艰难抉择。我和大多数人一样不喜欢这样，但小幅削减是让财政走上可持续轨道所必需的。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/214@53/description",
+        "2012_Romney_Rubio/answers_json/214@57/description",
+        "2012_Romney_Pawlenty/answers_json/214@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "This is the wrong way to go about balancing the budget. I oppose these cuts.",
+      "sha256": "75381ae2ee2040232f4dcbcd39f2c7cc27936e5e767e4399bc346803eeeac9a3",
+      "zh": "这不是平衡预算的正确办法。我反对这些削减。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/215@54/description",
+        "2012_Romney_Rubio/answers_json/215@58/description",
+        "2012_Romney_Pawlenty/answers_json/215@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "$4 billion barely puts a dent in the size of the deficit. If we made a serious attempt to cut the size of the military our savings would be vastly greater.",
+      "sha256": "f5ba1c1f1530b41ad754cc19a3307090f228b2b9db27462bdc78a46b3ec7e72c",
+      "zh": "40亿美元对赤字规模几乎毫无影响。如果我们认真削减军队规模，省下的钱会多得多。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/216@55/description",
+        "2012_Romney_Rubio/answers_json/216@59/description",
+        "2012_Romney_Pawlenty/answers_json/216@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Since the founding of our country, the free market has always been a bulwark of our prosperity.",
+      "sha256": "44341eee73ddc23f5068760a3236b4dc80e24f4bbdaf3391618c5220322ff8eb",
+      "zh": "自建国以来，自由市场始终是我国繁荣的支柱。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/231@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "I am a firm proponent of the free market. We simply need effective regulation to make sure that the economy works as best as it possibly can.",
+      "sha256": "1fc04e9ad3fc6769f6fb36f530e0c2831c6e1fb70639ac5ad9e23133923ab708",
+      "zh": "我坚定支持自由市场。我们只需要有效监管，确保经济尽可能良好运转。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/232@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "We need greater cooperation between government and corporations. I'm not opposed to government investments and even ownership of key industries, where appropriate.",
+      "sha256": "73f3788cf32aaf5cd33dd594f02ec043dc052a3d940c8a9710a4ca7c426a72d9",
+      "zh": "政府与企业之间需要加强合作。我不反对政府投资，在适当情况下，甚至可以由政府拥有关键行业。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/233@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "We are always mindful of the effect that these strikes may have on the local population. We only use them as a last resort, when targeting extremely dangerous individuals to the security of the United States.",
+      "sha256": "f507e8eb67dc5e3b6b065fe9a4c12d08522dda2dfd6ab9d4546dd5501ebfc4d7",
+      "zh": "我们始终注意这些打击对当地民众的影响。只有在万不得已时，针对对美国安全极其危险的人物，我们才会使用这种手段。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/306@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "I think some people need to grow up and view our national security in a more realistic fashion.",
+      "sha256": "1b5981b9f7bf9038db7819672813f34f2d4a60463fb35426d1fef52c7d6fa3a6",
+      "zh": "我认为，有些人需要成熟一点，以更现实的眼光看待国家安全。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/307@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "I've thought carefully about this issue and consulted with our military advisors. Based on those conversations we have decided to end the practice of drone strikes, effective immediately.",
+      "sha256": "982f270257deee68096913972ba2da6f0e28cc66937db2797280429dc3b00327",
+      "zh": "我仔细思考过这个问题，也咨询了军事顾问。根据这些讨论，我们决定立即停止无人机打击。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/308@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "She was supposed to be the head of the Consumer Financial Protection Board, remember? Republican obstructionism prevented that. I'm confident that she will do well against Scott Brown in the Massachusetts Senate race.",
+      "sha256": "fa8ed0391d4ec7947d1db9f84eafcaadf3a9bd3a87ff524b9c63c48159e046a3",
+      "zh": "她原本该出任消费者金融保护局负责人，记得吗？共和党的阻挠让这事没成。我相信，在马萨诸塞州参议员竞选中，她对阵斯科特·布朗会有不错的表现。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/322@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Let's hope it doesn't come to that. She is a brilliant, talented woman and no matter what happens, there will always be a place for her in government.",
+      "sha256": "61a4309b9230f06496d40f1c9dd69a6b6139e48876650e466276dd01126bf8bd",
+      "zh": "希望不至于走到那一步。她是一位聪明、有才华的女性；不论结果如何，政府里总会有她的位置。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/323@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Some her views I think have become, you know, a little extreme perhaps. Ms. Warren has good intentions but I'm not sure that I would go so far as to offer her another position in an Obama Administration.",
+      "sha256": "99b0e6cebc43b5816516ceff2cf3233b961791aeb428c469c02436c637864cc5",
+      "zh": "我觉得她的某些观点，你知道，也许变得有些极端了。沃伦女士的用意是好的，但我不确定自己是否愿意在奥巴马政府中再给她一个职位。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/324@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "It would be inhumane to suggest that we shouldn't be giving payouts to people who lose everything in a natural disaster.",
+      "sha256": "88622ecbe25f436d049adf9b47ca7846604203baaaa5f4ed98bbab51ca4681a0",
+      "zh": "有人在自然灾害中失去了一切，如果说我们不该向他们赔付，那是不人道的。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/341@79/description",
+        "2012_Romney_Rubio/answers_json/341@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "There is absolutely a danger of this happening. That's why we have a National Flood Insurance Program which provides strict guidelines on where people are permitted to build.",
+      "sha256": "3e025a0485ad83fddc7bb3abcfc17dd9530fdf9fd2023eb41ce45120fd7e0428",
+      "zh": "这种风险确实存在。因此，我们设立了全国洪水保险计划，严格规定哪些地方可以建房。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/342@80/description",
+        "2012_Romney_Rubio/answers_json/342@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "I don't think this is an issue. It just goes to show how as we become more modern in our views as a society, that sexual harassment will become less of an issue in the workplace.",
+      "sha256": "bc229a2bcec8e04767604e9f4c696e956e00b846ed3a000fbd3bdbdfe4179de2",
+      "zh": "我不认为这是什么问题。这恰好说明，随着社会观念越来越现代，职场性骚扰将逐渐减少。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/346@81/description",
+        "2012_Romney_Pawlenty/answers_json/346@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "I'm very concerned about this issue. I would like to see our funding level increase for the Equal Employment Opportunity Commission, so that adequate resources are in place to pursue these claims.",
+      "sha256": "4a0ceee79d755efb0fcc612bd65949c22424774ec368567c11ee7f38158a8d87",
+      "zh": "我十分关注这个问题。我希望增加平等就业机会委员会的经费，以确保有足够资源追查这些申诉。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/347@82/description",
+        "2012_Romney_Pawlenty/answers_json/347@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "I don't think we should jump to any conclusions based on one or two years of data. I'm glad you bring this up though. It's a subject worthy of further study by an official panel.",
+      "sha256": "9947cc6560dfd4dad1d6889136d473b56c74df09233af6d3c5ba6901d7a53c7f",
+      "zh": "我认为，我们不应该仅凭一两年的数据就仓促下结论。不过，很高兴你提出了这个问题。这是一个值得由正式小组进一步研究的话题。",
+      "keys": [
+        "2012_Obama_Clinton/answers_json/348@83/description",
+        "2012_Romney_Pawlenty/answers_json/348@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

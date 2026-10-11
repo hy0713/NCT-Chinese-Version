@@ -1,0 +1,751 @@
+[
+  {
+    "source": "Television advertising is coming to dominate the political campaign season. Where should the greatest emphasis be placed in your ads?",
+    "zh": "电视广告即将主导政治竞选季节。广告中最应该强调的地方是哪里？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/728@12/description",
+      "1988_Dukakis_Glenn/questions_json/728@8/description",
+      "1988_Dukakis_Gore/questions_json/728@16/description",
+      "1988_Dukakis_Jackson/questions_json/728@19/description"
+    ]
+  },
+  {
+    "source": "The Bush campaign is highlighting the pollution in Boston Harbor to counter your claims of a Massachusetts Miracle. How will you respond?",
+    "zh": "布什活动正在强调波士顿港的污染，以反驳您关于马萨诸塞州奇迹的说法。你会如何回应？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/727@13/description",
+      "1988_Dukakis_Glenn/questions_json/727@18/description",
+      "1988_Dukakis_Gore/questions_json/727@11/description",
+      "1988_Dukakis_Jackson/questions_json/727@9/description"
+    ]
+  },
+  {
+    "source": "Do you believe that there should be federal funding for abortions?",
+    "zh": "您认为联邦政府应该为堕胎提供资金吗？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/723@15/description",
+      "1988_Dukakis_Glenn/questions_json/723@10/description",
+      "1988_Dukakis_Gore/questions_json/723@15/description",
+      "1988_Dukakis_Jackson/questions_json/723@10/description"
+    ]
+  },
+  {
+    "source": "How will you address the Iran-Contra scandal as you campaign for President?",
+    "zh": "在竞选总统时，您将如何解决伊朗门丑闻？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/722@18/description",
+      "1988_Dukakis_Glenn/questions_json/722@19/description",
+      "1988_Dukakis_Gore/questions_json/722@19/description",
+      "1988_Dukakis_Jackson/questions_json/722@7/description"
+    ]
+  },
+  {
+    "source": "In 1977, you vetoed a law requiring teachers to begin the school day with a recitation of the Pledge of Allegiance. What were you thinking?",
+    "zh": "1977 年，您否决了一项要求教师在上课开始时背诵效忠誓言的法律。你在想什么？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/721@19/description",
+      "1988_Dukakis_Glenn/questions_json/721@16/description",
+      "1988_Dukakis_Gore/questions_json/721@10/description",
+      "1988_Dukakis_Jackson/questions_json/721@12/description"
+    ]
+  },
+  {
+    "source": "Is it true that you are a “card-carrying” member of the American Civil Liberties Union?",
+    "zh": "您是美国公民自由联盟的“正式”成员吗？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/720@20/description",
+      "1988_Dukakis_Glenn/questions_json/720@21/description",
+      "1988_Dukakis_Gore/questions_json/720@14/description",
+      "1988_Dukakis_Jackson/questions_json/720@8/description"
+    ]
+  },
+  {
+    "source": "To what extent will you remind voters that you served in the United States Army?",
+    "zh": "您会在多大程度上提醒选民您曾在美国陆军服役？",
+    "keys": [
+      "1988_Dukakis_Bentsen/questions_json/730@23/description",
+      "1988_Dukakis_Gore/questions_json/730@23/description"
+    ]
+  },
+  {
+    "source": "We will hammer on this theme, and particularly Mr. Bush's claim that he knew nothing about it. What kind of executive is he if he knew nothing about Iran-Contra?",
+    "zh": "我们将重点讨论这个主题，特别是布什先生声称他对此一无所知。如果他对伊朗门一无所知，他算什么高管？",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4428@1/description",
+      "1988_Dukakis_Glenn/answers_json/4428@1/description",
+      "1988_Dukakis_Gore/answers_json/4428@1/description",
+      "1988_Dukakis_Jackson/answers_json/4428@1/description"
+    ]
+  },
+  {
+    "source": "I am a capable, pragmatic leader who will bring the Massachusetts Miracle to bear on a national scale. We will move past Reagan's scandals and into the future.",
+    "zh": "我是一位有能力、务实的领导者，我将在全国范围内带来马萨诸塞州奇迹。我们将超越里根的丑闻，走向未来。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4411@2/description",
+      "1988_Dukakis_Glenn/answers_json/4411@2/description",
+      "1988_Dukakis_Gore/answers_json/4411@2/description",
+      "1988_Dukakis_Jackson/answers_json/4411@2/description"
+    ]
+  },
+  {
+    "source": "As Governor of Massachusetts, I have led a capable, liberal administration of that state. I will take this to the national level and undo eight years of failure under Ronald Reagan.",
+    "zh": "作为马萨诸塞州的州长，我领导了该州的一个有能力、自由的政府。我将把这件事带到国家层面，并弥补罗纳德·里根下八年的失败。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4412@3/description",
+      "1988_Dukakis_Glenn/answers_json/4412@3/description",
+      "1988_Dukakis_Gore/answers_json/4412@3/description",
+      "1988_Dukakis_Jackson/answers_json/4412@3/description"
+    ]
+  },
+  {
+    "source": "I will call on all Americans who have been cast aside by our winner-take-all economy and our lopsided tax cuts, to unite and send the Republicans a clear message this fall.",
+    "zh": "我将呼吁所有被我们的赢家通吃经济和不平衡的减税政策抛弃的美国人，团结起来，在今年秋天向共和党人发出明确的信息。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4413@4/description",
+      "1988_Dukakis_Glenn/answers_json/4413@4/description",
+      "1988_Dukakis_Gore/answers_json/4413@4/description",
+      "1988_Dukakis_Jackson/answers_json/4413@4/description"
+    ]
+  },
+  {
+    "source": "I will take the attack to George Bush, who has all of the weaknesses of Ronald Reagan, with none of the strengths. He was born with a silver foot in his mouth.",
+    "zh": "我将攻击乔治·布什，他拥有罗纳德·里根的所有弱点，但没有任何优点。他出生时嘴里含着一只银足。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4414@5/description",
+      "1988_Dukakis_Glenn/answers_json/4414@5/description",
+      "1988_Dukakis_Gore/answers_json/4414@5/description",
+      "1988_Dukakis_Jackson/answers_json/4414@5/description"
+    ]
+  },
+  {
+    "source": "Unlike George Bush, I have led the executive branch of government. I will make Massachusetts a centerpiece of my campaign.",
+    "zh": "与乔治·布什不同，我领导了政府行政部门。我会将马萨诸塞州作为我的竞选活动的核心。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4415@6/description",
+      "1988_Dukakis_Glenn/answers_json/4415@6/description",
+      "1988_Dukakis_Gore/answers_json/4415@6/description",
+      "1988_Dukakis_Jackson/answers_json/4415@6/description"
+    ]
+  },
+  {
+    "source": "We will strike a balance between emphasizing my own experience, along with making some attacks on George Bush.",
+    "zh": "我们将在强调​​我自己的经历和对乔治·布什进行一些攻击之间取得平衡。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4416@7/description",
+      "1988_Dukakis_Glenn/answers_json/4416@7/description",
+      "1988_Dukakis_Gore/answers_json/4416@7/description",
+      "1988_Dukakis_Jackson/answers_json/4416@7/description"
+    ]
+  },
+  {
+    "source": "It's probably a little better to take the attack to George Bush. We will obviously give Massachusetts some mention, but it is not the main focus.",
+    "zh": "攻击乔治·布什可能会好一些。我们显然会提到马萨诸塞州，但这不是主要焦点。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4417@8/description",
+      "1988_Dukakis_Glenn/answers_json/4417@8/description",
+      "1988_Dukakis_Gore/answers_json/4417@8/description",
+      "1988_Dukakis_Jackson/answers_json/4417@8/description"
+    ]
+  },
+  {
+    "source": "I grew up middle-class and intrinsically understand their concerns. Bush grew up as the millionaire son of a Senator, and has remained out of touch ever since.",
+    "zh": "我在中产阶级中长大，本质上理解他们的担忧。布什作为一位参议员的百万富翁儿子长大，从那时起就一直与世隔绝。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4418@9/description",
+      "1988_Dukakis_Glenn/answers_json/4418@9/description",
+      "1988_Dukakis_Gore/answers_json/4418@9/description",
+      "1988_Dukakis_Jackson/answers_json/4418@9/description"
+    ]
+  },
+  {
+    "source": "We oversaw the Massachusetts Miracle. Bush has remained out of the loop on key Reagan scandals, and lacked the judgment to suspend dealings with Noriega.",
+    "zh": "我们见证了马萨诸塞州奇迹。布什一直不参与关键的里根丑闻，并且缺乏暂停与诺列加交易的判断力。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4419@10/description",
+      "1988_Dukakis_Glenn/answers_json/4419@10/description",
+      "1988_Dukakis_Gore/answers_json/4419@10/description",
+      "1988_Dukakis_Jackson/answers_json/4419@10/description"
+    ]
+  },
+  {
+    "source": "We believe in a liberalism that benefits all Americans. Bush subscribes to Reagan's divisive, winner-take-all economic policies which have made the middle-class poorer.",
+    "zh": "我们相信有利于所有美国人的自由主义。布什赞同里根的分裂性、赢家通吃的经济政策，这些政策使中产阶级变得更加贫穷。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4420@11/description",
+      "1988_Dukakis_Glenn/answers_json/4420@11/description",
+      "1988_Dukakis_Gore/answers_json/4420@11/description",
+      "1988_Dukakis_Jackson/answers_json/4420@11/description"
+    ]
+  },
+  {
+    "source": "We prefer to run a positive campaign, focusing on our own policies and beliefs.",
+    "zh": "我们更愿意开展积极的活动，重点关注我们自己的政策和信念。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4421@12/description",
+      "1988_Dukakis_Glenn/answers_json/4421@12/description",
+      "1988_Dukakis_Gore/answers_json/4421@12/description",
+      "1988_Dukakis_Jackson/answers_json/4421@12/description"
+    ]
+  },
+  {
+    "source": "I'm proud to be a member of the American Civil Liberties Union.",
+    "zh": "我很自豪能够成为美国公民自由联盟的成员。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4422@13/description",
+      "1988_Dukakis_Glenn/answers_json/4422@13/description",
+      "1988_Dukakis_Gore/answers_json/4422@13/description",
+      "1988_Dukakis_Jackson/answers_json/4422@13/description"
+    ]
+  },
+  {
+    "source": "I don't share every belief that this group has, but I'm not going to cancel my membership because of some spurious insinuations from the right.",
+    "zh": "我并不同意这个团体的所有信念，但我不会因为右翼的一些虚假暗示而取消我的会员资格。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4423@14/description",
+      "1988_Dukakis_Glenn/answers_json/4423@14/description",
+      "1988_Dukakis_Gore/answers_json/4423@14/description",
+      "1988_Dukakis_Jackson/answers_json/4423@14/description"
+    ]
+  },
+  {
+    "source": "At one time I was a member of the ACLU, but I've been as concerned as any good American by some of the cases that organization has taken on in the past few years.",
+    "zh": "我曾经是美国公民自由联盟 (ACLU) 的成员，但我和任何一个善良的美国人一样对该组织在过去几年中处理的一些案件感到担忧。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4424@15/description",
+      "1988_Dukakis_Glenn/answers_json/4424@15/description",
+      "1988_Dukakis_Gore/answers_json/4424@15/description",
+      "1988_Dukakis_Jackson/answers_json/4424@15/description"
+    ]
+  },
+  {
+    "source": "I have nothing to hide. I'm proud to protect the freedom of conscience that every American should enjoy.",
+    "zh": "我没有什么可隐瞒的。我很自豪能够保护每个美国人都应享有的良心自由。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4425@16/description",
+      "1988_Dukakis_Glenn/answers_json/4425@16/description",
+      "1988_Dukakis_Gore/answers_json/4425@16/description",
+      "1988_Dukakis_Jackson/answers_json/4425@16/description"
+    ]
+  },
+  {
+    "source": "This was in line with a 1943 decision from the Supreme Court. It seemed highly likely at the time that this law was going to be struck down by the Massachusetts Supreme Court.",
+    "zh": "这与最高法院 1943 年的裁决一致。当时看来这项法律很可能会被马萨诸塞州最高法院推翻。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4426@17/description",
+      "1988_Dukakis_Glenn/answers_json/4426@17/description",
+      "1988_Dukakis_Gore/answers_json/4426@17/description",
+      "1988_Dukakis_Jackson/answers_json/4426@17/description"
+    ]
+  },
+  {
+    "source": "This is an attempt by Republicans to deflect attention from the unpopularity of their own candidate, Mr. Bush, and his elitist background and policies.",
+    "zh": "这是共和党人试图转移人们对他们自己的候选人布什先生不受欢迎以及他的精英背景和政策的注意力。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4427@18/description",
+      "1988_Dukakis_Glenn/answers_json/4427@18/description",
+      "1988_Dukakis_Gore/answers_json/4427@18/description",
+      "1988_Dukakis_Jackson/answers_json/4427@18/description"
+    ]
+  },
+  {
+    "source": "Where are the scandals from my administration in Massachusetts? I am clearly the more competent alternative in this election.",
+    "zh": "我的政府马萨诸塞州的丑闻在哪里？在这次选举中我显然是更有能力的选择。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4429@19/description",
+      "1988_Dukakis_Glenn/answers_json/4429@19/description",
+      "1988_Dukakis_Gore/answers_json/4429@19/description",
+      "1988_Dukakis_Jackson/answers_json/4429@19/description"
+    ]
+  },
+  {
+    "source": "We prefer to focus on issues of policy and economics in this election, and not on political scandals.",
+    "zh": "我们更愿意在这次选举中关注政策和经济问题，而不是政治丑闻。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4430@20/description",
+      "1988_Dukakis_Glenn/answers_json/4430@20/description",
+      "1988_Dukakis_Gore/answers_json/4430@20/description",
+      "1988_Dukakis_Jackson/answers_json/4430@20/description"
+    ]
+  },
+  {
+    "source": "I support any federal effort to increase the health and well-being of women in America.",
+    "zh": "我支持任何旨在提高美国女性健康和福祉的联邦政府努力。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4431@21/description",
+      "1988_Dukakis_Glenn/answers_json/4431@21/description",
+      "1988_Dukakis_Gore/answers_json/4431@21/description",
+      "1988_Dukakis_Jackson/answers_json/4431@21/description"
+    ]
+  },
+  {
+    "source": "I have an open mind on this issue, but it would depend on who needs the money and what case they can make during the federal budget process.",
+    "zh": "我对这个问题持开放态度，但这取决于谁需要这笔钱以及他们在联邦预算过程中可以提出什么理由。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4432@22/description",
+      "1988_Dukakis_Glenn/answers_json/4432@22/description",
+      "1988_Dukakis_Gore/answers_json/4432@22/description",
+      "1988_Dukakis_Jackson/answers_json/4432@22/description"
+    ]
+  },
+  {
+    "source": "This is definitely taking things too far. The <em>Roe v. Wade</em> case is settled law, but federal funding for the practice is an entirely different matter.",
+    "zh": "这绝对是太过分了。的 <em>罗诉韦德案</em> 案件已通过法律和解，但联邦对该做法的资助则完全是另一回事。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4433@23/description",
+      "1988_Dukakis_Glenn/answers_json/4433@23/description",
+      "1988_Dukakis_Gore/answers_json/4433@23/description",
+      "1988_Dukakis_Jackson/answers_json/4433@23/description"
+    ]
+  },
+  {
+    "source": "I have ordered a halt to this program, albeit too late in this case. We will immediately counterattack these charges with examples of federal furloughs gone awry under the Reagan Administration.",
+    "zh": "我已下令停止该计划，尽管在这种情况下为时已晚。我们将立即以里根政府领导下联邦休假出错的例子来反驳这些指控。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4434@24/description",
+      "1988_Dukakis_Glenn/answers_json/4434@24/description",
+      "1988_Dukakis_Gore/answers_json/4434@24/description",
+      "1988_Dukakis_Jackson/answers_json/4434@24/description"
+    ]
+  },
+  {
+    "source": "Massachusetts has one of the lowest crime rates in the nation. We need to turn the tables and attack Bush and Reagan relentlessly on the national crime rate.",
+    "zh": "马萨诸塞州是全国犯罪率最低的国家之一。我们需要扭转局面，不懈地攻击布什和里根全国犯罪率。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4435@25/description",
+      "1988_Dukakis_Glenn/answers_json/4435@25/description",
+      "1988_Dukakis_Gore/answers_json/4435@25/description",
+      "1988_Dukakis_Jackson/answers_json/4435@25/description"
+    ]
+  },
+  {
+    "source": "The focus of this campaign needs to be our competence, and the scandals and extreme policy of the Reagan Administration. I trust that voters will see through this attempt to deflect attention from the real issues.",
+    "zh": "这场运动的焦点需要是我们的能力，以及里根政府的丑闻和极端政策。我相信选民会识破这种转移人们对真正问题的注意力的企图。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4436@26/description",
+      "1988_Dukakis_Glenn/answers_json/4436@26/description",
+      "1988_Dukakis_Gore/answers_json/4436@26/description",
+      "1988_Dukakis_Jackson/answers_json/4436@26/description"
+    ]
+  },
+  {
+    "source": "We need to counterattack Reagan and Bush for the pointless increases in defense spending, which have destroyed the federal budget this decade.",
+    "zh": "我们需要反击里根和布什国防开支毫无意义的增加，这已经破坏了这十年来的联邦预算。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4437@27/description",
+      "1988_Dukakis_Glenn/answers_json/4437@27/description",
+      "1988_Dukakis_Gore/answers_json/4437@27/description",
+      "1988_Dukakis_Jackson/answers_json/4437@27/description"
+    ]
+  },
+  {
+    "source": "I supported both of these actions in general. I criticized specific aspects of their implementation. I'm interested to know why Bush would distort the truth on this.",
+    "zh": "我总体上支持这两项行动。我批评了他们实施的具体方面。我很想知道为什么布什会歪曲事实。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4438@28/description",
+      "1988_Dukakis_Glenn/answers_json/4438@28/description",
+      "1988_Dukakis_Gore/answers_json/4438@28/description",
+      "1988_Dukakis_Jackson/answers_json/4438@28/description"
+    ]
+  },
+  {
+    "source": "I'm a liberal in the tradition of Franklin Roosevelt and Harry Truman and John Kennedy. Americans will appreciate that on election day.",
+    "zh": "我是一个继承了富兰克林·罗斯福和哈里·杜鲁门以及约翰肯尼迪传统的自由主义者。美国人会在选举日感激这一点。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4440@30/description",
+      "1988_Dukakis_Glenn/answers_json/4440@30/description",
+      "1988_Dukakis_Gore/answers_json/4440@30/description",
+      "1988_Dukakis_Jackson/answers_json/4440@30/description"
+    ]
+  },
+  {
+    "source": "The Bush campaign continues to use dishonest language to scare the American people. I'm a pragmatist and a moderate Democrat. Bush is the real extremist in this race.",
+    "zh": "布什活动继续使用不诚实的语言来恐吓美国人民。我是一个实用主义者和温和的民主党人。布什是这场竞选中真正的极端分子。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4441@31/description",
+      "1988_Dukakis_Glenn/answers_json/4441@31/description",
+      "1988_Dukakis_Gore/answers_json/4441@31/description",
+      "1988_Dukakis_Jackson/answers_json/4441@31/description"
+    ]
+  },
+  {
+    "source": "It doesn't matter what the “label” is that we use. The important thing is the issues we will decide upon.",
+    "zh": "我们使用什么“标签”并不重要。重要的是我们将决定的问题。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4442@32/description",
+      "1988_Dukakis_Glenn/answers_json/4442@32/description",
+      "1988_Dukakis_Gore/answers_json/4442@32/description",
+      "1988_Dukakis_Jackson/answers_json/4442@32/description"
+    ]
+  },
+  {
+    "source": "We will point out that the Reagan EPA is chiefly at fault for the lack of funds and action in that case, and we'll attack Bush's dishonesty.",
+    "zh": "我们将指出，在这种情况下，里根 EPA 的主要过错在于缺乏资金和行动，我们将攻击布什的不诚实行为。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4443@33/description",
+      "1988_Dukakis_Glenn/answers_json/4443@33/description",
+      "1988_Dukakis_Gore/answers_json/4443@33/description",
+      "1988_Dukakis_Jackson/answers_json/4443@33/description"
+    ]
+  },
+  {
+    "source": "I think it would make a good TV ad if we went to Texas and spoke with some of the people who have been put out of work by the oil crash there. Let's ask them how they feel about the Reagan economy.",
+    "zh": "我认为如果我们去得克萨斯州并与一些因石油危机而失业的人交谈，这将是一个很好的电视广告。让我们问问他们对里根经济有何看法。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4444@34/description",
+      "1988_Dukakis_Glenn/answers_json/4444@34/description",
+      "1988_Dukakis_Gore/answers_json/4444@34/description",
+      "1988_Dukakis_Jackson/answers_json/4444@34/description"
+    ]
+  },
+  {
+    "source": "It's important to remain above the fray and continue with the positive message of our campaign.",
+    "zh": "保持置身事外并继续传达我们竞选活动的积极信息非常重要。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4445@35/description",
+      "1988_Dukakis_Glenn/answers_json/4445@35/description",
+      "1988_Dukakis_Gore/answers_json/4445@35/description",
+      "1988_Dukakis_Jackson/answers_json/4445@35/description"
+    ]
+  },
+  {
+    "source": "Let's focus on my record as a Greek immigrant who has risen to the highest positions in American life, along with my competence and liberal values.",
+    "zh": "让我们重点关注我作为一名希腊移民的记录，以及我的能力和自由主义价值观，他在美国生活中晋升到了最高职位。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4446@36/description",
+      "1988_Dukakis_Glenn/answers_json/4446@36/description",
+      "1988_Dukakis_Gore/answers_json/4446@36/description",
+      "1988_Dukakis_Jackson/answers_json/4446@36/description"
+    ]
+  },
+  {
+    "source": "Let's attack George Bush as a creature of his political handlers, who lacks any deep-seated convictions or a record of governing competence.",
+    "zh": "让我们攻击乔治·布什作为他的政治操纵者的产物，他缺乏任何根深蒂固的信念或执政能力的记录。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4447@37/description",
+      "1988_Dukakis_Glenn/answers_json/4447@37/description",
+      "1988_Dukakis_Gore/answers_json/4447@37/description",
+      "1988_Dukakis_Jackson/answers_json/4447@37/description"
+    ]
+  },
+  {
+    "source": "Let's attack the Reagan deficit, Bush's performance as Vice President, and mix in some spots to defend against Bush's dishonest allegations on various issues.",
+    "zh": "让我们攻击里根的赤字，布什作为副总统的表现，并在一些地方混合起来，以防御布什在各种问题上的不诚实指控。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4448@38/description",
+      "1988_Dukakis_Glenn/answers_json/4448@38/description",
+      "1988_Dukakis_Gore/answers_json/4448@38/description",
+      "1988_Dukakis_Jackson/answers_json/4448@38/description"
+    ]
+  },
+  {
+    "source": "I want to run a series of compare-and-contrast advertisements, comparing my own humble background with that of George Bush.",
+    "zh": "我想投放一系列对比广告，将我自己卑微的背景与乔治·布什的背景进行比较。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4449@39/description",
+      "1988_Dukakis_Glenn/answers_json/4449@39/description",
+      "1988_Dukakis_Gore/answers_json/4449@39/description",
+      "1988_Dukakis_Jackson/answers_json/4449@39/description"
+    ]
+  },
+  {
+    "source": "My biography is an asset to our campaign, and I will not hesitate to emphasize it.",
+    "zh": "我的传记是我们竞选活动的宝贵财富，我会毫不犹豫地强调这一点。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4450@40/description",
+      "1988_Dukakis_Glenn/answers_json/4450@40/description",
+      "1988_Dukakis_Gore/answers_json/4450@40/description",
+      "1988_Dukakis_Jackson/answers_json/4450@40/description"
+    ]
+  },
+  {
+    "source": "We would do better to focus on political views and attacks, rather than reemphasize my own heritage.",
+    "zh": "我们最好专注于政治观点和攻击，而不是重新强调我自己的传统。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4451@41/description",
+      "1988_Dukakis_Glenn/answers_json/4451@41/description",
+      "1988_Dukakis_Gore/answers_json/4451@41/description",
+      "1988_Dukakis_Jackson/answers_json/4451@41/description"
+    ]
+  },
+  {
+    "source": "I will mention this aspect of my biography frequently, particularly in contrast with Dan Quayle.",
+    "zh": "我会经常提到我的传记的这一方面，特别是与丹·奎尔相比。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4452@42/description",
+      "1988_Dukakis_Gore/answers_json/4452@42/description"
+    ]
+  },
+  {
+    "source": "It wouldn't hurt to mix in some old photographs of myself in military dress with the tough-on-defense ads we run.",
+    "zh": "将我身着军装的一些旧照片与我们投放的强硬国防广告混在一起也没什么坏处。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4453@43/description",
+      "1988_Dukakis_Gore/answers_json/4453@43/description"
+    ]
+  },
+  {
+    "source": "I served honorably in the U.S. Army, but Bush was basically a war hero. We should focus on areas where we have more of an advantage.",
+    "zh": "我在美国陆军中光荣服役，但布什基本上是一名战争英雄。我们应该把重点放在我们更有优势的领域。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4454@44/description",
+      "1988_Dukakis_Gore/answers_json/4454@44/description"
+    ]
+  },
+  {
+    "source": "Dan Quayle is obviously unqualified to serve as President, should the need arise, and his selection is most certainly a red flag for the capabilities of George Bush.",
+    "zh": "丹·奎尔显然没有资格担任总统，而他的当选无疑是对乔治·布什能力的一个危险信号。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4458@45/description",
+      "1988_Dukakis_Glenn/answers_json/4458@42/description",
+      "1988_Dukakis_Gore/answers_json/4458@45/description",
+      "1988_Dukakis_Jackson/answers_json/4458@42/description"
+    ]
+  },
+  {
+    "source": "We don't plan to focus on Dan Quayle much in this campaign.",
+    "zh": "我们不打算在此活动中过多关注丹·奎尔。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4459@46/description",
+      "1988_Dukakis_Glenn/answers_json/4459@43/description",
+      "1988_Dukakis_Gore/answers_json/4459@46/description",
+      "1988_Dukakis_Jackson/answers_json/4459@43/description"
+    ]
+  },
+  {
+    "source": "Lloyd Bentsen has been involved in the government of this country since 1948. He is eminently qualified to advise our Administration from the first day.",
+    "zh": "劳埃德·本特森自 1948 年以来一直参与这个国家的政府。他从第一天起就非常有资格为我们的政府提供建议。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4463@47/description"
+    ]
+  },
+  {
+    "source": "The selection of Dan Quayle as a running mate is deeply concerning, for what it says about Bush himself as much as anything.",
+    "zh": "选择丹·奎尔作为竞选搭档令人深感担忧，因为它对布什本人的影响不亚于任何事情。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4464@48/description"
+    ]
+  },
+  {
+    "source": "We can't focus too much on the second-banana. Voters want to know why I'm better than Bush.",
+    "zh": "我们不能过多关注第二根香蕉。选民想知道为什么我比布什更好。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answers_json/4465@49/description"
+    ]
+  },
+  {
+    "source": "Americans seem ready to move on from Reagan, but partly on the assumption that you are a pragmatic, moderate administrative type, and not a liberal like Mondale.",
+    "zh": "美国人似乎已准备告别里根时代，但部分原因是他们认为，你是一位务实、温和的行政管理者，而不是蒙代尔式的自由派。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1893@1/answer_feedback",
+      "1988_Dukakis_Bentsen/answer_feedback_json/1898@6/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1893@3/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1898@8/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1893@1/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1898@6/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1893@1/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1898@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "George Bush is nowhere near as popular as Reagan, and it is not a bad idea to mix in some attacks against him.",
+    "zh": "乔治·布什远不如里根受欢迎，混合一些针对他的攻击也不是一个坏主意。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1894@2/answer_feedback",
+      "1988_Dukakis_Bentsen/answer_feedback_json/1895@3/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1894@4/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1895@5/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1894@2/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1895@3/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1894@2/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1895@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "Voters respond to your background and upbringing. Especially in comparison to that of Bush.",
+    "zh": "选民会对你的背景和成长经历做出回应。特别是与布什相比。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1896@4/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1896@6/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1896@4/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1896@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good message to campaign on.",
+    "zh": "这是一个很好的竞选信息。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1897@5/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1897@7/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1897@5/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1897@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Bush will certainly be attacking <em>you</em> this fall. It's part of the game if you're running for President.",
+    "zh": "布什肯定会攻击 <em>你</em> 今年秋天。如果你竞选总统，这就是游戏的一部分。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1899@7/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1899@9/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1899@7/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1899@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "In the best-case scenario, this complicates your attempt to win moderate voters. But you don't help matters by doubling down on this.",
+    "zh": "在最好的情况下，这会使您赢得温和派选民的尝试变得复杂。但你在这件事上加倍努力并没有什么帮助。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1900@8/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1900@10/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1900@8/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1900@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is probably the best you can do with this attack.",
+    "zh": "这可能是您对此攻击所能做的最好的事情。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1901@9/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1901@11/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1901@9/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1901@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many voters struggle to make sense out of your rationale.",
+    "zh": "许多选民很难理解你的理由。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1902@10/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1902@12/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1902@10/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1902@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "It seems to be hurting you no matter what, but at least you've put in a good response to this attack.",
+    "zh": "无论如何，它似乎都会伤害你，但至少你对这次攻击做出了良好的反应。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1903@11/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1903@13/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1903@11/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1903@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good opening to remind voters of Bush's unpopularity and possible lack of judgment.",
+    "zh": "这是一个很好的开场，提醒选民布什不受欢迎并且可能缺乏判断力。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1904@12/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1904@14/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1904@12/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1904@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are definitely leaving a good attack on the table by bypassing this.",
+    "zh": "通过绕过这个，你肯定会留下一个很好的攻击。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1905@13/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1905@15/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1905@13/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1905@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Democratic base is happy, but this definitely puts you on the liberal end of the debate.",
+    "zh": "民主党基础很高兴，但这肯定会让你站在辩论的自由派一边。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1906@14/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1906@16/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1906@14/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1906@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "Core supporters are frustrated by this position.",
+    "zh": "核心支持者对这一立场感到沮丧。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1907@15/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1907@17/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1907@15/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1907@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a damaging attack, but at least you are fighting back against its worst effects.",
+    "zh": "这是一种破坏性攻击，但至少您正在反击其最坏的影响。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1908@16/answer_feedback",
+      "1988_Dukakis_Bentsen/answer_feedback_json/1909@17/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1908@18/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1909@19/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1908@16/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1909@17/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1908@16/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1909@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many are confused at your seeming passivity in the face of a Republican broadside.",
+    "zh": "许多人对你面对共和党的猛烈攻击而表现出的消极态度感到困惑。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1910@18/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1910@20/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1910@18/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1910@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your position is not that popular, as voters learn about it, but at least you are keeping yourself in the fray.",
+    "zh": "随着选民的了解，你的立场并不那么受欢迎，但至少你让自己处于竞争之中。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1911@19/answer_feedback",
+      "1988_Dukakis_Bentsen/answer_feedback_json/1912@20/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1911@21/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1912@22/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1911@19/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1912@20/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1911@19/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1912@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "This language could be a turnoff to some moderates, but your strength in holding to this position appeals to others.",
+    "zh": "这种语言可能会让一些温和派人士反感，但你坚持这一立场的力量对其他人有吸引力。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1914@22/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1914@24/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1914@22/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1914@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your base is upset at your hesitancy to use the L-word, but at least you're sticking to a strong position on this.",
+    "zh": "你的支持者对你在使用 L 词方面的犹豫不决感到不安，但至少你在这方面坚持了强硬的立场。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1915@23/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1915@25/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1915@23/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1915@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems like a waffle to many voters, and doesn't convey the strength that is expected from a President.",
+    "zh": "这对许多选民来说似乎是胡扯，并且没有传达出总统所期望的力量。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1916@24/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1916@26/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1916@24/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1916@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a gutsy move, but people get the message. In any case, at least they're looking at your face instead of a toxic waste dump.",
+    "zh": "这是一个勇敢的举动，但人们明白了这一点。无论如何，至少他们看到的是你的脸，而不是有毒的垃圾场。",
+    "keys": [
+      "1988_Dukakis_Bentsen/answer_feedback_json/1917@25/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1917@27/answer_feedback",
+      "1988_Dukakis_Gore/answer_feedback_json/1917@25/answer_feedback",
+      "1988_Dukakis_Jackson/answer_feedback_json/1917@25/answer_feedback"
+    ]
+  }
+]

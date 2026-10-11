@@ -1,0 +1,105 @@
+[
+  {
+    "source": "https://cdn.discordapp.com/attachments/810034515334004766/1074235126654959696/e1.mp3",
+    "status": "unavailable",
+    "reason": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/allende.mp3",
+    "path": "/static/vendor/soundtracks/4d95ad82fd01f2.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "405460422bddfc4a4aad98933e67a0436ee37e80de36937b9c1fa315c3c186b5",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/amerika.mp3",
+    "path": "/static/vendor/soundtracks/24cf4183bffe98.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "69dfcb9319777d6070ec8e33dd6fa118b1301d7589f462c025ffbcb5a3e6083d",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/bella_ciao.mp3",
+    "path": "/static/vendor/soundtracks/b15423d4dbcc0c.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "2c7b1b608e152ce34d3ce6dab0475008ef1368ba634ccf7a74c2824d2cecca67",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/death.mp3",
+    "path": "/static/vendor/soundtracks/3fb26f7b3171eb.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "1c28dbe9b403910b6f708be24be970ef779fa93dd75afae7a154a47c9fd6c75e",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/drinking_song.mp3",
+    "path": "/static/vendor/soundtracks/37ced052419647.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "d677bb4ab21ddc2d2c5be45b2dac69a556c7f8e5ffc0861bf7f39c4320293eeb",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/let_go.mp3",
+    "path": "/static/vendor/soundtracks/4bf62a61204536.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "59bee1aa14de864ee5d889c54ca23a7c2313dc9cf229ee237a0673a3d62f6852",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/war.mp3",
+    "path": "/static/vendor/soundtracks/9e55f103ddc3cd.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "baa86d1e3a4d7c95bc199f79cca0203478dbc2c87b2b86c6f95be3ce7b806cf2",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/1812_overture.mp3",
+    "path": "/static/vendor/soundtracks/998526908ffedb.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "c6ad7a7a43a49f12cf26e50b1f0553974bf82fc9f2962a3945b0b9209d2bba1e",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/5th_movement.mp3",
+    "path": "/static/vendor/soundtracks/c6522f8820e374.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "ef08e587210b34f422b1f0b1ee07668b01adc98176da9d74bf102bec4657914e",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/concerto.mp3",
+    "path": "/static/vendor/soundtracks/b6a8774e25e4ec.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "572239903dc7f8978e7f200ff8c050b7aa537bd9c45e2d9c92acf13e9254b21b",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/fortuna.mp3",
+    "path": "/static/vendor/soundtracks/fe710e0992b43e.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "d52cbf80580b6b110da79d4d7ec4398650fb5ba658b8df52a83dcc336e3d4860",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/hungarian.mp3",
+    "path": "/static/vendor/soundtracks/f918b41e8365cb.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "d873e3a733b81b35389afcf8e9987c7cc4cfcf00ea3cc437a2c289a61995a6d5",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/moonlight_sonata.mp3",
+    "path": "/static/vendor/soundtracks/b26fd4e9e6fdf0.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "84ab8967513247dda2470682d362dd93e23a3891df824225c3162e82bfd0c97b",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/waltz.mp3",
+    "path": "/static/vendor/soundtracks/2b289a136f00c8.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "bab1313ff2a20c888eda83afb3f76656a611f4368f78cee52e9ba36e4ca83057",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  }
+]

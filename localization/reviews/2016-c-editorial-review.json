@@ -1,0 +1,971 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-c",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 324,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 9,
+      "reason": "Pearl clutching refers affected/exaggerated shock, not actual pearl jewelry."
+    },
+    {
+      "index": 15,
+      "reason": "Original restained interpreted restrained; ironic aside about unusual restraint preserved."
+    },
+    {
+      "index": 26,
+      "reason": "Original politically advantageous terrorist attack feedback retained, not translator endorsement."
+    },
+    {
+      "index": 27,
+      "reason": "Movement conservatives means activists/movement wing, not conservatives physically moving."
+    },
+    {
+      "index": 30,
+      "reason": "Beltway metonym for Washington political establishment, not highway construction."
+    },
+    {
+      "index": 31,
+      "reason": "Toxic to supporters means politically unacceptable, not physical poison."
+    },
+    {
+      "index": 43,
+      "reason": "Red meat denotes rhetoric satisfying core supporters, not food."
+    },
+    {
+      "index": 45,
+      "reason": "Original constroversial typo interpreted controversial; source unchanged."
+    },
+    {
+      "index": 48,
+      "reason": "Original in part to interpreted in part due to, no change to game causal data."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "I don't want to speculate on what kind of incriminating new evidence might be in these emails. I just want to focus on our Make America Great Again agenda during the closing stretch of this election.",
+      "sha256": "f67b1af1b9e63c38e8f88ae890d6c105249c08139813022cfb996d2c2db65aa7",
+      "zh": "我不想猜测这些电子邮件中可能有什么新的不利证据。在选举的最后阶段，我只想聚焦于我们“让美国再次伟大”的议程。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5122@78/description",
+        "2016_Trump_Christie/answers_json/5122@78/description",
+        "2016_Trump_Sessions/answers_json/5122@82/description",
+        "2016_Trump_Carson/answers_json/5122@72/description",
+        "2016_Trump_Palin/answers_json/5122@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I love our military. We're going to do a gigantic rally in Pensacola, Florida, and we're going to win Florida on election day.",
+      "sha256": "12371a61725ad2b82330416ed3ef34102b2f900938f03117335d7f402ca88422",
+      "zh": "我热爱我们的军队。我们要在佛罗里达州彭萨科拉办一场规模巨大的集会，选举日我们就要赢下佛罗里达州。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5123@79/description",
+        "2016_Trump_Christie/answers_json/5123@79/description",
+        "2016_Trump_Sessions/answers_json/5123@83/description",
+        "2016_Trump_Carson/answers_json/5123@73/description",
+        "2016_Trump_Palin/answers_json/5123@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "The pundits might say this is crazy, but we're going to visit Michigan, Wisconsin, and Minnesota. I think I can do four, maybe five rallies in one day. Maybe six.",
+      "sha256": "ccab849df5af6190f0909867adc1092d9cf8efc7bb69468a6ed89fb69bdf6eb6",
+      "zh": "评论人士也许会说这太疯狂了，但我们要去密歇根州、威斯康星州和明尼苏达州。我想一天能办四场，也许五场集会。说不定六场。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5124@80/description",
+        "2016_Trump_Christie/answers_json/5124@80/description",
+        "2016_Trump_Sessions/answers_json/5124@84/description",
+        "2016_Trump_Carson/answers_json/5124@74/description",
+        "2016_Trump_Palin/answers_json/5124@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "We're going to do some tremendous rallies in Nevada and Colorado. Some truly unbelievable rallies.",
+      "sha256": "0acae93a27a16545b09389fad4745e38a84528a0c17ea8e00c7a9be80b3ee65f",
+      "zh": "我们要在内华达州和科罗拉多州办几场盛大的集会。一些真正让人难以置信的集会。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5125@81/description",
+        "2016_Trump_Christie/answers_json/5125@81/description",
+        "2016_Trump_Sessions/answers_json/5125@85/description",
+        "2016_Trump_Carson/answers_json/5125@75/description",
+        "2016_Trump_Palin/answers_json/5125@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Let's not complicate this too much. The election pivots around Pennsylvania -- we're going to spend the morning in Pittsburgh and the evening in Scranton.",
+      "sha256": "d7bd8de0d3aedcc172a54e9d01def6c4fe91c2da1f6a18fed76ba9e1768e30f5",
+      "zh": "别把这事搞得太复杂。选举的关键就在宾夕法尼亚州——我们上午去匹兹堡，晚上去斯克兰顿。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5126@82/description",
+        "2016_Trump_Christie/answers_json/5126@82/description",
+        "2016_Trump_Sessions/answers_json/5126@86/description",
+        "2016_Trump_Carson/answers_json/5126@76/description",
+        "2016_Trump_Palin/answers_json/5126@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Can you really blame Mike in this day and age? One false accusation or misinterpreted statement, and suddenly your entire career can be at risk.",
+      "sha256": "16caed4493a5f9f6634ae1431e3bfc9144875916a9114c8a7d4ffe114f4aeaa9",
+      "zh": "在这个时代，你真的能责怪迈克吗？一次虚假指控，或一句被误解的话，就可能突然危及你的整个职业生涯。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5127@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Maybe if Bill Clinton and some other people I can think of would have followed this common-sense recommendation, their lives would have been much simpler.",
+      "sha256": "51ae070d6baafad0f6b6b453c211c0ac4cfa265d0212b4040eb11f0e8a8e4d53",
+      "zh": "如果比尔·克林顿，以及我想得到的某些其他人，也遵守过这条合乎常识的建议，他们的生活也许就简单多了。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5128@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "I understand some of the issues with this. Nobody respects women more than I do, but at the same time, I have an absolutely tremendous amount of respect for Mike Pence.",
+      "sha256": "918e586e3693fe052e302a0a74853da2ccc7c20a5743e217978dc9c272aac134",
+      "zh": "我理解这其中的一些问题。没有人比我更尊重女性，但同时，我也极其尊重迈克·彭斯。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5129@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "This is a bit of a sore point among much of the left.",
+      "sha256": "9d5d5a7baf32f7fafd95f5322715498b1ca4af16531a524f21758250acc385c4",
+      "zh": "对许多左翼人士来说，这有点戳中了痛处。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2537@0/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2536@29/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2537@0/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2536@28/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2537@0/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2536@23/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2537@0/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2536@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "More tweets. More pearl clutching from the media. Maybe you know something they don't?",
+      "sha256": "2580de3b98708938d84e0633292789c1f9eaa701d8f3ced22da66f61ea860df2",
+      "zh": "推文更多了，媒体大惊小怪的次数也更多了。也许你知道些他们不知道的事？",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2500@1/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2500@2/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2500@3/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2500@1/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2500@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "A couple of weeks go by, and commentators start murmuring about your \"pivot\" for the general election.",
+      "sha256": "69bc9476e2de5df8940e7307dbbde37f1260392134b0a098c5f5d4b031245b30",
+      "zh": "几周过去了，评论人士开始低声议论你为大选作出的“转向”。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2501@2/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2501@3/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2501@4/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2501@2/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2501@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Your advisors are happier, and the Washington Post even runs a cover story about your inactive Twitter account and the implications.",
+      "sha256": "c79acca35d0a09b0804a42c337316134a9c4ed45094eede27d4d77bca8537abc",
+      "zh": "你的顾问更高兴了，《华盛顿邮报》甚至做了篇封面报道，讨论你不再活跃的推特账户及其影响。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2502@3/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2502@4/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2502@5/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2502@3/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2502@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "People note your emphasis of Pence's strong conservative credentials.",
+      "sha256": "e610d8542f1f1d4cb02987ffa965bbe715893786478b0774835689cde0b8bdea",
+      "zh": "人们注意到，你强调了彭斯坚定的保守派资历。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2503@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Pundits note your emphasis of Pence's experience and credentials.",
+      "sha256": "f79ae94c046ef3e5a6d1085ef4ba5f01fe2e20f2e5d42317a051efc31d685593",
+      "zh": "评论人士注意到，你强调了彭斯的经验和资历。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2504@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "It might not be a bad idea to keep hammering away at Hillary. It could help you to make this a contest of who is more unpopular.",
+      "sha256": "6242a7b1e73dcad37c1dad61b939a838cb5e1888dea6607b835c1037daee6a3b",
+      "zh": "继续猛攻希拉里也许不是坏主意。这可能有助于把选举变成一场比谁更不受欢迎的较量。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2513@6/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2514@7/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2513@7/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2514@8/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2513@8/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2514@9/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2513@6/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2514@7/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2513@8/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2514@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Some think you are too restained on this issue, if that's easy to believe.",
+      "sha256": "4b187a9ef393eae18a1cf8a2ba77e9c0decd3e4f39f1ef71e9d518f96c97bb88",
+      "zh": "有人觉得，你在这个问题上过于克制了——如果这种评价还算可信的话。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2515@8/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2515@9/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2515@10/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2515@8/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2515@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "You raise some eyebrows with this response, but maybe there's a point?",
+      "sha256": "350762fce79a22dd1052706ead700889218a24c80d503edf41c3804fe31b5df2",
+      "zh": "你的回应让一些人感到惊讶，但也许有点道理？",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2516@9/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2516@10/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2516@11/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2516@9/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2516@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Many think this answer strikes the wrong tone in the aftermath of tragedy.",
+      "sha256": "b76f58001ea8c584b12cf5ba773418004649ea5f3cbaaaef792cbc11cabe8418",
+      "zh": "许多人认为，在悲剧发生之后，这个回答的语气很不合适。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2517@10/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2517@11/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2517@12/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2517@10/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2517@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Those who love gun rights, love your answer. Others accuse you of politicizing this tragedy.",
+      "sha256": "89ef732a15a545bb89db8362fd9460ee0f5f1e627257b0ecb3cddedfc6ce5f54",
+      "zh": "热爱拥枪权的人很喜欢你的回答，其他人则指责你把这场悲剧政治化。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2518@11/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2518@12/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2518@13/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2518@11/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2518@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "This is a safe, standard response to such events.",
+      "sha256": "816b802abca43982cbf7f2f1b37cd8f5d7bf213ff31b5476b55b0f77bc53d1cb",
+      "zh": "对于这类事件，这是一个稳妥而常规的回应。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2519@12/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2519@13/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2519@14/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2519@12/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2519@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Mentioning Hillary Clinton is always a good way to keep your party unified.",
+      "sha256": "dfe822a7848dce14e80f214ebdf62e5ff6d13988c28f3f10438ec9575007a66b",
+      "zh": "提到希拉里·克林顿，总是维持本党团结的好办法。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2520@13/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2522@15/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2525@18/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2520@14/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2522@16/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2525@19/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2520@15/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2522@17/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2525@20/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2520@13/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2522@15/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2525@18/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2520@15/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2522@17/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2525@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Pundits saw few surprises in your acceptance speech, but you once again got your message across to millions of potential voters.",
+      "sha256": "5308e2a1f17ebd2d19db4361b1499aca74b4c93ca84fdd1dfca34989b37ed0d6",
+      "zh": "评论人士认为，你的接受提名演说没什么出人意料之处，但你又一次把自己的信息传达给了数百万潜在选民。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2521@14/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2521@15/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2521@16/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2521@14/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2521@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Your speech struck a very populist and attacking tone, but also avoided some of the standard conservative tropes.",
+      "sha256": "f2504ef0a84897d0870f50693983adff91dbaf937361f00e47d30ba1c28b74a0",
+      "zh": "你的演说带有很强的民粹主义和攻击色彩，却也避开了一些保守派的惯常说辞。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2523@16/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2523@17/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2523@18/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2523@16/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2523@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Your flippant attitude is an asset at times, but many conservatives have legitimate worries about your candidacy.",
+      "sha256": "e642236bfdfe6f179b549781b9f4a1c72ed6c89d4984b74a3fc3f694a20f5870",
+      "zh": "你轻佻的态度有时是一项优势，但许多保守派对你参选确实有合理的担忧。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2524@17/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2524@18/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2524@19/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2524@17/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2524@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "This could help to keep traditional conservatives from defecting this fall.",
+      "sha256": "49a3c300833f25ebc9a9d90af8c863af4e88def8541d266a89e505eddad73bef",
+      "zh": "这可能有助于防止传统保守派在今年秋天倒戈。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2526@19/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2526@20/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2526@21/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2526@19/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2526@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Trump University is a liability. It's probably best to change the subject as quickly as possible.",
+      "sha256": "020dcca1541c2e64ed2d4c64d0bda335624d68cef57e2b99c88bb652844603df",
+      "zh": "特朗普大学是你的负担。最好还是尽快转移话题。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2527@20/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2528@21/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2529@22/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2527@21/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2528@22/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2529@23/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2527@22/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2528@23/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2529@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "You probably shouldn't say it out loud, but such attacks aren't the worst thing for your campaign, given how you've spoken out on this issue.",
+      "sha256": "1c14bbb2416a5ff68035e91a7f4dce0eb6444fee8976a5a274600c5870c7f5f1",
+      "zh": "你大概不该把这话说出来，不过，鉴于你在这个问题上一直直言不讳，这类袭击对你的竞选倒不一定是最坏的事。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2530@23/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2531@24/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2532@25/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2530@24/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2531@25/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2532@26/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2530@22/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2531@23/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2532@24/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2530@20/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2531@21/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2532@22/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2530@25/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2531@26/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2532@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "The average person is over the Benghazi episode at this point, but it's important to movement conservatives.",
+      "sha256": "001bf3053f5aa30b32cb893d49121cac6e5e265076d2762fb59863152245ee5a",
+      "zh": "普通人这时已不太在意班加西事件，但它对于投身保守主义运动的人仍很重要。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2533@26/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2534@27/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2535@28/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2533@25/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2534@26/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2535@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "The Clintons are always good for plenty of tabloid fodder, as are you.",
+      "sha256": "d8112ea1a13e8f6678cb542708c81ee513b055cd60534e2ac9be50e000859bf8",
+      "zh": "克林顿夫妇总能为小报提供大量谈资，你也是如此。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2544@30/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2545@31/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2546@32/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2544@30/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2545@31/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2546@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "An interesting response. Pundits are surprised to see you take the high road.",
+      "sha256": "8f58d6410c8fa5e3e989c24347a0cb040710021ae87faba7e07346809528fb52",
+      "zh": "有意思的回应。评论人士很惊讶，你竟然选择了较为体面的做法。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2547@33/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2547@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Already there is talk in the Beltway about your \"pivot\" for the general election.",
+      "sha256": "e0d278e5f083b04550c09f8c508f0f20a9fd80d64fdf22eea601db05da9a7773",
+      "zh": "华盛顿政治圈已经有人议论，你正在为大选作出“转向”。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2548@34/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2548@33/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2548@24/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2548@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Already there is talk in the Beltway about your \"pivot\" for the general election. However, immigration reform is toxic to your core supporters.",
+      "sha256": "571d5675256d3d5084bf32b042adbfdb8651462d3c638dc3ce2b4abd7bc9c21a",
+      "zh": "华盛顿政治圈已经有人议论，你正在为大选作出“转向”。不过，移民改革对你的核心支持者而言是碰不得的议题。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2549@35/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2549@34/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2549@25/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2549@35/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Your campaign has been marked by a surprisingly leftist take on global trade.",
+      "sha256": "d70ffc8cd2f373af536163719aa1ddd475291f324dc95f273747780b512bff4e",
+      "zh": "你的竞选有一个鲜明特点：在全球贸易问题上的看法出人意料地偏左。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2552@36/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2553@37/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2552@31/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2553@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "The New York Times runs a front page story about your pivot on trade, with several hot takes for and against.",
+      "sha256": "1ae0098f86f93b86b201bc87fa9f2ffbc714fdb773f918c02eb73d6b6dcca94c",
+      "zh": "《纽约时报》在头版报道了你在贸易上的转向，并刊登了几篇赞成与反对的即时评论。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2554@38/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2554@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Some notice your reticence to discuss abortion.",
+      "sha256": "2d5c99a80a86af8a5d23d8941b913eebb1687e1a4bb15cefd31c9424a4d2eb29",
+      "zh": "有人注意到，你不愿多谈堕胎问题。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2555@39/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2555@35/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2555@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "After a contentious primary, observers wonder how party stalwarts will react to such comments.",
+      "sha256": "aec1b40fdedad811243c52b460059dad95f671ce7bcc678498a048a3c6c221d6",
+      "zh": "经历激烈的初选后，观察人士想知道，本党坚定的支持者会如何回应这种言论。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2556@40/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2556@36/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2556@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "You aren't budging an inch from your campaign rhetoric.",
+      "sha256": "0570d9c1f7837a39f1673db88cb814099fcf626350888d2fe5be3eb2f662329c",
+      "zh": "你丝毫没有偏离自己的竞选说辞。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2561@41/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2561@38/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2561@30/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2561@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Some sense a veiled softening of your position on the Muslim ban.",
+      "sha256": "9074b356b283151a7d061975d71584a49387d5cb016236f3c6ce23c9616a620b",
+      "zh": "有些人感觉，你在穆斯林入境禁令上的立场正在不露声色地软化。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2562@42/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2562@39/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2562@31/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2562@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "No matter how you frame it, you are definitely moderating your position on this issue. Some even discuss a \"pivot\" again…",
+      "sha256": "5a76b5ef3f06b0128623adbfd258822bed42e0db77a57139b04a123420db402f",
+      "zh": "不管你怎么表述，你在这个问题上的立场确实变得更温和了。有些人甚至又开始讨论“转向”……",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2563@43/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2563@40/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2563@32/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2563@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "After the controversies of 2015, the ban doesn't play a big role in the closing stretch of the campaign.",
+      "sha256": "bbc311a231da3075d2fe7ab943a11b32f9c5483d8089191b4f03e0c6ec5ef699",
+      "zh": "经历2015年的争议后，这项禁令在竞选最后阶段并不是一个重要话题。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2564@44/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2564@41/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2564@33/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2564@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "On the one hand, you are criticized for ducking out on the debate. On the other hand, millions of supporters tune in to watch you inveigh against Hillary Clinton and the biased media.",
+      "sha256": "ec8775457d9c5770d5bb4625ccf1dc3da0c75281620e3319ad9b9375900736be",
+      "zh": "一方面，人们批评你逃避辩论。另一方面，数百万支持者收看节目，听你痛斥希拉里·克林顿和有偏见的媒体。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2571@48/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2571@45/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2571@44/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2571@37/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2571@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Pundits seem to agree that Hillary Clinton was much better prepared than you, but emotions are so high that it's not clear whether it matters.",
+      "sha256": "bf5f150f8d9800b4703e564e600c2abdf2f6766d90f4efcc9305e61b95731c09",
+      "zh": "评论人士似乎一致认为，希拉里·克林顿的准备比你充分得多。不过，公众情绪如此激烈，还不清楚这是否真的重要。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2572@49/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2573@50/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2572@46/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2573@47/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2572@45/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2573@46/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2572@38/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2573@39/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2572@51/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2573@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "You were your usual self on the debate stage, but Hillary Clinton also made some significant gaffes, surprising many.",
+      "sha256": "ce09dc3970b7f81d07493ddd10c8746eaa909b78863a36f65f872f05856cae92",
+      "zh": "你在辩论台上还是一贯的样子，但希拉里·克林顿也犯了一些重大口误，让许多人意外。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2574@51/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2574@48/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2574@47/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2574@40/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2574@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "This is red meat for your base.",
+      "sha256": "f8cd5d44029c03355746ff03c6608f5085aaaae33b7cfdb90fc9b34857e0eaed",
+      "zh": "这正是你的基本盘最爱听的话。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2587@52/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2587@56/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2587@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Some political opponents mock your calls for \"repeal and replace\",  but it's a mainstream talking point for your party.",
+      "sha256": "938bc469292f28c4eb99d495f4d2ea56861be247508bafb033b40c0763be79bd",
+      "zh": "有些政治对手嘲笑你“废除并取代”的呼声，但这确实是你们党主流的宣传口径。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2588@53/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2588@57/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2588@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "You avoid a constroversial subject, but establishment Republicans do have yet another doubt about your candidacy.",
+      "sha256": "96fb2df16ab98fd30fff1116cebdb9092efab1f0bbc1c9de307e594fd49f28d9",
+      "zh": "你避开了一个有争议的话题，不过，建制派共和党人对你参选又多了一层疑虑。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2589@54/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2589@58/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2589@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "It's not quite clear what you mean, but it doesn't seem to be an attack on the program itself.",
+      "sha256": "9802e635ca8e3807a863cf813da242340a4149a4b54c9a1f4c9eb9a9f332f1be",
+      "zh": "你的意思不太明确，不过看起来并不是在攻击这个项目本身。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2590@55/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2590@59/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2590@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "The gay marriage issue is less salient in the so-called culture wars compared to guns and abortion.",
+      "sha256": "67ef2970afcc01267baf206a89cae1b3f0ce3b72111d873df64f9fdfed166b2d",
+      "zh": "在所谓的文化战争中，同性婚姻不像枪支和堕胎那样显眼。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2591@56/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2592@57/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2591@60/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2592@61/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2591@50/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2592@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Perhaps in part to your vague statements, in comparison to most other issues, gay marriage does not come up very frequently in this election.",
+      "sha256": "bace9dab091ea77b71420f49959730d7adfaaa2d7926c3b38c3720947363b260",
+      "zh": "也许部分原因在于你含糊的表态，与大多数其他议题相比，同性婚姻在这次选举中并不经常被提起。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2593@58/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2594@59/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2593@62/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2594@63/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2593@52/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2594@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "There's not much you can do but apologize and deflect, but supporters admire your pugnacious spirit in response to this.",
+      "sha256": "0c6e316cd69447971d2409c829822fdcc39a83298f007b20736fc1d62b139666",
+      "zh": "除了道歉和转移注意力，你能做的并不多。不过，支持者很欣赏你对此表现出的好斗精神。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2595@60/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2595@64/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2595@58/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2595@54/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2595@57/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "There's not much you can do but apologize and deflect, but polls are definitely swinging towards Hillary Clinton in the aftermath of this video.",
+      "sha256": "ce33eb4db57e4a37d6848c73c7b73d0951bbcac4ce1bef16e5cae86124a688f0",
+      "zh": "除了道歉和转移注意力，你能做的并不多。不过，这段视频曝光后，民调确实在向希拉里·克林顿倾斜。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2596@61/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2597@62/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2596@65/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2597@66/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2596@59/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2597@60/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2596@55/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2597@56/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2596@58/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2597@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "This is a good opening to attack Hillary Clinton after some of the recent mayhem.",
+      "sha256": "5713df08fb73678c1397500f50459b7d323f979401f947d11e19ec3fd492d097",
+      "zh": "最近几番混乱之后，这是攻击希拉里·克林顿的好机会。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2598@63/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2598@67/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2598@61/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2598@57/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2598@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Keep pressing your outsider credentials and tying Hillary to Goldman Sachs, Saudi Arabia, and so on.",
+      "sha256": "db7ec625c89b4e1293c41dfe07498d762afa12228ce033aee6cb9f728f766391",
+      "zh": "继续强调你是体制外人士，并把希拉里与高盛、沙特阿拉伯等联系起来。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2599@64/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2599@68/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2599@62/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2599@58/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2599@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Advisors definitely feel that, while your motives are admirable, you are leaving an opportunity on the table.",
+      "sha256": "518e8441043fb2a3d5299ded12313fee4161e1a84cc6c89105bb582670b400f4",
+      "zh": "顾问们确实觉得，虽然你的动机值得赞赏，却白白放过了一个机会。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2600@65/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2604@69/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2600@69/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2604@73/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2600@63/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2604@67/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2600@59/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2604@63/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2600@62/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2604@66/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Your complaint about Russia Russia seems a little unprompted based on what has happened thus far. Is there something else?",
+      "sha256": "bee51709bf1d784fa62090168a08a4590c16af81bbf0ee06d0f290255a82362a",
+      "zh": "根据目前发生的事情，你抱怨“俄罗斯、俄罗斯”，显得有点突兀。还有什么别的事吗？",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2601@66/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2601@70/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2601@64/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2601@60/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2601@63/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Left-wing media is certainly not happy about yet another revelation of Hillary's ideological flexibility.",
+      "sha256": "f9bceb080135677f3bb8fc5fa16f0a6a98b6ee0b7fafcb3798d98a79a157d35e",
+      "zh": "希拉里在意识形态上的灵活性又一次被曝光，左翼媒体当然不高兴。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2602@67/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2602@71/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2602@65/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2602@61/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2602@64/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Keep pressing your outsider credentials and promising reform.",
+      "sha256": "6db064795f2a09801d4ae307cbaaa91eba2b166c0e591f52596b2dd21f0ab401",
+      "zh": "继续强调你是体制外人士，并承诺改革。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2603@68/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2603@72/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2603@66/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2603@62/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2603@65/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Polls are swinging your way a bit in the aftermath of this announcement. Could this be the break that gets you over the hump?",
+      "sha256": "55170458e247c9390752436f30ffde0177df134ec9f819412e39e5f7329e9dab",
+      "zh": "这项公告之后，民调略微向你倾斜。这会不会正是让你跨过难关的转机？",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2605@70/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2606@71/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2605@74/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2606@75/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2605@68/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2606@69/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2605@64/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2606@65/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2605@67/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2606@68/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Everyone who saw it agrees that your final rally was truly an epic sight to behold!",
+      "sha256": "91a863051d151648d7231e7b2366b55cf64f5e8cc3d75ab35ad0e5f8f65ce8f8",
+      "zh": "所有看过的人都同意，你最后一场集会的场面确实蔚为壮观！",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2607@72/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2608@73/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2609@74/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2610@75/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2607@76/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2608@77/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2609@78/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2610@79/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2607@70/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2608@71/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2609@72/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2610@73/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2607@66/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2608@67/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2609@68/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2610@69/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2607@69/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2608@70/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2609@71/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2610@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "The level of Mike Pence's social conservatism is certainly more than most Americans are familiar with.",
+      "sha256": "a37e640ab6f47cf662aaf71faf308d2abc2b8f995bed47ee3fb7a156c850666f",
+      "zh": "迈克·彭斯在社会议题上的保守程度，确实超出了大多数美国人所熟悉的范围。",
+      "keys": [
+        "2016_Trump_Pence/answer_feedback_json/2611@76/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2612@77/answer_feedback",
+        "2016_Trump_Pence/answer_feedback_json/2613@78/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

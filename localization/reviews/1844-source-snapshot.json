@@ -1,0 +1,2535 @@
+[
+  {
+    "source": "This is probably your best option.",
+    "zh": "这可能是您最好的选择。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2090@45/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2090@42/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2090@37/answer_feedback",
+      "2016a_Clinton_Brown/answer_feedback_json/2090@35/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1723@75/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1723@81/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's nothing wrong with this response.",
+    "zh": "这个回应没有任何问题。",
+    "keys": [
+      "1988_Bush_Kemp/answer_feedback_json/1972@0/answer_feedback",
+      "1988_Bush_Kemp/answer_feedback_json/1970@55/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1972@0/answer_feedback",
+      "1988_Dukakis_Glenn/answer_feedback_json/1970@53/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1693@56/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1694@57/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1693@54/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1694@55/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1693@56/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1694@57/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "You are known as a supporter of annexation on the Texas front. Do you have anything you would like to add, now that you have been nominated?",
+    "zh": "您被认为是得克萨斯州阵线的吞并支持者。既然您已被提名，您还有什么要补充的吗？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/610@0/description",
+      "1844_Polk_Woodbury/questions_json/610@0/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What points will emphasize in your acceptance letter, as you accept the Democratic nomination for President?",
+    "zh": "当您接受民主党总统提名时，您的录取信中会强调哪些要点？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/609@1/description",
+      "1844_Polk_Woodbury/questions_json/609@1/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "John Tyler is pleased with your position on the Texas issue, and is prepared to withdraw his candidacy. Can you give him assurances that certain appointees of his will be safe in their positions, should you be elected?",
+    "zh": "约翰·泰勒对您在得克萨斯州问题上的立场感到满意，并准备撤回其候选资格。如果你当选，你能否向他保证，他任命的某些人将安全地担任他们的职务？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/611@2/description",
+      "1844_Polk_Woodbury/questions_json/611@2/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What is your current position on the banking system?",
+    "zh": "您目前在银行系统中的立场是什么？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/638@3/description",
+      "1844_Polk_Woodbury/questions_json/638@4/description",
+      "1844_Clay_Frelinghuysen/questions_json/638@7/description",
+      "1844_Clay_Sergeant/questions_json/638@6/description",
+      "1844_Clay_Fillmore/questions_json/638@6/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you support an Amendment that would limit the President to a single term in office?",
+    "zh": "您是否支持限制总统任期的修正案？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/639@4/description",
+      "1844_Polk_Woodbury/questions_json/639@6/description",
+      "1844_Clay_Frelinghuysen/questions_json/639@6/description",
+      "1844_Clay_Sergeant/questions_json/639@5/description",
+      "1844_Clay_Fillmore/questions_json/639@4/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you believe that some revenue should be set aside from our tariffs to finance internal improvements, such as canals and roads?",
+    "zh": "您是否认为应该从我们的关税中留出一些收入来资助国内公共基础设施的改善，例如运河和道路？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/637@5/description",
+      "1844_Polk_Woodbury/questions_json/637@3/description",
+      "1844_Clay_Frelinghuysen/questions_json/637@5/description",
+      "1844_Clay_Sergeant/questions_json/637@4/description",
+      "1844_Clay_Fillmore/questions_json/637@5/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What should your party's position be on the Tariff of 1842, which increased tariffs?",
+    "zh": "对于提高关税的 1842 年关税，您的政党应该持什么立场？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/636@6/description",
+      "1844_Polk_Woodbury/questions_json/636@5/description",
+      "1844_Clay_Frelinghuysen/questions_json/636@4/description",
+      "1844_Clay_Sergeant/questions_json/636@7/description",
+      "1844_Clay_Fillmore/questions_json/636@3/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Would you support the annexation of Texas, even without an agreement with Mexico, and a possible war?",
+    "zh": "即使没有与墨西哥达成协议，并且可能发生战争，您是否会支持吞并得克萨斯州？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/622@7/description",
+      "1844_Polk_Woodbury/questions_json/622@10/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Should your party attack Henry Clay's personal conduct? His gambling, womanizing, dueling, and generally irreligious nature?",
+    "zh": "你的政党应该攻击亨利·克莱的个人行为吗？他的赌博、沉迷于女色、决斗以及普遍不信宗教的天性？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/618@8/description",
+      "1844_Polk_Woodbury/questions_json/618@12/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you have any statement on the presence of Theodore Frelinghuysen on the Whig ticket, and his association with known anti-Catholic agitators?",
+    "zh": "对于辉格党人票上的西奥多·弗里林海森的存在以及他与已知的反天主教煽动者的关系，您有任何声明吗？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/615@9/description",
+      "1844_Polk_Woodbury/questions_json/615@16/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Silas Wright, the protege and successor to Van Buren, has been mentioned as a candidate for Governor of New York. He seems hesitant. Will you write him a letter imploring him to enter the race?",
+    "zh": "塞拉斯赖特，范布伦的门徒和继任者，已被提及为纽约州州长的候选人。他似乎有些犹豫。你会给他写一封信恳求他参加竞选吗？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/619@10/description",
+      "1844_Polk_Woodbury/questions_json/619@17/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Henry Clay supports the idea that the federal government should purchase the telegraph patent and manage the technology. To what extent should you attack him on this?",
+    "zh": "亨利·克莱支持联邦政府应该购买电报专利并管理该技术的想法。你应该在多大程度上攻击他？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/617@11/description",
+      "1844_Polk_Woodbury/questions_json/617@8/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you believe that any Southern Whig can call themselves a supporter of slavery, so long as Henry Clay equivocates on the Texas issue?",
+    "zh": "您是否认为只要亨利·克莱在得克萨斯州问题上模棱两可，任何南方人辉格党人都可以称自己为奴隶制支持者？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/614@12/description",
+      "1844_Polk_Woodbury/questions_json/614@14/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Cassius Clay, a cousin of Henry Clay, has published a letter stating Henry Clay is in accord with the abolitionist movement. Should your party disseminate copies of this letter as an attack?",
+    "zh": "卡修斯·克莱，亨利·克莱的表弟，发表了一封信，声明亨利·克莱与废奴运动一致。你的政党是否应该传播这封信的副本作为攻击？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/613@14/description",
+      "1844_Polk_Woodbury/questions_json/613@9/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There have recently been riots and armed clashes between nativists and Irish immigrants in Philadelphia and elsewhere. Do you have any plans to condemn the nativist violence in these episodes?",
+    "zh": "最近在费城和其他地方发生了本土主义者和爱尔兰移民之间的骚乱和武装冲突。您有计划谴责这些剧集中的本土主义暴力吗？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/620@15/description",
+      "1844_Polk_Woodbury/questions_json/620@13/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What do you make of Martin Van Buren's 1842 visit to Henry Clay's estate? Is Clay too friendly with Northern interests?",
+    "zh": "您对马丁·范布伦 1842 年访问亨利·克莱庄园有何看法？克莱对北方利益是否过于友好？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/621@16/description",
+      "1844_Polk_Woodbury/questions_json/621@15/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you agree with Robert Walker's letter, arguing that that slavery issue will be diluted by national expansion?",
+    "zh": "您是否同意罗伯特沃克的信，认为奴隶制问题将因国家扩张而淡化？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/646@17/description",
+      "1844_Clay_Sergeant/questions_json/646@17/description",
+      "1844_Clay_Fillmore/questions_json/646@17/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Regardless of your personal feelings, would you sign an act which established an independent Treasury for the government's funds?",
+    "zh": "无论您个人的感受如何，您是否会签署一项为政府资金建立独立国库的法案？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/648@19/description",
+      "1844_Clay_Frelinghuysen/questions_json/648@23/description",
+      "1844_Clay_Fillmore/questions_json/648@18/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you support any effort to establish a unified, national currency?",
+    "zh": "您是否支持建立统一的国家货币的努力？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/645@20/description",
+      "1844_Polk_Woodbury/questions_json/645@22/description",
+      "1844_Clay_Frelinghuysen/questions_json/645@22/description",
+      "1844_Clay_Sergeant/questions_json/645@16/description",
+      "1844_Clay_Fillmore/questions_json/645@16/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you support any changes to our current naturalization laws?",
+    "zh": "您支持对我们现行的入籍法进行任何修改吗？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/644@21/description",
+      "1844_Clay_Sergeant/questions_json/644@18/description",
+      "1844_Clay_Fillmore/questions_json/644@19/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Would you sign a law that lowered tariffs below the level needed to protect American industry from foreign imports?",
+    "zh": "您会签署一项将关税降低到保护美国工业免受外国进口影响所需水平以下的法律吗？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/642@22/description",
+      "1844_Polk_Woodbury/questions_json/642@23/description",
+      "1844_Clay_Frelinghuysen/questions_json/642@20/description",
+      "1844_Clay_Fillmore/questions_json/642@23/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Aside from the issue of Texas, do you support the expansion of the United States in general? Into Oregon, other parts of Mexico, Cuba, etc.?",
+    "zh": "除了得克萨斯州问题之外，您总体上支持美国的扩张吗？进入俄勒冈州、墨西哥、古巴等其他地区？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/641@23/description",
+      "1844_Polk_Woodbury/questions_json/641@21/description",
+      "1844_Clay_Frelinghuysen/questions_json/641@16/description",
+      "1844_Clay_Sergeant/questions_json/641@23/description",
+      "1844_Clay_Fillmore/questions_json/641@15/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Is there a particular state where your party should concentrate its resources and most talented speakers as the election draws near?",
+    "zh": "随着选举临近，您的政党是否应该在某个特定州集中其资源和最有才华的演讲者？",
+    "keys": [
+      "1844_Polk_Dallas/questions_json/651@24/description",
+      "1844_Polk_Woodbury/questions_json/651@24/description",
+      "1844_Clay_Frelinghuysen/questions_json/651@24/description",
+      "1844_Clay_Sergeant/questions_json/651@24/description",
+      "1844_Clay_Fillmore/questions_json/651@24/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I will open with a full-throated defense of the annexation of Texas. I will also express my support for our current banking system, and for large reductions to our tariff rate.",
+    "zh": "我将以对得克萨斯州吞并的全力辩护作为开场。我还将表达对我们当前银行体系以及大幅降低关税的支持。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4120@0/description",
+      "1844_Polk_Woodbury/answers_json/4120@0/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I will express my support for the annexation of Texas, and a favorable resolution to the Oregon situation. On other issues, we will continue Van Buren's efforts to establish an Independent Treasury, and will move to reduce tariffs.",
+    "zh": "我将表示支持吞并得克萨斯州，并对俄勒冈州局势提出有利的解决方案。在其他问题上，我们将继续范布伦建立独立国库的努力，并将采取行动降低关税。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4121@1/description",
+      "1844_Polk_Woodbury/answers_json/4121@1/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I will open with a defense of the annexation of Texas, and then spend the rest of the letter attacking Henry Clay and his obfuscations on the issue.",
+    "zh": "我将以对吞并得克萨斯州的辩护开始，然后用信的其余部分攻击亨利·克莱和他在这个问题上的混淆。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4122@2/description",
+      "1844_Polk_Woodbury/answers_json/4122@2/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "My position on Texas is known. I will explain my own background more carefully, and emphasize that the Democrats are a national party that fights for the benefit of all sections.",
+    "zh": "我在得克萨斯州上的立场是已知的。我会更仔细地解释我自己的背景，并强调民主党是一个为各阶层利益而战的全国性政党。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4123@3/description",
+      "1844_Polk_Woodbury/answers_json/4123@3/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We must annex Texas immediately.",
+    "zh": "我们必须立即附上得克萨斯州。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4124@4/description",
+      "1844_Polk_Woodbury/answers_json/4124@4/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We must annex Texas as soon as practicable.",
+    "zh": "我们必须尽快附上得克萨斯州。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4125@5/description",
+      "1844_Polk_Woodbury/answers_json/4125@5/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I obtained my nomination based on the Texas issue, and people know that. We need to pivot now, and make the case for other parts of our platform.",
+    "zh": "我根据得克萨斯州问题获得了提名，人们都知道这一点。我们现在需要调整方向，并为我们政治纲领的其他部分提供支持。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4126@6/description",
+      "1844_Polk_Woodbury/answers_json/4126@6/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "John Tyler lacks any broad base of support. It's more important to reserve these appointments for loyal Democrats.",
+    "zh": "约翰·泰勒缺乏广泛的支持基础。更重要的是为忠诚的民主党人保留这些任命。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4127@7/description",
+      "1844_Polk_Woodbury/answers_json/4127@7/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Getting Tyler out of the race is worth it. He can send us a reasonable list of people who will stay on when we're elected.",
+    "zh": "让泰勒退出竞选是值得的。他可以向我们发送一份合理的名单，列出我们当选后将继续留任的人员名单。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4128@8/description",
+      "1844_Polk_Woodbury/answers_json/4128@8/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "That seems like a pretty obvious move to me. The Whigs have always had trouble finessing this issue.",
+    "zh": "对我来说，这似乎是一个非常明显的举动。辉格党人一直难以解决这个问题。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4130@9/description",
+      "1844_Polk_Woodbury/answers_json/4130@10/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Let's not appear too hasty here. We need to run as a national party and avoid alienating Northerners.",
+    "zh": "我们不要显得太仓促。我们需要作为一个全国性政党参选，避免疏远北方人。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4131@10/description",
+      "1844_Polk_Woodbury/answers_json/4131@11/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We have the upper-hand here, and we need to hammer the Southern Whigs on their allegiance to a party that is drifting towards increasingly radical positions.",
+    "zh": "我们在这里占据上风，我们需要打击南方辉格党人，让他们忠于一个日益激进立场的政党。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4132@11/description",
+      "1844_Polk_Woodbury/answers_json/4132@12/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Mr. Clay has certainly shown unusual reticence on the Texas issue, but many Southern Whigs are perfectly fine people.",
+    "zh": "克莱先生在得克萨斯州问题上确实表现出了不同寻常的沉默，但许多南方人辉格党人都是非常好的人。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4133@12/description",
+      "1844_Polk_Woodbury/answers_json/4133@13/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We don't really need to address this question one way or the other. Let's just run our campaign and get our own views out.",
+    "zh": "我们确实不需要以某种方式解决这个问题。让我们开展我们的活动并表达我们自己的观点。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4134@13/description",
+      "1844_Polk_Woodbury/answers_json/4134@14/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The Democratic Party is a friend of the working-class, and of immigrants from abroad. We denounce the vile bigotry of the Whig Party, as evidenced by Frelinghuysen.",
+    "zh": "民主党是工人阶级和海外移民的朋友。我们谴责辉格党的邪恶偏执，正如弗里林海森所证明的那样。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4135@14/description",
+      "1844_Polk_Woodbury/answers_json/4135@15/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We won't have much to say about Frelinghuysen. He seems to avoided the vices which have plagued Henry Clay throughout his life.",
+    "zh": "关于弗里林海森我们没有太多可说的。他似乎避免了困扰亨利·克莱一生的恶习。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4136@15/description",
+      "1844_Polk_Woodbury/answers_json/4136@16/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I am a personal friend of Andrew Jackson, and have repeatedly taken advice from him throughout my political career. I'm proud of this and I believe it to be an asset in this campaign.",
+    "zh": "我是安德鲁·杰克逊的私人朋友，在我的政治生涯中多次听取他的建议。我对此感到自豪，我相信它是这次竞选的一笔财富。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4137@16/description",
+      "1844_Polk_Woodbury/answers_json/4137@17/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's no need to talk about Andrew Jackson at this point. Let's focus on Texas and other issues of our current time, rather than rehashing the battles of a decade ago.",
+    "zh": "此时无需讨论安德鲁·杰克逊。让我们关注得克萨斯州和当前时代的其他问题，而不是重述十年前的战斗。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4138@17/description",
+      "1844_Polk_Woodbury/answers_json/4138@18/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We don't need to do anything so crazy as to denounce Andrew Jackson, but I think on the banking issue or the tariff issue, my positions are significantly different than what he advocated for.",
+    "zh": "我们不需要做任何疯狂的事情来谴责安德鲁·杰克逊，但我认为在银行问题或关税问题上，我的立场与他主张的立场有很大不同。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4139@18/description",
+      "1844_Polk_Woodbury/answers_json/4139@19/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This sounds like the most ridiculous idea yet from Mr. Clay's long public career. I trust that enterprising individuals and companies will develop this technology.",
+    "zh": "这听起来像是克莱先生漫长的公共职业生涯中最荒谬的想法。我相信有进取心的个人和公司将会开发这项技术。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4140@19/description",
+      "1844_Polk_Woodbury/answers_json/4140@20/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We don't need to hammer on the internal improvements issue. We have other things to talk about which will better unite the party.",
+    "zh": "我们不需要过多讨论国内公共基础设施改善问题。我们还有其他事情要谈，这将更好地团结党。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4141@20/description",
+      "1844_Polk_Woodbury/answers_json/4141@21/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We can emphasize in my own biography that I have led an upright life, without any taint to my personal conduct.",
+    "zh": "我们可以在我自己的传记中强调，我一直过着正直的生活，没有任何个人品行的污点。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4142@21/description",
+      "1844_Polk_Woodbury/answers_json/4142@22/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The passions of these times seem to be towards someone who is more righteous in their behavior. We should attack Clay's conduct, and especially in the Northeast.",
+    "zh": "这个时代的热情似乎是针对那些行为更加正义的人。我们应该攻击克莱的行为，尤其是在东北地区。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4143@22/description",
+      "1844_Polk_Woodbury/answers_json/4143@23/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I don't think that personal conduct is a good issue to bring into this campaign.",
+    "zh": "我认为个人行为不是一个适合纳入此次竞选活动的好问题。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4144@23/description",
+      "1844_Polk_Woodbury/answers_json/4144@24/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is an issue of state politics that I will stay removed from.",
+    "zh": "这是一个我将远离的国家政治问题。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4145@24/description",
+      "1844_Polk_Woodbury/answers_json/4145@25/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I will put my word in as a supporter of Silas Wright.",
+    "zh": "我会以塞拉斯的支持者的身份做出承诺赖特。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4146@25/description",
+      "1844_Polk_Woodbury/answers_json/4146@26/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Only a very limited amount, for the most compelling projects. Otherwise the tariff should be for revenue purposes only.",
+    "zh": "对于最引人注目的项目来说，数量非常有限。否则，关税应仅用于收入目的。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4193@26/description",
+      "1844_Polk_Woodbury/answers_json/4193@27/description",
+      "1844_Clay_Frelinghuysen/answers_json/4193@0/description",
+      "1844_Clay_Sergeant/answers_json/4193@0/description",
+      "1844_Clay_Fillmore/answers_json/4193@0/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The Whig Party attempts to stand apart from these nativist mobs, yet their own candidate for Vice President has associated with virulent anti-Catholics.",
+    "zh": "辉格党试图与这些本土主义暴民区分开来，但他们自己的副总统候选人却与恶毒的反天主教徒有联系。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4147@27/description",
+      "1844_Polk_Woodbury/answers_json/4147@28/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I don't want to address civil disorder directly, but we should be clear that we oppose any changes to our naturalization laws.",
+    "zh": "我不想直接解决内乱问题，但我们应该明确表示，我们反对对入籍法进行任何修改。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4148@28/description",
+      "1844_Polk_Woodbury/answers_json/4148@29/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Our national party should avoid addressing this issue.",
+    "zh": "我们的国家党应该避免讨论这个问题。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4149@29/description",
+      "1844_Polk_Woodbury/answers_json/4149@30/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This incident was a source of insinuation against Van Buren during the nomination battle. In the main election, however, we shouldn't mention anything that could cause a rift in the party.",
+    "zh": "此事件是提名战期间影射范布伦的根源。然而，在主要选举中，我们不应该提及任何可能导致党内分裂的事情。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4150@30/description",
+      "1844_Polk_Woodbury/answers_json/4150@31/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The prospect of war with a backwards country such as Mexico should play no part in our calculations.",
+    "zh": "与墨西哥等落后国家发生战争的前景不应在我们的计算中发挥作用。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4152@32/description",
+      "1844_Polk_Woodbury/answers_json/4152@33/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would hope that we could negotiate an annexation with Mexico before moving forward, to avoid any diplomatic incidents.",
+    "zh": "我希望我们能够在继续之前与墨西哥就吞并事宜进行谈判，以避免发生任何外交事件。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4153@33/description",
+      "1844_Polk_Woodbury/answers_json/4153@34/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We stand steadfast in support of this tariff. It is one of the few positive accomplishments of Mr. Tyler's so-called Presidency.",
+    "zh": "我们坚定支持这项关税。这是泰勒先生所谓的总统任期内为数不多的积极成就之一。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4188@34/description",
+      "1844_Polk_Woodbury/answers_json/4188@35/description",
+      "1844_Clay_Frelinghuysen/answers_json/4188@33/description",
+      "1844_Clay_Sergeant/answers_json/4188@32/description",
+      "1844_Clay_Fillmore/answers_json/4188@30/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The primary purpose of our tariffs should be revenue. But should a small amount of protection <em>incidentally</em> occur from our tariff policy, that is acceptable.",
+    "zh": "我们关税的主要目的应该是收入。但应该少量保护 <em>顺便说一句</em> 发生在我们的关税政策中，这是可以接受的。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4189@35/description",
+      "1844_Polk_Woodbury/answers_json/4189@36/description",
+      "1844_Clay_Frelinghuysen/answers_json/4189@34/description",
+      "1844_Clay_Sergeant/answers_json/4189@33/description",
+      "1844_Clay_Fillmore/answers_json/4189@31/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We should avoid taking a strong position on this tariff. There are men in our party who stand on both sides of the issue.",
+    "zh": "我们应该避免对此关税采取强硬立场。我们党内有些人在这个问题上持两面立场。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4190@36/description",
+      "1844_Polk_Woodbury/answers_json/4190@37/description",
+      "1844_Clay_Frelinghuysen/answers_json/4190@35/description",
+      "1844_Clay_Sergeant/answers_json/4190@34/description",
+      "1844_Clay_Fillmore/answers_json/4190@32/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We must rescind this tariff and replace it with something much lower. I support free trade and low tariffs.",
+    "zh": "我们必须废除这项关税并以更低的价格取而代之。我支持自由贸易和低关税。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4191@37/description",
+      "1844_Polk_Woodbury/answers_json/4191@38/description",
+      "1844_Clay_Frelinghuysen/answers_json/4191@36/description",
+      "1844_Clay_Sergeant/answers_json/4191@35/description",
+      "1844_Clay_Fillmore/answers_json/4191@33/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is one of the key objectives of our current tariff policy, and I would support a strong infrastructure program as President.",
+    "zh": "这是我们当前关税政策的关键目标之一，作为总统我将支持强有力的基础设施计划。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4192@38/description",
+      "1844_Polk_Woodbury/answers_json/4192@39/description",
+      "1844_Clay_Frelinghuysen/answers_json/4192@37/description",
+      "1844_Clay_Sergeant/answers_json/4192@36/description",
+      "1844_Clay_Fillmore/answers_json/4192@34/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I don't believe that it is constitutional or advisable for the federal government to undertake an internal improvements program.",
+    "zh": "我认为联邦政府实施国内公共基础设施改善计划不符合宪法或不明智。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4194@39/description",
+      "1844_Polk_Woodbury/answers_json/4194@40/description",
+      "1844_Clay_Frelinghuysen/answers_json/4194@38/description",
+      "1844_Clay_Sergeant/answers_json/4194@37/description",
+      "1844_Clay_Fillmore/answers_json/4194@35/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I stand for a national bank, broadly similar to the late Second Bank of the United States.",
+    "zh": "我代表国家银行，与已故的美国第二银行大致相似。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4195@40/description",
+      "1844_Polk_Woodbury/answers_json/4195@41/description",
+      "1844_Clay_Frelinghuysen/answers_json/4195@39/description",
+      "1844_Clay_Sergeant/answers_json/4195@38/description",
+      "1844_Clay_Fillmore/answers_json/4195@36/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I stand for a national bank or an independent Treasury -- whichever can gain the most support. I would require any national bank to maintain a branch in every state.",
+    "zh": "我代表国家银行或独立国库——哪个能获得最多的支持。我会要求任何国家银行在每个州都设立分行。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4196@41/description",
+      "1844_Polk_Woodbury/answers_json/4196@42/description",
+      "1844_Clay_Frelinghuysen/answers_json/4196@40/description",
+      "1844_Clay_Sergeant/answers_json/4196@39/description",
+      "1844_Clay_Fillmore/answers_json/4196@37/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I will never support a national bank, but I do advocate an independent Treasury, so that federal funds won't be tied up in local speculations.",
+    "zh": "我永远不会支持国家银行，但我确实提倡独立国库，这样联邦资金就不会被当地的投机所束缚。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4197@42/description",
+      "1844_Polk_Woodbury/answers_json/4197@43/description",
+      "1844_Clay_Frelinghuysen/answers_json/4197@41/description",
+      "1844_Clay_Sergeant/answers_json/4197@40/description",
+      "1844_Clay_Fillmore/answers_json/4197@38/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I support our current free banking system, and I see no need for the Treasury to insulate its operations from the state-chartered banks.",
+    "zh": "我支持我们当前的自由银行体系，并且我认为财政部没有必要将其业务与国家特许银行隔离。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4198@43/description",
+      "1844_Polk_Woodbury/answers_json/4198@44/description",
+      "1844_Clay_Frelinghuysen/answers_json/4198@42/description",
+      "1844_Clay_Sergeant/answers_json/4198@41/description",
+      "1844_Clay_Fillmore/answers_json/4198@39/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a necessary step against the overreach and abuse of power of the Executive branch.",
+    "zh": "这是防止行政部门越权和滥用权力的必要步骤。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4199@44/description",
+      "1844_Polk_Woodbury/answers_json/4199@45/description",
+      "1844_Clay_Frelinghuysen/answers_json/4199@43/description",
+      "1844_Clay_Sergeant/answers_json/4199@42/description",
+      "1844_Clay_Fillmore/answers_json/4199@40/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I don't support an Amendment on this issue, but I will personally promise not to run for reelection.",
+    "zh": "我不支持就此问题进行修正案，但我个人承诺不会竞选连任。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4200@45/description",
+      "1844_Polk_Woodbury/answers_json/4200@46/description",
+      "1844_Clay_Frelinghuysen/answers_json/4200@44/description",
+      "1844_Clay_Sergeant/answers_json/4200@43/description",
+      "1844_Clay_Fillmore/answers_json/4200@41/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I don't think that this is a necessary step, at this time.",
+    "zh": "我认为目前这不是必要的步骤。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4201@46/description",
+      "1844_Polk_Woodbury/answers_json/4201@47/description",
+      "1844_Clay_Frelinghuysen/answers_json/4201@45/description",
+      "1844_Clay_Sergeant/answers_json/4201@44/description",
+      "1844_Clay_Fillmore/answers_json/4201@42/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I am against the annexation of Texas. And just to show that this does derive from sectional prejudice, I am also against expansion into Oregon or other regions.",
+    "zh": "我反对吞并得克萨斯州。为了表明这确实源于局部偏见，我也反对扩展到俄勒冈州或其他地区。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4205@47/description",
+      "1844_Polk_Woodbury/answers_json/4205@48/description",
+      "1844_Clay_Frelinghuysen/answers_json/4205@49/description",
+      "1844_Clay_Sergeant/answers_json/4205@48/description",
+      "1844_Clay_Fillmore/answers_json/4205@46/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I believe that the United States, in line with the “Manifest Destiny” ideal, should expand wherever feasible.",
+    "zh": "我认为，美国应该根据“昭昭天命”理想，在可行的情况下进行扩张。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4206@48/description",
+      "1844_Polk_Woodbury/answers_json/4206@49/description",
+      "1844_Clay_Frelinghuysen/answers_json/4206@50/description",
+      "1844_Clay_Sergeant/answers_json/4206@49/description",
+      "1844_Clay_Fillmore/answers_json/4206@47/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would be forced to veto such a measure as President.",
+    "zh": "作为总统，我将被迫否决这样的措施。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4207@49/description",
+      "1844_Polk_Woodbury/answers_json/4207@50/description",
+      "1844_Clay_Frelinghuysen/answers_json/4207@51/description",
+      "1844_Clay_Fillmore/answers_json/4207@48/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Regardless of my personal feelings, it is not the place of the President to override the will of Congress, unless the law in question is unconstitutional.",
+    "zh": "不管我个人的感受如何，总统无权凌驾于国会的意愿之上，除非相关法律违宪。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4208@50/description",
+      "1844_Polk_Woodbury/answers_json/4208@51/description",
+      "1844_Clay_Frelinghuysen/answers_json/4208@52/description",
+      "1844_Clay_Fillmore/answers_json/4208@49/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would gladly sign such a bill into law.",
+    "zh": "我很乐意将这样的法案签署为法律。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4209@51/description",
+      "1844_Polk_Woodbury/answers_json/4209@52/description",
+      "1844_Clay_Frelinghuysen/answers_json/4209@53/description",
+      "1844_Clay_Fillmore/answers_json/4209@50/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I support our current naturalization laws as they stand.",
+    "zh": "我支持我们现行的入籍法。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4213@52/description",
+      "1844_Clay_Sergeant/answers_json/4213@53/description",
+      "1844_Clay_Fillmore/answers_json/4213@51/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Only some very minor changes, like increasing the waiting period before new citizens may vote.",
+    "zh": "只有一些非常小的变化，例如增加新公民投票前的等待时间。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4214@53/description",
+      "1844_Clay_Sergeant/answers_json/4214@54/description",
+      "1844_Clay_Fillmore/answers_json/4214@52/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Our current laws are in need of great revision, in light of the troubles we have had with recent immigrants.",
+    "zh": "鉴于我们在新移民方面遇到的麻烦，我们现行的法律需要进行重大修改。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4215@54/description",
+      "1844_Clay_Sergeant/answers_json/4215@55/description",
+      "1844_Clay_Fillmore/answers_json/4215@53/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I support a national bank, and one clear argument for the bank is the total chaos we've had with our currency since 1837.",
+    "zh": "我支持建立国家银行，支持该银行的一个明确论点是自 1837 年以来我们的货币陷入了彻底的混乱。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4216@55/description",
+      "1844_Polk_Woodbury/answers_json/4216@56/description",
+      "1844_Clay_Frelinghuysen/answers_json/4216@54/description",
+      "1844_Clay_Sergeant/answers_json/4216@56/description",
+      "1844_Clay_Fillmore/answers_json/4216@54/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Only if we could establish one without chartering a new national bank.",
+    "zh": "除非我们能够在不成立新的国家银行的情况下建立一家银行。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4217@56/description",
+      "1844_Polk_Woodbury/answers_json/4217@57/description",
+      "1844_Clay_Frelinghuysen/answers_json/4217@55/description",
+      "1844_Clay_Sergeant/answers_json/4217@57/description",
+      "1844_Clay_Fillmore/answers_json/4217@55/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I support an independent Treasury, but not one that would disseminate a national currency.",
+    "zh": "我支持独立国库，但不支持传播本国货币的货币。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4218@57/description",
+      "1844_Polk_Woodbury/answers_json/4218@58/description",
+      "1844_Clay_Frelinghuysen/answers_json/4218@56/description",
+      "1844_Clay_Sergeant/answers_json/4218@58/description",
+      "1844_Clay_Fillmore/answers_json/4218@56/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Our current system is more democratic than any alternative that could be devised. Let the private banks issue currency in line with their own strength and prosperity.",
+    "zh": "我们当前的制度比任何可以设计的替代方案都更加民主。让私人银行发行符合自身实力和繁荣程度的货币。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4219@58/description",
+      "1844_Polk_Woodbury/answers_json/4219@59/description",
+      "1844_Clay_Frelinghuysen/answers_json/4219@57/description",
+      "1844_Clay_Sergeant/answers_json/4219@59/description",
+      "1844_Clay_Fillmore/answers_json/4219@57/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I believe this letter to be disingenuous at best. Further expansion will reopen the debate on slavery rather than suppress it.",
+    "zh": "我认为这封信充其量是不诚实的。进一步扩大将重新开启关于奴隶制的辩论，而不是压制它。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4220@59/description",
+      "1844_Clay_Sergeant/answers_json/4220@60/description",
+      "1844_Clay_Fillmore/answers_json/4220@58/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We won't address Mr. Walker's letter directly, but we are in favor of annexation.",
+    "zh": "我们不会直接处理沃克先生的信，但我们赞成合并。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4221@60/description",
+      "1844_Clay_Sergeant/answers_json/4221@61/description",
+      "1844_Clay_Fillmore/answers_json/4221@59/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The independent Treasury is a halfway measure, designed to cover for the disaster that was the war against the Second Bank of the United States.",
+    "zh": "独立国库是一项折衷措施，旨在弥补针对美国第二银行的战争所造成的灾难。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4224@61/description",
+      "1844_Clay_Frelinghuysen/answers_json/4224@60/description",
+      "1844_Clay_Fillmore/answers_json/4224@60/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would prefer a national bank, but I would be willing to sign a bill which created an independent Treasury.",
+    "zh": "我更喜欢国家银行，但我愿意签署一项创建独立国库的法案。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4225@62/description",
+      "1844_Clay_Frelinghuysen/answers_json/4225@61/description",
+      "1844_Clay_Fillmore/answers_json/4225@61/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The creation of an independent Treasury will be one of the key initiatives of my Presidency.",
+    "zh": "创建独立国库将是我担任总统期间的关键举措之一。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4226@63/description",
+      "1844_Clay_Frelinghuysen/answers_json/4226@62/description",
+      "1844_Clay_Fillmore/answers_json/4226@62/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I support our current banking system, and would not support any ill-conceived attempts to centralize our finances.",
+    "zh": "我支持我们当前的银行体系，并且不会支持任何考虑不周的集中我们财务的尝试。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4227@64/description",
+      "1844_Clay_Frelinghuysen/answers_json/4227@63/description",
+      "1844_Clay_Fillmore/answers_json/4227@63/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Regardless of our personal feelings, it always concerning when a religious leader and Presidential candidate can simply be killed by a mob.",
+    "zh": "无论我们个人的感受如何，当宗教领袖和总统候选人被暴徒杀害时，这总是令人担忧。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4231@65/description",
+      "1844_Polk_Woodbury/answers_json/4231@62/description",
+      "1844_Clay_Frelinghuysen/answers_json/4231@67/description",
+      "1844_Clay_Sergeant/answers_json/4231@65/description",
+      "1844_Clay_Fillmore/answers_json/4231@67/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is not an issue that we plan to address in our campaign.",
+    "zh": "这不是我们计划在活动中解决的问题。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4232@66/description",
+      "1844_Polk_Woodbury/answers_json/4232@63/description",
+      "1844_Clay_Frelinghuysen/answers_json/4232@68/description",
+      "1844_Clay_Sergeant/answers_json/4232@66/description",
+      "1844_Clay_Fillmore/answers_json/4232@68/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Oregon is a different issue than that of Texas. In Oregon we have an existing, legitimate claim.",
+    "zh": "俄勒冈州是一个与得克萨斯州不同的问题。在俄勒冈州中，我们有一个现有的、合法的主张。",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4237@70/description",
+      "1844_Polk_Woodbury/answers_json/4237@67/description",
+      "1844_Clay_Frelinghuysen/answers_json/4237@72/description",
+      "1844_Clay_Sergeant/answers_json/4237@70/description",
+      "1844_Clay_Fillmore/answers_json/4237@72/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's nothing wrong with keeping the discussion focused on Texas.",
+    "zh": "将讨论集中在得克萨斯州上并没有什么问题。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1608@0/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1606@10/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1607@11/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1608@0/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1606@10/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1607@11/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Good luck in this crucial state.",
+    "zh": "祝你在这个关键状态好运。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1667@1/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1668@2/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1669@3/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1670@4/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1728@81/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1729@82/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1730@83/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1731@84/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1667@1/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1668@2/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1669@3/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1670@4/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1728@77/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1729@78/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1730@79/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1731@80/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1667@0/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1668@1/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1669@2/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1670@3/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1728@86/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1729@87/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1730@88/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1731@89/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1667@0/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1668@1/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1669@2/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1670@3/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1728@83/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1729@84/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1730@85/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1731@86/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1667@0/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1668@1/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1669@2/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1670@3/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1728@87/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1729@88/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1730@89/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1731@90/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a strange aside to take, but one that is unlikely to make much of an impression.",
+    "zh": "这是一个奇怪的旁白，但不太可能给人留下深刻的印象。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1671@5/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1671@5/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1671@4/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1671@4/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1671@4/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Texas is the issue that can reignite your chances this fall! But there a few whispers that your banking policy comes straight from 1832.",
+    "zh": "得克萨斯州这个问题可以在今年秋天重新点燃你的机会！但有一些传言称你们的银行政策直接来自 1832 年。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1602@6/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1602@6/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Texas is the issue that can reignite your chances this fall! Especially with the equivocation of Henry Clay.",
+    "zh": "得克萨斯州这个问题可以在今年秋天重新点燃你的机会！尤其是亨利·克莱的含糊其辞。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1603@7/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1603@7/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Texas is the issue that can reignite your chances this fall! Clay is certainly prone to attack on that front.",
+    "zh": "得克萨斯州这个问题可以在今年秋天重新点燃你的机会！克莱当然很容易在这方面发起攻击。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1604@8/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1604@8/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Your acceptance is well-received across the sections, but it can never hurt to hammer on the issues where your advantage is greatest.",
+    "zh": "你的接受在各个部分都很受欢迎，但在你最有优势的问题上进行讨论永远不会有坏处。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1605@9/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1605@9/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Loyal Democrats need all the patronage jobs they can get, but will your handling of the situation cost you any in Tyler's home state of Virginia?",
+    "zh": "忠诚的民主党人需要他们能得到的所有庇护工作，但你对这种情况的处理会让你在泰勒的家乡弗吉尼亚州州付出任何代价吗？",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1609@12/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1609@12/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Tyler has officially declared his withdrawal from the race. There are some whispers in the party about the jobs which may have come with that bargain, however. ",
+    "zh": "泰勒已正式宣布退出竞选。然而，党内有一些关于这笔交易可能带来的工作机会的传言。 ",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1610@13/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1610@13/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's no reason to hold back here -- Cassius Clay has put his cousin in a very awkward position.",
+    "zh": "没有理由在这里退缩——卡修斯·克莱已经把他的表弟置于一个非常尴尬的境地。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1612@14/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1613@15/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1612@15/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1613@16/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The slavery issue is increasingly becoming a problem for the Whigs of the South, and there's no reason to give them a pass on it.",
+    "zh": "奴隶制问题日益成为南方辉格党人的一个问题，没有理由让他们忽视这个问题。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1614@16/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1615@17/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1616@18/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1614@17/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1615@18/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1616@19/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The Irish vote in the North has gone heavily in your favor recently. It's a good idea to keep it that way.",
+    "zh": "爱尔兰北部的选票最近对你非常有利。保持这种状态是个好主意。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1617@19/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1625@27/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1626@28/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1627@29/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1617@20/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1625@28/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1626@29/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1627@30/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "A nice aside aimed at Clay, but you should show more vigor in defense of your Irish supporters.",
+    "zh": "针对克莱的一个很好的旁白，但你应该表现出更多的活力来捍卫你的爱尔兰支持者。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1618@20/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1618@21/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a simple decision -- anything you can do to emphasize your close relationship with Andrew Jackson is a net positive.",
+    "zh": "这是一个简单的决定——任何你能做的来强调你与安德鲁·杰克逊的密切关系都是积极的。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1619@21/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1620@22/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1621@23/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1619@22/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1620@23/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1621@24/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This isn't a central issue in this election, but you are definitely closer to the majority opinion here.",
+    "zh": "这不是这次选举的中心问题，但你绝对更接近大多数人的意见。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1622@24/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1622@25/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Your national supporters admire the fact that you are a man of integrity and will remain above the fray of local politics.",
+    "zh": "您的全国支持者钦佩您是一个正直的人，并且将置身于当地政治的纷争之外。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1623@25/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1623@26/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This will certainly galvanize the vote in New York.",
+    "zh": "这肯定会激发纽约州中的投票。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1624@26/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1624@27/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's no reason to say anything that will make life awkward for Van Buren. You need a united party.",
+    "zh": "没有理由说任何会让范布伦的生活变得尴尬的话。你需要一个团结的政党。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1628@30/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1628@31/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is definitely the majority opinion among the public.",
+    "zh": "这绝对是公众的大多数意见。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1629@31/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1629@32/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This puts you closer to Clay's position, and is a disappointment to the general public.",
+    "zh": "这让你更接近克莱的立场，但令公众感到失望。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1630@32/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1630@33/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This puts you outside of the party mainstream, to say the least. Hopefully it will help in a couple of the Northern states.",
+    "zh": "至少可以说，这让你脱离了派对主流。希望这会对北部的几个州有所帮助。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1631@33/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1631@34/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1631@5/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1631@5/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1631@5/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This answer satisfies the Southern wing of the party while providing some concession to Northern Democrats in states like New York.",
+    "zh": "这个答案满足了该党的南翼，同时为纽约州等州的北方民主党人提供了一些让步。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1632@34/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1636@38/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1632@35/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1636@39/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1632@6/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1636@10/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1632@6/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1636@10/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1632@6/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1636@10/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "While true, people are getting the idea that you are dancing around a hot issue.",
+    "zh": "虽然这是事实，但人们认为您正在围绕一个热门问题跳舞。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1633@35/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1633@36/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1633@7/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1633@7/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1633@7/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is certainly the party line on the tariff issue.",
+    "zh": "这当然是党在关税问题上的路线。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1634@36/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1637@39/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1634@37/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1637@40/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1634@8/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1637@11/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1634@8/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1637@11/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1634@8/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1637@11/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Support for a federal infrastructure program is quite limited within your party.",
+    "zh": "你们党内对联邦基础设施计划的支持相当有限。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1635@37/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1635@38/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1635@9/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1635@9/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1635@9/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Are you out of your mind? A national bank is anathema to the Democratic Party.",
+    "zh": "你疯了吗？国家银行是民主党所憎恶的。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1638@40/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1639@41/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1638@41/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1639@42/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1638@12/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1639@13/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1638@12/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1639@13/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1638@12/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1639@13/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The independent Treasury idea has broad support in the party, and also shows that Democrats are trying to do something after the 1837 crisis.",
+    "zh": "独立国库的想法在党内得到了广泛支持，也表明民主党在 1837 年危机之后正试图做点什么。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1640@42/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1640@43/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1640@14/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1640@14/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1640@14/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's nothing wrong with defending the current system, which is the Democratic system in large part.",
+    "zh": "捍卫现行制度并没有什么错，这在很大程度上是民主制度。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1641@43/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1641@44/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1641@15/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1641@15/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1641@15/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The problem is, this idea was clearly targeted at Andrew Jackson, and Democrats in general. You're really taking the Whig position here.",
+    "zh": "问题是，这个想法显然是针对安德鲁·杰克逊和整个民主党的。你确实在这里采取了辉格党人的立场。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1642@44/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1642@45/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1642@16/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1642@16/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1642@16/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a good way to finesse this issue. It has the added advantage, since you were a dark horse candidate, of uniting the factions of your party.",
+    "zh": "这是解决这个问题的好方法。由于你是黑马候选人，它还有一个额外的优势，那就是团结党内各派系。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1643@45/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1643@46/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1643@17/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1643@17/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1643@17/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is the party line, but after a bitter nomination fight, some are disappointed that your success would preempt their 1848 campaigns.",
+    "zh": "这是政党的路线，但经过激烈的提名争夺后，一些人对你的成功抢占了他们 1848 年竞选的先机感到失望。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1644@46/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1644@47/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1644@18/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1644@18/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1644@18/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "People are wondering if they are reading your words correctly. Annexation was supposed to be the primary issue of your campaign.",
+    "zh": "人们想知道他们是否正确地阅读了您的话。吞并应该是你们竞选活动的首要问题。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1648@47/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1648@48/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1651@51/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1648@22/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1648@22/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1651@24/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1648@22/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a dissatisfying answer to many in your party.",
+    "zh": "对于你们党内的许多人来说，这是一个不满意的答案。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1649@48/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1649@49/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1649@23/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1649@23/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is probably the best stance to take, particularly if you care to win a state like New York or Pennsylvania.",
+    "zh": "这可能是最好的立场，特别是如果您想赢得像纽约州或宾夕法尼亚州这样的州。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1652@49/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1652@25/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1652@24/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Immigration restriction is more of a Whig position, and it does you little good to advocate for it.",
+    "zh": "移民限制更多的是一个辉格党人立场，倡导它对你没有什么好处。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1653@50/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1653@26/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1653@25/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "A national bank is anathema to most Democrats.",
+    "zh": "国家银行对大多数民主党人来说都是令人厌恶的。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1654@51/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1660@56/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1654@52/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1654@24/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1660@29/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1654@27/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1654@26/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1660@31/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's nothing wrong with taking this position.",
+    "zh": "采取这个立场并没有什么问题。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1655@52/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1656@53/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1662@58/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1655@53/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1656@54/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1655@25/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1656@26/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1662@31/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1655@28/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1656@29/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1655@27/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1656@28/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1662@33/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Better to just ignore this letter.",
+    "zh": "最好忽略这封信。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1657@54/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1657@30/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1657@29/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What is the idea behind this outburst? The Bank War was, perhaps, Andrew Jackson's central initiative as President.",
+    "zh": "这次爆发背后的想法是什么？银行战争也许是安德鲁·杰克逊作为总统的核心倡议。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1659@55/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1659@28/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1659@30/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a good position to run a campaign on.",
+    "zh": "这是开展活动的好位置。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1661@57/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1661@30/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1661@32/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Are you trying to win the Mormon vote this year? This is one case where it's definitely best to keep your opinions private.",
+    "zh": "今年你想赢得摩门教投票吗？在这种情况下，最好将您的意见保密。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1666@59/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1727@80/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1666@56/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1727@76/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1666@35/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1727@85/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1666@34/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1727@82/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1666@37/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1727@86/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a little out of step with Whig ideology.",
+    "zh": "这与辉格党人意识形态有点不一致。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1699@60/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1700@61/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1701@62/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1702@63/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1703@64/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1705@66/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1706@67/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1699@57/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1700@58/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1701@59/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1702@60/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1703@61/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1705@63/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1706@64/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1699@62/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1700@63/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1701@64/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1702@65/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1703@66/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1705@68/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1706@69/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1699@60/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1700@61/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1701@62/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1702@63/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1703@64/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1705@66/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1706@67/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1699@62/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1700@63/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1701@64/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1702@65/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1703@66/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1705@68/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1706@69/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Many are surprised to hear you hedge your position on the bank issue.",
+    "zh": "许多人对您在银行问题上对冲头寸感到惊讶。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1704@65/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1704@62/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1704@67/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1704@65/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1704@67/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is in line with the opinion of many Whigs.",
+    "zh": "这与许多人辉格党人的观点一致。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1707@68/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1708@69/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1713@71/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1707@65/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1708@66/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1713@68/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1707@70/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1708@71/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1713@76/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1707@68/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1708@69/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1707@70/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1708@71/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1713@76/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The Whig Party supports a one-term limit for the President, with Jackson fresh in mind. Harrison pledged he would follow this guideline during his campaign....",
+    "zh": "辉格党支持总统任期限制，杰克逊记忆犹新。哈里森承诺他将在竞选期间遵循这一准则......",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1709@70/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1709@67/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1709@72/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1709@70/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1709@72/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What is the idea here? Henry Clay opposed to tariffs?",
+    "zh": "这里的想法是什么？亨利·克莱反对关税？",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1714@72/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1714@69/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1714@77/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1714@77/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Nativism appears to be on the rise, but you are probably better off, on the whole, taking a more moderate tack.",
+    "zh": "本土主义似乎正在兴起，但总体而言，采取更温和的策略可能会更好。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1717@73/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1682@46/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1717@76/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1717@78/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What's wrong with a national bank? Your supporters are concerned by this statement.",
+    "zh": "国家银行出了什么问题？你的支持者对这一声明感到担忧。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1718@74/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1718@72/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1718@78/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1718@77/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1718@79/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Henry Clay takes the Democratic line?",
+    "zh": "亨利·克莱采取民主党路线？",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1719@75/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1719@73/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1719@79/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1719@78/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1719@80/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Probably best to ignore this letter.",
+    "zh": "最好忽略这封信。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1720@76/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1721@77/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1720@79/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1721@80/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1720@81/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1721@82/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Supporters are surprised and upset to hear you take a new position on the bank issue.",
+    "zh": "听到您在银行问题上采取新立场，支持者感到惊讶和不安。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1724@78/answer_feedback",
+      "1844_Polk_Dallas/answer_feedback_json/1725@79/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1724@82/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1725@83/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1724@83/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1725@84/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a good way to rally Northern support.",
+    "zh": "这是争取北方支持的好方法。",
+    "keys": [
+      "1844_Polk_Dallas/answer_feedback_json/1732@85/answer_feedback",
+      "1844_Polk_Woodbury/answer_feedback_json/1732@81/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1726@84/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1732@90/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1726@81/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1732@87/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1726@85/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1732@91/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Can you elaborate on why your allies intervened so strongly on behalf of Levi Woodbury, to be your running mate?",
+    "zh": "你能详细说明为什么你的盟友代表利维·伍德伯里如此强烈地干预，成为你的竞选搭档吗？",
+    "keys": [
+      "1844_Polk_Woodbury/questions_json/612@7/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you have any statement to make on John Calhoun's “Packenham Letter”, stating slavery to be a positive blessing, and justifying the annexation of Texas as a pro-slavery move?",
+    "zh": "对于约翰卡尔霍恩的“帕克纳姆信”，您有什么要说的吗？他指出奴隶制是一种积极的祝福，并证明吞并得克萨斯州是支持奴隶制的举动？",
+    "keys": [
+      "1844_Polk_Woodbury/questions_json/643@18/description",
+      "1844_Clay_Sergeant/questions_json/643@21/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "After the unfortunate death of Abel Upshur in the <em>Princeton</em> explosion, John Calhoun succeeded him as Secretary of State. Was this a wise appointment by President Tyler?",
+    "zh": "在 Abel Upshur 不幸去世后 <em>普林斯顿</em> 爆炸，约翰卡尔霍恩接替他担任国务卿。这是总统泰勒的明智任命吗？",
+    "keys": [
+      "1844_Polk_Woodbury/questions_json/647@20/description",
+      "1844_Clay_Frelinghuysen/questions_json/647@18/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Mr. Woodbury was a critical part of Jackson and Van Buren's Cabinets, and he has the right viewpoint on the Treasury and tariff questions.",
+    "zh": "伍德伯里先生是杰克逊和范布伦内阁的重要组成部分，他在财政部和关税问题上有正确的观点。",
+    "keys": [
+      "1844_Polk_Woodbury/answers_json/4129@9/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would not go to the lengths of John Calhoun, but Texas would certainly help expand the market for slavery in our country.",
+    "zh": "我不会像约翰卡尔霍恩那样竭尽全力，但得克萨斯州肯定会有助于扩大我国奴隶制市场。",
+    "keys": [
+      "1844_Polk_Woodbury/answers_json/4210@53/description",
+      "1844_Clay_Sergeant/answers_json/4210@50/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We will frame Texas as an issue of national pride and national expansion. I rebuke the idea of Calhoun that this is purely a Southern enterprise.",
+    "zh": "我们将得克萨斯州视为民族自豪感和国家扩张的问题。我斥责卡尔霍恩认为这纯粹是南方企业的想法。",
+    "keys": [
+      "1844_Polk_Woodbury/answers_json/4211@54/description",
+      "1844_Clay_Sergeant/answers_json/4211@51/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I disagree with John Calhoun across the board, which leads to my opposition to the annexation of Texas.",
+    "zh": "我完全不同意约翰卡尔霍恩的观点，这导致我反对吞并得克萨斯州。",
+    "keys": [
+      "1844_Polk_Woodbury/answers_json/4212@55/description",
+      "1844_Clay_Sergeant/answers_json/4212@52/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is one of the most ill-conceived decisions I have seen in my lifetime.",
+    "zh": "这是我一生中见过的最不明智的决定之一。",
+    "keys": [
+      "1844_Polk_Woodbury/answers_json/4222@60/description",
+      "1844_Clay_Frelinghuysen/answers_json/4222@58/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We don't have any plans to comment upon the Cabinet appointments of President Tyler.",
+    "zh": "我们没有任何计划对总统的内阁任命发表评论泰勒。",
+    "keys": [
+      "1844_Polk_Woodbury/answers_json/4223@61/description",
+      "1844_Clay_Frelinghuysen/answers_json/4223@59/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Woodbury is a little less moderate on some of the issues that could carry a state like Pennsylvania or New York. We shall see what happens.",
+    "zh": "伍德伯里在一些可能导致类似宾夕法尼亚州或纽约州的问题上表现得不太温和。我们将会看看会发生什么。",
+    "keys": [
+      "1844_Polk_Woodbury/answer_feedback_json/1611@14/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is probably the best stance to take.",
+    "zh": "这可能是最好的立场。",
+    "keys": [
+      "1844_Polk_Woodbury/answer_feedback_json/1650@50/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1650@23/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Calhoun may be past his heyday, but it serves little purpose to insult him.",
+    "zh": "卡尔霍恩也许已经过了他的全盛时期，但侮辱他没有什么意义。",
+    "keys": [
+      "1844_Polk_Woodbury/answer_feedback_json/1658@55/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1658@27/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "It's a difficult issue to address, but putting yourself in sympathy with John Calhoun is certainly not the right way to do it.",
+    "zh": "这是一个很难解决的问题，但同情约翰卡尔霍恩肯定不是正确的方法。",
+    "keys": [
+      "1844_Polk_Woodbury/answer_feedback_json/1715@70/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1715@74/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is probably your best choice. It's just unfortunate that the Democrats continue to demagogue the public on this issue, rather than address the failures of their banking policy.",
+    "zh": "这可能是您最好的选择。不幸的是，民主党继续在这个问题上煽动公众，而不是解决他们银行政策的失败问题。",
+    "keys": [
+      "1844_Polk_Woodbury/answer_feedback_json/1716@71/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1716@75/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Hopefully you're planning to win this election in the North, and not the South.",
+    "zh": "希望您计划在北方而不是南方赢得这次选举。",
+    "keys": [
+      "1844_Polk_Woodbury/answer_feedback_json/1722@74/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1722@80/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Martin Van Buren, Democrat and President until 1841, will be making a tour of the country to visit various friends and political figures. Will you extend the invitation for him to stay at your estate for a few days?",
+    "zh": "马丁·范布伦，1841 年之前的民主党人和总统，将进行全国巡演，拜访各种朋友和政治人物。您会邀请他来您的庄园住几天吗？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/623@0/description",
+      "1844_Clay_Sergeant/questions_json/623@0/description",
+      "1844_Clay_Fillmore/questions_json/623@0/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What points will emphasize in your acceptance letter, as you accept the Whig nomination for President?",
+    "zh": "当您接受辉格党人总统提名时，您的录取信中会强调哪些要点？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/624@1/description",
+      "1844_Clay_Sergeant/questions_json/624@1/description",
+      "1844_Clay_Fillmore/questions_json/624@1/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What position will you take on the Texas annexation issue?",
+    "zh": "对于得克萨斯州吞并问题，您将采取什么立场？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/625@2/description",
+      "1844_Clay_Sergeant/questions_json/625@2/description",
+      "1844_Clay_Fillmore/questions_json/625@2/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The background of your running mate, Theodore Frelinghuysen, has caused much distress among the Catholics of this country? Will you make any statements on this issue?",
+    "zh": "你的竞选搭档西奥多·弗里林海森的背景给这个国家的天主教徒带来了很大的困扰？中方是否会就这一问题发表表态？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/626@3/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Does it make sense to attack Northern Democrats as enablers and fellow travelers of the Southern slavery expansion?",
+    "zh": "攻击北方民主党人作为南方奴隶制扩张的推动者和同路人是否有意义？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/634@8/description",
+      "1844_Clay_Sergeant/questions_json/634@9/description",
+      "1844_Clay_Fillmore/questions_json/634@8/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Is there something you can do to give the Southern Whigs political cover from the incessant attacks that they are in league with an anti-slavery party?",
+    "zh": "您可以做些什么来为南方辉格党人提供政治掩护，使其免受持续不断的攻击，因为他们与反奴隶制政党结盟？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/635@9/description",
+      "1844_Clay_Sergeant/questions_json/635@14/description",
+      "1844_Clay_Fillmore/questions_json/635@11/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There have recently been riots and armed clashes between nativists and Irish immigrants in Philadelphia and elsewhere. Do you have any plans to condemn the Irish violence in these episodes?",
+    "zh": "最近在费城和其他地方发生了本土主义者和爱尔兰移民之间的骚乱和武装冲突。您有计划谴责这些事件中的爱尔兰暴力吗？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/628@10/description",
+      "1844_Clay_Sergeant/questions_json/628@15/description",
+      "1844_Clay_Fillmore/questions_json/628@9/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you still support the idea that the federal government should purchase the telegraph patent and manage the technology?",
+    "zh": "您仍然支持联邦政府应该购买电报专利并管理该技术的想法吗？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/632@11/description",
+      "1844_Clay_Sergeant/questions_json/632@11/description",
+      "1844_Clay_Fillmore/questions_json/632@13/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Cassius Clay, your cousin, has published a letter stating you are in accord with the abolitionist movement. How will you respond to this?",
+    "zh": "卡修斯·克莱，你的表弟，发表了一封信，声明你支持废奴运动。您对此有何回应？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/629@12/description",
+      "1844_Clay_Sergeant/questions_json/629@13/description",
+      "1844_Clay_Fillmore/questions_json/629@10/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you plan to make any attacks against the Liberty Party, a radical abolitionist group that is fielding a third party candidate?",
+    "zh": "您是否计划对自由党（一个正在派出第三方候选人的激进废奴主义团体）进行任何攻击？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/631@13/description",
+      "1844_Clay_Sergeant/questions_json/631@10/description",
+      "1844_Clay_Fillmore/questions_json/631@12/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There are a number of attacks which focus on your fondness for horse-racing, drinking, gambling, female conversation, and the like. Do you have a response to this?",
+    "zh": "有许多攻击集中于您对赛马、饮酒、赌博、女性谈话等的喜好。中方对此有何回应？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/630@15/description",
+      "1844_Clay_Sergeant/questions_json/630@8/description",
+      "1844_Clay_Fillmore/questions_json/630@7/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Do you support the lifting of the Gag Rule in Congress?",
+    "zh": "您支持取消国会的禁言规则吗？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/640@17/description",
+      "1844_Clay_Sergeant/questions_json/640@19/description",
+      "1844_Clay_Fillmore/questions_json/640@21/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "What is your position on the Oregon boundary question?",
+    "zh": "您对俄勒冈州边界问题的立场是什么？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/questions_json/649@19/description",
+      "1844_Clay_Sergeant/questions_json/649@22/description",
+      "1844_Clay_Fillmore/questions_json/649@22/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "It might be best if I don't appear overly friendly to leading Democrats. Especially one as unpopular as Van Buren.",
+    "zh": "我最好不要对民主党领袖表现得过于友好。尤其是像范布伦这样不受欢迎的。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4154@1/description",
+      "1844_Clay_Sergeant/answers_json/4154@1/description",
+      "1844_Clay_Fillmore/answers_json/4154@1/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This would be a strictly personal invite. We are friends. And besides, it might blunt some opposition to my candidacy from New York.",
+    "zh": "这将是一次严格的个人邀请。我们是朋友。此外，它可能会削弱纽约州对我的候选资格的一些反对。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4155@2/description",
+      "1844_Clay_Sergeant/answers_json/4155@2/description",
+      "1844_Clay_Fillmore/answers_json/4155@2/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I stand opposed to any annexation of Texas. It will reopen settled questions and distract our nation from its important political issues, such as economic development.",
+    "zh": "我反对任何兼并得克萨斯州的行为。它将重新解决已解决的问题，并分散我们国家对经济发展等重要政治问题的注意力。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4156@3/description",
+      "1844_Clay_Sergeant/answers_json/4156@3/description",
+      "1844_Clay_Fillmore/answers_json/4156@3/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I support the annexation of Texas, so long as the admission of that state is paired with the admission of a free state. I will briefly mention that my positions on other issues are well-known and remain the same.",
+    "zh": "我支持吞并得克萨斯州，只要该州的接纳与自由州的接纳是配对的。我想简单提一下，我在其他问题上的立场是众所周知的，并且保持不变。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4157@4/description",
+      "1844_Clay_Sergeant/answers_json/4157@4/description",
+      "1844_Clay_Fillmore/answers_json/4157@4/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I will strike a middle ground on the Texas question, supporting annexation so long as it doesn't lead to war with Mexico, or to significant opposition from any section of the country.",
+    "zh": "我将在得克萨斯州问题上采取中间立场，支持吞并，只要它不会导致与墨西哥的战争，或引起该国任何部门的强烈反对。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4159@6/description",
+      "1844_Clay_Sergeant/answers_json/4159@6/description",
+      "1844_Clay_Fillmore/answers_json/4159@6/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This discussion has grown tiresome, but let me restate that I support the annexation of Texas.",
+    "zh": "这个讨论已经变得令人厌烦，但让我重申一下，我支持吞并得克萨斯州。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4160@7/description",
+      "1844_Clay_Sergeant/answers_json/4160@7/description",
+      "1844_Clay_Fillmore/answers_json/4160@7/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This discussion has grown tiresome, but I will continue to advocate for a moderate solution on this issue.",
+    "zh": "这个讨论已经变得令人厌烦，但我将继续主张在这个问题上采取温和的解决方案。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4161@8/description",
+      "1844_Clay_Sergeant/answers_json/4161@8/description",
+      "1844_Clay_Fillmore/answers_json/4161@8/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This discussion has grown tiresome, but let me restate that I oppose the annexation of Texas.",
+    "zh": "这个讨论已经变得令人厌烦，但让我重申一下，我反对吞并得克萨斯州。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4162@9/description",
+      "1844_Clay_Sergeant/answers_json/4162@9/description",
+      "1844_Clay_Fillmore/answers_json/4162@9/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We need to address these concerns and state categorically that the Whigs support our current naturalization laws and do not stand for nativism.",
+    "zh": "我们需要解决这些问题，并明确声明辉格党人支持我们当前的入籍法，并不代表本土主义。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4163@10/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Let's not make any statements on this issue. There are too many people on both sides of it who might take offense.",
+    "zh": "我们不要就这个问题发表任何声明。双方都有太多可能会生气的人。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4164@11/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Of course we denounce rioting and lawlessness, but we do support some attempt to change our naturalization laws.",
+    "zh": "当然，我们谴责骚乱和无法无天，但我们确实支持一些改变我们的入籍法的尝试。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4165@12/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We should condemn the apparent lawlessness of the Irish arrivals, and ask whether we ought to reconsider our generous naturalization policies.",
+    "zh": "我们应该谴责爱尔兰移民明显的无法无天行为，并询问我们是否应该重新考虑我们慷慨的入籍政策。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4168@13/description",
+      "1844_Clay_Sergeant/answers_json/4168@12/description",
+      "1844_Clay_Fillmore/answers_json/4168@10/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "It's best if we avoid making any statements on this issue.",
+    "zh": "我们最好避免就此问题发表任何声明。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4169@14/description",
+      "1844_Clay_Sergeant/answers_json/4169@13/description",
+      "1844_Clay_Fillmore/answers_json/4169@11/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "After a few days have passed and tempers have cooled, let us reemphasize our support for current naturalization laws.",
+    "zh": "几天过去了，脾气已经平息，让我们再次强调我们对现行入籍法的支持。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4170@15/description",
+      "1844_Clay_Sergeant/answers_json/4170@14/description",
+      "1844_Clay_Fillmore/answers_json/4170@12/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We must put out a letter, clarifying that we only support abolition if slaveholders can be fairly compensated, with reasonable notice, and if freed slaves can be recolonized to Africa.",
+    "zh": "我们必须发出一封信，澄清只有在奴隶主能够在合理通知的情况下得到公平补偿，并且被释放的奴隶能够重新殖民到非洲的情况下，我们才支持废除奴隶制。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4171@16/description",
+      "1844_Clay_Sergeant/answers_json/4171@15/description",
+      "1844_Clay_Fillmore/answers_json/4171@13/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We must attack Cassius Clay's statements at once, for the dishonest falsehoods that they are. I am in no way an abolitionist in this debate.",
+    "zh": "我们必须立即攻击卡修斯·克莱的言论，因为它们是不诚实的谎言。在这场辩论中我绝不是废奴主义者。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4172@17/description",
+      "1844_Clay_Sergeant/answers_json/4172@16/description",
+      "1844_Clay_Fillmore/answers_json/4172@14/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I'm not going to dignify this letter with a response.",
+    "zh": "我不会通过回复来荣耀这封信。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4173@18/description",
+      "1844_Clay_Sergeant/answers_json/4173@17/description",
+      "1844_Clay_Fillmore/answers_json/4173@15/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There are a lot of places in America where men like that kind of thing. We will win the Yankee Puritan vote in any case.",
+    "zh": "在美国有很多地方男人都喜欢这种东西。无论如何，我们都会赢得洋基清教徒的选票。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4174@19/description",
+      "1844_Clay_Sergeant/answers_json/4174@18/description",
+      "1844_Clay_Fillmore/answers_json/4174@16/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I've undertaken the amusements of our times, perhaps a little more than most, but it has never had any bearing on the work I have done.",
+    "zh": "我承担了我们这个时代的娱乐，也许比大多数人多一点，但它从来没有对我所做的工作产生任何影响。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4175@20/description",
+      "1844_Clay_Sergeant/answers_json/4175@19/description",
+      "1844_Clay_Fillmore/answers_json/4175@17/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "In anticipation of this attack, I've actually made some effort in the past year or so to scale back my amusements. I don't believe it is ever too late for a man to change their conduct.",
+    "zh": "考虑到这次攻击，我实际上在过去一年左右的时间里做了一些努力来减少我的娱乐。我不认为一个人改变自己的行为永远不会太晚。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4176@21/description",
+      "1844_Clay_Sergeant/answers_json/4176@20/description",
+      "1844_Clay_Fillmore/answers_json/4176@18/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Any attacks we make will only publicize this group more. Let's stick to our own campaign in this case.",
+    "zh": "我们所做的任何攻击只会进一步宣传这个团体。在这种情况下，让我们坚持我们自己的活动。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4177@22/description",
+      "1844_Clay_Sergeant/answers_json/4177@21/description",
+      "1844_Clay_Fillmore/answers_json/4177@19/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Thomas Birney is a stooge of the Democrats, attempting to agitate emotions and divide our party. People ought to feel free to vote for him if they want to hand this election to James K. Polk.",
+    "zh": "托马斯伯尼是民主党的傀儡，试图煽动情绪并分裂我们的政党。如果人们想将这次选举交给詹姆斯·K.·波尔克，他们应该随意投票给他。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4178@23/description",
+      "1844_Clay_Sergeant/answers_json/4178@22/description",
+      "1844_Clay_Fillmore/answers_json/4178@20/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I am steadfast against the annexation of Texas and the expansion of slavery. I believe that Birney's followers should be made aware of this point.",
+    "zh": "我坚决反对吞并得克萨斯州和扩大奴隶制。我相信伯尼的追随者应该意识到这一点。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4179@24/description",
+      "1844_Clay_Sergeant/answers_json/4179@23/description",
+      "1844_Clay_Fillmore/answers_json/4179@21/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I absolutely believe that the development of telegraph lines should take its place alongside canals, harbors, and railroads as a national prerogative.",
+    "zh": "我绝对相信，电报线的发展应该与运河、港口和铁路并列，作为国家特权。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4180@25/description",
+      "1844_Clay_Sergeant/answers_json/4180@24/description",
+      "1844_Clay_Fillmore/answers_json/4180@22/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I've supported internal improvements throughout my career, but telegraph lines are a different thing. I trust that private individuals can build these.",
+    "zh": "我在整个职业生涯中一直支持国内公共基础设施的改善，但电报线是另一回事。我相信私人可以建造这些。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4181@26/description",
+      "1844_Clay_Sergeant/answers_json/4181@25/description",
+      "1844_Clay_Fillmore/answers_json/4181@23/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Let's not make any divisive statements on this issue. The public is hardly clamoring for my opinion in any case.",
+    "zh": "我们不要在这个问题上发表任何分裂性的言论。无论如何，公众几乎不会大声征求我的意见。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4182@27/description",
+      "1844_Clay_Sergeant/answers_json/4182@26/description",
+      "1844_Clay_Fillmore/answers_json/4182@24/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I don't know how many times a man can deny an unjust allegation before fatigue sets in.",
+    "zh": "我不知道一个人在疲劳开始之前可以否认多少次不公正的指控。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4183@28/description",
+      "1844_Clay_Sergeant/answers_json/4183@27/description",
+      "1844_Clay_Fillmore/answers_json/4183@25/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "My opposition to the annexation of Texas is known, but we could more explicitly tie that maneuver to the expansion of slavery.",
+    "zh": "我反对吞并得克萨斯州是众所周知的，但我们可以更明确地将这一策略与奴隶制的扩张联系起来。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4184@29/description",
+      "1844_Clay_Sergeant/answers_json/4184@28/description",
+      "1844_Clay_Fillmore/answers_json/4184@26/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We should attack the Northern Democrats on their opposition to, or flip-flopping on, the issues of tariffs and internal improvements. They are on soft ground in that debate.",
+    "zh": "我们应该攻击北方民主党在关税和国内公共基础设施改善问题上的反对或反复无常。他们在这场辩论中处于软弱地位。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4185@30/description",
+      "1844_Clay_Sergeant/answers_json/4185@29/description",
+      "1844_Clay_Fillmore/answers_json/4185@27/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I am as much in favor of the annexation of Texas as Mr. Polk is. To insinuate otherwise is nothing but dishonesty writ large.",
+    "zh": "我和波尔克先生一样赞成兼并得克萨斯州。暗示其他情况只不过是明显的不诚实。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4186@31/description",
+      "1844_Clay_Sergeant/answers_json/4186@30/description",
+      "1844_Clay_Fillmore/answers_json/4186@28/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I am opposed to radicalism from any region, and that includes anti-slavery radicalism. The Whig Party is a national party with a national program that will benefit all regions equally.",
+    "zh": "我反对任何地区的激进主义，包括反奴隶制的激进主义。辉格党是一个全国性政党，其全国性计划将使所有地区平等受益。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4187@32/description",
+      "1844_Clay_Sergeant/answers_json/4187@31/description",
+      "1844_Clay_Fillmore/answers_json/4187@29/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Congress must function in an orderly fashion, without taking time out from its business to receive ill-conceived petitions. I support the Gag Rule.",
+    "zh": "国会必须以有序的方式运作，不得从其事务中抽出时间来接收考虑不周的请愿书。我支持禁言规则。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4202@46/description",
+      "1844_Clay_Sergeant/answers_json/4202@45/description",
+      "1844_Clay_Fillmore/answers_json/4202@43/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Regardless of our feelings about the slavery issue, it is undemocratic for Congress to deny the people the right to petition the government. I believe the Gag Rule should be lifted.",
+    "zh": "不管我们对奴隶制问题的看法如何，国会剥夺人民向政府请愿的权利是不民主的。我认为应该取消禁言规则。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4203@47/description",
+      "1844_Clay_Sergeant/answers_json/4203@46/description",
+      "1844_Clay_Fillmore/answers_json/4203@44/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We have no plans to address the Gag Rule during our campaign.",
+    "zh": "我们没有计划在竞选期间解决禁言规则。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4204@48/description",
+      "1844_Clay_Sergeant/answers_json/4204@47/description",
+      "1844_Clay_Fillmore/answers_json/4204@45/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We need to negotiate a permanent agreement with Great Britain that grants some of all of the Oregon Territory to the United States.",
+    "zh": "我们需要与英国谈判一项永久协议，将部分俄勒冈州领土授予美国。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4229@65/description",
+      "1844_Clay_Sergeant/answers_json/4229@63/description",
+      "1844_Clay_Fillmore/answers_json/4229@65/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would support any agreement, as long as the United States keeps the land that is south and east of the Colombia River.",
+    "zh": "只要美国保留哥伦比亚河以南和以东的土地，我就会支持任何协议。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answers_json/4230@66/description",
+      "1844_Clay_Sergeant/answers_json/4230@64/description",
+      "1844_Clay_Fillmore/answers_json/4230@66/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Ending the Gag Rule is definitely a Whig prerogative.",
+    "zh": "结束禁言规则绝对是辉格党人的特权。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1645@19/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1646@20/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1645@19/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1646@20/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1645@19/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1646@20/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is one time when it just might do to keep your mouth shut.",
+    "zh": "这是你最好闭嘴的一次。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1647@21/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1647@21/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1647@21/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a rallying cry that can certainly help your party in the North and West.",
+    "zh": "这是一个战斗口号，肯定可以帮助您在北部和西部的政党。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1663@32/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1663@31/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1663@34/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "There's no reason to equivocate on the Oregon issue. People want aggressive action there.",
+    "zh": "没有理由在俄勒冈州问题上含糊其辞。人们希望在那里采取积极行动。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1664@33/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1665@34/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1664@32/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1665@33/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1664@35/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1665@36/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Word makes its way to New York that you had Martin Van Buren in your own hometown and did not extend an invitation to him.",
+    "zh": "有消息传到纽约州，说你在自己的家乡有马丁·范布伦，但没有向他发出邀请。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1672@36/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1672@35/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1672@38/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Word makes its way to New York that you and Martin Van Buren were able to put political differences aside and enjoy a few days of warm, personal companionship.",
+    "zh": "有消息传到纽约州，您和马丁·范布伦能够抛开政治分歧，享受几天温暖的个人陪伴。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1673@37/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1673@36/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1673@39/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "By coming out so forcefully, you are gambling that the Northern wing of the party can hand you a victory this fall. Meanwhile the Democrats are making hay with this issue.",
+    "zh": "通过如此强力地站出来，你是在赌党的北翼可以在今年秋天给你带来胜利。与此同时，民主党正在利用这个问题。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1674@38/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1674@37/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1674@40/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "By coming out so forcefully, you are gambling that the Southern wing of the party can hand you a victory this fall. Meanwhile the Democrats are making hay with this issue.",
+    "zh": "通过如此强力地站出来，你正在赌博，党的南翼可以在今年秋天给你带来胜利。与此同时，民主党正在利用这个问题。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1675@39/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1675@38/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1675@41/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "The worst of all worlds is to equivocate on such a central issue of the times. People of all persuasions doubt your motives, while the Democrats are making hay with this issue.",
+    "zh": "最糟糕的是在时代的核心问题上含糊其辞。各种派系的人都怀疑你的动机，而民主党却在这个问题上大肆宣传。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1676@40/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1677@41/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1676@39/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1677@40/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1676@42/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1677@43/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is unfortunately one of those issues where, no matter how many times you repeat yourself, people will continue to press you.",
+    "zh": "不幸的是，这是一个问题，无论你重复自己多少次，人们都会继续向你施压。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1678@42/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1679@43/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1680@44/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1678@41/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1679@42/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1680@43/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1678@44/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1679@45/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1680@46/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "At the national level, this is probably your best position. In certain locales the nativist sentiment does appear to be rising, however.",
+    "zh": "在国家层面，这可能是你最好的位置。然而，在某些地区，本土主义情绪似乎确实在上升。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1681@45/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This invigorates a certain wing of the party, but it could also cost you in certain states.",
+    "zh": "这会激励党内的某个派别，但也可能会让你在某些州付出代价。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1684@47/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1684@45/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1684@47/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This could cost you some nativist support, but that wing is hopefully concentrated in states that aren't close.",
+    "zh": "这可能会让你失去一些本土主义者的支持，但希望该派别集中在不接近的州。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1685@48/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1685@46/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1685@48/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This will obviously be a more popular position in certain regions.",
+    "zh": "这显然在某些地区是更受欢迎的位置。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1686@49/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1687@50/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1686@47/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1687@48/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1686@49/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1687@50/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Silence is the worst of all choices here.",
+    "zh": "沉默是这里所有选择中最糟糕的。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1688@51/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1688@49/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1688@51/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Talk of personal foibles is probably just sound and fury in this election.",
+    "zh": "在这次选举中，关于个人缺点的讨论可能只是喧嚣和愤怒。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1689@52/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1690@53/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1691@54/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1689@50/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1690@51/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1691@52/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1689@52/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1690@53/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1691@54/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This seems like a bit of an eccentric position to many people.",
+    "zh": "对于很多人来说，这似乎有点奇怪。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1692@55/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1692@53/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1692@55/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Sadly, some attacks never lose their luster.",
+    "zh": "可悲的是，有些攻击永远不会失去光彩。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1695@58/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1695@56/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1695@58/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is probably your best stance vis a vis the Northern wing of the Democratic Party.",
+    "zh": "这可能是你面对民主党北翼的最佳立场。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1696@59/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1696@57/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1696@59/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This position is broadly popular, but will it cost you in some regions?",
+    "zh": "这个职位很受欢迎，但在某些地区会花费你的钱吗？",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1697@60/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1697@58/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1697@60/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "This is a good point to emphasize, especially if you don't support the Texas annexation.",
+    "zh": "这是一个需要强调的好点，特别是如果您不支持得克萨斯州吞并。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1698@61/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1698@59/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1698@61/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Silence may be the best course, given the divisiveness of this issue.",
+    "zh": "考虑到这个问题的分歧，沉默可能是最好的选择。",
+    "keys": [
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1710@73/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1711@74/answer_feedback",
+      "1844_Clay_Frelinghuysen/answer_feedback_json/1712@75/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1710@71/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1711@72/answer_feedback",
+      "1844_Clay_Sergeant/answer_feedback_json/1712@73/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1710@73/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1711@74/answer_feedback",
+      "1844_Clay_Fillmore/answer_feedback_json/1712@75/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Regardless of your views on the banking question, many accuse your running mate of being too closely tied to the Second Bank of the United States, and too inexperienced in government. What is your response?",
+    "zh": "无论您对银行业问题有何看法，许多人都指责您的竞选搭档与美国第二银行关系过于密切，而且在政府方面缺乏经验。你的回应是什么？",
+    "keys": [
+      "1844_Clay_Sergeant/questions_json/627@3/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I would attack any person who asserts that working with the Second Bank of the United States is poor preparation for government.",
+    "zh": "我会攻击任何声称与美国第二银行合作对政府来说准备不足的人。",
+    "keys": [
+      "1844_Clay_Sergeant/answers_json/4166@10/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Let's continue to emphasize our platform and my own experience in government, which dates to the War of 1812.",
+    "zh": "让我们继续强调我们的政治纲领和我自己的政府经验，这些经验可以追溯到 1812 年战争。",
+    "keys": [
+      "1844_Clay_Sergeant/answers_json/4167@11/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "People know that you have a strong opinion on the national bank -- there's no need to veer into extremism.",
+    "zh": "人们知道你对国家银行有强烈的看法——没有必要转向极端主义。",
+    "keys": [
+      "1844_Clay_Sergeant/answer_feedback_json/1683@44/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  }
+]

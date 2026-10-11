@@ -1,0 +1,62 @@
+[
+  {
+    "file": "jquery-3.7.1.min.js",
+    "url": "https://code.jquery.com/jquery-3.7.1.min.js",
+    "sha256": "fc9a93dd241f6b045cbff0481cf4e1901becd0e12fb45166a8f17f95823f0b1a"
+  },
+  {
+    "file": "jquery-ui-1.14.1.min.js",
+    "url": "https://code.jquery.com/ui/1.14.1/jquery-ui.min.js",
+    "sha256": "0254e2768f39b973e54b2c9a64db23257782b34ede4afdebe3793209573c0a12"
+  },
+  {
+    "file": "jquery-ui.css",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/jquery-ui.css",
+    "sha256": "ba92d4a4053c87ea4ed554bf99717abd6ba8dd02ad4fd9bf494125363af5097f"
+  },
+  {
+    "file": "jquery.blockUI.js",
+    "url": "https://malsup.github.io/jquery.blockUI.js",
+    "sha256": "a106b0f8926e51c250f5055831c1673f12020d3fa1bfcfa4bb14f614dcd31a17"
+  },
+  {
+    "file": "LICENSE.jquery.txt",
+    "url": "https://raw.githubusercontent.com/jquery/jquery/3.7.1/LICENSE.txt",
+    "sha256": "d4db9ebe6f29f5168eac45ad713f055623ac5d0dcd5ba92da23d650ae012020d"
+  },
+  {
+    "file": "LICENSE.jquery-ui.txt",
+    "url": "https://raw.githubusercontent.com/jquery/jquery-ui/1.14.1/LICENSE.txt",
+    "sha256": "f649025cf65c8dcd8588b0937883ba7a52bdb6d35129464a36a1602eb00250f1"
+  },
+  {
+    "file": "images/ui-icons_444444_256x240.png",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/images/ui-icons_444444_256x240.png",
+    "sha256": "ca6329b10685f6499537d9cb1f2480950d9d20165c8d2b194e5c8328e29f0d27"
+  },
+  {
+    "file": "images/ui-icons_777620_256x240.png",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/images/ui-icons_777620_256x240.png",
+    "sha256": "710df3143e363b64b9f0ca224f87035a5976ab7f1c6ebf927d9d7bd67cab108d"
+  },
+  {
+    "file": "images/ui-icons_cc0000_256x240.png",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/images/ui-icons_cc0000_256x240.png",
+    "sha256": "dd44c86026a8dc1d358203ae0c1723422bad4a526ffe2d01f3d8bfbd81b21e9e"
+  },
+  {
+    "file": "images/ui-icons_555555_256x240.png",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/images/ui-icons_555555_256x240.png",
+    "sha256": "045175d976cbcea23991f5868672c568e875837873897a28ceea0b65575f05c0"
+  },
+  {
+    "file": "images/ui-icons_ffffff_256x240.png",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/images/ui-icons_ffffff_256x240.png",
+    "sha256": "5f6ac8943caf6d0b460d95b0ae5a3bf8caa06e6f50503ea6856a2037bf1c6e8b"
+  },
+  {
+    "file": "images/ui-icons_777777_256x240.png",
+    "url": "https://code.jquery.com/ui/1.14.1/themes/base/images/ui-icons_777777_256x240.png",
+    "sha256": "bdb471c676777efdb2fe00ad0596b9e1033d99740d8ea528523b25f062685baa"
+  }
+]

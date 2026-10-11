@@ -1,0 +1,932 @@
+[
+  {
+    "source": "Walter Mondale is a committed liberal and a true friend of Hubert H. Humphrey. He is the kind of man who all Democrats can get behind.",
+    "zh": "沃尔特·蒙代尔是一位坚定的自由主义者，也是休伯特·H.·汉弗莱的真正朋友。他是那种所有民主党人都能支持的人。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3531@22/description"
+    ]
+  },
+  {
+    "source": "Walter Mondale has served his home state of Minnesota well, and he is the best man for the job.",
+    "zh": "沃尔特·蒙代尔很好地服务了他的家乡明尼苏达州，他是这项工作的最佳人选。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3532@23/description"
+    ]
+  },
+  {
+    "source": "I disagree strongly and believe that General Brown should be removed from this position for such comments. Israel is one of our most valued allies.",
+    "zh": "我强烈反对，并认为布朗将军应该因此类评论而被免职。以色列是我们最有价值的盟友之一。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3584@24/description",
+      "1976_Carter_Church/answers_json/3584@29/description",
+      "1976_Carter_Glenn/answers_json/3584@25/description",
+      "1976_Carter_Jackson/answers_json/3584@27/description",
+      "1976_Ford_Dole/answers_json/3584@27/description",
+      "1976_Ford_Connally/answers_json/3584@30/description"
+    ]
+  },
+  {
+    "source": "This is definitely something that deserves a reprimand at the very least. I don't agree with these views.",
+    "zh": "这绝对是最起码应该受到谴责的事情。我不同意这些观点。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3585@25/description",
+      "1976_Carter_Church/answers_json/3585@30/description",
+      "1976_Carter_Glenn/answers_json/3585@26/description",
+      "1976_Carter_Jackson/answers_json/3585@28/description",
+      "1976_Ford_Dole/answers_json/3585@28/description",
+      "1976_Ford_Connally/answers_json/3585@31/description"
+    ]
+  },
+  {
+    "source": "I don't have any comment. The General's views are his own.",
+    "zh": "我没有任何评论。将军的意见是他自己的。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3586@26/description",
+      "1976_Carter_Church/answers_json/3586@31/description",
+      "1976_Carter_Glenn/answers_json/3586@27/description",
+      "1976_Carter_Jackson/answers_json/3586@29/description",
+      "1976_Ford_Dole/answers_json/3586@29/description",
+      "1976_Ford_Connally/answers_json/3586@32/description"
+    ]
+  },
+  {
+    "source": "I agree with General Brown, to be honest. We would have never had the Oil Crisis in '73 if we weren't closely aligned with Israel.",
+    "zh": "说实话，我同意布朗将军的观点。如果我们没有与以色列紧密结盟，我们就不会在 73 年发生石油危机。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3587@27/description",
+      "1976_Carter_Church/answers_json/3587@32/description",
+      "1976_Carter_Glenn/answers_json/3587@28/description",
+      "1976_Carter_Jackson/answers_json/3587@30/description",
+      "1976_Ford_Dole/answers_json/3587@30/description",
+      "1976_Ford_Connally/answers_json/3587@33/description"
+    ]
+  },
+  {
+    "source": "Big cities have a higher social burden than most jurisdictions. It's only right that they should receive extra financial help to compensate.",
+    "zh": "大城市的社会负担比大多数司法管辖区更高。他们应该获得额外的经济帮助来补偿，这是理所当然的。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3588@28/description",
+      "1976_Carter_Church/answers_json/3588@33/description",
+      "1976_Carter_Glenn/answers_json/3588@29/description",
+      "1976_Carter_Jackson/answers_json/3588@31/description",
+      "1976_Ford_Dole/answers_json/3588@31/description",
+      "1976_Ford_Baker/answers_json/3588@27/description",
+      "1976_Ford_Anderson/answers_json/3588@31/description",
+      "1976_Ford_Connally/answers_json/3588@34/description"
+    ]
+  },
+  {
+    "source": "We have to consider each case individually. New York was a one time thing, and they also had to make significant reforms before this loan was approved.",
+    "zh": "我们必须单独考虑每种情况。纽约州是一次性的事情，他们还必须在这笔贷款获得批准之前进行重大改革。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3589@29/description",
+      "1976_Carter_Church/answers_json/3589@34/description",
+      "1976_Carter_Glenn/answers_json/3589@30/description",
+      "1976_Carter_Jackson/answers_json/3589@32/description",
+      "1976_Ford_Dole/answers_json/3589@32/description",
+      "1976_Ford_Baker/answers_json/3589@28/description",
+      "1976_Ford_Anderson/answers_json/3589@32/description",
+      "1976_Ford_Connally/answers_json/3589@35/description"
+    ]
+  },
+  {
+    "source": "I couldn't really comment until I saw what the specifics of the case would be.",
+    "zh": "在看到案件的具体情况之前，我无法真正发表评论。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3590@30/description",
+      "1976_Carter_Church/answers_json/3590@35/description",
+      "1976_Carter_Glenn/answers_json/3590@31/description",
+      "1976_Carter_Jackson/answers_json/3590@33/description",
+      "1976_Ford_Dole/answers_json/3590@33/description",
+      "1976_Ford_Baker/answers_json/3590@29/description",
+      "1976_Ford_Anderson/answers_json/3590@33/description",
+      "1976_Ford_Connally/answers_json/3590@36/description"
+    ]
+  },
+  {
+    "source": "These types of bailouts support big government, big labor machine politics at the expense of everyone else. There's no way I would support this kind of deal.",
+    "zh": "这些类型的救助以牺牲其他所有人为代价来支持大政府、大劳动力机器政治。我绝对不会支持这种交易。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3591@31/description",
+      "1976_Carter_Church/answers_json/3591@36/description",
+      "1976_Carter_Glenn/answers_json/3591@32/description",
+      "1976_Carter_Jackson/answers_json/3591@34/description",
+      "1976_Ford_Dole/answers_json/3591@34/description",
+      "1976_Ford_Baker/answers_json/3591@30/description",
+      "1976_Ford_Anderson/answers_json/3591@34/description",
+      "1976_Ford_Connally/answers_json/3591@37/description"
+    ]
+  },
+  {
+    "source": "It is time for America to move past this issue. I will issue an immediate pardon if I am elected President.",
+    "zh": "美国是时候克服这个问题了。如果我当选总统，我将立即赦免。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3592@32/description",
+      "1976_Carter_Church/answers_json/3592@37/description",
+      "1976_Carter_Glenn/answers_json/3592@33/description",
+      "1976_Carter_Jackson/answers_json/3592@35/description",
+      "1976_Ford_Dole/answers_json/3592@35/description",
+      "1976_Ford_Baker/answers_json/3592@31/description",
+      "1976_Ford_Anderson/answers_json/3592@35/description",
+      "1976_Ford_Connally/answers_json/3592@38/description"
+    ]
+  },
+  {
+    "source": "Millions of American men accepted their responsibilities and served admirably, but I can see the case for an eventual pardon. Perhaps towards the end of my term.",
+    "zh": "数以百万计的美国男人接受了他们的责任并做出了令人钦佩的贡献，但我可以看到最终赦免的情况。也许在我的任期即将结束时。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3593@33/description",
+      "1976_Carter_Church/answers_json/3593@38/description",
+      "1976_Carter_Glenn/answers_json/3593@34/description",
+      "1976_Carter_Jackson/answers_json/3593@36/description",
+      "1976_Ford_Dole/answers_json/3593@36/description",
+      "1976_Ford_Baker/answers_json/3593@32/description",
+      "1976_Ford_Anderson/answers_json/3593@36/description",
+      "1976_Ford_Connally/answers_json/3593@39/description"
+    ]
+  },
+  {
+    "source": "I would need to think about this issue a little more before reaching a final decision.",
+    "zh": "在做出最终决定之前，我需要更多地考虑这个问题。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3594@34/description",
+      "1976_Carter_Church/answers_json/3594@39/description",
+      "1976_Carter_Glenn/answers_json/3594@35/description",
+      "1976_Carter_Jackson/answers_json/3594@37/description",
+      "1976_Ford_Dole/answers_json/3594@37/description",
+      "1976_Ford_Baker/answers_json/3594@33/description",
+      "1976_Ford_Anderson/answers_json/3594@37/description",
+      "1976_Ford_Connally/answers_json/3594@40/description"
+    ]
+  },
+  {
+    "source": "Of course this war was controversial, but I oppose any pardon for people who evaded their military service. This would not send the right message in a future crisis.",
+    "zh": "当然，这场战争是有争议的，但我反对对逃避兵役的人进行任何赦免。这不会在未来的危机中发出正确的信息。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3595@35/description",
+      "1976_Carter_Church/answers_json/3595@40/description",
+      "1976_Carter_Glenn/answers_json/3595@36/description",
+      "1976_Carter_Jackson/answers_json/3595@38/description",
+      "1976_Ford_Dole/answers_json/3595@38/description",
+      "1976_Ford_Baker/answers_json/3595@34/description",
+      "1976_Ford_Anderson/answers_json/3595@38/description",
+      "1976_Ford_Connally/answers_json/3595@41/description"
+    ]
+  },
+  {
+    "source": "I support the passage of this Amendment, and think it is a good thing for America.",
+    "zh": "我支持这项修正案的通过，并认为这对美国来说是一件好事。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3596@36/description",
+      "1976_Carter_Church/answers_json/3596@41/description",
+      "1976_Carter_Glenn/answers_json/3596@37/description",
+      "1976_Carter_Jackson/answers_json/3596@39/description",
+      "1976_Ford_Dole/answers_json/3596@39/description",
+      "1976_Ford_Baker/answers_json/3596@35/description",
+      "1976_Ford_Anderson/answers_json/3596@39/description",
+      "1976_Ford_Connally/answers_json/3596@42/description"
+    ]
+  },
+  {
+    "source": "I don't really have a strong statement to make on this Amendment. This is an issue for Congress and the states to decide.",
+    "zh": "我对这项修正案并没有什么强烈的声明。这是国会和各州需要决定的问题。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3597@37/description",
+      "1976_Carter_Church/answers_json/3597@42/description",
+      "1976_Carter_Glenn/answers_json/3597@38/description",
+      "1976_Carter_Jackson/answers_json/3597@40/description",
+      "1976_Ford_Dole/answers_json/3597@40/description",
+      "1976_Ford_Baker/answers_json/3597@36/description",
+      "1976_Ford_Anderson/answers_json/3597@40/description",
+      "1976_Ford_Connally/answers_json/3597@43/description"
+    ]
+  },
+  {
+    "source": "We already have too many grounds for the federal government to interfere in the economy. This would add another new set of regulations that we can't afford.",
+    "zh": "我们已经有太多理由让联邦政府干预经济。这将增加另一套我们无力承担的新法规。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3598@38/description",
+      "1976_Carter_Church/answers_json/3598@43/description",
+      "1976_Carter_Glenn/answers_json/3598@39/description",
+      "1976_Carter_Jackson/answers_json/3598@41/description",
+      "1976_Ford_Dole/answers_json/3598@41/description",
+      "1976_Ford_Baker/answers_json/3598@37/description",
+      "1976_Ford_Anderson/answers_json/3598@41/description",
+      "1976_Ford_Connally/answers_json/3598@44/description"
+    ]
+  },
+  {
+    "source": "I oppose this Amendment, as many labor unions do, because it would jeopardize protections for female workers in areas such as working hours or tasks.",
+    "zh": "我和许多工会一样反对这项修正案，因为它会危及对女工在工作时间或任务等方面的保护。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3599@39/description",
+      "1976_Carter_Church/answers_json/3599@44/description",
+      "1976_Carter_Glenn/answers_json/3599@40/description",
+      "1976_Carter_Jackson/answers_json/3599@42/description",
+      "1976_Ford_Dole/answers_json/3599@42/description",
+      "1976_Ford_Baker/answers_json/3599@38/description",
+      "1976_Ford_Anderson/answers_json/3599@42/description",
+      "1976_Ford_Connally/answers_json/3599@45/description"
+    ]
+  },
+  {
+    "source": "I am opposed to these plans and believe that the courts have erred greatly.",
+    "zh": "我反对这些计划，并认为法院犯了很大的错误。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3600@40/description",
+      "1976_Carter_Church/answers_json/3600@45/description",
+      "1976_Carter_Glenn/answers_json/3600@41/description",
+      "1976_Carter_Jackson/answers_json/3600@43/description",
+      "1976_Ford_Dole/answers_json/3600@43/description",
+      "1976_Ford_Baker/answers_json/3600@39/description",
+      "1976_Ford_Anderson/answers_json/3600@43/description",
+      "1976_Ford_Connally/answers_json/3600@46/description"
+    ]
+  },
+  {
+    "source": "I believe that ways can be found to minimize forced busing while also remaining true to the Nation's ideals and our educational goals.",
+    "zh": "我相信可以找到方法来最大限度地减少强制乘坐校车，同时也忠于国家的理想和我们的教育目标。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3601@41/description",
+      "1976_Carter_Church/answers_json/3601@46/description",
+      "1976_Carter_Glenn/answers_json/3601@42/description",
+      "1976_Carter_Jackson/answers_json/3601@44/description",
+      "1976_Ford_Dole/answers_json/3601@44/description",
+      "1976_Ford_Baker/answers_json/3601@40/description",
+      "1976_Ford_Anderson/answers_json/3601@44/description",
+      "1976_Ford_Connally/answers_json/3601@47/description"
+    ]
+  },
+  {
+    "source": "I can see both sides of this. It is a hugely disruptive practice, yet we need to fight for integration somehow.",
+    "zh": "我可以看到这件事的两面。这是一种极具破坏性的做法，但我们需要以某种方式争取整合。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3602@42/description",
+      "1976_Carter_Church/answers_json/3602@47/description",
+      "1976_Carter_Glenn/answers_json/3602@43/description",
+      "1976_Carter_Jackson/answers_json/3602@45/description",
+      "1976_Ford_Dole/answers_json/3602@45/description",
+      "1976_Ford_Baker/answers_json/3602@41/description",
+      "1976_Ford_Anderson/answers_json/3602@45/description",
+      "1976_Ford_Connally/answers_json/3602@48/description"
+    ]
+  },
+  {
+    "source": "This is a necessary step to enforce the Brown decision and uphold the ideals of America.",
+    "zh": "这是执行布朗决定和维护美国理想的必要步骤。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3603@43/description",
+      "1976_Carter_Church/answers_json/3603@48/description",
+      "1976_Carter_Glenn/answers_json/3603@44/description",
+      "1976_Carter_Jackson/answers_json/3603@46/description",
+      "1976_Ford_Dole/answers_json/3603@46/description",
+      "1976_Ford_Baker/answers_json/3603@42/description",
+      "1976_Ford_Anderson/answers_json/3603@46/description",
+      "1976_Ford_Connally/answers_json/3603@49/description"
+    ]
+  },
+  {
+    "source": "As President I will remain vigilant against the Soviet threat. Under no circumstances would I decrease our defense budget.",
+    "zh": "作为总统，我将对苏联的威胁保持警惕。在任何情况下我都不会减少我们的国防预算。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3604@44/description",
+      "1976_Carter_Church/answers_json/3604@49/description",
+      "1976_Carter_Glenn/answers_json/3604@45/description",
+      "1976_Carter_Jackson/answers_json/3604@47/description",
+      "1976_Ford_Dole/answers_json/3604@47/description",
+      "1976_Ford_Baker/answers_json/3604@43/description",
+      "1976_Ford_Anderson/answers_json/3604@47/description",
+      "1976_Ford_Connally/answers_json/3604@50/description"
+    ]
+  },
+  {
+    "source": "I don't support cuts, to be sure, but neither do we need increases. We have made great strides in reducing tension with the Soviet Union.",
+    "zh": "当然，我不支持削减，但我们也不需要增加。我们在缓和与苏联的紧张关系方面取得了长足进步。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3605@45/description",
+      "1976_Carter_Church/answers_json/3605@50/description",
+      "1976_Carter_Glenn/answers_json/3605@46/description",
+      "1976_Carter_Jackson/answers_json/3605@48/description",
+      "1976_Ford_Dole/answers_json/3605@48/description",
+      "1976_Ford_Baker/answers_json/3605@44/description",
+      "1976_Ford_Anderson/answers_json/3605@48/description",
+      "1976_Ford_Connally/answers_json/3605@51/description"
+    ]
+  },
+  {
+    "source": "Vietnam is over, and détente with the Soviet Union has reduced the need for massive defense expenditures. I believe that any attempt to reduce our deficit should include defense cuts.",
+    "zh": "越南战争结束了，与苏联的缓和减少了对大规模国防开支的需求。我认为任何减少赤字的尝试都应该包括削减国防开支。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3606@46/description",
+      "1976_Carter_Church/answers_json/3606@51/description",
+      "1976_Carter_Glenn/answers_json/3606@47/description",
+      "1976_Carter_Jackson/answers_json/3606@49/description",
+      "1976_Ford_Dole/answers_json/3606@49/description",
+      "1976_Ford_Baker/answers_json/3606@45/description",
+      "1976_Ford_Anderson/answers_json/3606@49/description",
+      "1976_Ford_Connally/answers_json/3606@52/description"
+    ]
+  },
+  {
+    "source": "I will uphold the law as President, but I think it should be left to each state to decide. I would support an Amendment on this issue.",
+    "zh": "作为总统，我将维护法律，但我认为应该由每个州来决定。我支持就此问题进行修正案。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3607@47/description",
+      "1976_Carter_Church/answers_json/3607@52/description",
+      "1976_Carter_Glenn/answers_json/3607@48/description",
+      "1976_Carter_Jackson/answers_json/3607@50/description",
+      "1976_Ford_Dole/answers_json/3607@50/description",
+      "1976_Ford_Baker/answers_json/3607@46/description",
+      "1976_Ford_Anderson/answers_json/3607@50/description",
+      "1976_Ford_Connally/answers_json/3607@53/description"
+    ]
+  },
+  {
+    "source": "People disagree on this practice and decision, but the Supreme Court deserves our respect.",
+    "zh": "人们对这种做法和判决有不同意见，但最高法院值得我们尊重。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3608@48/description",
+      "1976_Carter_Church/answers_json/3608@53/description",
+      "1976_Carter_Glenn/answers_json/3608@49/description",
+      "1976_Carter_Jackson/answers_json/3608@51/description",
+      "1976_Ford_Dole/answers_json/3608@51/description",
+      "1976_Ford_Baker/answers_json/3608@47/description",
+      "1976_Ford_Anderson/answers_json/3608@51/description",
+      "1976_Ford_Connally/answers_json/3608@54/description"
+    ]
+  },
+  {
+    "source": "I'm personally opposed to abortion, but I respect this decision and will not try to overturn it.",
+    "zh": "我个人反对堕胎，但我尊重这个决定，不会试图推翻它。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3609@49/description",
+      "1976_Carter_Church/answers_json/3609@54/description",
+      "1976_Carter_Glenn/answers_json/3609@50/description",
+      "1976_Carter_Jackson/answers_json/3609@52/description",
+      "1976_Ford_Dole/answers_json/3609@52/description",
+      "1976_Ford_Baker/answers_json/3609@48/description",
+      "1976_Ford_Anderson/answers_json/3609@52/description",
+      "1976_Ford_Connally/answers_json/3609@55/description"
+    ]
+  },
+  {
+    "source": "I am a pro-choice candidate, and I support the <em>Roe v. Wave</em> decision.",
+    "zh": "我是一名支持堕胎的候选人，我支持 <em>罗伊诉波</em> 决定。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3610@50/description",
+      "1976_Carter_Church/answers_json/3610@55/description",
+      "1976_Carter_Glenn/answers_json/3610@51/description",
+      "1976_Carter_Jackson/answers_json/3610@53/description",
+      "1976_Ford_Dole/answers_json/3610@53/description",
+      "1976_Ford_Baker/answers_json/3610@49/description",
+      "1976_Ford_Anderson/answers_json/3610@53/description",
+      "1976_Ford_Connally/answers_json/3610@56/description"
+    ]
+  },
+  {
+    "source": "We need to cultivate relationships like the ones we have with Iran and Saudi Arabia, to ensure that we have support from Middle Eastern oil producers.",
+    "zh": "我们需要培养与伊朗和沙特阿拉伯那样的关系，以确保我们得到中东石油生产国的支持。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3615@51/description",
+      "1976_Carter_Glenn/answers_json/3615@56/description",
+      "1976_Carter_Jackson/answers_json/3615@58/description",
+      "1976_Ford_Dole/answers_json/3615@58/description",
+      "1976_Ford_Anderson/answers_json/3615@58/description"
+    ]
+  },
+  {
+    "source": "I'm a big supporter of domestic oil production. One thing we can definitely do is begin to drill in Alaska.",
+    "zh": "我是国内石油生产的大力支持者。我们绝对可以做的一件事就是开始钻研阿拉斯加州。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3616@52/description",
+      "1976_Carter_Glenn/answers_json/3616@57/description",
+      "1976_Carter_Jackson/answers_json/3616@59/description",
+      "1976_Ford_Dole/answers_json/3616@59/description",
+      "1976_Ford_Anderson/answers_json/3616@59/description"
+    ]
+  },
+  {
+    "source": "The crisis resulted from a regional war against Israel. We need to work towards lasting peace agreements to prevent this in the future.",
+    "zh": "这场危机是针对以色列的地区战争造成的。我们需要努力达成持久和平协议，以防止未来再次发生这种情况。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3617@53/description",
+      "1976_Carter_Glenn/answers_json/3617@58/description",
+      "1976_Carter_Jackson/answers_json/3617@60/description",
+      "1976_Ford_Dole/answers_json/3617@60/description",
+      "1976_Ford_Anderson/answers_json/3617@60/description"
+    ]
+  },
+  {
+    "source": "We need to do anything we can, including reducing our consumption, working for peace deals, producing domestically, and stabilizing our relationships with oil-producing allies.",
+    "zh": "我们需要尽一切努力，包括减少消费、争取和平协议、国内生产以及稳定与产油盟友的关系。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3618@54/description",
+      "1976_Carter_Glenn/answers_json/3618@59/description",
+      "1976_Carter_Jackson/answers_json/3618@61/description",
+      "1976_Ford_Dole/answers_json/3618@61/description",
+      "1976_Ford_Anderson/answers_json/3618@61/description"
+    ]
+  },
+  {
+    "source": "I am a strong supporter of labor unions and I would support this type of measure.",
+    "zh": "我是工会的坚定支持者，我会支持此类措施。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3626@55/description",
+      "1976_Carter_Glenn/answers_json/3626@66/description",
+      "1976_Ford_Dole/answers_json/3626@64/description",
+      "1976_Ford_Baker/answers_json/3626@60/description",
+      "1976_Ford_Connally/answers_json/3626@63/description"
+    ]
+  },
+  {
+    "source": "This isn't an issue that I have strong feelings about, one way or the other. I think it is the kind of thing that each state can figure out for themselves.",
+    "zh": "不管怎样，这不是一个我有强烈感受的问题。我认为这是每个州都可以自己解决的问题。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3627@56/description",
+      "1976_Carter_Glenn/answers_json/3627@67/description",
+      "1976_Ford_Dole/answers_json/3627@65/description",
+      "1976_Ford_Baker/answers_json/3627@61/description",
+      "1976_Ford_Connally/answers_json/3627@64/description"
+    ]
+  },
+  {
+    "source": "I go more the other way on this issue. I think that more states should be right-to-work. Unions dangerously distort the economy and the political process.",
+    "zh": "在这个问题上我更多地采取了另一种方式。我认为应该有更多的州工作权。工会危险地扭曲了经济和政治进程。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3628@57/description",
+      "1976_Carter_Glenn/answers_json/3628@68/description",
+      "1976_Ford_Dole/answers_json/3628@66/description",
+      "1976_Ford_Baker/answers_json/3628@62/description",
+      "1976_Ford_Connally/answers_json/3628@65/description"
+    ]
+  },
+  {
+    "source": "I believe we should implement an immediate moratorium on the testing of nuclear devices.",
+    "zh": "我认为我们应该立即暂停核装置试验。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3629@58/description",
+      "1976_Carter_Church/answers_json/3629@66/description",
+      "1976_Ford_Baker/answers_json/3629@63/description",
+      "1976_Ford_Anderson/answers_json/3629@66/description"
+    ]
+  },
+  {
+    "source": "This is an issue I'd have to consider carefully, but perhaps if we got the Soviet Union on board I'd be open to it.",
+    "zh": "这是一个我必须仔细考虑的问题，但也许如果我们让苏联加入，我会对此持开放态度。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3630@59/description",
+      "1976_Carter_Church/answers_json/3630@67/description",
+      "1976_Ford_Baker/answers_json/3630@64/description",
+      "1976_Ford_Anderson/answers_json/3630@67/description"
+    ]
+  },
+  {
+    "source": "I don't believe so. Our nation's security depends on being adequately prepared to face Soviet aggression.",
+    "zh": "我不这么认为。我们国家的安全取决于是否做好充分准备应对苏联的侵略。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3631@60/description",
+      "1976_Carter_Church/answers_json/3631@68/description",
+      "1976_Ford_Baker/answers_json/3631@65/description",
+      "1976_Ford_Anderson/answers_json/3631@68/description"
+    ]
+  },
+  {
+    "source": "I don't really care too much one way or the other. As long as we have sufficient supplies in the U.S., we should ship grain to whoever will pay for it.",
+    "zh": "我并不太关心其中一种方式。只要美国有足够的供应，我们就应该把粮食运送给谁付钱。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3632@61/description",
+      "1976_Carter_Church/answers_json/3632@69/description",
+      "1976_Carter_Jackson/answers_json/3632@64/description",
+      "1976_Ford_Dole/answers_json/3632@67/description",
+      "1976_Ford_Baker/answers_json/3632@66/description"
+    ]
+  },
+  {
+    "source": "This policy is a win-win for us. It helps our own farmers prosper, and it is a public relations victory for the world to see the Soviet Union depending on American enterprise.",
+    "zh": "这项政策对我们来说是双赢的。它帮助我们自己的农民繁荣，看到苏联依赖美国企业，这对世界来说是一次公共关系的胜利。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3633@62/description",
+      "1976_Carter_Church/answers_json/3633@70/description",
+      "1976_Carter_Jackson/answers_json/3633@65/description",
+      "1976_Ford_Dole/answers_json/3633@68/description",
+      "1976_Ford_Baker/answers_json/3633@67/description"
+    ]
+  },
+  {
+    "source": "This policy helps support an unsustainable Soviet system. I believe that we should never bail out communism from its failures if we're serious about winning the Cold War.",
+    "zh": "这项政策有助于支持不可持续的苏联体系。我相信，如果我们真的想赢得冷战，我们就不应该将共产主义从其失败中拯救出来。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3634@63/description",
+      "1976_Carter_Church/answers_json/3634@71/description",
+      "1976_Carter_Jackson/answers_json/3634@66/description",
+      "1976_Ford_Dole/answers_json/3634@69/description",
+      "1976_Ford_Baker/answers_json/3634@68/description"
+    ]
+  },
+  {
+    "source": "This is an idea that I support, and I will try my best to see it implemented.",
+    "zh": "这是我支持的想法，我会尽力实现它。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3635@64/description",
+      "1976_Carter_Jackson/answers_json/3635@67/description",
+      "1976_Ford_Dole/answers_json/3635@70/description",
+      "1976_Ford_Baker/answers_json/3635@69/description",
+      "1976_Ford_Anderson/answers_json/3635@69/description",
+      "1976_Ford_Connally/answers_json/3635@66/description"
+    ]
+  },
+  {
+    "source": "This is an interesting idea, but I'm more concerned about issues like education and health care.",
+    "zh": "这是一个有趣的想法，但我更关心教育和医疗保健等问题。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3636@65/description",
+      "1976_Carter_Jackson/answers_json/3636@68/description",
+      "1976_Ford_Dole/answers_json/3636@71/description",
+      "1976_Ford_Baker/answers_json/3636@70/description",
+      "1976_Ford_Anderson/answers_json/3636@70/description",
+      "1976_Ford_Connally/answers_json/3636@67/description"
+    ]
+  },
+  {
+    "source": "I think the current forms of tax exemptions and aid we have are sufficient. This would be another huge, costly, and complicated program to administer when we are trying to reduce our deficit.",
+    "zh": "我认为目前我们拥有的免税和援助形式已经足够了。当我们试图减少赤字时，这将是另一个庞大、昂贵且复杂的管理计划。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3637@66/description",
+      "1976_Carter_Jackson/answers_json/3637@69/description",
+      "1976_Ford_Dole/answers_json/3637@72/description",
+      "1976_Ford_Baker/answers_json/3637@71/description",
+      "1976_Ford_Anderson/answers_json/3637@71/description",
+      "1976_Ford_Connally/answers_json/3637@68/description"
+    ]
+  },
+  {
+    "source": "This kind of idea is way off the mark. We need to focus on reducing the size of government and lowering taxes.",
+    "zh": "这种想法完全不切实际。我们需要集中精力减少政府规模和降低税收。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3638@67/description",
+      "1976_Carter_Jackson/answers_json/3638@70/description",
+      "1976_Ford_Dole/answers_json/3638@73/description",
+      "1976_Ford_Baker/answers_json/3638@72/description",
+      "1976_Ford_Anderson/answers_json/3638@72/description",
+      "1976_Ford_Connally/answers_json/3638@69/description"
+    ]
+  },
+  {
+    "source": "I think the fact that this regime collapsed so fast once American troops were gone shows how unsound it really was. We should have never fought the Vietnam War in the first place.",
+    "zh": "我认为，一旦美国军队消失，这个政权就崩溃得如此之快，这表明它确实是多么不健全。我们一开始就不应该与越南战争作战。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3639@68/description",
+      "1976_Carter_Church/answers_json/3639@72/description",
+      "1976_Carter_Glenn/answers_json/3639@69/description",
+      "1976_Ford_Dole/answers_json/3639@74/description",
+      "1976_Ford_Connally/answers_json/3639@70/description"
+    ]
+  },
+  {
+    "source": "We did our best in Vietnam, but unfortunately things didn't turn out the way we wanted.",
+    "zh": "我们在越南尽了最大努力，但不幸的是事情并没有按照我们想要的方式发展。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3640@69/description",
+      "1976_Carter_Church/answers_json/3640@73/description",
+      "1976_Carter_Glenn/answers_json/3640@70/description",
+      "1976_Ford_Dole/answers_json/3640@75/description",
+      "1976_Ford_Connally/answers_json/3640@71/description"
+    ]
+  },
+  {
+    "source": "We were trying to provide more aid to South Vietnam, but Congress would not approve additional expenditures. The results of that policy are clear.",
+    "zh": "我们试图向南越提供更多援助，但国会不会批准额外支出。该政策的结果是显而易见的。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3641@70/description",
+      "1976_Carter_Church/answers_json/3641@74/description",
+      "1976_Carter_Glenn/answers_json/3641@71/description",
+      "1976_Ford_Dole/answers_json/3641@76/description",
+      "1976_Ford_Connally/answers_json/3641@72/description"
+    ]
+  },
+  {
+    "source": "We defeated ourselves throughout this war. American firepower could have knocked North Vietnam into submission if we had been more aggressive.",
+    "zh": "在这场战争中我们打败了自己。如果我们更具侵略性，美国的火力可能会让北越屈服。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3642@71/description",
+      "1976_Carter_Church/answers_json/3642@75/description",
+      "1976_Carter_Glenn/answers_json/3642@72/description",
+      "1976_Ford_Dole/answers_json/3642@77/description",
+      "1976_Ford_Connally/answers_json/3642@73/description"
+    ]
+  },
+  {
+    "source": "Absolutely I do. We should not tolerate high unemployment in this country, and this Act provides the tools to prevent it.",
+    "zh": "我当然愿意。我们不应该容忍这个国家的高失业率，该法案提供了防止这种情况发生的工具。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3643@72/description",
+      "1976_Carter_Church/answers_json/3643@76/description",
+      "1976_Carter_Glenn/answers_json/3643@73/description",
+      "1976_Carter_Jackson/answers_json/3643@71/description",
+      "1976_Ford_Dole/answers_json/3643@78/description",
+      "1976_Ford_Baker/answers_json/3643@73/description",
+      "1976_Ford_Anderson/answers_json/3643@73/description",
+      "1976_Ford_Connally/answers_json/3643@74/description"
+    ]
+  },
+  {
+    "source": "I'm all for some programs to provide jobs, but this Act has too many mandates and goals that are inconsistent with each other. We can't have a balanced budget, full employment, and low inflation at the same time.",
+    "zh": "我完全支持一些提供就业机会的计划，但该法案有太多相互不一致的任务和目标。我们不可能同时拥有平衡预算、充分就业和低通胀。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3644@73/description",
+      "1976_Carter_Church/answers_json/3644@77/description",
+      "1976_Carter_Glenn/answers_json/3644@74/description",
+      "1976_Carter_Jackson/answers_json/3644@72/description",
+      "1976_Ford_Dole/answers_json/3644@79/description",
+      "1976_Ford_Baker/answers_json/3644@74/description",
+      "1976_Ford_Anderson/answers_json/3644@74/description",
+      "1976_Ford_Connally/answers_json/3644@75/description"
+    ]
+  },
+  {
+    "source": "I can see both sides of this issue, but if Congress passes this Act I won't veto it as President.",
+    "zh": "我可以看到这个问题的两面，但如果国会通过这项法案，我不会作为总统否决它。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3645@74/description",
+      "1976_Carter_Church/answers_json/3645@78/description",
+      "1976_Carter_Glenn/answers_json/3645@75/description",
+      "1976_Carter_Jackson/answers_json/3645@73/description",
+      "1976_Ford_Dole/answers_json/3645@80/description",
+      "1976_Ford_Baker/answers_json/3645@75/description",
+      "1976_Ford_Anderson/answers_json/3645@75/description",
+      "1976_Ford_Connally/answers_json/3645@76/description"
+    ]
+  },
+  {
+    "source": "This Act has no basis in economic reality. If we could wave a magic wand and ensure 3% unemployment and 0% inflation with a balanced budget and no trade deficit, do you think we wouldn't have done it already?",
+    "zh": "该法案没有经济现实基础。如果我们能够挥舞魔杖，确保 3% 的失业率和 0% 的通胀率，同时预算平衡且没有贸易赤字，你认为我们不会这么做吗？",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3646@75/description",
+      "1976_Carter_Church/answers_json/3646@79/description",
+      "1976_Carter_Glenn/answers_json/3646@76/description",
+      "1976_Carter_Jackson/answers_json/3646@74/description",
+      "1976_Ford_Dole/answers_json/3646@81/description",
+      "1976_Ford_Baker/answers_json/3646@76/description",
+      "1976_Ford_Anderson/answers_json/3646@76/description",
+      "1976_Ford_Connally/answers_json/3646@77/description"
+    ]
+  },
+  {
+    "source": "I would absolutely support a law like this as President. It is past time that our nation had health coverage for all.",
+    "zh": "作为总统，我绝对会支持这样的法律。我们国家为所有人提供医疗保险的时代已经过去了。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3647@76/description",
+      "1976_Carter_Church/answers_json/3647@80/description",
+      "1976_Carter_Glenn/answers_json/3647@77/description",
+      "1976_Carter_Jackson/answers_json/3647@75/description",
+      "1976_Ford_Dole/answers_json/3647@82/description",
+      "1976_Ford_Baker/answers_json/3647@77/description",
+      "1976_Ford_Anderson/answers_json/3647@77/description",
+      "1976_Ford_Connally/answers_json/3647@78/description"
+    ]
+  },
+  {
+    "source": "It would depend on things like how the law worked, and how we would pay for it. But I'm not opposed to it in theory.",
+    "zh": "这取决于法律如何运作以及我们如何支付费用等因素。但理论上我并不反对。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3648@77/description",
+      "1976_Carter_Church/answers_json/3648@81/description",
+      "1976_Carter_Glenn/answers_json/3648@78/description",
+      "1976_Carter_Jackson/answers_json/3648@76/description",
+      "1976_Ford_Dole/answers_json/3648@83/description",
+      "1976_Ford_Baker/answers_json/3648@78/description",
+      "1976_Ford_Anderson/answers_json/3648@78/description",
+      "1976_Ford_Connally/answers_json/3648@79/description"
+    ]
+  },
+  {
+    "source": "I think it is a noble goal, but it would add too much of a financial burden to the federal budget, which is already running a deficit.",
+    "zh": "我认为这是一个崇高的目标，但它会给已经出现赤字的联邦预算增加太多的财政负担。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3649@78/description",
+      "1976_Carter_Church/answers_json/3649@82/description",
+      "1976_Carter_Glenn/answers_json/3649@79/description",
+      "1976_Carter_Jackson/answers_json/3649@77/description",
+      "1976_Ford_Dole/answers_json/3649@84/description",
+      "1976_Ford_Baker/answers_json/3649@79/description",
+      "1976_Ford_Anderson/answers_json/3649@79/description",
+      "1976_Ford_Connally/answers_json/3649@80/description"
+    ]
+  },
+  {
+    "source": "Absolutely not. Not only would this ruin the federal budget, but it would also eliminate competition and lead to substandard health care for the vast majority of Americans.",
+    "zh": "绝对不是。这不仅会破坏联邦预算，还会消除竞争并导致绝大多数美国人的医疗保健不合格。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3650@79/description",
+      "1976_Carter_Church/answers_json/3650@83/description",
+      "1976_Carter_Glenn/answers_json/3650@80/description",
+      "1976_Carter_Jackson/answers_json/3650@78/description",
+      "1976_Ford_Dole/answers_json/3650@85/description",
+      "1976_Ford_Baker/answers_json/3650@80/description",
+      "1976_Ford_Anderson/answers_json/3650@80/description",
+      "1976_Ford_Connally/answers_json/3650@81/description"
+    ]
+  },
+  {
+    "source": "Even if permitted, I would hope that our states would move to abolish the death penalty.",
+    "zh": "即使允许，我也希望我们的州能够采取行动废除死刑。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3651@80/description",
+      "1976_Carter_Glenn/answers_json/3651@81/description",
+      "1976_Carter_Jackson/answers_json/3651@79/description",
+      "1976_Ford_Baker/answers_json/3651@81/description",
+      "1976_Ford_Anderson/answers_json/3651@81/description",
+      "1976_Ford_Connally/answers_json/3651@82/description"
+    ]
+  },
+  {
+    "source": "I'm opposed to the death penalty overall, but I could support it for a few particularly heinous crimes.",
+    "zh": "我总体上反对死刑，但对于一些特别令人发指的罪行我可以支持死刑。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3652@81/description",
+      "1976_Carter_Glenn/answers_json/3652@82/description",
+      "1976_Carter_Jackson/answers_json/3652@80/description",
+      "1976_Ford_Baker/answers_json/3652@82/description",
+      "1976_Ford_Anderson/answers_json/3652@82/description",
+      "1976_Ford_Connally/answers_json/3652@83/description"
+    ]
+  },
+  {
+    "source": "I'm neutral when it comes to the death penalty. This is an issue for the states to decide.",
+    "zh": "我对死刑持中立态度。这是各州需要决定的问题。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3653@82/description",
+      "1976_Carter_Glenn/answers_json/3653@83/description",
+      "1976_Carter_Jackson/answers_json/3653@81/description",
+      "1976_Ford_Baker/answers_json/3653@83/description",
+      "1976_Ford_Anderson/answers_json/3653@83/description",
+      "1976_Ford_Connally/answers_json/3653@84/description"
+    ]
+  },
+  {
+    "source": "This is a positive step forward for our criminal justice system. Certain crimes, like murder, demand such punishment if true justice is to prevail.",
+    "zh": "这是我们刑事司法系统向前迈出的积极一步。如果真正的正义得以伸张，某些罪行，例如谋杀，就需要这样的惩罚。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3654@83/description",
+      "1976_Carter_Glenn/answers_json/3654@84/description",
+      "1976_Carter_Jackson/answers_json/3654@82/description",
+      "1976_Ford_Baker/answers_json/3654@84/description",
+      "1976_Ford_Anderson/answers_json/3654@84/description",
+      "1976_Ford_Connally/answers_json/3654@85/description"
+    ]
+  },
+  {
+    "source": "We will hit the West Coast hard, from Washington, through Oregon, down to California.",
+    "zh": "我们将重击西海岸，从华盛顿州，到俄勒冈州，一直到加利福尼亚州。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3655@84/description",
+      "1976_Carter_Church/answers_json/3655@84/description",
+      "1976_Carter_Glenn/answers_json/3655@85/description",
+      "1976_Carter_Jackson/answers_json/3655@83/description",
+      "1976_Ford_Dole/answers_json/3655@86/description",
+      "1976_Ford_Baker/answers_json/3655@85/description",
+      "1976_Ford_Anderson/answers_json/3655@85/description",
+      "1976_Ford_Connally/answers_json/3655@86/description"
+    ]
+  },
+  {
+    "source": "We will focus on the Southwest, starting in New Mexico and Oklahoma, and finishing in Texas.",
+    "zh": "我们将重点关注西南地区，从新墨西哥州和俄克拉何马州开始，到得克萨斯州结束。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3656@85/description",
+      "1976_Carter_Church/answers_json/3656@85/description",
+      "1976_Carter_Glenn/answers_json/3656@86/description",
+      "1976_Carter_Jackson/answers_json/3656@84/description",
+      "1976_Ford_Dole/answers_json/3656@87/description",
+      "1976_Ford_Baker/answers_json/3656@86/description",
+      "1976_Ford_Anderson/answers_json/3656@86/description",
+      "1976_Ford_Connally/answers_json/3656@87/description"
+    ]
+  },
+  {
+    "source": "The Midwest is critical. We'll hit as many states as we can between Iowa and Ohio.",
+    "zh": "中西部地区至关重要。我们将在艾奥瓦州和俄亥俄州之间触及尽可能多的州。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3657@86/description",
+      "1976_Carter_Church/answers_json/3657@86/description",
+      "1976_Carter_Glenn/answers_json/3657@87/description",
+      "1976_Carter_Jackson/answers_json/3657@85/description",
+      "1976_Ford_Dole/answers_json/3657@88/description",
+      "1976_Ford_Baker/answers_json/3657@87/description",
+      "1976_Ford_Anderson/answers_json/3657@87/description",
+      "1976_Ford_Connally/answers_json/3657@88/description"
+    ]
+  },
+  {
+    "source": "The East Coast -- from Maryland and Pennsylvania to New York and Connecticut.",
+    "zh": "东海岸 -- 从马里兰州和宾夕法尼亚州到纽约州和康涅狄格州。",
+    "keys": [
+      "1976_Carter_Mondale/answers_json/3658@87/description",
+      "1976_Carter_Church/answers_json/3658@87/description",
+      "1976_Carter_Glenn/answers_json/3658@88/description",
+      "1976_Carter_Jackson/answers_json/3658@86/description",
+      "1976_Ford_Dole/answers_json/3658@89/description",
+      "1976_Ford_Baker/answers_json/3658@88/description",
+      "1976_Ford_Anderson/answers_json/3658@88/description",
+      "1976_Ford_Connally/answers_json/3658@89/description"
+    ]
+  },
+  {
+    "source": "Your response is really in tune with the mood of the country.",
+    "zh": "你的回应确实符合这个国家的情绪。",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/999@0/answer_feedback",
+      "1976_Carter_Mondale/answer_feedback_json/1003@4/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/999@2/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1003@6/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/999@2/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1003@6/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/999@0/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1003@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "Political issues are secondary to character issues, and the Democrats are anxious to win after '68 and '72. ",
+    "zh": "政治问题比品格问题次要，民主党在 68 年和 72 年之后渴望获胜。 ",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1000@1/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1000@3/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1000@3/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1000@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "Political issues are secondary to character issues, and there's no need to pigeonhole yourself yet.",
+    "zh": "政治问题相对于性格问题来说是次要的，目前还没有必要将自己归类。",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1001@2/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1001@4/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1001@4/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1001@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Voters want honesty in government, but this message sounds a little strident.",
+    "zh": "选民希望政府诚实，但这个信息听起来有点刺耳。",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1002@3/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1002@5/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1002@5/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1002@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "Voters do want to hear about your character. Don't downplay it.",
+    "zh": "选民确实想听听你的性格。不要轻视它。",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1004@5/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1004@7/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1004@7/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1004@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Voters want honesty in government, but this message sounds a little strident. It is also offensive to the Johnson bloc of the party.",
+    "zh": "选民希望政府诚实，但这个信息听起来有点刺耳。这也冒犯了该党的约翰逊集团。",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1005@6/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1005@8/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1005@8/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1005@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "For a campaign based on honesty and openness, sitting out the debates does not send a good message.",
+    "zh": "你的竞选以诚实和公开为旗帜，拒绝参加辩论可传递不出什么好信号。",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1006@7/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1006@9/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1006@9/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1006@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "Unfortunately, Ford performed pretty well in these debates. Furthermore, as the election gets closer, the economy is improving and voters are giving things a closer look...",
+    "zh": "不幸的是，福特在这些辩论中表现得相当好。此外，随着选举的临近，经济正在改善，选民也开始更仔细地审视事情......",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1007@8/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1007@10/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1007@10/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1007@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "Ford performed well, except for an unfortunate gaffe about the Soviet Union and Eastern Europe. Furthermore, as the election gets closer, the economy is improving and voters are giving things a closer look...",
+    "zh": "福特表现良好，除了关于苏联和东欧的不幸失态之外。此外，随着选举的临近，经济正在改善，选民也开始更仔细地审视事情......",
+    "keys": [
+      "1976_Carter_Mondale/answer_feedback_json/1008@9/answer_feedback",
+      "1976_Carter_Mondale/answer_feedback_json/1009@10/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1008@11/answer_feedback",
+      "1976_Carter_Church/answer_feedback_json/1009@12/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1008@11/answer_feedback",
+      "1976_Carter_Glenn/answer_feedback_json/1009@12/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1008@9/answer_feedback",
+      "1976_Carter_Jackson/answer_feedback_json/1009@10/answer_feedback"
+    ]
+  }
+]

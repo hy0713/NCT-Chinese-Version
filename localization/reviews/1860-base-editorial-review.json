@@ -1,0 +1,176 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1860-base",
+  "uniqueSourcesReviewed": 15,
+  "recordPositions": 16,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>Abraham Lincoln runs as the Republican against his rival Stephen A. Douglas. Slavery is the dominant issue and has caused two splinter candidates to step forward -- Breckinridge and Bell -- both with Southern roots.</p><ul><li>Lincoln begins with the lead, and must simply hold his Northern coalition together to take the victory.</li><li>The other three candidates must find some way to prevent a Lincoln victory. In that case, the House of Representatives will choose.</li>\r</ul>",
+      "sha256": "b370e4f11616f0f17e8c7533e2c9de685f954e852e66ad1a5922b35c4d901c9e",
+      "zh": "<p>亚伯拉罕·林肯代表共和党，迎战对手斯蒂芬·A.·道格拉斯。奴隶制是主导议题，也促使两位具有南方背景的分裂阵营候选人——布雷肯里奇和贝尔——加入角逐。</p><ul><li>林肯起初领先，只需维持北方联盟的团结，就能获胜。</li><li>另外三位候选人必须设法阻止林肯获胜。若做到这一点，便由众议院选出总统。</li></ul>",
+      "keys": [
+        "base/election_json/8@13/summary",
+        "base/election_json/8@17/summary"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<p>Abraham Lincoln begins the campaign in a strong position. The new Republican Party is largely united, and his advantage in several Northern states is overwhelming. The challenge will be to win the closer states, like Illinois, New York, and Ohio. To do so he must finesse several hot issues of the day, not the least of which is slavery.</p><p>Other Republican issues such as tariffs, homesteads, and a trans-continental railroad also dominate the discussion.</p>",
+      "sha256": "cf7c90e44bc4545a729e82490585e530fd6721b4967e9d2836bde200dafa646e",
+      "zh": "<p>亚伯拉罕·林肯在竞选开始时形势强劲。新成立的共和党基本团结，他在若干北方州的优势压倒性地大。挑战在于赢得伊利诺伊、纽约、俄亥俄等选情较胶着的州。为此，他必须巧妙处理当今几个热门议题，其中尤其包括奴隶制。</p><p>关税、宅地和横贯大陆铁路等共和党主张，也占据了讨论的重要位置。</p>",
+      "keys": [
+        "base/candidate_json/67@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Congratulations! You have won the 1860 Presidential Election.</h3><p>Don't celebrate just yet, however. Word has already arrived that South Carolina is planning a secession convention, with other states soon to follow. Your Presidency will surely be defined by how you deal with this challenge. Will you take a hard line against this action, seek a compromise Amendment to protect slavery, or simply allow the states to secede? There are few good choices for you.</p>",
+      "sha256": "b3632a41d0f5461377801a616d2143af2ee4435e8999838ee4c9b214fb33e7d8",
+      "zh": "<h3>恭喜！你赢得了1860年总统大选。</h3><p>不过，先别庆祝。消息已经传来：南卡罗来纳正准备召开脱离联邦的大会，其他州很快也会跟进。如何应对这一挑战，必将决定你的总统任期。你会强硬反对这一行动，寻求保护奴隶制的妥协性宪法修正案，还是直接允许各州脱离联邦？你的好选择并不多。</p>",
+      "keys": [
+        "base/candidate_json/67@47/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "<h3>Sorry. You have lost the 1860 Presidential Election.</h3><p>You began this campaign as the heavy favorite, but somehow things just didn't come together for you. Hopefully the nation will survive the next four years, at which point the Republicans can field a candidate who promises to win. The only positive you can take out of this is that the Southern threats of secession seem to have quieted down with your defeat.</p>",
+      "sha256": "2a9f8962398e3057b878e128fec276f444c0a5f12a4792afefdf8b98ad05119d",
+      "zh": "<h3>很遗憾，你输掉了1860年总统大选。</h3><p>竞选开始时，你是被压倒性看好的候选人，但不知为何，事情就是没有顺利推进。但愿国家能撑过未来四年，到时共和党可以推出一位有望获胜的候选人。唯一值得安慰的是：随着你落败，南方关于脱离联邦的威胁似乎也平息了。</p>",
+      "keys": [
+        "base/candidate_json/67@47/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>No candidate captured an Electoral College majority.</h3><p>This leaves everyone in a bad situation. Congress will now choose from the top three candidates in the electoral vote count. You are highly unlikely to be the compromise candidate in this situation, however. It is unclear whether Congress will select Douglas or Bell, or if they will deadlock and precipitate a Constitutional crisis. If Douglas is selected, how would the South react? There are even whispers about a civil war.</p>",
+      "sha256": "05c429311306f0b5edf27d966bef0a38247583a4212c3cd3e10f9ad0c97a88ac",
+      "zh": "<h3>没有候选人获得选举人票的过半数。</h3><p>这让所有人都陷入了困境。国会现在将从选举人票最多的三名候选人中作出选择。不过，在这种局面下，你极不可能成为各方妥协的人选。目前还不清楚，国会会选择道格拉斯或贝尔，还是陷入僵局、引发宪政危机。如果选中道格拉斯，南方会如何反应？甚至已经有人私下谈论内战。</p>",
+      "keys": [
+        "base/candidate_json/67@47/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "<p>Stephen Douglas, thanks to a Democratic schism, has little hope of winning the election outright. His path to victory involves throwing the election the House, and finishing in the top three in the electoral vote count. In this case, he could win or at least deny the Republicans a victory.</p><p>Douglas has been a proponent of 'popular sovereignty', but this compromise has lost its luster in North and South alike. If he is to deny Lincoln a majority, he must carry some Northern states.</p>",
+      "sha256": "b726d9431f4af5ea9089f966cc23bcf2755e71571903444054bca161ee81e7dc",
+      "zh": "<p>由于民主党分裂，斯蒂芬·道格拉斯几乎没有直接赢得大选的希望。他的胜选道路，是把选举拖入众议院，同时在选举人票排名中进入前三。这样，他或许能获胜，至少也能阻止共和党胜利。</p><p>道格拉斯一直主张“人民主权”，但这个妥协办法在北方和南方都已失去吸引力。若想阻止林肯取得过半数，他必须拿下若干北方州。</p>",
+      "keys": [
+        "base/candidate_json/68@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>Congratulations! You have won the 1860 Presidential Election.</h3><p>How on earth did you pull this off? Hopefully you can soothe the frayed nerves from this turbulent campaign, and move the country past its slavery issues of the 1850s. Your supporters are already preparing a compromise amendment, offering permanent protection for slavery in the South in return for the admission of more free states. An invasion of Cuba may also be in order.</p>",
+      "sha256": "6c53a0f08d200548a46c597a6a74e7b3ae54b49169a172291f6f4cd865da1a40",
+      "zh": "<h3>恭喜！你赢得了1860年总统大选。</h3><p>你究竟是怎么做到的？但愿你能安抚这场动荡竞选中绷紧的神经，让国家走出1850年代的奴隶制纷争。支持者已经开始筹备妥协性宪法修正案：永久保护南方奴隶制，换取接纳更多自由州。或许还会考虑入侵古巴。</p>",
+      "keys": [
+        "base/candidate_json/68@48/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "<h3>Sorry. You have lost the 1860 Presidential Election.</h3><p>You began this campaign as the heavy underdog, and sure enough you were shut out of the North and South alike. Depending on what happens next, you may be called upon to keep the Democratic Party loyal to the Union. There are already rumblings of secession from several Southern states.</p>",
+      "sha256": "d28ce5c576dab1db86e06decec938bd2d51d38e10090435259164aaaa0fe35a7",
+      "zh": "<h3>很遗憾，你输掉了1860年总统大选。</h3><p>竞选开始时，你就极不被看好，结果果然在北方和南方都未能打开局面。视接下来发生的事情而定，你或许会被要求设法让民主党继续忠于联邦。几个南方州已经传出脱离联邦的风声。</p>",
+      "keys": [
+        "base/candidate_json/68@48/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "<h3>No candidate captured an Electoral College majority.</h3><p>Congress will now choose from the top three candidates in the electoral vote count. If you are in the top three, you have a great chance. Otherwise, Bell will be the favorite. Your supporters are already preparing a compromise amendment, offering permanent protection for slavery in the South in return for the admission of more free states. You will likely have to make such promises to prevent a deadlock in the House vote.</p>",
+      "sha256": "356ecc54da9fbf5a04b95121fd516391915e8e3446cf1209cd3e631c855daa4a",
+      "zh": "<h3>没有候选人获得选举人票的过半数。</h3><p>国会现在将从选举人票最多的三名候选人中作出选择。如果你位列前三，就很有机会；否则，贝尔将最被看好。支持者已经开始筹备妥协性宪法修正案：永久保护南方奴隶制，换取接纳更多自由州。你很可能必须作出这类承诺，才能避免众议院投票陷入僵局。</p>",
+      "keys": [
+        "base/candidate_json/68@48/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "<p>Hannibal Hamlin is a Senator and former Governor from Maine and a long-time opponent of slavery. It was this issue that caused him to change his allegiance from the Democratic Party in 1856, in the aftermath of the Kansas-Nebraska Act. Hamlin will help to balance the ticket regionally and give it name recognition.</p>",
+      "sha256": "8adaf2bd2ae07f843c5b3856b3fabea61d5ccb6730a05e12d14a3f8e465a8497",
+      "zh": "<p>汉尼拔·哈姆林是来自缅因州的联邦参议员、前州长，也是长期反对奴隶制的人。正是这个问题，促使他在《堪萨斯—内布拉斯加法》通过之后，于1856年离开民主党。他能在地域上平衡竞选组合，并提升组合的知名度。</p>",
+      "keys": [
+        "base/candidate_json/71@51/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "<p>Herschel Johnson is a former Governor of Georgia with a stated opposition to the Fire-Eaters and talk of secession. He is one of the last leading Democrats of the South to have not bolted to the Southern Democrat splinter party. Unfortunately, it is not very likely that Johnson's presence will help Douglas compete with Breckenridge or Bell in the South.</p>",
+      "sha256": "77ffc67b10388d6b83255847a7e3f58ee7d35fab6cbc8338005eb69af7ea0deb",
+      "zh": "<p>赫歇尔·约翰逊曾任佐治亚州州长，公开反对南方“喷火派”和脱离联邦的言论。他是南方主要民主党人中，最后一批尚未投向南方民主党分裂派的人物之一。可惜，他的加入不太可能帮助道格拉斯在南方与布雷肯里奇或贝尔竞争。</p>",
+      "keys": [
+        "base/candidate_json/72@52/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "<p>Cassius Clay is an anti-slavery publisher from Kentucky who has faced numerous threats to his life for the views he has taken. He served in the Kentucky House until his views hindered further political advancement in his home state. He has a wide reputation as an abolitionist publisher, and would help burnish the anti-slavery platform of the Republicans. Detractors claim that Clay is <em>too</em> extreme, and has a limited record in public office.<p>",
+      "sha256": "1f5cb3025088bc19a0b8e9fcc30a7b04b6d5bb5d52906ceff4c5a317c6272cc9",
+      "zh": "<p>卡修斯·克莱是来自肯塔基州的反奴隶制报刊出版人，因自己的观点，多次受到生命威胁。他曾在肯塔基州众议院任职，后来这些观点阻碍了他在家乡进一步发展政治事业。他作为废奴派出版人名声广泛，能强化共和党反奴隶制纲领的形象。批评者认为，克莱<em>过于</em>极端，而且公职经历有限。<p>",
+      "keys": [
+        "base/candidate_json/127@55/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "<p>Salmon Chase has served as Governor of Ohio and was influential in the founding of the Republican Party. He has worked on the behalf of fugitive slaves as an attorney and has strong anti-slavery credentials, while stopping just short of a call for outright abolitionism. He is also known to be ambitious, and might be an uneasy number two man to campaign with.</p>",
+      "sha256": "53e3e9f925309b242102b985632a0701a895a17b7d39416e56f246d74f5e91db",
+      "zh": "<p>萨蒙·蔡斯曾任俄亥俄州州长，并在共和党创立过程中发挥重要影响。他作为律师为逃亡奴隶辩护，拥有鲜明的反奴隶制资历，却没有进一步主张全面废奴。他也以雄心勃勃著称，与他搭档竞选，这位二号人物或许不容易相处。</p>",
+      "keys": [
+        "base/candidate_json/128@56/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "<p>James Guthrie served as Secretary of the Treasury under Franklin Pierce, and paid off most of the federal debt during that term. He is a slaveholder and states' rights advocate, but a bitter opponent of secession. His selection would allow Douglas to run with a Southerner who is still somewhat connected to the national political scene. Guthrie has also long advocated internal improvements and owns a railroad, which could attract some limited crossover support from former Whigs.</p>",
+      "sha256": "a8a7597412a112d21880700f23eceff97349ad8641cebf9b8c95f718f902e732",
+      "zh": "<p>詹姆斯·格思里在富兰克林·皮尔斯任内担任财政部长，期间偿还了大部分联邦债务。他是奴隶主，也主张州权，但坚决反对脱离联邦。选择他，可以让道格拉斯与一位仍与全国政坛保持一定联系的南方人搭档。格思里长期主张国内公共工程建设，并拥有一家铁路公司，这或许能吸引少量前辉格党人跨党支持。</p>",
+      "keys": [
+        "base/candidate_json/129@57/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "<p>Horatio Seymour has served as Governor of New York and is influential in that state's politics. By selecting him, Douglas would be running with an all-northern ticket, but he could gain valuable votes in the nation's largest state. Seymour has been associated with the \"Hunker\" faction of New York Democrats, who favor internal improvements and oppose agitation on the slavery issue. It would take some cajoling and possibly more for Seymour to accept the nomination.</p>",
+      "sha256": "6cee481b2431caa1fb1317ebeac54546495806d85eb4fd0a70a5c571da679fac",
+      "zh": "<p>霍雷肖·西摩曾任纽约州州长，在该州政坛颇有影响力。选择他，会让道格拉斯组成一个全北方的竞选组合，却也可能为他在全国最大的州赢得宝贵选票。西摩与纽约民主党的“保守派”（Hunkers）有关，该派支持国内公共工程，反对在奴隶制问题上鼓动争论。要让西摩接受提名，需要一番劝说，或许还不止如此。</p>",
+      "keys": [
+        "base/candidate_json/130@58/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

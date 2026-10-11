@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2000-danforth",
+  "uniqueSourcesReviewed": 1,
+  "recordPositions": 1,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 0,
+      "reason": "Four terms retained. Senate Manual records a short appointed vacancy term Dec27 1976-Jan2 1977 preceding three full terms; no claim of four full six-year terms or four elections. Exact source reread, independent full-field translation supplied."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>John Danforth served four terms as Senator from Missouri. He has broad experience in government, and as a moderate Republican would reinforce Bush's claim to be a uniter. Danforth also has close relationships with conservative stalwarts such as Kit Bond, Clarence Thomas, and John Ashcroft, and would not arouse undue suspicion from the conservative wing of the party. Winning Missouri back would be a key piece of any Republican victory in 2000.</p>",
+      "sha256": "e66ad1f3460945506e54140f4e91ff3a54ac5fa6a403a967a5b7d08bb8de673b",
+      "zh": "<p>约翰·丹福思曾任四届密苏里州参议员。他拥有丰富的政府任职经验，作为温和派共和党人，能加强布什自称团结者的形象。丹福思也与基特·邦德、克拉伦斯·托马斯和约翰·阿什克罗夫特等保守派中坚关系密切，不会引起党内保守派过多猜疑。要在2000年赢得大选，夺回密苏里州将是共和党不可缺少的一环。</p>",
+      "keys": [
+        "base/candidate_json/82@64/description_as_running_mate"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

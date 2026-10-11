@@ -1,0 +1,779 @@
+[
+  {
+    "source": "What is your reaction to the news that President Trump has contracted COVID-19 and been hospitalized?",
+    "zh": "您对总统特朗普感染了 COVID-19 并住院的消息有何反应？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1221@14/description",
+      "2020_Biden_Rice/questions_json/1221@14/description",
+      "2020_Biden_Duckworth/questions_json/1221@15/description",
+      "2020_Biden_Demings/questions_json/1221@15/description",
+      "2020_Biden_Bass/questions_json/1221@15/description",
+      "2020_Biden_Whitmer/questions_json/1221@16/description",
+      "2020_Biden_Warren/questions_json/1221@16/description"
+    ]
+  },
+  {
+    "source": "Are you open to attending the customary three debates with your opponent, Mr. Trump?",
+    "zh": "您愿意参加与您的对手特朗普先生举行的惯例三场辩论吗？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1220@15/description",
+      "2020_Biden_Rice/questions_json/1220@15/description",
+      "2020_Biden_Duckworth/questions_json/1220@16/description",
+      "2020_Biden_Demings/questions_json/1220@14/description",
+      "2020_Biden_Bass/questions_json/1220@14/description",
+      "2020_Biden_Whitmer/questions_json/1220@15/description",
+      "2020_Biden_Warren/questions_json/1220@15/description"
+    ]
+  },
+  {
+    "source": "There has been an increase in Asian-American hate crimes in 2020, along with the rise of COVID and the inflammatory statements of Trump. What do you think about this?",
+    "zh": "随着新冠疫情的兴起和特朗普的煽动性言论，2020 年亚裔美国人仇恨犯罪有所增加。您对此有何看法？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1217@16/description",
+      "2020_Biden_Rice/questions_json/1217@19/description",
+      "2020_Biden_Demings/questions_json/1217@21/description",
+      "2020_Biden_Bass/questions_json/1217@19/description",
+      "2020_Biden_Warren/questions_json/1217@17/description"
+    ]
+  },
+  {
+    "source": "Which gun control measures do you favor? Which ones do you oppose?",
+    "zh": "您赞成哪种枪支管制措施？你反对哪些？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1214@17/description",
+      "2020_Biden_Rice/questions_json/1214@17/description",
+      "2020_Biden_Duckworth/questions_json/1214@21/description",
+      "2020_Biden_Demings/questions_json/1214@17/description",
+      "2020_Biden_Bass/questions_json/1214@18/description",
+      "2020_Biden_Whitmer/questions_json/1214@17/description",
+      "2020_Biden_Warren/questions_json/1214@21/description"
+    ]
+  },
+  {
+    "source": "To what extent will you undo the draconian immigration and asylum policies that have been enacted under Trump?",
+    "zh": "您将在多大程度上撤销根据特朗普颁布的严厉移民和庇护政策？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1213@18/description",
+      "2020_Biden_Rice/questions_json/1213@16/description",
+      "2020_Biden_Duckworth/questions_json/1213@17/description",
+      "2020_Biden_Demings/questions_json/1213@18/description",
+      "2020_Biden_Bass/questions_json/1213@16/description",
+      "2020_Biden_Whitmer/questions_json/1213@21/description",
+      "2020_Biden_Warren/questions_json/1213@19/description"
+    ]
+  },
+  {
+    "source": "Recent articles have discussed Donald Trump paying no federal income taxes in some previous years, or having a secret Chinese bank account. Is this something you want to emphasize?",
+    "zh": "最近的文章讨论了唐纳德·特朗普前几年没有缴纳联邦所得税，或拥有秘密的中国银行账户。这是你想强调的吗？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1215@19/description",
+      "2020_Biden_Rice/questions_json/1215@18/description",
+      "2020_Biden_Duckworth/questions_json/1215@20/description",
+      "2020_Biden_Demings/questions_json/1215@19/description",
+      "2020_Biden_Bass/questions_json/1215@17/description",
+      "2020_Biden_Whitmer/questions_json/1215@18/description",
+      "2020_Biden_Warren/questions_json/1215@18/description"
+    ]
+  },
+  {
+    "source": "Do you support the recent truce with the Taliban in Afghanistan? What would your policy be in that country?",
+    "zh": "您支持最近与阿富汗塔利班的休战吗？你在那个国家的政策是什么？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1211@20/description",
+      "2020_Biden_Rice/questions_json/1211@21/description",
+      "2020_Biden_Duckworth/questions_json/1211@19/description",
+      "2020_Biden_Demings/questions_json/1211@16/description",
+      "2020_Biden_Bass/questions_json/1211@20/description",
+      "2020_Biden_Whitmer/questions_json/1211@20/description"
+    ]
+  },
+  {
+    "source": "What are your views about the relationship wih China? Has Trump been too antagonistic on the trade issue?",
+    "zh": "您对与中国的关系有何看法？特朗普在贸易问题上是否过于敌对？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1212@21/description",
+      "2020_Biden_Rice/questions_json/1212@20/description",
+      "2020_Biden_Duckworth/questions_json/1212@18/description",
+      "2020_Biden_Demings/questions_json/1212@20/description",
+      "2020_Biden_Bass/questions_json/1212@21/description",
+      "2020_Biden_Whitmer/questions_json/1212@19/description",
+      "2020_Biden_Warren/questions_json/1212@20/description"
+    ]
+  },
+  {
+    "source": "President Trump has repeatedly dodged the question when asked whether he will accept the results of this year's election. Do you have any statements to make?",
+    "zh": "总统特朗普在被问及是否接受今年选举结果时多次回避这一问题。你有什么要发表的吗？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1222@22/description",
+      "2020_Biden_Rice/questions_json/1222@22/description",
+      "2020_Biden_Duckworth/questions_json/1222@22/description",
+      "2020_Biden_Demings/questions_json/1222@22/description",
+      "2020_Biden_Bass/questions_json/1222@22/description",
+      "2020_Biden_Whitmer/questions_json/1222@22/description",
+      "2020_Biden_Warren/questions_json/1222@22/description"
+    ]
+  },
+  {
+    "source": "Right-wing websites have been circulating a story about a laptop that your son, Hunter, purportedly lost. Do you have any comment?",
+    "zh": "右翼网站一直在流传一个关于您的儿子亨特据称丢失了一台笔记本电脑的故事。您有何评论？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1223@23/description",
+      "2020_Biden_Rice/questions_json/1223@23/description",
+      "2020_Biden_Duckworth/questions_json/1223@23/description",
+      "2020_Biden_Demings/questions_json/1223@23/description",
+      "2020_Biden_Bass/questions_json/1223@23/description",
+      "2020_Biden_Whitmer/questions_json/1223@23/description",
+      "2020_Biden_Warren/questions_json/1223@23/description"
+    ]
+  },
+  {
+    "source": "Where do you want to concentrate your attention on during the final day of the campaign?",
+    "zh": "在活动的最后一天，您想将注意力集中在哪里？",
+    "keys": [
+      "2020_Biden_Harris/questions_json/1224@24/description",
+      "2020_Biden_Rice/questions_json/1224@24/description",
+      "2020_Biden_Duckworth/questions_json/1224@24/description",
+      "2020_Biden_Demings/questions_json/1224@24/description",
+      "2020_Biden_Bass/questions_json/1224@24/description",
+      "2020_Biden_Whitmer/questions_json/1224@24/description",
+      "2020_Biden_Warren/questions_json/1224@24/description",
+      "2020_Trump_Pence/questions_json/1324@24/description",
+      "2020_Trump_Haley/questions_json/1324@24/description"
+    ]
+  },
+  {
+    "source": "We should put our focus into Georgia and North Carolina.",
+    "zh": "我们应该把重点放在佐治亚州和北卡罗来纳州上。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6091@0/description",
+      "2020_Biden_Rice/answers_json/6091@0/description",
+      "2020_Biden_Duckworth/answers_json/6091@0/description",
+      "2020_Biden_Demings/answers_json/6091@0/description",
+      "2020_Biden_Bass/answers_json/6091@0/description",
+      "2020_Biden_Whitmer/answers_json/6091@0/description",
+      "2020_Biden_Warren/answers_json/6091@0/description",
+      "2020_Trump_Pence/answers_json/6207@94/description",
+      "2020_Trump_Haley/answers_json/6207@94/description"
+    ]
+  },
+  {
+    "source": "This election is a battle for the soul of America. If Donald Trump is President for four more years, the damage to this nation may be irreversible.",
+    "zh": "这次选举是一场美国灵魂之战。如果唐纳德·特朗普再担任总统四年，对这个国家的损害可能是不可逆转的。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6000@1/description",
+      "2020_Biden_Rice/answers_json/6000@1/description",
+      "2020_Biden_Duckworth/answers_json/6000@1/description",
+      "2020_Biden_Demings/answers_json/6000@1/description",
+      "2020_Biden_Bass/answers_json/6000@1/description",
+      "2020_Biden_Whitmer/answers_json/6000@1/description",
+      "2020_Biden_Warren/answers_json/6000@1/description"
+    ]
+  },
+  {
+    "source": "We're going to build back better than ever before. I'm going to work for every American, repairing our critical infrastructure at home and our standing in the world.",
+    "zh": "我们将比以往更好地重建。我将为每个美国人工作，修复我们国内的关键基础设施和我们在世界上的地位。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6001@2/description",
+      "2020_Biden_Rice/answers_json/6001@2/description",
+      "2020_Biden_Duckworth/answers_json/6001@2/description",
+      "2020_Biden_Demings/answers_json/6001@2/description",
+      "2020_Biden_Bass/answers_json/6001@2/description",
+      "2020_Biden_Whitmer/answers_json/6001@2/description",
+      "2020_Biden_Warren/answers_json/6001@2/description"
+    ]
+  },
+  {
+    "source": "I will be a President for all Americans. Black, brown, Latino, gay, straight, Christian, Jewish, Muslim, rich, poor, or middle-class. I'm a uniter, not a divider.",
+    "zh": "我将成为所有美国人的总统。黑人、棕色人种、拉丁裔、同性恋、异性恋、基督教、犹太教、穆斯林、富人、穷人或中产阶级。我是一个团结者，而不是一个分裂者。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6002@3/description",
+      "2020_Biden_Rice/answers_json/6002@3/description",
+      "2020_Biden_Duckworth/answers_json/6002@3/description",
+      "2020_Biden_Demings/answers_json/6002@3/description",
+      "2020_Biden_Bass/answers_json/6002@3/description",
+      "2020_Biden_Whitmer/answers_json/6002@3/description",
+      "2020_Biden_Warren/answers_json/6002@3/description"
+    ]
+  },
+  {
+    "source": "We have a President who turns his back on science, decency, and truth itself. A President who spends more time watching Fox News than he does doing his job. We need an adult in the White House.",
+    "zh": "我们有一位背弃科学、正派和真理本身的总统。一位总统看福克斯新闻的时间比他工作的时间还多。我们需要一名成人在白宫。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6003@4/description",
+      "2020_Biden_Rice/answers_json/6003@4/description",
+      "2020_Biden_Duckworth/answers_json/6003@4/description",
+      "2020_Biden_Demings/answers_json/6003@4/description",
+      "2020_Biden_Bass/answers_json/6003@4/description",
+      "2020_Biden_Whitmer/answers_json/6003@4/description",
+      "2020_Biden_Warren/answers_json/6003@4/description"
+    ]
+  },
+  {
+    "source": "We're going to defeat COVID and get America working again. I'm going to push for this day and night from the moment I step into the White House.",
+    "zh": "我们将战胜新冠病毒，让美国重新运转起来。从我踏入白宫的那一刻起，我就要日日夜夜地努力。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6004@5/description",
+      "2020_Biden_Rice/answers_json/6004@5/description",
+      "2020_Biden_Duckworth/answers_json/6004@5/description",
+      "2020_Biden_Demings/answers_json/6004@5/description",
+      "2020_Biden_Bass/answers_json/6004@5/description",
+      "2020_Biden_Whitmer/answers_json/6004@5/description",
+      "2020_Biden_Warren/answers_json/6004@5/description"
+    ]
+  },
+  {
+    "source": "We need to build a country where all citizens are equal before the law and before their fellow man. We need to make sure people from all walks of life get the help they need to succeed.",
+    "zh": "我们需要建立一个所有公民在法律和同胞面前一律平等的国家。我们需要确保各行各业的人们获得成功所需的帮助。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6005@6/description",
+      "2020_Biden_Rice/answers_json/6005@6/description",
+      "2020_Biden_Duckworth/answers_json/6005@6/description",
+      "2020_Biden_Demings/answers_json/6005@6/description",
+      "2020_Biden_Bass/answers_json/6005@6/description",
+      "2020_Biden_Whitmer/answers_json/6005@6/description",
+      "2020_Biden_Warren/answers_json/6005@6/description"
+    ]
+  },
+  {
+    "source": "I'm the trusted, steady leader that we need in a time of national crisis. I worked in the White House, actually worked, for eight years next to my great friend Barack Obama.",
+    "zh": "我是国家危机时期我们需要的值得信赖、稳定的领导者。我在白宫工作，实际上是和我的好朋友贝拉克·奥巴马一起工作了八年。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6006@7/description",
+      "2020_Biden_Rice/answers_json/6006@7/description",
+      "2020_Biden_Duckworth/answers_json/6006@7/description",
+      "2020_Biden_Demings/answers_json/6006@7/description",
+      "2020_Biden_Bass/answers_json/6006@7/description",
+      "2020_Biden_Whitmer/answers_json/6006@7/description",
+      "2020_Biden_Warren/answers_json/6006@7/description"
+    ]
+  },
+  {
+    "source": "Donald Trump has assaulted our most vulnerable citizens, given away billions in tax breaks to the top 1 percent, alienated our allies, and utterly failed to address the COVID and policing crises. He must go.",
+    "zh": "唐纳德·特朗普攻击了我们最弱势的公民，向最富有的 1% 人提供了数十亿美元的税收减免，疏远了我们的盟友，并且完全未能解决新冠病毒和治安危机。他必须走。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6007@8/description",
+      "2020_Biden_Rice/answers_json/6007@8/description",
+      "2020_Biden_Duckworth/answers_json/6007@8/description",
+      "2020_Biden_Demings/answers_json/6007@8/description",
+      "2020_Biden_Bass/answers_json/6007@8/description",
+      "2020_Biden_Whitmer/answers_json/6007@8/description",
+      "2020_Biden_Warren/answers_json/6007@8/description"
+    ]
+  },
+  {
+    "source": "I'm going to listen to our medical experts and stay at home to stop the spread. There are plenty of ways to get the message out on TV and in social media now. We're all in this together.",
+    "zh": "我将听取我们的医学专家的意见并留在家里以阻止传播。现在有很多方法可以在电视和社交媒体上传达信息。我们都在一起。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6008@9/description",
+      "2020_Biden_Rice/answers_json/6008@9/description",
+      "2020_Biden_Duckworth/answers_json/6008@9/description",
+      "2020_Biden_Demings/answers_json/6008@9/description",
+      "2020_Biden_Bass/answers_json/6008@9/description",
+      "2020_Biden_Whitmer/answers_json/6008@9/description",
+      "2020_Biden_Warren/answers_json/6008@9/description"
+    ]
+  },
+  {
+    "source": "For the most part, I'm going to campaign from home until things settle down. But I do want to make a couple of public speeches (to limited crowds) on our most important issues.",
+    "zh": "在大多数情况下，我会在家竞选，直到事情稳定下来。但我确实想就我们最重要的问题发表几次公开演讲（针对有限的人群）。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6009@10/description",
+      "2020_Biden_Rice/answers_json/6009@10/description",
+      "2020_Biden_Duckworth/answers_json/6009@10/description",
+      "2020_Biden_Demings/answers_json/6009@10/description",
+      "2020_Biden_Bass/answers_json/6009@10/description",
+      "2020_Biden_Whitmer/answers_json/6009@10/description",
+      "2020_Biden_Warren/answers_json/6009@10/description"
+    ]
+  },
+  {
+    "source": "I should be out there talking to the American people. That doesn't mean we do rallies with 10 thousand people, but we can't afford to just sit around in our basement for the next five months.",
+    "zh": "我应该去那里与美国人民交谈。这并不意味着我们要举行一万人的集会，但我们不能在接下来的五个月里只坐在地下室里。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6010@11/description",
+      "2020_Biden_Rice/answers_json/6010@11/description",
+      "2020_Biden_Duckworth/answers_json/6010@11/description",
+      "2020_Biden_Demings/answers_json/6010@11/description",
+      "2020_Biden_Bass/answers_json/6010@11/description",
+      "2020_Biden_Whitmer/answers_json/6010@11/description",
+      "2020_Biden_Warren/answers_json/6010@11/description"
+    ]
+  },
+  {
+    "source": "I'm prepared to give Senator Sanders some significant input into our platform and our campaign. He ran a very good race and said a lot that resonated with the American people.",
+    "zh": "我准备向参议员桑德斯提供一些对我们的政治纲领和竞选活动的重要意见。他参加了一场非常出色的竞选，并说了很多引起美国人民共鸣的言论。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6011@12/description",
+      "2020_Biden_Rice/answers_json/6011@12/description",
+      "2020_Biden_Duckworth/answers_json/6011@12/description",
+      "2020_Biden_Demings/answers_json/6011@12/description",
+      "2020_Biden_Bass/answers_json/6011@12/description",
+      "2020_Biden_Whitmer/answers_json/6011@12/description",
+      "2020_Biden_Warren/answers_json/6011@12/description"
+    ]
+  },
+  {
+    "source": "It's very important for our party to remain united and to put up a unified front against Donald Trump. And that's a two-way street, I'm sure we can both find some common ground and make a good show of unity.",
+    "zh": "我们党保持团结并建立统一战线反对唐纳德·特朗普非常重要。这是一条双向路，我相信我们都能找到一些共同点并表现出团结一致。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6012@13/description",
+      "2020_Biden_Rice/answers_json/6012@13/description",
+      "2020_Biden_Duckworth/answers_json/6012@13/description",
+      "2020_Biden_Demings/answers_json/6012@13/description",
+      "2020_Biden_Bass/answers_json/6012@13/description",
+      "2020_Biden_Whitmer/answers_json/6012@13/description",
+      "2020_Biden_Warren/answers_json/6012@13/description"
+    ]
+  },
+  {
+    "source": "We appreciate Senator Sanders and his support. But it's important to note that I won the nomination by a lot. I will be cordial but make few promises.",
+    "zh": "我们感谢参议员桑德斯和他的支持。但值得注意的是，我以很大优势赢得了提名。我会很诚恳，但很少做出承诺。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6013@14/description",
+      "2020_Biden_Rice/answers_json/6013@14/description",
+      "2020_Biden_Duckworth/answers_json/6013@14/description",
+      "2020_Biden_Demings/answers_json/6013@14/description",
+      "2020_Biden_Bass/answers_json/6013@14/description",
+      "2020_Biden_Whitmer/answers_json/6013@14/description",
+      "2020_Biden_Warren/answers_json/6013@14/description"
+    ]
+  },
+  {
+    "source": "Who authorized this meeting? Did I authorize this meeting? We're telling Bernie Sanders that he'd better fall in line. We have an election to win.",
+    "zh": "谁授权召开这次会议？我授权这次会议吗？我们告诉伯尼·桑德斯他最好排队。我们要赢得选举。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6014@15/description",
+      "2020_Biden_Rice/answers_json/6014@15/description",
+      "2020_Biden_Duckworth/answers_json/6014@15/description",
+      "2020_Biden_Demings/answers_json/6014@15/description",
+      "2020_Biden_Bass/answers_json/6014@15/description",
+      "2020_Biden_Whitmer/answers_json/6014@15/description",
+      "2020_Biden_Warren/answers_json/6014@15/description"
+    ]
+  },
+  {
+    "source": "The real crime here is what Donald Trump was doing, and we saw that with the impeachment proceedings. He shouldn't even be the President right now.",
+    "zh": "这里真正的犯罪是唐纳德·特朗普正在做的事情，我们在弹劾程序中看到了这一点。他现在甚至不应该担任总统。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6015@16/description",
+      "2020_Biden_Rice/answers_json/6015@16/description",
+      "2020_Biden_Duckworth/answers_json/6015@16/description",
+      "2020_Biden_Demings/answers_json/6015@16/description",
+      "2020_Biden_Bass/answers_json/6015@16/description",
+      "2020_Biden_Whitmer/answers_json/6015@16/description",
+      "2020_Biden_Warren/answers_json/6015@16/description"
+    ]
+  },
+  {
+    "source": "There's absolutely no evidence that Hunter Biden did anything inappropriate in this case, the other side is putting forward debunked conspiracy theories to the contrary.",
+    "zh": "绝对没有证据表明亨特拜登在本案中做了任何不当行为，对方却提出相反的已被揭穿的阴谋论。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6016@17/description",
+      "2020_Biden_Rice/answers_json/6016@17/description",
+      "2020_Biden_Duckworth/answers_json/6016@17/description",
+      "2020_Biden_Demings/answers_json/6016@17/description",
+      "2020_Biden_Bass/answers_json/6016@17/description",
+      "2020_Biden_Whitmer/answers_json/6016@17/description",
+      "2020_Biden_Warren/answers_json/6016@17/description"
+    ]
+  },
+  {
+    "source": "I'm proud of my son. He's overcome a lot to find success in life. This campaign is about the American people and their struggles and opportunities. I'm not going to spend my time talking about Trump and Ukrainie.",
+    "zh": "我为我的儿子感到骄傲。他克服了很多困难才找到了人生的成功。这场运动是关于美国人民及其斗争和机会的。我不会花时间谈论特朗普和乌克兰。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6017@18/description",
+      "2020_Biden_Rice/answers_json/6017@18/description",
+      "2020_Biden_Duckworth/answers_json/6017@18/description",
+      "2020_Biden_Demings/answers_json/6017@18/description",
+      "2020_Biden_Bass/answers_json/6017@18/description",
+      "2020_Biden_Whitmer/answers_json/6017@18/description",
+      "2020_Biden_Warren/answers_json/6017@18/description"
+    ]
+  },
+  {
+    "source": "Hunter Biden is my son, but in this case his judgment was a little off. I'm prepared to fully apologize for any mixed signals this created.",
+    "zh": "亨特拜登是我的儿子，但在这种情况下他的判断有点偏差。我准备对由此产生的任何混合信号表示完全的歉意。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6018@19/description",
+      "2020_Biden_Rice/answers_json/6018@19/description",
+      "2020_Biden_Duckworth/answers_json/6018@19/description",
+      "2020_Biden_Demings/answers_json/6018@19/description",
+      "2020_Biden_Bass/answers_json/6018@19/description",
+      "2020_Biden_Whitmer/answers_json/6018@19/description",
+      "2020_Biden_Warren/answers_json/6018@19/description"
+    ]
+  },
+  {
+    "source": "Donald Trump flagrantly broke the law and he shouldn't be the President right now. Of course I'm going to bring that up.",
+    "zh": "唐纳德·特朗普公然违法，他现在不应该担任总统。我当然会提出这个问题。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6019@20/description",
+      "2020_Biden_Rice/answers_json/6019@20/description",
+      "2020_Biden_Duckworth/answers_json/6019@20/description",
+      "2020_Biden_Demings/answers_json/6019@20/description",
+      "2020_Biden_Bass/answers_json/6019@20/description",
+      "2020_Biden_Whitmer/answers_json/6019@20/description",
+      "2020_Biden_Warren/answers_json/6019@20/description"
+    ]
+  },
+  {
+    "source": "I'm not going to spend the 2020 campaign focusing on 2019 issues. We need to talk about our plans to fight this COVID-19 epidemic and rebuild the economy.",
+    "zh": "我不会在 2020 年的竞选活动中专注于 2019 年的问题。我们需要讨论抗击新冠肺炎 (COVID-19) 疫情和重建经济的计划。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6020@21/description",
+      "2020_Biden_Rice/answers_json/6020@21/description",
+      "2020_Biden_Duckworth/answers_json/6020@21/description",
+      "2020_Biden_Demings/answers_json/6020@21/description",
+      "2020_Biden_Bass/answers_json/6020@21/description",
+      "2020_Biden_Whitmer/answers_json/6020@21/description",
+      "2020_Biden_Warren/answers_json/6020@21/description"
+    ]
+  },
+  {
+    "source": "We might have our political differences, but I can't say whether I think this impeachment trial was justified or not. It's really a pretty gray area when you get down to it.",
+    "zh": "我们可能存在政治分歧，但我不能说我认为这次弹劾审判是否合理。当你认真思考时，这确实是一个非常灰色的区域。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6021@22/description",
+      "2020_Biden_Rice/answers_json/6021@22/description",
+      "2020_Biden_Duckworth/answers_json/6021@22/description",
+      "2020_Biden_Demings/answers_json/6021@22/description",
+      "2020_Biden_Bass/answers_json/6021@22/description",
+      "2020_Biden_Whitmer/answers_json/6021@22/description",
+      "2020_Biden_Warren/answers_json/6021@22/description"
+    ]
+  },
+  {
+    "source": "I'm proud to stand with Black Lives Matter in the wake of this incident. We need to fight the root causes of black poverty, defund the police, and fight for equity in our society and government.",
+    "zh": "在此事件发生后，我很自豪能够与“黑人生命也是命”站在一起。我们需要解决黑人贫困的根源，取消警察经费，并为社会和政府的公平而奋斗。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6022@23/description",
+      "2020_Biden_Rice/answers_json/6022@23/description",
+      "2020_Biden_Duckworth/answers_json/6022@23/description",
+      "2020_Biden_Demings/answers_json/6022@23/description",
+      "2020_Biden_Bass/answers_json/6022@23/description",
+      "2020_Biden_Whitmer/answers_json/6022@23/description",
+      "2020_Biden_Warren/answers_json/6022@23/description"
+    ]
+  },
+  {
+    "source": "This looks like an appalling misuse of police force, and incidents like this are the reason Black Lives Matter exists. I'm proud to do my small part to support the peaceful protests happening right now.",
+    "zh": "这看起来像是对警察力量的令人震惊的滥用，而此类事件正是“黑人生命也是命”存在的原因。我很自豪能够尽自己的一份力量来支持目前正在发生的和平抗议活动。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6023@24/description",
+      "2020_Biden_Rice/answers_json/6023@24/description",
+      "2020_Biden_Duckworth/answers_json/6023@24/description",
+      "2020_Biden_Demings/answers_json/6023@24/description",
+      "2020_Biden_Bass/answers_json/6023@24/description",
+      "2020_Biden_Whitmer/answers_json/6023@24/description",
+      "2020_Biden_Warren/answers_json/6023@24/description"
+    ]
+  },
+  {
+    "source": "Being a police officer is one of the hardest jobs there is, but they got it very wrong here. I have every confidence that Hennepin County will take the appropriate action against the officers involved in this case.",
+    "zh": "成为一名警察是最艰难的工作之一，但他们在这里犯了很大的错误。我完全相信亨内平县将对涉案警官采取适当行动。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6024@25/description",
+      "2020_Biden_Rice/answers_json/6024@25/description",
+      "2020_Biden_Duckworth/answers_json/6024@25/description",
+      "2020_Biden_Demings/answers_json/6024@25/description",
+      "2020_Biden_Bass/answers_json/6024@25/description",
+      "2020_Biden_Whitmer/answers_json/6024@25/description",
+      "2020_Biden_Warren/answers_json/6024@25/description"
+    ]
+  },
+  {
+    "source": "This case is no excuse for the rioting and disorder that we're seeing in many large cities, which in no way honors George Floyd. I condemn this situation unequivocally.",
+    "zh": "此案并不是我们在许多大城市看到的骚乱和混乱的借口，这绝不是向乔治·弗洛伊德致敬。我明确谴责这种情况。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6025@26/description",
+      "2020_Biden_Rice/answers_json/6025@26/description",
+      "2020_Biden_Duckworth/answers_json/6025@26/description",
+      "2020_Biden_Demings/answers_json/6025@26/description",
+      "2020_Biden_Bass/answers_json/6025@26/description",
+      "2020_Biden_Whitmer/answers_json/6025@26/description",
+      "2020_Biden_Warren/answers_json/6025@26/description"
+    ]
+  },
+  {
+    "source": "We need to put $2000 in the hands of every American, and we need to put forward a truly substantial relief package for our struggling small businesses and job creators.",
+    "zh": "我们需要将 2000 美元交到每个美国人手中，我们需要为陷入困境的小企业和就业创造者提出真正实质性的救助计划。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6030@27/description",
+      "2020_Biden_Rice/answers_json/6030@27/description",
+      "2020_Biden_Duckworth/answers_json/6030@27/description",
+      "2020_Biden_Demings/answers_json/6030@27/description",
+      "2020_Biden_Bass/answers_json/6030@27/description",
+      "2020_Biden_Whitmer/answers_json/6030@27/description",
+      "2020_Biden_Warren/answers_json/6030@27/description"
+    ]
+  },
+  {
+    "source": "We need to extend and expand unemployment insurance. We need a second round of stimulus payments like we had the first time. The economists are clear on this.",
+    "zh": "我们需要延长和扩大失业保险。我们需要像第一次一样提供第二轮刺激付款。经济学家对此很清楚。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6031@28/description",
+      "2020_Biden_Rice/answers_json/6031@28/description",
+      "2020_Biden_Duckworth/answers_json/6031@28/description",
+      "2020_Biden_Demings/answers_json/6031@28/description",
+      "2020_Biden_Bass/answers_json/6031@28/description",
+      "2020_Biden_Whitmer/answers_json/6031@28/description",
+      "2020_Biden_Warren/answers_json/6031@28/description"
+    ]
+  },
+  {
+    "source": "If you look at what's happening right now with Trump and Mitch McConnell, they're holding up important legislation here. Hopefully everyone will come to their senses and it won't be an issue by next year.",
+    "zh": "如果你看看特朗普和米奇·麦康奈尔 (Mitch McConnell) 现在正在发生的事情，他们正在阻止重要的立法。希望每个人都能清醒过来，到明年这将不再是问题。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6032@29/description",
+      "2020_Biden_Rice/answers_json/6032@29/description",
+      "2020_Biden_Duckworth/answers_json/6032@29/description",
+      "2020_Biden_Demings/answers_json/6032@29/description",
+      "2020_Biden_Bass/answers_json/6032@29/description",
+      "2020_Biden_Whitmer/answers_json/6032@29/description",
+      "2020_Biden_Warren/answers_json/6032@29/description"
+    ]
+  },
+  {
+    "source": "I'm going to be taking a hard look at the economic conditions from my first day in office, and recommending the appropriate action from there.",
+    "zh": "我将从上任第一天起认真审视经济状况，并建议采取适当的行动。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6033@30/description",
+      "2020_Biden_Rice/answers_json/6033@30/description",
+      "2020_Biden_Duckworth/answers_json/6033@30/description",
+      "2020_Biden_Demings/answers_json/6033@30/description",
+      "2020_Biden_Bass/answers_json/6033@30/description",
+      "2020_Biden_Whitmer/answers_json/6033@30/description",
+      "2020_Biden_Warren/answers_json/6033@30/description"
+    ]
+  },
+  {
+    "source": "One hundred percent. If we don't see the level of deaths and cases go down in this country, then we need to do whatever it takes to bring those into line.",
+    "zh": "百分之一百。如果我们看不到这个国家的死亡和病例水平下降，那么我们需要采取一切措施使这些水平保持一致。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6034@31/description",
+      "2020_Biden_Rice/answers_json/6034@31/description",
+      "2020_Biden_Duckworth/answers_json/6034@31/description",
+      "2020_Biden_Demings/answers_json/6034@31/description",
+      "2020_Biden_Bass/answers_json/6034@31/description",
+      "2020_Biden_Whitmer/answers_json/6034@31/description",
+      "2020_Biden_Warren/answers_json/6034@31/description"
+    ]
+  },
+  {
+    "source": "If everyone would just wear a mask, the rate of transmission would drop by a lot, and we could all together beat this pandemic.",
+    "zh": "如果每个人都戴上口罩，传播率就会下降很多，我们就可以共同战胜这场流行病。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6035@32/description",
+      "2020_Biden_Rice/answers_json/6035@32/description",
+      "2020_Biden_Duckworth/answers_json/6035@32/description",
+      "2020_Biden_Demings/answers_json/6035@32/description",
+      "2020_Biden_Bass/answers_json/6035@32/description",
+      "2020_Biden_Whitmer/answers_json/6035@32/description",
+      "2020_Biden_Warren/answers_json/6035@32/description"
+    ]
+  },
+  {
+    "source": "This shouldn't be a political decision that the President makes, it should be based on the science. The CDC is not recommending anything like a national lockdown right now, and I'm going to respect their expertise.",
+    "zh": "这不应该是总统做出的政治决定，它应该基于科学。疾病预防控制中心目前不建议采取全国封锁之类的措施，我将尊重他们的专业知识。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6036@33/description",
+      "2020_Biden_Rice/answers_json/6036@33/description",
+      "2020_Biden_Duckworth/answers_json/6036@33/description",
+      "2020_Biden_Demings/answers_json/6036@33/description",
+      "2020_Biden_Bass/answers_json/6036@33/description",
+      "2020_Biden_Whitmer/answers_json/6036@33/description",
+      "2020_Biden_Warren/answers_json/6036@33/description"
+    ]
+  },
+  {
+    "source": "We're not going to have a national lockdown. That's just fear-mongering from the Republicans to distract from how they've mishandled the pandemic. This is something each locality can decide for themselves, based on local conditions.",
+    "zh": "我们不会实施全国封锁。这只是共和党人散布恐惧的行为，目的是转移人们对他们应对疫情不当的注意力。这是各地根据本地实际情况自行决定的。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6037@34/description",
+      "2020_Biden_Rice/answers_json/6037@34/description",
+      "2020_Biden_Duckworth/answers_json/6037@34/description",
+      "2020_Biden_Demings/answers_json/6037@34/description",
+      "2020_Biden_Bass/answers_json/6037@34/description",
+      "2020_Biden_Whitmer/answers_json/6037@34/description",
+      "2020_Biden_Warren/answers_json/6037@34/description"
+    ]
+  },
+  {
+    "source": "I'm proposing a pretty big bill, you might have noticed, around $2 trillion to rebuild our roads, develop mass transit and green energy, and repair critical human infrastructure needs as well. We must move forward as a country.",
+    "zh": "您可能已经注意到，我提出了一项相当大的法案，大约 2 万亿美元用于重建我们的道路、发展公共交通和绿色能源，并修复关键的人类基础设施需求。作为一个国家，我们必须前进。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6038@35/description",
+      "2020_Biden_Rice/answers_json/6038@35/description",
+      "2020_Biden_Duckworth/answers_json/6038@35/description",
+      "2020_Biden_Demings/answers_json/6038@35/description",
+      "2020_Biden_Bass/answers_json/6038@35/description",
+      "2020_Biden_Whitmer/answers_json/6038@35/description",
+      "2020_Biden_Warren/answers_json/6038@35/description"
+    ]
+  },
+  {
+    "source": "We're going to propose an infrastructure bill pretty soon after my inauguration, and it's going to be $500 billion or more. We're going to put people to work rebuilding our roads, bridges, ports, and power grid for the 21st century.",
+    "zh": "我就职后不久，我们将提出一项基础设施法案，金额将达到 5000 亿美元或更多。我们将让人们参与重建 21 世纪的道路、桥梁、港口和电网。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6039@36/description",
+      "2020_Biden_Rice/answers_json/6039@36/description",
+      "2020_Biden_Duckworth/answers_json/6039@36/description",
+      "2020_Biden_Demings/answers_json/6039@36/description",
+      "2020_Biden_Bass/answers_json/6039@36/description",
+      "2020_Biden_Whitmer/answers_json/6039@36/description",
+      "2020_Biden_Warren/answers_json/6039@36/description"
+    ]
+  },
+  {
+    "source": "One of the first things we're going to do when I'm President is to make a full assessment of the nation's infrastructure and where we need to improve. And once we have that, then I can help us pass an informed and targeted infrastructure bill that addresses real priorities.",
+    "zh": "当我担任总统时，我们要做的第一件事就是对国家基础设施和需要改进的地方进行全面评估。一旦我们有了这些，我就可以帮助我们通过一项知情且有针对性的基础设施法案，以解决真正的优先事项。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6040@37/description",
+      "2020_Biden_Rice/answers_json/6040@37/description",
+      "2020_Biden_Duckworth/answers_json/6040@37/description",
+      "2020_Biden_Demings/answers_json/6040@37/description",
+      "2020_Biden_Bass/answers_json/6040@37/description",
+      "2020_Biden_Whitmer/answers_json/6040@37/description",
+      "2020_Biden_Warren/answers_json/6040@37/description"
+    ]
+  },
+  {
+    "source": "We need to worry about beating the COVID-19 pandemic and protecting the right of every American to have their voice heard at the ballot box. Those will be my first priorities.",
+    "zh": "我们需要担心如何战胜 COVID-19 大流行并保护每个美国人在投票箱中表达自己意见的权利。这些将是我的首要任务。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6041@38/description",
+      "2020_Biden_Rice/answers_json/6041@38/description",
+      "2020_Biden_Duckworth/answers_json/6041@38/description",
+      "2020_Biden_Demings/answers_json/6041@38/description",
+      "2020_Biden_Bass/answers_json/6041@38/description",
+      "2020_Biden_Whitmer/answers_json/6041@38/description",
+      "2020_Biden_Warren/answers_json/6041@38/description"
+    ]
+  },
+  {
+    "source": "We've tried to build Afghanistan into a stable, modern nation for nearly 20 years now, spending over $1 trillion in the process. It's time for their government to stand on its own, without American troops.",
+    "zh": "近 20 年来，我们一直致力于将阿富汗建设成为一个稳定的现代化国家，在此过程中花费了超过 1 万亿美元。现在是他们的政府在没有美国军队的情况下独立自主的时候了。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6042@39/description",
+      "2020_Biden_Rice/answers_json/6042@39/description",
+      "2020_Biden_Duckworth/answers_json/6042@39/description",
+      "2020_Biden_Demings/answers_json/6042@39/description",
+      "2020_Biden_Bass/answers_json/6042@39/description",
+      "2020_Biden_Whitmer/answers_json/6042@39/description"
+    ]
+  },
+  {
+    "source": "I'll make every effort to get us out of Afghanistan and end this war, but the way that Trump has gone about it has been completely backwards. His recent deal does nothing but embolden the Taliban in their attempts to take over.",
+    "zh": "我将尽一切努力让我们离开阿富汗并结束这场战争，但特朗普的方式已经完全倒退了。他最近的协议除了让塔利班更加大胆地试图接管政权之外，没有任何作用。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6043@40/description",
+      "2020_Biden_Rice/answers_json/6043@40/description",
+      "2020_Biden_Duckworth/answers_json/6043@40/description",
+      "2020_Biden_Demings/answers_json/6043@40/description",
+      "2020_Biden_Bass/answers_json/6043@40/description",
+      "2020_Biden_Whitmer/answers_json/6043@40/description"
+    ]
+  },
+  {
+    "source": "We've got a small troop presence in Afghanistan right now, and we should probably keep it that way. I'm confident that country will continue to gradually stabilize over time, with a consistent but minimal investment from the United States.",
+    "zh": "我们现在在阿富汗有一小支部队，我们应该保持这种状态。我相信，随着时间的推移，在美国持续但最低限度的投资下，该国将继续逐步稳定。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6044@41/description",
+      "2020_Biden_Rice/answers_json/6044@41/description",
+      "2020_Biden_Duckworth/answers_json/6044@41/description",
+      "2020_Biden_Demings/answers_json/6044@41/description",
+      "2020_Biden_Bass/answers_json/6044@41/description",
+      "2020_Biden_Whitmer/answers_json/6044@41/description"
+    ]
+  },
+  {
+    "source": "It would be very unwise for us to pull back from Afghanistan at the present time. I'm going to meet with our generals and our national security establishment when I'm elected, and we're going to come up with a plan to give Afghanistan the support it needs.",
+    "zh": "我们目前从阿富汗撤军是非常不明智的。当我当选时，我将与我们的将军和国家安全机构会面，我们将制定一项计划，为阿富汗提供所需的支持。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6045@42/description",
+      "2020_Biden_Rice/answers_json/6045@42/description",
+      "2020_Biden_Duckworth/answers_json/6045@42/description",
+      "2020_Biden_Demings/answers_json/6045@42/description",
+      "2020_Biden_Bass/answers_json/6045@42/description",
+      "2020_Biden_Whitmer/answers_json/6045@42/description"
+    ]
+  },
+  {
+    "source": "Trump's destructive trade war has set our relationship with China back 15 or 20 years, and that's ignoring the racist potshots he's taken at them over COVID. Our global economy depends on healthy trade and good relations between China and the outside world.",
+    "zh": "特朗普破坏性的贸易战使我们与中国的关系倒退了 15 或 20 年，而这还忽略了他因新冠病毒而对他们进行的种族主义攻击。我们的全球经济依赖于健康的贸易以及中国与外部世界的良好关系。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6046@43/description",
+      "2020_Biden_Rice/answers_json/6046@43/description",
+      "2020_Biden_Duckworth/answers_json/6046@43/description",
+      "2020_Biden_Demings/answers_json/6046@43/description",
+      "2020_Biden_Bass/answers_json/6046@43/description",
+      "2020_Biden_Whitmer/answers_json/6046@43/description",
+      "2020_Biden_Warren/answers_json/6046@39/description"
+    ]
+  },
+  {
+    "source": "We have to be very realistic about how much cooperation is possible between the U.S. and China, but Trump's actions the past four years haven't helped. The last thing we need to be doing right now is inflaming the situation.",
+    "zh": "我们必须非常现实地认识到美国和中国之间可以进行多少合作，但特朗普过去四年的行动并没有起到任何作用。我们现在最不需要做的就是激化局势。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6047@44/description",
+      "2020_Biden_Rice/answers_json/6047@44/description",
+      "2020_Biden_Duckworth/answers_json/6047@44/description",
+      "2020_Biden_Demings/answers_json/6047@44/description",
+      "2020_Biden_Bass/answers_json/6047@44/description",
+      "2020_Biden_Whitmer/answers_json/6047@44/description",
+      "2020_Biden_Warren/answers_json/6047@40/description"
+    ]
+  },
+  {
+    "source": "Our relationship with China, depends on China. If they show a greater willingness to cooperate, then we can rebuild our relationship from the damage that Trump inflicted. If they continue to act in a hostile manner, we'll have to react accordingly.",
+    "zh": "我们与中国的关系取决于中国。如果他们表现出更大的合作意愿，那么我们就可以从特朗普造成的损害中重建我们的关系。如果他们继续采取敌对行动，我们就必须做出相应反应。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6048@45/description",
+      "2020_Biden_Rice/answers_json/6048@45/description",
+      "2020_Biden_Duckworth/answers_json/6048@45/description",
+      "2020_Biden_Demings/answers_json/6048@45/description",
+      "2020_Biden_Bass/answers_json/6048@45/description",
+      "2020_Biden_Whitmer/answers_json/6048@45/description",
+      "2020_Biden_Warren/answers_json/6048@41/description"
+    ]
+  },
+  {
+    "source": "With what we've seen recently in Hong Kong and Xinjiang, we can no longer afford to be naïve about where China is heading. I will aggressively continue our policy of pivoting to Asia to contain the rising influence of China.",
+    "zh": "从我们最近在香港和新疆所看到的情况来看，我们不能再对中国的发展方向保持天真。我将积极继续我们的战略重心转向亚洲的政策，以遏制中国日益增长的影响力。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6049@46/description",
+      "2020_Biden_Rice/answers_json/6049@46/description",
+      "2020_Biden_Duckworth/answers_json/6049@46/description",
+      "2020_Biden_Demings/answers_json/6049@46/description",
+      "2020_Biden_Bass/answers_json/6049@46/description",
+      "2020_Biden_Whitmer/answers_json/6049@46/description",
+      "2020_Biden_Warren/answers_json/6049@42/description"
+    ]
+  },
+  {
+    "source": "One of the greatest human tragedies of the Trump Administration is the situation on the southern border. We will stop separating families, and we will do whatever it takes to reform our immigration processing in a sensible, humane manner.",
+    "zh": "特朗普政府最大的人类悲剧之一是南部边境的局势。我们将停止拆散家庭，我们将尽一切努力以明智、人道的方式改革我们的移民程序。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6050@47/description",
+      "2020_Biden_Rice/answers_json/6050@47/description",
+      "2020_Biden_Duckworth/answers_json/6050@47/description",
+      "2020_Biden_Demings/answers_json/6050@47/description",
+      "2020_Biden_Bass/answers_json/6050@47/description",
+      "2020_Biden_Whitmer/answers_json/6050@47/description",
+      "2020_Biden_Warren/answers_json/6050@43/description"
+    ]
+  },
+  {
+    "source": "We're going to undo some of these policies from day one, and I plan to make a strong push for an immigration reform bill that can help us deal with the backlog of asylum applications, and bring some of the undocumented out of the shadows.",
+    "zh": "我们将从第一天起就取消其中一些政策，我计划大力推动一项移民改革法案，该法案可以帮助我们处理积压的庇护申请，并让一些无证移民走出阴影。",
+    "keys": [
+      "2020_Biden_Harris/answers_json/6051@48/description",
+      "2020_Biden_Rice/answers_json/6051@48/description",
+      "2020_Biden_Duckworth/answers_json/6051@48/description",
+      "2020_Biden_Demings/answers_json/6051@48/description",
+      "2020_Biden_Bass/answers_json/6051@48/description",
+      "2020_Biden_Whitmer/answers_json/6051@48/description",
+      "2020_Biden_Warren/answers_json/6051@44/description"
+    ]
+  }
+]

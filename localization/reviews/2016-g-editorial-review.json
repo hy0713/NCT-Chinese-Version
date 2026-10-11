@@ -1,0 +1,936 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-g",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 293,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 0,
+      "reason": "Lincoln attribution is candidate argument, not verified literal quotation; do not invent Lincoln document."
+    },
+    {
+      "index": 4,
+      "reason": "Original unprecededented typo interpreted unprecedented; allegations retained as character speech."
+    },
+    {
+      "index": 5,
+      "reason": "Original question mark retained as rhetorical tag in Chinese, no game branch addition."
+    },
+    {
+      "index": 10,
+      "reason": "Most progressive ever is candidate boast, not historian classification."
+    },
+    {
+      "index": 25,
+      "reason": "Original talk about you eschewed malformed tense read as action; source unchanged."
+    },
+    {
+      "index": 36,
+      "reason": "Pocketbook issues means household material/economic interests not accessory policy."
+    },
+    {
+      "index": 46,
+      "reason": "Turnout means voter participation, not crowd attendance."
+    },
+    {
+      "index": 48,
+      "reason": "Throw Obama overboard metaphor abandon political legacy, not physical violence."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "If we look back to the days of Abraham Lincoln, one of our greatest leaders, he said that sometimes you need to have a public position and a private position on some issues to drive true progress.",
+      "sha256": "c6e2162c606cfca30f3bdf1df12db586013d85f3a592f30acb3e2647f152b638",
+      "zh": "回顾亚伯拉罕·林肯的时代，他是我们最伟大的领导人之一。他说，有时在某些议题上，你需要有一套公开立场和一套私下立场，才能真正推动进步。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5251@73/description",
+        "2016_Clinton_Booker/answers_json/5251@74/description",
+        "2016_Clinton_Brown/answers_json/5251@75/description",
+        "2016_Clinton_Sanders/answers_json/5251@75/description",
+        "2016_Clinton_Warren/answers_json/5251@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "This is nothing compared to the lies and equivocation of Donald Trump. And furthermore, it's appalling that Republicans are so willing to throw aside all ideals and cooperate with the Russians, the moment it's convenient for them.",
+      "sha256": "03996d4e2185f7b68d28fdd88aac7b23e9081cc38bb452a11a9253bf682283ea",
+      "zh": "与唐纳德·特朗普的谎言和含糊其辞相比，这根本不算什么。更令人震惊的是，共和党人一看到有利可图，就如此愿意抛开一切理想，与俄罗斯人合作。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5252@74/description",
+        "2016_Clinton_Kaine/answers_json/5255@77/description",
+        "2016_Clinton_Booker/answers_json/5252@75/description",
+        "2016_Clinton_Booker/answers_json/5255@78/description",
+        "2016_Clinton_Brown/answers_json/5252@76/description",
+        "2016_Clinton_Brown/answers_json/5255@79/description",
+        "2016_Clinton_Sanders/answers_json/5252@76/description",
+        "2016_Clinton_Sanders/answers_json/5255@79/description",
+        "2016_Clinton_Warren/answers_json/5252@74/description",
+        "2016_Clinton_Warren/answers_json/5255@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "We have already implemented reforms to the DNC to prevent this in the future. And also, the idea that the nomination was \"stolen\" is absurd and unfactual.",
+      "sha256": "b4457a7280eecbee9e9eafdfa3280d0ec1b72d9355cb7543d539b19dc1e1856e",
+      "zh": "我们已经对民主党全国委员会实施改革，防止将来重演。还有，说提名被“偷走”了，既荒谬又不符合事实。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5253@75/description",
+        "2016_Clinton_Booker/answers_json/5253@76/description",
+        "2016_Clinton_Brown/answers_json/5253@77/description",
+        "2016_Clinton_Sanders/answers_json/5253@77/description",
+        "2016_Clinton_Warren/answers_json/5253@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Any \"concern\" that Republicans have for Bernie Sanders and his supporters is utterly fraudulent. Furthermore, the incidents these leaks mention are minor and had no effect on the nomination.",
+      "sha256": "639db23e114aa898be09e6358cbc3b30df93f76bf0d2ddf9b92bedaa696bb237",
+      "zh": "共和党人对伯尼·桑德斯及其支持者的任何“关心”，都是彻头彻尾的虚情假意。此外，这些泄露材料所提到的事件很小，对提名结果没有影响。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5254@76/description",
+        "2016_Clinton_Booker/answers_json/5254@77/description",
+        "2016_Clinton_Brown/answers_json/5254@78/description",
+        "2016_Clinton_Sanders/answers_json/5254@78/description",
+        "2016_Clinton_Warren/answers_json/5254@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Where is the investigation into the Russian leaks? Where is the investigation into Trump's blatantly illegal business practices over many years? This is an unprecededented and outrageous act of political interference by the FBI.",
+      "sha256": "e728c9567005a510f350cbd67d624d233f3178e145da29039a4c55461128733f",
+      "zh": "对俄罗斯泄密事件的调查在哪里？对特朗普多年来公然违法的商业行为的调查在哪里？联邦调查局这种政治干预史无前例，令人愤怒。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5256@78/description",
+        "2016_Clinton_Booker/answers_json/5256@79/description",
+        "2016_Clinton_Brown/answers_json/5256@80/description",
+        "2016_Clinton_Sanders/answers_json/5256@80/description",
+        "2016_Clinton_Warren/answers_json/5256@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "I am deeply concerned by Comey's decision to reopen a settled case, and I'm confident that there are no new revelations here. We're going to focus on our message during the closing stretch of this campaign?",
+      "sha256": "649c875ce78e0543baa91a6d8405eaa3ef7b97231b4c7344066fd72b286d2915",
+      "zh": "我对科米决定重启一个已经了结的案件深感忧虑，也相信这里不会有什么新发现。在竞选最后阶段，我们要聚焦于自己的主张，不是吗？",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5257@79/description",
+        "2016_Clinton_Booker/answers_json/5257@80/description",
+        "2016_Clinton_Brown/answers_json/5257@81/description",
+        "2016_Clinton_Sanders/answers_json/5257@81/description",
+        "2016_Clinton_Warren/answers_json/5257@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "We're going to spend our final day in Florida, rallying the Hispanic, Jewish, and black communities against the outrages of Donald Trump and his campaign.",
+      "sha256": "76c71f84eb807ad26eba6ff4ba5aeaae0cc21f40fda9d7bfd5dd7d211e6b962e",
+      "zh": "我们会把最后一天安排在佛罗里达州，团结西班牙裔、犹太人和黑人群体，反对唐纳德·特朗普及其竞选团队的恶劣行为。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5258@80/description",
+        "2016_Clinton_Booker/answers_json/5258@81/description",
+        "2016_Clinton_Brown/answers_json/5258@82/description",
+        "2016_Clinton_Sanders/answers_json/5258@82/description",
+        "2016_Clinton_Warren/answers_json/5258@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "We're going to visit Michigan, Wisconsin, and Minnesota. I want us to appear with Bernie Sanders and Barack Obama to push our message on trade, the African-American turnout, and party unity.",
+      "sha256": "6a33fb11ca7acda409cc43a9803b4c1cf3a961854c07ff8bb57e1fafba465bdf",
+      "zh": "我们会访问密歇根州、威斯康星州和明尼苏达州。我希望与伯尼·桑德斯和贝拉克·奥巴马共同亮相，传达我们在贸易、提高非裔美国人投票率和党内团结方面的信息。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5259@81/description",
+        "2016_Clinton_Booker/answers_json/5259@82/description",
+        "2016_Clinton_Brown/answers_json/5259@83/description",
+        "2016_Clinton_Sanders/answers_json/5259@83/description",
+        "2016_Clinton_Warren/answers_json/5259@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "We're going to visit Colorado and Nevada, and maybe a short stop in Arizona, to rally Hispanic turnout and highlight Trump's outrages for a final time.",
+      "sha256": "231c42ec25bc661ef62dfbfd83a94c17c9698ba7a357910f0eb06e8339e9d3ea",
+      "zh": "我们会访问科罗拉多州和内华达州，也许在亚利桑那州短暂停留，动员西班牙裔投票，并最后一次强调特朗普的恶劣行为。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5260@82/description",
+        "2016_Clinton_Booker/answers_json/5260@83/description",
+        "2016_Clinton_Brown/answers_json/5260@84/description",
+        "2016_Clinton_Sanders/answers_json/5260@84/description",
+        "2016_Clinton_Warren/answers_json/5260@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Let's not complicate this too much. The election pivots around Pennsylvania -- we're going to spend our final day in Pennsylvania, with an enormous rally of celebrities and party heavyweights.",
+      "sha256": "b1acc929a0c43bcc6ae3f6ba6f695557e67b0268bd60a81331cffec2e9e84784",
+      "zh": "别把这事搞得太复杂。选举的关键就在宾夕法尼亚州——最后一天我们就在宾夕法尼亚州，办一场名人和党内重量级人物云集的大型集会。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5261@83/description",
+        "2016_Clinton_Booker/answers_json/5261@84/description",
+        "2016_Clinton_Brown/answers_json/5261@85/description",
+        "2016_Clinton_Sanders/answers_json/5261@85/description",
+        "2016_Clinton_Warren/answers_json/5261@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "I am the most progressive candidate ever for President of the United States. We are pushing for a higher minimum wage, better health care, immigration reform, and police reform. Tim Kaine stands fully behind that agenda.",
+      "sha256": "f3548f19d82c10cd431e59f5472d99e515580b722122484ddc54c03caae6dcef",
+      "zh": "我是有史以来最进步的美国总统候选人。我们在争取提高最低工资、改善医疗、移民改革和警务改革。蒂姆·凯恩完全支持这套议程。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5262@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "I made my selection based on who is most qualified to serve as President, should the situation ever arise. Tim Kaine has served as a Governor and a Senator over the couse of many years, and he is a reliably progressive Democrat.",
+      "sha256": "428b53d7b706538ad7457b6cca128e94beeb9a2ab64b16b29f46c5e462832a4c",
+      "zh": "我的选择依据是：如果真出现那种情况，谁最有资格担任总统？蒂姆·凯恩多年来担任过州长和参议员，是一位可靠的进步派民主党人。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5263@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "It turns out that you will be running against Trump, likely with a significant fundraising advantage.",
+      "sha256": "1dba7537e9f45ff1678095af0810ef4722f6c0ea3bf2d2b34e499e7be1d9191d",
+      "zh": "结果，你要面对的是特朗普，而且很可能拥有显著的筹款优势。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2620@0/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2620@0/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2620@0/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2620@0/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2620@0/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "You are setting yourself up be a mainstream, establishment Democratic candidate. It seemed to work for Obama the last two times.",
+      "sha256": "2d13e4b7bfa2fcca4ad2617324cb6fb8e95e36e989288aae447cf8818312947a",
+      "zh": "你正在把自己塑造成主流的建制派民主党候选人。奥巴马前两次采用这个办法，似乎很有效。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2621@1/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2621@1/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2621@1/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2621@1/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2621@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Analysts and voters detect more of a populist note in your latest political persona.",
+      "sha256": "b42522a373445c73a385d2d7f122658132adac5a26b01eddc588f5a80fd1ef0b",
+      "zh": "分析人士和选民感觉，你最新的政治形象带着更多民粹主义色彩。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2622@2/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2622@2/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2622@2/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2622@2/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2622@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Some wonder if it's just a cynical political ploy, but you get your face on the local news in a lot of places across the country.",
+      "sha256": "4b17d35b8f5f765b1a18edae6a381b82ec63b50194abd838ecf6d3b7da2e6cb2",
+      "zh": "有人怀疑，这不过是算计精明的政治手段，但全国许多地方的当地新闻都出现了你的面孔。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2623@3/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2623@3/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2623@3/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2623@3/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2623@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "It's good to hit back hard, even if a few bloviators question how this affects your \"likeability\".",
+      "sha256": "bd1ef2514e6ca34488d8c854c241b88f18225f74af101a5db000237576835714",
+      "zh": "强硬反击是好事，哪怕有几个夸夸其谈的人质疑，这会如何影响你的“亲和力”。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2624@4/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2624@4/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2624@4/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2624@4/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2624@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Maybe your best bet here is to turn this into a \"both sides\" partisan story. And it's not as if you're wrong about Bush.",
+      "sha256": "7f15bda065681350c989fa3f8bd470977ee93a7a2b14d4e48bceef08af59f353",
+      "zh": "也许最好的办法，是把这件事变成一个“两党都如此”的党争故事。再说，你对布什的说法也不是错的。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2625@5/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2625@5/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2625@5/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2625@5/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2625@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "This story is having a definite effect on your campaign, unfortunately.",
+      "sha256": "ce7bb2aec0d0e58f35a9d2fee2c526fd32005b8e6bfb42d337e411cae6172e67",
+      "zh": "不幸的是，这件事确实正在影响你的竞选。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2626@6/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2627@7/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2626@6/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2627@7/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2626@6/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2627@7/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2626@6/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2627@7/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2626@6/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2627@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Trump's response to this shooting has been widely criticized by political commentators.",
+      "sha256": "2f6130298047e1a80fe55e3ca358d374401003179fbe1884a65cdedc8cb305d2",
+      "zh": "特朗普对这次枪击的回应，遭到政治评论人士的广泛批评。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2628@8/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2628@8/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2628@8/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2628@8/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2628@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "This answer appeals to your core voters.",
+      "sha256": "552e1e665489d7b8047c1d9983f9c6c2ba3ac1e3a6ae73be3c0403380dd40344",
+      "zh": "这个回答能吸引你的核心选民。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2629@9/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2629@9/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2629@9/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2629@9/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2629@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "This is a standard, non-political response to any tragic event.",
+      "sha256": "6e60b12028b3555b6a22b531cfcc4f48ffc68c3cd1eea81b74fc204dbbe19ac1",
+      "zh": "这是面对任何悲剧时常见的、非政治性的回应。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2630@10/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2630@10/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2630@10/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2630@10/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2630@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "It's not yet clear whether this attack was actually terrorism. Both you and Trump are coming under some criticism for jumping to that conclusion.",
+      "sha256": "a2e675764dcd5c35650d663e4ed1f5aac22597cf5da17163a10cc16d2e835612",
+      "zh": "目前还不清楚，这次袭击究竟是不是恐怖主义。你和特朗普都因急着作出这个结论而受到一些批评。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2631@11/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2631@11/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2631@11/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2631@11/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2631@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Pundits talk a lot about the surprisingly pugnacious and populist tone of your acceptance speech.",
+      "sha256": "86d35430a0d1478abf45a265c9ed769a2df61371e1a6b5e6b6db704d3d2cd73b",
+      "zh": "评论人士热议你的接受提名演说中，那出人意料的好斗与民粹主义基调。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2632@12/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2632@12/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2632@12/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2632@12/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2632@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Pundits detect the standard, Democratic talking points in your speech that will appeal to a wide variety of potential supporters.",
+      "sha256": "953f92539cd3ef2e39a0644d461c853124da0f29ae468b16a8b0ce2ff338b092",
+      "zh": "评论人士在你的演说中听到了民主党的常规宣传口径，会吸引各种潜在支持者。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2633@13/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2633@13/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2633@13/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2633@13/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2633@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Pundits talk a lot about you eschewed ideology to take the attack to Trump.",
+      "sha256": "3fdc4c8082870d1d7102dd151c9e600d9dd9e82f276e96c7938d972516787431",
+      "zh": "评论人士热议你放下意识形态争论，转而直接攻击特朗普的做法。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2634@14/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2634@14/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2634@14/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2634@14/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2634@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Pundits conclude that your speech was somewhat moderate, unifying, and surprisingly non-controversial. Some just thought it was boring.",
+      "sha256": "ae27fd73eec936368fb20e75b6d09d6bbc7cac3efb8594f66a706c8b1f9db11f",
+      "zh": "评论人士认为，你的演说有些温和、强调团结，而且出人意料地不具争议。有些人只觉得无聊。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2635@15/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2635@15/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2635@15/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2635@15/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2635@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "Tim Kaine is very popular within the party establishment, but less well known in the general public.",
+      "sha256": "b180d4743ad3f8f00201f94011e457993cf0bd9be1a7783ca7f690a8a5e9a7bc",
+      "zh": "蒂姆·凯恩在党的建制派内部很受欢迎，但普通公众对他了解较少。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2636@16/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2637@17/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2638@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Whatever your personal feelings, you must do something to reach out to Bernie Sanders and his legion of supporters.",
+      "sha256": "39a16366b1cf79b6b082f1624f3e8f5a18587e4c0304eb156d5424aa98f6a525",
+      "zh": "无论你个人有什么感受，都必须采取行动，争取伯尼·桑德斯及其大批支持者。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2651@19/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2651@19/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2651@19/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2651@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "People on all sides mostly see you trying to strike a middle path on the \"Bernie question\".",
+      "sha256": "9793d702be62c4484d95e82f4410476591e820c99b1641a18c256397ffcd8fcb",
+      "zh": "各方大多认为，你在“伯尼问题”上试图走一条中间路线。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2652@20/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2652@20/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2652@20/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2652@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Even close advisors feel it was probably a mistake to freeze Bernie out so aggressively from the convention, given the backlash that has ensued.",
+      "sha256": "6ede4aaa1ff7f21b7a34ce7b96f259c543d1821761fe60f0794d9c9d21e6b7b1",
+      "zh": "鉴于已经引发的反弹，连亲近的顾问都觉得，在党代会上如此坚决地排挤伯尼，大概是个错误。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2653@21/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2653@21/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2653@21/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2653@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "This answer has the expected supporters and detractors.",
+      "sha256": "3a2707a831796b5b1357fc730ca03d61c7503ecb5b6c8987cd174ee90b813df4",
+      "zh": "这个回答得到了意料之中的支持，也引来了意料之中的反对。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2654@22/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2654@22/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2654@22/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2654@19/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2654@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "This is a safe, standard response and your visit makes you look statesmanlike in contrast to Trump.",
+      "sha256": "e7ae40d85fe42cc938e7143f9ea2f60c41bd2370500522828efc3a0f26324579",
+      "zh": "这是一个稳妥而常规的回应。你的访问也让你显得比特朗普更有政治家的风范。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2655@23/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2655@23/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2655@23/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2655@20/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2655@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Pundits note the surprisingly strong tone of your speech about ISIS.",
+      "sha256": "b03655160353a4513b304cc09854754f1f5dbe9eec1b1b579bfa693ad5ab754b",
+      "zh": "评论人士注意到，你关于“伊斯兰国”的演说语气出人意料地强硬。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2656@24/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2656@24/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2656@24/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2656@21/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2656@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "It's fine to bring the attack to Trump. Just make sure to mention what you have to offer as well.",
+      "sha256": "9242e5d43ccc03b98b93288a4cbc0829830bc5cef4fd8e240e3b03885181e743",
+      "zh": "向特朗普发动攻击没问题，只是也别忘了说清楚，你能为大家带来什么。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2657@25/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2664@32/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2657@25/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2657@25/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2664@32/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2664@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Your best bet is to focus both on Trump's behavior, along with other economic and social issues that Americans and Democrats find important.",
+      "sha256": "b76d9dc66525c81fceadc1214a8098fedf2da6813f9744b056553b891868f6ba",
+      "zh": "最好的办法，是既聚焦特朗普的行为，也谈谈美国人和民主党人重视的其他经济、社会议题。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2658@26/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2658@26/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2658@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "You should definitely be discussing pocketbook issues on the trail, but don't forget how unpopular Trump is as well.",
+      "sha256": "66f65448b72110d20930ee2b420aedd44a268be9e2edab6bee88d6fb55d70900",
+      "zh": "竞选时，你当然应该讨论关系民众钱包的问题，但也别忘了，特朗普同样很不受欢迎。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2659@27/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2659@27/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2659@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "You should definitely be discussing your qualifications on the trail, but don't forget how unpopular Trump is as well.",
+      "sha256": "8d0c2a78db0f4de2ed447c27d067ee63d3298247d211c4366ce48ac7c95e9e2a",
+      "zh": "竞选时，你当然应该讨论自己的资格，但也别忘了，特朗普同样很不受欢迎。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2660@28/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2660@28/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2660@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "This talking point seems to play well among voters, even if it makes party insiders a little nervous about the direction of your potential Administration.",
+      "sha256": "7ba945235593a0127816a18fa7a51a4390b077e489c01af2a3596d83f600603f",
+      "zh": "这套说法似乎很受选民欢迎，即使它让党内人士对你可能执政后的方向有点紧张。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2661@29/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2661@29/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2661@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "George Bush did not leave office as a popular President. Maybe you can make the case that, underneath everything, Trump and Bush aren't so different after all?",
+      "sha256": "e3e3905c4ead2ea4688722da94e9e7725c542c9a98defc4175b001b41512efe2",
+      "zh": "乔治·布什离任时并不是一位受欢迎的总统。也许你可以说明，剥去表面上的差别，特朗普和布什其实并没那么不同？",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2662@30/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2662@30/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2662@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "You seem to be betting that you can win over disaffected moderates with repeated attacks on Trump's inexperience and behavior.",
+      "sha256": "2f5c95822349a47234bc8367fa0fbbb476e35b304a1c1d96c2e7e77fcf6be78a",
+      "zh": "你似乎在押注，通过反复攻击特朗普缺乏经验及其行为，来争取不满现状的温和派。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2663@31/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2663@31/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2663@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "It's not like anyone is asking you to comment on this, but it could have been an interesting gambit, given the stakes of this election.",
+      "sha256": "9a7d33e0ca4fe1c6f541785f58d2155d4ff11b4a53b51d568aa7565bbbbb570d",
+      "zh": "并没有人要求你对此发表评论，不过，考虑到这场选举的重大利害，这本可以是一招有意思的棋。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2665@33/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2665@29/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2665@33/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2665@22/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2665@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "It's unclear what effect this will have, but it is an interesting move.",
+      "sha256": "d5b9557394d0136f4a1468a9d50dd9556f12462467ae33e6e494c1eeae3b2dae",
+      "zh": "还不清楚这会有什么效果，但确实是个有意思的举动。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2666@34/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2666@30/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2666@34/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2666@23/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2666@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Can you turn out enough of the base to make up for disaffecting some moderate voters?",
+      "sha256": "2572cf34cb1bf9294fcd2a4ef3aa87f1bbc865f4d48c0d93611e03cb1a8ab7c1",
+      "zh": "你能动员足够多的基本盘选民投票，弥补失去一些温和派选民的损失吗？",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2669@35/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2669@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Can you win enough swing voters to compensate for tepid enthusiasm within your base?",
+      "sha256": "41757b880f6de74737a3f5c2d1ce58e53b0a19458d937fbc967572786d43b895",
+      "zh": "你能赢得足够多的摇摆选民，弥补基本盘热情不高的缺口吗？",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2670@36/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2670@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "There's nothing wrong with embracing Barack Obama this fall.",
+      "sha256": "a98f0976a49bcc0563b0924cac45eb1c512970de9b39b71c21bf0b4e08a7e606",
+      "zh": "今年秋天，积极支持贝拉克·奥巴马没有什么不对。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2674@37/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2674@34/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2674@29/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2674@36/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Obama emphasizes turnout repeatedly in his speeches across these areas.",
+      "sha256": "4694f57eb8e31b58a739f667e4534d944ae349d8686054705fcd5cc73dcff6fa",
+      "zh": "奥巴马在这些地区的演说中，反复强调投票率。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2675@38/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2675@35/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2675@30/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2675@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "There are a few unwanted rumors out there that you and Obama don't totally get along. Unless you wanted those to leak out?",
+      "sha256": "7279efdb1bfa650ef9430cdd1fa13193a59a0f483c85d309761be162f0a33139",
+      "zh": "外头有几条令人不快的传闻，说你和奥巴马并不完全合得来。除非，那正是你想让人听到的消息？",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2676@39/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2676@36/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2676@31/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2676@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "You can run a more assertively populist campaign without completely throwing Obama overboard.",
+      "sha256": "d5b2834059ff52e81c4fb96f1f2a4a7bcb48f6d50007eb8d49eed1ea59a423f1",
+      "zh": "你可以开展更鲜明的民粹主义竞选，而不必彻底抛弃奥巴马。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2677@40/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2677@37/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2677@32/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2677@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "People notice your surpisingly strong tone on global warming.",
+      "sha256": "3d3b658cfd0f055006c27cde62e939d20705ed2e654c4baad4b290b09be94e6a",
+      "zh": "人们注意到，你在全球变暖问题上的语气出人意料地强硬。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2681@41/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2681@41/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2681@33/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2681@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Your attack on coal country is what makes the headlines, for better or worse.",
+      "sha256": "274cfb680162e899beb49fdc1a873e9012ee011c45c670e6fff35e08f19938f0",
+      "zh": "不管是好是坏，登上头条的是你对煤炭产区的攻击。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2682@42/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2682@42/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2682@34/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2682@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "This comes off as a very market-focused philosophy in combatting global warming.",
+      "sha256": "fb434c519aa1270b25097c2829d4b3803b44236c6101e421d78cb8682486e748",
+      "zh": "这种应对全球变暖的理念，显得非常依赖市场。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2683@43/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2683@43/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2683@35/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2683@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Unfortunately, an ill-timed health issue has cost you several days of appearances during a critical part of the campaign.",
+      "sha256": "23cf6f6349b1247d8511eeacaa52cec167a667426161321df97d20e92392a8df",
+      "zh": "不幸的是，在竞选关键阶段，一次来得不是时候的健康问题，让你缺席了好几天的活动。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2684@44/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2684@41/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2684@44/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2684@36/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2684@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "After a couple of days, the health issue recedes to the background.",
+      "sha256": "40545152d6796be67e4f6b4a6b99b5c518820d64db95b54c6eaa6858a1b635af",
+      "zh": "几天后，健康问题退到了次要位置。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2685@45/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2685@42/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2685@45/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2685@37/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2685@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "You are campaigning hard, but several times you break out into uncontrolled coughing fits that don't escape public notice.",
+      "sha256": "9bedda527ba107aa21ccf6d784f18fb71b0af239c6e669d2ee388f4b04179a7f",
+      "zh": "你正在卖力竞选，但有几次突然咳嗽不止，没能逃过公众的注意。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2686@46/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2686@43/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2686@46/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2686@38/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2686@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Unfortunately, your decision to keep campaigning has really backfired. Your health issue has gotten worse, forcing you to take a significant break from the campaign in October.",
+      "sha256": "5b3b04930515f90eeda0b3f4aa7b94c5a87a5788bc35d66e5e81f6dfc0921fcf",
+      "zh": "不幸的是，坚持竞选的决定严重适得其反。你的健康问题加重了，迫使你在十月长时间暂停竞选。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2687@47/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2687@44/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2687@47/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2687@39/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2687@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Your 30-minute TV spots have terrible ratings, and Trump doesn't hesitate to mock you for it on Twitter.",
+      "sha256": "541398067803926f490863f31c7c1ea1f4b4a1bc1016789a997274e4de1afb85",
+      "zh": "你的三十分钟电视广告收视率惨淡，特朗普毫不犹豫地在推特上嘲笑你。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2688@48/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2688@45/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2688@48/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2688@40/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2688@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Pundits seem to think that you did surprisingly poorly against Trump, even if he was his usual wild self.",
+      "sha256": "486c40d73b5198f216aa33fbc568f316affd65c9b1be3c56f5b3678c3f8d5579",
+      "zh": "评论人士似乎认为，面对特朗普，你的表现出人意料地差，尽管他也还是一贯狂放的样子。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2689@49/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2689@46/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2689@49/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2689@41/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2689@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Your debate performances are widely praised, especially compared to Trump. Will it matter with the voters?",
+      "sha256": "03f361eb935f7f16408ea8e0f8a8ec1211dae77fb5cfd3f8417cdd3a11eb9d31",
+      "zh": "你的辩论表现获得广泛赞誉，尤其是与特朗普相比。这会影响选民吗？",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2690@50/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2691@51/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2690@47/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2691@48/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2690@50/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2691@51/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2690@42/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2691@43/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2690@49/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2691@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Trump's comments dominate the airwaves for several days, and even bring some condemnation from notable conservatives.",
+      "sha256": "a0785c98adc0e8cedd1f5285d84b85bc547914859e6beed51795877c352135c1",
+      "zh": "特朗普的言论连续几天占据广播电视节目，甚至招致一些知名保守派的谴责。",
+      "keys": [
+        "2016_Clinton_Kaine/answer_feedback_json/2692@52/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2693@53/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2694@54/answer_feedback",
+        "2016_Clinton_Kaine/answer_feedback_json/2695@55/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2692@49/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2693@50/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2694@51/answer_feedback",
+        "2016_Clinton_Booker/answer_feedback_json/2695@52/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2692@52/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2693@53/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2694@54/answer_feedback",
+        "2016_Clinton_Brown/answer_feedback_json/2695@55/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2692@44/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2693@45/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2694@46/answer_feedback",
+        "2016_Clinton_Sanders/answer_feedback_json/2695@47/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2692@51/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2693@52/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2694@53/answer_feedback",
+        "2016_Clinton_Warren/answer_feedback_json/2695@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

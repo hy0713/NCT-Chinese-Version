@@ -1,0 +1,1105 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1988-c",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 328,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 9,
+      "reason": "Historical generalization retained in the 1988 setting; not an assertion about all subsequent elections."
+    },
+    {
+      "index": 38,
+      "reason": "Drug Czar translated as national drug-policy coordinator; original institutional chronology retained and explained separately."
+    },
+    {
+      "index": 56,
+      "reason": "Seven administrations and timing of evidence retained as Bush's campaign defense; debate transcript corroborates the defense, not the truth of every underlying intelligence claim."
+    },
+    {
+      "index": 70,
+      "reason": "Original campain understood as campaign; source English unchanged."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "People wonder what you mean by this. You emphasize that you're not talking about income tax increases.",
+      "sha256": "1fb8eb3116ea795a7aa800b577c8a25386ab402e02e4984ebecba906f224a125",
+      "zh": "人们不明白你这是什么意思。你强调，自己并不是在谈提高所得税。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1951@40/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1951@38/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1951@40/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1951@46/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1951@46/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1951@44/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1951@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Most Americans wonder if you hit your head the wrong way getting out of bed this morning.",
+      "sha256": "e718cc86f0fc7d1fa19ed9b1c325de6669f241b700b32c4dffa0d303892744e7",
+      "zh": "大多数美国人怀疑，你今天早上起床时是不是把脑袋撞坏了。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1952@41/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1952@39/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1952@41/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1952@47/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1952@47/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1952@45/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1952@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "This answer, after the 1984 debacle, really has observers scratching their heads.",
+      "sha256": "4c9e1ed9dfbff301f1215251a2ddc8fed44ecee12e7d34b1016b06f40b0c34b9",
+      "zh": "经历1984年的惨败之后，这个回答实在让观察人士摸不着头脑。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1953@42/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1953@40/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1953@42/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1953@48/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1953@48/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1953@46/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1953@47/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "A naked support of free trade is taking things a little too far for the Democratic Party right now.",
+      "sha256": "93d8d8454cbbf0126d686f895d6e96d8ec2208f882ce14486d256bdc51f404e5",
+      "zh": "眼下对民主党来说，如此毫无保留地支持自由贸易，有些过头了。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1959@44/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1955@42/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1959@46/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1962@49/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1955@44/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1959@48/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1959@50/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1959@50/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1959@48/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1959@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "In general, your party supports liberalized trade -- unless you are really trying to push yourself over the top in a couple of states.",
+      "sha256": "8d11f68d25173dc245fae9b0e5917cd6f80b231a1ac65499b4b939c1436d5518",
+      "zh": "总体而言，你的党支持贸易自由化——除非你确实想靠这个议题，在几个州争取足以获胜的额外支持。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1960@45/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1957@44/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1960@47/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1957@46/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1960@49/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1960@51/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1960@51/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1960@49/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1960@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "You quickly specify that using the term “rights of the unborn” does not mean that you are pro-life, but your remark is still damaging.",
+      "sha256": "b865564b18841a6bc00c78e70a715a0412668de258373cecc6a266f3d2675f05",
+      "zh": "你很快说明，使用“未出生者的权利”这个说法，不代表你反对堕胎，但这番话仍然造成了伤害。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1965@46/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1965@50/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1965@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Some supporters are disappointed by this statement.",
+      "sha256": "cefbe5ec8c68b38c362f2197244ec694e3114bf194714898109547cd6101b834",
+      "zh": "一些支持者对这番话感到失望。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1966@47/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1966@51/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1966@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Liberals sense a bit of compromise in this response, when it comes to the issue of abortion.",
+      "sha256": "f3b4d524333d00f406742104f4789cab0f2abad0016e83ce8618e70f9dd1700b",
+      "zh": "在堕胎问题上，自由派从这个回答中感到了一丝妥协。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1967@48/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1967@52/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1967@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "You quickly clarify that you yourself don't support the “right to choose”, but rather that it was a misstatement.",
+      "sha256": "719caa8b4e7c9acd297199c4bad585f05b5e7297ba28515d0e5a9f5d7a846836",
+      "zh": "你很快澄清，自己并不支持“选择堕胎的权利”，刚才只是说错了话。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1968@49/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1968@53/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1968@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "No Democrat has ever been elected President without winning Texas. Even so, liberal supporters are not pleased with this answer.",
+      "sha256": "976d9a3e5112cf007b9272eabe425a2730c5d31ef14d8bdafff6595d077798d2",
+      "zh": "还没有哪个民主党人未赢下得克萨斯州却当选总统。即便如此，自由派支持者也不喜欢这个回答。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1974@50/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1974@52/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1974@56/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1974@52/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1974@54/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1974@54/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1974@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "This is anathema to Southerners, Westerners, and many Republicans in general.",
+      "sha256": "ccf1ab842a58c123209a25f358f8a50bcd5b9a54160ab6902038427040c9e3d8",
+      "zh": "南方人、西部人以及许多共和党人，通常都无法接受这种立场。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1975@51/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1975@53/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1975@57/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1975@53/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1975@55/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1975@55/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1975@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "This in line with your expected position, although it could be hurting you in some regions.",
+      "sha256": "7200029d24debfc7111cb44e0e911a53b954b592d624d1df5361ec67bd21b5f3",
+      "zh": "这符合人们预期的立场，不过可能会损害你在某些地区的支持。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1976@52/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1976@54/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1976@58/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1976@54/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1976@56/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1976@56/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1976@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "This is a bit of a change from other Democrats, but it doesn't hurt to look strong on defense.",
+      "sha256": "99b5b89b8aaeb4f50bc029297c041643d9959fea1cc520a61d841ccba3ed9350",
+      "zh": "这与其他民主党人的立场有所不同，但展现国防上的强硬形象并无坏处。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1977@53/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1977@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "This appears too much of a pander to Texans to go over well, when it runs against the normal principles of your party.",
+      "sha256": "316256122e242201559bff0129d245f193835c79a3988352d091b79fcd1f1e68",
+      "zh": "这看起来太像是在迎合得克萨斯州选民，而且违背了你党通常坚持的原则，因此难以获得好评。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1982@54/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1982@56/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1982@59/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1982@55/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1982@57/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1982@57/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1982@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "This is a bold position, but it could definitely help some Texas Democrats make up their minds.",
+      "sha256": "e0a689b42c6b2bf7e4f04f8dbec32e35347f4449310ff7f3af030fd3cd992dac",
+      "zh": "这个立场大胆，但肯定能帮助一些得克萨斯州民主党人作出决定。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1983@55/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1983@57/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1983@60/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1983@56/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1983@58/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1983@58/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1983@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Some environmentalist-influenced supporters disagree.",
+      "sha256": "6f7868f0f87a5b9b50e516de50aa1d57d59ceda35dadde4766d15dd5c7927774",
+      "zh": "一些受环保主义影响的支持者不同意。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1984@56/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1984@58/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1984@61/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1984@57/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1984@59/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1984@59/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1984@56/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "This is not the preferred answer for this situation.",
+      "sha256": "61fc306ec3d0a788edde875931932bd2cac05e900677c679065aa87c7cfa018e",
+      "zh": "在这种处境下，这不是最合适的回答。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1985@57/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1985@59/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1985@62/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1985@58/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1985@60/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1985@60/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1985@57/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Your comments make the nightly news, and are somewhat controversial in the farm states.",
+      "sha256": "a02e8f8bd2196705def19064352044f205c22fb5e33946919b60cdac58f21eb3",
+      "zh": "你的言论登上了晚间新闻，在农业州引起了一定争议。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1986@58/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1986@60/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1986@63/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1986@59/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1986@61/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1986@61/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1986@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "This is not a popular answer in the farm states, and seems surprisingly glib on economic plight for a Democrat.",
+      "sha256": "59c49d74bb2c6b09eb9c793e9cea7553c999921423d021fef7b65471b41361df",
+      "zh": "这个回答在农业州并不受欢迎，而且对一位民主党人来说，面对经济困境的态度轻率得令人意外。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1987@59/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1987@61/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1987@64/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1987@60/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1987@62/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1987@62/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1987@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "You seem to be admitting that the Reagan Administration made a big mistake here, and that you either contributed or were not involved in the big choices.",
+      "sha256": "07e20b1d3e6033c538dc333177259c4006c281f4b9be141d3ee6722c24d3e445",
+      "zh": "你似乎承认，里根政府在这件事上犯了大错，而你要么参与其中，要么根本没有参与重大决策。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1988@60/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1988@62/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1988@65/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1988@61/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1988@63/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1988@63/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1988@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "This is probably your best response. Take the attack to Bush.",
+      "sha256": "d81ffb2b2917e68b46afbb09fe63da0da5799d1276886a4b67f0ad93cec147b9",
+      "zh": "这大概是你最好的回应。主动向布什发起攻击。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1989@61/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1989@63/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1989@66/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1989@62/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1989@64/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1989@64/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1989@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Good luck tomorrow!",
+      "sha256": "2a8fac8b39cf2679098d29477af5a5fe46e3985c38671c5bc1beaf2e076919fb",
+      "zh": "祝你明天好运！",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1990@62/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1991@63/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1992@64/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1993@65/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1994@66/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1995@67/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1996@68/answer_feedback",
+        "1988_Bush_Quayle/answer_feedback_json/1997@69/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1990@64/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1991@65/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1992@66/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1993@67/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1994@68/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1995@69/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1996@70/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1997@71/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1990@67/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1991@68/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1992@69/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1993@70/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1994@71/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1995@72/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1996@73/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1997@74/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1990@63/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1991@64/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1992@65/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1993@66/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1994@67/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1995@68/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1996@69/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1997@70/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1990@65/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1991@66/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1992@67/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1993@68/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1994@69/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1995@70/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1996@71/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1997@72/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1990@65/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1991@66/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1992@67/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1993@68/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1994@69/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1995@70/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1996@71/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1997@72/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1990@62/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1991@63/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1992@64/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1993@65/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1994@66/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1995@67/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1996@68/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1997@69/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Dukakis attacks you relentlessly for refusing to debate, and it is not helping your position.",
+      "sha256": "65e2273355710bde447449f5203be214beb15c998b9a65fde5069cde97661ae5",
+      "zh": "杜卡基斯不断攻击你拒绝辩论，这对你的处境毫无帮助。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1998@70/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1998@72/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1998@75/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1998@71/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1998@73/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1998@73/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1998@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Bush is hammering you on the decision not to debate, and it does play into a narrative that you're not up to the job.",
+      "sha256": "1d0a38a8d7e2a9c9c046ddfe603a2ef469d4a33b461a2779a5ca398ff217b728",
+      "zh": "布什正围绕你拒绝辩论的决定穷追猛打，这确实强化了你无法胜任总统的说法。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/1999@71/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/1999@73/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1999@76/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/1999@72/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1999@74/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/1999@74/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/1999@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Unfortunately, Dukakis performed pretty well in these debates, and you seemed to miss a beat on a couple occassions.",
+      "sha256": "3f304b0bda248a4128726d1000e5795fcacf806190d2f883743ffdb89e08941c",
+      "zh": "遗憾的是，杜卡基斯在辩论中表现相当不错，而你有几次似乎慢了半拍。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/2000@72/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/2000@74/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/2000@77/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/2000@73/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/2000@75/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/2000@75/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/2000@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Bush stumbled on a couple of occasions, and you did pretty well. Observers believe these debates will definitely help your case.",
+      "sha256": "900f35a49c57ed49d6e1ea685955a003183f711a35fe6834f31d10584c6699a5",
+      "zh": "布什有几次失误，而你表现相当好。观察人士认为，这些辩论肯定有助于你争取支持。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/2001@73/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/2001@75/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/2001@78/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/2001@74/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/2001@76/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/2001@76/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/2001@73/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Dukakis did not help himself with an awkward response on capital punishment, and observers agree that you seemed to win.",
+      "sha256": "310c74e0a5d8af65a495f0cf8efdd77d3c7e384573bba9294d81106f63f36a92",
+      "zh": "杜卡基斯对死刑问题的回答十分别扭，没能为自己加分，观察人士一致认为，你似乎赢了。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/2002@74/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/2002@76/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/2002@79/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/2002@75/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/2002@77/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/2002@77/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/2002@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "You stumbled badly in response to a question about capital punishment. Observers believe that Bush was the winner in these debates.",
+      "sha256": "139ca9411964668f478a69ee02a55f223ca931ae4dae1096b0a6988f9dcf6684",
+      "zh": "你回答死刑问题时严重失误。观察人士认为，布什赢得了这些辩论。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/2003@75/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/2003@77/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/2003@80/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/2003@76/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/2003@78/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/2003@78/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/2003@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Your debates with Dukakis were largely inconclusive, and analysts agree that they are unlikely to affect the race.",
+      "sha256": "f943ce2c92da8f789c56f98e84fe8d7b45643562421325ea0c3c2ffda33cbfd9",
+      "zh": "你与杜卡基斯的辩论大体难分胜负，分析人士一致认为，它们不太可能影响选情。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/2004@76/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/2004@78/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/2004@81/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/2004@77/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/2004@79/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/2004@79/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/2004@76/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Your debates with Bush were largely inconclusive, and analysts agree that they are unlikely to affect the race.",
+      "sha256": "7c94b109f4cc812329698be4b716f22e70005fefc5505ae2d6eae6c5d6fe2c47",
+      "zh": "你与布什的辩论大体难分胜负，分析人士一致认为，它们不太可能影响选情。",
+      "keys": [
+        "1988_Bush_Quayle/answer_feedback_json/2005@77/answer_feedback",
+        "1988_Bush_Dole/answer_feedback_json/2005@79/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/2005@82/answer_feedback",
+        "1988_Dukakis_Bentsen/answer_feedback_json/2005@78/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/2005@80/answer_feedback",
+        "1988_Dukakis_Gore/answer_feedback_json/2005@80/answer_feedback",
+        "1988_Dukakis_Jackson/answer_feedback_json/2005@77/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "What do you have to say about the selection of Bob Dole as your running mate?",
+      "sha256": "0562aac03a50dabea0b1dc5751fbed9dca9b60003934e6128dd4225471e45eb1",
+      "zh": "对于选择鲍勃·多尔作为竞选搭档，你有什么要说的？",
+      "keys": [
+        "1988_Bush_Dole/questions_json/715@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Would you support a free trade zone, encompassing Mexico, the U.S., and Canada?",
+      "sha256": "e031e2ee224e2a52ea0d709359d5f6c13dc5114d00098c89321b48b27de92dc5",
+      "zh": "你会支持一个涵盖墨西哥、美国和加拿大的自由贸易区吗？",
+      "keys": [
+        "1988_Bush_Dole/questions_json/744@19/description",
+        "1988_Bush_Kemp/questions_json/744@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "What is your opinion on the recent Intermediate-Range Nuclear Forces Treaty?",
+      "sha256": "544024a47b26396a782ba5b110bd2928db450cf2390519facf459a1234367e1c",
+      "zh": "你如何看待最近签订的《中程核力量条约》？",
+      "keys": [
+        "1988_Bush_Dole/questions_json/750@20/description",
+        "1988_Bush_Kemp/questions_json/750@23/description",
+        "1988_Dukakis_Jackson/questions_json/750@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "What would you do as President to get the exploding crime rate in this country under control?",
+      "sha256": "65a8d3e3190d984d87bf116c6a0a7c6779dd96fd9cae696b2c63c43f45cb8658",
+      "zh": "作为总统，你会采取什么措施，控制国内急剧上升的犯罪率？",
+      "keys": [
+        "1988_Bush_Dole/questions_json/741@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Do you believe that free trade measures destroy more American jobs than they create?",
+      "sha256": "78c301057f0cc64aff700f82286fe369516720b458a6d5f9bb232f0f43647a8b",
+      "zh": "你认为，自由贸易措施使美国失去的工作岗位，比创造的更多吗？",
+      "keys": [
+        "1988_Bush_Dole/questions_json/746@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "This would be a positive step forward for all three countries, including the United States.",
+      "sha256": "9d2994f9c532a416a19cce9faa9ea6dfcea54ee26761decc0922f353b50aae96",
+      "zh": "这将使包括美国在内的三个国家都向正确方向迈进。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4485@22/description",
+        "1988_Bush_Kemp/answers_json/4485@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Bob Dole is going to do what Bob Dole does best, and we're proud to have him on our ticket.",
+      "sha256": "245a3ba877179decf5293e2740cd5df3844324bf3589db04993e4c54f13aaffd",
+      "zh": "鲍勃·多尔会做他最擅长的事，我们很自豪能与他组成竞选搭档。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4409@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "We need to increase our vigilance in the War on Drugs, increase prison sentences, and allow capital punishment to be more broadly applied.",
+      "sha256": "958de0ff1d19c30e49a3c6e4e4aa6025837c983fcc8b376c9f571779c87ec61a",
+      "zh": "我们需要在禁毒战争中加强警惕，延长监禁刑期，并扩大死刑的适用范围。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4475@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "We need to strengthen the power of the Drug Czar, and implement tough measures on repeat offenders. We also need programs to assist low-income families so that the children of today don't turn to crime in the future.",
+      "sha256": "28e6a7327c1428da446be8c12454ac08966910d605585ad193106156b3be6a09",
+      "zh": "我们需要加强国家禁毒主管的权力，对惯犯采取严厉措施。同时还需要帮助低收入家庭的项目，避免今天的孩子将来走上犯罪道路。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4476@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "We need more spending to counteract endemic poverty, and for drug treatment programs. We also need stricter gun control laws, and an end to capital punishment.",
+      "sha256": "8cd57fef0d6b55bfd8b30579125ef4f4dd79ec73e50736c33f2c174a29e578a1",
+      "zh": "我们需要增加拨款，解决根深蒂固的贫困，并开展戒毒治疗项目。我们还需要更严格的枪支管制法，并废除死刑。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4477@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "I'm predisposed to support this measure, but of course it depends on the specific negotiations that would play out.",
+      "sha256": "222c19e4a8762a8fd97c8eddbe3c4b4de1efc717c18bbbc7ee225c6784a42dc3",
+      "zh": "我倾向于支持这项措施，不过当然还要看具体谈判结果。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4486@42/description",
+        "1988_Bush_Kemp/answers_json/4486@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "I would oppose this measure without strong protections for the rights of American workers and employers.",
+      "sha256": "2bfbf4b46979f91c32e1c79ad25db84eeb1c9d00b5c15e7ffd44166b675fda1b",
+      "zh": "如果没有对美国工人和雇主权利的有力保障，我就会反对这项措施。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4487@43/description",
+        "1988_Bush_Kemp/answers_json/4487@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "I'm opposed to the expansion of foreign trade at the present time, when we are already dealing with a large trade deficit.",
+      "sha256": "6719ce687774904e88177528662a212b60b5861f586ffcbf9df5ec5b1418b3ed",
+      "zh": "目前，我们已经面临巨额贸易逆差，我反对进一步扩大对外贸易。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4488@44/description",
+        "1988_Bush_Kemp/answers_json/4488@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "I believe that free trade creates jobs. If I didn't believe that, I wouldn't support it.",
+      "sha256": "77756c8916b763833a678c33b4f1530475f84c21ff86f4876697e46f090d7ebe",
+      "zh": "我相信，自由贸易能够创造就业。如果不相信这一点，我就不会支持它。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4492@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Probably the effect is about equal, but it does allow American workers to focus on what they do best, which makes us more prosperous.",
+      "sha256": "dd7938817fd8cbdb8419e227ad9610707fc6236515e552f6775b39cd6e497a44",
+      "zh": "带来的得失大概相当，但它能让美国工人专注于自己最擅长的工作，使我们更加繁荣。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4493@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Free trade agreements definitely cost more American jobs than they create, further polarizing our society.",
+      "sha256": "5298e6a0213ddebceb2e4c748c27c133a19a23713f03cd4a76fdaeb8a98b3d54",
+      "zh": "自由贸易协定肯定会使美国失去比它创造的更多工作岗位，让社会进一步分化。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4494@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "This is a huge leap forward between the United States and Soviet Union, and I hope to oversee additional arms control measures during my time as President.",
+      "sha256": "8d6536ca815559f8cae3354a6640bc969e6968cb5b4b48f254dbef3e19d3b16d",
+      "zh": "这标志着美国与苏联关系取得重大进展，我希望在总统任内继续推动军备控制措施。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4504@54/description",
+        "1988_Bush_Kemp/answers_json/4504@57/description",
+        "1988_Dukakis_Jackson/answers_json/4504@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "This is a huge leap forward between the United States and Soviet Union.",
+      "sha256": "d5a43104efc2668b99617e874df3fb12bb1aa4d6fb6b4f255531141658c876f3",
+      "zh": "这标志着美国与苏联关系取得重大进展。",
+      "keys": [
+        "1988_Bush_Dole/answers_json/4505@55/description",
+        "1988_Bush_Kemp/answers_json/4505@58/description",
+        "1988_Dukakis_Jackson/answers_json/4505@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "The largest part of the party was advocating for Dole's selection, and they are pleased to see him on the ticket.",
+      "sha256": "4ff9cc410563094f8e8c36f19218168c2c31887c9bebe607d9618f65bf094c18",
+      "zh": "党内最大的一股力量一直主张选择多尔，如今看到他成为竞选搭档，他们很高兴。",
+      "keys": [
+        "1988_Bush_Dole/answer_feedback_json/1891@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Your position on capital punishment is a break from your record, and many liberals are displeased.",
+      "sha256": "6574c2129b839dfc2e86ecd0305fedd72534d69be8e86cb634d8f9db0e8813a6",
+      "zh": "你的死刑立场偏离了自己以往的政治记录，许多自由派对此不满。",
+      "keys": [
+        "1988_Bush_Dole/answer_feedback_json/1941@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "This answer is an unpleasant surprise for many potential supporters.",
+      "sha256": "42d1de67f44f75efd493dda9122f258ecf0d5d1a8f11ec975b976b61bf67fd71",
+      "zh": "这个回答让许多潜在支持者感到意外，而且并不愉快。",
+      "keys": [
+        "1988_Bush_Dole/answer_feedback_json/1942@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "This comes off like a laundry list of left-liberal demands, which many feel were repudiated in the 1984 election.",
+      "sha256": "02c768b2e75c8fe565f7f1ed601e92e68a80dfd431fcc7dbdd3dbb741fd1b64d",
+      "zh": "这听起来像是一长串左翼自由派的诉求，许多人认为，这些主张在1984年选举中已经遭到选民否定。",
+      "keys": [
+        "1988_Bush_Dole/answer_feedback_json/1943@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Many in the party are surprised by your protectionist tone.",
+      "sha256": "2d53633680612c09864119c15cc4270873ff92ca03f8cf5e1526e250bf80102a",
+      "zh": "党内许多人对你的贸易保护主义口吻感到意外。",
+      "keys": [
+        "1988_Bush_Dole/answer_feedback_json/1964@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "What do you have to say about the selection of Jack Kemp as your running mate?",
+      "sha256": "fa00c95a864d973c3d6d147ae112e474e340aa9b7f6210740badfea3f5941399",
+      "zh": "对于选择杰克·肯普作为竞选搭档，你有什么要说的？",
+      "keys": [
+        "1988_Bush_Kemp/questions_json/716@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Do you believe that voluntary prayer should be allowed in the nation's classrooms?",
+      "sha256": "e8085744df4bd0d53e98c500755984418b226c693c51f11c883f35b24f7b85a5",
+      "zh": "你认为，应允许全国学校的课堂开展自愿祈祷吗？",
+      "keys": [
+        "1988_Bush_Kemp/questions_json/748@18/description",
+        "1988_Dukakis_Glenn/questions_json/748@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Do you have anything to say about your relationship with Manuel Noriega of Panama?",
+      "sha256": "da1bd2b631cb48b5ecd6a6b27747ff4333c4042d71709b97e16e537b28222988",
+      "zh": "对于你与巴拿马的曼努埃尔·诺列加的关系，你有什么要说的？",
+      "keys": [
+        "1988_Bush_Kemp/questions_json/710@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Seven Administrations have dealt with Manuel Noriega, dating back to the 1950s. As soon as his drug ties became known, it was the Reagan Administration that moved to indict him.",
+      "sha256": "b21fba3f6e43caac39aa61dedda156b8bed5b64f4e7a85fe94337b76b3a271fa",
+      "zh": "从20世纪50年代开始，已有七届政府与曼努埃尔·诺列加打过交道。他与毒品的联系一经查明，正是里根政府采取行动起诉了他。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4399@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "This is the kind of specious attack that doesn't merit serious discussion in a national campaign. I trust that voters will be smart enough to focus on the real issues.",
+      "sha256": "9551f0d60efae6ee5afeda3e3e24300448179858821ab5d23850a468ac23692b",
+      "zh": "这类似是而非的攻击，不值得在全国竞选中认真讨论。我相信，选民足够明智，会把注意力放在真正的问题上。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4400@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "I regret not taking active steps, as CIA Director, to limit our dealings with Manuel Noriega in the 1970s.",
+      "sha256": "ff8047c58c9f96a7ef43c0c50efbb6c3adc453973efbdc06a98a2f52153cc014",
+      "zh": "我后悔在20世纪70年代担任中央情报局局长时，没有采取积极措施，限制我们与曼努埃尔·诺列加的往来。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4401@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Jack Kemp is a towering figure within the Republican Party, and we're proud to have him on our ticket.",
+      "sha256": "1e73d40a2eb0879bf5c84bf9e52771548fb24ba71a7c91272cb1ef86d219e253",
+      "zh": "杰克·肯普是共和党内举足轻重的人物，我们很自豪能与他组成竞选搭档。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4410@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "I support the right for local schools to decide whether to include a daily, voluntary prayer.",
+      "sha256": "9bdd93cfe0971e77c6361d53c3884d8bc8623ad0874c2b029924b9100656a077",
+      "zh": "我支持地方学校自行决定，是否每天开展自愿祈祷。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4498@51/description",
+        "1988_Dukakis_Glenn/answers_json/4498@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "I'm not touching this issue with a ten foot pole. If anyone asks, I will deflect deflect deflect.",
+      "sha256": "102c30107646381e471e7b0b1c532cbd44c7262a18e3a30dee06a4ad23997ef2",
+      "zh": "我绝不碰这个问题。有人问起，我就转移话题，转移话题，再转移话题。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4499@52/description",
+        "1988_Dukakis_Glenn/answers_json/4499@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "This is settled law. It is not appropriate to have public schools lead students in prayer, even if it is voluntary.",
+      "sha256": "37a4a29b37403232ddea8299883f129174084279a1190f3791d0ede5cf837049",
+      "zh": "这个问题在法律上已有定论。公立学校带领学生祈祷并不合适，即使名义上是自愿的。",
+      "keys": [
+        "1988_Bush_Kemp/answers_json/4500@53/description",
+        "1988_Dukakis_Glenn/answers_json/4500@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "Better to finesse this issue, than to turn off a wing of the party like you just did.",
+      "sha256": "711596c301da7e280141d8ebe695fc3a84072f4cf445b5ed47530ece004d63ad",
+      "zh": "最好巧妙处理这个问题，而不是像你刚才那样，得罪党内一整派人。",
+      "keys": [
+        "1988_Bush_Kemp/answer_feedback_json/1971@3/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1971@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "This is an embarrassing issue, but your best course is to minimize it and hope that it doesn't come up too much during the campaign.",
+      "sha256": "9402b54d037441981ad349e1703384676824d655574e34455a252b6be20f97c0",
+      "zh": "这件事很尴尬，但最好的办法还是淡化它，希望竞选期间不会被频繁提起。",
+      "keys": [
+        "1988_Bush_Kemp/answer_feedback_json/1883@29/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1884@30/answer_feedback",
+        "1988_Bush_Kemp/answer_feedback_json/1885@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "Jack Kemp is a fine choice for Vice President.",
+      "sha256": "f62e69719d71052dacec354c59b37b0e4cda4a0dfc7176286b95ccee2c32d51e",
+      "zh": "杰克·肯普是个很好的副总统人选。",
+      "keys": [
+        "1988_Bush_Kemp/answer_feedback_json/1892@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "This is the last thing that Democratic supporters expected to hear you say, and many are unpleased.",
+      "sha256": "4a0ff39dd3f8c60f201377ca4aef54b485d3e11384563b91bd872f7e5b9513da",
+      "zh": "这是民主党支持者最不可能预料到你会说的话，许多人对此不满。",
+      "keys": [
+        "1988_Bush_Kemp/answer_feedback_json/1969@54/answer_feedback",
+        "1988_Dukakis_Glenn/answer_feedback_json/1969@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "What message will you <em>most</em> emphasize as you accept the Democratic Party nomination?",
+      "sha256": "2771c41c94ccc51d9744af733d9a5bc193b7ee85a8bdcc72e7b881cbdbc1e260",
+      "zh": "接受民主党提名时，你将<em>最</em>着重强调什么信息？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/717@0/description",
+        "1988_Dukakis_Glenn/questions_json/717@0/description",
+        "1988_Dukakis_Gore/questions_json/717@0/description",
+        "1988_Dukakis_Jackson/questions_json/717@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "To what extent will you make your performance as Governor of Massachusetts a centerpiece of your campaign?",
+      "sha256": "6e8e8a6b904887733cfcf8ae003073e245acfb067a527fa2bb93abcabc8397f8",
+      "zh": "你会在多大程度上将自己担任马萨诸塞州州长的政绩，作为竞选的核心？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/718@1/description",
+        "1988_Dukakis_Glenn/questions_json/718@2/description",
+        "1988_Dukakis_Gore/questions_json/718@1/description",
+        "1988_Dukakis_Jackson/questions_json/718@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "What do you have to say about the selection of Lloyd Bentsen as your running mate?",
+      "sha256": "d1678293db73b87b1c2945f9c8f2d44ed5201a828f457b396e898ab1511142d4",
+      "zh": "对于选择劳埃德·本特森作为竞选搭档，你有什么要说的？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/734@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "To what extent will you campaign focus on your background as the child of Greek immigrants, and your rise through American society?",
+      "sha256": "a80dadaf69c53127c63d259e0bf5ab0fe2d47bab0cd70476b9b4be7d10ac80e5",
+      "zh": "你的竞选将在多大程度上突出自己作为希腊移民子女、在美国社会中不断向上奋斗的经历？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/729@3/description",
+        "1988_Dukakis_Glenn/questions_json/729@3/description",
+        "1988_Dukakis_Gore/questions_json/729@3/description",
+        "1988_Dukakis_Jackson/questions_json/729@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "What is your opinion on the selection of Dan Quayle as George Bush's running mate?",
+      "sha256": "8ff18675f4e7c74a97f51c20d6ad907997da83953c140fbc821207f053eccb7a",
+      "zh": "对于乔治·布什选择丹·奎尔作为竞选搭档，你怎么看？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/732@4/description",
+        "1988_Dukakis_Glenn/questions_json/732@4/description",
+        "1988_Dukakis_Gore/questions_json/732@5/description",
+        "1988_Dukakis_Jackson/questions_json/732@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "How do you plan to attack the candidacy of George Bush, if at all?",
+      "sha256": "0d13f129bc09e346401fd0955b72f46dbc80ca4056e9c98d2d9833f200393e26",
+      "zh": "你打算如何攻击总统候选人乔治·布什，还是根本不打算攻击？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/719@6/description",
+        "1988_Dukakis_Glenn/questions_json/719@5/description",
+        "1988_Dukakis_Gore/questions_json/719@6/description",
+        "1988_Dukakis_Jackson/questions_json/719@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "The Bush campaign is attacking your opposition to the invasion of Grenada, and bombing of Libya. What is your response?",
+      "sha256": "8b3f5b225d2a01c9a6ba1e29f9eea8a659a4531e79c426a82a77b9550e029120",
+      "zh": "布什阵营正在攻击你反对入侵格林纳达和轰炸利比亚的立场。你如何回应？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/725@7/description",
+        "1988_Dukakis_Glenn/questions_json/725@12/description",
+        "1988_Dukakis_Gore/questions_json/725@20/description",
+        "1988_Dukakis_Jackson/questions_json/725@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "The Bush campaign has repeatedly called you a “liberal” or “the liberal Governor”, and so on. Do you embrace the label of “liberal”?",
+      "sha256": "cb5586bbd8c28561e970168c1d7a1a71bef65f5f0b617c082af7bcc7ef91dbd7",
+      "zh": "布什阵营反复称你为“自由派”“自由派州长”等。你接受“自由派”这个标签吗？",
+      "keys": [
+        "1988_Dukakis_Bentsen/questions_json/726@11/description",
+        "1988_Dukakis_Glenn/questions_json/726@20/description",
+        "1988_Dukakis_Gore/questions_json/726@18/description",
+        "1988_Dukakis_Jackson/questions_json/726@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

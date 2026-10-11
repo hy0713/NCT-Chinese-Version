@@ -1,0 +1,617 @@
+[
+  {
+    "source": "The culture wars have been a feature of American politics for decades, and 2012 is no exception. An increasingly empowered LGBT community demands acceptance for gay marriage while most conservatives still find the idea to be anathema to their sensibilities. The ever-present debates on abortion, religious issues, and gun control are still running strong as well.",
+    "zh": "文化战争数十年来一直是美国政治的一大特征，2012年也不例外。影响力不断增强的LGBT群体要求社会接受同性婚姻，而大多数保守派仍对此极为排斥。围绕堕胎、宗教与枪支管制的长期争论，也依然激烈。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/description",
+      "2012_Obama_Clinton/issues_json/4@4/description"
+    ]
+  },
+  {
+    "source": "An evangelical Christian or otherwise deeply traditional on social issues. Believes that abortion is murder, and that gay marriage threatens thousands of years of religious and civil precedents. Also favors a traditional role for women and traces many current problems to the women's liberation movement.",
+    "zh": "属于福音派基督徒，或在社会议题上极为传统。认为堕胎就是谋杀，同性婚姻威胁着延续数千年的宗教与世俗传统。也支持女性承担传统角色，并将当前许多问题归因于妇女解放运动。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_1",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_1",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_1",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_1",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_1",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_1"
+    ]
+  },
+  {
+    "source": "Deeply religious and traditional in their outlook. May support some exceptions but is generally pro-life. Views homosexuality as a sin and opposes gay marriage. Supports traditional family structures and is also a supporter of gun rights.",
+    "zh": "宗教信仰虔诚，观念传统。可能接受某些例外，但总体反对堕胎。将同性恋视为罪，反对同性婚姻。支持传统家庭结构，也支持拥枪权。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_2",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_2",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_2",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_2",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_2",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_2"
+    ]
+  },
+  {
+    "source": "Agrees in principle with the idea of the nuclear family as the bulwark of society. Does not take a hard line on gay marriage, but is probably opposed to it. May be willing to compromise on abortion and gun rights in some cases.",
+    "zh": "原则上认同以核心家庭作为社会支柱。不在同性婚姻问题上采取强硬立场，但很可能反对同性婚姻。在某些情况下，可能愿意在堕胎和拥枪权问题上妥协。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_3",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_3",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_3",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_3",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_3",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_3"
+    ]
+  },
+  {
+    "source": "Does not favor extreme measures on the social issues of the day. May support civil unions. Sees the feminist movement as a net positive, while criticizing its perceived excesses. Favors sensible regulation of gun ownership.",
+    "zh": "不赞成在当下社会议题上采取极端措施。可能支持民事结合。认为女权运动总体利大于弊，同时批评其被认为过度的部分。支持合理监管枪支拥有。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_4",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_4",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_4",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_4",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_4",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_4"
+    ]
+  },
+  {
+    "source": "Favors civil unions and may support gay marriage. May support reduced penalties for some drug offenses. In general a supporter of gun control, while acknowledging the rights conferred by the Second Amendment.",
+    "zh": "支持民事结合，也可能支持同性婚姻。可能支持减轻部分毒品犯罪的处罚。总体支持枪支管制，同时承认第二修正案赋予的权利。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_5",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_5",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_5",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_5",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_5",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_5"
+    ]
+  },
+  {
+    "source": "Favors gay marriage, decriminalization of marijuana, legal access to abortion through at least the first trimester, and wide restrictions on gun ownership. Follows women's issues closely and supports increased funding for women's shelters, child care, birth control, and similar programs.",
+    "zh": "支持同性婚姻、大麻去刑罪化，以及至少在妊娠前三个月内合法堕胎，并主张在多个方面限制枪支拥有。密切关注女性议题，支持增加对妇女庇护所、托儿、避孕等项目的拨款。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_6",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_6",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_6",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_6",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_6",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_6"
+    ]
+  },
+  {
+    "source": "Favors gay marriage. Advocates for an immediate end to the drug war and the legalization of marijuana and perhaps other drugs. Thinks abortion should be legal in all circumstances. Supports a total or near-total ban on gun ownership. Supports early education on contraceptives to reduce teen pregnancy.",
+    "zh": "支持同性婚姻。主张立即结束禁毒战争，并将大麻乃至其他毒品合法化。认为任何情况下堕胎都应合法。支持全面或近乎全面禁止私人拥有枪支。支持及早开展避孕教育，以减少未成年怀孕。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/4@4/stance_desc_7",
+      "2012_Obama_Clinton/issues_json/4@4/stance_desc_7",
+      "2012_Romney_Ryan/issues_json/4@4/stance_desc_7",
+      "2012_Romney_Portman/issues_json/4@4/stance_desc_7",
+      "2012_Romney_Rubio/issues_json/4@4/stance_desc_7",
+      "2012_Romney_Pawlenty/issues_json/4@4/stance_desc_7"
+    ]
+  },
+  {
+    "source": "This is just what the liberal wing of your party wants to hear.",
+    "zh": "这正是你们党的自由派想听到的。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/360@0/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/360@2/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/360@0/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/360@1/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/360@2/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/360@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many of your supporters were hoping for a more vigorous stance.",
+    "zh": "你的许多支持者希望采取更有力的立场。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/361@1/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/361@3/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/361@1/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/361@2/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/361@3/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/361@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your supporters are in shock at this response -- while your opponents mock you for changing your position so drastically.",
+    "zh": "你的支持者对此反应感到震惊 - 而你的对手则嘲笑你如此彻底地改变立场。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/362@2/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/362@4/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/362@2/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/362@3/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/362@4/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/362@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Democrats have spent years trying to erase the stigma that they are soft on defense. This won't help.",
+    "zh": "民主党多年来一直试图消除他们在防守方面软弱的耻辱。这不会有帮助。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/367@3/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/367@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "Good response. It's important to stand by your policies.",
+    "zh": "反应良好。坚持你的政策很重要。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/368@4/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/368@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "This isn't what you did in 2011. Have you had a change of heart?",
+    "zh": "这不是你在 2011 年所做的。你改变主意了吗？",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/369@5/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/369@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "You may be right, but <em>you</em> were one of the people who allowed this to happen. Republicans now have ammunition to brand you as a 'flip-flopper'. ",
+    "zh": "你可能是对的，但是 <em>你</em> 是允许这种情况发生的人之一。共和党人现在有理由给你贴上“反复无常”的标签。 ",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/370@6/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/370@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your answer has fired up the liberal base. This should help bolster turnout in key states this fall.",
+    "zh": "你的回答激起了自由派的基础。这应该有助于提高今年秋季关键州的投票率。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/376@7/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/376@7/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/376@3/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/376@6/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/376@7/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/376@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "A safe response, but your core voters wanted more from you.",
+    "zh": "一个安全的回应，但你的核心选民希望你提供更多。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/377@8/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/377@8/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/377@4/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/377@7/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/377@8/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/377@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your personal views come as a surprise to most people, and a disappointing one to your electoral base.",
+    "zh": "你的个人观点让大多数人感到惊讶，也让你的选民基础感到失望。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/378@9/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/378@9/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/378@5/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/378@8/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/378@9/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/378@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "After all their support, the LGBT community can't believe what you just said. You had better be prepared for a backlash from your liberal base.",
+    "zh": "在得到了所有支持后，LGBT 群体无法相信你刚才所说的话。你最好做好应对自由派基础的强烈反对的准备。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/379@10/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/379@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is probably the best response for you, but it may make some moderates feel uneasy.",
+    "zh": "这可能是对您来说最好的回应，但它可能会让一些温和派感到不安。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/381@11/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/381@11/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/381@7/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/381@10/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/381@11/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/381@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's certainly nothing wrong with this answer -- it is a little cautious however.",
+    "zh": "这个答案当然没有任何问题——但是有点谨慎。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/382@12/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/382@12/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/382@8/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/382@11/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/382@12/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/382@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "Unfortunately for you, most Democrats agree that we should use a combination of revenue increases as well as spending cuts to balance the budget.",
+    "zh": "对你来说不幸的是，大多数民主党人都同意我们应该结合增加收入和削减支出来平衡预算。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/383@13/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/383@13/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/383@9/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/383@12/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/383@13/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/383@16/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your supporters can't believe what you just said. You favor even more tax cuts for the rich? They're not the ones voting for you this November...",
+    "zh": "你的支持者无法相信你刚才所说的话。您赞成为富人进一步减税吗？今年十一月他们不是投票给你的人......",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/384@14/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/384@14/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/384@10/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/384@13/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/384@14/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/384@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Horrible response. Some very large agricultural corporations and many Midwest voters disagree.",
+    "zh": "可怕的反应。一些非常大的农业公司和许多中西部选民不同意。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/388@15/answer_feedback",
+      "2012_Obama_Biden/answer_feedback_json/449@42/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/388@18/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/449@39/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's a certain panache to this answer that farmers find appealing.",
+    "zh": "这个答案有一定的华丽感，对农民来说很有吸引力。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/389@16/answer_feedback",
+      "2012_Obama_Biden/answer_feedback_json/451@44/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/389@19/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/451@41/answer_feedback"
+    ]
+  },
+  {
+    "source": "You can write any thoughts of winning this election right now. Criticizing your own policy this strongly looks bad to almost everyone.",
+    "zh": "您现在可以写下有关赢得这次选举的任何想法。批评自己的政策对几乎每个人来说都看起来很糟糕。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/398@17/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/398@17/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/398@19/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/398@18/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/398@23/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/398@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a bad answer for you, considering that it's your own health care plan.",
+    "zh": "考虑到这是您自己的医疗保健计划，这对您来说是一个糟糕的答案。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/399@18/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/399@18/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/399@20/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/399@19/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/399@24/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/399@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "Way to stick up for your principles and your policies.",
+    "zh": "坚持你的原则和政策的方式。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/400@19/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/400@19/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/400@21/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/400@20/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/400@25/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/400@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pundits are asking whether you've implied that your plan doesn't go far enough.",
+    "zh": "专家询问您是否暗示您的计划还不够深入。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/401@20/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/401@20/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/401@22/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/401@21/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/401@26/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/401@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "Expect your hopes of getting reelected to be buried under about $50 million of shady, PAC television commercials.",
+    "zh": "预计你连任的希望将被埋葬在大约 5000 万美元的可疑 PAC 电视广告之下。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/404@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's a bit of a gamble to play up liberalism this much in 2012 America, but you will certainly have a motivated base.",
+    "zh": "在 2012 年的美国如此大肆宣扬自由主义有点赌博，但你肯定会有一个积极的基础。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/412@22/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/412@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good selling point for the undecided voter. You have a decent chance of winning the personality battle against a man like Romney.",
+    "zh": "对于尚未做出决定的选民来说，这是一个很好的卖点。你有很大的机会赢得与罗姆尼这样的人的个性之战。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/413@23/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/413@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "Some aggression is good, but voters also want to hear positive solutions.",
+    "zh": "一些侵略性是好的，但选民也希望听到积极的解决方案。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/414@24/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/414@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "Honesty is an admirable character trait, but we live in a fickle age. Americans love confidence and hate excuses.",
+    "zh": "诚实是一种令人钦佩的性格特征，但我们生活在一个浮躁的时代。美国人喜欢自信，讨厌借口。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/415@25/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/415@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "Scorched earth tactics might be necessary given the state of the economy. Just make sure to keep a little bit of your patented optimism.",
+    "zh": "考虑到经济状况，焦土策略可能是必要的。只要确保保持一点你特有的乐观情绪即可。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/416@26/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/416@25/answer_feedback"
+    ]
+  },
+  {
+    "source": "Good choice. Stick to the high road and speak to the issues. You have friends in low places.",
+    "zh": "不错的选择。坚持正道，就问题说话。你有地位低下的朋友。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/417@27/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/417@26/answer_feedback"
+    ]
+  },
+  {
+    "source": "This might be what some people want to hear, but will the middle-of-the-road votes be there for you in November?",
+    "zh": "这可能是有些人想听到的，但是 11 月你会得到中间投票吗？",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/418@28/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/418@27/answer_feedback"
+    ]
+  },
+  {
+    "source": "It sounds like to aiming to win the turnout battle with a motivated base. Is that the best strategy for a 2012 environment? Perhaps.",
+    "zh": "听起来像是旨在以积极的基础赢得投票率之战。这是 2012 年环境的最佳策略吗？也许。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/419@29/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/419@28/answer_feedback"
+    ]
+  },
+  {
+    "source": "You probably could have made your point without using such impolitic language, good sir.",
+    "zh": "好的先生，您可能不用使用如此不礼貌的语言就可以表达您的观点。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/422@30/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/422@30/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is just what the conservative wing of your party doesn't want to hear.",
+    "zh": "这正是你们党内的保守派不想听到的。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/424@31/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/424@32/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/424@25/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/424@23/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/424@30/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/424@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "You have expressed a foreign policy position that is anathema to your electoral base. This <em>will</em> hurt you in November.",
+    "zh": "您表达的外交政策立场令您的选民基础感到厌恶。这个 <em>将</em> 十一月伤害了你。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/428@32/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/428@26/answer_feedback"
+    ]
+  },
+  {
+    "source": "Did you watch the protests at all? What kind of compromise are you suggesting?",
+    "zh": "你看过抗议活动吗？你建议采取什么样的妥协？",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/429@33/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/429@27/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Christian right is livid. Already they are talking about fielding a splinter candidate or staying home this fall.",
+    "zh": "基督教右翼非常愤怒。他们已经在讨论今年秋天派出一位分裂的候选人或留在家里。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/436@34/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/436@35/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/436@26/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/436@26/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/436@33/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/436@29/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a break from your previous statements, and an unwelcome one in the eyes of most potential supporters.",
+    "zh": "这与您之前的言论有所不同，并且在大多数潜在支持者眼中是不受欢迎的。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/437@35/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/437@36/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/437@27/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/437@27/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/437@34/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/437@30/answer_feedback"
+    ]
+  },
+  {
+    "source": "The conservatives in your party are not looking for someone who wavers on this issue, but this may be a safer response overall.",
+    "zh": "你们党内的保守派并不是在寻找在这个问题上动摇的人，但这可能是总体上更安全的回应。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/438@36/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/438@37/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/438@28/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/438@28/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/438@35/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/438@31/answer_feedback"
+    ]
+  },
+  {
+    "source": "You have fired up the Christian right. This is a key issue to them and they are glad to see that you are on board.",
+    "zh": "你点燃了基督教右翼。这对他们来说是一个关键问题，他们很高兴看到您的加入。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/439@37/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/439@38/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/439@29/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/439@29/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/439@36/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/439@32/answer_feedback"
+    ]
+  },
+  {
+    "source": "Did you seriously just say on a live mic that you favor raising the income tax? And you're a Republican? Your chances of winning this election may have just gone up in smoke.",
+    "zh": "您刚刚在现场麦克风中认真地说您赞成提高所得税吗？你是共和党人吗？你赢得这次选举的机会可能已经化为泡影。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/442@38/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/442@39/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/442@30/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/442@30/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/442@37/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/442@35/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your base is hoping to hear something more forceful on the taxation issue.",
+    "zh": "你们的支持者希望听到关于税收问题的更有力的声音。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/443@39/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/443@40/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/443@31/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/443@31/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/443@38/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/443@36/answer_feedback"
+    ]
+  },
+  {
+    "source": "This answer strikes a good balance between appealing to your base and winning the undecided voter.",
+    "zh": "这个答案在吸引你的基础和赢得犹豫不决的选民之间取得了良好的平衡。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/444@40/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/444@41/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/444@32/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/444@32/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/444@39/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/444@37/answer_feedback"
+    ]
+  },
+  {
+    "source": "This response is a bit of a gamble for you. You've certainly fired up your conservative base, but what will the rest of the country think.",
+    "zh": "这个回应对你来说有点赌博。你肯定激怒了你的保守派基础，但这个国家的其他人会怎么想。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/445@41/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/445@42/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/445@33/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/445@33/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/445@40/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/445@38/answer_feedback"
+    ]
+  },
+  {
+    "source": "You've borrowed the language of the Libertarians -- but it does sound a little strange to hear Mitt Romney talking about “crony capitalism” ...",
+    "zh": "你借用了自由意志主义者的语言——但听到米特·罗姆尼谈论“裙带资本主义”听起来确实有点奇怪......",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/450@43/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/450@40/answer_feedback"
+    ]
+  },
+  {
+    "source": "Keep throwing the red meat to your supporters.",
+    "zh": "继续向你的支持者扔红肉。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/464@45/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/464@46/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/464@43/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/464@38/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/464@50/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/464@43/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a decent response for you if you're trying to appeal to a larger base.",
+    "zh": "如果您想吸引更大的基础，这对您来说是一个不错的回应。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/465@46/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/465@47/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/465@44/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/465@39/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/465@51/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/465@44/answer_feedback"
+    ]
+  },
+  {
+    "source": "You've spent years convincing your Republican base that you had changed your mind on this issue. What gives?",
+    "zh": "您花了数年时间让共和党基础选民相信您在这个问题上改变了主意。什么给？",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/466@47/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/466@48/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/466@45/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/466@40/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/466@52/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/466@45/answer_feedback"
+    ]
+  },
+  {
+    "source": "How can you even say something like this? You've placed yourself to the left of Barack Obama on health care...",
+    "zh": "你怎么能说出这样的话？在医疗保健方面，您已将自己置于贝拉克·奥巴马的左侧......",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/467@48/answer_feedback",
+      "2012_Obama_Clinton/answer_feedback_json/467@49/answer_feedback",
+      "2012_Romney_Ryan/answer_feedback_json/467@46/answer_feedback",
+      "2012_Romney_Portman/answer_feedback_json/467@41/answer_feedback",
+      "2012_Romney_Rubio/answer_feedback_json/467@53/answer_feedback",
+      "2012_Romney_Pawlenty/answer_feedback_json/467@46/answer_feedback"
+    ]
+  },
+  {
+    "source": "Expect your hopes of getting elected to be buried under about $50 million of shady, PAC television commercials.",
+    "zh": "预计您当选的希望将被埋葬在大约 5,000 万美元的可疑 PAC 电视广告之下。",
+    "keys": [
+      "2012_Obama_Biden/answer_feedback_json/471@49/answer_feedback"
+    ]
+  },
+  {
+    "source": "It just seems that America didn't think your first term was impactful enough. The sluggish economy, as well as your promises not meeting your ambitious 2008 rhetoric likely led to this. Democrats are despondent that after 8 years of George Bush, you weren't able to revitalize the country in time. The house has also stayed Republican and the senate is eerily close to being in their hands as well. Paul Ryan might be casting a lot of tie-breaking votes. Let’s hope Romney's business experience can guide America to a prosperous economy.",
+    "zh": "看来美国认为你的第一个任期影响力不够。经济低迷以及你的承诺未能兑现你在 2008 年雄心勃勃的言论可能导致了这一点。民主党人感到沮丧的是，在乔治·布什实施 8 年后，你们未能及时振兴国家。众议院也仍然是共和党，而参议院也几乎掌握在他们手中。保罗·瑞安可能会投很多决定性的票。希望罗姆尼的商业经验能够引导美国走向繁荣的经济。",
+    "keys": [
+      "2012_Obama_Clinton/ending/s0.l54.c40/text"
+    ]
+  },
+  {
+    "source": "How do you feel about capitalism and the free market?",
+    "zh": "您对资本主义和自由市场有何看法？",
+    "keys": [
+      "2012_Obama_Clinton/questions_json/63@7/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on the 'gunwalking' tactics that led to the 'Fast and Furious' scandal?",
+    "zh": "您对导致“速度与激情”丑闻的“走枪”策略有何看法？",
+    "keys": [
+      "2012_Obama_Clinton/questions_json/38@8/description",
+      "2012_Romney_Rubio/questions_json/38@22/description"
+    ]
+  },
+  {
+    "source": "Should middle school students learn about contraception in health class, or will this simply encourage them to experiment?",
+    "zh": "中学生应该在健康课上学习避孕知识，还是只是鼓励他们尝试？",
+    "keys": [
+      "2012_Obama_Clinton/questions_json/39@9/description"
+    ]
+  }
+]

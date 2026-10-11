@@ -1,0 +1,2388 @@
+[
+  {
+    "source": "<p>War rages in Europe, while Woodrow Wilson has used his first term to push a number of progressive laws, such as the income tax and Federal Reserve. Charles Evans Hughes has resigned from the Supreme Court to unite his party and deny a second term.</p><ul><li>Wilson will emphasize the U.S. non-involvement with World War I, and his legislative achievements.</li><li>Hughes must balance the Old Guard and Progressive wings of his own party -- or cast one overboard entirely.</li></ul>",
+    "zh": "<p>欧洲战火正烈，伍德罗·威尔逊在首个任期内推动了所得税、联邦储备体系等多项进步主义立法。查尔斯·埃文斯·休斯已辞去最高法院大法官职务，试图团结本党，阻止威尔逊连任。</p><ul><li>威尔逊将强调美国尚未卷入第一次世界大战，以及自己的立法成就。</li><li>休斯必须协调党内老派保守势力与进步派的关系，或者干脆舍弃其中一方。</li></ul>",
+    "keys": [
+      "base/election_json/14@11/summary",
+      "base/election_json/14@15/summary"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1916 election.</h3><p>In spite of a hard-fought challenge from Charles Evans Hughes, you have held on to the Presidency.</p><p>On the domestic front, it appears that your support of labor and progressivism has been rewarded. Internationally, let's all hope that fears of war with Germany prove to be unfounded.</p>",
+    "zh": "<h3>恭喜！你赢得了 1916 年的选举。</h3><p>尽管面临来自查尔斯·埃文斯·休斯的艰苦挑战，您仍然保住了总统职位。</p><p>在国内方面，看来您对劳工和进步主义的支持得到了回报。在国际上，我们都希望对与德国发生战争的担忧被证明是没有根据的。</p>",
+    "keys": [
+      "base/candidate_json/142@122/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1916 election.</h3><p>Maybe 1912 was just an anomaly, brought about by Roosevelt's grandstanding. It has been over 20 years since the Democrats defeated a united Republican Party, and that advantage shows no sign of abating.</p><p>On the domestic front, let's hope that your achievements survive. Internationally, no one can say what might happen next. In a novel move, you have offered to do your part by resigning immediately, rather than waiting until March 4th.</p>",
+    "zh": "<h3>抱歉，你输掉了 1916 年选举。</h3><p>也许 1912 年只是一个异常现象，是由罗斯福的哗众取宠所带来的。民主党击败统一的共和党已经过去了 20 多年，而且这种优势没有减弱的迹象。</p><p>在国内方面，希望你们的成就能够延续下去。在国际上，没有人能预测接下来会发生什么。你采取了一个新颖的举动，提出立即辞职，而不是等到 3 月 4 日。</p>",
+    "keys": [
+      "base/candidate_json/142@122/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>No candidate has captured an Electoral College majority.</h3><p>Elections for Congress have also resulted in an even split among members, and it is extremely unclear who might ultimately win this election. Best of luck in what is sure to be a contentious process.</p>",
+    "zh": "<h3>没有候选人获得选举人团多数。</h3><p>国会选举也导致了议员之间的平分秋色，目前还不清楚谁最终会赢得这次选举。祝你好运，这肯定是一个有争议的过程。</p>",
+    "keys": [
+      "base/candidate_json/142@122/no_electoral_majority_message",
+      "base/candidate_json/143@123/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1916 election.</h3><p>After the tumultuous 1912, the natural supremacy of the Republican Party has reasserted itself. The next steps are up to you -- perhaps you can lead the repeal of the Adamson Act, or replace it with something more measured and comprehensive. In regards to Europe, best of luck in whatever may occur over the next four years. Finally, Wilson plans to resign before your March 4th inauguration, so that you might assume the office now.</p>",
+    "zh": "<h3>恭喜！你赢得了 1916 年的选举。</h3><p>在经历了动荡的 1912 年之后，共和党的天然霸主地位再次确立。接下来的步骤取决于你——也许你可以领导废除《亚当森法案》，或者用更慎重和更全面的法案取而代之。至于欧洲，无论未来四年发生什么，祝你好运。最后，威尔逊计划在您 3 月 4 日就职之前辞职，以便您现在就可以就职。</p>",
+    "keys": [
+      "base/candidate_json/143@123/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1916 election.</h3><p>Ultimately, the popularity of Woodrow Wilson was just a little much to overcome.</p><p>It appears that Wilson's agenda will remain in effect domestically. In world affairs, it remains to be seen how the situation in Europe will finally resolve itself. As to your own prospects, it is unclear what your next steps will be. The Supreme Court seat you once enjoyed has now been lost for the foreseeable future.</p>",
+    "zh": "<h3>抱歉，你输掉了 1916 年选举。</h3><p>最终，伍德罗·威尔逊的流行只是需要克服一点点。</p><p>看来威尔逊议程将在国内继续有效。国际事务中，欧洲局势最终如何解决还有待观察。至于你自己的前景，目前还不清楚你下一步会做什么。你曾经享有的最高法院席位现在在可预见的未来已经失去了。</p>",
+    "keys": [
+      "base/candidate_json/143@123/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "What themes will you emphasize as you accept the Democratic nomination and begin your campaign?",
+    "zh": "当您接受民主党提名并开始竞选活动时，您会强调哪些主题？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/654@0/description",
+      "1916_Wilson_Baker/questions_json/654@0/description"
+    ]
+  },
+  {
+    "source": "As 1916 begins, you have a vacancy to fill on the Supreme Court. Advisors are recommending Louis Brandeis -- a choice that is sure to be controversial. What are your thoughts?",
+    "zh": "1916 年开始，最高法院有一个空缺需要填补。顾问们推荐路易斯·布兰迪斯——这个选择肯定会引起争议。你有什么想法？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/657@1/description",
+      "1916_Wilson_Baker/questions_json/657@1/description"
+    ]
+  },
+  {
+    "source": "As September approaches, the nation is at serious risk of a national rail strike. What are your plans for dealing with this?",
+    "zh": "随着 9 月的临近，该国面临着全国铁路罢工的严重风险。您对此有何计划？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/662@3/description",
+      "1916_Wilson_Baker/questions_json/662@8/description"
+    ]
+  },
+  {
+    "source": "How much do you plan to highlight the creation of the Federal Trade Commission as an accomplishment during this campaign?",
+    "zh": "您打算在多大程度上强调联邦贸易委员会的成立是本次竞选期间的一项成就？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/658@4/description",
+      "1916_Wilson_Baker/questions_json/658@11/description"
+    ]
+  },
+  {
+    "source": "Do you have a position to take on the calls for the prohibition of alcohol as you campaign this fall?",
+    "zh": "在今年秋天的竞选活动中，您是否有立场响应禁酒的呼吁？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/687@5/description",
+      "1916_Wilson_Baker/questions_json/687@12/description",
+      "1916_Hughes_Fairbanks/questions_json/687@8/description",
+      "1916_Hughes_Burkett/questions_json/687@11/description"
+    ]
+  },
+  {
+    "source": "Do you support the level of preparedness established by the recent National Defense Act?",
+    "zh": "您支持最近《国防法》规定的准备水平吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/684@6/description",
+      "1916_Wilson_Baker/questions_json/684@5/description",
+      "1916_Hughes_Fairbanks/questions_json/684@3/description",
+      "1916_Hughes_Burkett/questions_json/684@16/description"
+    ]
+  },
+  {
+    "source": "Do you support the Clayton Antitrust Act which was recently passed? Do you believe that unions should be exempted from the antitrust regulations?",
+    "zh": "您支持最近通过的《克莱顿反垄断法》吗？您认为工会应该免受反垄断法规的约束吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/690@7/description",
+      "1916_Wilson_Baker/questions_json/690@13/description",
+      "1916_Hughes_Fairbanks/questions_json/690@4/description",
+      "1916_Hughes_Burkett/questions_json/690@10/description"
+    ]
+  },
+  {
+    "source": "How much do you plan to push back against Southern obstructionism on a federal child labor law?",
+    "zh": "您计划在多大程度上反击南方对联邦童工法的阻挠？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/664@8/description",
+      "1916_Wilson_Baker/questions_json/664@15/description"
+    ]
+  },
+  {
+    "source": "Will you sign the Revenue Act of 1916, which would increase the income tax and establish a Tariff Commission?",
+    "zh": "您会签署 1916 年收入法案，该法案将增加所得税并设立关税委员会吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/663@9/description",
+      "1916_Wilson_Baker/questions_json/663@10/description"
+    ]
+  },
+  {
+    "source": "Theodore Roosevelt is hitting the campaign trail hard this fall. However, he continues to make bellicose speeches about the war in Europe. Will you attack Roosevelt and Hughes for this?",
+    "zh": "Theodore 罗斯福今年秋天将大力开展竞选活动。然而，他继续就欧洲战争发表好战言论。你会为此攻击罗斯福和休斯吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/659@10/description",
+      "1916_Wilson_Baker/questions_json/659@14/description"
+    ]
+  },
+  {
+    "source": "What will your position be on the women's suffrage question as your campaign this fall?",
+    "zh": "在今年秋天的竞选活动中，您对女性选举权问题的立场是什么？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/686@11/description",
+      "1916_Wilson_Baker/questions_json/686@6/description",
+      "1916_Hughes_Fairbanks/questions_json/686@10/description",
+      "1916_Hughes_Burkett/questions_json/686@5/description"
+    ]
+  },
+  {
+    "source": "You have opposed a federal farm credit system in the past, but a Farm Loan Act is being pushed through Congress again this year. Will you support it this time?",
+    "zh": "您过去曾反对联邦农业信贷体系，但今年国会再次推动《农业贷款法案》。这次你会支持吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/661@12/description",
+      "1916_Wilson_Baker/questions_json/661@7/description"
+    ]
+  },
+  {
+    "source": "Do you have any statements to make about the Federal Reserve Act, which established the Federal Reserve in 1913?",
+    "zh": "对于 1913 年建立美联储的《联邦储备法》，您有什么要说的吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/688@13/description",
+      "1916_Wilson_Baker/questions_json/688@9/description",
+      "1916_Hughes_Fairbanks/questions_json/688@11/description",
+      "1916_Hughes_Burkett/questions_json/688@4/description"
+    ]
+  },
+  {
+    "source": "Do you plan to attack Charles Evans Hughes's stance on preparedness and war with Europe, and if so, how?",
+    "zh": "您是否计划攻击查尔斯·埃文斯·休斯在与欧洲的备战和战争方面的立场？如果是，如何攻击？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/656@14/description",
+      "1916_Wilson_Baker/questions_json/656@16/description"
+    ]
+  },
+  {
+    "source": "The forces of Pancho Villa have killed over 30 Americans in separate incidents, and even launched a raid into New Mexico. How will you respond to this, as President?",
+    "zh": "Pancho Villa 的部队在不同事件中杀死了 30 多名美国人，甚至对新墨西哥州发动了突袭。作为总统，您将如何回应？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/660@15/description",
+      "1916_Wilson_Baker/questions_json/660@4/description"
+    ]
+  },
+  {
+    "source": "Do you have any statements to make about the Federal Trade Commission, established in 1914?",
+    "zh": "对于 1914 年成立的联邦贸易委员会，您有什么要说的吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/689@16/description",
+      "1916_Wilson_Baker/questions_json/689@19/description",
+      "1916_Hughes_Fairbanks/questions_json/689@17/description"
+    ]
+  },
+  {
+    "source": "Do you believe that certain groups in the United States, for their own narrow interests, are trying to undermine American diplomacy and the global order?",
+    "zh": "您是否认为美国某些团体为了自身狭隘利益，试图破坏美国外交和全球秩序？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/695@17/description",
+      "1916_Wilson_Baker/questions_json/695@20/description"
+    ]
+  },
+  {
+    "source": "Would you support American participation in a postwar League of Nations, if one were to be created after the current War?",
+    "zh": "如果在当前的战争之后创建一个战后国际联盟，您会支持美国参与吗？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/682@18/description",
+      "1916_Wilson_Baker/questions_json/682@18/description",
+      "1916_Hughes_Fairbanks/questions_json/682@20/description"
+    ]
+  },
+  {
+    "source": "Do you support the recently ratified 17th Amendment, requiring the direct election of U.S. Senators?",
+    "zh": "您是否支持最近批准的第十七修正案，要求美国参议员直接选举？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/681@19/description",
+      "1916_Wilson_Baker/questions_json/681@22/description",
+      "1916_Hughes_Fairbanks/questions_json/681@18/description",
+      "1916_Hughes_Burkett/questions_json/681@23/description"
+    ]
+  },
+  {
+    "source": "Do you support the temporary curtailment of American shipping in the Atlantic, in order to reduce the chances of German submarine attacks and the resulting consequences?",
+    "zh": "您是否支持暂时限制美国在大西洋的航运，以减少德国潜艇袭击的可能性及其后果？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/694@20/description",
+      "1916_Hughes_Fairbanks/questions_json/694@22/description",
+      "1916_Hughes_Burkett/questions_json/694@21/description"
+    ]
+  },
+  {
+    "source": "Are you willing to meet with German-American and Irish-American political leaders to discuss your beliefs, regardless of your feelings towards their organizations?",
+    "zh": "无论您对他们的组织有何看法，您是否愿意与德裔美国人和爱尔兰裔美国政治领导人会面讨论您的信仰？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/691@21/description",
+      "1916_Wilson_Baker/questions_json/691@23/description",
+      "1916_Hughes_Fairbanks/questions_json/691@21/description",
+      "1916_Hughes_Burkett/questions_json/691@22/description"
+    ]
+  },
+  {
+    "source": "Would you support a law requiring new immigrants to pass a literacy test in English?",
+    "zh": "您是否支持要求新移民通过英语读写能力测试的法律？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/693@22/description",
+      "1916_Hughes_Fairbanks/questions_json/693@23/description"
+    ]
+  },
+  {
+    "source": "Do you plan to support the Jones Act -- granting greater autonomy to the Philippines along with a plan to grant independence.",
+    "zh": "您是否计划支持《琼斯法案》——授予菲律宾更大的自治权以及授予独立的计划。",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/680@23/description",
+      "1916_Wilson_Baker/questions_json/680@17/description",
+      "1916_Hughes_Burkett/questions_json/680@18/description"
+    ]
+  },
+  {
+    "source": "Where will you travel to during your final days before the election?",
+    "zh": "选举前的最后几天您将前往哪里？",
+    "keys": [
+      "1916_Wilson_Marshall/questions_json/697@24/description",
+      "1916_Wilson_Baker/questions_json/697@24/description",
+      "1916_Hughes_Fairbanks/questions_json/697@24/description",
+      "1916_Hughes_Burkett/questions_json/697@24/description"
+    ]
+  },
+  {
+    "source": "I encourage every state to expand the suffrage to women as soon as possible.",
+    "zh": "我鼓励每个州尽快扩大女性的选举权。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4328@0/description",
+      "1916_Wilson_Baker/answers_json/4328@0/description",
+      "1916_Hughes_Fairbanks/answers_json/4328@0/description",
+      "1916_Hughes_Burkett/answers_json/4328@0/description"
+    ]
+  },
+  {
+    "source": "I support the passage of a Constitutional amendment protecting the right of women to vote.",
+    "zh": "我支持通过保护妇女投票权的宪法修正案。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4327@1/description",
+      "1916_Wilson_Baker/answers_json/4327@1/description",
+      "1916_Hughes_Fairbanks/answers_json/4327@1/description",
+      "1916_Hughes_Burkett/answers_json/4327@1/description"
+    ]
+  },
+  {
+    "source": "Under my first term, we have accomplished more progressive reform than under decades of Republican rule, in spite of any promises which that party may be making now.",
+    "zh": "在我的第一个任期内，我们完成了比共和党统治数十年更为进步的改革，尽管该党现在可能做出了任何承诺。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4238@2/description",
+      "1916_Wilson_Baker/answers_json/4238@2/description"
+    ]
+  },
+  {
+    "source": "We will take the attack to the Republican Party this fall -- it is impossible to satisfy the demands of both wings of that party, and Hughes must surely cast his lot with one and alienate the other.",
+    "zh": "今年秋天我们将向共和党发起进攻——不可能同时满足该党两翼的要求，而休斯肯定会选择一方而疏远另一方。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4239@3/description",
+      "1916_Wilson_Baker/answers_json/4239@3/description"
+    ]
+  },
+  {
+    "source": "My speech fill focus on our success in avoiding the war in Europe, along with a promise that we will continue to take every effort to avoid provocation in that theatre.",
+    "zh": "我的演讲重点是我们在避免欧洲战争方面所取得的成功，并承诺我们将继续尽一切努力避免在该地区发生挑衅。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4240@4/description",
+      "1916_Wilson_Baker/answers_json/4240@4/description"
+    ]
+  },
+  {
+    "source": "Much as changed, but I stand as committed to the ideals of the New Freedom as I was in 1912. I will be circumspect about committing the country to further federal legislation, beyond that which we have achieved during my first term.",
+    "zh": "尽管发生了很大的变化，但我仍然像 1912 年一样致力于新自由的理想。我将谨慎地承诺国家进一步推进联邦立法，超越我们在第一个任期内所取得的成就。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4241@5/description",
+      "1916_Wilson_Baker/answers_json/4241@5/description"
+    ]
+  },
+  {
+    "source": "I intend to announce new restrictions on foreign travel and shipping which will greatly reduce the chance of incidents with Germany, and thus reestablish a true neutrality in this war.",
+    "zh": "我打算宣布对外国旅行和航运的新限制，这将大大减少与德国发生事件的可能性，从而在这场战争中重新建立真正的中立。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4242@6/description",
+      "1916_Wilson_Baker/answers_json/4242@6/description"
+    ]
+  },
+  {
+    "source": "I am proud to have kept this country out of war, and I will make every effort to do so if elected for a second term.",
+    "zh": "我为让这个国家远离战争而感到自豪，如果当选连任，我将尽一切努力做到这一点。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4243@7/description",
+      "1916_Wilson_Baker/answers_json/4243@7/description"
+    ]
+  },
+  {
+    "source": "I don't intend to explicitly rebuke such claims, but I will not emphasize the peace issue as I campaign this fall.",
+    "zh": "我无意明确反驳此类主张，但我不会在今年秋天的竞选活动中强调和平问题。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4244@8/description",
+      "1916_Wilson_Baker/answers_json/4244@8/description"
+    ]
+  },
+  {
+    "source": "I pray for peace, but we will not compromise the rights of American shipping and commerce. We are fully prepared to take the fight to Germany if interference continues.",
+    "zh": "我祈祷和平，但我们不会损害美国航运和商业的权利。如果干扰继续存在，我们已做好充分准备向德国发起战斗。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4245@9/description",
+      "1916_Wilson_Baker/answers_json/4245@9/description"
+    ]
+  },
+  {
+    "source": "A vote for Mr. Hughes is a vote for war. He was an admirable Justice, but he is sympathy with the most bellicose elements of the Republican Party.",
+    "zh": "投票给休斯先生就是投票给战争。他是一位令人敬佩的法官，但他同情共和党中最好战的分子。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4246@10/description",
+      "1916_Wilson_Baker/answers_json/4246@10/description"
+    ]
+  },
+  {
+    "source": "I don't plan to say much about Charles Evans Hughes one way or the other. I believe we have better things to campaign on.",
+    "zh": "我不打算以某种方式对查尔斯·埃文斯·休斯说太多。我相信我们有更好的事情可以竞选。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4247@11/description",
+      "1916_Wilson_Baker/answers_json/4247@11/description"
+    ]
+  },
+  {
+    "source": "We have taken extensive efforts to increase the military preparedness of the United States. For Mr. Hughes and others to insinuate otherwise is simply false.",
+    "zh": "我们已采取广泛努力来加强美国的军事准备。对于休斯先生和其他人来说，否则的暗示是完全错误的。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4248@12/description",
+      "1916_Wilson_Baker/answers_json/4248@12/description"
+    ]
+  },
+  {
+    "source": "I'm prepared to stand behind Louis Brandeis as a Court nominee. He has devoted his life to fighting for the common man against the business trusts of this nation.",
+    "zh": "我准备作为法院提名人支持路易斯·布兰代斯。他一生致力于为普通人对抗这个国家的商业信托。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4249@13/description",
+      "1916_Wilson_Baker/answers_json/4249@13/description"
+    ]
+  },
+  {
+    "source": "Brandeis's ability is not in question, but he is too radical to be considered for a Court opening. I'd also rather not have the Jewish issue come up during this campaign.",
+    "zh": "布兰代斯的能力毋庸置疑，但他过于激进，不适合考虑进入法庭。我也不希望在这次竞选期间提出犹太人问题。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4250@14/description",
+      "1916_Wilson_Baker/answers_json/4250@14/description"
+    ]
+  },
+  {
+    "source": "I will speak about the FTC at every opportunity, and waste no effort at implying that its work has only just begun at the present point.",
+    "zh": "我将利用一切机会谈论 FTC，并且不遗余力地暗示其工作目前才刚刚开始。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4251@15/description",
+      "1916_Wilson_Baker/answers_json/4251@15/description"
+    ]
+  },
+  {
+    "source": "I hope to hit on the theme of reform and progressivism frequently during our campaign. This is a great chance to do that.",
+    "zh": "我希望在我们的竞选过程中经常触及改革和进步主义的主题。这是一个很好的机会。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4252@16/description",
+      "1916_Wilson_Baker/answers_json/4252@16/description"
+    ]
+  },
+  {
+    "source": "In a few cases, we did have to go a little further than the New Freedom ideals would imply, but we plan to take a more moderate course during my second term.",
+    "zh": "在某些情况下，我们确实必须比新自由理想所暗示的更进一步，但我们计划在我的第二个任期内采取更温和的方针。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4253@17/description",
+      "1916_Wilson_Baker/answers_json/4253@17/description"
+    ]
+  },
+  {
+    "source": "Why Roosevelt continues to press such an unpopular point in his speeches is beyond me, but we will certainly waste no chance to attack him and Hughes on the issue.",
+    "zh": "为什么罗斯福继续在他的演讲中提出如此不受欢迎的观点，我无法理解，但我们肯定会不浪费任何机会在这个问题上攻击他和休斯。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4254@18/description",
+      "1916_Wilson_Baker/answers_json/4254@18/description"
+    ]
+  },
+  {
+    "source": "Roosevelt is still a popular figure, particularly among the type of progressive voter we hope to attract. I will refrain from any explicit criticism of his statements.",
+    "zh": "罗斯福仍然是一个受欢迎的人物，特别是在我们希望吸引的进步选民类型中。我不会对他的言论做出任何明确的批评。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4255@19/description",
+      "1916_Wilson_Baker/answers_json/4255@19/description"
+    ]
+  },
+  {
+    "source": "We will dispatch a military expedition to Mexico, with clear orders to continue their pursuit regardless of any interference that may arise from the nation's Carranza government.",
+    "zh": "我们将派遣一支军事远征队前往墨西哥，并明确命令继续追击，无论该国卡兰萨政府可能出现任何干扰。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4256@20/description",
+      "1916_Wilson_Baker/answers_json/4256@20/description"
+    ]
+  },
+  {
+    "source": "I will dispatch a military expedition into Mexico to apprehend Pancho Villa. The expedition will operate in any area where the Carranza government does not have control.",
+    "zh": "我将派遣一支军事远征队前往墨西哥逮捕潘乔·维拉。探险队将在卡兰萨政府无法控制的任何地区开展行动。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4257@21/description",
+      "1916_Wilson_Baker/answers_json/4257@21/description"
+    ]
+  },
+  {
+    "source": "We need to mobilize the National Guard and increase our military presence on the southern border, in order to prevent future attacks.",
+    "zh": "我们需要动员国民警卫队并增加我们在南部边境的军事存在，以防止未来的袭击。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4258@22/description",
+      "1916_Wilson_Baker/answers_json/4258@22/description"
+    ]
+  },
+  {
+    "source": "As I've thought of this issue more, I now believe it makes sense to support it. It will be politically expedient and morally correct to do so.",
+    "zh": "随着我对这个问题的思考更多，我现在相信支持它是有意义的。这样做在政治上是有利的，在道义上也是正确的。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4259@23/description",
+      "1916_Wilson_Baker/answers_json/4259@23/description"
+    ]
+  },
+  {
+    "source": "I won't take any active steps to support or oppose this measure, but I will not wield the veto if Congress passes it.",
+    "zh": "我不会采取任何积极措施支持或反对这项措施，但如果国会通过，我也不会行使否决权。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4260@24/description",
+      "1916_Wilson_Baker/answers_json/4260@24/description"
+    ]
+  },
+  {
+    "source": "My position on this system has not changed -- I cannot support the creation of a federal program to lend money directly to farmers.",
+    "zh": "我对这个系统的立场没有改变——我不能支持创建直接向农民贷款的联邦计划。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4261@25/description",
+      "1916_Wilson_Baker/answers_json/4261@25/description"
+    ]
+  },
+  {
+    "source": "I will spare no effort to assist our nation's unions in their struggle with the railroads, including direct intervention if necessary.",
+    "zh": "我将不遗余力地协助我国工会与铁路的斗争，包括在必要时进行直接干预。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4262@26/description",
+      "1916_Wilson_Baker/answers_json/4262@26/description"
+    ]
+  },
+  {
+    "source": "I believe a fair course would be to press for legislation requiring an 8-hour workday for railroads, along with other compromises.",
+    "zh": "我认为公平的做法是敦促立法要求铁路工作时间为 8 小时，并做出其他妥协。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4263@27/description",
+      "1916_Wilson_Baker/answers_json/4263@27/description"
+    ]
+  },
+  {
+    "source": "I don't see a need to take an active role in arbitrating this labor conflict. Let the unions and railroads work out a solution between themselves.",
+    "zh": "我认为没有必要在仲裁这场劳资冲突中发挥积极作用。让工会和铁路部门自行找出解决方案。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4264@28/description",
+      "1916_Wilson_Baker/answers_json/4264@28/description"
+    ]
+  },
+  {
+    "source": "I will sign this reluctantly. I support the income tax increase on higher incomes, but not the introduction of a tariff commission. Such a commission will invariably be too friendly to big business in its recommendations.",
+    "zh": "我会不情愿地签署这个。我支持对高收入者征收所得税，但不支持征收关税。这样的委员会在其建议中总是对大企业过于友好。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4265@29/description",
+      "1916_Wilson_Baker/answers_json/4265@29/description"
+    ]
+  },
+  {
+    "source": "I'm proud to sign this into law. I think the broad majority of Americans can stand behind its provisions.",
+    "zh": "我很自豪能够将其签署为法律。我认为绝大多数美国人都可以支持其条款。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4266@30/description",
+      "1916_Wilson_Baker/answers_json/4266@30/description"
+    ]
+  },
+  {
+    "source": "I will veto this Act. I support a federal income tax, but not to the level that this bill imposes. It also introduces an estate tax and an excess profits tax.",
+    "zh": "我将否决该法案。我支持征收联邦所得税，但不支持达到该法案规定的水平。它还引入了遗产税和超额利润税。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4267@31/description",
+      "1916_Wilson_Baker/answers_json/4267@31/description"
+    ]
+  },
+  {
+    "source": "I want to campaign this fall on the passage of a child labor law. I will personally appeal to any recalcitrant Senators, to consider the electoral success of Democrats this fall.",
+    "zh": "我想在今年秋天就童工法的通过开展活动。我个人将呼吁所有顽固的参议员考虑民主党今年秋天的选举成功。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4268@32/description",
+      "1916_Wilson_Baker/answers_json/4268@32/description"
+    ]
+  },
+  {
+    "source": "I would certainly sign this into law, but not if that means railroading a bill through Congress against the wishes of its elected members.",
+    "zh": "我当然会将其签署为法律，但如果这意味着违背当选议员的意愿在国会通过一项法案，我就不会这样做。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4269@33/description",
+      "1916_Wilson_Baker/answers_json/4269@33/description"
+    ]
+  },
+  {
+    "source": "I would prefer that the measure grant immediate independence, but I can support it in its current form.",
+    "zh": "我希望该措施立即赋予独立性，但我可以支持目前的形式。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4310@34/description",
+      "1916_Wilson_Baker/answers_json/4310@36/description",
+      "1916_Hughes_Burkett/answers_json/4310@40/description"
+    ]
+  },
+  {
+    "source": "This is a necessary step forward in the self-determination of the Philippines.",
+    "zh": "这是菲律宾自决迈出的必要一步。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4311@35/description",
+      "1916_Wilson_Baker/answers_json/4311@37/description",
+      "1916_Hughes_Burkett/answers_json/4311@41/description"
+    ]
+  },
+  {
+    "source": "This measure is premature at the present time. We have added greatly to the welfare of the Philippines and should not leave before our work is done.",
+    "zh": "目前这项措施还为时过早。我们为菲律宾的福祉做出了巨大贡献，在我们的工作完成之前不应离开。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4312@36/description",
+      "1916_Wilson_Baker/answers_json/4312@38/description",
+      "1916_Hughes_Burkett/answers_json/4312@42/description"
+    ]
+  },
+  {
+    "source": "This Amendment is a necessary reform in the functioning of our government, and removes a significant avenue of corruption from our electoral process.",
+    "zh": "这项修正案是对我们政府运作的必要改革，消除了我们选举过程中腐败的重要途径。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4313@37/description",
+      "1916_Wilson_Baker/answers_json/4313@39/description",
+      "1916_Hughes_Fairbanks/answers_json/4313@38/description",
+      "1916_Hughes_Burkett/answers_json/4313@43/description"
+    ]
+  },
+  {
+    "source": "Regardless of personal feelings, this Amendment obviously went through a stringent ratification process and reflects the overwhelming majority of the people.",
+    "zh": "不管个人感受如何，这项修正案显然经过了严格的批准过程，反映了最广大人民的利益。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4314@38/description",
+      "1916_Wilson_Baker/answers_json/4314@40/description",
+      "1916_Hughes_Fairbanks/answers_json/4314@39/description",
+      "1916_Hughes_Burkett/answers_json/4314@44/description"
+    ]
+  },
+  {
+    "source": "I believe that Senators should be elected by the legislature of each state, in line with the original Constitution.",
+    "zh": "我认为参议员应该由每个州的立法机关选举产生，符合原宪法。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4315@39/description",
+      "1916_Wilson_Baker/answers_json/4315@41/description",
+      "1916_Hughes_Fairbanks/answers_json/4315@40/description",
+      "1916_Hughes_Burkett/answers_json/4315@45/description"
+    ]
+  },
+  {
+    "source": "I support a League of Nations, and American participation in it. We can no longer safely ignore the affairs of the world.",
+    "zh": "我支持国际联盟以及美国参与其中。我们不能再安全地忽视世界事务。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4316@40/description",
+      "1916_Wilson_Baker/answers_json/4316@42/description",
+      "1916_Hughes_Fairbanks/answers_json/4316@41/description"
+    ]
+  },
+  {
+    "source": "I don't have any comment on this plan. It's far too early to determine how the war will end, who will win, or what the peace arrangements might be.",
+    "zh": "我对此计划没有任何评论。现在确定战争将如何结束、谁将获胜或和平安排可能是什么还为时过早。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4317@41/description",
+      "1916_Wilson_Baker/answers_json/4317@43/description",
+      "1916_Hughes_Fairbanks/answers_json/4317@42/description"
+    ]
+  },
+  {
+    "source": "I support the traditional policy of non-interference in European affairs, as is best for our national interest.",
+    "zh": "我支持不干涉欧洲事务的传统政策，这最符合我们的国家利益。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4318@42/description",
+      "1916_Wilson_Baker/answers_json/4318@44/description",
+      "1916_Hughes_Fairbanks/answers_json/4318@43/description"
+    ]
+  },
+  {
+    "source": "What we've done so far is a good start, but we're still far from prepared to meet the type of emergency which might arise.",
+    "zh": "到目前为止，我们所做的一切是一个良好的开端，但我们还远远没有做好应对可能出现的紧急情况的准备。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4321@43/description",
+      "1916_Wilson_Baker/answers_json/4321@45/description",
+      "1916_Hughes_Fairbanks/answers_json/4321@46/description",
+      "1916_Hughes_Burkett/answers_json/4321@46/description"
+    ]
+  },
+  {
+    "source": "We've taken moderate, sensible steps thus far. I support the mobilization of additional troops, along with other policies designed to maintain peace and deter aggression.",
+    "zh": "到目前为止，我们已经采取了适度、合理的步骤。我支持动员更多部队，以及旨在维护和平和遏制侵略的其他政策。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4322@44/description",
+      "1916_Wilson_Baker/answers_json/4322@46/description",
+      "1916_Hughes_Fairbanks/answers_json/4322@47/description",
+      "1916_Hughes_Burkett/answers_json/4322@47/description"
+    ]
+  },
+  {
+    "source": "If we're so bent on avoiding war, why are we expanding the Army and contracting for new weapons?",
+    "zh": "如果我们如此坚决地避免战争，为什么我们要扩大陆军并采购新武器？",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4323@45/description",
+      "1916_Wilson_Baker/answers_json/4323@47/description",
+      "1916_Hughes_Fairbanks/answers_json/4323@48/description",
+      "1916_Hughes_Burkett/answers_json/4323@48/description"
+    ]
+  },
+  {
+    "source": "I don't plan to address women's suffrage in this campaign. There are more important issues at hand.",
+    "zh": "我不打算在这次竞选中解决妇女选举权问题。手头还有更重要的问题。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4329@46/description",
+      "1916_Wilson_Baker/answers_json/4329@48/description",
+      "1916_Hughes_Fairbanks/answers_json/4329@49/description",
+      "1916_Hughes_Burkett/answers_json/4329@52/description"
+    ]
+  },
+  {
+    "source": "I stand opposed to the expansion of women's suffrage.",
+    "zh": "我反对扩大妇女选举权。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4330@47/description",
+      "1916_Wilson_Baker/answers_json/4330@49/description",
+      "1916_Hughes_Fairbanks/answers_json/4330@50/description",
+      "1916_Hughes_Burkett/answers_json/4330@53/description"
+    ]
+  },
+  {
+    "source": "I believe that the prohibition of alcohol would be a positive benefit for our country.",
+    "zh": "我相信禁酒会给我们的国家带来积极的好处。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4331@48/description",
+      "1916_Wilson_Baker/answers_json/4331@50/description",
+      "1916_Hughes_Fairbanks/answers_json/4331@51/description",
+      "1916_Hughes_Burkett/answers_json/4331@54/description"
+    ]
+  },
+  {
+    "source": "It would not be wise, at this point, to make any statements supporting or opposing prohibition in our campaign. There are too many people on both sides of this issue.",
+    "zh": "此时此刻，在我们的竞选活动中发表任何支持或反对禁令的声明都是不明智的。在这个问题上，双方的人太多了。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4332@49/description",
+      "1916_Wilson_Baker/answers_json/4332@51/description",
+      "1916_Hughes_Fairbanks/answers_json/4332@52/description",
+      "1916_Hughes_Burkett/answers_json/4332@55/description"
+    ]
+  },
+  {
+    "source": "We reject any call for the prohibition of alcohol, and I would not support such laws as President.",
+    "zh": "我们拒绝任何禁止饮酒的呼吁，而且我作为总统也不会支持此类法律。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4333@50/description",
+      "1916_Wilson_Baker/answers_json/4333@52/description",
+      "1916_Hughes_Fairbanks/answers_json/4333@53/description",
+      "1916_Hughes_Burkett/answers_json/4333@56/description"
+    ]
+  },
+  {
+    "source": "I support the Federal Reserve in general, but I believe that we should have established a more centralized, federal government bank.",
+    "zh": "我总体上支持美联储，但我认为我们应该建立一个更加集中的联邦政府银行。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4334@51/description",
+      "1916_Wilson_Baker/answers_json/4334@53/description",
+      "1916_Hughes_Fairbanks/answers_json/4334@54/description",
+      "1916_Hughes_Burkett/answers_json/4334@57/description"
+    ]
+  },
+  {
+    "source": "Before this act, our country caromed from one financial panic to the next. The Federal Reserve is a tremendous step forward.",
+    "zh": "在此法案之前，我国经历了一场金融恐慌。美联储向前迈出了一大步。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4335@52/description",
+      "1916_Wilson_Baker/answers_json/4335@54/description",
+      "1916_Hughes_Fairbanks/answers_json/4335@55/description",
+      "1916_Hughes_Burkett/answers_json/4335@58/description"
+    ]
+  },
+  {
+    "source": "The Federal Reserve idea is worthy of support, but I would prefer that private banks were given a larger role in its operation.",
+    "zh": "美联储的想法值得支持，但我更希望私人银行在其运作中发挥更大的作用。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4336@53/description",
+      "1916_Wilson_Baker/answers_json/4336@55/description",
+      "1916_Hughes_Fairbanks/answers_json/4336@56/description",
+      "1916_Hughes_Burkett/answers_json/4336@59/description"
+    ]
+  },
+  {
+    "source": "I believe the Federal Reserve was an unnecessary and destabilizing change to the nation's banking system.",
+    "zh": "我认为美联储对国家银行体系来说是不必要的、破坏稳定的改变。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4337@54/description",
+      "1916_Wilson_Baker/answers_json/4337@56/description",
+      "1916_Hughes_Fairbanks/answers_json/4337@57/description",
+      "1916_Hughes_Burkett/answers_json/4337@60/description"
+    ]
+  },
+  {
+    "source": "I support the Federal Trade Commission and will take a broad interpretation of its power over the next four years.",
+    "zh": "我支持联邦贸易委员会，并将在未来四年对其权力进行广泛解释。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4338@55/description",
+      "1916_Wilson_Baker/answers_json/4338@57/description",
+      "1916_Hughes_Fairbanks/answers_json/4338@58/description"
+    ]
+  },
+  {
+    "source": "The Federal Trade Commission is a necessary step forward for reform in this country.",
+    "zh": "联邦贸易委员会是该国改革的必要一步。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4339@56/description",
+      "1916_Wilson_Baker/answers_json/4339@58/description",
+      "1916_Hughes_Fairbanks/answers_json/4339@59/description"
+    ]
+  },
+  {
+    "source": "Some steps were needed to curtail abuse by business, but the Commission has far too much power over legitimate, honest businessmen in this country.",
+    "zh": "需要采取一些措施来减少企业的滥用行为，但委员会对这个国家合法、诚实的商人拥有太多权力。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4340@57/description",
+      "1916_Wilson_Baker/answers_json/4340@59/description",
+      "1916_Hughes_Fairbanks/answers_json/4340@60/description"
+    ]
+  },
+  {
+    "source": "I support the Clayton Antitrust Act and would hope to see further measures enacted to protect the rights of labor in this country.",
+    "zh": "我支持《克莱顿反垄断法》，并希望看到采取进一步措施来保护这个国家的劳工权利。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4341@58/description",
+      "1916_Wilson_Baker/answers_json/4341@60/description",
+      "1916_Hughes_Fairbanks/answers_json/4341@61/description",
+      "1916_Hughes_Burkett/answers_json/4341@61/description"
+    ]
+  },
+  {
+    "source": "I don't plan to give this act more than cursory mention as I campaign. There are better issues to focus on.",
+    "zh": "我不打算在竞选时粗略地提及这一行为。有更好的问题需要关注。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4342@59/description",
+      "1916_Wilson_Baker/answers_json/4342@61/description",
+      "1916_Hughes_Fairbanks/answers_json/4342@62/description",
+      "1916_Hughes_Burkett/answers_json/4342@62/description"
+    ]
+  },
+  {
+    "source": "I don't believe that we should have one set of laws for business, and another for unions. This act is another example of federal overreach.",
+    "zh": "我不认为我们应该为商业制定一套法律，为工会制定另一套法律。该法案是联邦越权的另一个例子。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4343@60/description",
+      "1916_Wilson_Baker/answers_json/4343@62/description",
+      "1916_Hughes_Fairbanks/answers_json/4343@63/description",
+      "1916_Hughes_Burkett/answers_json/4343@63/description"
+    ]
+  },
+  {
+    "source": "I can think of no better way to reinforce my commitment to peace and neutrality than to meet with such groups.",
+    "zh": "我想不出比与这些团体会面更好的方式来加强我对和平与中立的承诺。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4344@61/description",
+      "1916_Wilson_Baker/answers_json/4344@63/description",
+      "1916_Hughes_Fairbanks/answers_json/4344@64/description",
+      "1916_Hughes_Burkett/answers_json/4344@64/description"
+    ]
+  },
+  {
+    "source": "During my career, I have met with any number of individuals whom I have disagreed with. I don't see a need to apply a different standard to this situation.",
+    "zh": "在我的职业生涯中，我遇到过很多我不同意的人。我认为没有必要对这种情况应用不同的标准。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4345@62/description",
+      "1916_Wilson_Baker/answers_json/4345@64/description",
+      "1916_Hughes_Fairbanks/answers_json/4345@65/description",
+      "1916_Hughes_Burkett/answers_json/4345@65/description"
+    ]
+  },
+  {
+    "source": "I refuse to meet with any hyphenated-American group which places another identity above that of American.",
+    "zh": "我拒绝与任何将另一个身份置于美国人之上的美国连字符团体会面。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4346@63/description",
+      "1916_Wilson_Baker/answers_json/4346@65/description",
+      "1916_Hughes_Fairbanks/answers_json/4346@66/description",
+      "1916_Hughes_Burkett/answers_json/4346@66/description"
+    ]
+  },
+  {
+    "source": "I would object to any immigration act which included a literacy test.",
+    "zh": "我反对任何包含读写能力测试的移民法案。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4350@64/description",
+      "1916_Hughes_Fairbanks/answers_json/4350@67/description"
+    ]
+  },
+  {
+    "source": "I don't have strong feelings on this provision. If such a measure were passed by Congress I would sign it.",
+    "zh": "我对这项规定没有强烈的感受。如果国会通过这样的措施，我会签署。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4351@65/description",
+      "1916_Hughes_Fairbanks/answers_json/4351@68/description"
+    ]
+  },
+  {
+    "source": "I believe that any immigrant who seeks a new life in the United States should be required to pass a literacy test.",
+    "zh": "我认为任何在美国寻求新生活的移民都应该通过识字测试。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4352@66/description",
+      "1916_Hughes_Fairbanks/answers_json/4352@69/description"
+    ]
+  },
+  {
+    "source": "If we are serious about avoiding entanglement in a European war, then we should not allow merchants to put American lives at risk of attack in known war zones.",
+    "zh": "如果我们认真避免卷入欧洲战争，那么我们就不应该允许商人在已知的战区将美国人的生命置于遭受攻击的危险之中。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4353@67/description",
+      "1916_Hughes_Fairbanks/answers_json/4353@70/description",
+      "1916_Hughes_Burkett/answers_json/4353@70/description"
+    ]
+  },
+  {
+    "source": "It makes perfect sense to warn Americans of the dangers involved in such commerce, but it is not the place of the government to actively interfere in it.",
+    "zh": "警告美国人此类贸易所涉及的危险是完全有道理的，但这不是政府积极干预的地方。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4354@68/description",
+      "1916_Hughes_Fairbanks/answers_json/4354@71/description",
+      "1916_Hughes_Burkett/answers_json/4354@71/description"
+    ]
+  },
+  {
+    "source": "We have certain rights as a neutral power, and to retreat from those rights would only serve to invite further aggression.",
+    "zh": "作为中立国，我们拥有某些权利，放弃这些权利只会招致进一步的侵略。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4355@69/description",
+      "1916_Hughes_Fairbanks/answers_json/4355@72/description",
+      "1916_Hughes_Burkett/answers_json/4355@72/description"
+    ]
+  },
+  {
+    "source": "This isn't a subject that I plan to address on the campaign trail.",
+    "zh": "这不是我计划在竞选活动中讨论的主题。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4356@70/description",
+      "1916_Wilson_Baker/answers_json/4356@66/description"
+    ]
+  },
+  {
+    "source": "I do, and I would especially single out German-Americans in this regard, for their support of an expansionist German state.",
+    "zh": "我愿意，而且在这方面我会特别指出德裔美国人，因为他们支持扩张主义的德国国家。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4357@71/description",
+      "1916_Wilson_Baker/answers_json/4357@67/description"
+    ]
+  },
+  {
+    "source": "I do, and I would especially single out Irish-Americans in this regard, for their strenuous opposition to Great Britain.",
+    "zh": "我确实如此，并且在这方面我会特别指出爱尔兰裔美国人对英国的强烈反对。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4358@72/description",
+      "1916_Wilson_Baker/answers_json/4358@68/description"
+    ]
+  },
+  {
+    "source": "I'm concerned about any citizen who would embrace the presence of a hyphen in their American identity.",
+    "zh": "我担心任何愿意接受其美国身份中存在连字符的公民。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4359@73/description",
+      "1916_Wilson_Baker/answers_json/4359@69/description"
+    ]
+  },
+  {
+    "source": "Let's make a final swing to the West Coast, and California in particular, before the voting begins.",
+    "zh": "让我们在投票开始之前最后一次转向西海岸，特别是加利福尼亚州。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4362@74/description",
+      "1916_Wilson_Baker/answers_json/4362@72/description",
+      "1916_Hughes_Fairbanks/answers_json/4362@73/description",
+      "1916_Hughes_Burkett/answers_json/4362@73/description"
+    ]
+  },
+  {
+    "source": "Let's focus on the Midwest.",
+    "zh": "让我们关注中西部。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4363@75/description",
+      "1916_Wilson_Baker/answers_json/4363@73/description",
+      "1916_Hughes_Fairbanks/answers_json/4363@74/description",
+      "1916_Hughes_Burkett/answers_json/4363@74/description"
+    ]
+  },
+  {
+    "source": "Let's focus on New England.",
+    "zh": "让我们关注新英格兰。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4364@76/description",
+      "1916_Wilson_Baker/answers_json/4364@74/description",
+      "1916_Hughes_Fairbanks/answers_json/4364@75/description",
+      "1916_Hughes_Burkett/answers_json/4364@75/description"
+    ]
+  },
+  {
+    "source": "I would make our final campaign stops in New York.",
+    "zh": "我将在纽约州进行我们的最后一次竞选活动。",
+    "keys": [
+      "1916_Wilson_Marshall/answers_json/4365@77/description",
+      "1916_Wilson_Baker/answers_json/4365@75/description",
+      "1916_Hughes_Fairbanks/answers_json/4365@76/description",
+      "1916_Hughes_Burkett/answers_json/4365@76/description"
+    ]
+  },
+  {
+    "source": "These are good themes to address in your campaign.",
+    "zh": "这些是您的活动中需要解决的好主题。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1733@0/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1733@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's nothing wrong with attacking the Republicans, but you also have a legitimate, positive record of accomplishment you could focus on.",
+    "zh": "攻击共和党并没有什么错，但你也有一个合法的、积极的成就记录，你可以关注。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1734@1/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1734@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "The pacifists in your party are revitalized by your acceptance speech.",
+    "zh": "你的获奖感言让你党内的和平主义者重新焕发了活力。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1735@2/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1735@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Commentators are discussing your surprisingly moderate acceptance speech, particularly in light of the legislation of your first term.",
+    "zh": "评论员正在讨论您令人惊讶的温和的获奖感言，特别是考虑到您第一个任期的立法。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1736@3/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1736@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "Even for the anti-war sentiment of the times, this is a little too passive for many.",
+    "zh": "即使对于当时的反战情绪来说，这对很多人来说也有点太被动了。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1737@4/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1737@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is just what most Democrats want to hear.",
+    "zh": "这正是大多数民主党人想听到的。",
+    "keys": [
+      "2016a_Clinton_Booker/answer_feedback_json/2072@32/answer_feedback",
+      "2016a_Clinton_Booker/answer_feedback_json/2073@33/answer_feedback",
+      "2016a_Clinton_Booker/answer_feedback_json/2074@34/answer_feedback",
+      "2016a_Clinton_Castro/answer_feedback_json/2072@34/answer_feedback",
+      "2016a_Clinton_Warren/answer_feedback_json/2071@33/answer_feedback",
+      "2016a_Trump_Brown/answer_feedback_json/2074@9/answer_feedback",
+      "2016a_Trump_Christie/answer_feedback_json/2071@6/answer_feedback",
+      "2016a_Trump_Carson/answer_feedback_json/2073@10/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1738@5/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1743@10/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1744@11/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1738@5/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1743@10/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1744@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "You have plenty of other issues to campaign on, but most of your supporters are hoping to hear more on the peace issue.",
+    "zh": "您还有很多其他问题需要竞选，但您的大多数支持者希望听到更多有关和平问题的信息。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1739@6/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1739@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "You sound as bellicose as Teddy Roosevelt on this issue, to the great disappointment of many in your party.",
+    "zh": "在这个问题上，你听起来和泰迪·罗斯福一样好战，这让你们党内的许多人感到非常失望。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1740@7/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1740@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "This strikes a bit of an aggressive note for some in your party.",
+    "zh": "这对你们队伍中的一些人来说有点咄咄逼人。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1741@8/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1741@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "The nomination battle was contentious, but progressives across the country have noticed your commitment.",
+    "zh": "提名之战颇具争议，但全国各地的进步人士都注意到了您的承诺。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1742@9/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1742@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems like an overly cautious stance on one of your signature first-term achievements.",
+    "zh": "这似乎是对你第一学期标志性成就之一的过于谨慎的立场。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1745@12/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1745@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "Apparently, there is some discomfort within the Hughes campaign at the content of Roosevelt's speeches, but they are also afraid to antagonize him during a campaign.",
+    "zh": "显然，休斯竞选团队内部对罗斯福的演讲内容感到有些不适，但他们也害怕在竞选期间与他对抗。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1746@13/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1746@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good opportunity to take Roosevelt and Hughes down a peg. It seems like you are leaving something on the table if you ignore it.",
+    "zh": "这是一个贬低罗斯福和休斯的好机会。如果你忽视它，就好像你把一些东西留在了桌面上。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1747@14/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1747@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Pershing Expedition makes its way into Mexico as the campaign at home progresses.",
+    "zh": "随着国内战役的进展，潘兴远征队进入墨西哥。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1748@15/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1749@16/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1748@15/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1749@16/answer_feedback"
+    ]
+  },
+  {
+    "source": "The public is clamoring for more vigorous action after the death of several Americans at the hands of Pancho Villa.",
+    "zh": "在几名美国人死于潘乔·维拉之手后，公众呼吁采取更强有力的行动。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1750@17/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1750@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "This measure passes in any case, but you are not receiving much credit for it.",
+    "zh": "无论如何，这项措施都会通过，但您并没有因此获得太多荣誉。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1751@18/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1751@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "The farm vote is one of the largest blocs that is in doubt this fall. Advisors were really hoping you would do something to appeal to their interest.",
+    "zh": "农场投票是今年秋天存在疑问的最大集团之一。顾问们真心希望你能做点什么来引起他们的兴趣。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1752@19/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1752@19/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your efforts are appreciated by the unions, but many others see them as one-sided.",
+    "zh": "你的努力得到了工会的赞赏，但许多其他人认为你的努力是片面的。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1753@20/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1753@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your efforts are under some attack from conservatives, but are broadly popular and especially appreciated by the unions.",
+    "zh": "您的努力受到了保守派的一些攻击，但受到广泛欢迎，尤其受到工会的赞赏。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1754@21/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1754@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "A vicious railroad strike, just weeks before the election, clouds the campaign. Many accuse you of being ineffectual and vaguely anti-union.",
+    "zh": "就在选举前几周，一场恶性铁路罢工给竞选活动蒙上阴影。许多人指责你无能并且隐约反工会。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1755@22/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1755@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "Agrarian radicals agree with your stance on the tariff commission, but moderates in the business community do not.",
+    "zh": "农业激进分子同意您对关税委员会的立场，但商业界的温和派则不同意。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1756@23/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1756@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Democratic Party is pretty-well united in support of this law.",
+    "zh": "民主党非常团结地支持这项法律。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1757@24/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1757@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "The larger part of your supporters are resolutely in favor of a higher income tax, and are surprised by your unexpected veto.",
+    "zh": "您的大部分支持者坚决支持提高所得税，并对您意外的否决感到惊讶。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1758@25/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1758@25/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Keating-Owen Act has passed and provides federal protections against the use of child labor.",
+    "zh": "《基廷-欧文法案》已通过，并提供针对使用童工的联邦保护。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1759@26/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1759@26/answer_feedback"
+    ]
+  },
+  {
+    "source": "There are some whispers that you have caved to the Southern wing of the party and done little to advance a child labor law.",
+    "zh": "有一些传言称您已经屈服于党的南翼，并且在推进童工法方面几乎没有采取任何行动。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1760@27/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1760@27/answer_feedback"
+    ]
+  },
+  {
+    "source": "Immediate independence is a little unsettling to some, but it shouldn't make too much of a difference.",
+    "zh": "立即独立对某些人来说有点令人不安，但这应该不会产生太大的影响。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1761@28/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1761@28/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1761@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "There is still a large anti-war, anti-imperialist group within the Democratic Party, and they view this stance as a betrayal.",
+    "zh": "民主党内部仍然有一个庞大的反战、反帝团体，他们认为这种立场是背叛。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1762@29/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1762@29/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1762@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "The 17th Amendment is broadly popular among most voters, and it is best to support it.",
+    "zh": "第十七修正案受到大多数选民的广泛欢迎，最好支持它。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1763@30/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1764@31/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1765@32/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1763@30/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1764@31/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1765@32/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1763@0/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1764@1/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1765@2/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1763@2/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1764@3/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1765@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "There is still some hope that the nations of Europe would accept the United States as a mediator, and that a peaceful solution could be found to the current war.",
+    "zh": "欧洲国家仍有希望接受美国作为调解人，并为当前的战争找到和平解决方案。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1766@33/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1767@34/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1768@35/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1766@33/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1767@34/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1768@35/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1766@3/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1767@4/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1768@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "This stance definitely goes too far for many of your supporters.",
+    "zh": "对于你的许多支持者来说，这种立场确实太过分了。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1770@36/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1770@36/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1770@7/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1770@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's a little hard to duck your own responsibility, since you signed this legislation, but it does have its opponents.",
+    "zh": "自从你签署了这项立法以来，逃避自己的责任有点困难，但它确实有它的反对者。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1771@37/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1771@37/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1771@8/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1771@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "This goes a step further than the party platform and galvanizes those who support the women's vote.",
+    "zh": "这比政党纲领更进一步，激励了那些支持女性投票的人。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1775@38/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1775@38/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1775@9/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1775@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "This view is right in line with the party platform.",
+    "zh": "这个观点与党纲完全一致。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1776@39/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1776@39/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1776@10/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1776@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "This answer is definitely a step behind the times, in most regions.",
+    "zh": "这个答案在大多数地区绝对是落后于时代的一步。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1777@40/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1777@40/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1777@11/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1777@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "Urban Democrats are alarmed by your positive support for Prohibition.",
+    "zh": "城市民主党人对您对禁酒令的积极支持感到震惊。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1778@41/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1778@41/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1778@12/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1778@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many rural Democrats are upset at the strong position you have taken.",
+    "zh": "许多农村民主党人对您所采取的强势立场感到不安。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1779@42/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1779@42/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1779@13/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1779@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a popular stance for Democrats and progressives.",
+    "zh": "这是民主党和进步人士的普遍立场。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1780@43/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1783@46/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1785@48/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1780@43/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1783@46/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1785@48/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1780@14/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1783@17/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1785@19/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1780@15/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1785@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "This position is fairly conservative compared to that of most Democrats.",
+    "zh": "与大多数民主党人相比，这一立场相当保守。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1781@44/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1784@47/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1786@49/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1781@44/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1784@47/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1786@49/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1781@15/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1784@18/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1786@20/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1781@16/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1786@19/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1789@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "People are confused by your sudden shift on what should be a winning issue.",
+    "zh": "人们对你在什么应该是一个获胜问题上的突然转变感到困惑。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1782@45/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1782@45/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1782@16/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1782@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a controversial step, but perhaps it can work out for you.",
+    "zh": "这是一个有争议的步骤，但也许它可以为您解决问题。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1787@50/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1787@50/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1787@21/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1787@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a strong, patriotic position, and helps mute some jingoistic criticism of the Democrats' anti-war stance.",
+    "zh": "这是一个强有力的爱国立场，有助于平息对民主党反战立场的一些沙文主义批评。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1788@51/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1788@51/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1788@22/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1788@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Democratic Party still wins a lot of its support from immigrants, leaving aside the current environment of full-on Americanism.",
+    "zh": "撇开当前全面的美国主义环境不谈，民主党仍然赢得了移民的大量支持。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1790@52/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1790@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "The most fervent anti-war wing of the party cheers you on.",
+    "zh": "党内最狂热的反战派为你加油。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1791@53/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1791@24/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1791@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "This position is lifted straight from the Republican platform.",
+    "zh": "这一立场直接源自共和党的政纲。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1792@54/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1792@25/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1792@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a broadly popular stance.",
+    "zh": "这是一种广泛流行的立场。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1793@55/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1794@56/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1796@58/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1793@52/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1794@53/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1796@55/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a broadly popular stance, but it definitely alienates a key bloc of Democrats.",
+    "zh": "这是一种广泛流行的立场，但它肯定疏远了民主党的一个关键集团。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1795@57/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1795@54/answer_feedback"
+    ]
+  },
+  {
+    "source": "Good luck in this year's election. Many people think it will awfully close.",
+    "zh": "祝今年的选举好运。许多人认为它会非常关闭。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1797@59/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1798@60/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1799@61/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1800@62/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1797@56/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1798@57/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1799@58/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1800@59/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1797@26/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1798@27/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1799@28/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1800@29/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1797@25/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1798@26/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1799@27/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1800@28/answer_feedback"
+    ]
+  },
+  {
+    "source": "Immediate independence of the Philippines is not the popular position for Republicans.",
+    "zh": "菲律宾立即独立并不是共和党人的普遍立场。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1824@63/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1824@60/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1824@52/answer_feedback"
+    ]
+  },
+  {
+    "source": "Conservatives have denounced the 17th Amendment, but it is broadly popular.",
+    "zh": "保守派谴责了第十七修正案，但它广泛受到欢迎。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1825@64/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1825@61/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1825@53/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1825@53/answer_feedback"
+    ]
+  },
+  {
+    "source": "The League of Nations idea is viewed with suspicion by many conservatives, and anti-war progressives alike.",
+    "zh": "许多保守派和反战进步人士都对国际联盟的想法持怀疑态度。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1826@65/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1826@62/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1826@54/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's nothing wrong with postponing judgment on this issue.",
+    "zh": "推迟对这个问题的判断并没有什么错。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1827@66/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1827@63/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1827@55/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are certainly running an aggressive campaign on the military issues.",
+    "zh": "您确实在军事问题上开展了一场激进的运动。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1828@67/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1828@64/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1828@56/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1828@54/answer_feedback"
+    ]
+  },
+  {
+    "source": "This position is too anti-war for many in your party to accept.",
+    "zh": "这个立场对于你们党内的许多人来说太反战了，无法接受。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1829@68/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1829@65/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1829@57/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1829@55/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a break from the party platform, but it might help in the Western states.",
+    "zh": "这是对政党纲领的突破，但它可能对西方各州有所帮助。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1832@69/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1832@66/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1832@58/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1832@58/answer_feedback"
+    ]
+  },
+  {
+    "source": "This in line with the feelings of your Party.",
+    "zh": "这符合你们党的感受。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1833@70/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1833@67/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1833@59/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1833@59/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are definitely sticking to conservative points in this campaign.",
+    "zh": "你们在这次竞选中肯定坚持保守观点。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1834@71/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1834@68/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1834@60/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1834@60/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many in your party are in favor of Prohibition, but there is a significant minority on the other side. Particularly among the German wing.",
+    "zh": "你们党内的许多人都支持禁酒令，但另一方也有少数人。特别是在德国翼中。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1835@72/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1835@69/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1835@61/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1835@61/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a controversial stance, and it is probably aligned with the minority within your party.",
+    "zh": "这是一个有争议的立场，它可能与你们党内的少数派一致。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1836@73/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1836@70/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1836@62/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1836@62/answer_feedback"
+    ]
+  },
+  {
+    "source": "People are surprised to hear you in sympathy with the progressive wing of the Democratic coalition.",
+    "zh": "人们很惊讶地听到你对民主党联盟进步派的同情。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1837@74/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1837@71/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1837@63/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1837@63/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a safe position for a Republican to take.",
+    "zh": "对于共和党人来说，这是一个安全的立场。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1838@75/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1839@76/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1838@72/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1839@73/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1838@64/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1839@65/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1838@64/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1839@65/answer_feedback"
+    ]
+  },
+  {
+    "source": "There is still conservative opposition to the Federal Reserve, but even that wing of the party is divided on the issue.",
+    "zh": "仍然有保守派反对美联储，但即使是党内的这一派在这个问题上也存在分歧。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1840@77/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1840@74/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1840@66/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1840@66/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a very advanced position for a Republican to take on federal regulation.",
+    "zh": "对于共和党人来说，这是一个非常先进的立场来接受联邦监管。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1841@78/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1843@80/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1841@75/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1843@77/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1841@67/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1843@69/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1843@67/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1848@72/answer_feedback"
+    ]
+  },
+  {
+    "source": "You continue to make conservative points on the campaign trail.",
+    "zh": "您在竞选活动中继续提出保守观点。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1842@79/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1842@76/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1842@68/answer_feedback"
+    ]
+  },
+  {
+    "source": "Somewhat counter to initial expectations, you continue to press the conservative case as you campaign.",
+    "zh": "与最初的预期相反，您在竞选时继续强调保守派观点。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1844@81/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1844@78/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1844@70/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1844@68/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1849@73/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a controversial step, which has certainly created much bewilderment from your party.",
+    "zh": "这是一个有争议的步骤，肯定让你们的政党感到非常困惑。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1845@82/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1845@79/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1845@71/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1845@69/answer_feedback"
+    ]
+  },
+  {
+    "source": "There are some attacks about this meeting, but it could also help keep German-Americans in the fold.",
+    "zh": "这次会议受到了一些攻击，但它也可能有助于让德裔美国人留在其中。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1846@83/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1846@80/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1846@72/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1846@70/answer_feedback"
+    ]
+  },
+  {
+    "source": "Red-blooded Americans cheer your strong stance on this position.",
+    "zh": "热血的美国人为你在这一立场上的强硬立场欢呼。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1847@84/answer_feedback",
+      "1916_Wilson_Marshall/answer_feedback_json/1854@89/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1847@81/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1854@83/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1847@73/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1847@71/answer_feedback"
+    ]
+  },
+  {
+    "source": "Significant concern is beginning to develop among Republicans over the level of immigration that has been permitted.",
+    "zh": "共和党人开始对允许的移民水平产生严重担忧。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1850@85/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1850@74/answer_feedback"
+    ]
+  },
+  {
+    "source": "Congress has just such a bill in the works right now.",
+    "zh": "国会目前正在酝酿一项这样的法案。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1851@86/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1851@75/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a surprisingly anti-war position for you, given initial expectations.",
+    "zh": "考虑到最初的期望，这对你来说是一个令人惊讶的反战立场。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1852@87/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1852@76/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1852@74/answer_feedback"
+    ]
+  },
+  {
+    "source": "Jingoists and so on favor this stance, but there is a significant German bloc of Republicans who you should still be worried about.",
+    "zh": "沙文主义者等都支持这一立场，但仍有一个重要的德国共和党集团值得您担心。",
+    "keys": [
+      "1916_Wilson_Marshall/answer_feedback_json/1853@88/answer_feedback",
+      "1916_Wilson_Baker/answer_feedback_json/1853@82/answer_feedback"
+    ]
+  },
+  {
+    "source": "What motivated you to place Newton Baker on the ticket for your attempt at reelection?",
+    "zh": "是什么促使您将牛顿·贝克放在您尝试连任的票上？",
+    "keys": [
+      "1916_Wilson_Baker/questions_json/665@3/description"
+    ]
+  },
+  {
+    "source": "Will you make any statements about the increased regulation of narcotics and stimulants such as a cocaine, which began with the 1914 Harrison Act?",
+    "zh": "您能否就 1914 年《哈里森法案》开始加强对麻醉品和可卡因等兴奋剂的监管发表任何声明？",
+    "keys": [
+      "1916_Wilson_Baker/questions_json/696@21/description"
+    ]
+  },
+  {
+    "source": "Newton Baker is the best man for the job. Regardless of any political gossip, the President needs a reliable working partner as Vice President.",
+    "zh": "牛顿·贝克是这项工作的最佳人选。不管有什么政治八卦，总统都需要一个可靠的工作伙伴作为副总统。",
+    "keys": [
+      "1916_Wilson_Baker/answers_json/4270@34/description"
+    ]
+  },
+  {
+    "source": "Newton Baker is the progressive choice for Vice President, and I have every confidence in his abilities.",
+    "zh": "牛顿·贝克是副总统的渐进选择，我对他的能力充满信心。",
+    "keys": [
+      "1916_Wilson_Baker/answers_json/4271@35/description"
+    ]
+  },
+  {
+    "source": "This is yet another positive example of progressive legislation that has been enacted over the previous few years.",
+    "zh": "这是过去几年颁布的进步立法的又一个积极例子。",
+    "keys": [
+      "1916_Wilson_Baker/answers_json/4360@70/description"
+    ]
+  },
+  {
+    "source": "This isn't an important issue in our current campaign.",
+    "zh": "这在我们当前的活动中不是一个重要问题。",
+    "keys": [
+      "1916_Wilson_Baker/answers_json/4361@71/description"
+    ]
+  },
+  {
+    "source": "What themes will you emphasize as you accept the Republican nomination and begin your campaign?",
+    "zh": "当您接受共和党提名并开始竞选活动时，您会强调哪些主题？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/666@0/description",
+      "1916_Hughes_Burkett/questions_json/666@0/description"
+    ]
+  },
+  {
+    "source": "In making appointments to your campaign (and by implication, when you are President), will you favor traditional Republicans, Progressives, or try for an even balance?",
+    "zh": "在为您的竞选活动做出任命时（并且暗示，当您担任总统时），您会偏向传统共和党人、进步派，还是会尝试寻求平衡？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/669@1/description",
+      "1916_Hughes_Burkett/questions_json/669@1/description"
+    ]
+  },
+  {
+    "source": "What position will you take in regards to the war in Europe as you campaign?",
+    "zh": "在您竞选期间，您对欧洲战争持什么立场？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/667@2/description",
+      "1916_Hughes_Burkett/questions_json/667@2/description"
+    ]
+  },
+  {
+    "source": "Theodore Roosevelt is hitting the campaign trail hard this fall. However, he continues to make bellicose speeches about the war in Europe. Will you distance yourself from his rhetoric?",
+    "zh": "西奥多罗斯福今年秋天将大力开展竞选活动。然而，他继续就欧洲战争发表好战言论。你会与他的言论保持距离吗？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/673@5/description",
+      "1916_Hughes_Burkett/questions_json/673@7/description"
+    ]
+  },
+  {
+    "source": "What do you make of Woodrow Wilson's response to the raids and outrages of Pancho Villa?",
+    "zh": "您如何看待伍德罗·威尔逊对 Pancho Villa 的袭击和暴行的反应？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/675@6/description",
+      "1916_Hughes_Burkett/questions_json/675@12/description"
+    ]
+  },
+  {
+    "source": "Do you have any plans to attack the nomination of Louis Brandeis to the Supreme Court?",
+    "zh": "您有计划攻击路易斯·布兰代斯 (Louis Brandeis) 的最高法院提名吗？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/670@7/description",
+      "1916_Hughes_Burkett/questions_json/670@13/description"
+    ]
+  },
+  {
+    "source": "How much will you emphasize your own reform efforts as Governor of New York, as you campaign nationally?",
+    "zh": "当您在全国竞选时，作为纽约州州长，您会在多大程度上强调自己的改革努力？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/671@9/description",
+      "1916_Hughes_Burkett/questions_json/671@8/description"
+    ]
+  },
+  {
+    "source": "Do you plan to attack Woodrow Wilson's stance on preparedness and war with Europe, and if so, how?",
+    "zh": "您是否计划攻击伍德罗·威尔逊在与欧洲的备战和战争方面的立场？如果是，如何攻击？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/668@12/description",
+      "1916_Hughes_Burkett/questions_json/668@15/description"
+    ]
+  },
+  {
+    "source": "California, an important state this fall, is in the midst of a divisive split between Progressives and traditional Republicans. What are your own plans for visiting that state?",
+    "zh": "加利福尼亚州是今年秋天的一个重要州，正处于进步派和传统共和党之间的分裂之中。您自己访问该州的计划是什么？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/672@13/description",
+      "1916_Hughes_Burkett/questions_json/672@9/description"
+    ]
+  },
+  {
+    "source": "What are your opinions on child labor legislation, as exemplified by the recent Keating-Owens child labor bill?",
+    "zh": "您对童工立法有何看法，例如最近的基廷-欧文斯童工法案？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/678@14/description",
+      "1916_Hughes_Burkett/questions_json/678@14/description"
+    ]
+  },
+  {
+    "source": "Do you have any statements to make on the tariff question, and/or the recently established Tariff Commission, as you campaign?",
+    "zh": "在竞选期间，您对关税问题和/或最近成立的关税委员会有什么声明吗？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/676@15/description",
+      "1916_Hughes_Burkett/questions_json/676@17/description"
+    ]
+  },
+  {
+    "source": "Woodrow Wilson has recently pushed through the Adamson Act to avert a railroad strike, which establishes an eight-hour day for railroad employees. Will you attack this action in your campaign?",
+    "zh": "伍德罗·威尔逊最近推动通过了《亚当森法案》以避免铁路罢工，该法案规定铁路员工每天工作八小时。您会在竞选活动中攻击这一行为吗？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/674@16/description",
+      "1916_Hughes_Burkett/questions_json/674@6/description"
+    ]
+  },
+  {
+    "source": "What do you make of the Preparedness Day Parades which have sprung up across the country this summer?",
+    "zh": "您如何看待今年夏天全国各地兴起的准备日游行？",
+    "keys": [
+      "1916_Hughes_Fairbanks/questions_json/683@19/description"
+    ]
+  },
+  {
+    "source": "My record as Governor of New York shows that I am willing to enact progressive reforms, and to combat machine politics. I will bring this mentality to the national stage as President.",
+    "zh": "我担任纽约州州长的记录表明我愿意实施渐进式改革，并打击机器政治。作为总统，我将把这种心态带到国家舞台。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4272@2/description",
+      "1916_Hughes_Burkett/answers_json/4272@2/description"
+    ]
+  },
+  {
+    "source": "Mr. Wilson has veered between ineptness on the one hand, and sudden, radical solutions on the other. I am the safe, pragmatic alternative in this contest.",
+    "zh": "威尔逊先生一会儿无能为力，一会儿又突然提出激进的办法。在这场角逐中，我才是稳妥、务实的选择。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4273@3/description",
+      "1916_Hughes_Burkett/answers_json/4273@3/description"
+    ]
+  },
+  {
+    "source": "We can all agree on the need for reform, in this day in age. The question is, will we have sensible, moderate change or naked overreach?",
+    "zh": "在当今时代，我们都同意改革的必要性。问题是，我们会进行明智的、适度的改变还是赤裸裸的过度扩张？",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4274@4/description",
+      "1916_Hughes_Burkett/answers_json/4274@4/description"
+    ]
+  },
+  {
+    "source": "We've seen alarming measures during Wilson's first term. I stand firmly opposed to the income tax, the new interference with business, and the reduction in tariffs which will undermine our prosperity.",
+    "zh": "我们在威尔逊第一任期内看到了令人震惊的措施。我坚决反对所得税、新的商业干预以及关税削减，因为这将破坏我们的繁荣。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4275@5/description",
+      "1916_Hughes_Burkett/answers_json/4275@5/description"
+    ]
+  },
+  {
+    "source": "Mr. Wilson's vacillations on the issue have emboldened potential adversaries and led to unfortunate events like the sinking of the <em>Lusitania</em>. A more resolute policy would actually increase the chances for peace.",
+    "zh": "威尔逊先生在这个问题上的犹豫不决，让潜在的对手更加胆大妄为，并导致了诸如沉船之类的不幸事件。 <em>卢西塔尼亚</em>。更坚决的政策实际上会增加和平的机会。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4276@6/description",
+      "1916_Hughes_Burkett/answers_json/4276@6/description"
+    ]
+  },
+  {
+    "source": "As President, I have no desire for war. However, I will spare no effort to protect the legitimate rights of American shipping and commerce.",
+    "zh": "作为总统，我不渴望战争。不过，我将不遗余力地保护美国航运和商业的合法权利。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4277@7/description",
+      "1916_Hughes_Burkett/answers_json/4277@7/description"
+    ]
+  },
+  {
+    "source": "If Mr. Wilson continues to allow American ships to travel in dangerous areas, it is only a matter of time before we are drawn into war. His claims to be the peace candidate ring hollow.",
+    "zh": "如果威尔逊先生继续允许美国船只在危险地区航行，我们被卷入战争只是时间问题。他自称是和平候选人的说法听起来很空洞。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4278@8/description",
+      "1916_Hughes_Burkett/answers_json/4278@8/description"
+    ]
+  },
+  {
+    "source": "Wilson has repeatedly taken half-measures, when we should be doing much more to prepare for the threat of war.",
+    "zh": "威尔逊一再采取半途而废的措施，而我们应该做更多的事情来应对战争威胁。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4279@9/description",
+      "1916_Hughes_Burkett/answers_json/4279@9/description"
+    ]
+  },
+  {
+    "source": "I refuse to politicize the security of the United States. Wilson and I are both in support of the current measures.",
+    "zh": "我拒绝将美国的安全政治化。威尔逊和我都支持当前的措施。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4280@10/description",
+      "1916_Hughes_Burkett/answers_json/4280@10/description"
+    ]
+  },
+  {
+    "source": "Preparedness is a bellicose policy which leads us closer to the very thing we are preparing against -- war, that is.",
+    "zh": "准备是一项好战的政策，它使我们更接近我们正在准备应对的事情——战争。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4281@11/description",
+      "1916_Hughes_Burkett/answers_json/4281@11/description"
+    ]
+  },
+  {
+    "source": "If we must make a decision, we should appeal to the progressive element of the party. These voters are the most likely ones to bolt for Wilson this fall.",
+    "zh": "如果我们必须做出决定，我们应该诉诸党内的进步分子。这些选民是今年秋天最有可能支持威尔逊的选民。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4282@12/description",
+      "1916_Hughes_Burkett/answers_json/4282@12/description"
+    ]
+  },
+  {
+    "source": "I'm a moderate candidate, and my purpose is to tie the different strands of our party into a unified whole. My appointments will reflect this.",
+    "zh": "我是一名温和派候选人，我的目的是将我们党的不同派别整合成一个统一的整体。我的约会将反映这一点。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4283@13/description",
+      "1916_Hughes_Burkett/answers_json/4283@13/description"
+    ]
+  },
+  {
+    "source": "The great mass of voters in this country are Republicans. If we keep the mainstream elements of the party happy, they will deliver us a victory in November.",
+    "zh": "这个国家的绝大多数选民都是共和党人。如果我们让党内主流分子高兴，他们就会给我们带来十一月的胜利。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4284@14/description",
+      "1916_Hughes_Burkett/answers_json/4284@14/description"
+    ]
+  },
+  {
+    "source": "I believe the appointment of Louis Brandeis to the Court shows exceptionally poor, and dangerous, judgment on the part of Woodrow Wilson.",
+    "zh": "我认为任命 Louis Brandeis 为最高法院法官表明伍德罗·威尔逊的判断力极其糟糕且危险。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4285@15/description",
+      "1916_Hughes_Burkett/answers_json/4285@15/description"
+    ]
+  },
+  {
+    "source": "We would be better served to focus on other issues as we campaign.",
+    "zh": "我们在竞选时关注其他问题会更好。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4286@16/description",
+      "1916_Hughes_Burkett/answers_json/4286@16/description"
+    ]
+  },
+  {
+    "source": "I have a substantial record of reform and progressivism as Governor of New York, and as a Supreme Court Justice. I won't hesitate to say so as I campaign.",
+    "zh": "作为纽约州州长和最高法院法官，我在改革和进步主义方面拥有丰富的记录。我在竞选时会毫不犹豫地这么说。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4287@17/description",
+      "1916_Hughes_Burkett/answers_json/4287@17/description"
+    ]
+  },
+  {
+    "source": "My history as Governor of New York shows that I can balance the need for reform with respect for established institutions.",
+    "zh": "我担任纽约州州长的经历表明，我可以平衡改革的需要和对既定机构的尊重。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4288@18/description",
+      "1916_Hughes_Burkett/answers_json/4288@18/description"
+    ]
+  },
+  {
+    "source": "Obviously it is helpful to remind the voters of my achievements, but our primary focus should be on Woodrow Wilson and the issues of 1916.",
+    "zh": "显然，提醒选民我的成就是有帮助的，但我们的主要焦点应该放在伍德罗·威尔逊和 1916 年的问题上。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4289@19/description",
+      "1916_Hughes_Burkett/answers_json/4289@19/description"
+    ]
+  },
+  {
+    "source": "We will plan our own visit to that state, and call upon the Governor and his opponents equally, to avoid giving offense.",
+    "zh": "我们将计划自己对该州的访问，并平等地呼吁州长和他的反对者，避免冒犯。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4290@20/description",
+      "1916_Hughes_Burkett/answers_json/4290@20/description"
+    ]
+  },
+  {
+    "source": "It's best not to wade into the middle of a controversy -- we should not make any large trip to California during this campaign.",
+    "zh": "最好不要卷入争议——我们不应该在这次活动期间对加利福尼亚州进行任何大型旅行。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4291@21/description",
+      "1916_Hughes_Burkett/answers_json/4291@21/description"
+    ]
+  },
+  {
+    "source": "The Governor of California can barely be called a Republican. We will coordinate our itinerary with the established party apparatus on our visit.",
+    "zh": "加利福尼亚州的州长几乎不能被称为共和党人。我们将在访问期间与既定的党组织协调我们的行程。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4292@22/description",
+      "1916_Hughes_Burkett/answers_json/4292@22/description"
+    ]
+  },
+  {
+    "source": "I would actually redouble the points that Roosevelt is making about our lack of military preparation.",
+    "zh": "我实际上会重申罗斯福所提出的关于我们缺乏军事准备的观点。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4293@23/description",
+      "1916_Hughes_Burkett/answers_json/4293@23/description"
+    ]
+  },
+  {
+    "source": "I'm not going to comment on the speeches of Teddy Roosevelt -- there is too much to lose in antagonizing him.",
+    "zh": "我不会评论泰迪·罗斯福的演讲——对抗他会损失太多。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4294@24/description",
+      "1916_Hughes_Burkett/answers_json/4294@24/description"
+    ]
+  },
+  {
+    "source": "I will emphasize that I am my own man, and that I believe the one-sided neutrality of Woodrow Wilson is at risk of pushing us into a war with Germany.",
+    "zh": "我要强调，我是我自己的人，我相信伍德罗·威尔逊的片面中立有可能将我们推入与德国的战争。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4295@25/description",
+      "1916_Hughes_Burkett/answers_json/4295@25/description"
+    ]
+  },
+  {
+    "source": "Wilson's impetuous actions in pushing this into law, with no chance for debate in Congress, are incorrect and dangerous.",
+    "zh": "威尔逊在没有机会在国会辩论的情况下将其推入法律的鲁莽行动是不正确和危险的。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4296@26/description",
+      "1916_Hughes_Burkett/answers_json/4296@26/description"
+    ]
+  },
+  {
+    "source": "We all have different opinions about the Adamson Act, and I don't propose to make it a big part of my campaign speech.",
+    "zh": "我们对《亚当森法案》都有不同的看法，我不建议将其作为我竞选演讲的重要组成部分。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4297@27/description",
+      "1916_Hughes_Burkett/answers_json/4297@27/description"
+    ]
+  },
+  {
+    "source": "Wilson and I may have our differences on other issues, but I believe an eight-hour workday is broadly popular and worthy of praise.",
+    "zh": "威尔逊我和我在其他问题上可能存在分歧，但我相信八小时工作日受到广泛欢迎，值得赞扬。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4298@28/description",
+      "1916_Hughes_Burkett/answers_json/4298@28/description"
+    ]
+  },
+  {
+    "source": "Mexico has been in turmoil for years, and anyone with foresight could have anticipated the problems that have arisen from our undefended border. Wilson did not.",
+    "zh": "墨西哥多年来一直处于动荡之中，任何有远见的人都可以预见到我们不设防的边境所出现的问题。威尔逊没有。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4299@29/description",
+      "1916_Hughes_Burkett/answers_json/4299@29/description"
+    ]
+  },
+  {
+    "source": "Every good American should support our current expedition into Mexico, to apprehend the villainous Pancho Villa.",
+    "zh": "每个善良的美国人都应该支持我们目前对墨西哥的远征，以逮捕邪恶的潘乔·维拉。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4300@30/description",
+      "1916_Hughes_Burkett/answers_json/4300@30/description"
+    ]
+  },
+  {
+    "source": "Rather than directly imposing ourselves on Mexican territory, we should be seeking other ways to assist the rightful government in securing that country.",
+    "zh": "我们不应该直接将自己强加在墨西哥领土上，而应该寻求其他方法来协助合法政府确保该国的安全。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4301@31/description",
+      "1916_Hughes_Burkett/answers_json/4301@31/description"
+    ]
+  },
+  {
+    "source": "In defiance of the popular will, the Democrats immediately slashed tariffs and created an income tax upon their rise to power. We propose to undo these actions.",
+    "zh": "民主党不顾民意，上台后立即削减关税并开征所得税。我们建议撤消这些操作。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4302@32/description",
+      "1916_Hughes_Burkett/answers_json/4302@32/description"
+    ]
+  },
+  {
+    "source": "We would prefer for tariffs to be higher, but the creation of a Tariff Commission is certainly a sensible step in the right direction.",
+    "zh": "我们希望关税更高，但关税委员会的成立无疑是朝着正确方向迈出的明智一步。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4303@33/description",
+      "1916_Hughes_Burkett/answers_json/4303@33/description"
+    ]
+  },
+  {
+    "source": "I don't believe the tariff issue would resonate in our current campaign. I will focus on other issues as I speak to the voters.",
+    "zh": "我认为关税问题不会在我们当前的竞选活动中引起共鸣。当我向选民讲话时，我将重点讨论其他问题。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4304@34/description",
+      "1916_Hughes_Burkett/answers_json/4304@34/description"
+    ]
+  },
+  {
+    "source": "Republicans have stood behind such legislation all along. It would have become law years ago without the obstruction of Southern Democrats.",
+    "zh": "共和党人一直支持此类立法。如果没有南方民主党的阻挠，该法案几年前就会成为法律。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4305@35/description",
+      "1916_Hughes_Burkett/answers_json/4305@35/description"
+    ]
+  },
+  {
+    "source": "I oppose child labor and believe the states should pass laws against the practice, as New York did while I was Governor. But it is not a matter for the federal government to interfere in.",
+    "zh": "我反对童工，并认为各州应该通过法律反对这种做法，就像我担任州长时纽约州所做的那样。但这不是联邦政府插手的事情。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4306@36/description",
+      "1916_Hughes_Burkett/answers_json/4306@36/description"
+    ]
+  },
+  {
+    "source": "This recent act is not something that I plan to address very much as I campaign.",
+    "zh": "最近的这一行为并不是我在竞选时打算解决的问题。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4307@37/description",
+      "1916_Hughes_Burkett/answers_json/4307@37/description"
+    ]
+  },
+  {
+    "source": "These parades show that there is, indeed, a great national enthusiasm for American action in the world.",
+    "zh": "这些游行表明，确实，全国人民对美国在世界上的行动抱有极大的热情。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4319@44/description"
+    ]
+  },
+  {
+    "source": "These are impressive demonstrations, but we shouldn't read too much into them when drafting our policy. The majority of Americans are against military involvement in Europe.",
+    "zh": "这些都是令人印象深刻的示威，但我们在起草政策时不应该过多解读它们。大多数美国人反对军事介入欧洲。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answers_json/4320@45/description"
+    ]
+  },
+  {
+    "source": "The Democrats are too anti-war, in large part, to support this view.",
+    "zh": "民主党在很大程度上过于反战，不支持这种观点。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1769@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "This puts you well on your way to running a progressive campaign this fall.",
+    "zh": "这将使您在今年秋天顺利开展渐进式竞选活动。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1801@30/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1801@29/answer_feedback"
+    ]
+  },
+  {
+    "source": "This acceptance is a touch conservative, but has enough to appeal to all Republicans.",
+    "zh": "这种接受有点保守，但足以吸引所有共和党人。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1802@31/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1802@30/answer_feedback"
+    ]
+  },
+  {
+    "source": "This strikes a moderate chord with the public, and makes it clear where you stand in this election.",
+    "zh": "这引起了公众的共鸣，并明确了你在这次选举中的立场。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1803@32/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1803@31/answer_feedback"
+    ]
+  },
+  {
+    "source": "The public is surprised by the rather conservative tone of your acceptance, and so are luminaries such as Teddy Roosevelt.",
+    "zh": "公众对您接受的相当保守的语气感到惊讶，泰迪·罗斯福等名人也是如此。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1804@33/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1804@32/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is in line with the stance of the party, but will it appeal to progressives?",
+    "zh": "这符合党的立场，但会吸引进步人士吗？",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1805@34/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1807@36/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1805@33/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1807@35/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many are surprised to hear you take such a strong anti-war position as the Republican nominee.",
+    "zh": "许多人对您作为共和党候选人采取如此强烈的反战立场感到惊讶。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1806@35/answer_feedback",
+      "1916_Hughes_Fairbanks/answer_feedback_json/1808@37/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1806@34/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1808@36/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many traditional Republicans are wondering where the “compromise” with progressives begins, and how you're any better than Roosevelt.",
+    "zh": "许多传统共和党人想知道与进步派的“妥协”从哪里开始，以及你如何比罗斯福更好。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1809@38/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1809@37/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's an element of truth in this statement, and also grumblings of discontent from progressives.",
+    "zh": "这种说法有一定道理，也有进步人士的不满。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1810@39/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1810@38/answer_feedback"
+    ]
+  },
+  {
+    "source": "One hardly has to be an arch-conservative to be concerned about the elevation of Brandeis to the Supreme Court.",
+    "zh": "几乎不必是极端保守派人士也会担心布兰代斯被提升到最高法院。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1811@40/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1811@39/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your trip to California went as well as could be expected.",
+    "zh": "您的加利福尼亚州之旅进展顺利。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1812@41/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1812@40/answer_feedback"
+    ]
+  },
+  {
+    "source": "There is some gossip from California that the popular Governor, Hiram Johnson, feels deeply snubbed by your recent visit, and he hasn't been shy about expressing that opinion.",
+    "zh": "来自加利福尼亚州的一些流言称，受欢迎的州长 Hiram 约翰逊对您最近的访问感到深深的冷落，并且他并不羞于表达这一观点。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1813@42/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1813@41/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your Party is more than willing to support this position, although the desires of the voters may be a different story.",
+    "zh": "你们的政党非常愿意支持这一立场，尽管选民的愿望可能有所不同。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1814@43/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1814@42/answer_feedback"
+    ]
+  },
+  {
+    "source": "There is definitely some sniping between yourself and Roosevelt, but you may also hold the more popular position.",
+    "zh": "你和罗斯福之间肯定存在一些狙击，但你也可能占据更受欢迎的位置。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1815@44/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1815@43/answer_feedback"
+    ]
+  },
+  {
+    "source": "Could this be the line of attack which propels you forward this fall?",
+    "zh": "这会是今年秋天推动你前进的进攻线吗？",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1816@45/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1816@44/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's nothing wrong with finding other issues to press forward on.",
+    "zh": "寻找其他问题来推进并没有什么错。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1817@46/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1817@45/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Adamson Act has deeply alarmed the business wing of the party, and they are not excited to see you on board with it.",
+    "zh": "亚当森法案深深地震惊了该党的商业部门，他们并不高兴看到你加入该法案。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1818@47/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1818@46/answer_feedback"
+    ]
+  },
+  {
+    "source": "In spite of anti-war sentiment elsewhere, most voters are deeply upset by the death of Americans at the hand of Pancho Villa.",
+    "zh": "尽管其他地方存在反战情绪，但大多数选民对美国人死于潘乔·维拉之手深感不安。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1819@48/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1819@47/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a conservative stance, but acceptable to the party.",
+    "zh": "这是保守立场，但为党所接受。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1820@49/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1820@48/answer_feedback"
+    ]
+  },
+  {
+    "source": "The tariff commission is supported by many moderates and businessmen.",
+    "zh": "关税委员会得到了许多温和派和商人的支持。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1821@50/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1821@49/answer_feedback"
+    ]
+  },
+  {
+    "source": "It might not be the worst thing to find some other avenue of attack.",
+    "zh": "找到其他攻击途径可能并不是最糟糕的事情。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1822@51/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1822@50/answer_feedback"
+    ]
+  },
+  {
+    "source": "This bill is broadly acceptable to progressives, and there are whispers that your campaign is rather more conservative than expected.",
+    "zh": "这项法案被进步人士广泛接受，并且有传言称您的竞选活动比预期更为保守。",
+    "keys": [
+      "1916_Hughes_Fairbanks/answer_feedback_json/1823@52/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1823@51/answer_feedback"
+    ]
+  },
+  {
+    "source": "What motivated you to support the candidacy of Elmer Haskett for Vice President, as strongly as you did?",
+    "zh": "是什么促使您如此强烈地支持埃尔默·哈斯克特竞选副总统？",
+    "keys": [
+      "1916_Hughes_Burkett/questions_json/679@3/description"
+    ]
+  },
+  {
+    "source": "Do you support the broader establishment of workers' compensation programs and laws, at the federal level?",
+    "zh": "您是否支持在联邦层面更广泛地制定工人赔偿计划和法律？",
+    "keys": [
+      "1916_Hughes_Burkett/questions_json/692@19/description"
+    ]
+  },
+  {
+    "source": "Do you have any statements to make about the Easter Rebellion which transpired earlier this year in Ireland?",
+    "zh": "对于今年早些时候在爱尔兰发生的复活节叛乱，您有什么要说的吗？",
+    "keys": [
+      "1916_Hughes_Burkett/questions_json/685@20/description"
+    ]
+  },
+  {
+    "source": "In this case, I desired to emphasize my commitment to reform, and to introduce new blood into the national office of Vice President.",
+    "zh": "在这种情况下，我想强调我对改革的承诺，并为国家副总统办公室引入新的血液。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4308@38/description"
+    ]
+  },
+  {
+    "source": "I believe that Burkett appeals to the voters of the West, and will help us win those states back to the Republican fold.",
+    "zh": "我相信伯克特对西方选民有吸引力，并将帮助我们赢得这些州回到共和党的怀抱。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4309@39/description"
+    ]
+  },
+  {
+    "source": "We should be calling on Great Britain to treat the perpetrators of this uprising with leniency, and to consider the relationship it has with Ireland.",
+    "zh": "我们应该呼吁英国宽大对待这场起义的肇事者，并考虑它与爱尔兰的关系。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4324@49/description"
+    ]
+  },
+  {
+    "source": "This isn't an issue that our campaign plans to address. It would be unwise to antagonize Great Britain at this crucial juncture.",
+    "zh": "这不是我们的活动计划解决的问题。在这个关键时刻与英国对抗是不明智的。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4325@50/description"
+    ]
+  },
+  {
+    "source": "The Irish uprising is a domestic issue of Great Britain and should not be the concern of any patriotic American.",
+    "zh": "爱尔兰起义是英国的国内问题，不应该是任何爱国的美国人关心的问题。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4326@51/description"
+    ]
+  },
+  {
+    "source": "I support a federal workers' compensation program which all dangerous industries would be required to participate in.",
+    "zh": "我支持联邦工人赔偿计划，所有危险行业都必须参与该计划。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4347@67/description"
+    ]
+  },
+  {
+    "source": "I do support the effort this year to establish workers' compensation for federal employees.",
+    "zh": "我确实支持今年为联邦雇员建立工人赔偿的努力。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4348@68/description"
+    ]
+  },
+  {
+    "source": "This is not a measure that I support.",
+    "zh": "这不是我支持的措施。",
+    "keys": [
+      "1916_Hughes_Burkett/answers_json/4349@69/description"
+    ]
+  },
+  {
+    "source": "Irish voters notice your unexpected strong support of their position -- as do others.",
+    "zh": "爱尔兰选民注意到您对他们立场的意外强烈支持——其他人也是如此。",
+    "keys": [
+      "1916_Hughes_Burkett/answer_feedback_json/1772@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "The Democratic machines, already skeptical of you, find no reassurance in your silence on the Irish question.",
+    "zh": "民主党机器已经对你产生了怀疑，但你在爱尔兰问题上的沉默并没有让他们感到安心。",
+    "keys": [
+      "1916_Hughes_Burkett/answer_feedback_json/1773@8/answer_feedback",
+      "1916_Hughes_Burkett/answer_feedback_json/1774@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "Observers are surprised at your sudden, warm feelings for the Irish.",
+    "zh": "观察家们对你突然对爱尔兰人产生的温暖感情感到惊讶。",
+    "keys": [
+      "1916_Hughes_Burkett/answer_feedback_json/1830@56/answer_feedback"
+    ]
+  },
+  {
+    "source": "Red-blooded Americans cheer your baiting of the Irish in this incident.",
+    "zh": "热血的美国人为你在这起事件中对爱尔兰人的诱饵欢呼。",
+    "keys": [
+      "1916_Hughes_Burkett/answer_feedback_json/1831@57/answer_feedback"
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-d",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 137,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 6,
+      "reason": "Flip-flopper political inconsistency, not footwear."
+    },
+    {
+      "index": 11,
+      "reason": "Arkansas child insinuation retained as candidate allegation; not certified biological parentage."
+    },
+    {
+      "index": 15,
+      "reason": "Original interrogative20judge list retained, no replacement with later campaign numbers."
+    },
+    {
+      "index": 17,
+      "reason": "Original below10percent claim retained as insulting candidate rhetoric, not actual verified primary vote accounting."
+    },
+    {
+      "index": 18,
+      "reason": "Original Bank of Switzerland unspecified; translated generic Swiss bank, not invented institution."
+    },
+    {
+      "index": 23,
+      "reason": "Child tax credit means tax credit not deduction or loan."
+    },
+    {
+      "index": 24,
+      "reason": "Social Security/Medicare distinguished from ACA and Medicaid."
+    },
+    {
+      "index": 40,
+      "reason": "Carrot denotes incentive, not literal vegetable or guaranteed support."
+    },
+    {
+      "index": 53,
+      "reason": "More legal rendered greater legal latitude in firearms, not numerical change or new mechanism."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "The questions surrounding the so-called \"Bridgegate\" scandal and New Jersey aren't going away, and today Chris Christie snapped at a reporter over the issue. Was his behavior appropriate?",
+      "sha256": "7890ff7251d95ba4279b1d0290927ac7a1c2bfa2bf4c1c076c1a9d8b88d1fe51",
+      "zh": "围绕新泽西州所谓“桥门”丑闻的疑问仍未平息，今天克里斯·克里斯蒂因这一问题对一名记者发了火。他的行为是否恰当？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1039@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "To what extent will you attack Hillary Clinton for the foreign donations she has taken for the Clinton Foundation, often from Middle Eastern sources. Or, also, for her paid speeches from Goldman Sachs?",
+      "sha256": "6fadc0f334b81773a88b2bcedfd4c6d5dcf1eace047b5dd506d3f8114c5312cb",
+      "zh": "对于希拉里为克林顿基金会接受外国捐款，尤其是来自中东的捐款，以及她收取高盛报酬发表演说，你会在多大程度上发动攻击？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1027@8/description",
+        "2016_Trump_Sessions/questions_json/1027@10/description",
+        "2016_Trump_Carson/questions_json/1027@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "What do you have to say to conservatives who doubt your commitment to their cause in this election? Do you have any gestures to make?",
+      "sha256": "f6fa682a6527b0b114f6f92e6844b05747ed668222d352c1e23e691064829b74",
+      "zh": "在这次选举中，有些保守派怀疑你是否真正支持他们的事业。你要对他们说些什么？你会作出什么表示？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1022@11/description",
+        "2016_Trump_Sessions/questions_json/1022@14/description",
+        "2016_Trump_Palin/questions_json/1022@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Do you plan to promise further tax cuts as you hit the campaign trail?",
+      "sha256": "9519a1c09a3e11f15c5ef58f3e6b02c66ca44392c047099de2c61e0f0089522e",
+      "zh": "在展开竞选时，你是否打算承诺进一步减税？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1029@14/description",
+        "2016_Trump_Sessions/questions_json/1029@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Just look at all the good work he did in New Jersey. This is a guy who knows how to lead, and who knows how to help us Make America Great Again.",
+      "sha256": "b42fc8a6c53d74cd8a6c77d256a9ac276fcc19b5daa99c6305fb6cf0d775259f",
+      "zh": "看看他在新泽西州干了多少好事。这个人懂得如何领导，也懂得如何帮助我们让美国再次伟大。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5009@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Christie showed that an agenda of fiscal responsibility and pragmatic, outsider solutions can win in so-called blue states. I know this might sound crazy to the liberal media, but I will win New Jersey in this election.",
+      "sha256": "77d8c71eef34fddf4252a7114544b8cb10588ccae5dd81c90b060a08f7a99ede",
+      "zh": "克里斯蒂证明，财政负责、务实的体制外解决办法，可以在所谓的蓝州获胜。我知道，自由派媒体也许会觉得这话疯狂，但我这次选举会赢下新泽西州。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5010@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "There's a terrific video out there -- have you seen it? It's just Hillary Clinton being on both sides of every issue for almost ten minutes. And remember when we thought John Kerry was a flip-flopper?",
+      "sha256": "27aa10c98b882477a8db7916db2a6286122e2a7102a38767f9446ca0405752c1",
+      "zh": "有一段很棒的视频——你看了吗？足足快十分钟，全是希拉里·克林顿在每个议题上两面下注。还记得我们曾经觉得约翰·克里反复无常吗？",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5044@25/description",
+        "2016_Trump_Sessions/answers_json/5044@33/description",
+        "2016_Trump_Palin/answers_json/5044@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "No matter what she says now, we know Hillary Clinton was a hawk on Iraq, she opposed gay marriage, she loved NAFTA and China, she was anti-illegal immigration, and much more. I don't know how her supporters can trust her.",
+      "sha256": "f1af6fc975ef95be7d7f61961b998016070d8950f908ab50a82995258b91bb69",
+      "zh": "不管她现在怎么说，我们都知道，希拉里·克林顿在伊拉克问题上是鹰派，反对过同性婚姻，热爱过《北美自由贸易协定》和中国，反对过非法移民，还有许多其他事。我不知道她的支持者怎么能信任她。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5045@26/description",
+        "2016_Trump_Sessions/answers_json/5045@34/description",
+        "2016_Trump_Palin/answers_json/5045@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "No matter what she says sometimes, we know Hillary Clinton is weak on national security, supports open borders, radical social change, and probably gun confiscation while we're at it. I don't know how the American people can trust her.",
+      "sha256": "8a012d4b3d8584cc82a5538829e234fb35caa3efb34cf9b1fb69d3fd77e228df",
+      "zh": "不管她有时怎么说，我们都知道，希拉里·克林顿在国家安全上软弱，支持开放边界、激进的社会变革，顺带说一句，大概还支持没收枪支。我不知道美国人民怎么能信任她。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5046@27/description",
+        "2016_Trump_Sessions/answers_json/5046@35/description",
+        "2016_Trump_Palin/answers_json/5046@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Let's keep the focus on illegal immigration, a strong military, tax cuts, and fixing Obamacare. We're going to Make America Great Again.",
+      "sha256": "126ff0a10c93382a212216eca2e75b76f82f07aebc0d628a2e5f3f2ac94bb28c",
+      "zh": "让我们继续聚焦非法移民、强大的军队、减税，以及修复奥巴马医改。我们要让美国再次伟大。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5047@28/description",
+        "2016_Trump_Sessions/answers_json/5047@36/description",
+        "2016_Trump_Palin/answers_json/5047@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "They say there's a war on women, but we now have reports that Bill Clinton is a rapist and women who are coming forward, and Hillary is right there trying to silence them.",
+      "sha256": "b4a94ab93129738e9fb4f9b889ae4876fff88759eba6659ad6404fe378abf0f7",
+      "zh": "他们说有人在向女性宣战，但现在有报道称，比尔·克林顿是个强奸犯，女性正在出面发声，而希拉里就在旁边试图让她们闭嘴。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5048@29/description",
+        "2016_Trump_Sessions/answers_json/5048@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Have you seen this kid in Arkansas? He looks just like Bill Clinton but there was probably a big cover-up there too.",
+      "sha256": "4da80a71b8a4ab04e8b1e047f66d513dd796d073c7285f6ada09a9dcddc5810d",
+      "zh": "你见过阿肯色州那个孩子吗？他长得跟比尔·克林顿一模一样，不过，这件事大概也遭到大规模掩盖了。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5049@30/description",
+        "2016_Trump_Sessions/answers_json/5049@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "All of the above? This election is a war for the soul of America. There's no attack that I won't make against the Clintons.",
+      "sha256": "8db92c0f95e919e5526fa5131d31da505be2fa4b0f11db683dab387a536d69c7",
+      "zh": "以上全部？这场选举是争夺美国灵魂的战争。对克林顿夫妇，我没有什么攻击是不敢发动的。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5050@31/description",
+        "2016_Trump_Sessions/answers_json/5050@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "I will relentlessly focus on the issues like our terrible trade deals, our decaying military, repealling and replacing the Obamacare disaster, and more.",
+      "sha256": "617c526d58a17e18f9d5cd58197d62d4006d8db5985f2c07e600d854e8e5d3cd",
+      "zh": "我要坚持不懈地聚焦那些议题：糟糕的贸易协议、日益衰败的军队，废除并取代奥巴马医改这场灾难，以及更多问题。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5051@32/description",
+        "2016_Trump_Sessions/answers_json/5051@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "I've been misrepresented a lot, you know. It's funny actually, I've always been a conservative person. A lot of people have known that from the start.",
+      "sha256": "b0d9076d336b22f97bf6ba5f8c1dec1185604e1937759fe6f0c4755bb07267c0",
+      "zh": "你知道，人们常常歪曲我。其实挺好笑的，我一直是个保守的人，很多人从一开始就知道。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5071@37/description",
+        "2016_Trump_Sessions/answers_json/5071@49/description",
+        "2016_Trump_Palin/answers_json/5071@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "There's a list of 20 federal judges that I will promise to make appointments from? If that will make Ted Cruz endorse me, it seems like a small price to pay.",
+      "sha256": "ce21df80f6f5d1877e2fae2f07ee91ab515ad1ca02f2eba9621ac69c3d08b3a8",
+      "zh": "有一份二十名联邦法官的名单，要我承诺从中提名人选？如果这样能让特德·克鲁兹背书支持我，那看来代价很小。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5072@38/description",
+        "2016_Trump_Sessions/answers_json/5072@50/description",
+        "2016_Trump_Palin/answers_json/5072@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "I think you've seen with my running mate that I take the Republican Party very seriously, and believe me, I want to see us win in November and prevent a complete disaster under Hillary Clinton.",
+      "sha256": "f8e90330478663c78cabece4fb9c74bccf387ee79eb6a0feae230de7489cfb1e",
+      "zh": "我想，从我的搭档人选就能看出，我非常认真地对待共和党。相信我，我想看到我们在十一月获胜，避免希拉里·克林顿执政带来的全面灾难。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5073@39/description",
+        "2016_Trump_Sessions/answers_json/5073@51/description",
+        "2016_Trump_Palin/answers_json/5073@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "It's pathetic how losers like Ted Cruz and Jeb Bush, these guys couldn't even get 10 percent of the vote, and now they're the judge and jury? Sad!",
+      "sha256": "625b8e1ac03f9acdfb6fbb27aeb67dd9aad24362b9cccb0d31a5f93c92484c00",
+      "zh": "特德·克鲁兹、杰布·布什这种失败者，连10%的票都拿不到，现在倒当起了法官和陪审团？真可悲！",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5074@40/description",
+        "2016_Trump_Sessions/answers_json/5074@52/description",
+        "2016_Trump_Palin/answers_json/5074@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "The Russians gave her $2 million. The Saudis, the Arabs, they gave her a lot. Millions from the Bank of Switzerland and Deutsche Bank. It's all about the charity, right?",
+      "sha256": "7e59e79c250aa1f05abf53fdf722d4c8047cfcb8ae2bdce8c083abed0df3a678",
+      "zh": "俄罗斯人给了她二百万美元。沙特人、阿拉伯人，给了她很多。瑞士银行和德意志银行也给了数百万。都是为了慈善，对吧？",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5090@52/description",
+        "2016_Trump_Sessions/answers_json/5090@60/description",
+        "2016_Trump_Carson/answers_json/5090@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "This whole situation with the Clinton Foundation really should be against the law. You have foreign governments giving this charity millions of dollars, and that's supposed to have no effect on her Presidency?",
+      "sha256": "634ddbfe9a129d469941ea79c8350cdad641d0488319fdedcb6b2a499a94d31c",
+      "zh": "克林顿基金会这整套做法，真该被认定为违法。外国政府向这个慈善机构捐赠数百万美元，难道就能说，这对她当总统毫无影响？",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5091@53/description",
+        "2016_Trump_Sessions/answers_json/5091@61/description",
+        "2016_Trump_Carson/answers_json/5091@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "If Hillary wants to go around claiming that we're corrupt somehow, I think there's more than enough ammunition here to fight back.",
+      "sha256": "3417cc06ca3fcc5f06302cafd5ffa80763a55314f5b38f231ebbdf6de157a8df",
+      "zh": "如果希拉里想四处宣称我们有什么腐败行为，我想这里有足够多的材料可以反击。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5092@54/description",
+        "2016_Trump_Sessions/answers_json/5092@62/description",
+        "2016_Trump_Carson/answers_json/5092@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "We're going to pass the greatest tax cut in history when I'm President, you can count on it. And we're going to fix the mess that Obama has left with this terrible economy.",
+      "sha256": "78fe33a431e2cd172dc513ea89254d583722d1f8f76f18da1d2f7e880105d79a",
+      "zh": "我当上总统后，我们要通过有史以来最大规模的减税，你尽管放心。我们还要收拾奥巴马在这个糟糕经济下留下的烂摊子。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5097@55/description",
+        "2016_Trump_Sessions/answers_json/5097@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "I want to see us pass a gigantic tax cut for the middle and the working class. That's really where the focus should be -- we've got to get everyday Americans spending again to make this country great.",
+      "sha256": "8509e73989e87ba42b2b5b2edb4ac256929e744d46c9736143b32327f1e8d466",
+      "zh": "我希望我们为中产阶级和工人阶级通过大规模减税。这才是我们真正该聚焦的——必须让普通美国人重新消费，让这个国家伟大起来。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5098@56/description",
+        "2016_Trump_Sessions/answers_json/5098@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "I really want us to look into increasing the child tax credit, in closing some loopholes for the banks on Wall Street, and so on. We have some good things there that will send the right message to the American people.",
+      "sha256": "bb3f1f717fc7900249415df5296db8fa078e8ebc2a74970c7aaf7babe1f6b524",
+      "zh": "我确实希望研究提高儿童税收抵免，堵住华尔街银行的一些漏洞，等等。这里有些不错的措施，可以向美国人民传达正确的信息。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5099@57/description",
+        "2016_Trump_Sessions/answers_json/5099@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I promised no cuts to Social Security and Medicare. And we're going to repeal and replace the Obamacare disaster. You should see how people cheer when I talk about that!",
+      "sha256": "2a81fb1ec6468d38ada3dfe9425c9a96b0237533ab746afe22f512ca3c7c723c",
+      "zh": "我承诺，不削减社会保障和老年医疗保险。我们还要废除并取代奥巴马医改这场灾难。你真该看看，每当我说起这个，大家欢呼成什么样！",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5100@58/description",
+        "2016_Trump_Sessions/answers_json/5100@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Chris Christie is a fighter. And we will never apologize for our efforts to fight for the American people, whether it's in New Jersey, Pennsylvania, Ohio, or many other terrific states across this wonderful, blessed nation.",
+      "sha256": "69fb14aa7300608c7b78dae213947e5ff37f0ac760151f94ce853e3aeef76f54",
+      "zh": "克里斯·克里斯蒂是个斗士。我们为美国人民奋斗，绝不会因此道歉，无论是在新泽西州、宾夕法尼亚州、俄亥俄州，还是这个伟大而蒙福的国家里其他许多出色的州。",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5130@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "The media loves to do this kind of thing. They gush all over this Republican or that Republican. Then once they are on the national stage, suddenly you have a totally phony story. Last time it was Mitt. Sad!",
+      "sha256": "def6063d2a56cf0ad5f17a8cca90a47224ac11dadc9374e472944b76edba05a5",
+      "zh": "媒体就喜欢干这种事。他们先对这个共和党人或那个共和党人大加吹捧，等这些人登上全国舞台，就突然冒出完全虚假的故事。上次轮到的是米特。真可悲！",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5131@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "This is something that we're going to look into very seriously. But how does this compare to Hillary Clinton taking over $10 million from Saudi Arabia for her so-called charitable foundation?",
+      "sha256": "91c9002aa11ae49e421f46e1da313ffd9f931b67e78eb1ff9aeea21e22dd4d1e",
+      "zh": "这件事我们会非常认真地调查。不过，跟希拉里·克林顿为她所谓的慈善基金会从沙特阿拉伯收下一千多万美元相比，又算什么？",
+      "keys": [
+        "2016_Trump_Christie/answers_json/5132@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "As someone with a long political career, this is a bit of a problem for Clinton.",
+      "sha256": "f8bbadde79408de5b5da94c75c7fcfaa05178d3b6ba7b39546ee71701735cc12",
+      "zh": "对于政治生涯漫长的克林顿来说，这有点麻烦。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2538@0/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2538@1/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2538@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "People note a bit of an attack from the left in these statements.",
+      "sha256": "5217968c1812988f426170cca7ff649556cb903e364d796d9788ff8b7d8a0b43",
+      "zh": "人们注意到，这些话多少带着从左翼角度发动攻击的意味。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2539@1/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2539@2/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2539@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Pundits note your emphasis on pragmatism, in constrast to the tone you set in the primaries.",
+      "sha256": "b97b81b61b54fbb5840a59a4a34e2e437e287aa9a375617fa9627f731753a543",
+      "zh": "评论人士注意到，你强调务实，与初选时的基调有所不同。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2509@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Pundits note your emphasis on moderation, in constrast to the tone you set in the primaries.",
+      "sha256": "97da089f8e2098dbb1a511c02a0d82473a48051e377436cda2d22d53f5378a10",
+      "zh": "评论人士注意到，你强调温和，与初选时的基调有所不同。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2510@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "This is music to your supporters' ears.",
+      "sha256": "00f1e95c5dafe632f71ff3232b5e1df4e2cc9b758d15c5ebef805c03e36bfc62",
+      "zh": "你的支持者听了会心花怒放。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2540@27/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2540@29/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2540@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Pundits accuse you of dragging this campaign into the gutter, but maybe that's the point?",
+      "sha256": "a12e909c3ad7071ed55d3e4d74019744f740b4c119292ec48cbb4d0134ed5dad",
+      "zh": "评论人士指责你把竞选拖进了污言秽语的泥潭，不过，也许这正是你的目的？",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2541@28/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2542@29/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2543@30/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2541@30/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2542@31/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2543@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "It's a good start at least…",
+      "sha256": "455451d7346a2c773f3e98e850f6b169c6c02c1ac43014246b3088cdcae34c27",
+      "zh": "至少是个不错的开头……",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2557@34/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2559@36/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2557@37/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2559@39/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2557@36/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2559@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Never Trumpers wince as Ted Cruz finally endorses you.",
+      "sha256": "8cf84b65c04ef05eae6b328cc2203d17c65bb84800a83038da5a149eae4ac246",
+      "zh": "特德·克鲁兹终于背书支持你，“绝不支持特朗普”阵营的人看得直皱眉。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2558@35/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2558@38/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2558@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "You continue to cast yourself as the outsider candidate, but are you doing enough to unify conservatives? Or does it matter?",
+      "sha256": "787982dbbfa585a04b746912ede454918411733ef53c449184b104ff3cfa4a18",
+      "zh": "你继续把自己描绘成体制外候选人，但在团结保守派方面，你做得够多吗？或者，这重要吗？",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2560@37/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2560@40/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2560@39/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Anytime you can mention Hillary Clinton and Goldman Sachs in the same sentence, it's a win for you.",
+      "sha256": "f408c3f11767c3957696d491f4bc4924a5a1d53baaaf311947a04e8afd2d50e8",
+      "zh": "只要能在同一句话里提到希拉里·克林顿和高盛，对你就是一次得分。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2575@49/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2575@48/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2575@41/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "There are legitimate concerns about the Clinton Foundation. Are your conflicts of interest any less concerning? This is the immediate counterattack from Dems.",
+      "sha256": "bf2facb19ef0d1a39ea2b48670074a8a3f0aa7843423da5e42a1e71950f6b147",
+      "zh": "人们对克林顿基金会确有合理的担忧。可你自己的利益冲突就不值得担忧吗？这便是民主党人的即时反击。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2576@50/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2576@49/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2576@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "There's no reason not to take an opportunity when you're given one.",
+      "sha256": "7e1aee5e7271ed27642676681f2b74f992d6b33e30a0ed030ad7f92363d51810",
+      "zh": "机会送上门，没有理由不抓住。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2577@51/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2577@50/answer_feedback",
+        "2016_Trump_Carson/answer_feedback_json/2577@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Big tax cuts for the rich are not always popular politically, but they are a definite carrot for establishment Republicans to support your campaign.",
+      "sha256": "8e2bb9de2aca69be91cf3782b2f5a629fcf885a7a4fbae88b98ca5b9c683356a",
+      "zh": "为富人提供大规模减税，在政治上并不总受欢迎，但确实能作为诱因，争取建制派共和党人支持你的竞选。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2581@52/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2581@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Tax cuts for the middle class are always popular.",
+      "sha256": "8c491defea8d605907d63ea4713fc374edc0d03d83072edc0f1078479bde8f43",
+      "zh": "给中产阶级减税总是受欢迎的。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2582@53/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2582@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "For better or worse, people are definitely calling you a new kind of Republican.",
+      "sha256": "3662eb717218a957e49089c5aaf2d892b22cd70ceb4fb611cbef3539786bbf9b",
+      "zh": "不管是好是坏，人们确实正在把你称为一种新型共和党人。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2583@54/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2583@56/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Pundits note that tax cuts have not been a big part of your stump speeches, whatever the implications may be.",
+      "sha256": "0040293b94a4c8b82c386e5e103a77ac03b7b81b5ea987ec32aa42b8b467d2db",
+      "zh": "评论人士注意到，不论这意味着什么，减税在你的巡回竞选演说里并没有占太大比重。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2584@55/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2584@57/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "After a few days on the front pages, this story begins to take a back seat again.",
+      "sha256": "8344122cc858ad5d2445c547dc3aa8f9eeb4fd2c99239b0fbbce392ddd18d991",
+      "zh": "在头版待了几天后，这条新闻又逐渐退居次要位置。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2614@80/answer_feedback",
+        "2016_Trump_Christie/answer_feedback_json/2615@81/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "You are your usual, pugnacious self today.",
+      "sha256": "09389f9ba6fcf24d8331e5bdc82b3aaaafce27ca9a7049710000c0d941c15985",
+      "zh": "你今天还是一贯好斗的样子。",
+      "keys": [
+        "2016_Trump_Christie/answer_feedback_json/2616@82/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "What was your rationale behind selecting Jeff Sessions as your running mate?",
+      "sha256": "6aa426f981ae04b75cd256990877811a103bdd065b1e1cbfee2a1ce698557201",
+      "zh": "你选择杰夫·塞申斯作为竞选搭档的理由是什么？",
+      "keys": [
+        "2016_Trump_Sessions/questions_json/1002@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Jeff Sessions has been there fighting with us from the beginning. And it's about loyalty. This is someone who's a tremendously loyal person who's gonna help us get a lot of terrific things accomplished.",
+      "sha256": "863279f82d244ceb3e2917b322b6f8bd8296dd6cfaf20841eda7740c5ff52fb0",
+      "zh": "杰夫·塞申斯从一开始就跟我们并肩奋斗。这讲究的是忠诚。这个人极其忠诚，会帮助我们完成许多了不起的事。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5005@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Jeff Sessions has been one of the most conservative, patriotic members of the Senate for the last two decades, fighting to fix our broken immigration system, the deficit issue, and defending our wonderful police.",
+      "sha256": "aa8a9594d739aaef007bd8232dbd19f35bc097bc502b717c8595a1048e3777d0",
+      "zh": "过去二十年，杰夫·塞申斯一直是参议院最保守、最爱国的议员之一，努力修复我们破败的移民制度，解决赤字问题，并捍卫我们出色的警察。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5006@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "The FBI really covered for Crooked Hillary on this one. We will be asking, \"Where's the indictment?\" every day in my speeches, and on social media.",
+      "sha256": "1e98673d8e0f4f2445ed255bcb7caa2562d0be66a64a8cb5e318411a68c478f7",
+      "zh": "联邦调查局这回真是包庇了“骗子希拉里”。我会每天在演说和社交媒体上追问：“起诉书在哪里？”",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5036@25/description",
+        "2016_Trump_Palin/answers_json/5036@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Hillary Clinton continues to say that I'm unqualified to serve as President, so what was going on her brain when she installed this server?",
+      "sha256": "f23f23d3d0974e25d7a6a00bec02a9cd237a94ab0091ec4bc3c41c0c807806a9",
+      "zh": "希拉里·克林顿一直说我没有资格当总统。那她装这台服务器时，脑子里到底在想什么？",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5037@26/description",
+        "2016_Trump_Palin/answers_json/5037@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "With adversaries out there like China, Iran, Russia, North Korea, and others -- there are even people just doing weird things in their basement sometimes. She really should have been more careful.",
+      "sha256": "9eff994e0c6ce46726da6e150ab1311d3972282e6415276c938514a871745970",
+      "zh": "外面有中国、伊朗、俄罗斯、朝鲜等对手——有时候，甚至只是些在自家地下室里乱搞的人。她确实应该更谨慎。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5038@27/description",
+        "2016_Trump_Palin/answers_json/5038@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "There are plenty of other issues like radical Islamic terrorism, our terrible trade deals, and many others that I want to focus on in this campaign.",
+      "sha256": "4a9d7851c368186ce20fe6adf6a767f18303779203e3d2e1b6cfccfc7357fa07",
+      "zh": "在这场竞选中，我还想聚焦许多其他议题，比如激进伊斯兰恐怖主义、糟糕的贸易协议，等等。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5039@28/description",
+        "2016_Trump_Palin/answers_json/5039@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "We're going to be incredibly strong on the Second Amendment. If you look at Hillary, she's very obviously someone who hates guns. And I mean, I'm just talking about the facts here. But we're going to make guns even more legal.",
+      "sha256": "abfb671a4e76a01835521d0e5d75b9901656e75d224fe6fe07de3b49393f0103",
+      "zh": "我们会极其坚定地支持第二修正案。看看希拉里，她显然讨厌枪支。我的意思是，我只是在讲事实。但我们要进一步放宽枪支的合法使用。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5093@63/description",
+        "2016_Trump_Palin/answers_json/5093@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "We're going to be incredibly pro-Second Amendment. And it's definitely a factor I'll consider as we're making appointments, you know, with judges and so on.",
+      "sha256": "6ac79886943451b510772d30d2627e792c3c9658ca1bd8433b08aeb0a9374f28",
+      "zh": "我们会极其坚定地支持第二修正案。在任命法官等人选时，你知道，这肯定是我要考虑的因素之一。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5094@64/description",
+        "2016_Trump_Palin/answers_json/5094@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "I've seen some of the catastrophes we've had, and maybe something like a better background check system could help, within reason you know.",
+      "sha256": "8f64f364d6e8660525066afae30e2fce27f1daf781d7ac902f68946c1a4af9ab",
+      "zh": "我看到过我们经历的一些灾难，也许完善背景审查制度这类措施，能在合理范围内有所帮助，你知道的。",
+      "keys": [
+        "2016_Trump_Sessions/answers_json/5096@66/description",
+        "2016_Trump_Palin/answers_json/5096@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "There's nothing wrong with calling out a little personal loyalty.",
+      "sha256": "4471f370c3b81d5c2b80b76b84e7e686d8c003e0ad0834515c86081c8f25ca0b",
+      "zh": "强调一点个人忠诚没有什么不对。",
+      "keys": [
+        "2016_Trump_Sessions/answer_feedback_json/2505@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "People note your emphasis of Sessions's strong conservative credentials.",
+      "sha256": "bbafbbd4abc7640a0bb7bcdc9d64941290bbf272e15cba354b92698595865fa9",
+      "zh": "人们注意到，你强调了塞申斯坚定的保守派资历。",
+      "keys": [
+        "2016_Trump_Sessions/answer_feedback_json/2506@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "You are sounding like a true Republican on the Second Amendment.",
+      "sha256": "63b447d9e4c8f7e6882bc67636fbac3d8982217e790124562788982a3b9246a0",
+      "zh": "在第二修正案问题上，你听起来像个真正的共和党人。",
+      "keys": [
+        "2016_Trump_Sessions/answer_feedback_json/2578@51/answer_feedback",
+        "2016_Trump_Sessions/answer_feedback_json/2579@52/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2578@54/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2579@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "People notice, for better or worse, that you aren't a typical Republican when it comes to guns.",
+      "sha256": "b73f908930870ddc9e8d054b426218874f680112819c3c1310cf37fd459dcad2",
+      "zh": "不管是好是坏，人们都注意到，在枪支问题上，你不是典型的共和党人。",
+      "keys": [
+        "2016_Trump_Sessions/answer_feedback_json/2580@53/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2580@56/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

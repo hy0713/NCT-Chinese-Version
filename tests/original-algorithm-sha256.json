@@ -1,0 +1,21 @@
+{
+  "commit": "d6655ef6ad80ab9a8fe5510d0fd43874e57dacbf",
+  "functions": {
+    "dHondtAllocation": "f3c6a1d3c0dc799d5b4516ab86877a030dc202f7a91fa1d2f8315e1faf893439",
+    "F": "aa12f76dc508d07468b8a28144bfcf63544dd56d5288b7d9a67e147cfa59b6fe",
+    "divideElectoralVotesProp": "0bb9faa6a40d4cb33ae4a651b538b961abb25cc9c280b920553f2520e96244c4",
+    "A": "e2d3130b1ab7b194c18bb5335e3f6c5b5dc3b2661a8b58f2dd674985aa9b4aa1",
+    "S": "38c757a74b3f41d7d6196109f8ab98a94bce40deb894f0e1c788dddcecb16efc",
+    "E": "3ce43dd23dad112a8a58817ac7835a4b3e877b2eec0f2d87c354386c87481d2d",
+    "M": "f62c057d9a146e56f76f901831ebf1e7ba68b38b7e071ecfdbc97f0e68e4ac18"
+  },
+  "embedded": {
+    "campaign_trail.js": [],
+    "indexCode.js": [
+      "1d685ed0c4c9027ac3cef051e0b202cb3a074b0d0fec2b72defcb019cdd4b2c1",
+      "9bf390a0bc4cf35953348c9a4684be835005ca7ad291903c2a67a84169385685",
+      "3e4cec1ca0ef5a04d31d8b0cd59f3858d18528a1917973d11159ef9ff2ba3dff"
+    ]
+  },
+  "staff": "d228009c21e69384f0631706a556abf9a873cd4ddf3906057f1ec8f21b383639"
+}

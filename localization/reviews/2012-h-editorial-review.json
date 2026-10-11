@@ -1,0 +1,721 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-h",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 78,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 7,
+      "reason": "Treasuries are US government debt securities, not buildings of Treasury departments."
+    },
+    {
+      "index": 19,
+      "reason": "Jan20 2009 inauguration partisan charge preserved, not all Tea Party voters independently verified as former deficit supporters."
+    },
+    {
+      "index": 29,
+      "reason": "2013 Brown Senate retention is fictional prediction; do not rewrite with actual election winner."
+    },
+    {
+      "index": 34,
+      "reason": "Original2008 speech year retained; primary Romney Faith in America speech Dec6 2007 needs note, not silent English correction."
+    },
+    {
+      "index": 40,
+      "reason": "Original60% Pell recipients and36b retained, not independently certified denominator or academic-year amounts."
+    },
+    {
+      "index": 50,
+      "reason": "Original no federal collective bargaining assertion retained, not certified universal ban; law differentiates negotiation and strikes."
+    },
+    {
+      "index": 55,
+      "reason": "Original secondary education means middle/high education, not postsecondary college. Do not fix supposed intended term without note."
+    },
+    {
+      "index": 59,
+      "reason": "Original Massachusetts human-capital/illness argument preserved as stance, not independent medical/economic assessment."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "I'm very skeptical of the idea that we can trust oil companies to look out for the interests of the little guy. There should be greater regulations to preserve the safety of our water supply.",
+      "sha256": "271242323dc9f111a4e59e914fb701369854216b82d0dd70c6e39178cd40f58d",
+      "zh": "我很怀疑，能否相信石油公司会照顾普通人的利益。应该加强监管，保障我们的供水安全。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/50@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "It would be irresponsible of me to speculate on this practice without a thorough understanding of the facts. One of the first things I will do after the election is to establish a bipartisan commission to fully investigate this issue, and to present its recommendations.",
+      "sha256": "75f93de94db6376307fe36480e711e8363c94ab193dff1d9c0174372b4b71337",
+      "zh": "不充分了解事实，就对这种做法作推测，是不负责任的。选举后，我首先会做的事情之一，就是设立两党委员会，全面调查这个问题，并提出建议。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/51@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "This is a generational shift in the world energy game in the favor of the United States. There are plenty of regulations in place to protect our drinking water, and we simply cannot afford to miss out on the benefits of shale oil.",
+      "sha256": "6ef7ca5c08e255918907758917b76f30f3b6aeecf88de760c9992237deaaa9d2",
+      "zh": "这是世界能源格局中对美国有利的一次时代性转变。保护饮用水的法规已经很多，我们绝不能错失页岩油带来的益处。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/52@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "I support a bailout of the European Union if necessary. Waiting until this debt contagion causes a double-dip recession in the U.S. is not an option.",
+      "sha256": "f24290b10eea859b5944b343490942a4dc0be7df5f0c868fc69caf704c0e6ab2",
+      "zh": "必要时，我支持救助欧盟。我们不能等到债务危机蔓延、导致美国经济二次衰退再行动。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/61@12/description",
+        "2012_Romney_Rubio/answers_json/61@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "I trust that the European Union will find a way to resolve this issue.",
+      "sha256": "3d51c137c99fdc22d8bb1485893e5101616d8d1ccd0e642ed95478e5baf1a469",
+      "zh": "我相信，欧盟会找到解决这个问题的办法。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/62@13/description",
+        "2012_Romney_Rubio/answers_json/62@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "We need to focus on getting our own house in order, or we will soon find ourselves in their condition.",
+      "sha256": "f5805164533b1c6bc07b101bec2aa0d059a3fdf128a9af4a2e49cfa4c19cdd2e",
+      "zh": "我们需要先把自己的事情处理好，否则很快也会落到他们那样的处境。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/63@14/description",
+        "2012_Romney_Rubio/answers_json/63@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "There's no way that the United States should be shipping money overseas to support a European-model welfare state. That would be the height of lunacy.",
+      "sha256": "a241772aac4468fcb79a59b7ed0a2124e74aa30a21f577fd171edb29b19d305b",
+      "zh": "美国绝不应该把钱送到海外，去维持欧洲式福利国家。那简直荒唐到了极点。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/64@15/description",
+        "2012_Romney_Rubio/answers_json/64@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "I'm not very satisfied at all. Off the record, however, we cannot change much without risking a Chinese flight from our Treasuries and a possible trade war.",
+      "sha256": "a385514a1b6f55ed37a1e6842cc4c721ec21d03c8ed24c7582b4734c47380bd6",
+      "zh": "我一点也不满意。不过，私下说，要是改变太多，就可能让中国抛售我国国债，也可能引发贸易战。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/102@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "This relationship has its pros and cons. China should be doing more to live up to their end of our trade agreements, and they must stop manipulating their currency.",
+      "sha256": "3c21d8acca5eb05a255decbeb3c7092cf89e9b5e0e86ac3391de7c58506e1ba7",
+      "zh": "这段关系有利有弊。中国应该更努力履行贸易协定中自己的义务，也必须停止操纵汇率。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/103@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "This should be a model for other trade agreements as the developing world continues to seek the benefits of globalization.",
+      "sha256": "ed600522954da8bc40b6836871d3c7963aac7cdd0e972bc982b721c5c013acc7",
+      "zh": "随着发展中国家继续寻求全球化的益处，这应当成为其他贸易协定的范本。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/104@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "We're just now asking this question? The federal government has been bloated for decades.",
+      "sha256": "d784184cb845486575c577e35f2d322a2b963f0cfb41285fb7ce5b4f7a1420e7",
+      "zh": "我们现在才问这个问题？联邦政府已经臃肿了几十年。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/183@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Yes it is. One of the biggest obstacles to private sector capital investment is the size and debt of the federal government. The current stagnation in the economy is evidence of this fact.",
+      "sha256": "871f8108be01d8d2552829f71564b03f1591c0a70ad9787e842eb6360f282e9d",
+      "zh": "没错。联邦政府的规模及其债务，是私营部门资本投资的最大障碍之一。当前经济停滞，就是这件事的证据。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/184@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "It is not a good idea to cut the size of the government in the midst of a recession. Shrinking payrolls at the state level have served to drag down our most recent recovery.",
+      "sha256": "0ff1c11035252c2a40271e31d9a5b57f78d50fd5095cda8bfa0967b668a5a216",
+      "zh": "在衰退中缩减政府规模，不是好主意。州政府雇员减少，已经拖累了最近这轮复苏。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/185@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Absolutely not. If anything, we should be increasing the size of government right now to fight the stagnant economy. Had the size of the initial Stimulus Act in 2009 been sufficient, for instance, we wouldn't be having these problems now.",
+      "sha256": "371a79df9118517c5d9762c37fdcc071384bdaa2301d0e14b26c1c03e8d86bae",
+      "zh": "绝对不是时候。恰恰相反，我们现在应该扩大政府规模，应对经济停滞。比如，要是2009年最初的经济刺激法案规模足够大，我们现在就不会遇到这些问题。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/186@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Have we forgotten what the early 1980s were like in Miami? I won't stand for appeasing foreign drug cartels.",
+      "sha256": "e09e6959c4a60336cfe354215c047afae79c9b11b54e306cf23ff0f5dc2ccdf9",
+      "zh": "我们忘了1980年代初的迈阿密是什么样了吗？我绝不容忍姑息外国贩毒集团。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/193@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Perhaps there is a role for this, but our primary focus should be on targeting the cartels overseas and on providing military and economic support to any government that will assist us in that endeavor.",
+      "sha256": "8274ac7eb824bcde599b9af9587a8796af7223b7af48cda22c0d5720d59de385",
+      "zh": "这也许有一定作用，但我们的首要重点应该是打击海外贩毒集团，并为愿意帮助我们的政府提供军事与经济支持。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/194@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "That solution is so obvious that it's a shame it hasn't been implemented yet. Without a market for drugs in the United States, there would be no cartels.",
+      "sha256": "a311dfa11a0dc0ac7155f956ac04b237d9476840160f390b79930aa56b974610",
+      "zh": "这个解决办法显而易见，却还没有实施，实在可惜。如果美国没有毒品市场，也就不会有贩毒集团。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/195@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "The Tea Party is a positive, invigorating force in American politics. They are drawing badly needed attention to our government deficits.",
+      "sha256": "6b064a56551fac839e7809e15013250b14b554d9f3ea8ccdae90b50221b945ec",
+      "zh": "茶党是美国政治中积极、振奋人心的力量。他们让政府赤字受到亟须的关注。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/221@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Conservatives operate under the \"big tent\" philosophy. This is just one of many valued groups within the conservative umbrella.",
+      "sha256": "64df6f77eb8869822114b51600b6069968927cef55df1bd1b724ca277207fb58",
+      "zh": "保守派奉行广纳各方的理念。这只是保守派阵营中许多受重视的团体之一。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/222@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "A funny thing happened on January 20, 2009 -- millions of people who supported Bush's deficits suddenly flip-flopped into budget hawks. This group is obviously just a political front for the far right wing of the Republican Party.",
+      "sha256": "0f91da234608ff3e655f0fe310286983dbd7e67e6f5e58157c5833b318bd8931",
+      "zh": "2009年1月20日，发生了一件有趣的事：数百万曾支持布什赤字的人，突然摇身一变，成了预算鹰派。这个团体显然只是共和党极右翼的政治门面。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/223@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "I am deeply pro-life. The taking of life should never be legal under any circumstances.",
+      "sha256": "9774a5e8268e82bad5a68483c4c153c685ece2db949c23068353733c14142f90",
+      "zh": "我坚决反对堕胎。在任何情况下，剥夺生命都不应该合法。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/356@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "We have to be realistic. I am pro-life in most cases, but we also need exceptions for cases of rape and incest. I do agree, however, that taxpayers should never be forced to finance this practice.",
+      "sha256": "8899022d2004cdae720ca1d2080b7e7cfc0cbc7834815864b63b98f240902da3",
+      "zh": "我们必须现实一点。我在多数情况下反对堕胎，但也需要为强奸和乱伦的情况设立例外。不过，我确实赞同，绝不应该强迫纳税人为堕胎提供资金。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/357@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "I'm a proud moderate on the abortion issue.",
+      "sha256": "c7451508f3240783afeec75637535586de3817936f3eaa2de5f1a7cd4474473f",
+      "zh": "在堕胎问题上，我是一名自豪的温和派。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/358@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "We should be focusing on more important issues, such as educating the next generation of American children to compete effectively in the global economy. This incessant focus on picayune facets of the abortion debate detracts from the political conversation.",
+      "sha256": "e450c84722e7091f9483de3c46660338aff327af4f0a6debba4183eb915f3d3d",
+      "zh": "我们应该聚焦更重要的问题，比如教育下一代美国儿童，让他们能够在全球经济中有效竞争。没完没了地盯着堕胎争论中的琐碎细节，会偏离政治讨论的重点。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/359@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "It's too early to say who exactly will be included in my Cabinet when I win this election. In all cases I will nominate the most qualified individual.",
+      "sha256": "9c8181293fa10f3a8266cb63ad2d8dd8977e3afaf18df0955109bc6387abb3b6",
+      "zh": "现在就说我赢得选举后具体会让谁进入内阁，还为时过早。任何情况下，我都会提名最有资格的人。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/372@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "I can't say who exactly will be in the Cabinet, but I'm not opposed to having Democrats in my Administration.",
+      "sha256": "270e93c8578d33cf414d879cd1cac2b37637caffd5b74254eb1398d0562a9a41",
+      "zh": "我无法具体说谁会进内阁，但不反对在我的政府中任用民主党人。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/373@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Hillary Clinton has done an outstanding job as Secretary of State. I would be glad to have her on board for my Administration.",
+      "sha256": "fce3c8a619d3287a8792cd020180f2f60858e8760d03a0935d4211c465c67817",
+      "zh": "希拉里·克林顿作为国务卿表现出色。我很乐意让她加入我的政府。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/374@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "Sometimes if you feel strongly about something, you have to back that up with a little cash. $10,000 is nothing for someone who's as wealthy as I am.",
+      "sha256": "aa1c0070726655ca694161f1404b845d25f352b15a25e46a2f679cd59a428f4b",
+      "zh": "有时，如果你坚信某件事，就得拿点钱来支持自己的话。对我这么富有的人来说，1万美元不算什么。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/377@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Absolutely not. I wouldn't think of making a bet this large.",
+      "sha256": "c428cf99d27a9eee9f900c87d29de52bf873c0a5febc675033b47bfda67f50cd",
+      "zh": "绝对没有。我不会考虑下这么大的赌注。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/378@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "We like Scott right where he is -- in the U.S. Senate. I'm confident that's where he'll be in 2013 as well.",
+      "sha256": "e6363e769f5c8454e72c99b0334adc9eafeb8a2b462dbe3e24afbbb93b0e4f29",
+      "zh": "我们希望斯科特留在现在的位置，也就是美国参议院。我相信，2013年他也会在那里。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/379@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "I've known Scott Brown for many years. If that was something he'd be interested in, we are always glad to have qualified individuals working on our side.",
+      "sha256": "09d7f7fff7cc45878b7d13a4952a7cd03113001918f1a4ede9d9130fa50218b9",
+      "zh": "我认识斯科特·布朗很多年了。如果他有兴趣，我们始终欢迎有能力的人到我们这边工作。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/380@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "I'm not sure about that to be honest. Scott Brown is a bit moderate for the kind of Republican I envision having in my cabinet. We'd rather have staunch, reliable conservatives on the team.",
+      "sha256": "a41769d76a22ee9c124995fba69a1fdf1403b3ad7e029c0a71e492ce21574492",
+      "zh": "说实话，我不太确定。斯科特·布朗有点太温和，不太符合我心目中共和党内阁成员的样子。我们更希望团队里都是坚定、可靠的保守派。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/381@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "The Mormon Church has been the guiding force of my life. It's only natural for me to discuss this influence in my campaign speeches.",
+      "sha256": "5ba9b651a5b480dbcdb51228d05065897b416cb63c298dafdcb7fcbc0688b3c4",
+      "zh": "摩门教会一直指引着我的人生。我在竞选演说中谈论它的影响，再自然不过。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/402@82/description",
+        "2012_Romney_Rubio/answers_json/402@87/description",
+        "2012_Romney_Pawlenty/answers_json/402@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "On occasion it makes sense to bring this up. Over the years I have helped out many in need through the Mormon Church, both with my time and through charity. We should make sure the American people know this about me.",
+      "sha256": "67d47bd8c220fff635b6c9d179c880da3e64c3ef42e3d4b1e2f22747649ee0a8",
+      "zh": "偶尔提起这个，有道理。多年来，我通过摩门教会帮助了许多有需要的人，既投入时间，也提供善款。我们应该让美国人民了解这一点。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/403@83/description",
+        "2012_Romney_Rubio/answers_json/403@88/description",
+        "2012_Romney_Pawlenty/answers_json/403@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "I already made one speech that was entirely devoted to this issue back in 2008. Bringing it up more often runs the risk of distracting the American people from the most important issues of this campaign.",
+      "sha256": "5481053a66bb6ca3a31eb7c1b9459f79bdcaea16ae4d177e46cdc17b0af54c33",
+      "zh": "早在2008年，我就作过一场完全专门谈这个问题的演说。更频繁地提起它，可能会让美国人民忽略这次竞选最重要的议题。",
+      "keys": [
+        "2012_Romney_Portman/answers_json/404@84/description",
+        "2012_Romney_Rubio/answers_json/404@89/description",
+        "2012_Romney_Pawlenty/answers_json/404@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Environmentalist groups are dismayed at your response. It will be hard to generate enthusiasm this fall.",
+      "sha256": "d8ca72308c9de499d30073027190e92d31194eec9471bb2f8c0f1b4828f1fb90",
+      "zh": "环保团体对你的回答感到失望。今年秋天，很难调动他们的热情。",
+      "keys": [
+        "2012_Romney_Portman/answer_feedback_json/371@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Bailing out the E.U. is an extremely unpopular position with the American public. Your answer will be in the center of a media firestorm for the next week.",
+      "sha256": "378782f3c9b1eb68bdf726347041fb3feb74330dd846433f2f54e2a05fd95e25",
+      "zh": "救助欧盟在美国公众中极不受欢迎。未来一周，你的回答将成为媒体风暴的中心。",
+      "keys": [
+        "2012_Romney_Portman/answer_feedback_json/374@5/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/433@25/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/374@6/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/433@32/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Slow down Mitt... you can't just antagonize a key part of your electoral coalition like that.",
+      "sha256": "38853bffb812e03a0033000347f09407f2f36558f9917db9a5a3936f45e7dc7c",
+      "zh": "慢着，米特……你不能就这样得罪选举联盟中的关键一部分人。",
+      "keys": [
+        "2012_Romney_Portman/answer_feedback_json/430@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Don't criticize the Tea Party, that's a hopeless debate to get yourself entangled into.",
+      "sha256": "f87bc4dffe0a0dbaebc9740576e18e788efea1278aa22ce74663a7d41c354444",
+      "zh": "别批评茶党。把自己卷进那场争论，毫无胜算。",
+      "keys": [
+        "2012_Romney_Portman/answer_feedback_json/470@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Would you consider military action in Syria if the impasse between Bashar Assad and the rebels there continues?",
+      "sha256": "576979f9899aca14ced2aa150c8979fcdd96ddad912feedbc15c810edbbc13fd",
+      "zh": "如果巴沙尔·阿萨德与叙利亚反对派之间的僵局持续，你会考虑在叙利亚采取军事行动吗？",
+      "keys": [
+        "2012_Romney_Rubio/questions_json/80@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "The most recent data (for 2010) on Pell Grants indicate that 60% of all college students receive one. In that same year, the program cost $36 billion. What changes, if any, would you recommend to this program?",
+      "sha256": "f8db92a14013612bd816f2bba13f457b37f4a5f02f6fecd8a2bcb6286d7c3739",
+      "zh": "关于佩尔助学金的最新数据，也就是2010年的数据，显示60%的大学生都领取了这项资助。同年，这项计划花费了360亿美元。你会建议怎样调整这项计划，还是维持原样？",
+      "keys": [
+        "2012_Romney_Rubio/questions_json/72@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "In November 2011, Ohio voters rejected a law to limit collective bargaining power for public unions. Do public sector unions such as teachers' and police unions have too much bargaining power?",
+      "sha256": "ea453373b4a7c269c3ed2b45cc9a56cb978c52b5c8a789d65343282703d0eac9",
+      "zh": "2011年11月，俄亥俄州选民否决了一项限制公共部门工会集体谈判权的法律。教师和警察工会等公共部门工会，是否拥有过多的谈判权？",
+      "keys": [
+        "2012_Romney_Rubio/questions_json/15@13/description",
+        "2012_Romney_Pawlenty/questions_json/15@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "How does your insurance plan in Massachusetts differ from Obamacare?",
+      "sha256": "2299150a62aee6453af16c0706e62fff84b7dec96984168c2d8b01d7d97c3b8b",
+      "zh": "你在马萨诸塞州推行的医疗保险计划，与奥巴马医改有什么不同？",
+      "keys": [
+        "2012_Romney_Rubio/questions_json/112@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Some observers have argued that an embargo of Cuba makes little sense in a post Cold War environment. What do you think?",
+      "sha256": "512ba9a2fcde671ea455f997ca29644e656204b29684d2773fe5b2a19825a754",
+      "zh": "一些观察者认为，在冷战后的环境下，对古巴实施禁运没什么道理。你怎么看？",
+      "keys": [
+        "2012_Romney_Rubio/questions_json/2@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "I absolutely agree. The embargo against Cuba is a disgrace.",
+      "sha256": "67a6f43ada7d2fe76256243f8ad89b14c0374357bec8c2e93639dd9b62d1d5cc",
+      "zh": "我完全赞同。对古巴的禁运是耻辱。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/5@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "I dislike Fidel Castro as much as anyone. We should keep the embargo but also look for other ways to democratize that country.",
+      "sha256": "7b948e647135f2e064985f0fc0dcb1f2e14b94ae23651ef60c33d55e27648b94",
+      "zh": "我和任何人一样不喜欢菲德尔·卡斯特罗。我们应该维持禁运，但也寻找其他办法，推动该国民主化。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/6@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Current policy against Cuba, while obviously not perfect, is on the right track and we should continue it.",
+      "sha256": "d3ea268191e0b3e86b2d22e92655957e6449ff918f67b1b94b7356c4df3936d9",
+      "zh": "目前针对古巴的政策显然并不完美，但方向正确，应该继续。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/7@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Are you suggesting that after fifty years of putting pressure on the Communist regime, when we're now so close to restoring democracy to that island, that we suddenly give up and let Castro win?",
+      "sha256": "4200d4ba5fb58ec3ddf59a5f12c6193dfe9404b33888197cbff8c0c3402f5b78",
+      "zh": "你的意思是，对共产主义政权施压五十年后，在我们如此接近恢复这个岛国的民主之际，突然放弃，让卡斯特罗获胜？",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/8@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Unions have been eviscerated by decades of outsourcing. Public unions are a necessary bulwark of the middle class and should have every right to bargain for fair wages and benefits.",
+      "sha256": "6cce263a7322020b2c71d0908d7c6a6837869f3ed7552767ac8a9964961d5569",
+      "zh": "几十年的外包，让工会遭受重创。公共部门工会是中产阶级不可缺少的堡垒，完全应该有权争取公平的工资与福利。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/57@12/description",
+        "2012_Romney_Pawlenty/answers_json/57@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "I support the hardworking teachers and firefighters of Ohio and elsewhere.",
+      "sha256": "725dc6ac4a694d4369af77cf8bf440e9ba35a2fc6ffb1978c0034817b5e482c7",
+      "zh": "我支持俄亥俄州及其他地方辛勤工作的教师和消防员。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/58@13/description",
+        "2012_Romney_Pawlenty/answers_json/58@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "That's an issue for the states to decide. You know, the federal government does not support collective bargaining for its employees, so it's not appropriate for me to comment on a state matter.",
+      "sha256": "bb8e0c3d0ca24bce9e02b705464e37590fe3dd348a29135be8161f55d85d4aa1",
+      "zh": "这是由各州决定的问题。你知道，联邦政府也不支持自己的雇员进行集体谈判，所以我不适合评论一个州的问题。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/59@14/description",
+        "2012_Romney_Pawlenty/answers_json/59@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "Collective bargaining in the public sector is one of the primary contributors to our exploding state deficits, which must eventually be subsidized by the federal government. I agree that the practice should end.",
+      "sha256": "ba588750eeccd4e456eb8956cbe4ed0216ad7c2ee829c45cf1f29f57cd63717b",
+      "zh": "公共部门集体谈判，是州政府赤字急剧膨胀的主要原因之一，而这些赤字最终必须由联邦政府补贴。我赞同，应该结束这种做法。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/60@15/description",
+        "2012_Romney_Pawlenty/answers_json/60@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Pell Grants and government aid serve to inflate the cost of college by a commensurate amount. This program does not benefit students in any way and serves as a boondoggle for administrators.",
+      "sha256": "15741b98da2174f05b26878d03a52f9892a72503e94fdf4f108db632d9fa5e8b",
+      "zh": "佩尔助学金和政府资助，只会让大学费用相应上涨。这项计划丝毫没有让学生受益，反而成了学校管理者浪费公帑的项目。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/258@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "These programs should only aid the truly needy. It seems like the criteria is a little loose to me.",
+      "sha256": "18233318d99d501635d80bf745ae4d06b280e9f5a10c5e6b763a5c1e56b4782f",
+      "zh": "这些计划应该只帮助真正有需要的人。我觉得，资格标准有点宽松。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/259@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Students are the future of this country and they need all the help they can get to make it through college, especially considering how much tuition has been increased over the past few years.",
+      "sha256": "5fe6365ac56b0e219bae3bc5e0ab98b2c5ce6c57d60a882d734107a73bac1e32",
+      "zh": "学生是国家的未来，他们需要尽可能多的帮助，才能读完大学；尤其考虑到过去几年学费涨了那么多。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/260@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "In Europe, secondary education is publicly funded. I'm just pointing that out...",
+      "sha256": "ed7bc69aecced06be22dbc8eb9568dd3367e913b33646c6ad5915eb2e584af86",
+      "zh": "在欧洲，中等教育由公共资金资助。我只是指出这一点……",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/261@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "I'm not sure if we should commit our troops to additional combat theatres at the present time. We shouldn't be attempting to navigate Syrian politics.",
+      "sha256": "5b879aa68c1a464fdaf1860febb33429903cb16d7926de5a8646deaadc543817",
+      "zh": "我不确定，我们现在是否应该把军队投入更多战场。我们不该试图左右叙利亚政治。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/286@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "It's something we should keep on the table. The entire idea of our intervention in Iraq was to unleash a wave of democratic movements in the Middle East. Hopefully Syria qualifies as such.",
+      "sha256": "2619b2194fe281c577dbb6f28d0310dcb3d07e12ba34eecc4122195b94cb0982",
+      "zh": "我们应该保留这个选项。我们干预伊拉克的整个理念，就是在中东掀起民主运动的浪潮。希望叙利亚也能算其中一例。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/287@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "I will do what is necessary to preserve freedom and human rights in Syria. It's impossible to say whether that means committing the U.S. military or not at this point.",
+      "sha256": "7a3a1274497732bc96b3d126bb108def024e208ab3ffdf031006863abcdb5fd5",
+      "zh": "为了维护叙利亚的自由与人权，我会采取必要行动。目前还无法说，这是否意味着动用美军。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/288@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "My plan was effective for Massachusetts because that state has better human capital. The United States as a whole has too much obesity, diabetes, and chronic illness to make collective insurance viable.",
+      "sha256": "ddfb068d746045b8f78f034d4c844c05340880887818c2735a7b00d860350714",
+      "zh": "我的计划在马萨诸塞州有效，是因为该州的人力资本质量更好。美国整体的肥胖、糖尿病和慢性病太多，集体投保无法维持。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/387@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

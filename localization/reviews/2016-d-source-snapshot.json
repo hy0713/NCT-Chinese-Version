@@ -1,0 +1,499 @@
+[
+  {
+    "source": "The questions surrounding the so-called \"Bridgegate\" scandal and New Jersey aren't going away, and today Chris Christie snapped at a reporter over the issue. Was his behavior appropriate?",
+    "zh": "围绕所谓的“Bridgegate”丑闻和新泽西州的问题并没有消失，今天克里斯·克里斯蒂就这个问题向一名记者厉声斥责。他的行为合适吗？",
+    "keys": [
+      "2016_Trump_Christie/questions_json/1039@7/description"
+    ]
+  },
+  {
+    "source": "To what extent will you attack Hillary Clinton for the foreign donations she has taken for the Clinton Foundation, often from Middle Eastern sources. Or, also, for her paid speeches from Goldman Sachs?",
+    "zh": "你会在多大程度上攻击希拉里·克林顿，因为她为克林顿基金会接受外国捐款，这些捐款通常来自中东。或者，还有她在高盛的付费演讲？",
+    "keys": [
+      "2016_Trump_Christie/questions_json/1027@8/description",
+      "2016_Trump_Sessions/questions_json/1027@10/description",
+      "2016_Trump_Carson/questions_json/1027@12/description"
+    ]
+  },
+  {
+    "source": "What do you have to say to conservatives who doubt your commitment to their cause in this election? Do you have any gestures to make?",
+    "zh": "对于怀疑您在这次选举中对其事业的承诺的保守派，您有什么话要说的？你有什么手势可以做吗？",
+    "keys": [
+      "2016_Trump_Christie/questions_json/1022@11/description",
+      "2016_Trump_Sessions/questions_json/1022@14/description",
+      "2016_Trump_Palin/questions_json/1022@9/description"
+    ]
+  },
+  {
+    "source": "Do you plan to promise further tax cuts as you hit the campaign trail?",
+    "zh": "您是否计划在竞选期间承诺进一步减税？",
+    "keys": [
+      "2016_Trump_Christie/questions_json/1029@14/description",
+      "2016_Trump_Sessions/questions_json/1029@8/description"
+    ]
+  },
+  {
+    "source": "Just look at all the good work he did in New Jersey. This is a guy who knows how to lead, and who knows how to help us Make America Great Again.",
+    "zh": "只要看看他在新泽西州中所做的所有出色工作即可。这是一个知道如何领导、知道如何帮助我们的人让美国再次伟大。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5009@3/description"
+    ]
+  },
+  {
+    "source": "Christie showed that an agenda of fiscal responsibility and pragmatic, outsider solutions can win in so-called blue states. I know this might sound crazy to the liberal media, but I will win New Jersey in this election.",
+    "zh": "克里斯蒂表明财政责任议程和务实的局外人解决方案可以在所谓的蓝州获胜。我知道这对自由派媒体来说可能听起来很疯狂，但我将在这次选举中赢得新泽西州。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5010@4/description"
+    ]
+  },
+  {
+    "source": "There's a terrific video out there -- have you seen it? It's just Hillary Clinton being on both sides of every issue for almost ten minutes. And remember when we thought John Kerry was a flip-flopper?",
+    "zh": "有一个很棒的视频 - 你看过吗？只是希拉里·克林顿在每个问题上都处于正反双方近十分钟的时间。还记得当我们认为约翰·克里是一个触发器吗？",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5044@25/description",
+      "2016_Trump_Sessions/answers_json/5044@33/description",
+      "2016_Trump_Palin/answers_json/5044@33/description"
+    ]
+  },
+  {
+    "source": "No matter what she says now, we know Hillary Clinton was a hawk on Iraq, she opposed gay marriage, she loved NAFTA and China, she was anti-illegal immigration, and much more. I don't know how her supporters can trust her.",
+    "zh": "无论她现在说什么，我们都知道希拉里·克林顿在伊拉克问题上是鹰派，她反对同性婚姻，她热爱北美自由贸易协定和中国，她反对非法移民，等等。我不知道她的支持者如何信任她。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5045@26/description",
+      "2016_Trump_Sessions/answers_json/5045@34/description",
+      "2016_Trump_Palin/answers_json/5045@34/description"
+    ]
+  },
+  {
+    "source": "No matter what she says sometimes, we know Hillary Clinton is weak on national security, supports open borders, radical social change, and probably gun confiscation while we're at it. I don't know how the American people can trust her.",
+    "zh": "无论她有时说什么，我们都知道希拉里·克林顿在国家安全方面很薄弱，支持开放边界、激进的社会变革，而且可能还支持没收枪支。我不知道美国人民如何信任她。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5046@27/description",
+      "2016_Trump_Sessions/answers_json/5046@35/description",
+      "2016_Trump_Palin/answers_json/5046@35/description"
+    ]
+  },
+  {
+    "source": "Let's keep the focus on illegal immigration, a strong military, tax cuts, and fixing Obamacare. We're going to Make America Great Again.",
+    "zh": "让我们继续关注非法移民、强大的军队、减税和修复奥巴马医改。我们要去让美国再次伟大。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5047@28/description",
+      "2016_Trump_Sessions/answers_json/5047@36/description",
+      "2016_Trump_Palin/answers_json/5047@36/description"
+    ]
+  },
+  {
+    "source": "They say there's a war on women, but we now have reports that Bill Clinton is a rapist and women who are coming forward, and Hillary is right there trying to silence them.",
+    "zh": "他们说这是一场针对女性的战争，但我们现在有报道称比尔·克林顿是一名强奸犯，而且一些女性挺身而出，而希拉里就在那里试图让她们保持沉默。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5048@29/description",
+      "2016_Trump_Sessions/answers_json/5048@37/description"
+    ]
+  },
+  {
+    "source": "Have you seen this kid in Arkansas? He looks just like Bill Clinton but there was probably a big cover-up there too.",
+    "zh": "你在阿肯色州中见过这个孩子吗？他看起来就像比尔·克林顿，但那里可能也有很大的掩盖。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5049@30/description",
+      "2016_Trump_Sessions/answers_json/5049@38/description"
+    ]
+  },
+  {
+    "source": "All of the above? This election is a war for the soul of America. There's no attack that I won't make against the Clintons.",
+    "zh": "以上都是吗？这次选举是一场关乎美国灵魂的战争。我不会对克林顿夫妇进行任何攻击。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5050@31/description",
+      "2016_Trump_Sessions/answers_json/5050@39/description"
+    ]
+  },
+  {
+    "source": "I will relentlessly focus on the issues like our terrible trade deals, our decaying military, repealling and replacing the Obamacare disaster, and more.",
+    "zh": "我将坚持不懈地关注诸如我们糟糕的贸易协议、我们衰败的军队、废除和取代奥巴马医改灾难等问题。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5051@32/description",
+      "2016_Trump_Sessions/answers_json/5051@40/description"
+    ]
+  },
+  {
+    "source": "I've been misrepresented a lot, you know. It's funny actually, I've always been a conservative person. A lot of people have known that from the start.",
+    "zh": "你知道，我被很多人误解了。有趣的是，其实我一直是一个保守的人。很多人从一开始就知道这一点。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5071@37/description",
+      "2016_Trump_Sessions/answers_json/5071@49/description",
+      "2016_Trump_Palin/answers_json/5071@45/description"
+    ]
+  },
+  {
+    "source": "There's a list of 20 federal judges that I will promise to make appointments from? If that will make Ted Cruz endorse me, it seems like a small price to pay.",
+    "zh": "有一份 20 名联邦法官的名单，我承诺从中进行任命？如果这能让特德·克鲁兹支持我，这似乎是一个很小的代价。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5072@38/description",
+      "2016_Trump_Sessions/answers_json/5072@50/description",
+      "2016_Trump_Palin/answers_json/5072@46/description"
+    ]
+  },
+  {
+    "source": "I think you've seen with my running mate that I take the Republican Party very seriously, and believe me, I want to see us win in November and prevent a complete disaster under Hillary Clinton.",
+    "zh": "我想你已经和我的竞选搭档一起看到我非常认真地对待共和党，相信我，我希望看到我们在 11 月获胜并防止在希拉里·克林顿下发生彻底的灾难。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5073@39/description",
+      "2016_Trump_Sessions/answers_json/5073@51/description",
+      "2016_Trump_Palin/answers_json/5073@47/description"
+    ]
+  },
+  {
+    "source": "It's pathetic how losers like Ted Cruz and Jeb Bush, these guys couldn't even get 10 percent of the vote, and now they're the judge and jury? Sad!",
+    "zh": "可悲的是，像特德·克鲁兹和杰布布什这样的失败者，这些家伙连10%的选票都拿不到，现在却成了法官和陪审团？伤心！",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5074@40/description",
+      "2016_Trump_Sessions/answers_json/5074@52/description",
+      "2016_Trump_Palin/answers_json/5074@48/description"
+    ]
+  },
+  {
+    "source": "The Russians gave her $2 million. The Saudis, the Arabs, they gave her a lot. Millions from the Bank of Switzerland and Deutsche Bank. It's all about the charity, right?",
+    "zh": "俄罗斯人给了她 200 万美元。沙特人、阿拉伯人，他们给了她很多。来自瑞士银行和德意志银行的数百万美元。一切都是为了慈善事业，对吗？",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5090@52/description",
+      "2016_Trump_Sessions/answers_json/5090@60/description",
+      "2016_Trump_Carson/answers_json/5090@48/description"
+    ]
+  },
+  {
+    "source": "This whole situation with the Clinton Foundation really should be against the law. You have foreign governments giving this charity millions of dollars, and that's supposed to have no effect on her Presidency?",
+    "zh": "克林顿基金会的整个情况确实应该违法。外国政府向这个慈善机构捐赠了数百万美元，这对她的总统任期应该没有影响吗？",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5091@53/description",
+      "2016_Trump_Sessions/answers_json/5091@61/description",
+      "2016_Trump_Carson/answers_json/5091@49/description"
+    ]
+  },
+  {
+    "source": "If Hillary wants to go around claiming that we're corrupt somehow, I think there's more than enough ammunition here to fight back.",
+    "zh": "如果希拉里想到处声称我们腐败，我认为这里有足够的弹药来反击。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5092@54/description",
+      "2016_Trump_Sessions/answers_json/5092@62/description",
+      "2016_Trump_Carson/answers_json/5092@50/description"
+    ]
+  },
+  {
+    "source": "We're going to pass the greatest tax cut in history when I'm President, you can count on it. And we're going to fix the mess that Obama has left with this terrible economy.",
+    "zh": "当我担任总统时，我们将通过历史上最大规模的减税措施，你可以放心。我们将解决奥巴马给糟糕的经济带来的混乱。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5097@55/description",
+      "2016_Trump_Sessions/answers_json/5097@67/description"
+    ]
+  },
+  {
+    "source": "I want to see us pass a gigantic tax cut for the middle and the working class. That's really where the focus should be -- we've got to get everyday Americans spending again to make this country great.",
+    "zh": "我希望看到我们通过针对中产阶级和工人阶级的大规模减税。这确实是重点所在——我们必须让美国人再次消费，让这个国家变得伟大。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5098@56/description",
+      "2016_Trump_Sessions/answers_json/5098@68/description"
+    ]
+  },
+  {
+    "source": "I really want us to look into increasing the child tax credit, in closing some loopholes for the banks on Wall Street, and so on. We have some good things there that will send the right message to the American people.",
+    "zh": "我真的希望我们考虑增加儿童税收抵免，堵住银行在华尔街上的一些漏洞，等等。我们在那里有一些好的东西，可以向美国人民传达正确的信息。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5099@57/description",
+      "2016_Trump_Sessions/answers_json/5099@69/description"
+    ]
+  },
+  {
+    "source": "I promised no cuts to Social Security and Medicare. And we're going to repeal and replace the Obamacare disaster. You should see how people cheer when I talk about that!",
+    "zh": "我承诺不会削减社会保障和联邦医疗保险。我们将废除并取代奥巴马医改灾难。你应该看看当我谈论这个时人们是多么欢呼！",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5100@58/description",
+      "2016_Trump_Sessions/answers_json/5100@70/description"
+    ]
+  },
+  {
+    "source": "Chris Christie is a fighter. And we will never apologize for our efforts to fight for the American people, whether it's in New Jersey, Pennsylvania, Ohio, or many other terrific states across this wonderful, blessed nation.",
+    "zh": "克里斯·克里斯蒂是一名战士。我们永远不会为我们为美国人民而战的努力道歉，无论是在新泽西州、宾夕法尼亚州、俄亥俄州，还是在这个美好、幸福的国家的许多其他了不起的州。",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5130@83/description"
+    ]
+  },
+  {
+    "source": "The media loves to do this kind of thing. They gush all over this Republican or that Republican. Then once they are on the national stage, suddenly you have a totally phony story. Last time it was Mitt. Sad!",
+    "zh": "媒体喜欢做这种事情。他们滔滔不绝地谈论这个共和党或那个共和党。然后，一旦他们登上国家舞台，你就会突然看到一个完全虚假的故事。上次是米特。伤心！",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5131@84/description"
+    ]
+  },
+  {
+    "source": "This is something that we're going to look into very seriously. But how does this compare to Hillary Clinton taking over $10 million from Saudi Arabia for her so-called charitable foundation?",
+    "zh": "这是我们将非常认真研究的事情。但这与希拉里·克林顿从沙特阿拉伯接收 1000 万美元用于其所谓的慈善基金会相比如何呢？",
+    "keys": [
+      "2016_Trump_Christie/answers_json/5132@85/description"
+    ]
+  },
+  {
+    "source": "As someone with a long political career, this is a bit of a problem for Clinton.",
+    "zh": "作为一个有着长期政治生涯的人，这对克林顿来说是一个问题。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2538@0/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2538@1/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2538@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "People note a bit of an attack from the left in these statements.",
+    "zh": "人们注意到这些声明中有一些来自左派的攻击。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2539@1/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2539@2/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2539@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pundits note your emphasis on pragmatism, in constrast to the tone you set in the primaries.",
+    "zh": "专家们注意到您对实用主义的强调，这与您在初选中设定的基调形成鲜明对比。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2509@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pundits note your emphasis on moderation, in constrast to the tone you set in the primaries.",
+    "zh": "专家们注意到您强调适度，这与您在初选中设定的基调形成鲜明对比。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2510@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is music to your supporters' ears.",
+    "zh": "这对你的支持者来说是美妙的音乐。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2540@27/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2540@29/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2540@29/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pundits accuse you of dragging this campaign into the gutter, but maybe that's the point?",
+    "zh": "专家指责你把这场竞选活动拖入了阴沟，但也许这就是重点？",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2541@28/answer_feedback",
+      "2016_Trump_Christie/answer_feedback_json/2542@29/answer_feedback",
+      "2016_Trump_Christie/answer_feedback_json/2543@30/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2541@30/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2542@31/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2543@32/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's a good start at least…",
+    "zh": "至少这是一个好的开始......",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2557@34/answer_feedback",
+      "2016_Trump_Christie/answer_feedback_json/2559@36/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2557@37/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2559@39/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2557@36/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2559@38/answer_feedback"
+    ]
+  },
+  {
+    "source": "Never Trumpers wince as Ted Cruz finally endorses you.",
+    "zh": "特朗普派永远不会畏缩，因为特德·克鲁兹最终支持你。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2558@35/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2558@38/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2558@37/answer_feedback"
+    ]
+  },
+  {
+    "source": "You continue to cast yourself as the outsider candidate, but are you doing enough to unify conservatives? Or does it matter?",
+    "zh": "您继续将自己塑造为局外人候选人，但您在团结保守派方面做得足够吗？或者这有关系吗？",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2560@37/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2560@40/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2560@39/answer_feedback"
+    ]
+  },
+  {
+    "source": "Anytime you can mention Hillary Clinton and Goldman Sachs in the same sentence, it's a win for you.",
+    "zh": "任何时候你能在同一句话中提及希拉里·克林顿和高盛，这对你来说都是一场胜利。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2575@49/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2575@48/answer_feedback",
+      "2016_Trump_Carson/answer_feedback_json/2575@41/answer_feedback"
+    ]
+  },
+  {
+    "source": "There are legitimate concerns about the Clinton Foundation. Are your conflicts of interest any less concerning? This is the immediate counterattack from Dems.",
+    "zh": "对克林顿基金会存在合理的担忧。您的利益冲突是否不再那么令人担忧？这是民主党立即反击。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2576@50/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2576@49/answer_feedback",
+      "2016_Trump_Carson/answer_feedback_json/2576@42/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's no reason not to take an opportunity when you're given one.",
+    "zh": "当你有机会时，没有理由不抓住机会。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2577@51/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2577@50/answer_feedback",
+      "2016_Trump_Carson/answer_feedback_json/2577@43/answer_feedback"
+    ]
+  },
+  {
+    "source": "Big tax cuts for the rich are not always popular politically, but they are a definite carrot for establishment Republicans to support your campaign.",
+    "zh": "对富人的大幅减税在政治上并不总是受欢迎，但它们绝对是共和党建制派支持你的竞选活动的胡萝卜。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2581@52/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2581@54/answer_feedback"
+    ]
+  },
+  {
+    "source": "Tax cuts for the middle class are always popular.",
+    "zh": "中产阶级减税一直很受欢迎。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2582@53/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2582@55/answer_feedback"
+    ]
+  },
+  {
+    "source": "For better or worse, people are definitely calling you a new kind of Republican.",
+    "zh": "不论好坏，大家确实开始称你为一种全新的共和党人。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2583@54/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2583@56/answer_feedback"
+    ]
+  },
+  {
+    "source": "Pundits note that tax cuts have not been a big part of your stump speeches, whatever the implications may be.",
+    "zh": "专家指出，无论其含义如何，减税并不是您的巡回演讲的重要组成部分。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2584@55/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2584@57/answer_feedback"
+    ]
+  },
+  {
+    "source": "After a few days on the front pages, this story begins to take a back seat again.",
+    "zh": "在头版上出现几天后，这个故事又开始退居二线。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2614@80/answer_feedback",
+      "2016_Trump_Christie/answer_feedback_json/2615@81/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are your usual, pugnacious self today.",
+    "zh": "今天的你还是平常好斗的你。",
+    "keys": [
+      "2016_Trump_Christie/answer_feedback_json/2616@82/answer_feedback"
+    ]
+  },
+  {
+    "source": "What was your rationale behind selecting Jeff Sessions as your running mate?",
+    "zh": "您选择杰夫·塞申斯作为竞选搭档的理由是什么？",
+    "keys": [
+      "2016_Trump_Sessions/questions_json/1002@3/description"
+    ]
+  },
+  {
+    "source": "Jeff Sessions has been there fighting with us from the beginning. And it's about loyalty. This is someone who's a tremendously loyal person who's gonna help us get a lot of terrific things accomplished.",
+    "zh": "杰夫·塞申斯从一开始就和我们一起战斗。这与忠诚有关。这是一个非常忠诚的人，他会帮助我们完成很多了不起的事情。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5005@3/description"
+    ]
+  },
+  {
+    "source": "Jeff Sessions has been one of the most conservative, patriotic members of the Senate for the last two decades, fighting to fix our broken immigration system, the deficit issue, and defending our wonderful police.",
+    "zh": "杰夫·塞申斯是过去二十年来最保守、最爱国的参议院议员之一，为解决我们破碎的移民制度、赤字问题而奋斗，并捍卫我们优秀的警察。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5006@4/description"
+    ]
+  },
+  {
+    "source": "The FBI really covered for Crooked Hillary on this one. We will be asking, \"Where's the indictment?\" every day in my speeches, and on social media.",
+    "zh": "联邦调查局在这件事上确实为狡猾的希拉里提供了掩护。我们会问：“起诉书在哪里？”每天在我的演讲和社交媒体上。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5036@25/description",
+      "2016_Trump_Palin/answers_json/5036@25/description"
+    ]
+  },
+  {
+    "source": "Hillary Clinton continues to say that I'm unqualified to serve as President, so what was going on her brain when she installed this server?",
+    "zh": "希拉里·克林顿继续说我没有资格担任总统，那么她安装这个服务器时脑子里在想什么？",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5037@26/description",
+      "2016_Trump_Palin/answers_json/5037@26/description"
+    ]
+  },
+  {
+    "source": "With adversaries out there like China, Iran, Russia, North Korea, and others -- there are even people just doing weird things in their basement sometimes. She really should have been more careful.",
+    "zh": "对于中国、伊朗、俄罗斯、朝鲜等国家的对手，甚至有人有时只是在地下室做奇怪的事情。她确实应该更加小心一点。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5038@27/description",
+      "2016_Trump_Palin/answers_json/5038@27/description"
+    ]
+  },
+  {
+    "source": "There are plenty of other issues like radical Islamic terrorism, our terrible trade deals, and many others that I want to focus on in this campaign.",
+    "zh": "还有很多其他问题，例如激进的伊斯兰恐怖主义、我们糟糕的贸易协议，以及我想在这次竞选中关注的许多其他问题。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5039@28/description",
+      "2016_Trump_Palin/answers_json/5039@28/description"
+    ]
+  },
+  {
+    "source": "We're going to be incredibly strong on the Second Amendment. If you look at Hillary, she's very obviously someone who hates guns. And I mean, I'm just talking about the facts here. But we're going to make guns even more legal.",
+    "zh": "我们将在第二修正案上表现得异常强大。如果你看看希拉里，你会发现她显然是一个讨厌枪支的人。我的意思是，我只是在这里谈论事实。但我们将使枪支更加合法。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5093@63/description",
+      "2016_Trump_Palin/answers_json/5093@64/description"
+    ]
+  },
+  {
+    "source": "We're going to be incredibly pro-Second Amendment. And it's definitely a factor I'll consider as we're making appointments, you know, with judges and so on.",
+    "zh": "我们将非常支持第二修正案。当我们与法官等进行任命时，这绝对是我会考虑的一个因素。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5094@64/description",
+      "2016_Trump_Palin/answers_json/5094@65/description"
+    ]
+  },
+  {
+    "source": "I've seen some of the catastrophes we've had, and maybe something like a better background check system could help, within reason you know.",
+    "zh": "我已经看到了我们所经历的一些灾难，也许更好的背景调查系统之类的东西可以有所帮助，在你知道的合理范围内。",
+    "keys": [
+      "2016_Trump_Sessions/answers_json/5096@66/description",
+      "2016_Trump_Palin/answers_json/5096@67/description"
+    ]
+  },
+  {
+    "source": "There's nothing wrong with calling out a little personal loyalty.",
+    "zh": "表达一点个人忠诚并没有什么错。",
+    "keys": [
+      "2016_Trump_Sessions/answer_feedback_json/2505@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "People note your emphasis of Sessions's strong conservative credentials.",
+    "zh": "人们注意到您对塞申斯强烈保守派资历的强调。",
+    "keys": [
+      "2016_Trump_Sessions/answer_feedback_json/2506@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are sounding like a true Republican on the Second Amendment.",
+    "zh": "对于第二修正案，你听起来像是一个真正的共和党人。",
+    "keys": [
+      "2016_Trump_Sessions/answer_feedback_json/2578@51/answer_feedback",
+      "2016_Trump_Sessions/answer_feedback_json/2579@52/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2578@54/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2579@55/answer_feedback"
+    ]
+  },
+  {
+    "source": "People notice, for better or worse, that you aren't a typical Republican when it comes to guns.",
+    "zh": "人们注意到，无论好坏，在枪支问题上你都不是典型的共和党人。",
+    "keys": [
+      "2016_Trump_Sessions/answer_feedback_json/2580@53/answer_feedback",
+      "2016_Trump_Palin/answer_feedback_json/2580@56/answer_feedback"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-09",
+  "research": "2000-RESEARCH_PENDING_ZH.md",
+  "sourceExceptions": [
+    {"index":12,"reason":"Contested state means competitive election state, not legally disputed ballots."},
+    {"index":14,"reason":"Claim of betrayal and shallow left victory is original Nader rhetoric, not translator editorial judgment."},
+    {"index":23,"reason":"Corporatist read in original candidate's corporate-interest criticism, not an unsupported fascist institutional claim."},
+    {"index":33,"reason":"Original twenty-thousand rally count retained as simulation feedback, not independently certified for a specific rally."}
+  ]
+}

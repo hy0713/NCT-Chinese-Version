@@ -1,0 +1,819 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2016a-e",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 172,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 10,
+      "reason": "Original scripted New York August trial date not independently certified real procedural chronology."
+    },
+    {
+      "index": 16,
+      "reason": "Bomb the oil interpreted contextually as oil infrastructure; no additional strike targets or mechanics changed."
+    },
+    {
+      "index": 27,
+      "reason": "FBI recommendation is scripted hypothetical, not actual2016 indictment finding."
+    },
+    {
+      "index": 34,
+      "reason": "Equivocation allegation preserved as candidate attack, not translator misconduct finding."
+    },
+    {
+      "index": 46,
+      "reason": "Original selectable defamatory characterization retained explicitly as candidate proposed speech, not proven rape conviction. Corrupted quotes recovered in Chinese only."
+    },
+    {
+      "index": 49,
+      "reason": "Original over things read as other things."
+    },
+    {
+      "index": 51,
+      "reason": "Broken quotation characters restored in Chinese only; indictment means criminal charge, not conviction."
+    },
+    {
+      "index": 52,
+      "reason": "Original going on her brain missing in repaired in Chinese only."
+    },
+    {
+      "index": 55,
+      "reason": "Original going on her brain missing in repaired in Chinese only."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "People are wondering what you were thinking when you said this.",
+      "sha256": "68452c941c88e403162947ba0cb27843afa4dc4bf68d9908a5c1b01797dafe55",
+      "zh": "大家都在想，你说这话时到底是怎么想的。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2037@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "The continued escalation of violence at Trump's rallies can only benefit you.",
+      "sha256": "4d99a872b16844173134356def1eaf6de94a4aa4ef443233395ee25d3dca1bfe",
+      "zh": "特朗普集会上的暴力持续升级，只会让你获益。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2047@20/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2048@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "This is a safe, moderate answer.",
+      "sha256": "5b7f9df696c685eda1e9f5bc2f9e9f5ee480229cdd133446a75198a2bf03c8cf",
+      "zh": "这是稳妥、温和的回答。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2076@40/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "This seems like a shocking rebuke of Obama, and like a needlessly hawkish statement for the current political environment.",
+      "sha256": "9ff9fef1d3cdbf94b23777841bd059637ff873d1bf08b0a9a637e18bd543b8d2",
+      "zh": "这像是在猛烈斥责奥巴马；在当前政治环境下，也显得鹰派得没有必要。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2095@41/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2095@38/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Trump will be hitting you pretty hard on your Iraq vote. The best you can do is muddle the conversation and move along to his weaknesses.",
+      "sha256": "c2956436cc2c098cf9a6c467fe1d83373730f5968df1bd0e6fbe915d31a95069",
+      "zh": "特朗普会抓住你的伊拉克战争投票狠狠攻击。你能做的，最好就是把讨论搅乱，再转向他的弱点。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2109@47/answer_feedback",
+        "2016a_Clinton_Warren/answer_feedback_json/2110@48/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2109@50/answer_feedback",
+        "2016a_Clinton_Brown/answer_feedback_json/2110@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Unfortunately, you've been calling this investigation spurious and politically-motivated for so long, that it's a little hard to square with an apology now.",
+      "sha256": "0ad7e587d11e16cf84c22f9cd5da5b77ad58743875c600591ce4e856837c20e3",
+      "zh": "遗憾的是，你把这项调查说成虚假、出于政治动机，已经说了那么久；现在道歉，多少有点难以自圆其说。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2113@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "What else can you say at this point? At least it seems like they won't be going after you personally, but this can't help with your favorability ratings.",
+      "sha256": "7403e6050e05d03fbe95b8e97fb975b45e6aab5ba1317f4b8918c3df1f4afed3",
+      "zh": "到了这个时候，你还能说什么？至少看来他们不会追究你本人，但这对公众好感度可没有帮助。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2114@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Your standard plank, confirming your hard line position on immigration.",
+      "sha256": "e0815c614edb33368f7b9d09cee338018d0ac52dd8cd9c3f2a33f0e16e497602",
+      "zh": "这是你的常规政纲，再次确认了你在移民问题上的强硬立场。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2184@60/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2184@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Supporters and opponents both notice the subtle change of tone about immigration.",
+      "sha256": "62677548752984f1dbc57beb7b1591381c5128adf84a445fe14fd787ef59da92",
+      "zh": "支持者和对手都注意到，你谈移民时的语气有了微妙变化。",
+      "keys": [
+        "2016a_Clinton_Warren/answer_feedback_json/2185@61/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2185@50/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "What was your rationale behind selecting Sherrod Brown as your running mate?",
+      "sha256": "df422c9a8425d9705c60fdba990097d00be856dd23843464a612dc2115ad61ba",
+      "zh": "你选择谢罗德·布朗作为竞选搭档，理由是什么？",
+      "keys": [
+        "2016_Clinton_Brown/questions_json/1050@4/description",
+        "2016a_Clinton_Brown/questions_json/807@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "In a hearing today, a New York judge has set the trial date for the Trump University lawsuit to August of this year. Do you have any comment?",
+      "sha256": "d976247095a398f07c5993573feee3f184cbeeee1a24fef4cb62723502b49353",
+      "zh": "在今天的听证中，一名纽约法官将特朗普大学诉讼的审判日期定在了今年八月。你有何评论？",
+      "keys": [
+        "2016a_Clinton_Brown/questions_json/812@4/description",
+        "2016a_Trump_Christie/questions_json/784@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "What actions would you take in Syria to help stabilize the situation there, and to combat ISIS?",
+      "sha256": "e3eea4cb82686f98c1ceeb829d901621690ee43594e490b3d9fbfd588c9d54ac",
+      "zh": "你会在叙利亚采取哪些行动，以稳定当地局势、打击“伊斯兰国”？",
+      "keys": [
+        "2016_Clinton_Booker/questions_json/1070@13/description",
+        "2016_Clinton_Sanders/questions_json/1070@10/description",
+        "2016_Clinton_Warren/questions_json/1070@14/description",
+        "2016a_Clinton_Brown/questions_json/816@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Sherrod Brown has a record as one of the most progressive members in the Senate, and he has fought for his home state of Ohio for his entire career.",
+      "sha256": "43315caa25b7d5e5e575a7c08fbb36516014a88900c5faaf90a8f4cab26d444b",
+      "zh": "谢罗德·布朗是参议院最进步的议员之一，整个职业生涯都在为家乡俄亥俄州而战。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4644@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "I'm not surprised. Trump has been less than honest in any number of areas throughout his life.",
+      "sha256": "c7cb1e577b6cd4cfdca1cfcad41cd83b722f392d4141811dce7798fac2f44845",
+      "zh": "我不意外。特朗普这一生，在很多方面都不够诚实。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4652@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Let's reserve judgment and wait to see how this trial turns out.",
+      "sha256": "68176b9608042d017a3c94f8b5690185644dfc0be0de8210ba2f8107089ccf4a",
+      "zh": "我们先别下结论，等着看审判结果吧。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4653@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "We need to send American troops to Syria to eradicate ISIS once and for all.",
+      "sha256": "cdf0a9f54b3cc1f1ec87e45eff7ee4e5fea511452d7d1791ee6fa329bc8b33ce",
+      "zh": "我们需要把美军派往叙利亚，彻底消灭“伊斯兰国”。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4663@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "I would consider a pretty heavy bombing campaign there. We're going to bomb ISIS. We're going to bomb Assad. We're going to bomb the oil.",
+      "sha256": "31b5a26e4a8a05075185b1697fb972d5c9cab830b44e8eeec2d7e6d7da58cfa3",
+      "zh": "我会考虑在那里发动相当猛烈的轰炸。我们要轰炸“伊斯兰国”，轰炸阿萨德，轰炸石油设施。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4664@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "We should establish a safe zone in Syria for refugees, while doing anything we can to effect a transition from Assad.",
+      "sha256": "a0b05d13e7a0258a676d311f1b188612762f20b4bdaefc70527c774e862af6c2",
+      "zh": "我们应该在叙利亚为难民建立安全区，同时尽一切可能，促成阿萨德下台后的政治过渡。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4665@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "The idea that there is a moderate opposition in Syria is fantasy. Every side is terrible, and we'd be best served to pull back from the entire fray and let it play out.",
+      "sha256": "5ae92f60de61d0bcf4b122b258e96f3eebe00f7038c6c3a9744210ff5dc1b89f",
+      "zh": "认为叙利亚存在温和反对派，完全是幻想。各方都很糟糕；最好抽身退出整个混战，让它自行发展。",
+      "keys": [
+        "2016a_Clinton_Brown/answers_json/4666@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "This is not a popular policy, and does not help assuage the latent doubts over your vote for Iraq, to boot.",
+      "sha256": "b81e95361c88ef1b446f35a1a16d705d3044e5016b3932c442b705650e78d310",
+      "zh": "这不是受欢迎的政策，还无法消除大家对你伊拉克战争投票本就存在的疑虑。",
+      "keys": [
+        "2016a_Clinton_Brown/answer_feedback_json/2077@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "This reminds many progressives of Hillary Clinton the hawk.",
+      "sha256": "176767cb2e0ebcdd225fb1808fa1c35bbdd1f1459a98a53e61d8cd08bf45b926",
+      "zh": "这让许多进步派想起了那个鹰派希拉里·克林顿。",
+      "keys": [
+        "2016a_Clinton_Brown/answer_feedback_json/2093@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "You are striking a surprisingly liberal tone on foreign policy with this position.",
+      "sha256": "058e6d40521f49ca6a58ee8a17b494b660a3f743aa685d2b5c2c07467a5c280e",
+      "zh": "这个立场让你在外交政策上呈现出令人意外的自由派语气。",
+      "keys": [
+        "2016a_Clinton_Brown/answer_feedback_json/2118@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Sending troops to Syria is not a popular option, and is confusing coming from someone who opposed the same in Iraq",
+      "sha256": "0011d987e2bfb84fccc8ff98c5058169c70e2013f7b9462de112eed2745e2d7a",
+      "zh": "向叙利亚派兵并不受欢迎，而一个反对向伊拉克这样派兵的人说出这话，也令人困惑。",
+      "keys": [
+        "2016a_Clinton_Brown/answer_feedback_json/2180@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Compared to some of your comments in the primaries, this is a pretty measured position towards the Syrian crisis.",
+      "sha256": "8ab478b086a8639a930de6328f6f867c230292528bb8f060f1e0522ea8346709",
+      "zh": "与你初选时的一些话相比，这对叙利亚危机的立场相当克制。",
+      "keys": [
+        "2016a_Clinton_Brown/answer_feedback_json/2181@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "This seems to be in line with your less interventionist positions.",
+      "sha256": "e4ff6dd96092a581acf328b3cfc007a6abced12e090525db95253b988a8a2427",
+      "zh": "这似乎符合你较少干涉别国的立场。",
+      "keys": [
+        "2016a_Clinton_Brown/answer_feedback_json/2182@62/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "What was your rationale behind selecting Scott Brown as your running mate?",
+      "sha256": "0a361927c9f8f8f20681ed2a4a543b8098bd4cce89f92f48908542f77c1251ed",
+      "zh": "你选择斯科特·布朗作为竞选搭档，理由是什么？",
+      "keys": [
+        "2016a_Trump_Brown/questions_json/774@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "In the wake of your nomination, a number of prominent anti-Trump Republicans are organizing to cast votes for Libertarian Gary Johnson as a protest, with an emphasis on the Western states. What are your thoughts?",
+      "sha256": "8712560357200dcd3c6cd7327228621d7f11f754cc25c756a0925247fe589218",
+      "zh": "你获提名后，一些知名的反特朗普共和党人正组织起来，准备以投票支持自由意志党的加里·约翰逊来表示抗议，尤其着重于西部各州。你怎么看？",
+      "keys": [
+        "2016a_Trump_Brown/questions_json/772@2/description",
+        "2016a_Trump_Christie/questions_json/772@2/description",
+        "2016a_Trump_Carson/questions_json/772@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "The FBI has recommended the indictment of several of Hillary Clinton's aides, based on classified intelligence which they obtained from secure facilities and emailed to her. Do you have any comment?",
+      "sha256": "864d53e7f40840dad0dab509bbba4c450910268a1dc58cd62386f73909a0219d",
+      "zh": "联邦调查局建议起诉希拉里·克林顿的几名助手，因为他们从安全设施取得机密情报，再用电子邮件发给她。你有何评论？",
+      "keys": [
+        "2016a_Trump_Brown/questions_json/782@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Are there any personal attacks you would like to throw at Bill and Hillary Clinton over the next few months?",
+      "sha256": "526ee465b7418a42dc77924642031bc52cee56b9981fd65258b813b7d0ed66e9",
+      "zh": "接下来几个月，你想对比尔和希拉里·克林顿发动什么人身攻击吗？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1016@9/description",
+        "2016_Trump_Sessions/questions_json/1016@9/description",
+        "2016a_Trump_Brown/questions_json/843@4/description",
+        "2016a_Trump_Christie/questions_json/843@3/description",
+        "2016a_Trump_Carson/questions_json/843@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "To what extent will you attack Hillary Clinton's 2002 vote to authorize the war in Iraq?",
+      "sha256": "fb61988feb36d1d83767ae26d0b64c29a0572aca6b825d3e1a0ad9b4353479ee",
+      "zh": "希拉里·克林顿2002年投票授权在伊拉克动武，你会在多大程度上攻击这件事？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1014@12/description",
+        "2016_Trump_Sessions/questions_json/1014@17/description",
+        "2016_Trump_Carson/questions_json/1014@11/description",
+        "2016_Trump_Palin/questions_json/1014@12/description",
+        "2016a_Trump_Brown/questions_json/762@5/description",
+        "2016a_Trump_Christie/questions_json/762@17/description",
+        "2016a_Trump_Carson/questions_json/762@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Do you still hold a pro-life position on abortion? What do you have to say about previous incarnations of your views on that subject?",
+      "sha256": "370b29f8d089e895a6765cd1f38246b543ec49f79ed046628ee96f1d47c1009d",
+      "zh": "你在堕胎问题上仍持反对立场吗？对你此前在这个问题上的不同观点，有什么话要说？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1021@9/description",
+        "2016_Trump_Sessions/questions_json/1021@12/description",
+        "2016_Trump_Carson/questions_json/1021@13/description",
+        "2016a_Trump_Brown/questions_json/768@6/description",
+        "2016a_Trump_Christie/questions_json/768@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Will you stand by your calls to keep all Muslims from entering the United States?",
+      "sha256": "2131ea22423b93ede402a7f476bc8c776d745dafe41189c9cc9637cc6eeb56ec",
+      "zh": "你仍坚持要求禁止所有穆斯林进入美国吗？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1023@14/description",
+        "2016_Trump_Christie/questions_json/1023@10/description",
+        "2016_Trump_Carson/questions_json/1023@17/description",
+        "2016_Trump_Palin/questions_json/1023@8/description",
+        "2016a_Trump_Brown/questions_json/770@7/description",
+        "2016a_Trump_Christie/questions_json/770@16/description",
+        "2016a_Trump_Carson/questions_json/770@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "To what extent will you attack Hillary Clinton for her changing views on gay marriage, criminal justice, illegal immigration, the Trans-Pacific Partnership, or other issues?",
+      "sha256": "2b66e61e9415559490e26f8624f7bb764e34b970294d0f5cd01a082d25952c3e",
+      "zh": "希拉里·克林顿在同性婚姻、刑事司法、非法移民、TPP等问题上观点变化，你会在多大程度上攻击她？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1015@13/description",
+        "2016_Trump_Sessions/questions_json/1015@13/description",
+        "2016_Trump_Palin/questions_json/1015@14/description",
+        "2016a_Trump_Brown/questions_json/763@8/description",
+        "2016a_Trump_Christie/questions_json/763@7/description",
+        "2016a_Trump_Carson/questions_json/763@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Many accuse your heated rhetoric of fueling violence at your rallies, which have become known for their protestors and altercations. What are your thoughts?",
+      "sha256": "aef22c7f8ebc1ae230787b8f6dbade219fa8360525a1249898dd23fe745db9cf",
+      "zh": "你的集会因抗议者与冲突而出名；许多人指责，你激烈的言辞助长了集会暴力。你怎么看？",
+      "keys": [
+        "2016_Trump_Palin/questions_json/1024@16/description",
+        "2016a_Trump_Brown/questions_json/771@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "To what extent will you attack Hillary Clinton's equivocation on the Benghazi attacks in 2012?",
+      "sha256": "418bd3e1cb3816f98a43f4b30a7c950bb2aebc72a7f07e609069f3b17786b4fd",
+      "zh": "希拉里·克林顿对2012年班加西袭击含糊其词，你会在多大程度上攻击她？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1012@16/description",
+        "2016_Trump_Sessions/questions_json/1012@11/description",
+        "2016a_Trump_Brown/questions_json/760@10/description",
+        "2016a_Trump_Christie/questions_json/760@12/description",
+        "2016a_Trump_Carson/questions_json/760@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Do you plan to repeat the rhetoric you used about Mexican immigrants when announcing your campaign?",
+      "sha256": "7b3b9f09bccaa85eea1720ab5d180f53c00878fe6082d9b1f988195af774e4d6",
+      "zh": "你打算重申宣布参选时关于墨西哥移民的那些言辞吗？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1018@11/description",
+        "2016_Trump_Sessions/questions_json/1018@16/description",
+        "2016_Trump_Carson/questions_json/1018@16/description",
+        "2016_Trump_Palin/questions_json/1018@17/description",
+        "2016a_Trump_Brown/questions_json/765@11/description",
+        "2016a_Trump_Christie/questions_json/765@10/description",
+        "2016a_Trump_Carson/questions_json/765@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "What do you have to say in response to allegations that your Trump University used a number of unethical practices?",
+      "sha256": "10be5a5229ca838239fc6ad8b77b618e6d099095c3f60196eb223b584525ffe0",
+      "zh": "有人指控，你的特朗普大学采取了许多不道德的做法。对此你如何回应？",
+      "keys": [
+        "2016a_Trump_Brown/questions_json/764@12/description",
+        "2016a_Trump_Christie/questions_json/764@9/description",
+        "2016a_Trump_Carson/questions_json/764@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "To what extent will you make opposition to current trade agreements a part of your speeches and campaign?",
+      "sha256": "c7395cdd7bee775eb6a1576c7cb16cba60e886759788849751958f0be33bf0ab",
+      "zh": "你会在多大程度上，把反对现行贸易协定作为演说和竞选的内容？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1020@13/description",
+        "2016_Trump_Christie/questions_json/1020@16/description",
+        "2016a_Trump_Brown/questions_json/767@13/description",
+        "2016a_Trump_Carson/questions_json/767@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Do you plan to participate in the traditional three debates, between yourself and Hillary Clinton?",
+      "sha256": "1bc72baeb550348d80d031f360b79d02282a6dcb9c30c1b85b56fd3309182ad8",
+      "zh": "你打算与希拉里·克林顿参加传统的三场辩论吗？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1026@19/description",
+        "2016_Trump_Christie/questions_json/1026@19/description",
+        "2016_Trump_Sessions/questions_json/1026@19/description",
+        "2016_Trump_Carson/questions_json/1026@19/description",
+        "2016_Trump_Palin/questions_json/1026@19/description",
+        "2016a_Trump_Brown/questions_json/773@14/description",
+        "2016a_Trump_Christie/questions_json/773@18/description",
+        "2016a_Trump_Carson/questions_json/773@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "To what extent will you attack Bill Clinton's history of infidelity, impeachment, and so on as you campaign?",
+      "sha256": "928001a8cdfda0f3cdfe51e50d00b31e1df7da792a3e2948ccd533bd52b53c73",
+      "zh": "竞选期间，你会在多大程度上攻击比尔·克林顿的不忠、弹劾等过往？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1017@17/description",
+        "2016_Trump_Palin/questions_json/1017@10/description",
+        "2016a_Trump_Brown/questions_json/759@15/description",
+        "2016a_Trump_Christie/questions_json/759@15/description",
+        "2016a_Trump_Carson/questions_json/759@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "To what extent will you connect the dots between the Clintons' support of free trade and tough sentencing, and the huge unemployment in the black community?",
+      "sha256": "6e41ecf4ae938b9508f77990f53acfa28d8bfe573124c17983658f194d7721ce",
+      "zh": "你会在多大程度上，把克林顿夫妇支持自由贸易和严厉量刑，与黑人社群的严重失业联系起来？",
+      "keys": [
+        "2016a_Trump_Brown/questions_json/835@16/description",
+        "2016a_Trump_Christie/questions_json/835@6/description",
+        "2016a_Trump_Carson/questions_json/835@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "To what extent will you attack Hillary Clinton's decision to set up a private email server in her home, while Secretary of State?",
+      "sha256": "d4fa0f6d4fdcc40b5a595865a5e727dc2710e09727469bf42cb5aca1f31f2280",
+      "zh": "希拉里·克林顿担任国务卿时，在家中设立私人电子邮件服务器；你会在多大程度上攻击这项决定？",
+      "keys": [
+        "2016_Trump_Sessions/questions_json/1013@7/description",
+        "2016_Trump_Palin/questions_json/1013@15/description",
+        "2016a_Trump_Brown/questions_json/761@17/description",
+        "2016a_Trump_Christie/questions_json/761@13/description",
+        "2016a_Trump_Carson/questions_json/761@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "What do you have to say to conservatives who doubt your commitment to their cause in this election? Do you have any grand gestures to make?",
+      "sha256": "650758d7d6994f6124f4c725fd09abb93104e68731a7758772b7fa3fced5f5bd",
+      "zh": "对于怀疑你在这次选举中是否真心致力于保守派事业的人，你有什么话要说？你会作出什么重大姿态吗？",
+      "keys": [
+        "2016a_Trump_Brown/questions_json/769@18/description",
+        "2016a_Trump_Christie/questions_json/769@8/description",
+        "2016a_Trump_Carson/questions_json/769@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "I will promise to the convention floor that I am a true conservative on gun rights, abortion, taxes, and many other issues. It would be terrible if we let these issues divide us in the face of Hillary Clinton.",
+      "sha256": "97f92169538a59e29ae12e11e5c934d1b733d0e7a7f749b74f8332a200ef4c49",
+      "zh": "我会向大会代表保证，在持枪权、堕胎、税收等许多议题上，我是一名真正的保守派。面对希拉里·克林顿，如果让这些问题分裂我们，那就太糟了。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4527@3/description",
+        "2016a_Trump_Christie/answers_json/4527@3/description",
+        "2016a_Trump_Carson/answers_json/4527@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "I am calling out the leadership class on their failures, and because of this many lies have been spread about me. I support legal immigration and a safe zone for Syrian refugees, but you'd have no idea if you were listening to the folks in the media.",
+      "sha256": "4d7cb07e1789192a4ffa88fe27835a965ac5861db90b5f8850071e13bc129bf5",
+      "zh": "我揭露领导阶层的失败，因此，许多人散布关于我的谎言。我支持合法移民，也支持为叙利亚难民建立安全区，但如果只听媒体那些人，你根本不会知道。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4528@4/description",
+        "2016a_Trump_Christie/answers_json/4528@4/description",
+        "2016a_Trump_Carson/answers_json/4528@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "I will compare and contrast my business record with the corruption and incompetence of Hillary Clinton, and question why she is even allowed to run for President. We're going to Make America Great Again!",
+      "sha256": "5ac46ea3be5d9c898f6263f54ce6841872382500ebaa3e4509c6a73c60e38fde",
+      "zh": "我会对比自己的经商成绩与希拉里·克林顿的腐败、无能，并质问，为何竟然允许她竞选总统。我们要让美国再次伟大！",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4529@5/description",
+        "2016a_Trump_Christie/answers_json/4529@5/description",
+        "2016a_Trump_Carson/answers_json/4529@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "I will casually refer to Mr. Clinton as “the rapist” and imply that his people, including Hillary, have silenced a number of people over the years who tried to speak out.",
+      "sha256": "fc47adbc88b3366e91572f73a99ff869102312f64a3cd38515105a31cf0f37a8",
+      "zh": "我会随口称克林顿先生为“强奸犯”，并暗示，多年来，他身边的人，包括希拉里，让许多试图发声的人闭了嘴。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4531@6/description",
+        "2016a_Trump_Christie/answers_json/4531@6/description",
+        "2016a_Trump_Carson/answers_json/4531@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "We won't say anything about this, except when Ms. Clinton attacks us. We will bring it up in that case as a counterattack.",
+      "sha256": "7499027b4d185b4298e4683ab38b0bc9144c32c4bdeb843e883a4ed83cac38e5",
+      "zh": "我们不会谈这件事，除非克林顿女士攻击我们。那种情况下，我们会提出来反击。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4532@7/description",
+        "2016a_Trump_Christie/answers_json/4532@7/description",
+        "2016a_Trump_Carson/answers_json/4532@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "We need to elevate the tone of this campaign. I'm not going to continue digging into these old issues.",
+      "sha256": "f5e0605a5a82399b611d409714d272769b4b1233cf393230a6babece021c4291",
+      "zh": "我们需要提高这次竞选的格调。我不会继续翻这些旧账。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4533@8/description",
+        "2016a_Trump_Christie/answers_json/4533@8/description",
+        "2016a_Trump_Carson/answers_json/4533@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "A lot of Republicans made themselves look pretty silly over this issue. We have plenty of over things to bring up.",
+      "sha256": "eb4d7c63a98367cd3b624f4eef0d24fa091aef55ea7f5e133cf4efd4cf02a483",
+      "zh": "许多共和党人在这个问题上，把自己弄得相当可笑。我们还有很多其他事情可以谈。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4534@9/description",
+        "2016a_Trump_Christie/answers_json/4534@9/description",
+        "2016a_Trump_Carson/answers_json/4534@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "We're going to be mentioning Benghazi a lot in our campaign.",
+      "sha256": "61a7a2e30cd2fc6be1ad93db137ce5dfff947b54937f6420e195024f222109f6",
+      "zh": "我们会在竞选中经常提起班加西。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4535@10/description",
+        "2016a_Trump_Christie/answers_json/4535@10/description",
+        "2016a_Trump_Carson/answers_json/4535@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "We will be asking, “Where's the indictment?!” every day in my speeches, and on social media.",
+      "sha256": "48af5f6468c1c27e16a91218d390fff60b5593572a783d03418605497add16c5",
+      "zh": "我会每天在演说和社交媒体上问：“起诉呢？！”",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4536@11/description",
+        "2016a_Trump_Christie/answers_json/4536@11/description",
+        "2016a_Trump_Carson/answers_json/4536@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Whenever Ms. Clinton implies that I'm unqualified to serve as President, we will immediately ask what was going on her brain when she installed this server?",
+      "sha256": "7a83379c38e46d5eaf1d4dd60e5dde265500ed009d48e9e4814bc2e6180684b6",
+      "zh": "只要克林顿女士暗示，我不够资格担任总统，我们就会立即问：她安装这台服务器时，脑子里到底在想什么？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4537@12/description",
+        "2016a_Trump_Christie/answers_json/4537@12/description",
+        "2016a_Trump_Carson/answers_json/4537@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "The American people are sick and tired of hearing about Clinton's emails.",
+      "sha256": "d54bb700e576026e59e2785137651c5c8e4b301d5041ee006c1dc968ef213400",
+      "zh": "美国人民已经听够了克林顿的电子邮件，烦透了。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4538@13/description",
+        "2016a_Trump_Christie/answers_json/4538@13/description",
+        "2016a_Trump_Carson/answers_json/4538@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "This invasion was one of the biggest disasters in the history of the United States. We're going to dredge up a lot of memories about this before our campaign is through.",
+      "sha256": "ed406ee319431b5a1ce8117ac182365c9068c80b8a6f52e83991fcb7d1078cd6",
+      "zh": "这场入侵是美国历史上最大的灾难之一。竞选结束之前，我们要反复翻出许多关于这件事的记忆。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5040@28/description",
+        "2016_Trump_Sessions/answers_json/5040@29/description",
+        "2016_Trump_Carson/answers_json/5040@22/description",
+        "2016_Trump_Palin/answers_json/5040@29/description",
+        "2016a_Trump_Brown/answers_json/4539@14/description",
+        "2016a_Trump_Christie/answers_json/4539@14/description",
+        "2016a_Trump_Carson/answers_json/4539@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Whenever Ms. Clinton implies that I'm unqualified to serve as President, we will immediately ask what was going on her brain when she voted for the war in Iraq?",
+      "sha256": "e5cd2e6cd78d5075dc0e0d3db64f28cb8b819258c1654f28fa7627cc7892a355",
+      "zh": "只要克林顿女士暗示，我不够资格担任总统，我们就会立即问：她投票支持伊拉克战争时，脑子里到底在想什么？",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4540@15/description",
+        "2016a_Trump_Christie/answers_json/4540@15/description",
+        "2016a_Trump_Carson/answers_json/4540@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "She's probably expecting a lot of attacks on this issue -- let's keep her off balance by focusing on other things.",
+      "sha256": "e4cfbf408fc5fc382b7a5eef90cd61a3468338f0db6c98b0e61574a6a987900c",
+      "zh": "她大概料到我们会在这件事上大量攻击，那就聚焦其他事情，让她摸不准吧。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4541@16/description",
+        "2016a_Trump_Christie/answers_json/4541@16/description",
+        "2016a_Trump_Carson/answers_json/4541@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Hillary Clinton has been on both sides of so many issues it's pathetic. I'm not going to give a speech between now and November where I don't talk about her views on Iraq, gay marriage, illegal immigration, criminal justice, drug policy, free trade, and so much more.",
+      "sha256": "ccf220dc165f21419f280684f92f4cb406387e9be595084cb8397941d0ae992d",
+      "zh": "希拉里·克林顿在这么多问题上都站过两边，真是可悲。从现在到十一月，我的每一场演说，都会谈她对伊拉克、同性婚姻、非法移民、刑事司法、毒品政策、自由贸易等种种问题的观点。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4542@17/description",
+        "2016a_Trump_Christie/answers_json/4542@17/description",
+        "2016a_Trump_Carson/answers_json/4542@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "This is definitely going to be part of our campaign, along with many other things.",
+      "sha256": "1d9ae9741ce02a53d3e1532a971f3cb57cfdd0836241e3da345388cfd3274bd8",
+      "zh": "这肯定会成为我们竞选的一部分，另外还有许多事情。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4543@18/description",
+        "2016a_Trump_Christie/answers_json/4543@18/description",
+        "2016a_Trump_Carson/answers_json/4543@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "We've both changed our opinions about things in the past. Let's be judicious about the attacks that we make.",
+      "sha256": "1a38bf304ea6003c4b518865cf5162aeda4a61453d9f4e72944b4bb2beaf2fc3",
+      "zh": "我们过去都改变过一些观点。我们发动攻击时，还是审慎一点吧。",
+      "keys": [
+        "2016a_Trump_Brown/answers_json/4544@19/description",
+        "2016a_Trump_Christie/answers_json/4544@19/description",
+        "2016a_Trump_Carson/answers_json/4544@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

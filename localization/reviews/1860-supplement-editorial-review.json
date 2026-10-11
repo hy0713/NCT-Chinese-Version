@@ -1,0 +1,39 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1860-supplement",
+  "uniqueSourcesReviewed": 2,
+  "recordPositions": 9,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "We just need to let you know, it appears that your opponents have consolidated into a \"fusion ticket\" in the states of Pennsylvania, New Jersey, and New York.",
+      "sha256": "a4ce641203072e48fdc4b96f0cd8322a0a932bb78bd30d21b961a36212ec226b",
+      "zh": "我们需要提醒你：你的对手似乎已经在宾夕法尼亚、新泽西和纽约组成了“联合选举人名单”。",
+      "keys": [
+        "1860_Lincoln_Hamlin/questions_json/608@4/description",
+        "1860_Lincoln_Clay/questions_json/608@6/description",
+        "1860_Lincoln_Chase/questions_json/608@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Should the proposed constitution for the state of Kansas be accepted by Congress, and Kansas admitted as a free state?",
+      "sha256": "d5c839175cbf9da1d4d76fdb3cc43caad2d1d3f8e7f034877d083883b5fbe1f3",
+      "zh": "国会是否应当接受为堪萨斯州提出的宪法，并接纳堪萨斯以自由州身份加入联邦？",
+      "keys": [
+        "1860_Lincoln_Hamlin/questions_json/563@15/description",
+        "1860_Lincoln_Clay/questions_json/563@7/description",
+        "1860_Lincoln_Chase/questions_json/563@15/description",
+        "1860_Douglas_Johnson/questions_json/600@22/description",
+        "1860_Douglas_Guthrie/questions_json/600@11/description",
+        "1860_Douglas_Seymour/questions_json/600@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

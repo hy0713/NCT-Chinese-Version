@@ -1,0 +1,677 @@
+[
+  {
+    "source": "Today we will cover the need for religious tolerance. The Republicans are a party for all Americans.",
+    "zh": "今天我们将讨论宗教宽容的必要性。共和党是所有美国人的政党。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1431@22/description",
+      "1896_McKinley_Quay/answers_json/1438@41/description",
+      "1896_McKinley_Gage/answers_json/1431@27/description"
+    ]
+  },
+  {
+    "source": "John D. Rockefeller has nothing to fear from a McKinley Administration. I reject the calls of certain mountebanks for the break-up or socialization of Standard Oil.",
+    "zh": "约翰·D. 洛克菲勒无需担心麦金莱政府。我拒绝某些江湖骗子要求拆分或社会化标准石油公司的呼吁。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1405@27/description"
+    ]
+  },
+  {
+    "source": "Rockefeller knows my positions well. I feel as if it would be unbecoming to give him personal assurances, however. I work for all of the American people.",
+    "zh": "洛克菲勒很了解我的立场。然而，我觉得给他个人保证似乎是不合适的。我为所有美国人民工作。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1406@28/description"
+    ]
+  },
+  {
+    "source": "This antitrust legislation was passed with good reason. Business competition will inherently fail wherever monopolies exist.",
+    "zh": "这项反垄断立法的通过是有充分理由的。只要存在垄断，商业竞争必然会失败。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1407@29/description"
+    ]
+  },
+  {
+    "source": "Let's talk about the importance of reviving American business. Our tariff act will give them the protections they need to succeed.",
+    "zh": "让我们谈谈重振美国商业的重要性。我们的关税法案将为他们提供成功所需的保护。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1432@36/description",
+      "1896_McKinley_Quay/answers_json/1439@42/description",
+      "1896_McKinley_Gage/answers_json/1432@38/description"
+    ]
+  },
+  {
+    "source": "Let's discuss world affairs. I support the annexation of Hawaii and I support the independence of Cuba. I support a stronger Navy.",
+    "zh": "让我们讨论世界大事。我支持吞并夏威夷州，我支持古巴独立。我支持更强大的海军。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1434@37/description",
+      "1896_McKinley_Quay/answers_json/1441@44/description",
+      "1896_McKinley_Gage/answers_json/1434@39/description"
+    ]
+  },
+  {
+    "source": "Every man should have a right to bargain for his own wages. Let us reaffirm our opposition to collective bargaining and to radical labor unions.",
+    "zh": "每个人都应该有权为自己的工资讨价还价。让我们重申反对集体谈判和激进的工会。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1435@38/description",
+      "1896_McKinley_Quay/answers_json/1442@45/description",
+      "1896_McKinley_Gage/answers_json/1435@40/description"
+    ]
+  },
+  {
+    "source": "Let's remind the voters that we will clean government up after four years of Democratic incompetence.",
+    "zh": "让我们提醒选民，在民主党四年无能之后，我们将清理政府。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1436@39/description",
+      "1896_McKinley_Quay/answers_json/1443@46/description",
+      "1896_McKinley_Gage/answers_json/1436@41/description"
+    ]
+  },
+  {
+    "source": "Let's address our speech to the workers and voters of the mid-Atlantic, who have been abandoned by the Democrats' nominee for this election.",
+    "zh": "让我们向大西洋中部的工人和选民发表演讲，他们在这次选举中被民主党提名人抛弃了。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1437@40/description",
+      "1896_McKinley_Quay/answers_json/1444@47/description",
+      "1896_McKinley_Gage/answers_json/1437@42/description"
+    ]
+  },
+  {
+    "source": "If we could be sure that the benefits would spread equally to the different states, I think a public works program could be helpful at this point.",
+    "zh": "如果我们能够确定收益会平均分配到不同的州，我认为公共工程计划在这一点上可能会有所帮助。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1620@87/description",
+      "1896_Bryan_Stevenson/answers_json/1620@70/description"
+    ]
+  },
+  {
+    "source": "I'm sure that Mr. Coxey is a well-intentioned citizen, but I see no constitutional authority for implementing a federal public works program.",
+    "zh": "我确信考西先生是一位善意的公民，但我认为宪法没有授权实施联邦公共工程计划。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1621@88/description",
+      "1896_Bryan_Stevenson/answers_json/1621@71/description"
+    ]
+  },
+  {
+    "source": "This is absolutely the wrong solution to our business downturn. We must increase tariffs to stimulate American business.",
+    "zh": "对于我们的业务低迷来说，这绝对是错误的解决方案。我们必须提高关税来刺激美国商业。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1622@89/description",
+      "1896_Bryan_Stevenson/answers_json/1622@72/description"
+    ]
+  },
+  {
+    "source": "This is absolutely the wrong solution to our business downturn. We must allow the free coinage of silver to reduce the burden of our debts.",
+    "zh": "对于我们的业务低迷来说，这绝对是错误的解决方案。我们必须允许白银自由铸币以减轻我们的债务负担。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1623@90/description",
+      "1896_Bryan_Stevenson/answers_json/1623@73/description"
+    ]
+  },
+  {
+    "source": "Internal areas of the country have the same rights to use our waterways as the coastal regions. Making the Mississippi more navigable and more flood-resistant could prove to be an economic windfall.",
+    "zh": "国内地区与沿海地区享有相同的使用我们水道的权利。使密西西比州更容易通航、更耐洪可能会带来一笔意外的经济收益。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1632@91/description",
+      "1896_McKinley_Gage/answers_json/1632@86/description",
+      "1896_Bryan_Stevenson/answers_json/1632@74/description",
+      "1896_Bryan_Matthews/answers_json/1632@72/description"
+    ]
+  },
+  {
+    "source": "This is another costly project that promises very little return on our investment.",
+    "zh": "这是另一个耗资巨大的项目，我们的投资回报率极低。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1633@92/description",
+      "1896_McKinley_Gage/answers_json/1633@87/description",
+      "1896_Bryan_Stevenson/answers_json/1633@75/description",
+      "1896_Bryan_Matthews/answers_json/1633@73/description"
+    ]
+  },
+  {
+    "source": "This is not regulation of commerce under the Commerce Clause. This is direct action by the federal government to build and operate a public works project. I'm not sure that this is Constitutional.",
+    "zh": "这不是商业条款下的商业规定。这是联邦政府为建设和运营公共工程项目而采取的直接行动。我不确定这是否符合宪法。",
+    "keys": [
+      "1896_McKinley_Quay/answers_json/1634@93/description",
+      "1896_McKinley_Gage/answers_json/1634@88/description",
+      "1896_Bryan_Stevenson/answers_json/1634@76/description",
+      "1896_Bryan_Matthews/answers_json/1634@74/description"
+    ]
+  },
+  {
+    "source": "Rockefeller gives you a solemn nod of approval. His support will be priceless this fall.",
+    "zh": "洛克菲勒郑重点头表示同意。今年秋天，他的支持将是无价的。",
+    "keys": [
+      "1896_McKinley_Quay/answer_feedback_json/504@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "Rockefeller gives you a silent, unmistakable glare. He never thought he'd live to see a Republican of your ilk speaking out against his business.",
+    "zh": "洛克菲勒给您一种安静、明确的眩光。他从未想过自己会活着看到像你们这样的共和党人公开反对他的生意。",
+    "keys": [
+      "1896_McKinley_Quay/answer_feedback_json/505@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "Bryan's reputation amongst industrial workers is actually suspect (he is often perceived as being too pro-farmer and too evangelical). Do you have any plans to win this traditionally Democratic block of voters?",
+    "zh": "布赖恩在产业工人中的声誉实际上是值得怀疑的（他经常被认为过于支持农民和过于福音派）。您有什么计划来赢得这个传统的民主党选民群体吗？",
+    "keys": [
+      "1896_McKinley_Gage/questions_json/172@16/description"
+    ]
+  },
+  {
+    "source": "Should corporations be permitted to hire private detectives for security, and to infiltrate into labor movements?",
+    "zh": "是否应该允许企业聘请私家侦探进行安全保卫并渗透到劳工运动中？",
+    "keys": [
+      "1896_McKinley_Gage/questions_json/240@17/description",
+      "1896_Bryan_Sewall/questions_json/240@17/description",
+      "1896_Bryan_Stevenson/questions_json/240@23/description"
+    ]
+  },
+  {
+    "source": "Do you think that the United States Navy is large enough to adequately defend American interests on a global level?",
+    "zh": "您认为美国海军的规模是否足以在全球范围内充分捍卫美国的利益？",
+    "keys": [
+      "1896_McKinley_Gage/questions_json/238@18/description",
+      "1896_Bryan_Boies/questions_json/238@22/description"
+    ]
+  },
+  {
+    "source": "Will you press for your party to include a condemnation of lynching in the party platform?",
+    "zh": "您会敦促您的政党在党纲中加入对私刑的谴责吗？",
+    "keys": [
+      "1896_McKinley_Gage/questions_json/248@20/description",
+      "1896_Bryan_Stevenson/questions_json/248@21/description"
+    ]
+  },
+  {
+    "source": "Should there be some regulation of working hours for children, particularly those under the age of 12 or 13?",
+    "zh": "是否应该对儿童（尤其是 12 岁或 13 岁以下的儿童）的工作时间进行一些规定？",
+    "keys": [
+      "1896_McKinley_Gage/questions_json/216@21/description",
+      "1896_Bryan_Stevenson/questions_json/216@19/description",
+      "1896_Bryan_Teller/questions_json/216@15/description"
+    ]
+  },
+  {
+    "source": "Business owners should threaten the workers with further unemployment if Bryan wins.",
+    "zh": "如果布赖恩获胜，企业主应该以进一步失业来威胁工人。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1376@23/description"
+    ]
+  },
+  {
+    "source": "We will remind laborers that inflation will debase the value of their wages. Silver coinage is a rural policy.",
+    "zh": "我们将提醒劳动者，通货膨胀会降低他们的工资价值。银币是农村政策。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1377@24/description"
+    ]
+  },
+  {
+    "source": "Let's remind the immigrant populations that Bryan is a religious fanatic who opposes the sale of alcohol.",
+    "zh": "让我们提醒移民人群，布赖恩是一位反对售酒的宗教狂热分子。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1378@25/description"
+    ]
+  },
+  {
+    "source": "Americans are one people. We will not do special messaging for special interest groups.",
+    "zh": "美国人是一个民族。我们不会为特殊利益群体发送特殊消息。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1379@26/description"
+    ]
+  },
+  {
+    "source": "It agonizes me that we do not have this protection in place. Have we not seen children who are seven years old losing their hands in the cotton looms?",
+    "zh": "令我痛苦的是我们没有这种保护措施。难道我们没有见过七岁的孩子在织布机上失去双手吗？",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1536@77/description",
+      "1896_Bryan_Stevenson/answers_json/1536@50/description",
+      "1896_Bryan_Teller/answers_json/1536@61/description"
+    ]
+  },
+  {
+    "source": "I believe this is warranted in the industrial trades. Let us not forget that all hands are needed on the farm, not least of all in this day and age.",
+    "zh": "我相信这在工业行业是有道理的。我们不要忘记，农场需要所有人的帮助，尤其是在当今时代。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1537@78/description",
+      "1896_Bryan_Stevenson/answers_json/1537@51/description",
+      "1896_Bryan_Teller/answers_json/1537@62/description"
+    ]
+  },
+  {
+    "source": "It falls outside the scope of the Constitution for the federal government to regulate the working conditions within a factory. This is not something that the President has control over.",
+    "zh": "联邦政府规范工厂内的工作条件不属于宪法的范围。这不是总统可以控制的事情。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1538@79/description",
+      "1896_Bryan_Stevenson/answers_json/1538@52/description",
+      "1896_Bryan_Teller/answers_json/1538@63/description"
+    ]
+  },
+  {
+    "source": "The Navy is more than adequate to meet our current needs, and will remain so as long as imperialist Republicans avoid intervening in Cuba or Hawaii.",
+    "zh": "海军足以满足我们当前的需求，并且只要帝国主义共和党避免干预古巴或夏威夷州，海军就将保持这种状态。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1606@80/description",
+      "1896_Bryan_Boies/answers_json/1606@66/description"
+    ]
+  },
+  {
+    "source": "I am disappointed with the backward status of our Navy. We need a more vigorous fleet, and we need a canal in Nicaragua to more closely link our two coasts.",
+    "zh": "我对我们海军的落后状况感到失望。我们需要一支更有活力的舰队，我们需要尼加拉瓜的一条运河来更紧密地连接我们的两个海岸。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1607@81/description",
+      "1896_Bryan_Boies/answers_json/1607@67/description"
+    ]
+  },
+  {
+    "source": "This is another sad attempt to crush the spirit of the working man. It's difficult to distinguish between Pinkertons and vigilantes during some of these repression actions.",
+    "zh": "这是又一次摧毁工人精神的可悲尝试。在一些镇压行动中，很难区分平克顿分子和治安维持者。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1611@82/description",
+      "1896_Bryan_Sewall/answers_json/1611@69/description",
+      "1896_Bryan_Stevenson/answers_json/1611@66/description"
+    ]
+  },
+  {
+    "source": "Perhaps if collective bargaining was protected, companies would have less cause to fear their own employees.",
+    "zh": "也许如果集体谈判受到保护，公司就没有理由担心自己的员工。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1612@83/description",
+      "1896_Bryan_Sewall/answers_json/1612@70/description",
+      "1896_Bryan_Stevenson/answers_json/1612@67/description"
+    ]
+  },
+  {
+    "source": "I don't see who has the authority to stop this. This is another example of regulation that would fall outside of the scope of the Commerce Clause in the Constitution.",
+    "zh": "我不知道谁有权阻止这一切。这是不属于宪法商业条款范围的监管的另一个例子。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1613@84/description",
+      "1896_Bryan_Sewall/answers_json/1613@71/description",
+      "1896_Bryan_Stevenson/answers_json/1613@68/description"
+    ]
+  },
+  {
+    "source": "The practice of hiring detectives from agencies like the Pinkertons is justified by the militancy and danger of the American labor movement.",
+    "zh": "美国劳工运动的战斗性和危险性证明了从平克顿等机构雇佣侦探的做法是合理的。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1614@85/description",
+      "1896_Bryan_Sewall/answers_json/1614@72/description",
+      "1896_Bryan_Stevenson/answers_json/1614@69/description"
+    ]
+  },
+  {
+    "source": "I abhor any instance where extra-judicial punishment is meted out by the passions of an inflamed mob. My party will speak out against this practice in our platform.",
+    "zh": "我憎恶任何因愤怒暴徒的激情而实施法外惩罚的情况。我的政党将在我们的政治纲领上公开反对这种做法。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1638@89/description",
+      "1896_Bryan_Stevenson/answers_json/1638@77/description"
+    ]
+  },
+  {
+    "source": "This has no hope of becoming law, but we have to include the plank in order to appease the southern delegates who secured my nomination.",
+    "zh": "这没有希望成为法律，但我们必须纳入该纲领，以安抚获得我提名的南方代表。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1639@90/description",
+      "1896_Bryan_Stevenson/answers_json/1639@78/description"
+    ]
+  },
+  {
+    "source": "This isn't an issue worth addressing. It will please no one and offend everyone, at least within our party's rank-and-file.",
+    "zh": "这不是一个值得解决的问题。它不会取悦任何人，而且会冒犯所有人，至少在我们党的普通民众中是这样。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1640@91/description",
+      "1896_Bryan_Stevenson/answers_json/1640@79/description"
+    ]
+  },
+  {
+    "source": "These types incidents will happen when the federal government's due process Amendments fail to account for the innate differences among the citizens of the South.",
+    "zh": "当联邦政府的正当程序修正案未能考虑到南方公民之间的固有差异时，就会发生此类事件。",
+    "keys": [
+      "1896_McKinley_Gage/answers_json/1641@92/description",
+      "1896_Bryan_Stevenson/answers_json/1641@80/description"
+    ]
+  },
+  {
+    "source": "There's nothing the Republicans can do about it, but at least you have the moral victory of a strong statement against injustice.",
+    "zh": "共和党对此无能为力，但至少你通过反对不公正的强烈声明获得了道义上的胜利。",
+    "keys": [
+      "1896_McKinley_Gage/answer_feedback_json/561@42/answer_feedback",
+      "1896_Bryan_Stevenson/answer_feedback_json/561@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "Once your views become well-known, Southern Democrats will defect in droves for John Palmer, the Bourbon Democrats' splinter candidate.",
+    "zh": "一旦你的观点广为人知，南方民主党人就会成群结队地投奔约翰·帕尔默，即波旁民主党人的分裂候选人。",
+    "keys": [
+      "1896_McKinley_Gage/answer_feedback_json/641@66/answer_feedback",
+      "1896_McKinley_Gage/answer_feedback_json/642@67/answer_feedback",
+      "1896_Bryan_Stevenson/answer_feedback_json/641@70/answer_feedback",
+      "1896_Bryan_Stevenson/answer_feedback_json/642@71/answer_feedback"
+    ]
+  },
+  {
+    "source": "Which of the following most closely matches your overall campaign message?",
+    "zh": "以下哪一项最符合您的整体活动信息？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/138@0/description",
+      "1896_Bryan_Stevenson/questions_json/138@0/description",
+      "1896_Bryan_Matthews/questions_json/138@0/description",
+      "1896_Bryan_Boies/questions_json/138@0/description",
+      "1896_Bryan_Teller/questions_json/138@0/description"
+    ]
+  },
+  {
+    "source": "You have alluded to the need for less prejudice between the races. Senator \"Pitchfork\" Ben Tillman, of South Carolina, privately seeks your clarification.<br>Can you reassure him that the federal government will respect the rights of the states under your Administration?",
+    "zh": "您提到需要减少种族之间的偏见。南卡罗来纳州的参议员“Pitchfork”Ben Tillman 私下寻求您的澄清。<br>您能否向他保证联邦政府将尊重您政府领导下各州的权利？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/145@1/description",
+      "1896_Bryan_Stevenson/questions_json/145@4/description",
+      "1896_Bryan_Matthews/questions_json/145@7/description",
+      "1896_Bryan_Boies/questions_json/145@7/description",
+      "1896_Bryan_Teller/questions_json/145@10/description"
+    ]
+  },
+  {
+    "source": "You have very little chance of winning New York this fall, and nearly all of that city's newspapers are anti-Bryan. That doesn't mean you couldn't draw a frenzied crowd in New York City.<br>Perhaps the media attention would be beneficial in building excitement for your campaign on a national scale?",
+    "zh": "今年秋天你赢得纽约州的机会很小，而且该市几乎所有报纸都反对布赖恩。这并不意味着你无法在纽约州城市吸引疯狂的人群。<br>也许媒体的关注有助于在全国范围内激发您的竞选活动热情？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/142@2/description",
+      "1896_Bryan_Stevenson/questions_json/142@10/description",
+      "1896_Bryan_Matthews/questions_json/142@10/description",
+      "1896_Bryan_Boies/questions_json/142@4/description",
+      "1896_Bryan_Teller/questions_json/142@2/description"
+    ]
+  },
+  {
+    "source": "What do you have to say about William McKinley's campaign, at a high level?",
+    "zh": "您对威廉·麦金莱的活动有什么高层次的看法？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/139@5/description",
+      "1896_Bryan_Stevenson/questions_json/139@2/description",
+      "1896_Bryan_Matthews/questions_json/139@2/description",
+      "1896_Bryan_Boies/questions_json/139@2/description",
+      "1896_Bryan_Teller/questions_json/139@4/description"
+    ]
+  },
+  {
+    "source": "The novelty of a personal visit from the \"Great Commoner\" could probably swing the West Coast states in your direction. However, it will take two weeks to travel and return via train.<br>Will you divert your attention from the Midwest long enough to visit California, Oregon, and Washington?",
+    "zh": "“伟大平民”亲自访问的新奇可能会让西海岸各州转向你的方向。然而，乘火车往返需要两周时间。<br>您会将注意力从中西部转移足够长的时间来访问加利福尼亚州、俄勒冈州和华盛顿州吗？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/141@6/description",
+      "1896_Bryan_Stevenson/questions_json/141@8/description",
+      "1896_Bryan_Matthews/questions_json/141@9/description",
+      "1896_Bryan_Boies/questions_json/141@10/description",
+      "1896_Bryan_Teller/questions_json/141@9/description"
+    ]
+  },
+  {
+    "source": "What do you think of leaving the Midwest for a week and making a circuit of the crucial upper South states? (i.e. Delaware, Maryland, Virginia, West Virginia, and Kentucky)",
+    "zh": "离开中西部一周并绕行重要的上南部各州，您有何看法？ （即特拉华州、马里兰州、弗吉尼亚州、西弗吉尼亚州和肯塔基州）",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/148@9/description",
+      "1896_Bryan_Stevenson/questions_json/148@6/description",
+      "1896_Bryan_Matthews/questions_json/148@4/description",
+      "1896_Bryan_Boies/questions_json/148@3/description",
+      "1896_Bryan_Teller/questions_json/148@8/description"
+    ]
+  },
+  {
+    "source": "Can you respond to rumors that you would seek to abolish the Supreme Court if elected, due to their recent decisions on the income tax and antitrust issues?",
+    "zh": "由于最高法院最近在所得税和反垄断问题上做出的决定，您能否回应有关如果当选您将寻求废除最高法院的传言？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/140@13/description",
+      "1896_Bryan_Stevenson/questions_json/140@18/description"
+    ]
+  },
+  {
+    "source": "Critics have said that you wrap yourself in religious imagery too much for a presidential candidate. What is your response? ",
+    "zh": "批评者说，对于总统候选人来说，你过多地将自己包裹在宗教意象中。你的回应是什么？ ",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/144@15/description",
+      "1896_Bryan_Stevenson/questions_json/144@11/description"
+    ]
+  },
+  {
+    "source": "Do you support greater regulation on the sale and labeling of opium, cocaine, and morphine when used in patent medicines?",
+    "zh": "您是否支持对用于专利药品的鸦片、可卡因和吗啡的销售和标签进行更严格的监管？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/249@16/description",
+      "1896_Bryan_Stevenson/questions_json/249@20/description"
+    ]
+  },
+  {
+    "source": "You are making a big speech in Chicago today. What points will you touch on?",
+    "zh": "您今天将在芝加哥发表重要演讲。您会谈到哪些要点？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/149@18/description",
+      "1896_Bryan_Teller/questions_json/149@23/description"
+    ]
+  },
+  {
+    "source": "The federal deficit has recently increased after two decades of steady decline. What are your thoughts on this?",
+    "zh": "联邦赤字在经历了二十年的稳步下降之后最近有所增加。您对此有何看法？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/214@19/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on the overthrow of the Hawaiian monarchy by the Dole group? Do you support the annexation of Hawaii into the United States?",
+    "zh": "您对多尔团体推翻夏威夷君主制有何看法？您支持将夏威夷州并入美国吗？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/228@21/description"
+    ]
+  },
+  {
+    "source": "A few western states have allowed women the right to vote. Do you take the calls for a women's suffrage Amendment seriously?",
+    "zh": "一些西部州允许妇女投票权。您认真对待妇女选举权修正案的呼吁吗？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/217@22/description",
+      "1896_Bryan_Stevenson/questions_json/217@17/description",
+      "1896_Bryan_Teller/questions_json/217@14/description"
+    ]
+  },
+  {
+    "source": "There is one week left until election day. Every state is important, but where will you give an extra push with your personal campaigning to swing the final results?",
+    "zh": "距离选举日还剩一周。每个州都很重要，但你会在哪些方面通过你的个人竞选活动来额外推动以改变最终结果呢？",
+    "keys": [
+      "1896_Bryan_Sewall/questions_json/251@24/description",
+      "1896_Bryan_Stevenson/questions_json/251@24/description",
+      "1896_Bryan_Matthews/questions_json/251@24/description",
+      "1896_Bryan_Boies/questions_json/251@24/description",
+      "1896_Bryan_Teller/questions_json/251@24/description"
+    ]
+  },
+  {
+    "source": "We support the free coinage of silver priced at a 16-to-1 ratio against gold. The results will aid farmers and workers of all classes and contribute to an American renewal.",
+    "zh": "我们支持以 16 比 1 的价格免费铸造白银与黄金。其结果将帮助农民和各阶层工人，并为美国的复兴做出贡献。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/976@1/description",
+      "1896_Bryan_Stevenson/answers_json/976@1/description",
+      "1896_Bryan_Matthews/answers_json/976@1/description",
+      "1896_Bryan_Boies/answers_json/976@1/description",
+      "1896_Bryan_Teller/answers_json/976@1/description"
+    ]
+  },
+  {
+    "source": "We will focus on free-silver and especially on the issues affecting farmers. We will seek a reduction in private debts and an end to the monopolistic practices of the railroads. We will also fight for the lowest possible tariffs.",
+    "zh": "我们将重点关注自由白银，特别是影响农民的问题。我们将寻求减少私人债务并结束铁路的垄断行为。我们还将争取尽可能低的关税。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/977@2/description",
+      "1896_Bryan_Stevenson/answers_json/977@2/description",
+      "1896_Bryan_Matthews/answers_json/977@2/description",
+      "1896_Bryan_Boies/answers_json/977@2/description",
+      "1896_Bryan_Teller/answers_json/977@2/description"
+    ]
+  },
+  {
+    "source": "Silver coinage is just one part of my platform. Let's not forget the struggles of the urban worker in his efforts to unionize and obtain fair wages.",
+    "zh": "银币只是我政治纲领的一部分。我们不要忘记城市工人为加入工会和获得公平工资而进行的斗争。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/978@3/description",
+      "1896_Bryan_Stevenson/answers_json/978@3/description",
+      "1896_Bryan_Matthews/answers_json/978@3/description",
+      "1896_Bryan_Boies/answers_json/978@3/description",
+      "1896_Bryan_Teller/answers_json/978@3/description"
+    ]
+  },
+  {
+    "source": "I am 100% committed to the coinage of silver. It's important however, that we strike a moderate tone on other issues to expand our appeal as widely as we can.",
+    "zh": "我 100% 致力于银币的铸造。然而，重要的是，我们在其他问题上采取温和的基调，以尽可能广泛地扩大我们的吸引力。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/979@4/description",
+      "1896_Bryan_Stevenson/answers_json/979@4/description",
+      "1896_Bryan_Matthews/answers_json/979@4/description",
+      "1896_Bryan_Boies/answers_json/979@4/description",
+      "1896_Bryan_Teller/answers_json/979@4/description"
+    ]
+  },
+  {
+    "source": "McKinley is a fanatical defender of an obsolete monetary system. He is a front-man for big business and the New York financiers.",
+    "zh": "麦金莱是过时货币体系的狂热捍卫者。他是大企业和纽约州金融家的代言人。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/980@5/description",
+      "1896_Bryan_Stevenson/answers_json/980@5/description",
+      "1896_Bryan_Matthews/answers_json/980@5/description",
+      "1896_Bryan_Boies/answers_json/980@5/description",
+      "1896_Bryan_Teller/answers_json/980@5/description"
+    ]
+  },
+  {
+    "source": "McKinley's support of high tariffs is a crime which strangles American commerce. Similar protectionist programs have twice been rejected by American voters in the past ten years alone.",
+    "zh": "麦金莱支持高关税是扼杀美国商业的犯罪行为。仅在过去十年里，类似的保护主义计划就两次被美国选民否决。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/981@6/description",
+      "1896_Bryan_Stevenson/answers_json/981@6/description",
+      "1896_Bryan_Matthews/answers_json/981@6/description",
+      "1896_Bryan_Boies/answers_json/981@6/description",
+      "1896_Bryan_Teller/answers_json/981@6/description"
+    ]
+  },
+  {
+    "source": "We may have our disagreements, but William McKinley is an honorable man. Our campaign will focus on the issues, not on the opponent.",
+    "zh": "我们可能有分歧，但威廉·麦金莱是一个值得尊敬的人。我们的竞选活动将集中于问题，而不是对手。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/982@7/description",
+      "1896_Bryan_Stevenson/answers_json/982@7/description",
+      "1896_Bryan_Matthews/answers_json/982@7/description",
+      "1896_Bryan_Boies/answers_json/982@7/description",
+      "1896_Bryan_Teller/answers_json/982@7/description"
+    ]
+  },
+  {
+    "source": "McKinley's insistence on the gold standard has alienated many prominent Republicans from his own party, such as Henry Teller.",
+    "zh": "麦金莱对金本位制的坚持已经疏远了许多知名共和党人与他自己政党的关系，例如亨利·特勒。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/983@8/description",
+      "1896_Bryan_Stevenson/answers_json/983@8/description",
+      "1896_Bryan_Matthews/answers_json/983@8/description",
+      "1896_Bryan_Boies/answers_json/983@8/description",
+      "1896_Bryan_Teller/answers_json/983@8/description"
+    ]
+  },
+  {
+    "source": "The Supreme Court has consistently stood in the way of progress by implementing an overly narrow interpretation of the Constitution. I support drastic measures to reduce its influence.",
+    "zh": "最高法院一直对宪法实施过于狭隘的解释，从而阻碍进步。我支持采取严厉措施来减少其影响。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/984@9/description",
+      "1896_Bryan_Stevenson/answers_json/984@9/description"
+    ]
+  },
+  {
+    "source": "There have been some terrible decisions made by the Court. We might consider some measures to make the court more accountable to the popular will.",
+    "zh": "法院做出了一些可怕的决定。我们可以考虑采取一些措施，让法院更加对民意负责。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/985@10/description",
+      "1896_Bryan_Stevenson/answers_json/985@10/description"
+    ]
+  },
+  {
+    "source": "This is an unfounded rumor that the McKinley campaign has disseminated to discredit my candidacy.",
+    "zh": "这是麦金莱竞选活动散布的毫无根据的谣言，旨在抹黑我的候选资格。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/986@11/description",
+      "1896_Bryan_Stevenson/answers_json/986@11/description"
+    ]
+  },
+  {
+    "source": "8 years of a William Jennings Bryan presidency will leave the Court in much better shape to address our nation's problems.",
+    "zh": "8 年的威廉·詹宁斯·布赖恩院长任期将使法院能够更好地解决我们国家的问题。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/987@12/description",
+      "1896_Bryan_Stevenson/answers_json/987@12/description"
+    ]
+  },
+  {
+    "source": "Let us bring our message to the citizens of the Pacific Coast. Winning these three states could swing the entire election.",
+    "zh": "让我们向太平洋海岸的公民传达我们的信息。赢得这三个州可能会左右整个选举。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/989@13/description",
+      "1896_Bryan_Stevenson/answers_json/989@13/description",
+      "1896_Bryan_Matthews/answers_json/989@9/description",
+      "1896_Bryan_Boies/answers_json/989@9/description",
+      "1896_Bryan_Teller/answers_json/989@9/description"
+    ]
+  },
+  {
+    "source": "Let's keep the tour as short as possible. I will take a train to San Francisco and deliver a few speeches in that city, but will not tour the entire coast.",
+    "zh": "让我们的巡演尽可能简短。我将乘火车前往旧金山，并在该市发表一些演讲，但不会游览整个海岸。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/990@14/description",
+      "1896_Bryan_Stevenson/answers_json/990@14/description",
+      "1896_Bryan_Matthews/answers_json/990@10/description",
+      "1896_Bryan_Boies/answers_json/990@10/description",
+      "1896_Bryan_Teller/answers_json/990@10/description"
+    ]
+  },
+  {
+    "source": "There is no time for that diversion. Heaven knows what rumors McKinley will spread while I am gone, and winning the Midwest should be our primary focus.",
+    "zh": "没有时间进行这种转移。天知道我不在的时候会传播什么谣言麦金莱，赢得中西部应该是我们的首要关注点。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/991@15/description",
+      "1896_Bryan_Stevenson/answers_json/991@15/description",
+      "1896_Bryan_Matthews/answers_json/991@11/description",
+      "1896_Bryan_Boies/answers_json/991@11/description",
+      "1896_Bryan_Teller/answers_json/991@11/description"
+    ]
+  },
+  {
+    "source": "New York is a traditional Democratic stronghold, and I'm confident that the people of that state will support my message. We will campaign there extensively.",
+    "zh": "纽约州是传统的民主党据点，我相信该州的人民会支持我的信息。我们将在那里进行广泛的宣传活动。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/992@16/description",
+      "1896_Bryan_Stevenson/answers_json/992@16/description",
+      "1896_Bryan_Matthews/answers_json/992@12/description",
+      "1896_Bryan_Boies/answers_json/992@12/description",
+      "1896_Bryan_Teller/answers_json/992@12/description"
+    ]
+  },
+  {
+    "source": "Let's not waste our time in a hostile state. We must sow our seed upon the good earth where it will multiply.",
+    "zh": "我们不要在敌对状态中浪费时间。我们必须把我们的种子撒在肥沃的土地上，让它繁衍生息。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/993@17/description",
+      "1896_Bryan_Stevenson/answers_json/993@17/description",
+      "1896_Bryan_Matthews/answers_json/993@13/description",
+      "1896_Bryan_Boies/answers_json/993@13/description",
+      "1896_Bryan_Teller/answers_json/993@13/description"
+    ]
+  },
+  {
+    "source": "I will give one big speech in New York City to open my campaign. Even if winning that state is hopeless, we need the national press.",
+    "zh": "我将在纽约州市发表一场大型演讲来开启我的竞选活动。即使赢得该州毫无希望，我们也需要全国媒体。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/994@18/description",
+      "1896_Bryan_Stevenson/answers_json/994@18/description",
+      "1896_Bryan_Matthews/answers_json/994@14/description",
+      "1896_Bryan_Boies/answers_json/994@14/description",
+      "1896_Bryan_Teller/answers_json/994@14/description"
+    ]
+  },
+  {
+    "source": "The humblest citizen in all the land, when clad in the armor of a righteous cause, is stronger than all the hosts of error.",
+    "zh": "这片土地上最卑微的公民，当穿上正义事业的盔甲时，就会比所有错误的大军更强大。",
+    "keys": [
+      "1896_Bryan_Sewall/answers_json/999@19/description",
+      "1896_Bryan_Stevenson/answers_json/999@23/description"
+    ]
+  }
+]

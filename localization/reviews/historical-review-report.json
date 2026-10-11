@@ -1,0 +1,1632 @@
+{
+  "checkedAt": "2026-10-10",
+  "uniqueSourcesThisRound": 5362,
+  "positionsThisRound": 23125,
+  "batches": {
+    "1844-base": {
+      "uniqueSources": 14,
+      "positions": 14
+    },
+    "1844": {
+      "uniqueSources": 234,
+      "positions": 895
+    },
+    "1844-supplement": {
+      "uniqueSources": 2,
+      "positions": 5
+    },
+    "1860-base": {
+      "uniqueSources": 15,
+      "positions": 16
+    },
+    "1860": {
+      "uniqueSources": 244,
+      "positions": 754
+    },
+    "1860-supplement": {
+      "uniqueSources": 2,
+      "positions": 9
+    },
+    "1896-a": {
+      "uniqueSources": 75,
+      "positions": 329
+    },
+    "1896-b": {
+      "uniqueSources": 75,
+      "positions": 479
+    },
+    "1896-c": {
+      "uniqueSources": 75,
+      "positions": 261
+    },
+    "1896-d": {
+      "uniqueSources": 75,
+      "positions": 225
+    },
+    "1896-e": {
+      "uniqueSources": 75,
+      "positions": 252
+    },
+    "1896-f": {
+      "uniqueSources": 69,
+      "positions": 95
+    },
+    "1896-labels": {
+      "uniqueSources": 3,
+      "positions": 35
+    },
+    "1916-a": {
+      "uniqueSources": 75,
+      "positions": 186
+    },
+    "1916-b": {
+      "uniqueSources": 75,
+      "positions": 268
+    },
+    "1916-c": {
+      "uniqueSources": 75,
+      "positions": 211
+    },
+    "1916-d": {
+      "uniqueSources": 48,
+      "positions": 83
+    },
+    "1948-a": {
+      "uniqueSources": 75,
+      "positions": 291
+    },
+    "1948-b": {
+      "uniqueSources": 75,
+      "positions": 347
+    },
+    "1948-c": {
+      "uniqueSources": 75,
+      "positions": 325
+    },
+    "1948-d": {
+      "uniqueSources": 18,
+      "positions": 20
+    },
+    "1960-a": {
+      "uniqueSources": 75,
+      "positions": 353
+    },
+    "1960-b": {
+      "uniqueSources": 75,
+      "positions": 434
+    },
+    "1960-c": {
+      "uniqueSources": 75,
+      "positions": 433
+    },
+    "1960-d": {
+      "uniqueSources": 62,
+      "positions": 209
+    },
+    "1964-a": {
+      "uniqueSources": 75,
+      "positions": 309
+    },
+    "1964-b": {
+      "uniqueSources": 75,
+      "positions": 79
+    },
+    "1964-c": {
+      "uniqueSources": 50,
+      "positions": 50
+    },
+    "1968-a": {
+      "uniqueSources": 75,
+      "positions": 568
+    },
+    "1968-b": {
+      "uniqueSources": 75,
+      "positions": 353
+    },
+    "1968-c": {
+      "uniqueSources": 75,
+      "positions": 330
+    },
+    "1968-d": {
+      "uniqueSources": 75,
+      "positions": 332
+    },
+    "1968-e": {
+      "uniqueSources": 75,
+      "positions": 325
+    },
+    "1968-f": {
+      "uniqueSources": 75,
+      "positions": 299
+    },
+    "1968-g": {
+      "uniqueSources": 42,
+      "positions": 102
+    },
+    "1976-a": {
+      "uniqueSources": 75,
+      "positions": 419
+    },
+    "1976-b": {
+      "uniqueSources": 75,
+      "positions": 480
+    },
+    "1976-c": {
+      "uniqueSources": 75,
+      "positions": 668
+    },
+    "1976-d": {
+      "uniqueSources": 75,
+      "positions": 402
+    },
+    "1976-e": {
+      "uniqueSources": 66,
+      "positions": 220
+    },
+    "1988-a": {
+      "uniqueSources": 75,
+      "positions": 341
+    },
+    "1988-b": {
+      "uniqueSources": 75,
+      "positions": 379
+    },
+    "1988-c": {
+      "uniqueSources": 75,
+      "positions": 328
+    },
+    "1988-d": {
+      "uniqueSources": 75,
+      "positions": 299
+    },
+    "1988-e": {
+      "uniqueSources": 25,
+      "positions": 61
+    },
+    "2000-a": {
+      "uniqueSources": 75,
+      "positions": 554
+    },
+    "2000-b": {
+      "uniqueSources": 75,
+      "positions": 475
+    },
+    "2000-c": {
+      "uniqueSources": 75,
+      "positions": 1440
+    },
+    "2000-d": {
+      "uniqueSources": 75,
+      "positions": 339
+    },
+    "2000-danforth": {
+      "uniqueSources": 1,
+      "positions": 1
+    },
+    "2000-e": {
+      "uniqueSources": 37,
+      "positions": 51
+    },
+    "2012-a": {
+      "uniqueSources": 60,
+      "positions": 250
+    },
+    "2012-b": {
+      "uniqueSources": 60,
+      "positions": 182
+    },
+    "2012-c": {
+      "uniqueSources": 60,
+      "positions": 266
+    },
+    "2012-d": {
+      "uniqueSources": 60,
+      "positions": 255
+    },
+    "2012-e": {
+      "uniqueSources": 60,
+      "positions": 99
+    },
+    "2012-f": {
+      "uniqueSources": 60,
+      "positions": 121
+    },
+    "2012-g": {
+      "uniqueSources": 60,
+      "positions": 154
+    },
+    "2012-h": {
+      "uniqueSources": 60,
+      "positions": 78
+    },
+    "2012-i": {
+      "uniqueSources": 43,
+      "positions": 47
+    },
+    "2016-a": {
+      "uniqueSources": 60,
+      "positions": 416
+    },
+    "2016-b": {
+      "uniqueSources": 60,
+      "positions": 236
+    },
+    "2016-c": {
+      "uniqueSources": 60,
+      "positions": 324
+    },
+    "2016-d": {
+      "uniqueSources": 60,
+      "positions": 137
+    },
+    "2016-e": {
+      "uniqueSources": 60,
+      "positions": 132
+    },
+    "2016-f": {
+      "uniqueSources": 60,
+      "positions": 248
+    },
+    "2016-g": {
+      "uniqueSources": 60,
+      "positions": 293
+    },
+    "2016-h": {
+      "uniqueSources": 60,
+      "positions": 178
+    },
+    "2016-i": {
+      "uniqueSources": 21,
+      "positions": 25
+    },
+    "2016a-a": {
+      "uniqueSources": 60,
+      "positions": 245
+    },
+    "2016a-b": {
+      "uniqueSources": 60,
+      "positions": 225
+    },
+    "2016a-c": {
+      "uniqueSources": 60,
+      "positions": 297
+    },
+    "2016a-d": {
+      "uniqueSources": 60,
+      "positions": 122
+    },
+    "2016a-e": {
+      "uniqueSources": 60,
+      "positions": 172
+    },
+    "2016a-f": {
+      "uniqueSources": 60,
+      "positions": 171
+    },
+    "2016a-g": {
+      "uniqueSources": 31,
+      "positions": 60
+    },
+    "2020-a": {
+      "uniqueSources": 60,
+      "positions": 456
+    },
+    "2020-b": {
+      "uniqueSources": 60,
+      "positions": 417
+    },
+    "2020-c": {
+      "uniqueSources": 60,
+      "positions": 444
+    },
+    "2020-d": {
+      "uniqueSources": 60,
+      "positions": 258
+    },
+    "2020-e": {
+      "uniqueSources": 60,
+      "positions": 120
+    },
+    "2020-f": {
+      "uniqueSources": 60,
+      "positions": 128
+    },
+    "2020-g": {
+      "uniqueSources": 28,
+      "positions": 65
+    },
+    "final-supplement": {
+      "uniqueSources": 65,
+      "positions": 740
+    },
+    "political-terms": {
+      "uniqueSources": 12,
+      "positions": 31
+    }
+  },
+  "scenarios": [
+    {
+      "scope": "2020_Biden_Harris",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Kamala Harris",
+      "entriesIncludingBase": 324,
+      "reviewCounts": {
+        "human-full-field": 275,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Biden_Rice",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Susan Rice",
+      "entriesIncludingBase": 324,
+      "reviewCounts": {
+        "human-full-field": 275,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Biden_Duckworth",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Tammy Duckworth",
+      "entriesIncludingBase": 323,
+      "reviewCounts": {
+        "human-full-field": 274,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Biden_Demings",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Val Demings",
+      "entriesIncludingBase": 324,
+      "reviewCounts": {
+        "human-full-field": 275,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Biden_Bass",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Karen Bass",
+      "entriesIncludingBase": 324,
+      "reviewCounts": {
+        "human-full-field": 275,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Biden_Whitmer",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Gretchen Whitmer",
+      "entriesIncludingBase": 323,
+      "reviewCounts": {
+        "human-full-field": 274,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Biden_Warren",
+      "year": "2020",
+      "candidate": "Joe Biden",
+      "runningMate": "Elizabeth Warren",
+      "entriesIncludingBase": 321,
+      "reviewCounts": {
+        "human-full-field": 272,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Trump_Pence",
+      "year": "2020",
+      "candidate": "Donald Trump",
+      "runningMate": "Mike Pence",
+      "entriesIncludingBase": 333,
+      "reviewCounts": {
+        "human-full-field": 284,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2020_Trump_Haley",
+      "year": "2020",
+      "candidate": "Donald Trump",
+      "runningMate": "Nikki Haley",
+      "entriesIncludingBase": 333,
+      "reviewCounts": {
+        "human-full-field": 284,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Trump_Pence",
+      "year": "2016",
+      "candidate": "Donald Trump",
+      "runningMate": "Mike Pence",
+      "entriesIncludingBase": 320,
+      "reviewCounts": {
+        "human-full-field": 271,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Trump_Christie",
+      "year": "2016",
+      "candidate": "Donald Trump",
+      "runningMate": "Chris Christie",
+      "entriesIncludingBase": 324,
+      "reviewCounts": {
+        "human-full-field": 275,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Trump_Sessions",
+      "year": "2016",
+      "candidate": "Donald Trump",
+      "runningMate": "Jeff Sessions",
+      "entriesIncludingBase": 316,
+      "reviewCounts": {
+        "human-full-field": 267,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Trump_Carson",
+      "year": "2016",
+      "candidate": "Donald Trump",
+      "runningMate": "Ben Carson",
+      "entriesIncludingBase": 308,
+      "reviewCounts": {
+        "human-full-field": 259,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Trump_Palin",
+      "year": "2016",
+      "candidate": "Donald Trump",
+      "runningMate": "Sarah Palin",
+      "entriesIncludingBase": 318,
+      "reviewCounts": {
+        "human-full-field": 270,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Clinton_Kaine",
+      "year": "2016",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Tim Kaine",
+      "entriesIncludingBase": 314,
+      "reviewCounts": {
+        "human-full-field": 265,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Clinton_Booker",
+      "year": "2016",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Cory Booker",
+      "entriesIncludingBase": 311,
+      "reviewCounts": {
+        "human-full-field": 262,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Clinton_Brown",
+      "year": "2016",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Sherrod Brown",
+      "entriesIncludingBase": 317,
+      "reviewCounts": {
+        "human-full-field": 268,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Clinton_Sanders",
+      "year": "2016",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Bernie Sanders",
+      "entriesIncludingBase": 310,
+      "reviewCounts": {
+        "human-full-field": 261,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016_Clinton_Warren",
+      "year": "2016",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Elizabeth Warren",
+      "entriesIncludingBase": 311,
+      "reviewCounts": {
+        "human-full-field": 262,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Clinton_Booker",
+      "year": "2016a",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Cory Booker",
+      "entriesIncludingBase": 299,
+      "reviewCounts": {
+        "human-full-field": 250,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Clinton_Castro",
+      "year": "2016a",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Julian Castro",
+      "entriesIncludingBase": 281,
+      "reviewCounts": {
+        "human-full-field": 232,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Clinton_Warren",
+      "year": "2016a",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Elizabeth Warren",
+      "entriesIncludingBase": 270,
+      "reviewCounts": {
+        "human-full-field": 221,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Clinton_Brown",
+      "year": "2016a",
+      "candidate": "Hillary Clinton",
+      "runningMate": "Sherrod Brown",
+      "entriesIncludingBase": 274,
+      "reviewCounts": {
+        "human-full-field": 225,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Trump_Brown",
+      "year": "2016a",
+      "candidate": "Donald Trump",
+      "runningMate": "Scott Brown",
+      "entriesIncludingBase": 278,
+      "reviewCounts": {
+        "human-full-field": 229,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Trump_Christie",
+      "year": "2016a",
+      "candidate": "Donald Trump",
+      "runningMate": "Chris Christie",
+      "entriesIncludingBase": 264,
+      "reviewCounts": {
+        "human-full-field": 215,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2016a_Trump_Carson",
+      "year": "2016a",
+      "candidate": "Donald Trump",
+      "runningMate": "Ben Carson",
+      "entriesIncludingBase": 276,
+      "reviewCounts": {
+        "human-full-field": 227,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2012_Obama_Biden",
+      "year": "2012",
+      "candidate": "Barack Obama",
+      "runningMate": "Joe Biden",
+      "entriesIncludingBase": 342,
+      "reviewCounts": {
+        "human-full-field": 293,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2012_Obama_Clinton",
+      "year": "2012",
+      "candidate": "Barack Obama",
+      "runningMate": "Hillary Clinton",
+      "entriesIncludingBase": 346,
+      "reviewCounts": {
+        "human-full-field": 297,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2012_Romney_Ryan",
+      "year": "2012",
+      "candidate": "Mitt Romney",
+      "runningMate": "Paul Ryan",
+      "entriesIncludingBase": 355,
+      "reviewCounts": {
+        "human-full-field": 306,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2012_Romney_Portman",
+      "year": "2012",
+      "candidate": "Mitt Romney",
+      "runningMate": "Rob Portman",
+      "entriesIncludingBase": 344,
+      "reviewCounts": {
+        "human-full-field": 295,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2012_Romney_Rubio",
+      "year": "2012",
+      "candidate": "Mitt Romney",
+      "runningMate": "Marco Rubio",
+      "entriesIncludingBase": 361,
+      "reviewCounts": {
+        "human-full-field": 312,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2012_Romney_Pawlenty",
+      "year": "2012",
+      "candidate": "Mitt Romney",
+      "runningMate": "Tim Pawlenty",
+      "entriesIncludingBase": 348,
+      "reviewCounts": {
+        "human-full-field": 299,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Bush_Cheney",
+      "year": "2000",
+      "candidate": "George W. Bush",
+      "runningMate": "Dick Cheney",
+      "entriesIncludingBase": 416,
+      "reviewCounts": {
+        "human-full-field": 367,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Bush_Danforth",
+      "year": "2000",
+      "candidate": "George W. Bush",
+      "runningMate": "John Danforth",
+      "entriesIncludingBase": 423,
+      "reviewCounts": {
+        "human-full-field": 374,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Bush_Ridge",
+      "year": "2000",
+      "candidate": "George W. Bush",
+      "runningMate": "Tom Ridge",
+      "entriesIncludingBase": 426,
+      "reviewCounts": {
+        "human-full-field": 377,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Bush_Powell",
+      "year": "2000",
+      "candidate": "George W. Bush",
+      "runningMate": "Colin Powell",
+      "entriesIncludingBase": 430,
+      "reviewCounts": {
+        "human-full-field": 381,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Gore_Lieberman",
+      "year": "2000",
+      "candidate": "Al Gore",
+      "runningMate": "Joe Lieberman",
+      "entriesIncludingBase": 422,
+      "reviewCounts": {
+        "human-full-field": 373,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Gore_Graham",
+      "year": "2000",
+      "candidate": "Al Gore",
+      "runningMate": "Bob Graham",
+      "entriesIncludingBase": 401,
+      "reviewCounts": {
+        "human-full-field": 352,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Gore_Kerry",
+      "year": "2000",
+      "candidate": "Al Gore",
+      "runningMate": "John Kerry",
+      "entriesIncludingBase": 418,
+      "reviewCounts": {
+        "human-full-field": 369,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Gore_Bayh",
+      "year": "2000",
+      "candidate": "Al Gore",
+      "runningMate": "Evan Bayh",
+      "entriesIncludingBase": 423,
+      "reviewCounts": {
+        "human-full-field": 374,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "2000_Nader_LaDuke",
+      "year": "2000",
+      "candidate": "Ralph Nader",
+      "runningMate": "Winona LaDuke",
+      "entriesIncludingBase": 434,
+      "reviewCounts": {
+        "human-full-field": 385,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Bush_Quayle",
+      "year": "1988",
+      "candidate": "George Bush",
+      "runningMate": "Dan Quayle",
+      "entriesIncludingBase": 303,
+      "reviewCounts": {
+        "human-full-field": 254,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Bush_Dole",
+      "year": "1988",
+      "candidate": "George Bush",
+      "runningMate": "Bob Dole",
+      "entriesIncludingBase": 307,
+      "reviewCounts": {
+        "human-full-field": 258,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Bush_Kemp",
+      "year": "1988",
+      "candidate": "George Bush",
+      "runningMate": "Jack Kemp",
+      "entriesIncludingBase": 311,
+      "reviewCounts": {
+        "human-full-field": 262,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Dukakis_Bentsen",
+      "year": "1988",
+      "candidate": "Michael Dukakis",
+      "runningMate": "Lloyd Bentsen",
+      "entriesIncludingBase": 310,
+      "reviewCounts": {
+        "human-full-field": 261,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Dukakis_Glenn",
+      "year": "1988",
+      "candidate": "Michael Dukakis",
+      "runningMate": "John Glenn",
+      "entriesIncludingBase": 313,
+      "reviewCounts": {
+        "human-full-field": 264,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Dukakis_Gore",
+      "year": "1988",
+      "candidate": "Michael Dukakis",
+      "runningMate": "Al Gore",
+      "entriesIncludingBase": 313,
+      "reviewCounts": {
+        "human-full-field": 264,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1988_Dukakis_Jackson",
+      "year": "1988",
+      "candidate": "Michael Dukakis",
+      "runningMate": "Jesse Jackson",
+      "entriesIncludingBase": 309,
+      "reviewCounts": {
+        "human-full-field": 260,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Carter_Mondale",
+      "year": "1976",
+      "candidate": "Jimmy Carter",
+      "runningMate": "Walter Mondale",
+      "entriesIncludingBase": 378,
+      "reviewCounts": {
+        "human-full-field": 329,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Carter_Church",
+      "year": "1976",
+      "candidate": "Jimmy Carter",
+      "runningMate": "Frank Church",
+      "entriesIncludingBase": 378,
+      "reviewCounts": {
+        "human-full-field": 330,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Carter_Glenn",
+      "year": "1976",
+      "candidate": "Jimmy Carter",
+      "runningMate": "John Glenn",
+      "entriesIncludingBase": 383,
+      "reviewCounts": {
+        "human-full-field": 334,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Carter_Jackson",
+      "year": "1976",
+      "candidate": "Jimmy Carter",
+      "runningMate": "Scoop Jackson",
+      "entriesIncludingBase": 373,
+      "reviewCounts": {
+        "human-full-field": 324,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Ford_Dole",
+      "year": "1976",
+      "candidate": "Gerald Ford",
+      "runningMate": "Bob Dole",
+      "entriesIncludingBase": 386,
+      "reviewCounts": {
+        "human-full-field": 337,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Ford_Baker",
+      "year": "1976",
+      "candidate": "Gerald Ford",
+      "runningMate": "Howard Baker",
+      "entriesIncludingBase": 378,
+      "reviewCounts": {
+        "human-full-field": 329,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Ford_Anderson",
+      "year": "1976",
+      "candidate": "Gerald Ford",
+      "runningMate": "John Anderson",
+      "entriesIncludingBase": 370,
+      "reviewCounts": {
+        "human-full-field": 321,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1976_Ford_Connally",
+      "year": "1976",
+      "candidate": "Gerald Ford",
+      "runningMate": "John Connally",
+      "entriesIncludingBase": 375,
+      "reviewCounts": {
+        "human-full-field": 326,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Nixon_Agnew",
+      "year": "1968",
+      "candidate": "Richard Nixon",
+      "runningMate": "Spiro Agnew",
+      "entriesIncludingBase": 284,
+      "reviewCounts": {
+        "human-full-field": 235,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Nixon_Reagan",
+      "year": "1968",
+      "candidate": "Richard Nixon",
+      "runningMate": "Ronald Reagan",
+      "entriesIncludingBase": 282,
+      "reviewCounts": {
+        "human-full-field": 233,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Nixon_Rockefeller",
+      "year": "1968",
+      "candidate": "Richard Nixon",
+      "runningMate": "Nelson Rockefeller",
+      "entriesIncludingBase": 280,
+      "reviewCounts": {
+        "human-full-field": 231,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Nixon_Romney",
+      "year": "1968",
+      "candidate": "Richard Nixon",
+      "runningMate": "George Romney",
+      "entriesIncludingBase": 279,
+      "reviewCounts": {
+        "human-full-field": 230,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Humphrey_Muskie",
+      "year": "1968",
+      "candidate": "Hubert H. Humphrey",
+      "runningMate": "Edmund Muskie",
+      "entriesIncludingBase": 420,
+      "reviewCounts": {
+        "human-full-field": 371,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Humphrey_Kennedy",
+      "year": "1968",
+      "candidate": "Hubert H. Humphrey",
+      "runningMate": "Ted Kennedy",
+      "entriesIncludingBase": 417,
+      "reviewCounts": {
+        "human-full-field": 368,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Humphrey_Connally",
+      "year": "1968",
+      "candidate": "Hubert H. Humphrey",
+      "runningMate": "John Connally",
+      "entriesIncludingBase": 412,
+      "reviewCounts": {
+        "human-full-field": 363,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Humphrey_Harris",
+      "year": "1968",
+      "candidate": "Hubert H. Humphrey",
+      "runningMate": "Fred Harris",
+      "entriesIncludingBase": 414,
+      "reviewCounts": {
+        "human-full-field": 365,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Wallace_LeMay",
+      "year": "1968",
+      "candidate": "George Wallace",
+      "runningMate": "Curtis LeMay",
+      "entriesIncludingBase": 280,
+      "reviewCounts": {
+        "human-full-field": 231,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Wallace_Thurmond",
+      "year": "1968",
+      "candidate": "George Wallace",
+      "runningMate": "Strom Thurmond",
+      "entriesIncludingBase": 281,
+      "reviewCounts": {
+        "human-full-field": 232,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1968_Wallace_Chandler",
+      "year": "1968",
+      "candidate": "George Wallace",
+      "runningMate": "Happy Chandler",
+      "entriesIncludingBase": 283,
+      "reviewCounts": {
+        "human-full-field": 234,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1964_Johnson_Humphrey",
+      "year": "1964",
+      "candidate": "Lyndon B. Johnson",
+      "runningMate": "Hubert H. Humphrey",
+      "entriesIncludingBase": 216,
+      "reviewCounts": {
+        "human-full-field": 167,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1964_Goldwater_Miller",
+      "year": "1964",
+      "candidate": "Barry Goldwater",
+      "runningMate": "William E. Miller",
+      "entriesIncludingBase": 219,
+      "reviewCounts": {
+        "human-full-field": 170,
+        "short-label-or-name": 49
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Kennedy_Johnson",
+      "year": "1960",
+      "candidate": "John F. Kennedy",
+      "runningMate": "Lyndon Johnson",
+      "entriesIncludingBase": 307,
+      "reviewCounts": {
+        "human-full-field": 259,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Kennedy_Symington",
+      "year": "1960",
+      "candidate": "John F. Kennedy",
+      "runningMate": "Stuart Symington",
+      "entriesIncludingBase": 313,
+      "reviewCounts": {
+        "human-full-field": 265,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Kennedy_Humphrey",
+      "year": "1960",
+      "candidate": "John F. Kennedy",
+      "runningMate": "Hubert H. Humphrey",
+      "entriesIncludingBase": 305,
+      "reviewCounts": {
+        "human-full-field": 257,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Nixon_Lodge",
+      "year": "1960",
+      "candidate": "Richard Nixon",
+      "runningMate": "Henry Cabot Lodge",
+      "entriesIncludingBase": 307,
+      "reviewCounts": {
+        "human-full-field": 259,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Nixon_Dirksen",
+      "year": "1960",
+      "candidate": "Richard Nixon",
+      "runningMate": "Everett Dirksen",
+      "entriesIncludingBase": 309,
+      "reviewCounts": {
+        "human-full-field": 261,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Nixon_Rockefeller",
+      "year": "1960",
+      "candidate": "Richard Nixon",
+      "runningMate": "Nelson Rockefeller",
+      "entriesIncludingBase": 301,
+      "reviewCounts": {
+        "human-full-field": 253,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1960_Nixon_Goldwater",
+      "year": "1960",
+      "candidate": "Richard Nixon",
+      "runningMate": "Barry Goldwater",
+      "entriesIncludingBase": 308,
+      "reviewCounts": {
+        "human-full-field": 260,
+        "short-label-or-name": 48
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1948_Truman_Barkley",
+      "year": "1948",
+      "candidate": "Harry Truman",
+      "runningMate": "Alben Barkley",
+      "entriesIncludingBase": 302,
+      "reviewCounts": {
+        "human-full-field": 256,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1948_Dewey_Warren",
+      "year": "1948",
+      "candidate": "Thomas Dewey",
+      "runningMate": "Earl Warren",
+      "entriesIncludingBase": 296,
+      "reviewCounts": {
+        "human-full-field": 250,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1948_Dewey_Stassen",
+      "year": "1948",
+      "candidate": "Thomas Dewey",
+      "runningMate": "Harold Stassen",
+      "entriesIncludingBase": 301,
+      "reviewCounts": {
+        "human-full-field": 256,
+        "short-label-or-name": 45
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1948_Dewey_Bricker",
+      "year": "1948",
+      "candidate": "Thomas Dewey",
+      "runningMate": "John Bricker",
+      "entriesIncludingBase": 301,
+      "reviewCounts": {
+        "human-full-field": 255,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1948_Dewey_Vandenberg",
+      "year": "1948",
+      "candidate": "Thomas Dewey",
+      "runningMate": "Arthur Vandenberg",
+      "entriesIncludingBase": 296,
+      "reviewCounts": {
+        "human-full-field": 250,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1916_Wilson_Marshall",
+      "year": "1916",
+      "candidate": "Woodrow Wilson",
+      "runningMate": "Thomas R. Marshall",
+      "entriesIncludingBase": 296,
+      "reviewCounts": {
+        "human-full-field": 250,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1916_Wilson_Baker",
+      "year": "1916",
+      "candidate": "Woodrow Wilson",
+      "runningMate": "Newton Baker",
+      "entriesIncludingBase": 288,
+      "reviewCounts": {
+        "human-full-field": 242,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1916_Hughes_Fairbanks",
+      "year": "1916",
+      "candidate": "Charles Evans Hughes",
+      "runningMate": "Charles W. Fairbanks",
+      "entriesIncludingBase": 282,
+      "reviewCounts": {
+        "human-full-field": 236,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1916_Hughes_Burkett",
+      "year": "1916",
+      "candidate": "Charles Evans Hughes",
+      "runningMate": "Elmer Burkett",
+      "entriesIncludingBase": 280,
+      "reviewCounts": {
+        "human-full-field": 234,
+        "short-label-or-name": 46
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_McKinley_Hobart",
+      "year": "1896",
+      "candidate": "William McKinley",
+      "runningMate": "Garret Hobart",
+      "entriesIncludingBase": 277,
+      "reviewCounts": {
+        "human-full-field": 234,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_McKinley_Reed",
+      "year": "1896",
+      "candidate": "William McKinley",
+      "runningMate": "Thomas B. Reed",
+      "entriesIncludingBase": 286,
+      "reviewCounts": {
+        "human-full-field": 243,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_McKinley_Quay",
+      "year": "1896",
+      "candidate": "William McKinley",
+      "runningMate": "Matthew Quay",
+      "entriesIncludingBase": 292,
+      "reviewCounts": {
+        "human-full-field": 249,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_McKinley_Gage",
+      "year": "1896",
+      "candidate": "William McKinley",
+      "runningMate": "Lyman Gage",
+      "entriesIncludingBase": 290,
+      "reviewCounts": {
+        "human-full-field": 247,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_Bryan_Sewall",
+      "year": "1896",
+      "candidate": "William Jennings Bryan",
+      "runningMate": "Arthur Sewall",
+      "entriesIncludingBase": 292,
+      "reviewCounts": {
+        "human-full-field": 249,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_Bryan_Stevenson",
+      "year": "1896",
+      "candidate": "William Jennings Bryan",
+      "runningMate": "Adlai Stevenson",
+      "entriesIncludingBase": 295,
+      "reviewCounts": {
+        "human-full-field": 252,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_Bryan_Matthews",
+      "year": "1896",
+      "candidate": "William Jennings Bryan",
+      "runningMate": "Claude Matthews",
+      "entriesIncludingBase": 285,
+      "reviewCounts": {
+        "human-full-field": 242,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_Bryan_Boies",
+      "year": "1896",
+      "candidate": "William Jennings Bryan",
+      "runningMate": "Horace Boies",
+      "entriesIncludingBase": 286,
+      "reviewCounts": {
+        "human-full-field": 243,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1896_Bryan_Teller",
+      "year": "1896",
+      "candidate": "William Jennings Bryan",
+      "runningMate": "Henry Teller",
+      "entriesIncludingBase": 301,
+      "reviewCounts": {
+        "human-full-field": 258,
+        "short-label-or-name": 43
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1860_Lincoln_Hamlin",
+      "year": "1860",
+      "candidate": "Abraham Lincoln",
+      "runningMate": "Hannibal Hamlin",
+      "entriesIncludingBase": 214,
+      "reviewCounts": {
+        "human-full-field": 183,
+        "short-label-or-name": 31
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1860_Lincoln_Clay",
+      "year": "1860",
+      "candidate": "Abraham Lincoln",
+      "runningMate": "Cassius Clay",
+      "entriesIncludingBase": 211,
+      "reviewCounts": {
+        "human-full-field": 180,
+        "short-label-or-name": 31
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1860_Lincoln_Chase",
+      "year": "1860",
+      "candidate": "Abraham Lincoln",
+      "runningMate": "Salmon Chase",
+      "entriesIncludingBase": 211,
+      "reviewCounts": {
+        "human-full-field": 180,
+        "short-label-or-name": 31
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1860_Douglas_Johnson",
+      "year": "1860",
+      "candidate": "Stephen A. Douglas",
+      "runningMate": "Herschel Johnson",
+      "entriesIncludingBase": 222,
+      "reviewCounts": {
+        "human-full-field": 191,
+        "short-label-or-name": 31
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1860_Douglas_Guthrie",
+      "year": "1860",
+      "candidate": "Stephen A. Douglas",
+      "runningMate": "James Guthrie",
+      "entriesIncludingBase": 218,
+      "reviewCounts": {
+        "human-full-field": 187,
+        "short-label-or-name": 31
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1860_Douglas_Seymour",
+      "year": "1860",
+      "candidate": "Stephen A. Douglas",
+      "runningMate": "Horatio Seymour",
+      "entriesIncludingBase": 217,
+      "reviewCounts": {
+        "human-full-field": 186,
+        "short-label-or-name": 31
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1844_Polk_Dallas",
+      "year": "1844",
+      "candidate": "James K. Polk",
+      "runningMate": "George Dallas",
+      "entriesIncludingBase": 262,
+      "reviewCounts": {
+        "human-full-field": 237,
+        "short-label-or-name": 25
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1844_Polk_Woodbury",
+      "year": "1844",
+      "candidate": "James K. Polk",
+      "runningMate": "Levi Woodbury",
+      "entriesIncludingBase": 255,
+      "reviewCounts": {
+        "human-full-field": 230,
+        "short-label-or-name": 25
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1844_Clay_Frelinghuysen",
+      "year": "1844",
+      "candidate": "Henry Clay",
+      "runningMate": "Theodore Frelinghuysen",
+      "entriesIncludingBase": 269,
+      "reviewCounts": {
+        "human-full-field": 244,
+        "short-label-or-name": 25
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1844_Clay_Sergeant",
+      "year": "1844",
+      "candidate": "Henry Clay",
+      "runningMate": "John Sergeant",
+      "entriesIncludingBase": 264,
+      "reviewCounts": {
+        "human-full-field": 239,
+        "short-label-or-name": 25
+      },
+      "remainingProse": []
+    },
+    {
+      "scope": "1844_Clay_Fillmore",
+      "year": "1844",
+      "candidate": "Henry Clay",
+      "runningMate": "Millard Fillmore",
+      "entriesIncludingBase": 270,
+      "reviewCounts": {
+        "human-full-field": 245,
+        "short-label-or-name": 25
+      },
+      "remainingProse": []
+    }
+  ],
+  "completeProseYears": [
+    "2020",
+    "2016",
+    "2016a",
+    "2012",
+    "2000",
+    "1988",
+    "1976",
+    "1968",
+    "1964",
+    "1960",
+    "1948",
+    "1916",
+    "1896",
+    "1860",
+    "1844"
+  ],
+  "remainingProjectDraftSources": 0,
+  "limits": [
+    "Short labels and person/state names retain glossary review; full prose was read in complete fields.",
+    "No independent historian certification. Preserve original partisan claims and disclose source errors.",
+    "Only years listed in completeProseYears have complete prose-field coverage; segment review alone does not qualify."
+  ]
+}

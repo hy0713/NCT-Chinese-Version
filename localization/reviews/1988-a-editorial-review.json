@@ -1,0 +1,1138 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1988-a",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 341,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 10,
+      "reason": "Malformed You, Let's omitted as a broken filler, substantive inability to exploit Dukakis mistakes retained; English unchanged."
+    },
+    {
+      "index": 11,
+      "reason": "road the wave interpreted as rode the wave, contextual idiom."
+    },
+    {
+      "index": 14,
+      "reason": "Original first duo reelection claim retained as counterfactual, not independently certified historical superlative. Elected full terms not rewritten as completed full terms."
+    },
+    {
+      "index": 17,
+      "reason": "suffering the USSR interpreted contextually as troubles suffered by the USSR; English unchanged."
+    },
+    {
+      "index": 21,
+      "reason": "Incomplete Likely due to clause interpreted as moderate views plus close result prompting bipartisan government."
+    },
+    {
+      "index": 29,
+      "reason": "with be read as will be, English unchanged."
+    },
+    {
+      "index": 36,
+      "reason": "Original Granada interpreted as Caribbean Grenada, not Spanish Granada; English unchanged."
+    },
+    {
+      "index": 38,
+      "reason": "Massachusetts Congress interpreted as state legislature. 1971 bill details remain independently unverified, original allegation preserved, not certified as fact."
+    },
+    {
+      "index": 49,
+      "reason": "Invalid translated as sick person in medical-record allegation context, no diagnosis inferred. Original speech setting retained although primary source is press Q&A."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>After eight years of Ronald Reagan, the nation seems headed for a new direction in government.</p><ul><li>George Bush is Reagan's Vice President, but trails his challenger by several points.</li><li>Michael Dukakis, Governor of Massachusetts, is a new figure on the national scene. Can he keep the good feelings going through election day?</li></ul><p>Bush must find some way to shake up the race. He could emphasize the strong economy, or attack Dukakis on a number of fronts.</p>",
+      "sha256": "bab3bd98db63a06ed5d035ef7b16055ee5c8a43333ef3db80bcdffd2bb8e4ef4",
+      "zh": "<p>罗纳德·里根执政八年之后，国家似乎即将迎来政府的新方向。</p><ul><li>乔治·布什是里根的副总统，但目前落后挑战者几个百分点。</li><li>马萨诸塞州州长迈克尔·杜卡基斯是全国政坛的新面孔。他能让这股良好势头一直持续到选举日吗？</li></ul><p>布什必须设法改变选战形势。他可以强调经济强劲，也可以从多个方面攻击杜卡基斯。</p>",
+      "keys": [
+        "base/election_json/15@5/summary"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<h3>Congratulations! You have won the 1988 election.</h3><p>In spite of a hard-fought challenge from Michael Dukakis, you have held on to succeed Ronald Reagan.</p><p>Whatever you did, it must have worked. Observers were leaving your campaign for dead just a few months ago. On the political front, you can continue the policies of Reagan or turn in a more moderate direction. Internationally, you can hopefully oversee a period of relaxed tension with the Soviet Union.</p>",
+      "sha256": "ac637f7cabe854a79c8046330cdad1985cea436aea384fa384ca7d2304e355da",
+      "zh": "<h3>恭喜！你赢得了1988年选举。</h3><p>尽管迈克尔·杜卡基斯奋力挑战，你还是坚持到了最后，将接替罗纳德·里根。</p><p>不管你采取了什么办法，显然都奏效了。就在几个月前，观察人士还认为你的竞选已经无可挽救。在国内政治上，你可以继续里根的政策，也可以转向更温和的路线。在国际上，希望你能在任内见证美国与苏联关系缓和的一段时期。</p>",
+      "keys": [
+        "base/candidate_json/152@132/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry. You have lost the 1988 election.</h3><p>Perhaps it was always a long-shot -- the American people just seemed ready to move on from Reagan.</p><p>Time will tell if Dukakis governs as a moderate, a liberal, or a technocrat. A lot can happen in four years, but the early gossip is that Bob Dole has the inside track for the 1992 nomination. Your next steps are unclear.</p>",
+      "sha256": "732b9cf8f3300bcc0acc5ad0f1cc6422aee853e1dab03da5de32cfe3e79b8a43",
+      "zh": "<h3>很遗憾，你输掉了1988年选举。</h3><p>也许胜算从一开始就不大——美国人似乎就是准备告别里根时代了。</p><p>杜卡基斯会以温和派、自由派还是技术官僚的方式执政，时间会给出答案。四年间可能发生很多事，但眼下已有传言说，鲍勃·多尔最有希望获得1992年的提名。你的下一步还不明朗。</p>",
+      "keys": [
+        "base/candidate_json/152@132/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "<h3>Sorry. You have lost the 1988 election.</h3><p>Although the Electoral College was tied, the Democrats have won a solid majority in the House, and will elevate Michael Dukakis to the Presidency.</p><p>Time will tell if Dukakis governs as a moderate, a liberal, or a technocrat. A lot can happen in four years, but the early gossip is that Bob Dole has the inside track for the 1992 nomination. Your next steps are unclear.</p>",
+      "sha256": "7778ba14357b5b872f1675c740c35a16a6f8bf973c49e3d5370e315a3eb08f98",
+      "zh": "<h3>很遗憾，你输掉了1988年选举。</h3><p>虽然选举人团票数打成平手，民主党却赢得了众议院的稳固多数，将推举迈克尔·杜卡基斯担任总统。</p><p>杜卡基斯会以温和派、自由派还是技术官僚的方式执政，时间会给出答案。四年间可能发生很多事，但眼下已有传言说，鲍勃·多尔最有希望获得1992年的提名。你的下一步还不明朗。</p>",
+      "keys": [
+        "base/candidate_json/152@132/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>Congratulations! You have won the 1988 election.</h3><p>In spite of a hard-fought challenge from George Bush, you have held on to succeed Ronald Reagan.</p><p>You were always the favorite to win, but a lot could have gone wrong. On the political front, you can work a Democratic House to overturn the worst excesses of Reagan. Internationally, you can hopefully oversee a period of relaxed tension with the Soviet Union.</p>",
+      "sha256": "7beb3cade62caf7179e68ae7a42792e3bb03865966ab2442a25b2a8f931dda53",
+      "zh": "<h3>恭喜！你赢得了1988年选举。</h3><p>尽管乔治·布什奋力挑战，你还是坚持到了最后，将接替罗纳德·里根。</p><p>你一直是最被看好的人选，但许多环节都可能出差错。在国内政治上，你可以与民主党控制的众议院合作，纠正里根执政中最过火的政策。在国际上，希望你能在任内见证美国与苏联关系缓和的一段时期。</p>",
+      "keys": [
+        "base/candidate_json/153@133/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "<h3>Sorry. You have lost the 1988 election.</h3><p>In spite of you being the favorite, things just never seemed to click once the real campaigning began.</p><p>Time will tell if Bush governs as a moderate, or a staunch conservative. Many Democrats feel that this election was yours to lose, and it seems unlikely that you will be welcome to run again in four years. Your term as Governor, however, runs through 1991.</p>",
+      "sha256": "c24166f30ac55b3184ee1500512120dd64494f325ba1c6fecd98c117e59ca3ca",
+      "zh": "<h3>很遗憾，你输掉了1988年选举。</h3><p>尽管你原本最被看好，真正的竞选开始后，一切却似乎始终未能步入正轨。</p><p>布什会以温和派还是坚定保守派的方式执政，时间会给出答案。许多民主党人认为，这本是你只要不犯错就能赢的选举，因此四年后你再度参选，恐怕不会受到欢迎。不过，你的州长任期将持续到1991年。</p>",
+      "keys": [
+        "base/candidate_json/153@133/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>Congratulations! You have won the 1988 election.</h3><p>Although the Electoral College was tied, the Democrats have won a solid majority in the House, and will elevate Michael Dukakis to the Presidency.</p><p>On the political front, you can work a Democratic House to overturn the worst excesses of Reagan. Internationally, you can hopefully oversee a period of relaxed tension with the Soviet Union.</p>",
+      "sha256": "3937a4eebae24f258fbeaf73aeb42fd42e53342d17ef98384d3a50d60e0699f3",
+      "zh": "<h3>恭喜！你赢得了1988年选举。</h3><p>虽然选举人团票数打成平手，民主党却赢得了众议院的稳固多数，将推举迈克尔·杜卡基斯担任总统。</p><p>在国内政治上，你可以与民主党控制的众议院合作，纠正里根执政中最过火的政策。在国际上，希望你能在任内见证美国与苏联关系缓和的一段时期。</p>",
+      "keys": [
+        "base/candidate_json/153@133/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": " Sorry, you've lost the 1988 election",
+      "sha256": "cd4eed6209ea235b9e2f30478a215c1566330260a5c38d0cd1b56529c2514d21",
+      "zh": "很遗憾，你输掉了1988年选举。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l65.c27/text",
+        "1988_Bush_Dole/ending/s0.l65.c27/text",
+        "1988_Bush_Kemp/ending/s0.l65.c27/text",
+        "1988_Dukakis_Bentsen/ending/s0.l65.c27/text",
+        "1988_Dukakis_Glenn/ending/s0.l65.c27/text",
+        "1988_Dukakis_Gore/ending/s0.l65.c27/text",
+        "1988_Dukakis_Jackson/ending/s0.l65.c27/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "After a long and storied career serving the US government, it seems retirement is in store for you. It's unlikely you will get renominated if you try, anyways. Bob Dole will most likely be the next nominee for the presidency. Your son Jeb looks to be interested in politics, perhaps HE could be president one day.",
+      "sha256": "2cb0ba1ef6330289ea4d634488914d05d4e0e75e0e2e1aff10ff682050ab351a",
+      "zh": "你为美国政府服务多年，经历丰富，如今似乎该退休了。反正即便尝试，你也很难再获提名。鲍勃·多尔很可能成为下一个总统候选人。你的儿子杰布似乎对政治有兴趣，也许有朝一日当总统的是他呢。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l67.c16/text",
+        "1988_Bush_Dole/ending/s0.l67.c16/text",
+        "1988_Bush_Kemp/ending/s0.l67.c16/text",
+        "1988_Dukakis_Bentsen/ending/s0.l67.c16/text",
+        "1988_Dukakis_Glenn/ending/s0.l67.c16/text",
+        "1988_Dukakis_Gore/ending/s0.l67.c16/text",
+        "1988_Dukakis_Jackson/ending/s0.l67.c16/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Despite the popularity of Reagan, it seems the American public was ready to move on to a more left-wing president. Dukakis will likely overturn much of the excessive tax cuts of Reagan, and expand social security. Conservativism still has a market, however,  in the American population, as it was a fairly close election. Unfortunately, it was likely your lack of independence from Reagan that caused it. Perhaps a more assertive candidate could run in 4 years?",
+      "sha256": "cf5032b19d4701ae1f2dbd0be4d0bae52c513236bd8f3d4dd254836ad5c8677e",
+      "zh": "尽管里根广受欢迎，美国公众似乎还是准备迎接一位更偏左的总统。杜卡基斯很可能撤销里根许多过度减税的措施，并扩大社会保障。不过，这场选举相当接近，说明保守主义在美国民众中仍有市场。遗憾的是，败选很可能是因为你未能展现出足够独立于里根的形象。也许四年后可以让一位更有主见的候选人出马？",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l70.c20/text",
+        "1988_Bush_Dole/ending/s0.l70.c20/text",
+        "1988_Bush_Kemp/ending/s0.l70.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l70.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l70.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l70.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l70.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Despite the popularity of Reagan, it seems the American public was ready to move on to a more left-wing president. Dukakis will overturn much of the excessive tax cuts of Reagan, and expand social security. You, Let’s unfortunately, were not able to capitalize on the many political mistakes of Dukakis's career, and Republicans are disappointed that they couldn't keep the White House.",
+      "sha256": "d89b4b234d80ba12f6aac88b0dcfa78bf9b763c5f8d58d054ec1cccd98fa2e30",
+      "zh": "尽管里根广受欢迎，美国公众似乎还是准备迎接一位更偏左的总统。杜卡基斯将撤销里根许多过度减税的措施，并扩大社会保障。遗憾的是，你未能利用杜卡基斯政治生涯中的诸多失误，共和党人对没能保住白宫感到失望。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l73.c20/text",
+        "1988_Bush_Dole/ending/s0.l73.c20/text",
+        "1988_Bush_Kemp/ending/s0.l73.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l73.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l73.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l73.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l73.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Despite the popularity of Reagan, it seems the American public was ready to move on to a more left-wing president. Dukakis will overturn much of the excessive tax cuts of Reagan, and expand social security. Many are shocked you lost by such a large margin and are calling into question if you were even fit for the vice presidency in the first place, or just road the wave of Reagan popularity  .",
+      "sha256": "190e80f535cf92a50e2507991fe91c8ffb3f59b23dca2b7112154153eee05d25",
+      "zh": "尽管里根广受欢迎，美国公众似乎还是准备迎接一位更偏左的总统。杜卡基斯将撤销里根许多过度减税的措施，并扩大社会保障。许多人震惊于你输得如此惨重，开始怀疑你当初是否有资格担任副总统，还是只是搭上了里根受欢迎的顺风车。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l76.c20/text",
+        "1988_Bush_Dole/ending/s0.l76.c20/text",
+        "1988_Bush_Kemp/ending/s0.l76.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l76.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l76.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l76.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l76.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Exactly 100 years after the previous instance of this, the popular vote loser has won the election!. Republicans aren't happy at all, and you can be sure they’re already thinking about 1992.",
+      "sha256": "18a74397543b0f5e8f71b29c6e800e6d08c2b2938d08bbe3538e8c2cf94f88fa",
+      "zh": "距离上次恰好一百年，普选票落败者又一次赢得了总统选举！共和党人很不高兴，而且可以肯定，他们已经在盘算1992年了。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l79.c33/text",
+        "1988_Bush_Dole/ending/s0.l79.c33/text",
+        "1988_Bush_Kemp/ending/s0.l79.c33/text",
+        "1988_Dukakis_Bentsen/ending/s0.l79.c33/text",
+        "1988_Dukakis_Glenn/ending/s0.l79.c33/text",
+        "1988_Dukakis_Gore/ending/s0.l79.c33/text",
+        "1988_Dukakis_Jackson/ending/s0.l79.c33/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Congratulations! You won the 1988 election",
+      "sha256": "a5053ae057be175f9ee4a8db87affcd434941a60fc6a8ca9f7f4285d462b218f",
+      "zh": "恭喜！你赢得了1988年选举。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l82.c27/text",
+        "1988_Bush_Quayle/ending/s0.l119.c27/text",
+        "1988_Bush_Dole/ending/s0.l82.c27/text",
+        "1988_Bush_Dole/ending/s0.l119.c27/text",
+        "1988_Bush_Kemp/ending/s0.l82.c27/text",
+        "1988_Bush_Kemp/ending/s0.l119.c27/text",
+        "1988_Dukakis_Bentsen/ending/s0.l82.c27/text",
+        "1988_Dukakis_Bentsen/ending/s0.l119.c27/text",
+        "1988_Dukakis_Glenn/ending/s0.l82.c27/text",
+        "1988_Dukakis_Glenn/ending/s0.l119.c27/text",
+        "1988_Dukakis_Gore/ending/s0.l82.c27/text",
+        "1988_Dukakis_Gore/ending/s0.l119.c27/text",
+        "1988_Dukakis_Jackson/ending/s0.l82.c27/text",
+        "1988_Dukakis_Jackson/ending/s0.l119.c27/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "While most people are expecting a third term of Reagan, you know you didn't get elected solely on that idea. Your economic policy won't change for the most part, but you might be able to cool tensions a bit with the USSR, as that was one of the worries Americans had with Reagan. If all goes well, then you can be re-elected, and be the first president-vice president duo to be elected to 2 full terms each.",
+      "sha256": "b14d1c1e0202b34f6b9c7e6e6d0f070c8744593065594c18209dbe06aec86228",
+      "zh": "虽然大多数人期待的是“里根的第三届任期”，你知道自己并不只是靠这个主张当选。你的经济政策基本不会变，但也许可以稍稍缓和与苏联的紧张关系——这正是美国人对里根的一项担忧。如果一切顺利，你就能连任，成为首对先后各自当选两届完整任期的总统与副总统搭档。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l84.c16/text",
+        "1988_Bush_Dole/ending/s0.l84.c16/text",
+        "1988_Bush_Kemp/ending/s0.l84.c16/text",
+        "1988_Dukakis_Bentsen/ending/s0.l84.c16/text",
+        "1988_Dukakis_Glenn/ending/s0.l84.c16/text",
+        "1988_Dukakis_Gore/ending/s0.l84.c16/text",
+        "1988_Dukakis_Jackson/ending/s0.l84.c16/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Congratulations! Despite a challenge from the left in Dukakis, you have held on to win the 1988 election. Not since 1928 have the Republicans won three in a row. Let’s hope you don't turn out like that ill-fated president, Herbert Hoover. Your margin is certainly impressive, as many thought it would be a closer election due to 2 terms of Republicans.",
+      "sha256": "6ac366974923a3822cc7f47b0a8d8db4bdd044e7ff54c90c271a0543dc73c52d",
+      "zh": "恭喜！尽管杜卡基斯从左翼发起挑战，你还是坚持到了最后，赢得1988年选举。共和党自1928年以来，还没有连续赢得过三次总统选举。希望你别像那位时运不济的总统赫伯特·胡佛一样收场。你的优势确实惊人，许多人原本认为，共和党已经执政两届，这次选举会更加接近。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l87.c20/text",
+        "1988_Bush_Dole/ending/s0.l87.c20/text",
+        "1988_Bush_Kemp/ending/s0.l87.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l87.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l87.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l87.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l87.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Congratulations! Despite a challenge from the left in Dukakis, you have held on to win the 1988 election. Not since 1928 have the Republicans won three in a row. Let’s hope you don't turn out like that ill-fated president, Herbert Hoover. You didn't do as well as Reagan, however, you still have won by a decent margin, so let’s hope you can work with the Democrats to engineer some bipartisanship legislature.",
+      "sha256": "94d99b3c1235a681032a092466b6299a0bfa382b8e36f3c89a29d7169497abb7",
+      "zh": "恭喜！尽管杜卡基斯从左翼发起挑战，你还是坚持到了最后，赢得1988年选举。共和党自1928年以来，还没有连续赢得过三次总统选举。希望你别像那位时运不济的总统赫伯特·胡佛一样收场。你虽然不及里根的战绩，但优势依然可观，希望你能与民主党合作，促成两党共同支持的立法。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l90.c20/text",
+        "1988_Bush_Dole/ending/s0.l90.c20/text",
+        "1988_Bush_Kemp/ending/s0.l90.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l90.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l90.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l90.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l90.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Congratulations! Despite a challenge from the left in Dukakis, you have held on to win the 1988 election. Not since 1928 have the Republicans won three in a row. Let’s hope you don't turn out like that ill-fated president, Herbert Hoover. The election was quite close, as many predicted, so let’s  hope the good economy and suffering the USSR can carry you through to the midterms.",
+      "sha256": "ecdaffe49fbd89826c9c82a0478d2df21de07aef5c27502c143814e8cf06b521",
+      "zh": "恭喜！尽管杜卡基斯从左翼发起挑战，你还是坚持到了最后，赢得1988年选举。共和党自1928年以来，还没有连续赢得过三次总统选举。希望你别像那位时运不济的总统赫伯特·胡佛一样收场。正如许多人预测的那样，选举十分接近；希望良好的经济形势与苏联的困境能帮你撑过中期选举。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l93.c20/text",
+        "1988_Bush_Dole/ending/s0.l93.c20/text",
+        "1988_Bush_Kemp/ending/s0.l93.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l93.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l93.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l93.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l93.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "For the first time since 1888, the loser of the popular vote has won the election! This has many Democrats are very angry, and they are lamenting the Bayh-Celler amendment not passing.",
+      "sha256": "1b3f17eb2a1434e1ca7fe795026c01b0f1d5080c3d402369b3e69e3815a60667",
+      "zh": "自1888年以来，普选票落败者首次赢得了总统选举！许多民主党人对此非常愤怒，痛惜贝赫—塞勒修正案未能通过。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l96.c33/text",
+        "1988_Bush_Dole/ending/s0.l96.c33/text",
+        "1988_Bush_Kemp/ending/s0.l96.c33/text",
+        "1988_Dukakis_Bentsen/ending/s0.l96.c33/text",
+        "1988_Dukakis_Glenn/ending/s0.l96.c33/text",
+        "1988_Dukakis_Gore/ending/s0.l96.c33/text",
+        "1988_Dukakis_Jackson/ending/s0.l96.c33/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Sorry, you've lost the 1988 election",
+      "sha256": "dd8789b992cf0c2f8ea258361cd6700510d33f0ea5dfd1ccc609b5da48a44965",
+      "zh": "很遗憾，你输掉了1988年选举。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l102.c27/text",
+        "1988_Bush_Dole/ending/s0.l102.c27/text",
+        "1988_Bush_Kemp/ending/s0.l102.c27/text",
+        "1988_Dukakis_Bentsen/ending/s0.l102.c27/text",
+        "1988_Dukakis_Glenn/ending/s0.l102.c27/text",
+        "1988_Dukakis_Gore/ending/s0.l102.c27/text",
+        "1988_Dukakis_Jackson/ending/s0.l102.c27/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "You are still governor of Massachusetts, and your term expires in 91. it's up to you whether or not you seek a 4th term, but ultimately federal politics seems no longer the choice for you. Let’s hope the more moderate Bush can end the cold war once and for all, and keep America prosperous.",
+      "sha256": "1137a7408cd1d1b93ff885a67eefd8ab4f8dc91aaf9e8b07a805221680c3de2f",
+      "zh": "你仍是马萨诸塞州州长，任期将在1991年结束。是否争取第四届任期由你决定，但联邦政治似乎终究不再适合你。希望更加温和的布什能彻底结束冷战，让美国保持繁荣。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l104.c16/text",
+        "1988_Bush_Dole/ending/s0.l104.c16/text",
+        "1988_Bush_Kemp/ending/s0.l104.c16/text",
+        "1988_Dukakis_Bentsen/ending/s0.l104.c16/text",
+        "1988_Dukakis_Glenn/ending/s0.l104.c16/text",
+        "1988_Dukakis_Gore/ending/s0.l104.c16/text",
+        "1988_Dukakis_Jackson/ending/s0.l104.c16/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "It seems the right-wing political machine was too much for you. The constant barrage of attacks and a strong economy have propelled Bush to the white house. Likely due to the moderate opinions of Bush, and the close election will force him to govern across party lines.",
+      "sha256": "691b5413b06a035fa8fd3c95bd7da2c582e26486926a1df0466758648af9f4f7",
+      "zh": "右翼政治机器似乎实在太强大，你难以招架。接连不断的攻击和强劲的经济将布什送入白宫。布什的温和观点，加上接近的选举结果，很可能会迫使他跨越党派界线执政。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l107.c20/text",
+        "1988_Bush_Dole/ending/s0.l107.c20/text",
+        "1988_Bush_Kemp/ending/s0.l107.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l107.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l107.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l107.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l107.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "It seems the right-wing political machine was too much for you. The constant barrage of attacks and a strong economy have propelled Bush to the white house. Many are shocked at Bush's comeback, seeing as you were the favourite early on. Reagan's popularity was just too much for you to deal with.",
+      "sha256": "0b2f1a290527f8f211e362fec4b7b55bb0cf1befd0de03ce40d5d32bad4e09c9",
+      "zh": "右翼政治机器似乎实在太强大，你难以招架。接连不断的攻击和强劲的经济将布什送入白宫。你早期最被看好，因此许多人对布什的逆转感到震惊。里根的人气实在令你无从应对。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l110.c20/text",
+        "1988_Bush_Dole/ending/s0.l110.c20/text",
+        "1988_Bush_Kemp/ending/s0.l110.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l110.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l110.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l110.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l110.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "It seems the right-wing political machine was too much for you. The constant barrage of attacks and a strong economy have propelled Bush to the white house. Many are shocked at your massive loss, as you weren't even favoured to lose in the first place. Most people think you should have stuck up for yourself more, and not ignore the attacks Bush made.",
+      "sha256": "27720f70d8f6e9b8c1039a8d89cc2f0eafeaf11762c16470bbfbfd5c5dcc6106",
+      "zh": "右翼政治机器似乎实在太强大，你难以招架。接连不断的攻击和强劲的经济将布什送入白宫。你原本甚至不被看作会输的人，因此许多人震惊于这场惨败。大多数人认为，你本该更多为自己辩护，而非无视布什的攻击。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l113.c20/text",
+        "1988_Bush_Dole/ending/s0.l113.c20/text",
+        "1988_Bush_Kemp/ending/s0.l113.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l113.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l113.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l113.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l113.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "You are still governor of Massachusetts, and your term expires in 91. Perhaps due to you winning the popular vote, a run in 4 years is in the cards.",
+      "sha256": "b6888dfe8764f58c37503f8e91aa4ba6f3be5ca20b7f130cf49c980a4aa21d72",
+      "zh": "你仍是马萨诸塞州州长，任期将在1991年结束。也许因为你赢得了普选票，四年后再次参选仍有可能。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l116.c31/text",
+        "1988_Bush_Dole/ending/s0.l116.c31/text",
+        "1988_Bush_Kemp/ending/s0.l116.c31/text",
+        "1988_Dukakis_Bentsen/ending/s0.l116.c31/text",
+        "1988_Dukakis_Glenn/ending/s0.l116.c31/text",
+        "1988_Dukakis_Gore/ending/s0.l116.c31/text",
+        "1988_Dukakis_Jackson/ending/s0.l116.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "The tax cuts for the rich will certainly be scaled back under your administration, as well as you will reduce military spending. With all this new money, perhaps social security can be expanded. Just watch the deficit, and you could get re-elected if you follow through with your competent persona.",
+      "sha256": "e60b21efc5464f5f00cd19205862149178d4161e6de6eb010f7318024d1b7ea4",
+      "zh": "你的政府肯定会缩减对富人的减税，也会减少军费开支。有了这笔新增资金，也许可以扩大社会保障。只要注意赤字，并兑现自己能干的形象，你就可能获得连任。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l121.c16/text",
+        "1988_Bush_Dole/ending/s0.l121.c16/text",
+        "1988_Bush_Kemp/ending/s0.l121.c16/text",
+        "1988_Dukakis_Bentsen/ending/s0.l121.c16/text",
+        "1988_Dukakis_Glenn/ending/s0.l121.c16/text",
+        "1988_Dukakis_Gore/ending/s0.l121.c16/text",
+        "1988_Dukakis_Jackson/ending/s0.l121.c16/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Congratulations governor! Despite a vicious attack campaign from the Republicans, you've been elected president. And what a win it is! The house and Senate are solidly in your hands, so you should have little trouble passing your legislation",
+      "sha256": "6b121c8acd00de7a6413bd77eea9dfe591e16a537eac057f50bdd66689116b78",
+      "zh": "恭喜，州长！尽管共和党发起了凶狠的攻击式竞选，你还是当选了总统。而且这是一场多么漂亮的胜利！众议院和参议院都牢牢掌握在你方手中，推动立法应该不会遇到太大困难。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l124.c20/text",
+        "1988_Bush_Dole/ending/s0.l124.c20/text",
+        "1988_Bush_Kemp/ending/s0.l124.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l124.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l124.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l124.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l124.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "Congratulations governor! Despite a vicious attack campaign from the Republicans, you've been elected president. Democrats are still reeling a bit from the Reagan Revolution, so the win isn't as big as you'd like, but a win is a win after 8 years of Reagan, no?",
+      "sha256": "b482fdba16c1a8fdd224ffc29a505008082080fcea540cbf5aaffd418f77c8a3",
+      "zh": "恭喜，州长！尽管共和党发起了凶狠的攻击式竞选，你还是当选了总统。民主党人尚未完全从“里根革命”的冲击中缓过来，因此优势不如你期望的那么大；不过里根执政八年后，能赢总归是赢，对吧？",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l127.c20/text",
+        "1988_Bush_Dole/ending/s0.l127.c20/text",
+        "1988_Bush_Kemp/ending/s0.l127.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l127.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l127.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l127.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l127.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Congratulations governor! Despite a vicious attack campaign from the Republicans, you've been elected president. Conservativism still has its place in the mind of the public, as seen with this win, so be prepared to face constant adversaries in the chambers of Congress.",
+      "sha256": "081c423a6c579e55f10e2204487f5d8da7a1abe83f00c53fceec8ba22ce3d1a0",
+      "zh": "恭喜，州长！尽管共和党发起了凶狠的攻击式竞选，你还是当选了总统。这次胜利表明，保守主义在公众心中仍占有一席之地，因此要做好准备，持续面对国会两院中的反对者。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l130.c20/text",
+        "1988_Bush_Dole/ending/s0.l130.c20/text",
+        "1988_Bush_Kemp/ending/s0.l130.c20/text",
+        "1988_Dukakis_Bentsen/ending/s0.l130.c20/text",
+        "1988_Dukakis_Glenn/ending/s0.l130.c20/text",
+        "1988_Dukakis_Gore/ending/s0.l130.c20/text",
+        "1988_Dukakis_Jackson/ending/s0.l130.c20/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "You best be cautious, however, as the popular vote was won by Bush instead of you. So act quick or the midterms with be swift and brutal.",
+      "sha256": "aeb6deee6a26d86f0dbd95fb1c0c2374e735703fe6732bc98a739a073e2a270d",
+      "zh": "不过，你最好谨慎些，因为普选票赢家是布什，而非你。所以要尽快行动，否则中期选举会迅速而残酷地惩罚你。",
+      "keys": [
+        "1988_Bush_Quayle/ending/s0.l133.c33/text",
+        "1988_Bush_Dole/ending/s0.l133.c33/text",
+        "1988_Bush_Kemp/ending/s0.l133.c33/text",
+        "1988_Dukakis_Bentsen/ending/s0.l133.c33/text",
+        "1988_Dukakis_Glenn/ending/s0.l133.c33/text",
+        "1988_Dukakis_Gore/ending/s0.l133.c33/text",
+        "1988_Dukakis_Jackson/ending/s0.l133.c33/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "What message will you <em>most</em> emphasize as you accept the Republican Party nomination?",
+      "sha256": "602a34a57c8d9c459144753554480255f3e50e774b8f1c462c65dd7da8a126f4",
+      "zh": "接受共和党提名时，你将<em>最</em>着重强调什么信息？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/698@0/description",
+        "1988_Bush_Dole/questions_json/698@0/description",
+        "1988_Bush_Kemp/questions_json/698@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "How much will you emphasize your experience under Ronald Reagan, or in other roles, as you run for President?",
+      "sha256": "2dfc106772afc9f3ca027859c3bb49b51fcdbea23e556678471b6438e7ab559d",
+      "zh": "竞选总统时，你会在多大程度上强调自己在罗纳德·里根政府及其他职位上的经历？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/699@1/description",
+        "1988_Bush_Dole/questions_json/699@2/description",
+        "1988_Bush_Kemp/questions_json/699@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Your selection of Dan Quayle has raised serious eyebrows, even among Republicans. What role will he play in your fall campaign?",
+      "sha256": "5cf5be4e527fc516b454ef26509659dc33737001cf861b210731d43ccdc7d8e7",
+      "zh": "你选择丹·奎尔，引起了广泛质疑，连共和党人也不例外。他将在你的秋季竞选中发挥什么作用？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/711@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "What points about your opponent, Michael Dukakis, will you emphasize as you campaign?",
+      "sha256": "1bd6a3574f97959a7a257082b5b2448a03aaeaa276c71050ec156593580056c5",
+      "zh": "竞选时，你会着重强调对手迈克尔·杜卡基斯的哪些方面？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/700@3/description",
+        "1988_Bush_Dole/questions_json/700@3/description",
+        "1988_Bush_Kemp/questions_json/700@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Will you continue the tradition of debating your opponent in the month before the election?",
+      "sha256": "4c49032b55bceb64b1550709d9a6c8e59d0288b723ec33efc6bd02ad89a8e39b",
+      "zh": "你会延续在选举前一个月与对手辩论的传统吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/756@4/description",
+        "1988_Bush_Dole/questions_json/756@4/description",
+        "1988_Bush_Kemp/questions_json/756@4/description",
+        "1988_Dukakis_Bentsen/questions_json/756@5/description",
+        "1988_Dukakis_Glenn/questions_json/756@6/description",
+        "1988_Dukakis_Gore/questions_json/756@4/description",
+        "1988_Dukakis_Jackson/questions_json/756@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Would you endorse a constitutional amendment to ban abortion in the United States?",
+      "sha256": "bdb8049f10e7c093d3237b44bdf16d9924cc9ccfeb71d7a4357f9e792edc7aff",
+      "zh": "你会支持一项禁止美国境内堕胎的宪法修正案吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/701@6/description",
+        "1988_Bush_Dole/questions_json/701@17/description",
+        "1988_Bush_Kemp/questions_json/701@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "To what extent will you attack Dukakis's opposition to the military actions in Granada and Libya?",
+      "sha256": "b4d95a6a3622166b90709d6d9ad60782fee9f2644bb9d69e4721f39b6a7a41b1",
+      "zh": "杜卡基斯反对在格林纳达和利比亚的军事行动，你会在多大程度上攻击这一点？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/705@7/description",
+        "1988_Bush_Dole/questions_json/705@13/description",
+        "1988_Bush_Kemp/questions_json/705@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "To what extent will your campaign focus on your service as an airman in World War II?",
+      "sha256": "30f234d9439aff88ec665c8e6630b07a6daf9f0a78acf0b5e75dc4e9963d1c7a",
+      "zh": "你的竞选将在多大程度上着重宣传二战期间担任军机飞行员的经历？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/713@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "To what extent will you attack Dukakis's bill, in 1971, to decriminalize sodomy and bestiality in the Massachusetts Congress?",
+      "sha256": "ebb8e583458b14a4f3e7ea21266157864b52885448cf20dacb6d9e095ae58625",
+      "zh": "杜卡基斯1971年在马萨诸塞州议会提出了将鸡奸与兽交除罪化的法案，你会在多大程度上攻击这件事？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/706@9/description",
+        "1988_Bush_Dole/questions_json/706@10/description",
+        "1988_Bush_Kemp/questions_json/706@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Could more have been done to prevent the current farm crisis, which has devastated the upper Midwest?",
+      "sha256": "e3360d389426dca133432806a6d7619549564aade02851f9d23e2748f1d4bc94",
+      "zh": "面对已经重创中西部北部地区的当前农业危机，当初是否本可以采取更多预防措施？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/754@10/description",
+        "1988_Bush_Dole/questions_json/754@12/description",
+        "1988_Bush_Kemp/questions_json/754@13/description",
+        "1988_Dukakis_Bentsen/questions_json/754@9/description",
+        "1988_Dukakis_Glenn/questions_json/754@14/description",
+        "1988_Dukakis_Gore/questions_json/754@12/description",
+        "1988_Dukakis_Jackson/questions_json/754@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Do you have anything to say about the Iran-Contra affair, and can you reassure voters that you were not involved?",
+      "sha256": "63acd1bea8fa7b01f4d1a15757451ef73fccb667e60f37039fdf3476452fd1b1",
+      "zh": "对于伊朗门事件，你有什么要说的吗？你能向选民保证自己没有参与吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/708@11/description",
+        "1988_Bush_Dole/questions_json/708@9/description",
+        "1988_Bush_Kemp/questions_json/708@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "To what extent will you attack the veto, by Dukakis, of a bill requiring teachers to lead their students in the Pledge of Allegiance?",
+      "sha256": "5e98cea67066e00000ab81b07b734f1cd3d2e2b06c52976242fef4289030da3b",
+      "zh": "杜卡基斯否决了一项要求教师带领学生宣读效忠誓词的法案，你会在多大程度上攻击这件事？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/704@12/description",
+        "1988_Bush_Dole/questions_json/704@8/description",
+        "1988_Bush_Kemp/questions_json/704@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Do you support additional gun control measures at the federal level?",
+      "sha256": "eba567d010206b27aa63dbcb0e858fe6131d18d7c542917c1564e05b3a22179b",
+      "zh": "你支持在联邦层面采取更多枪支管制措施吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/749@13/description",
+        "1988_Bush_Dole/questions_json/749@6/description",
+        "1988_Bush_Kemp/questions_json/749@8/description",
+        "1988_Dukakis_Bentsen/questions_json/749@17/description",
+        "1988_Dukakis_Glenn/questions_json/749@7/description",
+        "1988_Dukakis_Gore/questions_json/749@9/description",
+        "1988_Dukakis_Jackson/questions_json/749@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "To what extent will you emphasize Dukakis's claim to be a “card-carrying” member of the ACLU in your campaign attacks?",
+      "sha256": "8698f3d57ebeb385bd62f93efb0a9af5efd275d6c66c47dc1a2d87bb220e90f5",
+      "zh": "杜卡基斯自称是美国公民自由联盟“持有会员证的正式会员”，你的竞选攻击会在多大程度上围绕这句话展开？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/707@14/description",
+        "1988_Bush_Dole/questions_json/707@16/description",
+        "1988_Bush_Kemp/questions_json/707@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Are you willing to rule out any further increases to the federal income tax, if elected President?",
+      "sha256": "38204103b4bcc704d914bef9a8524efb601498a16ec052c13885a807254fd8f3",
+      "zh": "如果当选总统，你愿意承诺不再提高联邦所得税吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/743@15/description",
+        "1988_Bush_Dole/questions_json/743@15/description",
+        "1988_Bush_Kemp/questions_json/743@15/description",
+        "1988_Dukakis_Bentsen/questions_json/743@21/description",
+        "1988_Dukakis_Glenn/questions_json/743@9/description",
+        "1988_Dukakis_Gore/questions_json/743@21/description",
+        "1988_Dukakis_Jackson/questions_json/743@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "What is your position on capital punishment?",
+      "sha256": "9e2408f4a13f6e97f894f2513c77cfd093f4864227625d5006fb205fd6c99e7e",
+      "zh": "你对死刑持什么立场？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/742@16/description",
+        "1988_Bush_Dole/questions_json/742@7/description",
+        "1988_Bush_Kemp/questions_json/742@11/description",
+        "1988_Dukakis_Bentsen/questions_json/742@22/description",
+        "1988_Dukakis_Glenn/questions_json/742@13/description",
+        "1988_Dukakis_Gore/questions_json/742@8/description",
+        "1988_Dukakis_Jackson/questions_json/742@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Are protectionist measures of some kind needed to counteract the dominance of Japan in foreign trade?",
+      "sha256": "cb0d45eda8261461c388c1edf57b18362d0bf965c3e8f35eb46eed761400d2fb",
+      "zh": "是否需要采取某种贸易保护措施，来应对日本在对外贸易中的优势？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/745@17/description",
+        "1988_Bush_Dole/questions_json/745@5/description",
+        "1988_Bush_Kemp/questions_json/745@14/description",
+        "1988_Dukakis_Bentsen/questions_json/745@8/description",
+        "1988_Dukakis_Glenn/questions_json/745@17/description",
+        "1988_Dukakis_Gore/questions_json/745@7/description",
+        "1988_Dukakis_Jackson/questions_json/745@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "What measures should be taken to assist states, such as Texas, which have been hurt by the recent crash in oil prices?",
+      "sha256": "15e653a9fed51d319b608240b7e4d35ffbf52aa6ce3074c2f9d078764903c4c4",
+      "zh": "针对得克萨斯州等受到近期油价暴跌冲击的州，应采取什么援助措施？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/753@18/description",
+        "1988_Bush_Dole/questions_json/753@14/description",
+        "1988_Bush_Kemp/questions_json/753@12/description",
+        "1988_Dukakis_Bentsen/questions_json/753@16/description",
+        "1988_Dukakis_Glenn/questions_json/753@15/description",
+        "1988_Dukakis_Gore/questions_json/753@17/description",
+        "1988_Dukakis_Jackson/questions_json/753@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Observers widely believe that Dan Quayle lost the Vice Presidential debate to Lloyd Bentsen. Do you agree?",
+      "sha256": "5fa4db0bd35336b16c4bd8b553b7932d9bc473dd74908a7906f7dc5396717d7a",
+      "zh": "观察人士普遍认为，丹·奎尔在副总统辩论中输给了劳埃德·本特森。你同意吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/712@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Ronald Reagan referred to Michael Dukakis as an “invalid” during a recent speech. Do you care to make any comment on that?",
+      "sha256": "1723ed25a2e4117439bf08ef18e2e5cecb60ec6a2d7c067482a15dd9aa80abeb",
+      "zh": "罗纳德·里根在最近一次演说中称迈克尔·杜卡基斯是个“病人”。你想作何评论？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/709@20/description",
+        "1988_Bush_Dole/questions_json/709@18/description",
+        "1988_Bush_Kemp/questions_json/709@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Do you support the Strategic Defense Initiative, a.k.a. “Star Wars”, designed to produce missile-defense weapons?",
+      "sha256": "04ec28d1ae248722c590f455d0e44e7c3369c86d9669d9e436be2237d703412f",
+      "zh": "你支持旨在研制导弹防御武器、又称“星球大战”的战略防御倡议吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/751@21/description",
+        "1988_Bush_Dole/questions_json/751@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "Will you make a judge's views on abortion a strong component of your appointments?",
+      "sha256": "1dabbdff9c62e0b1a7fae12ccfb11b66e6a87b4143824a78a8d77f055df1c4f1",
+      "zh": "任命法官时，你会把其对堕胎的观点作为重要考量吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/747@22/description",
+        "1988_Bush_Kemp/questions_json/747@22/description",
+        "1988_Dukakis_Gore/questions_json/747@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Do you believe that Edwin Meese should resign as Attorney General?",
+      "sha256": "825b4aeaea9ede7217bcf6b4c83c345fc61c9c3b811e4c387358c7d63e9b40a7",
+      "zh": "你认为埃德温·米斯应辞去司法部长职务吗？",
+      "keys": [
+        "1988_Bush_Quayle/questions_json/702@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Where will you spend your final day of the campaign?",
+      "sha256": "e337a5cb082ba9b0e8f49e897f5cbc58aa280928818261cd0be2d50307e2c79f",
+      "zh": "你将在竞选的最后一天去哪里？",
+      "keys": [
+        "2016a_Clinton_Booker/questions_json/834@24/description",
+        "2016a_Clinton_Castro/questions_json/834@24/description",
+        "2016a_Clinton_Warren/questions_json/834@24/description",
+        "2016a_Clinton_Brown/questions_json/834@24/description",
+        "2016a_Trump_Brown/questions_json/834@24/description",
+        "2016a_Trump_Christie/questions_json/834@24/description",
+        "2016a_Trump_Carson/questions_json/834@24/description",
+        "1988_Bush_Quayle/questions_json/755@24/description",
+        "1988_Bush_Dole/questions_json/755@24/description",
+        "1988_Bush_Kemp/questions_json/755@24/description",
+        "1988_Dukakis_Bentsen/questions_json/755@24/description",
+        "1988_Dukakis_Glenn/questions_json/755@24/description",
+        "1988_Dukakis_Gore/questions_json/755@24/description",
+        "1988_Dukakis_Jackson/questions_json/755@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "My opponent will raise taxes, and so will I. He won't tell you. I just did.",
+      "sha256": "aceead578acf213a8e8f562441a51bf83522fa8f2818c04fef056859f0ed66e0",
+      "zh": "我的对手会加税，我也会。他不会告诉你，而我刚刚说了。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4484@0/description",
+        "1988_Bush_Dole/answers_json/4484@0/description",
+        "1988_Bush_Kemp/answers_json/4484@0/description",
+        "1988_Dukakis_Bentsen/answers_json/4484@0/description",
+        "1988_Dukakis_Glenn/answers_json/4484@0/description",
+        "1988_Dukakis_Gore/answers_json/4484@0/description",
+        "1988_Dukakis_Jackson/answers_json/4484@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "I will move the nation forward to a new era, with continued employment growth and concern for the well-being of our citizens -- a kinder, gentler era.",
+      "sha256": "2656f1db0293a790acc3131e3383eb13d90efeaf6b3e31e7dcc42b2c29d4ded7",
+      "zh": "我将带领国家迈入一个新时代，继续促进就业增长，关心国民福祉——一个更加仁厚、更加温和的时代。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4366@1/description",
+        "1988_Bush_Dole/answers_json/4366@1/description",
+        "1988_Bush_Kemp/answers_json/4366@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "I stand for the continuation of Ronald Reagan's policies and legacy. Let us allow an ascendant conservatism to guide us into the future.",
+      "sha256": "09563e61725468bc5cff3fd1e43ca47effe595bb324fc84ddd9c4361c7ffbec3",
+      "zh": "我主张继续罗纳德·里根的政策，继承他的政治遗产。让正在崛起的保守主义引领我们走向未来。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4367@2/description",
+        "1988_Bush_Dole/answers_json/4367@2/description",
+        "1988_Bush_Kemp/answers_json/4367@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "If we're going to talk about “competence” in government, which party has cut inflation, unemployment, and interest rates by over half during the 1980s?",
+      "sha256": "8861212543da0c018d0b247cdefacc872780e47c83155158cb9b8b2bd28495d2",
+      "zh": "如果要谈政府的“治理能力”，那么在20世纪80年代，是哪个政党将通胀率、失业率和利率都降低了一半以上？",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4368@3/description",
+        "1988_Bush_Dole/answers_json/4368@3/description",
+        "1988_Bush_Kemp/answers_json/4368@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "We need to take the attack to the Democrats after the convention they put on, and specifically challenge Dukakis on defense, economics, and social issues.",
+      "sha256": "8d1faa306e517cda460bdd9afc198926b82c46d4fa825995c397176baec29817",
+      "zh": "民主党办了那样一场大会之后，我们需要主动进攻，具体质疑杜卡基斯在国防、经济与社会议题上的立场。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4369@4/description",
+        "1988_Bush_Dole/answers_json/4369@4/description",
+        "1988_Bush_Kemp/answers_json/4369@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "I want to tie myself to Reagan as closely as possible. He is a broadly popular figure in this country.",
+      "sha256": "c1247d4f15e5f79ee39685831b7621e11d9c29228dd39931090824860fd90808",
+      "zh": "我想尽可能紧密地与里根联系起来。他在全国广受欢迎。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4370@5/description",
+        "1988_Bush_Dole/answers_json/4370@5/description",
+        "1988_Bush_Kemp/answers_json/4370@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "I have served as Vice President for seven years. We will emphasize this experience, but talk more about what I will do, than what Ronald Reagan has done.",
+      "sha256": "80994c90d55f236223597a5505602e33c81fa474501ae43eb2e999520e602869",
+      "zh": "我已担任副总统七年。我们会强调这段经历，但更多谈我将做什么，而非罗纳德·里根已经做了什么。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4371@6/description",
+        "1988_Bush_Dole/answers_json/4371@6/description",
+        "1988_Bush_Kemp/answers_json/4371@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "We don't plan to mention Ronald Reagan very much in this campaign. It is important to establish that I am my own man.",
+      "sha256": "974db8ffd7e98e90709697916b53b07ab0c6f8045c65ec79f35e4b158f4a090d",
+      "zh": "我们不打算在这场竞选中多提罗纳德·里根。树立我有独立主见的形象很重要。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4372@7/description",
+        "1988_Bush_Dole/answers_json/4372@7/description",
+        "1988_Bush_Kemp/answers_json/4372@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "Dukakis bases his campaign on competence, but his state was simply riding the wave of a Reagan-created economic boom, which he tries to take credit for.",
+      "sha256": "6905ad01aa2170ccbd94096e255a930c1462e395aa69923243919a787ddfdd7e",
+      "zh": "杜卡基斯以治理能力作为竞选基础，可他所在的州不过搭上了里根带来的经济繁荣，他却试图把功劳据为己有。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4373@8/description",
+        "1988_Bush_Dole/answers_json/4373@8/description",
+        "1988_Bush_Kemp/answers_json/4373@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "Dukakis is a left-wing liberal who has vetoed the Pledge of Allegiance, attacked military spending, and allowed convicted murderers into society.",
+      "sha256": "d5b9c347561a1ea5d3fd7d193f2a534d6ea845cee162aaa02ad6ff9c9103ed4a",
+      "zh": "杜卡基斯是个左翼自由派，他否决效忠誓词法案，攻击军费开支，还放任已被定罪的杀人犯回到社会。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4374@9/description",
+        "1988_Bush_Dole/answers_json/4374@9/description",
+        "1988_Bush_Kemp/answers_json/4374@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "Dukakis is a good man with a good record as Governor of Massachusetts. I prefer to focus on my own qualifications and experience for the job.",
+      "sha256": "434bd255cca85eefbc297fdc56e8f6ba082d8fb79d1af091eb0cf2b505642833",
+      "zh": "杜卡基斯是个好人，担任马萨诸塞州州长的政绩也很好。我更愿意着重谈自己担任总统的资历与经验。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4375@10/description",
+        "1988_Bush_Dole/answers_json/4375@10/description",
+        "1988_Bush_Kemp/answers_json/4375@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "This would be a positive step forward for the nation, and I support an expansive amendment on the issue.",
+      "sha256": "a5b7ebe7497f3835d56ae63dd1dce1e79ef95bf2891e3266e249dcab1a807dae",
+      "zh": "这将让国家朝正确方向迈进，我支持在这个问题上制定适用范围广泛的修正案。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4376@11/description",
+        "1988_Bush_Dole/answers_json/4376@11/description",
+        "1988_Bush_Kemp/answers_json/4376@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "I support an amendment like this, so long as it contains exceptions for rape, or to protect the health of the mother.",
+      "sha256": "bbb970a72924d013f59d226efc61abc0f43c6827034e3fc293aaf38bfce5044b",
+      "zh": "我支持这样的修正案，只要它对强奸导致的怀孕或保护母亲健康的情况保留例外。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4377@12/description",
+        "1988_Bush_Dole/answers_json/4377@12/description",
+        "1988_Bush_Kemp/answers_json/4377@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "I am a pro-life candidate, but I do not support an amendment for this purpose.",
+      "sha256": "4dba39f064bcf443a284fd155456a63a7d64991463d414288678403cbbd014c0",
+      "zh": "我是反对堕胎的候选人，但不支持为此制定修正案。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4378@13/description",
+        "1988_Bush_Dole/answers_json/4378@13/description",
+        "1988_Bush_Kemp/answers_json/4378@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "I join the chorus of voices calling for the resignation of Edwin Meese.",
+      "sha256": "b869e9bad8ae8d406e4c899db2551e6e399473734b8cd5e0e99592a25d829271",
+      "zh": "我也加入呼吁埃德温·米斯辞职的行列。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4379@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "I won't be making any statements about this issue as I campaign.",
+      "sha256": "e4e95c1efd0f4f6860cc9072d0e12355a74c79e6720c511ca343cf1fd6d86f42",
+      "zh": "竞选期间，我不会就这件事发表任何声明。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4380@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "I support Mr. Meese from the politically motivated attacks of late.",
+      "sha256": "19380c762e8ea9ade3d62d25085316bc25edd67b1e58a4d558e3ccf56eff9cc6",
+      "zh": "我支持米斯先生，反对近期那些出于政治动机的攻击。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4381@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "We will refer to this episode on our campaign speeches and so on, but it doesn't need to be a central aspect of our message.",
+      "sha256": "5bd79a67f2d8a6b7b8f5d293a29fc6f5ed1fe5573847c8818e6af49372fc6236",
+      "zh": "我们会在竞选演说等场合提到这件事，但不必把它当作宣传的核心。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4383@18/description",
+        "1988_Bush_Quayle/answers_json/4386@21/description",
+        "1988_Bush_Dole/answers_json/4383@15/description",
+        "1988_Bush_Dole/answers_json/4386@18/description",
+        "1988_Bush_Kemp/answers_json/4383@15/description",
+        "1988_Bush_Kemp/answers_json/4386@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "I believe this is the kind of thing which might backfire on us. Voters want solutions, not petty attacks.",
+      "sha256": "f629e7ee8682ad3f8aa3cc7a3da3de709e3a3d7a93cfab69b65c7eabb26532ae",
+      "zh": "我认为，这类攻击可能适得其反。选民想要解决办法，而非琐碎的攻击。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4384@19/description",
+        "1988_Bush_Dole/answers_json/4384@16/description",
+        "1988_Bush_Kemp/answers_json/4384@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "Why Dukakis thought it would be a good idea to veto this bill is beyond me, but we won't let him forget it in this campaign. I will say the Pledge of Allegiance wherever I go on the trail.",
+      "sha256": "941f8e7d59bcf014db71602a7e148ad72eb1cf3011e55aafdeb8dad3eac2ebb4",
+      "zh": "杜卡基斯为什么会觉得否决这项法案是个好主意，我实在无法理解。但这场竞选中，我们不会让他忘掉这件事。我每到一处竞选，都会宣读效忠誓词。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4385@20/description",
+        "1988_Bush_Dole/answers_json/4385@17/description",
+        "1988_Bush_Kemp/answers_json/4385@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "Mr. Dukakis was simply following the law as handed down in <em>West Virginia State Board of Education v. Barnette</em>. I don't think this type of attack will resonate with voters.",
+      "sha256": "f189bf4852e91db439ab6755729f609ace5bcce9f8d70eeeb02a401a18f95c3b",
+      "zh": "杜卡基斯先生不过遵守了<em>西弗吉尼亚州教育委员会诉巴内特案</em>确立的法律原则。我认为，这类攻击不会引起选民共鸣。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4387@22/description",
+        "1988_Bush_Dole/answers_json/4387@19/description",
+        "1988_Bush_Kemp/answers_json/4387@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

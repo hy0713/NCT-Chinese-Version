@@ -1,0 +1,448 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2000-e",
+  "uniqueSourcesReviewed": 37,
+  "recordPositions": 51,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 12,
+      "reason": "Contested state means competitive election state, not legally disputed ballots."
+    },
+    {
+      "index": 14,
+      "reason": "Claim of betrayal and shallow left victory is original Nader rhetoric, not translator editorial judgment."
+    },
+    {
+      "index": 23,
+      "reason": "Corporatist read in original candidate's corporate-interest criticism, not an unsupported fascist institutional claim."
+    },
+    {
+      "index": 33,
+      "reason": "Original twenty-thousand rally count retained as simulation feedback, not independently certified for a specific rally."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "This is misrepresentation of what I said. I never claimed to invent the internet, I was merely pointing out that government research which I supported as a Senator was a crucial piece of the equation.",
+      "sha256": "fde9985b7d17e011c5ffcd231bb0b5854fef8e324dda484e04ae9b72e1d003e7",
+      "zh": "这是在歪曲我的话。我从未声称发明了互联网，只是指出，我担任参议员时支持的政府研究，是其中至关重要的一环。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3491@84/description",
+        "2000_Gore_Kerry/answers_json/3491@84/description",
+        "2000_Gore_Bayh/answers_json/3491@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "This is a petty, personal attack, designed to distract from the real issues facing our country.",
+      "sha256": "67720e80e8fadd9dd44cc3f7f0d0e2f6f8ce7dd7a19a5622dd0dc8f04164355b",
+      "zh": "这是小气的个人攻击，意图转移人们对国家面临的实质问题的注意力。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3492@85/description",
+        "2000_Gore_Kerry/answers_json/3492@85/description",
+        "2000_Gore_Bayh/answers_json/3492@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Bob Graham has served his home state of Florida well. He has fought tirelessly for education and the environment.",
+      "sha256": "8c602dcb03b94015763de160ce4257073ae11255491ba572e44ad4c24211d133",
+      "zh": "鲍勃·格雷厄姆出色地服务了家乡佛罗里达州。他为教育和环境不懈奋斗。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3503@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Bob Graham has served his home state of Florida well. He is the type of independent thinker we need in the White House.",
+      "sha256": "f13b6eda68c93c2e124ae6bfbbda059d3c89f7105287557660218d57aba8cedb",
+      "zh": "鲍勃·格雷厄姆出色地服务了家乡佛罗里达州。他正是白宫需要的那种善于独立思考的人。",
+      "keys": [
+        "2000_Gore_Graham/answers_json/3504@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "It does not help your stature to be attacking a third-party candidate like Ralph Nader.",
+      "sha256": "f25a987d3ed7d71e1c37dc02809afd07597fa1502e8a9266eeb1336f7dba6e1d",
+      "zh": "攻击拉尔夫·纳德这样的第三党候选人，并不能提升你的地位。",
+      "keys": [
+        "2000_Gore_Graham/answer_feedback_json/901@104/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/901@112/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "This is probably a good approach.",
+      "sha256": "f4ce019926a5f1b1c368dbcc47c832806d5ffdc3126c486d60fc1ccac8bbb666",
+      "zh": "这大概是个不错的做法。",
+      "keys": [
+        "2000_Gore_Graham/answer_feedback_json/902@105/answer_feedback",
+        "2000_Gore_Graham/answer_feedback_json/903@106/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/902@113/answer_feedback",
+        "2000_Gore_Kerry/answer_feedback_json/903@114/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Today you have announced the selection of John Kerry as running mate. Can you speak more about him?",
+      "sha256": "2b953635f05a614d6dde877e618a4d7432ae02176184388777fcafd4e73e3251",
+      "zh": "今天，你宣布选择约翰·克里作为竞选搭档。你能多谈谈他吗？",
+      "keys": [
+        "2000_Gore_Kerry/questions_json/399@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "John Kerry is the type of principled, liberal thinker we need in our administration. He has worked tirelessly on behalf of all Americans.",
+      "sha256": "1b3ceef73721dcd7cb0764520614fdee200f1350d070e495de54ae387b4f7ae9",
+      "zh": "约翰·克里是一位有原则的自由派思想者，正是我们政府需要的人。他一直为全体美国人不懈努力。",
+      "keys": [
+        "2000_Gore_Kerry/answers_json/3505@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "John Kerry is the best person for the job. He has proven his ability time and time again over his years in the Senate.",
+      "sha256": "04d9c672d31a71023a65f31947198a01ccb10649ffdc745188dead6b21907c67",
+      "zh": "约翰·克里是最适合这份工作的人。在参议院任职多年，他一次又一次证明了自己的能力。",
+      "keys": [
+        "2000_Gore_Kerry/answers_json/3506@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Today you have announced the selection of Evan Bayh as running mate. Can you speak more about him?",
+      "sha256": "80d772c65799998191f17be4db7e635214c2b60dbfcdc27ccd711bb27385c2ee",
+      "zh": "今天，你宣布选择埃文·贝赫作为竞选搭档。你能多谈谈他吗？",
+      "keys": [
+        "2000_Gore_Bayh/questions_json/400@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Evan Bayh is the best person for the job. He has proven his ability time and time again as a Governor and Senator.",
+      "sha256": "d0cacceed7f3a88dab24920eec7651df1f8058c7d0f771acdfb1b4697d309468",
+      "zh": "埃文·贝赫是最适合这份工作的人。担任州长和参议员期间，他一次又一次证明了自己的能力。",
+      "keys": [
+        "2000_Gore_Bayh/answers_json/3507@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Evan Bayh has served his home state of Indiana well. He is an independent thinker who consistently seeks bipartisan solutions.",
+      "sha256": "6eb5d4f99b0a4ac1d28376fda1153d83734cb0fd7de1e719e0abe38211a79388",
+      "zh": "埃文·贝赫出色地服务了家乡印第安纳州。他善于独立思考，总是寻求两党都能接受的解决办法。",
+      "keys": [
+        "2000_Gore_Bayh/answers_json/3508@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "The most important priority is to prevent the election of George W. Bush to President. I will not put my name on the ballot in any contested state. I expect that people in other places will see that a vote for me symbolizes a vote for a new kind of politics in the long term.",
+      "sha256": "2e14b5a90324e354fb87479d3119e73386930a2ed9f888a41e5f5b26b9c728b5",
+      "zh": "最重要的目标，是阻止乔治·W.布什当选总统。我不会在任何竞争激烈的州把自己的名字列上选票。我希望，其他地方的人能明白，从长远看，投我一票象征着支持一种新的政治。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3401@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "The two parties are almost the same on every major issue. Neither supports meaningful campaign finance reform, universal health care, free college education, a peaceful foreign policy, or the protection of American workers. I present a true alternative to the American people.",
+      "sha256": "0de40c2e464a5bbef16b1c1849dc8ab74ef27531ed7a2055a22ee1066991f55d",
+      "zh": "两党在每个重大议题上几乎都一样。两党都不支持有实质意义的竞选资金改革、全民医疗、免费大学教育、和平的外交政策，或保护美国劳动者。我为美国人民提供真正的替代选择。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3402@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "If victory for the left means eight years of Bill Clinton and a term for Al Gore, then it is a shallow victory indeed. Bill Clinton has pushed cherished Republican proposals like NAFTA and welfare reform to fruition. I will end this betrayal of the American worker.",
+      "sha256": "375ddd770119c14f05df2eda5873d9da0ae1e0cc02669deaa19d723c41532af7",
+      "zh": "如果左翼的胜利，就意味着比尔·克林顿执政八年，再让阿尔·戈尔执政一届，那这样的胜利实在太浅薄了。比尔·克林顿把《北美自由贸易协定》和福利改革这些共和党珍爱的提案，变成了现实。我会结束这种对美国劳动者的背叛。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3403@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "I am the true choice for Americans concerned about the environment and Social Security. I will enact strict regulation of the oil and coal industry, fight against big agriculture and GMO's, and support research and subsidies for alternative energy. I will increase funding and benefits for Social Security.",
+      "sha256": "181e38afd9aea8d720675910e739179f61eeea81023d6cfb6373ff179b3425e1",
+      "zh": "对于关心环境和社会保障制度的美国人，我才是真正的选择。我会严格监管石油和煤炭行业，对抗大型农业企业和转基因产品，并支持替代能源的研究和补贴。我会增加社会保障制度的经费和福利。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3404@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "We will run a national campaign and gather as many votes as possible towards our goal of becoming a viable third-party. I will tell liberal Americans to resist the urge to vote for Al Gore, by reminding them of the many ways in which he does not differ from Republicans.",
+      "sha256": "a564130de2616bc408fbfa8551fef67b44f883427c53aa368a05cf285af129e9",
+      "zh": "我们将开展全国竞选，尽可能多地争取选票，朝着成为一个有竞争力的第三党的目标迈进。我会提醒自由派美国人，戈尔在许多方面与共和党人并无区别，劝他们克制投票给阿尔·戈尔的冲动。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3413@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "The best way to gather votes is to run up our totals in liberal states like New York, Massachusetts, and California. We will focus on these areas heavily.",
+      "sha256": "280f31dae1f1165b30b2cdc9aa6208179442dec34ffa111db70d6c6e2f0206dd",
+      "zh": "争取选票的最佳办法，是在纽约、马萨诸塞和加利福尼亚这样的自由派州提高得票总数。我们会把重点放在这些地区。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3414@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "I will focus extensively on how Republicans and Democrats alike have betrayed the American worker through trade agreements like NAFTA and a lack of protection for American industry. My campaign will focus on opponents of globalization who have no one else to vote for.",
+      "sha256": "ec89c98aaf947589859c806020c80ed3d0ca5c05e3e46fe65a8f7602809af01f",
+      "zh": "我会着重说明，共和党和民主党如何通过《北美自由贸易协定》等贸易协议，以及不保护美国工业的做法，共同背叛了美国劳动者。我的竞选将着重争取那些没有其他候选人可选的反全球化人士。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3415@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "I will focus extensively on how Republicans and Democrats alike have betrayed the American environment. I will hammer on the themes of carbon emissions, GMO crops, giveaways to corporations, and other areas where both parties have failed the American people.",
+      "sha256": "f633ca133f62645d23e814c1dabf7589029ea886ab01be4af20bd9aa1989c021",
+      "zh": "我会着重说明，共和党和民主党如何共同背叛了美国的环境。我会紧抓碳排放、转基因作物、给企业输送好处，以及两党辜负美国人民的其他领域。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3416@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Let's give a good speech about the need for big changes to American politics and society. I will remind voters that the Democrats and Republicans are two sides of the same corporate policies, and attack Al Gore's pretensions to stand for the American worker.",
+      "sha256": "6fcff295958ad77b0afe9895b0b81e6e58a4e671a11f473bd4aa9dbdb0c410c7",
+      "zh": "我们来好好讲一讲，美国政治和社会为什么需要大变革。我会提醒选民，民主党和共和党不过是同一套亲企业政策的两面，并攻击阿尔·戈尔冒充美国劳动者代言人的姿态。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3441@76/description",
+        "2000_Nader_LaDuke/answers_json/3445@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Let's talk about how we are allowing large corporations to ruin the American environment for their own profits, while everyday people suffer from pollution, unclean water, and a dangerous lack of regulation on food and prescription drugs.",
+      "sha256": "393f341ffa3d6821da8b8b1a38ba12d72013eb1c895ca607bb5ea9f0a637147a",
+      "zh": "我们来谈谈，如何任由大企业为了自己的利润破坏美国环境，而普通人却承受污染、不洁净的水，以及食品和处方药监管严重不足的危险。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3442@77/description",
+        "2000_Nader_LaDuke/answers_json/3446@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Let's emphasize that both Democrats and Republicans have sold out the American worker to the interests of corporations. I will remind people of NAFTA, the WTO protests, and other decisions that have decimated American manufacturing.",
+      "sha256": "b7a3b475798bd7dcc301007233a45bd3d8c898da5e6b04401fa526e910d7a702",
+      "zh": "我们来强调，民主党和共和党都为了企业利益出卖了美国劳动者。我会提醒人们，《北美自由贸易协定》、反对世界贸易组织的抗议，以及其他重创美国制造业的决定。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3443@78/description",
+        "2000_Nader_LaDuke/answers_json/3447@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "I will attack George Bush relentlessly. I will expose Bush as a phony and an elitist, corporatist conservative and not as the moderate that he presents himself as.",
+      "sha256": "e6003edcdf7532a0d91b93dfdd0d7e57c9c50342c26e1457d9bb08923ba8c989",
+      "zh": "我会不断攻击乔治·布什。我会揭露布什是个虚伪的人，是精英主义、亲大企业的保守派，而不是他自己所描绘的温和派。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3444@79/description",
+        "2000_Nader_LaDuke/answers_json/3448@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I will visit states like Ohio, Michigan, and Pennsylvania that have been especially hard hit by global trade agreements and the outsourcing of manufacturing jobs.",
+      "sha256": "00410d27d5daaed823ff40e06bafb91b75799effb2f31053d9b28e6a146ab486",
+      "zh": "我会访问俄亥俄、密歇根和宾夕法尼亚等州，这些州受到全球贸易协定和制造业岗位外包的冲击尤其严重。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3461@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "The last few days will be business as usual. My goal is to bring my message to all parts of America, whether it be in close states or those that clearly tilt towards one of the main candidates.",
+      "sha256": "d56e747d3268e77ffefd3fc2978f0bab43f1a3f2a0f3d4e1f135d1d088e81b5c",
+      "zh": "最后几天，一切照常。我的目标是把主张传到美国各地，无论是胜负接近的州，还是明显倾向某位主要候选人的州。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3462@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "I will hold massive rallies in New York and try to run up my vote total in the left-leaning, uncontested states of that region. People should not be afraid to vote for me.",
+      "sha256": "07cf486f4907c18265ea3db2d65d1d407a1d12ed564ebb5837d9a969cf711099",
+      "zh": "我会在纽约举办大型集会，努力提高在该地区偏左、胜负没有悬念的州的得票总数。人们不应害怕投我一票。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3463@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "This is the type of non-issue that is indicative of the broken American political system. George Bush was wrong for America before this news broke, and he is still wrong for America.",
+      "sha256": "0f832e866e52e622c2fa31049480c1a96aa9c100eed253602ddbeb921a2eeaba",
+      "zh": "这类无关紧要的问题，恰恰说明美国政治体制出了毛病。消息曝光前，乔治·布什就不适合美国，现在也依然不适合。",
+      "keys": [
+        "2000_Nader_LaDuke/answers_json/3471@87/description",
+        "2000_Nader_LaDuke/answers_json/3472@88/description",
+        "2000_Nader_LaDuke/answers_json/3473@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Interesting campaign strategy. But you will lose a good number of votes in states like Florida and Ohio, and every little bit helps if you want to hit 5% nationally.",
+      "sha256": "d18740b32dd460180057f0fca04e8dd686575662fe2fc9258e56cc5075e31dac",
+      "zh": "竞选策略有点意思。但你会在佛罗里达和俄亥俄等州丢掉不少选票；要想在全国达到5%，每一点票数都有用。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/972@157/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "This is one of the big decisions of your campaign -- will people turn out to vote for you in close states? Time will tell.",
+      "sha256": "e78e478f77a7274234d6d8d7d2428869e2f68658a5f883562d02163fead267af",
+      "zh": "这是你竞选中的重大抉择之一——在胜负接近的州，人们会不会出来投你一票？时间会给出答案。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/976@161/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This is one of the big decisions of your campaign -- can you run up your vote total in large, liberal states to hit the 5% threshold nationally? Time will tell.",
+      "sha256": "847ec899ffdcaf9d344d446ee17d6a6956265a4565ff0ac838926c3589b02d4b",
+      "zh": "这是你竞选中的重大抉择之一——你能否在自由派大州提高得票总数，从而在全国达到5%的门槛？时间会给出答案。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/977@162/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "There might be a market for anti-globalization views in these states, but they also might be very close on election night. Will left-wing voters risk a vote on you instead of Gore?",
+      "sha256": "904a72fe44a7e3f0c8fab838594723df7fbc12c25962caf1c0325541ac7f4894",
+      "zh": "这些州可能有人认同反全球化观点，但选举之夜的结果也可能十分接近。左翼选民会冒险投你，而不是戈尔吗？",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/992@173/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "There's nothing wrong with sticking to the usual program.",
+      "sha256": "5d6814ddfb9078fd2b2c0ba9fa94f21adb3c01724cbadb4615058a4d23b44797",
+      "zh": "坚持通常的竞选安排，并没有什么不妥。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/993@174/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "You give a passionate speech to 20,000 screaming supporters on the Saturday before the election. Will it help?",
+      "sha256": "4d04b3dbb767f52e9f642e6992686f0bf84eb9ca827f9b4d513120e4ccca1a60",
+      "zh": "选举前的那个星期六，你向两万名高声欢呼的支持者发表了热情洋溢的演说。这会有帮助吗？",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/994@175/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Regardless of the recent news, it looks like Bush has received a solid bounce heading into election night. But you might get a few more votes if Gore looks to be losing.",
+      "sha256": "459884d23058415b976aae7dd034d64d817b8d1e3291b81c7b72224706d6c563",
+      "zh": "尽管最近有这些消息，布什看来还是在选举之夜前获得了明显的支持率提振。不过，如果戈尔看上去要输，你可能会多拿到一些选票。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/995@176/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "It doesn't seem like this revelation has changed much. If the election is close, some voters might jump to Gore instead of you.",
+      "sha256": "42a9786f2ac131d393ac85e77630f1326b071c22f2bb60bf7c19c0d0f02ee9f5",
+      "zh": "看来，这次曝光没有改变多少事情。如果胜负接近，有些选民可能会转投戈尔，而不是你。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/996@177/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "It looks like Gore has received a solid bounce heading into election night. This might help you pick up a few wavering votes.",
+      "sha256": "bed593d0a58f8e66d65962327aa93c9640b7abbd461fe1dd3eced7500920f7fe",
+      "zh": "戈尔看来在选举之夜前获得了明显的支持率提振。这可能帮你争取到几张摇摆不定的选票。",
+      "keys": [
+        "2000_Nader_LaDuke/answer_feedback_json/997@178/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

@@ -1,0 +1,913 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-a",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 250,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 5,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 6,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 7,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 11,
+      "reason": "Paul is candidate first name in supplied ending; preserved, do not replace with dynamic running mate."
+    },
+    {
+      "index": 14,
+      "reason": "Hillary succession is fictional forecast, not actual 2016 presidential outcome."
+    },
+    {
+      "index": 18,
+      "reason": "Original either the house malformed phrase read contextually as House; sentence split around runtime running mate preserved."
+    },
+    {
+      "index": 19,
+      "reason": "Split text remains split with no invented candidate interpolation."
+    },
+    {
+      "index": 20,
+      "reason": "First Democrat popular/electoral divergence retained as alternate-history conditional ending."
+    },
+    {
+      "index": 26,
+      "reason": "Original instead of your read as instead of you; English unchanged."
+    },
+    {
+      "index": 29,
+      "reason": "Split text around dynamic candidate preserved."
+    },
+    {
+      "index": 30,
+      "reason": "Split text around dynamic candidate preserved."
+    },
+    {
+      "index": 38,
+      "reason": "Original broad characterization retained; Arizona decision actually left section 2(B) provision while striking other provisions. Research note pending."
+    },
+    {
+      "index": 41,
+      "reason": "Original premiums wording retained; must distinguish out-of-pocket cap and premium rules in research note."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>Barack Obama attempts to win reelection while Mitt Romney hopes to bring a more conservative vision to the White House. The poor economy and Obama's signature health care initiatives loom large in the 2012 election.</p> <ul><li>Obama will attempt to make the case that his stewardship prevented economic disaster after the 2008 financial crisis.</li><li>Romney will try to frame his business and executive experience as a contrast to the background and results of Obama.</li></ul>",
+      "sha256": "66b816577699c43268e3d5efe06d2c97fa35844fd80b665525e774371f1dd578",
+      "zh": "<p>贝拉克·奥巴马力争连任，米特·罗姆尼则希望把更保守的施政理念带进白宫。经济低迷，以及奥巴马标志性的医疗改革，是2012年大选的两大焦点。</p> <ul><li>奥巴马将努力证明，2008年金融危机后，他的施政避免了经济灾难。</li><li>罗姆尼将强调自己的经商与行政经验，以此对比奥巴马的履历及执政成绩。</li></ul>",
+      "keys": [
+        "base/election_json/3@3/summary"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "<h3>Congratulations! You have won the 2012 election.</h3><p>In spite of a hard-fought challenge from Mitt Romney, you have held on to the Presidency.</p><p>On the political front, it appears that your health care legislation that was passed in early 2010 will survive and go into effect. While the economy has not yet recovered as strongly as you hoped and promised, you will now have four more years to leave a strong legacy to your Democratic successor.</p>",
+      "sha256": "3af8c97ce8b5fa14f00473c60b6daf9d70371221f7157f798f028461c5479b03",
+      "zh": "<h3>恭喜！你赢得了2012年大选。</h3><p>尽管米特·罗姆尼奋力挑战，你还是保住了总统宝座。</p><p>在政治方面，你于2010年初推动通过的医疗改革立法看来将得以保留并生效。经济复苏虽未达到你曾期待并承诺的力度，但如今你又有四年时间，可以为民主党的继任者留下厚实的政治遗产。</p>",
+      "keys": [
+        "base/candidate_json/16@0/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry! You have lost in a squeaker.</h3><p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. Unfortunately for you, the majority of U.S. states have Republican controlled congressional delegations, and they will cast their votes for Mitt Romney.</p><p>Given the incredibly close nature of the election, you can probably set your sights on a political comeback in 2016, if that is what you desire.</p>",
+      "sha256": "9cc14481aec7820af3df46229174407777c11efb0246af00ba7b55ff7bc32372",
+      "zh": "<h3>遗憾！你在一场极其胶着的选举中落败。</h3><p>没有候选人取得选举人票的绝对多数，这是1824年以来首次出现这种情况。对你不利的是，多数州的国会代表团由共和党控制，他们将投票支持米特·罗姆尼。</p><p>选情如此接近，如果你愿意，大可把目光投向2016年，谋求政治上的东山再起。</p>",
+      "keys": [
+        "base/candidate_json/16@0/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "<h3>Sorry! You have lost the 2012 election.</h3><p>In spite of your best efforts, Barack Obama has been reelected to a second term as President.</p><p>On the political front, it appears that Obamacare will survive and go into effect. While the economy has not recovered as strongly as Obama hoped and promised, he will now have four more years to leave a strong legacy to his Democratic successor. No doubt the Republicans will learn from your failure and come back stronger in 2016.</p>",
+      "sha256": "2367b6b8fda07b6834afb90bf299e32e3ee9dd5c107dd0ed0134f27c32801fb7",
+      "zh": "<h3>遗憾！你输掉了2012年大选。</h3><p>尽管你竭尽全力，贝拉克·奥巴马还是赢得连任，开始第二个总统任期。</p><p>在政治方面，奥巴马医改看来将得以保留并生效。经济复苏虽未达到奥巴马曾期待并承诺的力度，但他如今又有四年时间，可以为民主党的继任者留下厚实的政治遗产。共和党无疑会从你的失败中吸取教训，在2016年卷土重来。</p>",
+      "keys": [
+        "base/candidate_json/17@1/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "<h3>Wow! You have won a true nail-biter.</h3><p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. Fortunately for you, the majority of U.S. states have Republican controlled congressional delegations, and they will cast their votes for you accordingly.</p><p>The important thing is that you won. Go about implementing your agenda accordingly, and pay no attention to Democrats and pundits who call for 'compromise' and 'conciliation'.</p>",
+      "sha256": "5eaa3332bf8fc3660dd08555025807b8cd5f338262e293fd99e6771b431ca719",
+      "zh": "<h3>好险！你赢下了一场让人捏把汗的选举。</h3><p>没有候选人取得选举人票的绝对多数，这是1824年以来首次出现这种情况。对你有利的是，多数州的国会代表团由共和党控制，他们将据此投票支持你。</p><p>重要的是，你赢了。尽管着手推行你的议程，不必理会那些呼吁“妥协”与“和解”的民主党人和评论员。</p>",
+      "keys": [
+        "base/candidate_json/17@1/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "<h3>“Perfect”</h3><p>Those were the words of Barack Obama, as he watches a large flatscreen television across the room from him. The audio output from it relays the projection of the state of Utah in favour of him, completing his 538 vote nationwide sweep of the presidential election. He chuckles to himself. His master plan of tricking the US public into thinking he was an earnest man, that hoped everyone would succeed. He'd played them like fiddles. With his new house and senate supermajorities, he could instate his master plan. First, he would pass a bill that knocks down every Christian church in America and use the rubble to build monuments to Allah. Next, he was going to raise taxes to 101% percent on billionaires, and use the money to buy every school and start teaching communist history. Finally, he would amend the constitution, and remove every odd-numbered amendment, making the American population bend to his every whim (probably, he hadn't thought that far yet). He wonders how anyone could have possibly missed such an obvious plan. It seems only a few people on the internet realized it, but thankfully nobody took them seriously...  <p><p>",
+      "sha256": "32bd1442632cb06e0c463d9d9ca7a3eddf92cf72f7ce2ef73ee72ae7ebf9159a",
+      "zh": "<h3>“完美”</h3><p>贝拉克·奥巴马看着房间另一头的大平板电视，吐出了这两个字。电视声音传来犹他州也被预测由他拿下的消息，他就这样横扫全国，包揽了总统选举的538张选举人票。他暗自轻笑。他精心策划，骗美国公众相信自己是个诚恳的人，希望人人都能成功。所有人都被他玩弄于股掌之间。如今，他在众议院和参议院都拥有压倒性多数，终于可以实施自己的宏图了。首先，他要通过一项法案，拆掉美国所有基督教教堂，再拿碎石为安拉建纪念碑。然后，他要对亿万富翁征收101%的税，用这笔钱买下所有学校，开始教授共产主义历史。最后，他要修改宪法，删除所有奇数编号的修正案，让美国民众对他言听计从——大概吧，他还没想那么远。他想不通，如此明显的计划，大家居然都没看出来。似乎只有网上少数人察觉到了，幸好没人把他们当回事……  <p><p>",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l38.c19/text",
+        "2012_Obama_Clinton/ending/s0.l38.c19/text",
+        "2012_Romney_Ryan/ending/s0.l38.c19/text",
+        "2012_Romney_Portman/ending/s0.l38.c19/text",
+        "2012_Romney_Rubio/ending/s0.l38.c19/text",
+        "2012_Romney_Pawlenty/ending/s0.l38.c19/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>“Breaking New: RomneyMania sweeps America”</h3><p>From coast to coast and town to town in nearly every public meeting space and private residence, millions of Americans have been captivated, inspired, and in some cases even moved to tears by Republican presidential candidate Mitt Romney, all signs that the nation has undeniably been swept up in full-scale Romneymania. The raw energy and enthusiasm of Romney coupled with his uplifting story of rising from moderate wealth to overwhelming riches are just some of the reasons reverent portraits of the former Massachusetts governor have started appearing in windows across the country, often accompanied by one of Romney's signature inspirational phrases, such as 'let Detroit go bankrupt’, or 'Corporations are people.'",
+      "sha256": "09111983f3cf7989a7970fe1e417871708664d1def327610285513d2cf721a4e",
+      "zh": "<h3>“突发新闻：罗姆尼狂热席卷美国”</h3><p>从海岸到海岸，从城镇到城镇，几乎每一处公共聚会场所和私人住宅里，数以百万计的美国人都被共和党总统候选人米特·罗姆尼迷住、激励，有些甚至感动得落泪。种种迹象表明，全国毫无疑问已陷入全面的罗姆尼狂热。罗姆尼澎湃的活力与热情，加上他从小有家财一路奋斗到富可敌国的励志故事，只是人们崇敬他的部分原因。全国各地的窗户开始出现这位前马萨诸塞州州长的肖像，旁边常配着他的标志性励志名言，比如“让底特律破产吧”，或“公司也是人。”",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l41.c19/text",
+        "2012_Obama_Clinton/ending/s0.l41.c19/text",
+        "2012_Romney_Ryan/ending/s0.l41.c19/text",
+        "2012_Romney_Portman/ending/s0.l41.c19/text",
+        "2012_Romney_Rubio/ending/s0.l41.c19/text",
+        "2012_Romney_Pawlenty/ending/s0.l41.c19/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Sorry, you’ve lost the 2012 election",
+      "sha256": "b546cb0f91d4e0899e392feff9001517eb60af5ccd6a429b464362b9c95d465c",
+      "zh": "遗憾，你输掉了2012年大选",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l45.c31/text",
+        "2012_Obama_Clinton/ending/s0.l45.c31/text",
+        "2012_Romney_Ryan/ending/s0.l45.c31/text",
+        "2012_Romney_Portman/ending/s0.l45.c31/text",
+        "2012_Romney_Rubio/ending/s0.l45.c31/text",
+        "2012_Romney_Pawlenty/ending/s0.l45.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Your political career very well might be still alive. Your popular vote victory in this election signals that the people still like you, so perhaps another run in 4 years is in the cards? Maybe you'll be Grover Cleveland 2.0 ...",
+      "sha256": "1620d74ce43235e16d67fc3625c04f3e28619690cbb4247e1a712850302f4bda",
+      "zh": "你的政治生涯很可能还有后续。这次赢得普选票，说明民众仍然喜欢你；也许四年后还能再战一回？说不定你会成为格罗弗·克利夫兰第二……",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l47.c41/text",
+        "2012_Obama_Clinton/ending/s0.l47.c41/text",
+        "2012_Romney_Ryan/ending/s0.l47.c41/text",
+        "2012_Romney_Portman/ending/s0.l47.c41/text",
+        "2012_Romney_Rubio/ending/s0.l47.c41/text",
+        "2012_Romney_Pawlenty/ending/s0.l47.c41/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "Your political career is most likely over, despite your relative youth, due to the harsh reality of what happens to one-term presidents in this day. Speaking tours and book deals await your future. Perhaps you can be the next Jimmy Carter?",
+      "sha256": "ab8b4a3cb92a6d366b64771aa1a8b8152883802da86e646f4e83921994bf7ffd",
+      "zh": "尽管你还相对年轻，但如今只任一届总统的人会遭遇什么，现实十分残酷：你的政治生涯大概已经结束了。未来等着你的是巡回演讲和出书合约。也许你会成为下一个吉米·卡特？",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l49.c41/text",
+        "2012_Obama_Clinton/ending/s0.l49.c41/text",
+        "2012_Romney_Ryan/ending/s0.l49.c41/text",
+        "2012_Romney_Portman/ending/s0.l49.c41/text",
+        "2012_Romney_Rubio/ending/s0.l49.c41/text",
+        "2012_Romney_Pawlenty/ending/s0.l49.c41/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "It just seems that America didn't think your first term was impactful enough. The sluggish economy, as well as your promises not meeting your ambitious 2008 rhetoric likely led to this. You still did do a lot, and it's clear that many Americans thought you deserved a second chance with the margin of victory. Let’s hope Romney's business experience can guide America to a prosperous economy.",
+      "sha256": "74dd4d401ef32b97578da05f03cbb8a6bd12667088d38ad6471742a486e98a12",
+      "zh": "看来，美国人认为你的第一个任期成效不够显著。经济复苏乏力，你的承诺也没能兑现2008年豪言壮语的雄心，这大概就是原因。你毕竟还是做了不少事；从胜负差距也能看出，许多美国人认为你值得再获一次机会。希望罗姆尼的经商经验能带领美国走向经济繁荣。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l52.c40/text",
+        "2012_Obama_Clinton/ending/s0.l52.c40/text",
+        "2012_Romney_Ryan/ending/s0.l52.c40/text",
+        "2012_Romney_Portman/ending/s0.l52.c40/text",
+        "2012_Romney_Rubio/ending/s0.l52.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l52.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "It just seems that America didn't think your first term was impactful enough. The sluggish economy, as well as your promises not meeting your ambitious 2008 rhetoric likely led to this. Democrats are despondent that after 8 years of George Bush, you weren't able to revitalize the country in time. The house has also stayed Republican and the senate is eerily close to being in their hands as well. Paul might be casting a lot of tie-breaking votes. Let’s hope Romney's business experience can guide America to a prosperous economy.",
+      "sha256": "36ca5d6cd81a483a7047cd271206e4d39da54b92f0c0abe5e1f6d941321159c7",
+      "zh": "看来，美国人认为你的第一个任期成效不够显著。经济复苏乏力，你的承诺也没能兑现2008年豪言壮语的雄心，这大概就是原因。经历了乔治·布什的八年执政，你仍未能及时让国家重振旗鼓，民主党人心灰意冷。众议院仍由共和党掌控，参议院也几乎落入他们手中，形势令人不安。保罗可能要多次投出打破平票的关键一票。希望罗姆尼的经商经验能带领美国走向经济繁荣。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l54.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "It just seems that America didn't think your first term was impactful enough. The sluggish economy, as well as your promises not meeting your ambitious 2008 rhetoric likely led to this. The swing compare to 2008 is staggering, and just goes to show how unpopular you are. The Senate has gone red as well. Let’s hope Romney's business experience can guide America to a prosperous economy.",
+      "sha256": "0b635c0a02fce961056dc4a41cf105dd3bdaf4b83a15c7c85f905a415f69df31",
+      "zh": "看来，美国人认为你的第一个任期成效不够显著。经济复苏乏力，你的承诺也没能兑现2008年豪言壮语的雄心，这大概就是原因。与2008年相比，选情转变之大令人咋舌，足见你有多不受欢迎。参议院也转为共和党控制。希望罗姆尼的经商经验能带领美国走向经济繁荣。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l56.c40/text",
+        "2012_Obama_Clinton/ending/s0.l56.c40/text",
+        "2012_Romney_Ryan/ending/s0.l56.c40/text",
+        "2012_Romney_Portman/ending/s0.l56.c40/text",
+        "2012_Romney_Rubio/ending/s0.l56.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l56.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "Congratulations! you've won the 2012 election",
+      "sha256": "b28df82816d27cf9c7539be87f4354917fdb6aedca13ef5d8c82949a6f06f659",
+      "zh": "恭喜！你赢得了2012年大选",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l59.c31/text",
+        "2012_Obama_Biden/ending/s0.l92.c31/text",
+        "2012_Obama_Clinton/ending/s0.l59.c31/text",
+        "2012_Obama_Clinton/ending/s0.l92.c31/text",
+        "2012_Romney_Ryan/ending/s0.l59.c31/text",
+        "2012_Romney_Ryan/ending/s0.l88.c31/text",
+        "2012_Romney_Portman/ending/s0.l59.c31/text",
+        "2012_Romney_Portman/ending/s0.l88.c31/text",
+        "2012_Romney_Rubio/ending/s0.l59.c31/text",
+        "2012_Romney_Rubio/ending/s0.l88.c31/text",
+        "2012_Romney_Pawlenty/ending/s0.l59.c31/text",
+        "2012_Romney_Pawlenty/ending/s0.l88.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "It seems Obamacare will survive, as your veto power will stop any attempts at that. you'll also be given another chance to bring recovery to the economy after the Bush recession. If all goes well, you can leave a stronger country for Hillary Clinton in 2016 to take the reins of.",
+      "sha256": "98024afaeed347969d700388426a8e6724e7ca42af49fcc504fbb793836b3d7d",
+      "zh": "看来，奥巴马医改将得以保留，你的否决权会挡住任何废除它的尝试。布什任内的衰退过后，你也将再获一次推动经济复苏的机会。如果一切顺利，你可以留下一个更强大的国家，让希拉里·克林顿在2016年接手。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l60.c37/text",
+        "2012_Obama_Clinton/ending/s0.l60.c37/text",
+        "2012_Romney_Ryan/ending/s0.l60.c37/text",
+        "2012_Romney_Portman/ending/s0.l60.c37/text",
+        "2012_Romney_Rubio/ending/s0.l60.c37/text",
+        "2012_Romney_Pawlenty/ending/s0.l60.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "Congratulations! You've successfully fought off a challenge from Mitt Romney and the Republicans, to become the third president in a row to win re-election. Mitt Romney calls to congratulate you on your victory, and the Democrats made some gains in both chambers as well, taking back the house. Many are surprised at the fact that you outdid your 2008 margins.",
+      "sha256": "aaa357fc0447a44692ea6c05d19640b63f587fb00190c82d24a43e9298088183",
+      "zh": "恭喜！你成功击退米特·罗姆尼和共和党的挑战，成为连续第三位赢得连任的总统。米特·罗姆尼打电话祝贺你获胜，民主党在两院也有所斩获，夺回了众议院。你的胜选优势竟超过2008年，让许多人感到意外。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l63.c38/text",
+        "2012_Obama_Clinton/ending/s0.l63.c38/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Congratulations! You've successfully fought off a challenge from Mitt Romney and the Republicans, to become the third president in a row to win re-election. Mitt Romney calls to congratulate you on your victory, and the Democrats made some gains in both chambers as well, with the house being just shy of being controlled by them. Your optimistic rhetoric from 2008 wasn't here this time, but Democrats are still satisfied with your electoral vote margin.",
+      "sha256": "398ae5a6c5d9f290b0e2825f8899a20a83619cd72ac3bd0f1c68344273ac2c52",
+      "zh": "恭喜！你成功击退米特·罗姆尼和共和党的挑战，成为连续第三位赢得连任的总统。米特·罗姆尼打电话祝贺你获胜，民主党在两院也有所斩获，距离掌控众议院只差一点。你这次没有重现2008年的乐观豪言，但民主党人仍对你的选举人票优势感到满意。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l66.c40/text",
+        "2012_Obama_Clinton/ending/s0.l66.c40/text",
+        "2012_Romney_Ryan/ending/s0.l62.c40/text",
+        "2012_Romney_Portman/ending/s0.l62.c40/text",
+        "2012_Romney_Rubio/ending/s0.l62.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l62.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "Congratulations! You've successfully fought off a challenge from Mitt Romney and the Republicans, to become the third president in a row to win re-election. Mitt Romney calls to congratulate you on your victory, and the Democrats made some gains in either chamber as well, but you will ultimately have to bargain a lot with Republicans to pass legislation. You didn't do as well as 2008, being the first person since FDR to be re-elected with fewer electoral votes.",
+      "sha256": "c5003aa95922932fbfc8d639d7bb8f2f13ee64a29527eb9e285e31c668b26450",
+      "zh": "恭喜！你成功击退米特·罗姆尼和共和党的挑战，成为连续第三位赢得连任的总统。米特·罗姆尼打电话祝贺你获胜，民主党在两院也有所斩获，但你终究还得经常与共和党讨价还价，才能推动立法。你的表现不如2008年，成为富兰克林·罗斯福之后首位连任时选举人票反而减少的总统。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l68.c40/text",
+        "2012_Obama_Clinton/ending/s0.l68.c40/text",
+        "2012_Romney_Ryan/ending/s0.l64.c40/text",
+        "2012_Romney_Portman/ending/s0.l64.c40/text",
+        "2012_Romney_Rubio/ending/s0.l64.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l64.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "Congratulations! You've successfully fought off a challenge from Mitt Romney and the Republicans, to become the third president in a row to win re-election. Mitt Romney calls to congratulate you on your victory. and the Democrats made some meager gains in either the house as well, but Senate losses will bring you down a notch, and force you to be even more bipartisan than before. Lets hope ",
+      "sha256": "884a3ad5ce310783aaf3b34e87325d5ce102f64b78db9272c2871c4bfb1114a9",
+      "zh": "恭喜！你成功击退米特·罗姆尼和共和党的挑战，成为连续第三位赢得连任的总统。米特·罗姆尼打电话祝贺你获胜，民主党在众议院也有一些微小进展，但参议院的损失会挫一挫你的锐气，迫使你比过去更加寻求两党合作。希望",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l70.c40/text",
+        "2012_Obama_Clinton/ending/s0.l70.c40/text",
+        "2012_Romney_Ryan/ending/s0.l66.c40/text",
+        "2012_Romney_Portman/ending/s0.l66.c40/text",
+        "2012_Romney_Rubio/ending/s0.l66.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l66.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": " is ready to break some Senate ties. You didn't do as well as 2008, being the first person since FDR to be re-elected with fewer electoral votes.",
+      "sha256": "655a9a7c74a84299358b6609fadef47be2bdf41fc68cf3dac8e7ad5d0b8a3fcf",
+      "zh": "准备好了，在参议院出现平票时投出关键一票。你的表现不如2008年，成为富兰克林·罗斯福之后首位连任时选举人票反而减少的总统。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l70.c482/text",
+        "2012_Obama_Clinton/ending/s0.l70.c482/text",
+        "2012_Romney_Ryan/ending/s0.l66.c482/text",
+        "2012_Romney_Portman/ending/s0.l66.c482/text",
+        "2012_Romney_Rubio/ending/s0.l66.c482/text",
+        "2012_Romney_Pawlenty/ending/s0.l66.c482/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": " To the surprise of many, you became the first Democrat to lose the popular vote while winning the electoral vote! Republicans are seething, trying to cope with the fact that they were so close to victory.",
+      "sha256": "97cb57230f7a85ba35d547904e79c9ba01bc8e26b181735bf916a993bfb27ccc",
+      "zh": "令许多人意外的是，你成了首位输掉普选票却赢得选举人票的民主党总统！共和党人怒火中烧，难以接受胜利曾近在咫尺却擦身而过。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l73.c37/text",
+        "2012_Obama_Clinton/ending/s0.l73.c37/text",
+        "2012_Romney_Ryan/ending/s0.l69.c37/text",
+        "2012_Romney_Portman/ending/s0.l69.c37/text",
+        "2012_Romney_Rubio/ending/s0.l69.c37/text",
+        "2012_Romney_Pawlenty/ending/s0.l69.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Sorry, you've lost the 2012 election",
+      "sha256": "b1996843fde86c7a6760ddf66030fa9223a3ac22a7b684c4508430cff86f93c3",
+      "zh": "遗憾，你输掉了2012年大选",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l79.c31/text",
+        "2012_Obama_Clinton/ending/s0.l79.c31/text",
+        "2012_Romney_Ryan/ending/s0.l75.c31/text",
+        "2012_Romney_Portman/ending/s0.l75.c31/text",
+        "2012_Romney_Rubio/ending/s0.l75.c31/text",
+        "2012_Romney_Pawlenty/ending/s0.l75.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Many in the conservative wing of the Republican party weren't too keen on you being the nominee, so it's unlikely you'll get nominated again. You still do have a future in politics, so perhaps you could join the Senate or run for governor again, as New England is showing an increasing willingness to elect moderate Republicans on the gubernatorial scale. You might be able to carve out a strong base of support, based on one of your political or personal aspects, to win in either of these positions. ",
+      "sha256": "7179077ecc81afe882c467fb7113c9883690b4a0bc5a28b9a73ee8f8289a0576",
+      "zh": "共和党保守派中有许多人原本就不热衷让你获得提名，因此你再次获提名的机会不大。不过，你在政坛仍有前途，也许可以竞选参议员，或者再次参选州长；毕竟新英格兰越来越愿意在州长选举中支持温和派共和党人。凭借你的某项政治或个人特点，也许能建立坚实的支持基础，赢得这两种职位中的一个。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l80.c37/text",
+        "2012_Obama_Clinton/ending/s0.l80.c37/text",
+        "2012_Romney_Ryan/ending/s0.l76.c37/text",
+        "2012_Romney_Portman/ending/s0.l76.c37/text",
+        "2012_Romney_Rubio/ending/s0.l76.c37/text",
+        "2012_Romney_Pawlenty/ending/s0.l76.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "It seems Obama will have another four years to recover the economy, as well as deal with the middle east. Republicans are despondent that you didn't defeat him, as they felt he was a very exploitable incumbent. Fortunately, you did much better than McCain, and it wasn't another landslide loss.",
+      "sha256": "649cf2b5262d1dcda3dd167aa7ae19ce45cf37c4335d93f4cde44e9e2f487ee4",
+      "zh": "看来，奥巴马将再有四年时间恢复经济、处理中东事务。共和党人本以为他这个现任总统有许多弱点可供攻击，你却没能击败他，让他们十分沮丧。好在你的表现远胜麦凯恩，并没有再次遭遇压倒性的惨败。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l82.c40/text",
+        "2012_Obama_Clinton/ending/s0.l82.c40/text",
+        "2012_Romney_Ryan/ending/s0.l78.c40/text",
+        "2012_Romney_Portman/ending/s0.l78.c40/text",
+        "2012_Romney_Rubio/ending/s0.l78.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l78.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "It seems Obama will have another four years to recover the economy, as well as deal with the middle east. Republicans are despondent that you didn't defeat him, as they felt he was a very exploitable incumbent. Fortunately, you did better than McCain, although that might have just been the stagnant economy that caused that.",
+      "sha256": "63fc4a557a98826360f0092568b8b2dccad74256058576a389721d8b6cbe63c3",
+      "zh": "看来，奥巴马将再有四年时间恢复经济、处理中东事务。共和党人本以为他这个现任总统有许多弱点可供攻击，你却没能击败他，让他们十分沮丧。好在你的表现胜过麦凯恩，尽管这可能只是经济停滞造成的。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l84.c40/text",
+        "2012_Obama_Clinton/ending/s0.l84.c40/text",
+        "2012_Romney_Ryan/ending/s0.l80.c40/text",
+        "2012_Romney_Portman/ending/s0.l80.c40/text",
+        "2012_Romney_Rubio/ending/s0.l80.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l80.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "It seems Obama will have another four years to recover the economy, as well as deal with the middle east. Republicans are despondent that you didn't defeat him, as they felt he was a very exploitable incumbent. Another crushing defeat was not what the Republicans needed, but at least they are keeping their house majority.",
+      "sha256": "c30eb42da4c5031c6071619b0558be196709617d6c3f589acd29b8358106cef8",
+      "zh": "看来，奥巴马将再有四年时间恢复经济、处理中东事务。共和党人本以为他这个现任总统有许多弱点可供攻击，你却没能击败他，让他们十分沮丧。又一场惨败绝非共和党所需要的，不过至少他们保住了众议院多数。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l86.c40/text",
+        "2012_Obama_Clinton/ending/s0.l86.c40/text",
+        "2012_Romney_Ryan/ending/s0.l82.c40/text",
+        "2012_Romney_Portman/ending/s0.l82.c40/text",
+        "2012_Romney_Rubio/ending/s0.l82.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l82.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": " To the shock of many, Obama loses the popular vote while winning the electoral vote. Your Republican colleagues aren't too happy, believing a more geographically oriented pick for the presidency instead of your could have won it for them",
+      "sha256": "a18c2577c367f341f8d24d22a84097fa580b36c89cb78ead129f1a94ee17760b",
+      "zh": "令许多人震惊的是，奥巴马输掉了普选票，却赢得了选举人票。你的共和党同僚并不高兴，他们认为，若换一位在地域选情上更有优势的总统候选人，或许就能取胜。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l89.c37/text",
+        "2012_Obama_Clinton/ending/s0.l89.c37/text",
+        "2012_Romney_Ryan/ending/s0.l85.c37/text",
+        "2012_Romney_Portman/ending/s0.l85.c37/text",
+        "2012_Romney_Rubio/ending/s0.l85.c37/text",
+        "2012_Romney_Pawlenty/ending/s0.l85.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "Romneycare will most likely be replacing Obamacare (although they aren't all too different), as well as the Bush tax cuts will be extended to help the economy grow. If you're able to recover it and don't make any major mistakes, you should be able to win re-election in 2016. Get ready to move into the White House!.",
+      "sha256": "9f20c1c34c3fe85d8c377e22fe020c83ca25cd0a20f110ab721f821f45e44807",
+      "zh": "罗姆尼医改很可能将取代奥巴马医改，尽管两者其实差别不大；布什减税政策也将延长，以帮助经济增长。如果你能让经济复苏，又不犯大错，应该可以在2016年赢得连任。准备搬进白宫吧！",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l93.c37/text",
+        "2012_Obama_Clinton/ending/s0.l93.c37/text",
+        "2012_Romney_Ryan/ending/s0.l89.c37/text",
+        "2012_Romney_Portman/ending/s0.l89.c37/text",
+        "2012_Romney_Rubio/ending/s0.l89.c37/text",
+        "2012_Romney_Pawlenty/ending/s0.l89.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "Congratulations! Despite a well-fought battle from Barack Obama, you've become the first Mormon president and prevented the 3rd re-election in a row. Your margin of victory is remarkable, a complete flip of 2008. It seems the US population was ready for change again. The Senate flips a few seats in favour of the Republicans, too.",
+      "sha256": "e2cded606145b842c65ed559cb8f3e83947dad9439926e4a75c79e82ec3f1741",
+      "zh": "恭喜！尽管贝拉克·奥巴马奋力迎战，你还是成为首位摩门教徒总统，阻止了连续第三位总统赢得连任。你的胜选优势十分惊人，彻底扭转了2008年的局面。看来美国民众又一次准备好迎接改变。参议院也有几个席位转到共和党手中。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l95.c40/text",
+        "2012_Obama_Clinton/ending/s0.l95.c40/text",
+        "2012_Romney_Ryan/ending/s0.l91.c40/text",
+        "2012_Romney_Portman/ending/s0.l91.c40/text",
+        "2012_Romney_Rubio/ending/s0.l91.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l91.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "Congratulations! Despite a well-fought battle from Barack Obama, you've become the first Mormon president and prevented the 3rd re-election in a row. With a respectable win, you will net a few Senate seats, but so few coming your way will likely mean ",
+      "sha256": "6d3f45b4c9acd5a177adb0559bf61a2cf3f97e5b7a7b19b7920487c416fd8d71",
+      "zh": "恭喜！尽管贝拉克·奥巴马奋力迎战，你还是成为首位摩门教徒总统，阻止了连续第三位总统赢得连任。你赢得还算体面，能帮共和党拿下几个参议院席位，但新增席位如此之少，很可能意味着",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l97.c40/text",
+        "2012_Obama_Clinton/ending/s0.l97.c40/text",
+        "2012_Romney_Ryan/ending/s0.l93.c40/text",
+        "2012_Romney_Portman/ending/s0.l93.c40/text",
+        "2012_Romney_Rubio/ending/s0.l93.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l93.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": " will be breaking a few ties. Let’s hope your bipartisanship and moderate views help decisions be made quickly and effectively.",
+      "sha256": "2ab268b51733572178d6a0d57dde70486bc6b12a2fd5ad440161dc2db2e4465d",
+      "zh": "得投几次打破平票的关键票。希望你的两党合作态度和温和观点，能帮助大家迅速而有效地作出决策。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l97.c340/text",
+        "2012_Obama_Clinton/ending/s0.l97.c340/text",
+        "2012_Romney_Ryan/ending/s0.l93.c340/text",
+        "2012_Romney_Portman/ending/s0.l93.c340/text",
+        "2012_Romney_Rubio/ending/s0.l93.c340/text",
+        "2012_Romney_Pawlenty/ending/s0.l93.c340/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "Congratulations! Despite a well-fought battle from Barack Obama, you've become the first Mormon president and prevented the 3rd re-election in a row. it was close, though. Your slim margins will keep the Senate in Democrat’s hands, so be prepared to make concessions to your propositions",
+      "sha256": "8e5983628da033d5c2c7782418322c1aaa0eebceadc01584f1af6748a7be8164",
+      "zh": "恭喜！尽管贝拉克·奥巴马奋力迎战，你还是成为首位摩门教徒总统，阻止了连续第三位总统赢得连任。不过，这次赢得很险。你微弱的胜选优势不足以改变民主党掌控参议院的局面，因此准备好在提案上作出让步吧。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l99.c40/text",
+        "2012_Obama_Clinton/ending/s0.l99.c40/text",
+        "2012_Romney_Ryan/ending/s0.l95.c40/text",
+        "2012_Romney_Portman/ending/s0.l95.c40/text",
+        "2012_Romney_Rubio/ending/s0.l95.c40/text",
+        "2012_Romney_Pawlenty/ending/s0.l95.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "To the chagrin of Democrats, creating flashbacks to 2000, the popular vote is won by the Democrats, despite your electoral vote win. be prepared for a galvanized liberal base during the mid-terms.",
+      "sha256": "5360fd8a2e4a96e76946e207b7f409be8521ea8a3f9a3cdbb2bf653c10b01b47",
+      "zh": "让民主党人懊恼的是，他们赢得了普选票，你却凭选举人票获胜，让人又想起了2000年。准备在中期选举中面对一个被充分动员起来的自由派阵营吧。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l102.c37/text",
+        "2012_Obama_Clinton/ending/s0.l102.c37/text",
+        "2012_Romney_Ryan/ending/s0.l98.c37/text",
+        "2012_Romney_Portman/ending/s0.l98.c37/text",
+        "2012_Romney_Rubio/ending/s0.l98.c37/text",
+        "2012_Romney_Pawlenty/ending/s0.l98.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": " Joe Biden is a bit annoyed you won without him, though.",
+      "sha256": "c42a0836a77fa81b978260d4b48506bb7ef091edf2642fb02490ae20d63ab969",
+      "zh": "不过，乔·拜登对你没带上他却赢了选举，有点不高兴。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l107.c34/text",
+        "2012_Obama_Clinton/ending/s0.l107.c34/text",
+        "2012_Romney_Ryan/ending/s0.l103.c34/text",
+        "2012_Romney_Portman/ending/s0.l103.c34/text",
+        "2012_Romney_Rubio/ending/s0.l103.c34/text",
+        "2012_Romney_Pawlenty/ending/s0.l103.c34/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": " Many are also angered of your dropping of Joe Biden, which they feel cost you some votes and possibly the election. Biden himself has already yelled at you for losing the election.",
+      "sha256": "a37b563126c8f472f902638cbc7562ce1fd15df0d0d49bed883c52baf115fc47",
+      "zh": "许多人也对你撤换乔·拜登感到愤怒，认为这让你损失了一些选票，甚至可能断送了整场选举。拜登本人已经因为你输掉选举而冲你大吼过了。",
+      "keys": [
+        "2012_Obama_Biden/ending/s0.l110.c34/text",
+        "2012_Obama_Clinton/ending/s0.l110.c34/text",
+        "2012_Romney_Ryan/ending/s0.l106.c34/text",
+        "2012_Romney_Portman/ending/s0.l106.c34/text",
+        "2012_Romney_Rubio/ending/s0.l106.c34/text",
+        "2012_Romney_Pawlenty/ending/s0.l106.c34/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "In the most general terms, what will be your overall campaign strategy against Romney?",
+      "sha256": "5fbb7c4cecdaa0c7ef6c85dfa335a31bda79605aab0e3db4075b59b9071490a8",
+      "zh": "概括来说，你对阵罗姆尼的总体竞选策略是什么？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/130@0/description",
+        "2012_Obama_Clinton/questions_json/130@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "What will be the overriding theme of your nomination speech at the Democratic Convention?",
+      "sha256": "77ac0aa91403911e5f1875d55b8089f7b05fc499579f1ab90748d97b38e35e4d",
+      "zh": "你在民主党全国代表大会上的提名演说，将以什么作为贯穿全篇的主题？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/93@1/description",
+        "2012_Obama_Clinton/questions_json/93@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "What is your guiding foreign policy philosophy?",
+      "sha256": "a03be2e26060276fd5427a19f122b710f4045deb06588157740912cf1dddbbd9",
+      "zh": "你的外交政策遵循什么基本理念？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/114@2/description",
+        "2012_Obama_Clinton/questions_json/114@3/description",
+        "2012_Romney_Ryan/questions_json/114@2/description",
+        "2012_Romney_Portman/questions_json/114@4/description",
+        "2012_Romney_Rubio/questions_json/114@4/description",
+        "2012_Romney_Pawlenty/questions_json/114@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "A recent Supreme Court decision affirmed an Arizona law allowing officers to check suspected illegal immigrants for proof of immigration status. Do you think this law is a good idea?",
+      "sha256": "00392f182a91121cae6da3bbdad05bae65368b715ad3d5b5bf1f29b8286e81d5",
+      "zh": "最高法院最近的一项判决认可了亚利桑那州法律中的一项规定，允许警察要求疑似非法移民者出示移民身份的证明。你认为这项法律妥当吗？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/7@3/description",
+        "2012_Obama_Clinton/questions_json/7@6/description",
+        "2012_Romney_Ryan/questions_json/7@6/description",
+        "2012_Romney_Portman/questions_json/7@5/description",
+        "2012_Romney_Rubio/questions_json/7@3/description",
+        "2012_Romney_Pawlenty/questions_json/7@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "What is your position on gay marriage?",
+      "sha256": "6908d3296d57bad85a55da1ec6ae3d690abd98a29ce6c3b30e486f77f9000553",
+      "zh": "你对同性婚姻持什么立场？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/22@4/description",
+        "2012_Obama_Clinton/questions_json/22@5/description",
+        "2012_Romney_Ryan/questions_json/22@4/description",
+        "2012_Romney_Portman/questions_json/22@6/description",
+        "2012_Romney_Rubio/questions_json/22@2/description",
+        "2012_Romney_Pawlenty/questions_json/22@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Do you support allowing the Bush Tax Cuts to expire for high-income households at the end of 2012?",
+      "sha256": "00d713d890300be170a94ea53ee72876cbf5f8d52b9d2a7ed4bcc68ccfc227d0",
+      "zh": "你是否支持让适用于高收入家庭的布什减税政策在2012年底到期失效？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/25@5/description",
+        "2012_Obama_Clinton/questions_json/25@4/description",
+        "2012_Romney_Ryan/questions_json/25@5/description",
+        "2012_Romney_Portman/questions_json/25@2/description",
+        "2012_Romney_Rubio/questions_json/25@5/description",
+        "2012_Romney_Pawlenty/questions_json/25@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "The Affordable Care Act (i.e. 'Obamacare') will cap annual premiums, require minimum coverage levels, and outlaw discrimination against people with pre-existing conditions. What do you think?",
+      "sha256": "8bbcca75e5b9fad6da58c2707f482c7408ba0e708f4020a479d02185723a0c81",
+      "zh": "《平价医疗法案》，即“奥巴马医改”，将限制年度保费、要求最低保障水平，并禁止歧视已有疾病的人。你怎么看？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/42@6/description",
+        "2012_Obama_Clinton/questions_json/42@2/description",
+        "2012_Romney_Ryan/questions_json/42@3/description",
+        "2012_Romney_Portman/questions_json/42@3/description",
+        "2012_Romney_Rubio/questions_json/42@6/description",
+        "2012_Romney_Pawlenty/questions_json/42@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Would you support a Constitutional Amendment to overturn some provisions of the <em>Citizens United</em> ruling, affecting campaign finance by PAC's?",
+      "sha256": "7287daab8ad0b8eb8a88bf4a3c854628abeb23cb8c087598c7dbeeb3eaf48311",
+      "zh": "你是否支持通过宪法修正案，推翻<em>联合公民案</em>判决中影响政治行动委员会竞选融资的部分规定？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/43@7/description",
+        "2012_Romney_Ryan/questions_json/43@10/description",
+        "2012_Romney_Rubio/questions_json/43@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "What is your opinion on directing some Department of Education funding towards a school voucher program?",
+      "sha256": "b9e0692aa0db8b57cefca8596937c51e10c43ff123c6a515709ff5254ad2c925",
+      "zh": "对于把教育部的一部分经费用于学券计划，你有何看法？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/33@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "Should the United States have been so quick to drop its support for Hosni Mubarak in 2011, given recent events in Egypt?",
+      "sha256": "ff188ecb23c4122d6858f52f5d41c359a23b31b510e8ad02c1f4f3a07dadffc5",
+      "zh": "考虑到埃及近期的局势，美国在2011年是否不该那么快就放弃支持胡斯尼·穆巴拉克？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/12@9/description",
+        "2012_Romney_Pawlenty/questions_json/12@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "Does it make sense to dispose our nuclear waste at Yucca Mountain in Nevada?",
+      "sha256": "3e1050a8b54161b2d3d3394723ed30c64a857745ea5f0b5e6c945a856193a08a",
+      "zh": "把我国的核废料运到内华达州尤卡山处置，是否合理？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/9@10/description",
+        "2012_Romney_Pawlenty/questions_json/9@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "Some on the left thought that you were not very vigorous in your opposition to the anti-union policies of Governor Scott Walker in Wisconsin. What do you have to say about this?",
+      "sha256": "54e006a4d515e99eaf922e65e070f427654b11beb54594ca823a776aa5f7470a",
+      "zh": "左派中有人认为，你对威斯康星州州长斯科特·沃克反工会政策的反对不够坚决。对此你有什么话要说？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/85@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "Should the Confederate flag be removed entirely from the South Carolina statehouse grounds?",
+      "sha256": "2acffc71cda3c0bf3f161ee49c32a46c16d02c05e9b0bf11e3ea3e662b06b55a",
+      "zh": "是否应该把邦联旗帜完全撤出南卡罗来纳州议会大厦周边场地？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/5@12/description",
+        "2012_Obama_Clinton/questions_json/5@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "The United States has historically subsidized corn producers. With recent price increases in the corn market, do you still believe that such a program is necessary?",
+      "sha256": "420089369c2de0a648f978b8564555fecf9707d7199f1304caa14e73887fcaaf",
+      "zh": "美国历来补贴玉米生产者。如今玉米市场价格已经上涨，你是否仍认为这项计划有必要？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/28@13/description",
+        "2012_Romney_Pawlenty/questions_json/28@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "Joe Biden made what can only be described as a gaffe on the campaign trail today. What are your comments?",
+      "sha256": "7f74d27dadb306f388e3de3c556df758219a88ecc8b399763516264a974efd6f",
+      "zh": "乔·拜登今天在竞选途中说了句只能称为失言的话。你如何评论？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/99@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "What do you think the next steps should be in regards to Medicare?",
+      "sha256": "9d2917a8fc3daf8419da9b732e3cdfc22a93cc618f43025dbe20daafbbbed7fe",
+      "zh": "你认为联邦医疗保险下一步应该怎么走？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/82@15/description",
+        "2012_Obama_Clinton/questions_json/82@12/description",
+        "2012_Romney_Rubio/questions_json/82@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "Apple's use of cheap, Chinese labor via Foxconn has increased the visibility of labor conditions in that country. Do you think that China competes unfairly with the U.S. by denying basic rights to its workers?",
+      "sha256": "749f72051f2e35e59135f45ae2d141b22575c8d14d8c135f52fe60923da4f385",
+      "zh": "苹果公司通过富士康使用廉价中国劳动力，使中国的劳动条件受到更多关注。你是否认为，中国剥夺劳动者的基本权利，从而对美国形成不公平竞争？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/52@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "Do you support a larger fence or even a wall on the U.S.-Mexico border to prevent illegal immigration?",
+      "sha256": "c4c0eb23f3ae1fa22b9e8636ac986474bfe54046c40c2ee628265834fd095628",
+      "zh": "你是否支持在美墨边境修建更大规模的围栏，甚至一堵墙，以阻止非法移民入境？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/18@17/description",
+        "2012_Romney_Ryan/questions_json/18@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "Should large banks like Chase, Citibank, and Bank of America be broken up to reduce the risk of another financial crisis?",
+      "sha256": "e9b38aeeb362cf7b93cf9645341de6e29ff3825f2ed384d294d1c9dbd4be7663",
+      "zh": "是否应该拆分摩根大通、花旗银行和美国银行等大银行，以降低再次发生金融危机的风险？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/66@18/description",
+        "2012_Obama_Clinton/questions_json/66@16/description",
+        "2012_Romney_Ryan/questions_json/66@23/description",
+        "2012_Romney_Portman/questions_json/66@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "Mitt Romney was the CEO of Bain Capital for many years. What can you say about his time at that firm?",
+      "sha256": "2762c557f1030fbfd742bfef4a7aad85095829ee53c0a72cdac433d9ebfbc5a0",
+      "zh": "米特·罗姆尼曾多年担任贝恩资本首席执行官。关于他在这家公司的经历，你有什么话要说？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/83@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "Should American workers have the right to invest their Social Security withholdings in private accounts?",
+      "sha256": "77d43786901c4e955a037e08885a5d930c3d007fb3bf57411da70534151bd921",
+      "zh": "是否应该允许美国劳动者把扣缴的社会保障金投入私人账户？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/56@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "How much attack advertising will your campaign use?",
+      "sha256": "25d93d912ba16e3b9c6f69b626f799d2a62a25d401a1aa2d011399528c75d77b",
+      "zh": "你的竞选团队会投放多少攻击性广告？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/65@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "Would you consider a default on some U.S. debt obligations if the financial situation of the country continues to deteriorate?",
+      "sha256": "38c9a53359413fe45341986a4846e3644a13caf317e8da514b5b243e7038a41d",
+      "zh": "如果国家的财政状况继续恶化，你是否会考虑对部分美国债务违约？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/54@22/description",
+        "2012_Romney_Pawlenty/questions_json/54@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "What actions do you support to mitigate the effects of climate change?",
+      "sha256": "c523bb7bc9700aeaa168c0995d6d62dbaef12236c4fad4cbe892b87467008e72",
+      "zh": "你支持采取哪些行动来减轻气候变化的影响？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/68@23/description",
+        "2012_Obama_Clinton/questions_json/68@13/description",
+        "2012_Romney_Ryan/questions_json/68@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "Would you advocate cutting Peace Corps funding to help address the deficit?",
+      "sha256": "600a4eb1008cd8f5887542246ae23b6237c95b3716aaf6db7df98459b8512814",
+      "zh": "你是否主张削减和平队经费，以帮助解决赤字问题？",
+      "keys": [
+        "2012_Obama_Biden/questions_json/60@24/description",
+        "2012_Romney_Portman/questions_json/60@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

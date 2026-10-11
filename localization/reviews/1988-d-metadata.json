@@ -1,0 +1,12 @@
+{
+  "checkedAt": "2026-10-09",
+  "research": "1988-RESEARCH_PENDING_ZH.md",
+  "sourceExceptions": [
+    {"index":11,"reason":"Silver foot is an intentional silver-spoon / foot-in-mouth pun; retain literal image and explain beside text."},
+    {"index":29,"reason":"Roe settled-law statement retained as 1988 character dialogue, not a statement of current law."},
+    {"index":41,"reason":"Original calls Dukakis a Greek immigrant although he was US-born to immigrant parents. Preserve original claim and flag for sourced annotation rather than silently rewrite as fact."},
+    {"index":54,"reason":"Second-banana means subordinate running mate, not a literal banana."},
+    {"index":72,"reason":"L-word means liberal in this campaign context, not an unrelated contemporary usage."},
+    {"index":73,"reason":"Waffle means evasive indecision rather than the food."}
+  ]
+}

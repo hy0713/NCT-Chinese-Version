@@ -1,0 +1,512 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-i",
+  "uniqueSourcesReviewed": 43,
+  "recordPositions": 47,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 8,
+      "reason": "American flag lapel interpreted as lapel flag pin, not sewn US flag lapel fabric."
+    },
+    {
+      "index": 11,
+      "reason": "Original prosecute by DEA retained as broad political question; prosecution and agency investigation differ institutionally."
+    },
+    {
+      "index": 20,
+      "reason": "Original fossil fuels and coal overlap retained, not revised energy classification."
+    },
+    {
+      "index": 21,
+      "reason": "Drill baby slogan preserved with informal address; 2008 slogan background to verify, not literal instruction to child."
+    },
+    {
+      "index": 33,
+      "reason": "Nixon invented claim is original rhetorical question, not verified first invention."
+    },
+    {
+      "index": 39,
+      "reason": "Original that were missing they repaired in Chinese only."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "My plan was a good plan for Massachusetts. Obamacare is bad because it forces an individual mandate on the American public.",
+      "sha256": "5d128c4f2e08e9764b0b99ff38dff9e3c7ffc562febc048f2a1b008abe7d4ba5",
+      "zh": "我的计划很适合马萨诸塞州。奥巴马医改不好，因为它强迫美国公众接受个人强制投保。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/388@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "It's probably time to admit that there isn't much of a difference between our plans. I was simply forced to pander to extreme elements of the Republican Party during our primary election process.",
+      "sha256": "963352e40d2799f2f8a2040fcb3f4c35b72ee0f279a4bb51d3f72be7947fe9a4",
+      "zh": "也许是时候承认，我们的方案没什么区别了。在党内初选期间，我只是被迫迎合共和党的极端派别。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/389@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "I've changed my position on health care over the years after much reflection. We should focus on doing anything we can to overturn Obamacare, rather than dwelling on what I used to think years in the past.",
+      "sha256": "a0cb6705777e754e9a77b1f1044abcde84a11c96785145835f975c7add475e29",
+      "zh": "多年来，经过深思熟虑，我改变了医疗政策立场。我们应该集中精力，竭尽所能推翻奥巴马医改，而不是纠缠我多年前的想法。",
+      "keys": [
+        "2012_Romney_Rubio/answers_json/390@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "The Cuban community in Florida is livid at your response. You <em>do</em> know there's a reason why the embargo has been in place this long, right?",
+      "sha256": "fb61b29852357f3a113663a1a5c2e109954e8f882d214f13e1969759cf241fb9",
+      "zh": "佛罗里达州的古巴裔社群对你的回答怒不可遏。禁运维持这么久，自然有它的原因；你<em>确实</em>知道这一点，对吧？",
+      "keys": [
+        "2012_Romney_Rubio/answer_feedback_json/357@0/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/420@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "You depend on support from public sector unions. Try not to undermine them like this in the future.",
+      "sha256": "4d966276efa4d5a7d441a86af4788a82a7dc0f379d4912563d15a4d7f1c02be5",
+      "zh": "你依赖公共部门工会的支持。以后尽量别这样拆他们的台。",
+      "keys": [
+        "2012_Romney_Rubio/answer_feedback_json/373@5/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/373@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "What a strange and completely tin-eared response.",
+      "sha256": "8897c31e9e9b1b2a86805c39adedc3fa326c104140b9f91bab4f6c319faca319",
+      "zh": "这回答真奇怪，而且完全不懂察言观色。",
+      "keys": [
+        "2012_Romney_Rubio/answer_feedback_json/405@27/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/472@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Conservative pundits are very disappointed in your response. You've just reinforced their concerns that you are secretly a moderate.",
+      "sha256": "a16f8fda96ccb4d87f5c863f5087209d763fe25cc6c69b9ab6550254b5e08184",
+      "zh": "保守派评论员对你的回答十分失望。你刚刚强化了他们的担忧：你其实暗地里还是个温和派。",
+      "keys": [
+        "2012_Romney_Rubio/answer_feedback_json/432@31/answer_feedback",
+        "2012_Romney_Pawlenty/answer_feedback_json/432@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "It just seems that America didn't think your first term was impactful enough. The sluggish economy, as well as your promises not meeting your ambitious 2008 rhetoric likely led to this. Democrats are despondent that after 8 years of George Bush, you weren't able to revitalize the country in time. The house has also stayed Republican and the senate is eerily close to being in their hands as well. Ryan might be casting a lot of tie-breaking votes. Let’s hope Romney's business experience can guide America to a prosperous economy.",
+      "sha256": "dfc04de981f5908f8945efa36189f599760010c1c4e6191c44b3fac8ab9cfe41",
+      "zh": "看来，美国人认为你的第一个任期成效不够显著。经济复苏乏力，你的承诺也没能兑现2008年豪言壮语的雄心，这大概就是原因。经历了乔治·布什的八年执政，你仍未能及时让国家重振旗鼓，民主党人心灰意冷。众议院仍由共和党掌控，参议院也几乎落入他们手中，形势令人不安。瑞安可能要多次投出打破平票的关键一票。希望罗姆尼的经商经验能带领美国走向经济繁荣。",
+      "keys": [
+        "2012_Romney_Pawlenty/ending/s0.l54.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Will you wear an American flag lapel on your suit as you campaign?",
+      "sha256": "c1ee8a1c5167aee5d45f8375d8875180270a407bbc8c725f112cb2d18a0d29f5",
+      "zh": "竞选时，你会在西装翻领上佩戴美国国旗徽章吗？",
+      "keys": [
+        "2012_Romney_Pawlenty/questions_json/64@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "We have now had 10 years to analyze the effects of the No Child Left Behind Act. Do you think it is time for a change?",
+      "sha256": "afca37672bddcbb5a94720c6df0c9b9cb44fb61ccf1238c87aaea699f733aa9a",
+      "zh": "我们已经有十年时间分析《不让一个孩子掉队法》的影响。你认为，是时候改变了吗？",
+      "keys": [
+        "2012_Romney_Pawlenty/questions_json/32@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Is your campaign planning to allow Ron Paul a high-profile speaking slot at the Republican Convention, in light of the number of delegates that he commands?",
+      "sha256": "19fa4bb1cd912213ced5188a6e9bdfa70880982991990ce942ee12cee2ffa714",
+      "zh": "考虑到罗恩·保罗掌握的代表票数量，你的竞选团队是否打算让他在共和党全国代表大会上获得一个引人注目的演讲时段？",
+      "keys": [
+        "2012_Romney_Pawlenty/questions_json/101@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Should the DEA prosecute medicinal marijuana growers in states where that practice has been legalized?",
+      "sha256": "c7f475dcd78a69f52ad5a1897c3f0ec219232cf2f90e6f023ed43ee59880d4f7",
+      "zh": "在已经允许种植医用大麻的州，缉毒局是否应该起诉种植者？",
+      "keys": [
+        "2012_Romney_Pawlenty/questions_json/44@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "The water level of Lake Mead (the reservoir near Hoover Dam) has been steadily dropping in recent years. Should the Bureau of Reclamation regulate the use of this water more strictly?",
+      "sha256": "349a2e6b0d0da200b1087bbb1a0785e0dcfa62310aa7158d985372c178469a2c",
+      "zh": "米德湖，也就是胡佛水坝附近的水库，近年水位持续下降。垦务局是否应该更严格地管理这些水资源的使用？",
+      "keys": [
+        "2012_Romney_Pawlenty/questions_json/8@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Is the United States too reliant on fossil fuels for its energy needs?",
+      "sha256": "4085ced671c3c2433ce041e789df663d1c02a3437b32a326d26542533357f1ba",
+      "zh": "美国在能源需求上，是否过于依赖化石燃料？",
+      "keys": [
+        "2012_Romney_Pawlenty/questions_json/24@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Yes. People will continue to move into the region and place an unsustainable burden on the water supply unless the price accurately reflects current and future scarcity.",
+      "sha256": "6dbaec1c9381cf13fddca3acb009cd534697a828ffe387316e67c2a7ea7f2479",
+      "zh": "是。除非价格准确反映目前及未来的稀缺程度，否则人们会继续搬入这个地区，给供水造成不可持续的负担。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/29@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "I'm very worried about the falling water levels in that area. If this continues, then we would eventually need to consider taking action.",
+      "sha256": "a9178cd5623d137005932a8fe84aa6a5552a7aff771716ddc0b42d4f8e7b4ee7",
+      "zh": "我很担心该地区水位下降。如果这种情况持续，我们最终就需要考虑采取行动。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/30@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "I think the system we have in place is working. There will be ebbs and flows in the water level, but we've already seen it start to rebound the last couple of years.",
+      "sha256": "e6c56d4b0121a1318e33197acb7d2daeb7532db305b5f9d783e78d227e8f05a8",
+      "zh": "我认为，现行制度运作良好。水位会有起有落，但过去几年，我们已经看到它开始回升。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/31@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "They already regulate it too strictly in my opinion. Water should be much cheaper in the Southwest.",
+      "sha256": "e5c1403f61d5116efdfa07652bf1b6923c40a23c33a23a3d4312f2b8fd9c27b2",
+      "zh": "在我看来，他们管得已经太严了。西南部的用水应该便宜得多。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/32@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "The answer is obvious. By continuing to rely on non-renewable energy sources, we place ourselves at greater risk for future energy shocks and we contribute to global warming.",
+      "sha256": "dc86db289d2f40c1c14697adcbe751748e3863ec49443bfceb35fb70698dafe7",
+      "zh": "答案很明显。继续依赖不可再生能源，我们既增加了未来遭遇能源冲击的风险，也加剧了全球变暖。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/93@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Yes. We need to combine the use of these sources with further research into solar and wind power.",
+      "sha256": "cafd8167c3dc232521fc18528dc7311a167130ddc316c0ed62753e83efc92cd8",
+      "zh": "是。我们需要在使用这些能源的同时，进一步研究太阳能和风能。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/94@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Fossil fuels and coal are the backbone of our energy supply. If we got rid of those, what would we have left? We have to be realistic and realize that our options are limited.",
+      "sha256": "cfc9516a6e1a6de6ddc31836252ad8e59b64e23661791ed823056dcf2e40f929",
+      "zh": "化石燃料和煤炭，是我们能源供应的支柱。如果不要这些，我们还剩什么？我们必须现实一点，认识到选择有限。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/95@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Just drill baby. We need more development of our fossil fuels to reduce foreign dependence.",
+      "sha256": "0b6e7e06d25e9695aea936287d0c4ea66f220d57305bbd665d61ea802b656708",
+      "zh": "钻就对了，宝贝。我们需要更多开发化石燃料，减少对外国的依赖。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/96@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "This idea was a failure from day one. Federal education funds are needed the most in low-income districts which have disproportionately suffered from this legislation.",
+      "sha256": "bfbc9568f2a6dd0d9f4281ac0957666ea1aa64cc45277100b1d682abe3ea77d2",
+      "zh": "这个主意从第一天起就失败了。低收入学区最需要联邦教育经费，却因这部法律蒙受了格外严重的损失。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/125@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "There is a danger of 'teaching to the test'. We do need some testing in place, but to do so on an annual basis is too frequent and interferes with good educational practice.",
+      "sha256": "1b2a9b94b453a409e2a95b61552aa7f8fb8463b10c086849ab6ac446589ecd67",
+      "zh": "存在“为了考试而教学”的危险。我们确实需要一些测试，但每年都考太频繁，也妨碍了良好的教学实践。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/126@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "This is a good program overall. Perhaps some minor details can be fixed, but without standardized testing there is no way to monitor the quality of our educational system.",
+      "sha256": "e64e00deaf99063f92e677df09903129742d9973bdd7eebc6dd14a39741ae287",
+      "zh": "总体来说，这是个不错的计划。也许可以修正一些小细节，但没有标准化测试，就无法监督教育体系的质量。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/127@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "I question the premise that the Department of Education should be providing funds in the first place. Education is a local concern.",
+      "sha256": "407c22501e4f63216faf78edacf6447ce4cf9534f5cf638afd9a8ccb7e109b04",
+      "zh": "我质疑的是，教育部一开始就该不该提供经费。教育是地方事务。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/128@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Absolutely. Marijuana is a dangerous controlled substance, and the federal government has a responsibility to enforce all laws that are currently on the books.",
+      "sha256": "696b8cb9bea1da22a41787d7842529a9547546fb92f4b64400a645cbc8aebb54",
+      "zh": "当然应该。大麻是危险的受管制物质，联邦政府有责任执行所有现行法律。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/173@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "Is this a real question? Where states refuse to uphold their responsibilities, the federal government should step in. Perhaps we can argue about the severity of the penalty, but never about the crime itself.",
+      "sha256": "c7285897e6515f61a556f29e6aaf3199c7c556a0ba45e0cb153cd3f246b6bba2",
+      "zh": "这真是个问题吗？各州拒绝履行责任时，联邦政府就应该介入。也许我们可以争论处罚的严厉程度，但绝不能争论行为本身是不是犯罪。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/174@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "We might disagree with these laws, but it is the responsibility of the DEA to uphold them. I do think we can look into reducing the penalties, which should decrease the strain on our prisons and allow people a second chance to lead productive lives.",
+      "sha256": "c34157bed3fd41d43d551b7e7cc524523520ea9c51dcbe872ba7814356d72725",
+      "zh": "我们可能不赞同这些法律，但执行它们是缉毒局的职责。我确实认为，可以研究减轻处罚；这样应该能缓解监狱压力，也让人再获一次过上有成效生活的机会。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/175@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "This entire thing wouldn't even be an issue if marijuana were decriminalized as it should be. The DEA should never be prosecuting non-violent, licensed growers of medicinal marijuana.",
+      "sha256": "ed90630b9ba11f47d155d92837c87b38fcba4e4ed3d810c058f1c5c6f20565cf",
+      "zh": "如果大麻像本来就应该的那样实现非刑事化，整件事根本就不会成为问题。缉毒局绝不应该起诉那些持有许可、没有暴力行为的医用大麻种植者。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/176@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This is a corrupt, ludicrous practice which Congress uses to hide the true size of our budget and Social Security deficits.",
+      "sha256": "fff1415390e867d14f2938445ed9c62a970efc8397f6f8e43e24b6785f43e419",
+      "zh": "这是一种腐败、荒唐的做法，国会借此掩盖预算赤字和社会保障赤字的真实规模。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/207@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "I think anyone who has managed money can tell you there is a place for U.S. Treasuries in any professional portfolio. Allowing the Social Security fund to invest in other securities opens a huge number of potential problems and conflicts of interest.",
+      "sha256": "943ddca1b72c57ea96f91772bd0cad9f8da0c50070b24c3ab2c2ae3e43ff9043",
+      "zh": "我想，任何管理过资金的人都能告诉你，专业投资组合里，总有美国国债的位置。允许社会保障基金投资其他证券，会带来大量潜在问题与利益冲突。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/208@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "It baffles me how someone could be ashamed to display the American flag. It seems a little unpatriotic to me.",
+      "sha256": "6812a7eee1f9271ba4105290d52309a22bf11bf6026ea15c228326c5ab2dd78d",
+      "zh": "居然有人羞于展示美国国旗，我实在不理解。在我看来，这有点不爱国。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/234@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Didn't Nixon invent this tactic as a cheap political ploy in the 1960s? This is far from the best way for someone to display their patriotism.",
+      "sha256": "d61e6d08529c0e53dc00128fbcc34de0cdcf92e88e8b89216ed63aa5a7310de8",
+      "zh": "这招不是尼克松在1960年代想出来的廉价政治把戏吗？这远不是表达爱国心的最佳办法。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/235@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "The last thing we need is someone like Ron Paul taking up precious prime time coverage at our convention. We will seat all duly elected delegates, but Ron Paul will never speak at my convention.",
+      "sha256": "41424cd6af20dec0ba099ad3209fff864a08d4bea1843d1e651536c0e4badfb0",
+      "zh": "我们最不需要的，就是罗恩·保罗这样的人占用大会宝贵的黄金时段转播。我们会让所有依法选出的代表就座，但罗恩·保罗绝不会在我的大会上演讲。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/353@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "You know, it couldn't hurt to give Mr. Paul a few minutes outside of prime time. Even if his views are a little on the fringe, he does have a very committed following. I'm willing to compromise on a couple of issues if that's what it takes to bring them in.",
+      "sha256": "010c42c8a99aff8540813f283aac336b36d8277830f24bac85d03959bfc22466",
+      "zh": "你知道，让保罗先生在非黄金时段讲几分钟，也没什么坏处。即使他的观点有点偏离主流，他确实有一批非常坚定的追随者。为了争取他们，如果有必要，我愿意在几个问题上妥协。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/354@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Give him a good slot. He was one of our most effective primary challengers after all. And I'll even throw a line into my nomination speech praising the zeal and efforts of his supporters.",
+      "sha256": "000e731a51321221a1baf019590a65050f7223621a6872c6138184b088b8990e",
+      "zh": "给他一个好时段。毕竟，他是初选中对我们最有威胁的挑战者之一。我甚至会在提名演说中加上一句，赞扬他的支持者的热情与努力。",
+      "keys": [
+        "2012_Romney_Pawlenty/answers_json/355@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "That was a good, honest response. Unfortunately, you'd better be prepared to lose some votes in Arizona and Nevada.",
+      "sha256": "5e1ae12e52dc421926f7b07e26716088083e00de44dfe1fb81b096079dac98f2",
+      "zh": "这回答不错，也诚实。遗憾的是，你最好准备好在亚利桑那州和内华达州损失一些选票。",
+      "keys": [
+        "2012_Romney_Pawlenty/answer_feedback_json/363@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "This response is a little disappointing to environmentalist Democrats.",
+      "sha256": "2f2c4110d6c0160aa6a436de61324292bdc4a6d1c8cda92258083d21acdabd89",
+      "zh": "这个回答让民主党中的环保人士有点失望。",
+      "keys": [
+        "2012_Romney_Pawlenty/answer_feedback_json/380@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "The Republicans had no idea that were nominating an environmentalist.",
+      "sha256": "1baa1db118cd6e9a20959b0e8157f823d3a6439c73838d4915833290ebd6ef3f",
+      "zh": "共和党人根本没想到，自己提名的竟是个环保派。",
+      "keys": [
+        "2012_Romney_Pawlenty/answer_feedback_json/425@25/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Bad answer for a Republican candidate -- too environmentalist.",
+      "sha256": "ece8ea469e106e62632aa7586eedb128b0f99cd785d6810573142f4372f51a00",
+      "zh": "对共和党候选人来说，这回答不好，太偏向环保了。",
+      "keys": [
+        "2012_Romney_Pawlenty/answer_feedback_json/440@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "This is a good middle ground for you to stake out. I'm confident the American people will appreciate your sensibilities.",
+      "sha256": "9763461447e3b1d302bc45ac0f2dd3b7b392ab744cc72c0a4269531acd03ead4",
+      "zh": "这是个适合你占据的折中立场。我相信，美国人民会欣赏你的判断。",
+      "keys": [
+        "2012_Romney_Pawlenty/answer_feedback_json/441@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Everyone needs to appeal to their base, but saying you'd end the Department of Education makes you look a bit extreme to most people.",
+      "sha256": "7c52acdbbb1e2ec49b957b675660c3a25250ea84fac9c70e4cb495ac8b81ed8f",
+      "zh": "人人都需要争取基本盘，但说要撤销教育部，会让多数人觉得你有点极端。",
+      "keys": [
+        "2012_Romney_Pawlenty/answer_feedback_json/458@42/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

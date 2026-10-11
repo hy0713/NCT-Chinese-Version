@@ -1,0 +1,628 @@
+[
+  {
+    "source": "We have passed the Dodd-Frank Act to analyze systemic risks to the financial system.",
+    "zh": "我们已经通过了《多德弗兰克法案》来分析金融体系的系统性风险。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/241@60/description",
+      "2012_Obama_Clinton/answers_json/241@61/description",
+      "2012_Romney_Ryan/answers_json/241@62/description",
+      "2012_Romney_Portman/answers_json/241@57/description"
+    ]
+  },
+  {
+    "source": "Too big to fail is too big to exist. It's pathetic just how much our representatives have allowed themselves to be bought by financial institutions.",
+    "zh": "太大而不能倒，就是太大而无法存在。可悲的是，我们的代表竟然允许自己被金融机构收买。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/242@61/description",
+      "2012_Obama_Clinton/answers_json/242@62/description",
+      "2012_Romney_Ryan/answers_json/242@63/description",
+      "2012_Romney_Portman/answers_json/242@58/description"
+    ]
+  },
+  {
+    "source": "Climate change is a hoax purveyed by a collection of scientists and liberal politicians to provide them a pretext for further intervention in the economy.",
+    "zh": "气候变化是由一群科学家和自由派政客炮制的骗局，目的是为他们进一步干预经济提供借口。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/246@62/description",
+      "2012_Obama_Clinton/answers_json/246@63/description",
+      "2012_Romney_Ryan/answers_json/246@64/description"
+    ]
+  },
+  {
+    "source": "Even if climate change is real, it's impossible to determine how much of it results from human action. It's just as possible that the earth is warming of its own accord, and it makes no sense to disrupt our economy and potentially cause a depression until we have more information.",
+    "zh": "即使气候变化确实存在，也无法确定其中有多少是人类活动造成的。地球也有可能​​自行变暖，在我们掌握更多信息之前，扰乱我们的经济并可能导致经济萧条是没有意义的。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/247@63/description",
+      "2012_Obama_Clinton/answers_json/247@64/description",
+      "2012_Romney_Ryan/answers_json/247@65/description"
+    ]
+  },
+  {
+    "source": "We should have more laws and regulations to reduce our total carbon emissions. Sensible next steps include some combination of a cap-and-trade program domestically, as well as international agreements with other nations.",
+    "zh": "我们应该有更多的法律法规来减少我们的碳排放总量。明智的后续步骤包括国内限额与交易计划以及与其他国家达成的国际协议的某种结合。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/248@64/description",
+      "2012_Obama_Clinton/answers_json/248@65/description",
+      "2012_Romney_Ryan/answers_json/248@66/description"
+    ]
+  },
+  {
+    "source": "There are plenty of ways we can strengthen this system by reducing the role of government within it. For example, younger Americans should have the option to invest in personal health accounts.",
+    "zh": "我们可以通过多种方式通过减少政府在系统中的作用来加强这一系统。例如，年轻的美国人应该可以选择投资个人健康账户。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/293@65/description",
+      "2012_Obama_Clinton/answers_json/293@66/description",
+      "2012_Romney_Rubio/answers_json/293@67/description"
+    ]
+  },
+  {
+    "source": "Medicare is a good program. We need to find some way of controlling costs and of more effectively managing care, but the overall program is sound.",
+    "zh": "联邦医疗保险是一个很好的程序。我们需要找到某种方法来控制成本和更有效地管理护理，但总体计划是合理的。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/294@66/description",
+      "2012_Obama_Clinton/answers_json/294@67/description",
+      "2012_Romney_Rubio/answers_json/294@68/description"
+    ]
+  },
+  {
+    "source": "We must do whatever it takes to preserve Medicare. This program is one of the most important functions of the federal government.",
+    "zh": "我们必须尽一切努力保护联邦医疗保险。该计划是联邦政府最重要的职能之一。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/296@67/description",
+      "2012_Obama_Clinton/answers_json/296@68/description",
+      "2012_Romney_Rubio/answers_json/296@69/description"
+    ]
+  },
+  {
+    "source": "We plan to attack Romney's record relentlessly. He oversaw numerous outsourcings and corporate downsizings in his time as CEO, and his company represents the dark side of American business.",
+    "zh": "我们计划不懈地攻击罗姆尼的记录。在担任首席执行官期间，他监督了大量的外包和企业裁员，他的公司代表了美国商业的阴暗面。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/297@68/description"
+    ]
+  },
+  {
+    "source": "Obviously he was quite successful. I'm not convinced that all of that success came in a way that the American people would approve of, but that's up to the voters to decide.",
+    "zh": "显然他相当成功。我不相信所有这些成功都是以美国人民认可的方式实现的，但这取决于选民的决定。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/298@69/description"
+    ]
+  },
+  {
+    "source": "I think this just serves to reinforce how detached and out of touch Romney is from the average working American. This is a man who spends more money maintaining a horse than most people earn in an entire year.",
+    "zh": "我认为这只会强化罗姆尼与普通美国人的疏离和脱节。这个人养马的钱比大多数人一整年的收入还要多。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/299@70/description"
+    ]
+  },
+  {
+    "source": "Mitt and I certainly have our differences, but his story of success at Bain Capital is an admirable example of American enterprise in action.",
+    "zh": "米特和我当然有分歧，但他在贝恩资本的成功故事是美国企业行动的一个令人钦佩的例子。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/300@71/description"
+    ]
+  },
+  {
+    "source": "I'm no fan of Scott Walker, but I thought the recall effort was taking things a step too far.",
+    "zh": "我不是 Scott 沃克的粉丝，但我认为召回工作走得太远了。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/304@72/description"
+    ]
+  },
+  {
+    "source": "I will talk at great length about how we've drifted from the tradition of liberalism that was built by the likes of Roosevelt, Johnson, and Humphrey. I will reaffirm my commitment to this vision in my second term.",
+    "zh": "我将详细讨论我们如何偏离由罗斯福、约翰逊和汉弗莱等人建立的自由主义传统。我将在第二个任期内重申对这一愿景的承诺。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/330@73/description",
+      "2012_Obama_Clinton/answers_json/330@75/description"
+    ]
+  },
+  {
+    "source": "I will talk about the myriad methods that the Republicans use to divide our country. I will remind everyone that Democrats are truly the party of the common person -- regardless of background or income level.",
+    "zh": "我将谈论共和党人用来分裂我们国家的无数方法。我要提醒大家，民主党是真正属于普通人的政党——无论背景或收入水平如何。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/331@74/description",
+      "2012_Obama_Clinton/answers_json/331@76/description"
+    ]
+  },
+  {
+    "source": "I will give an honest speech about the challenges I was facing in 2009, what I did to address them, what I tried to do that was blocked by Republican obstructionism, and what jobs policies I will continue to push for in my second term.",
+    "zh": "我将诚实地演讲，讲述我在 2009 年面临的挑战、我为解决这些挑战所做的努力、我试图做但遭到共和党阻挠的事情，以及我在第二个任期内将继续推动的就业政策。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/333@75/description",
+      "2012_Obama_Clinton/answers_json/333@77/description"
+    ]
+  },
+  {
+    "source": "It's important for people to remember the truth about our opponents. I will emphasize how their plans will kill Medicare as we know it, do nothing to combat the sluggish economy, and will only make the rich richer.",
+    "zh": "人们记住对手的真相很重要。我将强调他们的计划将如何扼杀我们所知的联邦医疗保险，对对抗经济低迷毫无帮助，只会让富人更富。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/332@76/description",
+      "2012_Obama_Clinton/answers_json/332@78/description"
+    ]
+  },
+  {
+    "source": "What can you say? We've all been out here for weeks with very little sleep. No one knows more about foreign policy than Joe Biden, so I'm sure it was just a slip of the tongue.",
+    "zh": "你能说什么？我们已经在这里呆了好几个星期了，睡眠很少。没有人比乔·拜登更了解外交政策，所以我确信这只是口误。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/349@77/description"
+    ]
+  },
+  {
+    "source": "It's certainly alarming to hear statements like these from someone as high-up as Joe Biden. Hopefully he can explain himself a little more clearly in the next few days.",
+    "zh": "从乔·拜登这样的高层那里听到这样的言论确实令人震惊。希望他能在接下来的几天里更清楚地解释自己。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/350@78/description"
+    ]
+  },
+  {
+    "source": "American Exceptionalism -- Providence has given America to the world as an inspiration, and we must vigorously defend the ideals of peace and freedom wherever they may be threatened.",
+    "zh": "美​​国例外论 - 上帝赋予美国对世界的灵感，我们必须大力捍卫和平与自由的理想，无论它们在哪里受到威胁。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/395@79/description",
+      "2012_Obama_Clinton/answers_json/395@84/description",
+      "2012_Romney_Ryan/answers_json/395@82/description",
+      "2012_Romney_Portman/answers_json/395@78/description",
+      "2012_Romney_Rubio/answers_json/395@83/description",
+      "2012_Romney_Pawlenty/answers_json/395@79/description"
+    ]
+  },
+  {
+    "source": "Human Rights -- It's past time that we cut allegiances with dictators like the House of Saud and truly lived up to our ideals. I will only support or give aid to democratically elected leaders.",
+    "zh": "人权——我们已经不再与沙特王室这样的独裁者结盟，真正实现我们的理想了。我只会支持或援助民选领导人。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/396@80/description",
+      "2012_Obama_Clinton/answers_json/396@85/description",
+      "2012_Romney_Ryan/answers_json/396@83/description",
+      "2012_Romney_Portman/answers_json/396@79/description",
+      "2012_Romney_Rubio/answers_json/396@84/description",
+      "2012_Romney_Pawlenty/answers_json/396@80/description"
+    ]
+  },
+  {
+    "source": "Pragmatism -- Our foreign policy right now is effective. We need to guide foreign nations towards democracy and open markets. Doing so will increase the world's prosperity and decrease the chance of future wars.",
+    "zh": "实用主义 -- 我们目前的外交政策是有效的。我们需要引导外国走向民主和开放市场。这样做将促进世界繁荣并减少未来战争的可能性。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/397@81/description",
+      "2012_Obama_Clinton/answers_json/397@86/description",
+      "2012_Romney_Ryan/answers_json/397@84/description",
+      "2012_Romney_Portman/answers_json/397@80/description",
+      "2012_Romney_Rubio/answers_json/397@85/description",
+      "2012_Romney_Pawlenty/answers_json/397@81/description"
+    ]
+  },
+  {
+    "source": "Non-Intervention -- Most of our foreign troop deployments are relics of the Cold War. We need to stop occupying other nations and focus on fixing our problems here at home.",
+    "zh": "不干预——我们的大多数外国军队部署都是冷战的遗迹。我们需要停止占领其他国家，并专注于解决我们国内的问题。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/398@82/description",
+      "2012_Obama_Clinton/answers_json/398@87/description",
+      "2012_Romney_Ryan/answers_json/398@85/description",
+      "2012_Romney_Portman/answers_json/398@81/description",
+      "2012_Romney_Rubio/answers_json/398@86/description",
+      "2012_Romney_Pawlenty/answers_json/398@82/description"
+    ]
+  },
+  {
+    "source": "We will attack Mitt Romney relentlessly. He has flip-flopped on key issues and he destroyed thousands of jobs at Bain Capital. He is out of touch with the American people, and he's attacking us for a health care plan that is nearly identical to his own plan in Massachusetts.",
+    "zh": "我们将不懈地攻击米特·罗姆尼。他在关键问题上反复无常，毁掉了贝恩资本的数千个工作岗位。他与美国人民脱节，他攻击我们的医疗保健计划与他自己在马萨诸塞州中的计划几乎相同。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/726@83/description",
+      "2012_Obama_Clinton/answers_json/726@88/description"
+    ]
+  },
+  {
+    "source": "Behind the scenes my surrogates have plenty of dirt to spread about Romney and the Republicans. As President, I will stick to a message of optimism and hope in my own campaign speeches.",
+    "zh": "在幕后，我的代理人有很多关于罗姆尼和共和党的丑闻。作为总统，我将在自己的竞选演讲中坚持乐观和希望的信息。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/727@84/description",
+      "2012_Obama_Clinton/answers_json/727@89/description"
+    ]
+  },
+  {
+    "source": "I will promise a fresh start in overcoming the gridlock in Washington. In my second term I will reach out to moderates and sensible Republicans to find common, pragmatic solutions to our most pressing issues.",
+    "zh": "我会承诺以新的方式打破华盛顿的政治僵局。在第二个任期，我将与温和派及理性的共和党人合作，为最紧迫的问题寻找共同而务实的解决办法。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/728@85/description",
+      "2012_Obama_Clinton/answers_json/728@90/description"
+    ]
+  },
+  {
+    "source": "I will pledge a new commitment to liberalism and economic revival. Our social programs and unions need to be protected. In those areas where Republicans continue to stand in the way of progress, we will look for other ways to get things done.",
+    "zh": "我将承诺对自由主义和经济复兴做出新的承诺。我们的社会计划和工会需要受到保护。在共和党继续阻碍进步的领域，我们将寻找其他方法来完成任务。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/729@86/description",
+      "2012_Obama_Clinton/answers_json/729@91/description"
+    ]
+  },
+  {
+    "source": "Of course I am opposed to the policies of Scott Walker. The only reason I wasn't in Wisconsin on the day of his recall election was that I needed to campaign in more competitive states to maximize our chances of winning this fall.",
+    "zh": "我当然反对斯科特的政策沃克。在他罢免选举当天我没有加入威斯康星州的唯一原因是我需要在竞争更激烈的州进行竞选活动，以最大限度地提高我们今年秋天获胜的机会。",
+    "keys": [
+      "2012_Obama_Biden/answers_json/305@87/description"
+    ]
+  },
+  {
+    "source": "Barack Obama's signature achievement from his first term was a landmark health care reform act. The law will establish insurance exchanges which must meet minimum coverage standards, and also cannot deny people based on pre-existing conditions. To help support these policies, every American will be mandated to purchase health insurance.",
+    "zh": "奥巴马首个任期的标志性成就，是一部具有里程碑意义的医疗改革法案。该法将设立医疗保险交易平台，要求保险符合最低保障标准，且不得因投保人既有疾病而拒保。为支撑这些政策，每位美国人都将被要求购买医疗保险。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/description",
+      "2012_Obama_Clinton/issues_json/2@0/description",
+      "2012_Romney_Ryan/issues_json/2@0/description",
+      "2012_Romney_Portman/issues_json/2@0/description",
+      "2012_Romney_Rubio/issues_json/2@0/description",
+      "2012_Romney_Pawlenty/issues_json/2@0/description"
+    ]
+  },
+  {
+    "source": "Believes that government regulations have put an unaffordable burden on doctors and insurance companies. Supports drastic cuts to Medicare and Medicaid. May support an end to the FDA and other regulatory agencies to restore competitiveness to the American health care system.",
+    "zh": "认为政府监管给医生和保险公司带来了难以承受的负担。支持大幅削减联邦医疗保险和医疗补助。可能支持撤销食品药品监督管理局等监管机构，以恢复美国医疗体系的竞争力。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_1",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_1",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_1",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_1",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_1",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_1"
+    ]
+  },
+  {
+    "source": "Supports a greater role for the free market in the halth care sector. Opposed to Obamacare. Probably would not support an end to the FDA or other, more radical measures.",
+    "zh": "支持自由市场在医疗领域发挥更大作用。反对奥巴马医改。很可能不支持撤销食品药品监督管理局等更激进的措施。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_2",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_2",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_2",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_2",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_2",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_2"
+    ]
+  },
+  {
+    "source": "Probably opposed to Obamacare. Would probably support malpractice reform and other incremental measures to cut overall health care costs, without challenging the larger regulatory system.",
+    "zh": "很可能反对奥巴马医改。可能支持改革医疗过失责任制度，并采取其他渐进措施降低医疗总成本，但不挑战现有监管体系的总体框架。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_3",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_3",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_3",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_3",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_3",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_3"
+    ]
+  },
+  {
+    "source": "Supports some effort to collectively insure the poor and the chronically ill. May disagree with certain aspects of Obamacare or may not support a mandate, but agrees that the current system needs more intervention.",
+    "zh": "支持通过某种集体保障机制，为穷人和慢性病患者提供医疗保险。可能不赞成奥巴马医改的部分内容，或不支持强制投保，但认同现有体系需要更多干预。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_4",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_4",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_4",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_4",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_4",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_4"
+    ]
+  },
+  {
+    "source": "Supports Obamacare more or less as is. Rejects calls for a public option but supports an insurance mandate and also strongly supports the existing Medicare system.",
+    "zh": "基本支持现行奥巴马医改。拒绝设立公共保险选项的呼吁，但支持强制投保，也坚定支持现有联邦医疗保险制度。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_5",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_5",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_5",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_5",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_5",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_5"
+    ]
+  },
+  {
+    "source": "Supports Obamacare but also would support a public insurance agency to ensure minimum coverage standards are met at an affordable cost. Believes that malpractice suits are conducive to good care by providing oversight of the medical system.",
+    "zh": "支持奥巴马医改，也支持设立公共保险机构，以可负担的成本确保最低医疗保障。认为医疗过失诉讼能监督医疗体系，因此有助于改善医疗质量。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_6",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_6",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_6",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_6",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_6",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_6"
+    ]
+  },
+  {
+    "source": "Admires the attempt of Obamacare to reform the system, but sees the change as too incremental. Favors a socialized medical system on the model of most European countries.",
+    "zh": "赞赏奥巴马医改改革医疗体系的努力，但认为改革步幅太小。支持以欧洲多数国家为参照，实行社会化医疗制度。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/2@0/stance_desc_7",
+      "2012_Obama_Clinton/issues_json/2@0/stance_desc_7",
+      "2012_Romney_Ryan/issues_json/2@0/stance_desc_7",
+      "2012_Romney_Portman/issues_json/2@0/stance_desc_7",
+      "2012_Romney_Rubio/issues_json/2@0/stance_desc_7",
+      "2012_Romney_Pawlenty/issues_json/2@0/stance_desc_7"
+    ]
+  },
+  {
+    "source": "With the death of Osama Bin Laden in 2011 at the hands of the Navy SEALs, a dark chapter from America's history appears to be closed. No significant terrorist attacks have occurred during the Obama Administration, and the war in Iraq appears to have been successfully ended. However, potential trouble looms with Iran's nuclear program.",
+    "zh": "2011年，海豹突击队击毙了奥萨马·本·拉登，美国历史中一个黑暗的篇章似乎终于结束。奥巴马政府任内没有发生重大恐怖袭击，伊拉克战争也似乎已顺利结束。不过，伊朗核计划可能带来新的麻烦。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/description",
+      "2012_Obama_Clinton/issues_json/3@1/description",
+      "2012_Romney_Ryan/issues_json/3@1/description",
+      "2012_Romney_Portman/issues_json/3@1/description",
+      "2012_Romney_Rubio/issues_json/3@1/description",
+      "2012_Romney_Pawlenty/issues_json/3@1/description"
+    ]
+  },
+  {
+    "source": "Would support an invasion of Iran and advocates for air strikes against their nuclear program. Believes in American Exceptionalism and unilateral action without restraints. Opposes membership in the United Nations. Supports increased military spending and American force projection.",
+    "zh": "支持入侵伊朗，并主张空袭其核设施。信奉美国例外论，支持不受约束的单边行动。反对加入联合国。支持增加军费，扩大美国的军事力量投射。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_1",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_1",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_1",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_1",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_1",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_1"
+    ]
+  },
+  {
+    "source": "Supports firm action against Iran and would consider an invasion if necessary. Also supports a strong military. Pays some respect to international alliances and institutions, and does not support radical measures like withdrawing from the U.N.",
+    "zh": "支持对伊朗采取强硬行动，必要时会考虑入侵。也支持维持强大的军队。对国际联盟与机构有一定尊重，不支持退出联合国等激进措施。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_2",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_2",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_2",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_2",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_2",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_2"
+    ]
+  },
+  {
+    "source": "Would support any measure to prevent Iran from obtaining a nuclear weapons, but would need to see some evidence that other measures have failed before supporting an invasion. Willing to cooperate with allies and to work within the U.N. where necessary.",
+    "zh": "支持采取一切措施阻止伊朗获得核武器，但在支持入侵前，需要看到其他措施已经失败的证据。愿意与盟友合作，并在必要时通过联合国行动。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_3",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_3",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_3",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_3",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_3",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_3"
+    ]
+  },
+  {
+    "source": "Favors a mix of diplomatic pressure and sanctions against Iran, would be opposed to bombing until the effects of those policies can be evaluated. Supports other efforts like drone strikes which project force at minimum risk to American troops.",
+    "zh": "赞成结合外交施压与制裁来应对伊朗，在这些政策的效果得到评估前，反对轰炸。支持无人机打击等行动，以尽量降低美军风险的方式展示武力。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_4",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_4",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_4",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_4",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_4",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_4"
+    ]
+  },
+  {
+    "source": "Willing to consider air strikes against Iran if other measures fail. Wants Russia, China, and other powers in the region to put more pressure on the ruling regime as well. Seeks to work within regional power structures when projecting American influence.",
+    "zh": "如果其他措施失败，愿意考虑空袭伊朗。也希望俄罗斯、中国及地区内其他大国加强对伊朗政权的压力。在扩大美国影响力时，寻求在既有地区力量格局中开展行动。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_5",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_5",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_5",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_5",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_5",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_5"
+    ]
+  },
+  {
+    "source": "Skeptical of action against Iran. Also critical of other measures such as drone strikes which can potentially kill innocent civilians. Thinks terrorism is in large part a reaction against American overreach.",
+    "zh": "对针对伊朗采取行动持怀疑态度。也批评无人机打击等可能造成无辜平民死亡的措施。认为恐怖主义很大程度上是对美国过度干预的反应。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_6",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_6",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_6",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_6",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_6",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_6"
+    ]
+  },
+  {
+    "source": "Opposed to nearly all foreign interventions. Does not support intervention in Iran. Argues that American intervention in previous decades caused the situation in Iran in the first place. Generally a vocal critic of Israel.",
+    "zh": "几乎反对一切对外干预。不支持干预伊朗，认为伊朗当前的局面正是美国过去数十年干预所造成的。通常公开批评以色列。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/3@1/stance_desc_7",
+      "2012_Obama_Clinton/issues_json/3@1/stance_desc_7",
+      "2012_Romney_Ryan/issues_json/3@1/stance_desc_7",
+      "2012_Romney_Portman/issues_json/3@1/stance_desc_7",
+      "2012_Romney_Rubio/issues_json/3@1/stance_desc_7",
+      "2012_Romney_Pawlenty/issues_json/3@1/stance_desc_7"
+    ]
+  },
+  {
+    "source": "The United States enters 2012 with a struggling economy. After a severe recession from 2007-2009, unemployment remains over 8%, and many voters are frustrated with the slow pace of job creation. At the same time, the annual deficit has exploded since Obama took office, with some advocating for immediate cuts in government spending.",
+    "zh": "进入2012年，美国经济仍然疲弱。经历2007至2009年的严重衰退后，失业率仍超过8%，许多选民对就业增长缓慢感到失望。同时，奥巴马上任以来，年度赤字急剧扩大，有人因此主张立即削减政府支出。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/description",
+      "2012_Obama_Clinton/issues_json/1@2/description",
+      "2012_Romney_Ryan/issues_json/1@2/description",
+      "2012_Romney_Portman/issues_json/1@2/description",
+      "2012_Romney_Rubio/issues_json/1@2/description",
+      "2012_Romney_Pawlenty/issues_json/1@2/description"
+    ]
+  },
+  {
+    "source": "Supports growing the economy through large tax cuts, a sweeping reduction in the public sector, and overhaul of Social Security & Medicare, and possibly by reducing the power of the Federal Reserve to inflate the currency.",
+    "zh": "支持通过大幅减税、全面缩减公共部门、彻底改革社会保障与联邦医疗保险来促进经济增长，也可能主张限制美联储扩张货币供给的权力。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_1",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_1",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_1",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_1",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_1",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_1"
+    ]
+  },
+  {
+    "source": "Generally supports tax cuts and a reduction in government, including entitlement reform. May favor incremental change over sweeping reductions.",
+    "zh": "总体支持减税与缩小政府，包括改革法定福利项目。可能更倾向于渐进调整，而不是大刀阔斧地削减。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_2",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_2",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_2",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_2",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_2",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_2"
+    ]
+  },
+  {
+    "source": "Supports smaller government in principle. May be willing to compromise and to consider temporary stimulus programs, in exchange for other concessions.",
+    "zh": "原则上支持小政府。可能愿意妥协，考虑临时经济刺激项目，以换取其他方面的让步。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_3",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_3",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_3",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_3",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_3",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_3"
+    ]
+  },
+  {
+    "source": "Favors temporary stimulus measures combined with long-term budget cuts. Generally comfortable with the free market and mainstream economics.",
+    "zh": "支持将临时经济刺激措施与长期削减预算相结合。总体认同自由市场和主流经济学。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_4",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_4",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_4",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_4",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_4",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_4"
+    ]
+  },
+  {
+    "source": "Favors stimulus measures and not opposed to government programs in principle. Uncomfortable with rapid increases in spending or with entirely new programs and departments.",
+    "zh": "支持经济刺激措施，原则上不反对政府项目。对支出迅速增长，以及设立全新项目或部门持保留态度。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_5",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_5",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_5",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_5",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_5",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_5"
+    ]
+  },
+  {
+    "source": "Favors both short-term stimulus and long-term growth in the scope of government. Supports a wide range of regulation to mitigate the excesses of the free market.",
+    "zh": "既支持短期经济刺激，也支持长期扩大政府职能。支持广泛的监管，以抑制自由市场的过度行为。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_6",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_6",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_6",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_6",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_6",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_6"
+    ]
+  },
+  {
+    "source": "Questions the underlying assumptions of capitalism. Supports massive increases in government programs, and would support government ownership of key industries, where appropriate.",
+    "zh": "质疑资本主义赖以成立的基本前提。支持大幅扩展政府的公共项目，并在适当的情况下支持关键行业实行国有化。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/1@2/stance_desc_7",
+      "2012_Obama_Clinton/issues_json/1@2/stance_desc_7",
+      "2012_Romney_Ryan/issues_json/1@2/stance_desc_7",
+      "2012_Romney_Portman/issues_json/1@2/stance_desc_7",
+      "2012_Romney_Rubio/issues_json/1@2/stance_desc_7",
+      "2012_Romney_Pawlenty/issues_json/1@2/stance_desc_7"
+    ]
+  },
+  {
+    "source": "Even as the pace of immigration has declined in recent years, there is fierce disagreement on how to handle the issue of illegal immigrants within the country, and also on how many legal immigrants to allow. Some on the right demand mass deportations, while employers who benefit from cheap labor are more circumspect. At the same time, many liberals and Hispanics urge for some form of recognition and a path to citizenship for illegals.",
+    "zh": "尽管近年来移民流入放缓，人们对如何处理境内非法移民，以及接纳多少合法移民，仍存在激烈分歧。一些右翼人士要求大规模遣返，而受益于廉价劳动力的雇主则较为谨慎。同时，许多自由派人士和拉美裔民众呼吁，以某种形式承认非法移民的地位，并为其提供取得公民身份的途径。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/description",
+      "2012_Obama_Clinton/issues_json/5@3/description",
+      "2012_Romney_Ryan/issues_json/5@3/description",
+      "2012_Romney_Portman/issues_json/5@3/description",
+      "2012_Romney_Rubio/issues_json/5@3/description",
+      "2012_Romney_Pawlenty/issues_json/5@3/description"
+    ]
+  },
+  {
+    "source": "Supports the immediate deportation of all illegal immigrants living in the United States. Supports the construction of a border wall. Takes a hard line on legal immigration and visa approvals. Sees Hispanics and other immigrants as a threat to American culture and as a strain on social programs.",
+    "zh": "支持立即遣返居住在美国的所有非法移民。支持修建边境墙。对合法移民及签证审批采取强硬立场。认为拉美裔与其他移民威胁美国文化，并给社会项目造成负担。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_1",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_1",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_1",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_1",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_1",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_1"
+    ]
+  },
+  {
+    "source": "Supports deportation of illegal immigrants living in the United States, with no exceptions based on time spent in the country. Supports construction of a wall and increased border security. May favor incremental measures to avoid the disruption would follow from deporting up to 20 million people in a short period of time.",
+    "zh": "支持遣返居住在美国的非法移民，不因居留时间长短给予例外。支持修建边境墙，加强边境安保。可能支持渐进推行，以避免短期内遣返多达2000万人所造成的动荡。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_2",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_2",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_2",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_2",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_2",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_2"
+    ]
+  },
+  {
+    "source": "Supports deportation of illegal immigrants, but may be willing to offer select, long-term residents a path to citizenship. May or may not advocate for a reduction in legal immigration. Supports increased border security as the best way to solve the issue in the long-term.",
+    "zh": "支持遣返非法移民，但可能愿意为部分长期居留者提供取得公民身份的途径。可能主张减少合法移民，也可能不主张。认为加强边境安保是长期解决问题的最佳办法。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_3",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_3",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_3",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_3",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_3",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_3"
+    ]
+  },
+  {
+    "source": "Supports deportation of newly arrived illegal immigrants, a path to citizenship for some long-term residents, and increased border security. Generally sees legal, skilled immigrants as an economic asset.",
+    "zh": "支持遣返新近入境的非法移民，为部分长期居留者提供取得公民身份的途径，并加强边境安保。总体认为具有专业技能的合法移民有益于经济。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_4",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_4",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_4",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_4",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_4",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_4"
+    ]
+  },
+  {
+    "source": "Favors some kind of citizenship program for long-term and young illegal immigrants. Friendly with the Hispanic community and not fundamentally opposed to immigration, but may be opposed to policies such as bilingual education. Supports increases in legal immigration and in visa programs.",
+    "zh": "支持为长期居留和年幼的非法移民提供某种取得公民身份的方案。与拉美裔群体关系友好，原则上不反对移民，但可能反对双语教育等政策。支持增加合法移民，扩大签证项目。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_5",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_5",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_5",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_5",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_5",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_5"
+    ]
+  },
+  {
+    "source": "Supports a path to citizenship for most illegal immigrants. Would relax immigration restrictions from all sources. Sees current border security as adequate, and does not believe it is the main issue in the current immigration debate.",
+    "zh": "支持让大多数非法移民获得取得公民身份的途径。愿意放宽各种来源的移民限制。认为现有边境安保已经足够，并不认为它是当前移民争论的核心。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_6",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_6",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_6",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_6",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_6",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_6"
+    ]
+  },
+  {
+    "source": "Supports huge increases in legal immigration. Would not attempt to deport individuals currently living in the United States. Supports the basic premises of multiculturalism and programs like bilingual education.",
+    "zh": "支持大幅增加合法移民。不打算遣返目前居住在美国的移民。认同多元文化主义的基本主张，并支持双语教育等项目。",
+    "keys": [
+      "2012_Obama_Biden/issues_json/5@3/stance_desc_7",
+      "2012_Obama_Clinton/issues_json/5@3/stance_desc_7",
+      "2012_Romney_Ryan/issues_json/5@3/stance_desc_7",
+      "2012_Romney_Portman/issues_json/5@3/stance_desc_7",
+      "2012_Romney_Rubio/issues_json/5@3/stance_desc_7",
+      "2012_Romney_Pawlenty/issues_json/5@3/stance_desc_7"
+    ]
+  }
+]

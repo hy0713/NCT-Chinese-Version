@@ -1,0 +1,82 @@
+[
+  {
+    "source": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/T2VVI5A5VUI6JACWQGLYDV5I6U.jpg",
+    "path": "/static/vendor/story-assets/7bc0404f65dcd9.jpg",
+    "status": "omitted-from-public-distribution",
+    "sha256": "541cb270cb20766f9a9464b2be981dbf1caa295724b483066c87f556434e74bf",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://cdn.discordapp.com/attachments/810034515334004766/935798306427260958/e41a125c-4db8-473f-8197-9a440874a33d.png",
+    "path": "/static/images/black.jpg",
+    "status": "unavailable-local-fallback",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://cdn.discordapp.com/attachments/810034515334004766/942285403992494140/nix.mp3",
+    "path": "/static/vendor/soundtracks/unavailable.wav",
+    "status": "unavailable-local-fallback",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://cdn.discordapp.com/attachments/901463960488919080/942200807779086426/unknown.png",
+    "path": "/static/images/black.jpg",
+    "status": "unavailable-local-fallback",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://cdn.discordapp.com/attachments/934939811347836958/935006915711369296/IMG_3323.jpg",
+    "path": "/static/images/black.jpg",
+    "status": "unavailable-local-fallback",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://cdn.discordapp.com/attachments/934939811347836958/942282384945057822/nixonhell.gif",
+    "path": "/static/images/richard-nixon-1968.jpg",
+    "status": "unavailable-local-fallback",
+    "reason": "HTTP Error 404: Not Found"
+  },
+  {
+    "source": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/VA6SJW4tgijzcn7ja/flight-in-deep-space_hg5q9th-l_thumbnail-1080_01.png",
+    "path": "/static/vendor/story-assets/1941dc2ce2ca50.png",
+    "status": "omitted-from-public-distribution",
+    "sha256": "2199f5f4613c828a5070ef2de7e2de20d479e449f69a25a5f312899dd5da756f",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://i.imgur.com/KVeVC8p.png",
+    "path": "/static/vendor/story-assets/5e213fe8f76fed.png",
+    "status": "omitted-from-public-distribution",
+    "sha256": "154e94a093ee6f6199c6de6015f56f8a28af9f64a08da7f0e68c091f563e9d58",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://i.imgur.com/lmtBoXt.png",
+    "path": "/static/vendor/story-assets/71385e2804c99e.png",
+    "status": "omitted-from-public-distribution",
+    "sha256": "2ef136d1fe5beb0fdfd0888b31c1ab558304791284be89cd8836442cbcdddd46",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://i.imgur.com/ulRsZjE.gif",
+    "path": "/static/vendor/story-assets/53f954a12ff8b9.gif",
+    "status": "omitted-from-public-distribution",
+    "sha256": "bd23c1270e4f3e4902ad26c87b8955a3370a15f9b026801324e0c865448208fd",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://ia601408.us.archive.org/28/items/ytmp3free.cc_al-gore-celebrating-youtubemp3free.org/ytmp3free.cc_al-gore-celebrating-youtubemp3free.org.mp3",
+    "path": "/static/vendor/story-assets/c5648f4348351e.mp3",
+    "status": "omitted-from-public-distribution",
+    "sha256": "41bf7aa2e442ef3d6fd4d6365d77622b514c23650cb15835f9cc47b6d505ebea",
+    "reason": "Redistribution permission not confirmed; see localization/public-media-fallbacks.json"
+  },
+  {
+    "source": "https://onedrive.live.com/download?cid=B4810B629FA38CE2&resid=B4810B629FA38CE2%2149274&authkey=AD54VgC-hON5rsg",
+    "path": "/static/vendor/story-assets/unavailable.mp4",
+    "status": "unavailable-local-fallback",
+    "reason": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "fallback": "Generated 3-second black video; original onended callback retained",
+    "fallbackSha256": "1f182d2cba8fdccd9a3cd1a2f068fa3986757d2c9b9e9dd9e723cdada2776b1f"
+  }
+]

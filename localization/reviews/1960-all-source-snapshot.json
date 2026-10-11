@@ -1,0 +1,3153 @@
+[
+  {
+    "source": "<p>After eight years of Dwight Eisenhower, two youthful candidates compete to be his successor. Kennedy is a Senator with a moderate record, a telegenic face, and high-minded rhetoric. Nixon is the sitting Vice President with a strong Cold War record, moderate economic views, and potential likeability problems. Nixon begins the campaign as the slight favorite, but every region of the country could be competitive. Key issues are the Cold War, civil rights, and health care.</p>",
+    "zh": "<p>艾森豪威尔执政八年后，两位年轻候选人竞相接班。肯尼迪是一位施政记录温和的参议员，外形适合电视镜头，演说富有理想色彩。尼克松是现任副总统，在冷战事务中表现强硬，经济立场温和，但个人亲和力可能成为问题。竞选开始时，尼克松略被看好，不过全国各地区都可能出现激烈争夺。主要议题是冷战、民权和医疗保障。</p>",
+    "keys": [
+      "base/election_json/11@9/summary"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1960 Presidential Election.</h3><p>Hopefully you can move the United States in a more modern direction after eight quiet years of Eisenhower, while holding the line against the Soviet Union. At your young age, you have the potential to define the entire decade as President, and perhaps to hand the torch to one of your brothers in the future.</p>",
+    "zh": "<h3>恭喜！您赢得了 1960 年总统选举。</h3><p>希望您能够在艾森豪威尔的八年平静之后带领美国走向更现代化的方向，同时坚守反对苏联的路线。在你年轻的时候，你有潜力定义作为总统的整个十年，也许将来会将火炬交给你的一位兄弟。</p>",
+    "keys": [
+      "base/candidate_json/105@87/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1960 Presidential Election.</h3><p>It was always going to be tough to defeat the Vice President to someone as popular as Eisenhower. However, you still have your seat in the Senate. At your young age, there is no reason you couldn't be a strong contender for President in 1964 or 1968, especially if this election was close. Let's just hope the Democrats don't blame your defeat on your religion.</p>",
+    "zh": "<h3>抱歉，您在 1960 年总统选举中失败了。</h3><p>要击败像艾森豪威尔这样受欢迎的人的副总统总是很困难。然而，你仍然在参议院拥有席位。在你年轻的时候，你没有理由不能成为 1964 年或 1968 年总统的有力竞争者，特别是如果这次选举势均力敌的话。我们只希望民主党不要将你的失败归咎于你的宗教信仰。</p>",
+    "keys": [
+      "base/candidate_json/105@87/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>No candidate has won a majority in the Electoral College.</h3><p>The Democrats have an advantage in the House of Representatives, so you are probably in good shape. However, a lot depends on how you deal with Harry Byrd. It's possible that some kind of deal will need to be struck with Byrd or Nixon to get a clean majority in the House.</p>",
+    "zh": "<h3>没有候选人在选举人团中赢得多数席位。</h3><p>民主党在众议院有优势，所以你的状况可能不错。然而，很大程度上取决于你如何处理哈里·伯德。可能需要与伯德或尼克松达成某种协议才能在众议院获得绝对多数。</p>",
+    "keys": [
+      "base/candidate_json/105@87/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1960 Presidential Election.</h3><p>With luck, you will be able to duplicate the eight years of peace and prosperity under Eisenhower. Unfortunately, the Democrats maintain their majority in both houses of Congress. With luck, they will be good partners in a bipartisan governing coalition. Your first order of business is to mend fences with Lyndon Johnson, who is returning to his role as Senate Majority Leader.</p>",
+    "zh": "<h3>恭喜！您赢得了 1960 年总统选举。</h3><p>运气好的话，你将能够复制艾森豪威尔下的八年和平与繁荣。不幸的是，民主党在国会两院仍保持多数席位。幸运的话，他们将成为两党执政联盟中的好伙伴。你的首要任务是与林登·约翰逊修复关系，他将重返参议院多数党领袖的角色。</p>",
+    "keys": [
+      "base/candidate_json/106@88/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost the 1960 Presidential Election.</h3><p>A lot of people think this election was yours to lose, and party operatives are already whispering that Nelson Rockefeller will be the frontrunner in 1964. As such, it appears that your chances of becoming President are over. Perhaps you can return to California and run for Governor, or for the Senate again.</p>",
+    "zh": "<h3>抱歉，您在 1960 年总统选举中失败了。</h3><p>很多人认为这次选举是你输掉的，政党工作人员已经在窃窃私语说纳尔逊·洛克菲勒将成为 1964 年的领跑者。因此，看来你成为总统的机会已经结束了。也许您可以返回加利福尼亚州并竞选州长，或者再次竞选参议院。</p>",
+    "keys": [
+      "base/candidate_json/106@88/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>No candidate has won a majority in the Electoral College.</h3><p>The Democrats have an advantage in the House of Representatives, so you are probably in bad shape. However, a lot depends on how Kennedy deals with Harry Byrd. It's possible that some kind of deal will need to be struck for any candidate to get a clean majority in the House.</p>",
+    "zh": "<h3>没有候选人在选举人团中赢得多数席位。</h3><p>民主党在众议院有优势，所以你的处境可能很糟糕。然而，很大程度上取决于肯尼迪如何处理哈里·伯德。任何候选人都可能需要达成某种协议才能在众议院获得绝对多数席位。</p>",
+    "keys": [
+      "base/candidate_json/106@88/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "What kind of tone will you attempt to set in your campaign this fall?",
+    "zh": "您将在今年秋天的竞选活动中尝试设定什么样的基调？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/448@0/description",
+      "1960_Kennedy_Symington/questions_json/448@0/description",
+      "1960_Kennedy_Humphrey/questions_json/448@0/description",
+      "1960_Nixon_Lodge/questions_json/459@0/description",
+      "1960_Nixon_Dirksen/questions_json/459@0/description",
+      "1960_Nixon_Rockefeller/questions_json/459@0/description",
+      "1960_Nixon_Goldwater/questions_json/459@0/description"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Lyndon Johnson as your running mate?",
+    "zh": "对于选择林登·约翰逊作为你的竞选搭档，你有什么话要说的？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/449@1/description"
+    ]
+  },
+  {
+    "source": "Do you believe that current levels of defense spending are adequate?",
+    "zh": "您认为当前的国防开支水平是否足够？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/494@2/description",
+      "1960_Kennedy_Symington/questions_json/494@4/description",
+      "1960_Kennedy_Humphrey/questions_json/494@4/description",
+      "1960_Nixon_Lodge/questions_json/494@4/description",
+      "1960_Nixon_Dirksen/questions_json/494@4/description",
+      "1960_Nixon_Rockefeller/questions_json/494@4/description",
+      "1960_Nixon_Goldwater/questions_json/494@3/description"
+    ]
+  },
+  {
+    "source": "There was a recent effort in Congress to pass a program to provide medical care to elderly Americans, but it was narrowly defeated. Will you make a further push for this type of program as President?",
+    "zh": "国会最近试图通过一项为美国老年人提供医疗服务的计划，但以微弱优势落败。作为总统，您会进一步推动此类计划吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/476@3/description",
+      "1960_Kennedy_Symington/questions_json/476@3/description",
+      "1960_Kennedy_Humphrey/questions_json/476@3/description",
+      "1960_Nixon_Lodge/questions_json/476@3/description",
+      "1960_Nixon_Dirksen/questions_json/476@3/description",
+      "1960_Nixon_Rockefeller/questions_json/476@3/description",
+      "1960_Nixon_Goldwater/questions_json/476@4/description"
+    ]
+  },
+  {
+    "source": "Are you satisfied with the economy and the economic policies of this country over the past eight years?",
+    "zh": "您对这个国家过去八年的经济和经济政策满意吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/485@4/description",
+      "1960_Kennedy_Symington/questions_json/485@2/description",
+      "1960_Kennedy_Humphrey/questions_json/485@2/description",
+      "1960_Nixon_Lodge/questions_json/485@2/description",
+      "1960_Nixon_Dirksen/questions_json/485@2/description",
+      "1960_Nixon_Rockefeller/questions_json/485@2/description",
+      "1960_Nixon_Goldwater/questions_json/485@2/description"
+    ]
+  },
+  {
+    "source": "Is the United States adequately prepared to defend against the Soviet threat today?",
+    "zh": "美国今天是否已做好充分准备来防御苏联的威胁？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/479@5/description",
+      "1960_Kennedy_Symington/questions_json/479@5/description",
+      "1960_Kennedy_Humphrey/questions_json/479@5/description",
+      "1960_Nixon_Lodge/questions_json/479@5/description",
+      "1960_Nixon_Dirksen/questions_json/479@5/description",
+      "1960_Nixon_Rockefeller/questions_json/479@5/description",
+      "1960_Nixon_Goldwater/questions_json/479@5/description"
+    ]
+  },
+  {
+    "source": "Do you believe the United States is adequately prepared to defend against the Soviet threat over the next ten years?",
+    "zh": "您认为美国是否已做好充分准备在未来十年内抵御苏联的威胁？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/480@6/description",
+      "1960_Kennedy_Symington/questions_json/480@6/description",
+      "1960_Kennedy_Humphrey/questions_json/480@6/description",
+      "1960_Nixon_Lodge/questions_json/480@6/description",
+      "1960_Nixon_Dirksen/questions_json/480@6/description",
+      "1960_Nixon_Rockefeller/questions_json/480@6/description",
+      "1960_Nixon_Goldwater/questions_json/480@6/description"
+    ]
+  },
+  {
+    "source": "Richard Nixon has made \"experience\" the centerpiece of his campaign. What do you have to say on this point?",
+    "zh": "理查德·尼克松将“体验”作为其竞选活动的核心。对于这一点你有什么想说的呢？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/458@7/description",
+      "1960_Kennedy_Symington/questions_json/458@7/description",
+      "1960_Kennedy_Humphrey/questions_json/458@8/description"
+    ]
+  },
+  {
+    "source": "Anti-Catholicism has been a huge issue thus far in the campaign, with hundreds of pamphlets and leaflets being distributed across the South and Midwest. Do you have any comment?",
+    "zh": "迄今为止，反天主教一直是竞选活动中的一个大问题，数百本小册子和传单在南部和中西部分发。您有何评论？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/455@8/description",
+      "1960_Kennedy_Symington/questions_json/455@8/description",
+      "1960_Kennedy_Humphrey/questions_json/455@9/description",
+      "1960_Nixon_Lodge/questions_json/473@10/description",
+      "1960_Nixon_Dirksen/questions_json/473@9/description",
+      "1960_Nixon_Rockefeller/questions_json/473@10/description",
+      "1960_Nixon_Goldwater/questions_json/473@9/description"
+    ]
+  },
+  {
+    "source": "Should the United States apologize to the Soviet Union for the controversy surrounding the downed U-2 spy plane and surrounding espionage?",
+    "zh": "美​​国是否应该就围绕被击落的 U-2 间谍机和周围间谍活动的争议向苏联道歉？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/489@9/description",
+      "1960_Kennedy_Symington/questions_json/489@10/description",
+      "1960_Kennedy_Humphrey/questions_json/489@11/description",
+      "1960_Nixon_Lodge/questions_json/489@13/description",
+      "1960_Nixon_Dirksen/questions_json/489@12/description",
+      "1960_Nixon_Rockefeller/questions_json/489@11/description",
+      "1960_Nixon_Goldwater/questions_json/489@12/description"
+    ]
+  },
+  {
+    "source": "Did Dwight Eisenhower do the right thing when he sent federal troops to Little Rock to ensure the integration of the high school there?",
+    "zh": "德怀特·艾森豪威尔当他向小石城派遣联邦军队以确保那里的高中整合时，他做的正确吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/490@10/description",
+      "1960_Kennedy_Symington/questions_json/490@9/description",
+      "1960_Kennedy_Humphrey/questions_json/490@12/description",
+      "1960_Nixon_Lodge/questions_json/490@11/description",
+      "1960_Nixon_Dirksen/questions_json/490@11/description",
+      "1960_Nixon_Rockefeller/questions_json/490@12/description",
+      "1960_Nixon_Goldwater/questions_json/490@10/description"
+    ]
+  },
+  {
+    "source": "There have been a large number of sit-ins recently, where black students and activists are sitting at whites-only lunch counters and department stores to advocate for desegregation. Do you support this movement?",
+    "zh": "最近发生了大量静坐活动，黑人学生和活动人士坐在白人专用的午餐柜台和百货商店，倡导废除种族隔离。你支持这个运动吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/457@11/description",
+      "1960_Kennedy_Symington/questions_json/457@11/description",
+      "1960_Kennedy_Humphrey/questions_json/457@10/description",
+      "1960_Nixon_Lodge/questions_json/462@12/description",
+      "1960_Nixon_Dirksen/questions_json/467@10/description",
+      "1960_Nixon_Rockefeller/questions_json/465@13/description",
+      "1960_Nixon_Goldwater/questions_json/469@11/description"
+    ]
+  },
+  {
+    "source": "Anti-Catholicism continues to be an issue. Major newspapers have published a statement by 150 Protestant clergy, including Norman Vincent Peale, opposing any Catholic as President. Do you have any comment?",
+    "zh": "反天主教仍然是一个问题。主要报纸发表了包括诺曼·文森特·皮尔在内的 150 名新教神职人员的声明，反对任何天主教徒担任总统。您有何评论？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/456@12/description",
+      "1960_Kennedy_Symington/questions_json/456@12/description",
+      "1960_Kennedy_Humphrey/questions_json/456@13/description",
+      "1960_Nixon_Lodge/questions_json/474@14/description",
+      "1960_Nixon_Dirksen/questions_json/474@13/description",
+      "1960_Nixon_Rockefeller/questions_json/474@14/description",
+      "1960_Nixon_Goldwater/questions_json/474@13/description"
+    ]
+  },
+  {
+    "source": "Has the United States adequately defended against the Communist threat in Indochina? Would you support further action there if necessary?",
+    "zh": "美​​国是否已充分防御印度支那的共产主义威胁？如果有必要，您会支持在那里采取进一步行动吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/492@14/description",
+      "1960_Kennedy_Symington/questions_json/492@16/description",
+      "1960_Nixon_Rockefeller/questions_json/492@17/description",
+      "1960_Nixon_Goldwater/questions_json/492@15/description"
+    ]
+  },
+  {
+    "source": "What is your position on the power of labor unions in the United States?",
+    "zh": "您对美国工会的权力持什么立场？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/493@15/description",
+      "1960_Kennedy_Humphrey/questions_json/493@17/description",
+      "1960_Nixon_Lodge/questions_json/493@16/description",
+      "1960_Nixon_Dirksen/questions_json/493@20/description",
+      "1960_Nixon_Goldwater/questions_json/493@17/description"
+    ]
+  },
+  {
+    "source": "Do you believe that the islands of Quemoy and Matsu should fall within the United States defense perimeter in Asia?",
+    "zh": "您认为金门岛和马祖岛应该属于美国在亚洲的防御范围内吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/477@16/description",
+      "1960_Kennedy_Symington/questions_json/477@17/description",
+      "1960_Nixon_Lodge/questions_json/477@19/description",
+      "1960_Nixon_Dirksen/questions_json/477@21/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on the current level of education funding in the United States? Would you increase federal education funding, even if it meant higher taxes or a larger budget deficit?",
+    "zh": "您对美国目前的教育经费水平有何看法？你会增加联邦教育经费，即使这意味着更高的税收或更大的预算赤字？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/482@17/description",
+      "1960_Kennedy_Symington/questions_json/482@21/description",
+      "1960_Nixon_Lodge/questions_json/482@18/description",
+      "1960_Nixon_Dirksen/questions_json/482@19/description",
+      "1960_Nixon_Rockefeller/questions_json/482@19/description",
+      "1960_Nixon_Goldwater/questions_json/482@20/description"
+    ]
+  },
+  {
+    "source": "Would you support the passage of a federal civil rights bill as President to address the worst excesses of segregation in the South?",
+    "zh": "作为总统，您会支持通过一项联邦民权法案来解决南方最严重的过度种族隔离问题吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/483@18/description",
+      "1960_Kennedy_Symington/questions_json/483@19/description",
+      "1960_Kennedy_Humphrey/questions_json/483@15/description",
+      "1960_Nixon_Dirksen/questions_json/483@15/description"
+    ]
+  },
+  {
+    "source": "Do you believe that Cuba has been lost to the Communists as of this time? If so, do you think it is partially the fault of the United States?",
+    "zh": "你认为此时此刻古巴已经输给了共产党吗？如果是这样，你认为这部分是美国的错吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/488@19/description",
+      "1960_Kennedy_Symington/questions_json/488@22/description",
+      "1960_Kennedy_Humphrey/questions_json/488@20/description",
+      "1960_Nixon_Lodge/questions_json/488@17/description"
+    ]
+  },
+  {
+    "source": "Do you support a minimum wage of $1.25 per hour, with some exceptions for small business? Such a measure was recently defeated in Congress.",
+    "zh": "您是否支持每小时 1.25 美元的最低工资（小企业有一些例外）？这项措施最近在国会被否决。",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/486@20/description",
+      "1960_Kennedy_Symington/questions_json/486@14/description",
+      "1960_Kennedy_Humphrey/questions_json/486@19/description",
+      "1960_Nixon_Rockefeller/questions_json/486@20/description",
+      "1960_Nixon_Goldwater/questions_json/486@18/description"
+    ]
+  },
+  {
+    "source": "How serious, at the current time, do you believe the internal Communist threat is?",
+    "zh": "目前，您认为共产主义内部威胁有多严重？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/487@21/description",
+      "1960_Kennedy_Symington/questions_json/487@18/description",
+      "1960_Kennedy_Humphrey/questions_json/487@21/description",
+      "1960_Nixon_Rockefeller/questions_json/487@21/description",
+      "1960_Nixon_Goldwater/questions_json/487@19/description"
+    ]
+  },
+  {
+    "source": "Recently, Martin Luther King Jr. was arrested at a sit-in in Atlanta, and has now been sentenced to four months in prison for failing to get a Georgia driver's license after moving to that state. Do you have any comment or action you would like to take?",
+    "zh": "最近，马丁·路德·金 Jr. 在亚特兰大的一次静坐中被捕，现已因搬到该州后未能获得佐治亚州驾驶执照而被判处四个月监禁。您有什么意见或想采取的行动吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/484@22/description",
+      "1960_Kennedy_Symington/questions_json/484@23/description",
+      "1960_Kennedy_Humphrey/questions_json/484@23/description",
+      "1960_Nixon_Lodge/questions_json/484@22/description",
+      "1960_Nixon_Dirksen/questions_json/484@22/description",
+      "1960_Nixon_Rockefeller/questions_json/484@22/description",
+      "1960_Nixon_Goldwater/questions_json/484@22/description"
+    ]
+  },
+  {
+    "source": "Lady Bird Johnson, LBJ's wife, has been spat on by a gathering of far-right protestors in a Dallas hotel lobby. What are your thoughts?",
+    "zh": "伯德女士约翰逊，林登·约翰逊的妻子，在达拉斯酒店大堂被极右抗议者吐口水。你有什么想法？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/450@23/description"
+    ]
+  },
+  {
+    "source": "Where will you spend your final day before the election?",
+    "zh": "选举前的最后一天您将在哪里度过？",
+    "keys": [
+      "1960_Kennedy_Johnson/questions_json/495@24/description",
+      "1960_Kennedy_Symington/questions_json/495@24/description",
+      "1960_Kennedy_Humphrey/questions_json/495@24/description",
+      "1960_Nixon_Lodge/questions_json/495@24/description",
+      "1960_Nixon_Dirksen/questions_json/495@24/description",
+      "1960_Nixon_Rockefeller/questions_json/495@24/description",
+      "1960_Nixon_Goldwater/questions_json/495@24/description"
+    ]
+  },
+  {
+    "source": "I will campaign as a mainstream liberal Democrat, emphasizing key parts of our platform and pressing the case for more vigilance in our national defense.",
+    "zh": "我将作为主流自由民主党人进行竞选活动，强调我们纲领的关键部分，并敦促我们在国防方面提高警惕。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3659@0/description",
+      "1960_Kennedy_Symington/answers_json/3659@0/description",
+      "1960_Kennedy_Humphrey/answers_json/3659@0/description"
+    ]
+  },
+  {
+    "source": "I have always been on the more moderate wing of the party. We need to emphasize my anti-Communism and my record as a Senator if we hope to win back the Eisenhower Democrats.",
+    "zh": "我一直属于党内较为温和的一方。如果我们希望赢回艾森豪威尔民主党，我们需要强调我的反共产主义和我作为参议员的记录。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3660@1/description",
+      "1960_Kennedy_Symington/answers_json/3660@1/description",
+      "1960_Kennedy_Humphrey/answers_json/3660@1/description"
+    ]
+  },
+  {
+    "source": "It is important to keep the Democratic Party moving into the future. We need to act on civil rights, education, and health care over the coming term.",
+    "zh": "保持民主党走向未来非常重要。我们需要在下个学期在民权、教育和医疗保健方面采取行动。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3661@2/description",
+      "1960_Kennedy_Symington/answers_json/3661@2/description",
+      "1960_Kennedy_Humphrey/answers_json/3661@2/description"
+    ]
+  },
+  {
+    "source": "I will deemphasize the political aspect of this campaign, as much as practicable, and emphasize my own personality and leadership ability. Of course I will still make strong statements on the Cold War.",
+    "zh": "我将尽可能淡化此次竞选的政治方面，并强调我自己的个性和领导能力。当然，我仍然会就冷战问题发表强硬言论。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3662@3/description",
+      "1960_Kennedy_Symington/answers_json/3662@3/description",
+      "1960_Kennedy_Humphrey/answers_json/3662@3/description",
+      "1960_Nixon_Lodge/answers_json/3692@5/description",
+      "1960_Nixon_Dirksen/answers_json/3692@5/description",
+      "1960_Nixon_Rockefeller/answers_json/3692@5/description",
+      "1960_Nixon_Goldwater/answers_json/3692@5/description"
+    ]
+  },
+  {
+    "source": "Lyndon Johnson shares my political beliefs and will be my close partner in government for the next four years.",
+    "zh": "林登·约翰逊与我分享政治信仰，并将成为我未来四年在政府中的亲密合作伙伴。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3663@4/description"
+    ]
+  },
+  {
+    "source": "Lyndon Johnson is a loyal Southerner and Senator from Texas who will spare no effort to advance a Democratic agenda. ",
+    "zh": "林登·约翰逊是一位忠诚的南方人，也是来自得克萨斯州的参议员，他将不遗余力地推进民主党议程。 ",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3664@5/description"
+    ]
+  },
+  {
+    "source": "I have no real comment to make, but I'm sure that the voters in Texas will be incensed at the incivility of this episode.",
+    "zh": "我没有什么真正的评论要发表，但我确信得克萨斯州中的选民会对这一集的不文明行为感到愤怒。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3665@6/description"
+    ]
+  },
+  {
+    "source": "Let's be cautious with this idea. Nixon is a skilled debater, and the last thing we need right now is a campaign setback on national television.",
+    "zh": "让我们对这个想法保持谨慎。尼克松是一位熟练的辩手，我们现在最不需要的就是国家电视台的竞选受挫。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3673@7/description",
+      "1960_Kennedy_Symington/answers_json/3673@6/description",
+      "1960_Kennedy_Humphrey/answers_json/3673@9/description"
+    ]
+  },
+  {
+    "source": "I would love to go against Nixon in a televised debate. We could use the exposure and I'm confident that I would win.",
+    "zh": "我很想在电视辩论中反对尼克松。我们可以利用这次曝光，我有信心我会赢。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3674@8/description",
+      "1960_Kennedy_Johnson/answers_json/3675@9/description",
+      "1960_Kennedy_Johnson/answers_json/3676@10/description",
+      "1960_Kennedy_Symington/answers_json/3674@7/description",
+      "1960_Kennedy_Symington/answers_json/3675@8/description",
+      "1960_Kennedy_Symington/answers_json/3676@9/description",
+      "1960_Kennedy_Humphrey/answers_json/3674@10/description",
+      "1960_Kennedy_Humphrey/answers_json/3675@11/description",
+      "1960_Kennedy_Humphrey/answers_json/3676@12/description"
+    ]
+  },
+  {
+    "source": "Let's gather some of these leaflets and show them to the media and to major newspapers. I think they demonstrate the lengths that some people will go to discredit my candidacy.",
+    "zh": "让我们收集一些传单并将其展示给媒体和主要报纸。我认为它们表明有些人会不遗余力地诋毁我的候选资格。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3677@11/description",
+      "1960_Kennedy_Symington/answers_json/3677@10/description",
+      "1960_Kennedy_Humphrey/answers_json/3677@13/description"
+    ]
+  },
+  {
+    "source": "I will attack the idea that any good Protestant would vote against my candidacy because I happen to be a Catholic.",
+    "zh": "我会攻击任何好的新教徒都会投票反对我的候选资格，因为我碰巧是天主教徒的想法。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3678@12/description",
+      "1960_Kennedy_Symington/answers_json/3678@11/description",
+      "1960_Kennedy_Humphrey/answers_json/3678@14/description"
+    ]
+  },
+  {
+    "source": "We can't be out there responding to every little two-bit leaflet that some crank puts out. Let's wait and see how this issue develops.",
+    "zh": "我们无法对某些怪人发布的每张两位小传单做出回应。这个问题将如何发展，让我们拭目以待。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3679@13/description",
+      "1960_Kennedy_Symington/answers_json/3679@12/description",
+      "1960_Kennedy_Humphrey/answers_json/3679@15/description"
+    ]
+  },
+  {
+    "source": "Let's take this opportunity to make a major speech on the topic. I will address this issue exclusively in a televised speech, and put it to rest for good.",
+    "zh": "借此机会，我们就这个话题做一个重点演讲。我将在电视讲话中专门讨论这个问题，并永远解决这个问题。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3680@14/description",
+      "1960_Kennedy_Symington/answers_json/3680@13/description",
+      "1960_Kennedy_Humphrey/answers_json/3680@16/description"
+    ]
+  },
+  {
+    "source": "Let's put a couple of statements into my next campaign speech to address this issue, and reassure the public that I take no orders from the Pope.",
+    "zh": "让我们在下一次竞选演讲中加入一些声明来解决这个问题，并向公众保证我不会接受教皇的命令。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3681@15/description",
+      "1960_Kennedy_Symington/answers_json/3681@14/description",
+      "1960_Kennedy_Humphrey/answers_json/3681@17/description"
+    ]
+  },
+  {
+    "source": "I am Catholic and proud of it. I will not respond to bigoted attacks or innuendo, and I trust that these attacks will only help me by driving higher Catholic turnout.",
+    "zh": "我是天主教徒并为此感到自豪。我不会回应偏执的攻击或影射，我相信这些攻击只会帮助我提高天主教徒的投票率。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3682@16/description",
+      "1960_Kennedy_Symington/answers_json/3682@15/description",
+      "1960_Kennedy_Humphrey/answers_json/3682@18/description"
+    ]
+  },
+  {
+    "source": "This movement has my full support, as do the other civil rights measures of our day. I will push for a Civil Rights Act as President.",
+    "zh": "这项运动得到了我的全力支持，就像我们今天的其他民权措施一样。我将推动民权法案担任总统。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3683@17/description",
+      "1960_Kennedy_Symington/answers_json/3683@16/description",
+      "1960_Kennedy_Humphrey/answers_json/3683@19/description",
+      "1960_Nixon_Lodge/answers_json/3698@11/description",
+      "1960_Nixon_Dirksen/answers_json/3711@8/description",
+      "1960_Nixon_Rockefeller/answers_json/3706@11/description",
+      "1960_Nixon_Goldwater/answers_json/3716@8/description"
+    ]
+  },
+  {
+    "source": "I support the civil rights movement, but I'm a little concerned about the disregard for the law that some of these activists have shown.",
+    "zh": "我支持民权运动，但我有点担心其中一些活动人士表现出的对法律的漠视。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3684@18/description",
+      "1960_Kennedy_Symington/answers_json/3684@17/description",
+      "1960_Kennedy_Humphrey/answers_json/3684@20/description",
+      "1960_Nixon_Lodge/answers_json/3699@12/description",
+      "1960_Nixon_Dirksen/answers_json/3712@9/description",
+      "1960_Nixon_Rockefeller/answers_json/3707@12/description",
+      "1960_Nixon_Goldwater/answers_json/3717@9/description"
+    ]
+  },
+  {
+    "source": "These activists are trespassing on the property of lawful businesses. I think there are better methods of pushing for change in the South.",
+    "zh": "这些活动分子正在侵入合法企业的财产。我认为有更好的方法来推动南方的变革。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3685@19/description",
+      "1960_Kennedy_Symington/answers_json/3685@18/description",
+      "1960_Kennedy_Humphrey/answers_json/3685@21/description",
+      "1960_Nixon_Lodge/answers_json/3700@13/description",
+      "1960_Nixon_Dirksen/answers_json/3713@10/description",
+      "1960_Nixon_Rockefeller/answers_json/3708@13/description",
+      "1960_Nixon_Goldwater/answers_json/3718@10/description"
+    ]
+  },
+  {
+    "source": "Richard Nixon and I entered Congress in the same year, 1947, and have both served in the highest levels of government for some time.",
+    "zh": "理查德·尼克松和我于 1947 年同年进入国会，并都在政府最高层任职了一段时间。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3686@20/description",
+      "1960_Kennedy_Symington/answers_json/3686@19/description",
+      "1960_Kennedy_Humphrey/answers_json/3686@22/description"
+    ]
+  },
+  {
+    "source": "I question this premise, to be frank. It's still not clear to me exactly what role Nixon had in the Eisenhower Administration, or what policies of his have been implemented.",
+    "zh": "坦率地说，我质疑这个前提。我仍然不清楚尼克松在艾森豪威尔政府中到底扮演什么角色，或者他的哪些政策得到了实施。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3687@21/description",
+      "1960_Kennedy_Symington/answers_json/3687@20/description",
+      "1960_Kennedy_Humphrey/answers_json/3687@23/description"
+    ]
+  },
+  {
+    "source": "I will bring new, dynamic leadership to this country as President. I don't see how this line of argument puts me at any disadvantage.",
+    "zh": "作为总统，我将为这个国家带来新的、充满活力的领导力。我不认为这种论点会让我处于不利地位。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3688@22/description",
+      "1960_Kennedy_Symington/answers_json/3688@21/description",
+      "1960_Kennedy_Humphrey/answers_json/3688@24/description"
+    ]
+  },
+  {
+    "source": "This program is a good starting point, but I would much prefer a program of national health insurance for all Americans -- not just the elderly.",
+    "zh": "该计划是一个很好的起点，但我更喜欢为所有美国人（而不仅仅是老年人）提供国家健康保险计划。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3737@23/description",
+      "1960_Kennedy_Symington/answers_json/3737@22/description",
+      "1960_Kennedy_Humphrey/answers_json/3737@25/description",
+      "1960_Nixon_Lodge/answers_json/3737@30/description",
+      "1960_Nixon_Dirksen/answers_json/3737@27/description",
+      "1960_Nixon_Rockefeller/answers_json/3737@30/description",
+      "1960_Nixon_Goldwater/answers_json/3737@27/description"
+    ]
+  },
+  {
+    "source": "I would redouble our efforts on this front. Too many of our nation's elderly are unable to afford decent medical care in their advanced years.",
+    "zh": "我会在这方面加倍努力。我们国家有太多的老年人在晚年无力承担像样的医疗服务。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3738@24/description",
+      "1960_Kennedy_Symington/answers_json/3738@23/description",
+      "1960_Kennedy_Humphrey/answers_json/3738@26/description",
+      "1960_Nixon_Lodge/answers_json/3738@31/description",
+      "1960_Nixon_Dirksen/answers_json/3738@28/description",
+      "1960_Nixon_Rockefeller/answers_json/3738@31/description",
+      "1960_Nixon_Goldwater/answers_json/3738@28/description"
+    ]
+  },
+  {
+    "source": "I prefer a slightly different program, offering health insurance to the elderly that they can choose to purchase. The proposed program was mandatory, and also covered only those covered by the Social Security Act.",
+    "zh": "我更喜欢一个稍微不同的计划，为老年人提供他们可以选择购买的健康保险。拟议的计划是强制性的，并且仅涵盖社会保障法案所涵盖的项目。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3739@25/description",
+      "1960_Kennedy_Symington/answers_json/3739@24/description",
+      "1960_Kennedy_Humphrey/answers_json/3739@27/description",
+      "1960_Nixon_Lodge/answers_json/3739@32/description",
+      "1960_Nixon_Dirksen/answers_json/3739@29/description",
+      "1960_Nixon_Rockefeller/answers_json/3739@32/description",
+      "1960_Nixon_Goldwater/answers_json/3739@29/description"
+    ]
+  },
+  {
+    "source": "This program would represent a massive new financial commitment for the federal government, when care of the elderly properly rests with the affected family.",
+    "zh": "当老年人的护理工作由受影响的家庭适当承担时，该计划将代表联邦政府一项巨大的新财政承诺。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3740@26/description",
+      "1960_Kennedy_Symington/answers_json/3740@25/description",
+      "1960_Kennedy_Humphrey/answers_json/3740@28/description",
+      "1960_Nixon_Lodge/answers_json/3740@33/description",
+      "1960_Nixon_Dirksen/answers_json/3740@30/description",
+      "1960_Nixon_Rockefeller/answers_json/3740@33/description",
+      "1960_Nixon_Goldwater/answers_json/3740@30/description"
+    ]
+  },
+  {
+    "source": "We need to dispatch an armed garrison to these islands, to make sure there is no mistaking our commitment in our fight against Communism.",
+    "zh": "我们需要向这些岛屿派遣武装驻军，以确保我们对抗共产主义的承诺不会被误解。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3741@27/description",
+      "1960_Kennedy_Symington/answers_json/3741@26/description",
+      "1960_Nixon_Lodge/answers_json/3741@34/description",
+      "1960_Nixon_Dirksen/answers_json/3741@31/description"
+    ]
+  },
+  {
+    "source": "I do believe we should defend these islands. We are committed to the defense of Taiwan, and that commitment must include all of Taiwan to be credible.",
+    "zh": "我确实相信我们应该保卫这些岛屿。我们致力于保卫台湾，而这一承诺必须包括整个台湾才可信。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3742@28/description",
+      "1960_Kennedy_Symington/answers_json/3742@27/description",
+      "1960_Nixon_Lodge/answers_json/3742@35/description",
+      "1960_Nixon_Dirksen/answers_json/3742@32/description"
+    ]
+  },
+  {
+    "source": "It wouldn't be responsible of me to comment at this point. As President I will consult with our military leaders to determine what is appropriate.",
+    "zh": "我不负责在这一点上发表评论。作为总统，我将与我们的军事领导人协商以确定什么是适当的。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3743@29/description",
+      "1960_Kennedy_Symington/answers_json/3743@28/description",
+      "1960_Nixon_Lodge/answers_json/3743@36/description",
+      "1960_Nixon_Dirksen/answers_json/3743@33/description"
+    ]
+  },
+  {
+    "source": "I'm not sure it's practical or desirable from a military standpoint to defend two tiny islands that are much closer to the Chinese mainland than they are to Formosa.",
+    "zh": "我不确定从军事角度来看，保卫两个距离中国大陆比距离福尔摩沙更近的小岛是否实用或可取。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3744@30/description",
+      "1960_Kennedy_Symington/answers_json/3744@29/description",
+      "1960_Nixon_Lodge/answers_json/3744@37/description",
+      "1960_Nixon_Dirksen/answers_json/3744@34/description"
+    ]
+  },
+  {
+    "source": "I am satisfied with our progress over the past few years. We have prevented further expansion while avoiding any major wars.",
+    "zh": "我对我们过去几年的进步感到满意。我们阻止了进一步扩张，同时避免了任何重大战争。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3748@31/description",
+      "1960_Kennedy_Symington/answers_json/3748@30/description",
+      "1960_Kennedy_Humphrey/answers_json/3748@32/description",
+      "1960_Nixon_Lodge/answers_json/3748@41/description",
+      "1960_Nixon_Dirksen/answers_json/3748@38/description",
+      "1960_Nixon_Rockefeller/answers_json/3748@37/description",
+      "1960_Nixon_Goldwater/answers_json/3748@34/description"
+    ]
+  },
+  {
+    "source": "We can never be fully satisfied, but we have certainly held our own in the Cold War over the past eight years, compared to where we were during the Korean War.",
+    "zh": "我们永远无法完全满意，但与朝鲜战争期间相比，我们在过去八年的冷战中确实保持了自己的地位。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3749@32/description",
+      "1960_Kennedy_Symington/answers_json/3749@31/description",
+      "1960_Kennedy_Humphrey/answers_json/3749@33/description",
+      "1960_Nixon_Lodge/answers_json/3749@42/description",
+      "1960_Nixon_Dirksen/answers_json/3749@39/description",
+      "1960_Nixon_Rockefeller/answers_json/3749@38/description",
+      "1960_Nixon_Goldwater/answers_json/3749@35/description"
+    ]
+  },
+  {
+    "source": "Cuba has been lost to the Soviet Union, providing a potential base for Communist aggression on the very doorstep of our nation. I am very unsatisfied with the current situation.",
+    "zh": "古巴已被苏联占领，为共产主义侵略我们国家的家门口提供了潜在的基地。我对目前的状况非常不满意。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3750@33/description",
+      "1960_Kennedy_Symington/answers_json/3750@32/description",
+      "1960_Kennedy_Humphrey/answers_json/3750@34/description",
+      "1960_Nixon_Lodge/answers_json/3750@43/description",
+      "1960_Nixon_Dirksen/answers_json/3750@40/description",
+      "1960_Nixon_Rockefeller/answers_json/3750@39/description",
+      "1960_Nixon_Goldwater/answers_json/3750@36/description"
+    ]
+  },
+  {
+    "source": "I am as satisfied as I can be. With sound defense policies and strong economic growth, we should continue to maintain our advantage over the Soviet Union.",
+    "zh": "我已经很满意了。凭借健全的国防政策和强劲的经济增长，我们应该继续保持对苏联的优势。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3751@34/description",
+      "1960_Kennedy_Symington/answers_json/3751@33/description",
+      "1960_Kennedy_Humphrey/answers_json/3751@35/description",
+      "1960_Nixon_Lodge/answers_json/3751@44/description",
+      "1960_Nixon_Dirksen/answers_json/3751@41/description",
+      "1960_Nixon_Rockefeller/answers_json/3751@40/description",
+      "1960_Nixon_Goldwater/answers_json/3751@37/description"
+    ]
+  },
+  {
+    "source": "I don't know, to be perfectly frank. Things are going well for now, but we will have many challenges to meet in places like Cuba, Lebanon, Latin America, Indochina, and elsewhere.",
+    "zh": "坦白说，我不知道。目前一切进展顺利，但在古巴、黎巴嫩、拉丁美洲、印度支那和其他地方，我们将面临许多挑战。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3752@35/description",
+      "1960_Kennedy_Symington/answers_json/3752@34/description",
+      "1960_Kennedy_Humphrey/answers_json/3752@36/description",
+      "1960_Nixon_Lodge/answers_json/3752@45/description",
+      "1960_Nixon_Dirksen/answers_json/3752@42/description",
+      "1960_Nixon_Rockefeller/answers_json/3752@41/description",
+      "1960_Nixon_Goldwater/answers_json/3752@38/description"
+    ]
+  },
+  {
+    "source": "We have a missile gap, and an overly tight monetary policy that is constraining our growth. I'm very concerned that these shortfalls will allow the Soviet Union to gain an advantage if they are not addressed.",
+    "zh": "我们存在导弹缺口，以及过度紧缩的货币政策限制了我们的增长。我非常担心，如果不解决这些缺陷，苏联将获得优势。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3753@36/description",
+      "1960_Kennedy_Symington/answers_json/3753@35/description",
+      "1960_Kennedy_Humphrey/answers_json/3753@37/description",
+      "1960_Nixon_Lodge/answers_json/3753@46/description",
+      "1960_Nixon_Dirksen/answers_json/3753@43/description",
+      "1960_Nixon_Rockefeller/answers_json/3753@42/description",
+      "1960_Nixon_Goldwater/answers_json/3753@39/description"
+    ]
+  },
+  {
+    "source": "Education is a key front in our battle with Communism, and that includes adequate pay and respect for our nation's teachers. I would support additional federal spending on this.",
+    "zh": "教育是我们与共产主义斗争的关键战线，其中包括为我们国家的教师提供足够的工资和尊重。我支持在这方面增加联邦支出。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3757@37/description",
+      "1960_Kennedy_Symington/answers_json/3757@39/description",
+      "1960_Nixon_Lodge/answers_json/3757@47/description",
+      "1960_Nixon_Dirksen/answers_json/3757@47/description",
+      "1960_Nixon_Rockefeller/answers_json/3757@46/description",
+      "1960_Nixon_Goldwater/answers_json/3757@40/description"
+    ]
+  },
+  {
+    "source": "I'm not satisfied with how well teachers are paid in this country, and I'd encourage local jurisdictions to address this issue further. We need to strike a good balance in this regard.",
+    "zh": "我对这个国家教师的薪酬不满意，我鼓励当地司法管辖区进一步解决这个问题。我们需要在这方面取得良好的平衡。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3758@38/description",
+      "1960_Kennedy_Symington/answers_json/3758@40/description",
+      "1960_Nixon_Lodge/answers_json/3758@48/description",
+      "1960_Nixon_Dirksen/answers_json/3758@48/description",
+      "1960_Nixon_Rockefeller/answers_json/3758@47/description",
+      "1960_Nixon_Goldwater/answers_json/3758@41/description"
+    ]
+  },
+  {
+    "source": "We need to minimize the federal funding of education, even in block grants. It could easily open the door to federal control of our schools.",
+    "zh": "我们需要最大限度地减少联邦教育经费，即使是整笔拨款。它可以很容易地打开联邦控制我们学校的大门。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3759@39/description",
+      "1960_Kennedy_Symington/answers_json/3759@41/description",
+      "1960_Nixon_Lodge/answers_json/3759@49/description",
+      "1960_Nixon_Dirksen/answers_json/3759@49/description",
+      "1960_Nixon_Rockefeller/answers_json/3759@48/description",
+      "1960_Nixon_Goldwater/answers_json/3759@42/description"
+    ]
+  },
+  {
+    "source": "We need to do anything we can to move our nation forward on this issue, including a civil rights bill and measures to protect voting rights.",
+    "zh": "我们需要尽一切努力推动我们的国家在这个问题上取得进展，包括民权法案和保护投票权的措施。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3760@40/description",
+      "1960_Kennedy_Symington/answers_json/3760@42/description",
+      "1960_Kennedy_Humphrey/answers_json/3760@41/description",
+      "1960_Nixon_Dirksen/answers_json/3760@50/description"
+    ]
+  },
+  {
+    "source": "I am supportive of a civil rights bill and will work with Congress to get one written and passed.",
+    "zh": "我支持一项民权法案，并将与国会合作，起草并通过一项法案。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3761@41/description",
+      "1960_Kennedy_Symington/answers_json/3761@43/description",
+      "1960_Kennedy_Humphrey/answers_json/3761@42/description",
+      "1960_Nixon_Dirksen/answers_json/3761@51/description"
+    ]
+  },
+  {
+    "source": "This is something that is more appropriately addressed by individual states, though I will do anything I can to enforce the decisions of our Supreme Court.",
+    "zh": "这是各个州更适合解决的问题，尽管我会尽我所能来执行最高法院的裁决。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3762@42/description",
+      "1960_Kennedy_Symington/answers_json/3762@44/description",
+      "1960_Kennedy_Humphrey/answers_json/3762@43/description",
+      "1960_Nixon_Dirksen/answers_json/3762@52/description"
+    ]
+  },
+  {
+    "source": "I would not support a measure like this. This would be an unnecessary and unconstitutional interference into the rights of our states.",
+    "zh": "我不会支持这样的措施。这将是对我们各州权利的不必要且违宪的干涉。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3763@43/description",
+      "1960_Kennedy_Symington/answers_json/3763@45/description",
+      "1960_Kennedy_Humphrey/answers_json/3763@44/description",
+      "1960_Nixon_Dirksen/answers_json/3763@53/description"
+    ]
+  },
+  {
+    "source": "Let's make a call to Mrs. King to offer our condolences, and let's demand the release of Mr. King.",
+    "zh": "让我们打电话给金夫人表示哀悼，并要求释放金先生。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3764@44/description",
+      "1960_Kennedy_Symington/answers_json/3764@46/description",
+      "1960_Kennedy_Humphrey/answers_json/3764@45/description",
+      "1960_Nixon_Lodge/answers_json/3764@50/description",
+      "1960_Nixon_Dirksen/answers_json/3764@54/description",
+      "1960_Nixon_Rockefeller/answers_json/3764@49/description",
+      "1960_Nixon_Goldwater/answers_json/3764@43/description"
+    ]
+  },
+  {
+    "source": "Let's make a public comment criticizing this arrest, and expressing our hopes that this situation doesn't escalate any further.",
+    "zh": "让我们发表公开评论，批评这次逮捕，并表示希望这种情况不会进一步升级。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3765@45/description",
+      "1960_Kennedy_Symington/answers_json/3765@47/description",
+      "1960_Kennedy_Humphrey/answers_json/3765@46/description",
+      "1960_Nixon_Lodge/answers_json/3765@51/description",
+      "1960_Nixon_Dirksen/answers_json/3765@55/description",
+      "1960_Nixon_Rockefeller/answers_json/3765@50/description",
+      "1960_Nixon_Goldwater/answers_json/3765@44/description"
+    ]
+  },
+  {
+    "source": "I will give a statement encouraging the State of Georgia to protect the safety of Mr. King, while criticizing him for participating in these inflammatory and illegal protests.",
+    "zh": "我将发表声明，鼓励佐治亚州州保护金先生的安全，同时批评他参与这些煽动性和非法抗议活动。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3766@46/description",
+      "1960_Kennedy_Symington/answers_json/3766@48/description",
+      "1960_Kennedy_Humphrey/answers_json/3766@47/description",
+      "1960_Nixon_Lodge/answers_json/3766@52/description",
+      "1960_Nixon_Dirksen/answers_json/3766@56/description",
+      "1960_Nixon_Rockefeller/answers_json/3766@51/description",
+      "1960_Nixon_Goldwater/answers_json/3766@45/description"
+    ]
+  },
+  {
+    "source": "We need more spending and lower interest rates, and we need to repeal the Taft-Hartley Act and put more money into the hands of the American people.",
+    "zh": "我们需要更多的支出和更低的利率，我们需要废除《塔夫脱-哈特利法案》并将更多的钱交到美国人民手中。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3767@47/description",
+      "1960_Kennedy_Symington/answers_json/3767@49/description",
+      "1960_Kennedy_Humphrey/answers_json/3767@48/description",
+      "1960_Nixon_Lodge/answers_json/3767@53/description",
+      "1960_Nixon_Dirksen/answers_json/3767@57/description",
+      "1960_Nixon_Rockefeller/answers_json/3767@52/description",
+      "1960_Nixon_Goldwater/answers_json/3767@46/description"
+    ]
+  },
+  {
+    "source": "We must do better. Our present Administration has advocated a hard money policy which caused the recession of 1958 and left idle industrial capacity in our country.",
+    "zh": "我们必须做得更好。本届政府提倡硬通货政策，导致1958年经济衰退，并导致我国工业产能闲置。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3768@48/description",
+      "1960_Kennedy_Symington/answers_json/3768@50/description",
+      "1960_Kennedy_Humphrey/answers_json/3768@49/description",
+      "1960_Nixon_Lodge/answers_json/3768@54/description",
+      "1960_Nixon_Dirksen/answers_json/3768@58/description",
+      "1960_Nixon_Rockefeller/answers_json/3768@53/description",
+      "1960_Nixon_Goldwater/answers_json/3768@47/description"
+    ]
+  },
+  {
+    "source": "We are on the right track economically. We can't deny that there was a recession in 1958, but the recovery has been strong and 1960 will see a very high rate of growth in this country.",
+    "zh": "我们的经济正走在正确的轨道上。我们不能否认1958年出现了经济衰退，但复苏势头强劲，1960年这个国家将出现非常高的增长率。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3769@49/description",
+      "1960_Kennedy_Symington/answers_json/3769@51/description",
+      "1960_Kennedy_Humphrey/answers_json/3769@50/description",
+      "1960_Nixon_Lodge/answers_json/3769@55/description",
+      "1960_Nixon_Dirksen/answers_json/3769@59/description",
+      "1960_Nixon_Rockefeller/answers_json/3769@54/description",
+      "1960_Nixon_Goldwater/answers_json/3769@48/description"
+    ]
+  },
+  {
+    "source": "The Eisenhower Administration has unfortunately failed to take any real action in undoing the excesses of the New Deal. I would like to see a more conservative Administration in power.",
+    "zh": "不幸的是，艾森豪威尔政府未能采取任何实际行动来消除新政的过度行为。我希望看到一个更加保守的政府执政。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3770@50/description",
+      "1960_Kennedy_Symington/answers_json/3770@52/description",
+      "1960_Kennedy_Humphrey/answers_json/3770@51/description",
+      "1960_Nixon_Lodge/answers_json/3770@56/description",
+      "1960_Nixon_Dirksen/answers_json/3770@60/description",
+      "1960_Nixon_Rockefeller/answers_json/3770@55/description",
+      "1960_Nixon_Goldwater/answers_json/3770@49/description"
+    ]
+  },
+  {
+    "source": "I support this measure, and believe it would be greatly beneficial to millions of American workers.",
+    "zh": "我支持这项措施，并相信这将对数百万美国工人大有裨益。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3771@51/description",
+      "1960_Kennedy_Symington/answers_json/3771@53/description",
+      "1960_Kennedy_Humphrey/answers_json/3771@52/description",
+      "1960_Nixon_Rockefeller/answers_json/3771@56/description",
+      "1960_Nixon_Goldwater/answers_json/3771@50/description"
+    ]
+  },
+  {
+    "source": "Our current minimum wage is sufficient in my opinion. The minimum wage is a necessary expedient but we shouldn't be increasing it so much that we cause unemployment.",
+    "zh": "我认为我们目前的最低工资已经足够了。最低工资是必要的权宜之计，但我们不应该提高太多，以免造成失业。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3772@52/description",
+      "1960_Kennedy_Symington/answers_json/3772@54/description",
+      "1960_Kennedy_Humphrey/answers_json/3772@53/description",
+      "1960_Nixon_Rockefeller/answers_json/3772@57/description",
+      "1960_Nixon_Goldwater/answers_json/3772@51/description"
+    ]
+  },
+  {
+    "source": "I believe a minimum wage is at the very least a bad economic idea, and possibly unconstitutional. I do not support this increase.",
+    "zh": "我认为最低工资至少是一个糟糕的经济想法，而且可能违宪。我不支持这种增加。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3773@53/description",
+      "1960_Kennedy_Symington/answers_json/3773@55/description",
+      "1960_Kennedy_Humphrey/answers_json/3773@54/description",
+      "1960_Nixon_Rockefeller/answers_json/3773@58/description",
+      "1960_Nixon_Goldwater/answers_json/3773@52/description"
+    ]
+  },
+  {
+    "source": "The last thing we need is a return to excesses and witch-hunts of the early 1950s. We need to keep ourselves focused on the external Communist threat.",
+    "zh": "我们最不需要的就是回到 20 世纪 50 年代初的过度行为和政治迫害。我们需要将注意力集中在外部的共产主义威胁上。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3774@54/description",
+      "1960_Kennedy_Symington/answers_json/3774@56/description",
+      "1960_Kennedy_Humphrey/answers_json/3774@55/description",
+      "1960_Nixon_Rockefeller/answers_json/3774@59/description",
+      "1960_Nixon_Goldwater/answers_json/3774@53/description"
+    ]
+  },
+  {
+    "source": "We should always be concerned about internal subversion, but the external Soviet threat should be our primary focus at this point.",
+    "zh": "我们应该始终关注内部颠覆，但外部苏联威胁应该是我们此时的首要关注点。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3775@55/description",
+      "1960_Kennedy_Symington/answers_json/3775@57/description",
+      "1960_Kennedy_Humphrey/answers_json/3775@56/description",
+      "1960_Nixon_Rockefeller/answers_json/3775@60/description",
+      "1960_Nixon_Goldwater/answers_json/3775@54/description"
+    ]
+  },
+  {
+    "source": "It's unfortunate that we've become less vigilant on the internal Communist threat in recent years. Espionage and infiltration of our government is as serious a threat as external Soviet action.",
+    "zh": "不幸的是，近年来我们对共产主义内部威胁的警惕性降低了。对我国政府的间谍活动和渗透与苏联的外部行动一样构成严重威胁。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3776@56/description",
+      "1960_Kennedy_Symington/answers_json/3776@58/description",
+      "1960_Kennedy_Humphrey/answers_json/3776@57/description",
+      "1960_Nixon_Rockefeller/answers_json/3776@61/description",
+      "1960_Nixon_Goldwater/answers_json/3776@55/description"
+    ]
+  },
+  {
+    "source": "We've seen some alarming things out of Cuba, but this isn't necessarily a lost cause. Cuba has not declared itself a Communist state and we should be making overtures to prevent that.",
+    "zh": "我们在古巴看到了一些令人震惊的事情，但这并不一定是失败的原因。古巴尚未宣布自己是一个共产主义国家，我们应该采取措施阻止这种情况发生。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3777@57/description",
+      "1960_Kennedy_Symington/answers_json/3777@59/description",
+      "1960_Kennedy_Humphrey/answers_json/3777@58/description",
+      "1960_Nixon_Lodge/answers_json/3777@57/description"
+    ]
+  },
+  {
+    "source": "We will defend our base at Guantanamo and do anything else that is necessary if Cuba continues its hostility. However, it is too early to make a conclusive determination at this point.",
+    "zh": "如果古巴继续敌对，我们将保卫我们在关塔那摩的基地，并采取一切必要行动。不过，现在做出结论性决定还为时过早。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3778@58/description",
+      "1960_Kennedy_Symington/answers_json/3778@60/description",
+      "1960_Kennedy_Humphrey/answers_json/3778@59/description",
+      "1960_Nixon_Lodge/answers_json/3778@58/description"
+    ]
+  },
+  {
+    "source": "What we've unfortunately seen in Cuba is the consequence of insufficient support for anti-Communist governments and movements. We need to be much more aggressive in our actions against the Castro government.",
+    "zh": "我们在古巴不幸地看到的是反共政府和运动支持不足的结果。我们需要对卡斯特罗政府采取更加积极的行动。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3779@59/description",
+      "1960_Kennedy_Symington/answers_json/3779@61/description",
+      "1960_Kennedy_Humphrey/answers_json/3779@60/description",
+      "1960_Nixon_Lodge/answers_json/3779@59/description"
+    ]
+  },
+  {
+    "source": "We lost a lot of ground diplomatically after this event, and much of that could have been avoided had we issued a formal apology.",
+    "zh": "在此事件之后，我们在外交上失去了很多阵地，如果我们发表正式道歉，其中大部分都是可以避免的。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3780@60/description",
+      "1960_Kennedy_Symington/answers_json/3780@62/description",
+      "1960_Kennedy_Humphrey/answers_json/3780@61/description",
+      "1960_Nixon_Lodge/answers_json/3780@60/description",
+      "1960_Nixon_Dirksen/answers_json/3780@61/description",
+      "1960_Nixon_Rockefeller/answers_json/3780@62/description",
+      "1960_Nixon_Goldwater/answers_json/3780@56/description"
+    ]
+  },
+  {
+    "source": "A formal apology sounds a bit extreme, but we could certainly have expressed our regrets and perhaps saved the Paris Summit from collapse.",
+    "zh": "正式道歉听起来有点极端，但我们当然可以表达我们的遗憾，也许可以使巴黎峰会免于崩溃。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3781@61/description",
+      "1960_Kennedy_Symington/answers_json/3781@63/description",
+      "1960_Kennedy_Humphrey/answers_json/3781@62/description",
+      "1960_Nixon_Lodge/answers_json/3781@61/description",
+      "1960_Nixon_Dirksen/answers_json/3781@62/description",
+      "1960_Nixon_Rockefeller/answers_json/3781@63/description",
+      "1960_Nixon_Goldwater/answers_json/3781@57/description"
+    ]
+  },
+  {
+    "source": "Absolutely not. We cannot show weakness in the face of the Soviet threat, and the Paris Summit collapsed from the intransigence of Nikita Khrushchev.",
+    "zh": "绝对不是。面对苏联的威胁，我们不能示弱，巴黎峰会也因赫鲁晓夫的顽固不化而破裂。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3782@62/description",
+      "1960_Kennedy_Symington/answers_json/3782@64/description",
+      "1960_Kennedy_Humphrey/answers_json/3782@63/description",
+      "1960_Nixon_Lodge/answers_json/3782@62/description",
+      "1960_Nixon_Dirksen/answers_json/3782@63/description",
+      "1960_Nixon_Rockefeller/answers_json/3782@64/description",
+      "1960_Nixon_Goldwater/answers_json/3782@58/description"
+    ]
+  },
+  {
+    "source": "He absolutely did, and I would like to see further action to desegregate our schools and enforce our civil rights.",
+    "zh": "他绝对做到了，我希望看到进一步的行动来取消我们学校的种族隔离并执行我们的民权。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3783@63/description",
+      "1960_Kennedy_Symington/answers_json/3783@65/description",
+      "1960_Kennedy_Humphrey/answers_json/3783@64/description",
+      "1960_Nixon_Lodge/answers_json/3783@63/description",
+      "1960_Nixon_Dirksen/answers_json/3783@64/description",
+      "1960_Nixon_Rockefeller/answers_json/3783@65/description",
+      "1960_Nixon_Goldwater/answers_json/3783@59/description"
+    ]
+  },
+  {
+    "source": "I believe that Eisenhower did what he had to do in this case, to make sure the decisions of our Supreme Court are enforced.",
+    "zh": "我相信艾森豪威尔在本案中做了他必须做的事情，以确保我们最高法院的判决得到执行。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3784@64/description",
+      "1960_Kennedy_Symington/answers_json/3784@66/description",
+      "1960_Kennedy_Humphrey/answers_json/3784@65/description",
+      "1960_Nixon_Lodge/answers_json/3784@64/description",
+      "1960_Nixon_Dirksen/answers_json/3784@65/description",
+      "1960_Nixon_Rockefeller/answers_json/3784@66/description",
+      "1960_Nixon_Goldwater/answers_json/3784@60/description"
+    ]
+  },
+  {
+    "source": "We should have found a better way to resolve this issue, rather than intrude into the sovereignty of an American state.",
+    "zh": "我们应该找到更好的方法来解决这个问题，而不是侵犯美国国家的主权。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3785@65/description",
+      "1960_Kennedy_Symington/answers_json/3785@67/description",
+      "1960_Kennedy_Humphrey/answers_json/3785@66/description",
+      "1960_Nixon_Lodge/answers_json/3785@65/description",
+      "1960_Nixon_Dirksen/answers_json/3785@66/description",
+      "1960_Nixon_Rockefeller/answers_json/3785@67/description",
+      "1960_Nixon_Goldwater/answers_json/3785@61/description"
+    ]
+  },
+  {
+    "source": "We need to make sure we don't overextend ourselves into new regions when the situation does not warrant it.",
+    "zh": "当情况不允许时，我们需要确保不会过度扩张到新地区。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3790@66/description",
+      "1960_Kennedy_Symington/answers_json/3790@72/description",
+      "1960_Nixon_Rockefeller/answers_json/3790@68/description",
+      "1960_Nixon_Goldwater/answers_json/3790@66/description"
+    ]
+  },
+  {
+    "source": "This is a situation that we need to watch carefully, and I am open to a variety of measures if necessary.",
+    "zh": "这是我们需要仔细观察的情况，如果有必要，我愿意采取各种措施。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3791@67/description",
+      "1960_Kennedy_Symington/answers_json/3791@73/description",
+      "1960_Nixon_Rockefeller/answers_json/3791@69/description",
+      "1960_Nixon_Goldwater/answers_json/3791@67/description"
+    ]
+  },
+  {
+    "source": "I believe we need to defend South Vietnam at all costs, whatever commitment of our forces that entails.",
+    "zh": "我相信我们需要不惜一切代价保卫南越，无论我们的部队做出怎样的承诺。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3792@68/description",
+      "1960_Kennedy_Symington/answers_json/3792@74/description",
+      "1960_Nixon_Rockefeller/answers_json/3792@70/description",
+      "1960_Nixon_Goldwater/answers_json/3792@68/description"
+    ]
+  },
+  {
+    "source": "I would support the use of massive air strikes or tactical nuclear weapons to defend our ally, South Vietnam.",
+    "zh": "我支持使用大规模空袭或战术核武器来保卫我们的盟友南越。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3793@69/description",
+      "1960_Kennedy_Symington/answers_json/3793@75/description",
+      "1960_Nixon_Rockefeller/answers_json/3793@71/description",
+      "1960_Nixon_Goldwater/answers_json/3793@69/description"
+    ]
+  },
+  {
+    "source": "Labor unions have been needlessly undermined by the Taft-Hartley Act, and by self-serving investigations from both parties. I will do anything I can as President to support our nation's laborers.",
+    "zh": "工会受到《塔夫脱-哈特利法案》和双方自私调查的不必要破坏。作为总统，我将尽我所能来支持我们国家的劳动者。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3794@70/description",
+      "1960_Kennedy_Humphrey/answers_json/3794@71/description",
+      "1960_Nixon_Lodge/answers_json/3794@70/description",
+      "1960_Nixon_Dirksen/answers_json/3794@71/description",
+      "1960_Nixon_Goldwater/answers_json/3794@70/description"
+    ]
+  },
+  {
+    "source": "I support unions and I oppose the excesses of leaders such as Jimmy Hoffa. Unions, cleansed of their corrupt elements, should play a central role in the American economy.",
+    "zh": "我支持工会，反对吉米·霍法等领导人的过度行为。清除了腐败分子的工会应该在美国经济中发挥核心作用。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3795@71/description",
+      "1960_Kennedy_Humphrey/answers_json/3795@72/description",
+      "1960_Nixon_Lodge/answers_json/3795@71/description",
+      "1960_Nixon_Dirksen/answers_json/3795@72/description",
+      "1960_Nixon_Goldwater/answers_json/3795@71/description"
+    ]
+  },
+  {
+    "source": "We should be vigilant against labor union excesses, and the Taft-Hartley Act was a good start. I believe that we should keep that law in place.",
+    "zh": "我们应该对工会的过度行为保持警惕，《塔夫脱-哈特利法案》是一个良好的开端。我认为我们应该保留该法律。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3796@72/description",
+      "1960_Kennedy_Humphrey/answers_json/3796@73/description",
+      "1960_Nixon_Lodge/answers_json/3796@72/description",
+      "1960_Nixon_Dirksen/answers_json/3796@73/description",
+      "1960_Nixon_Goldwater/answers_json/3796@72/description"
+    ]
+  },
+  {
+    "source": "We need to do anything we can to reduce the power of labor unions in this country, including a national right-to-work law.",
+    "zh": "我们需要尽一切努力减少工会在这个国家的权力，包括制定国家工作权法律。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3797@73/description",
+      "1960_Kennedy_Humphrey/answers_json/3797@74/description",
+      "1960_Nixon_Lodge/answers_json/3797@73/description",
+      "1960_Nixon_Dirksen/answers_json/3797@74/description",
+      "1960_Nixon_Goldwater/answers_json/3797@73/description"
+    ]
+  },
+  {
+    "source": "I believe that we need more vigilance in the area of defense, for both military equipment and for missile development. We currently have a missile gap with the Soviet Union.",
+    "zh": "我认为我们在国防领域需要更加警惕，无论是对于军事装备还是导弹开发。目前我们与苏联在导弹方面存在差距。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3798@74/description",
+      "1960_Kennedy_Symington/answers_json/3798@76/description",
+      "1960_Kennedy_Humphrey/answers_json/3798@75/description",
+      "1960_Nixon_Lodge/answers_json/3798@74/description",
+      "1960_Nixon_Dirksen/answers_json/3798@75/description",
+      "1960_Nixon_Rockefeller/answers_json/3798@72/description",
+      "1960_Nixon_Goldwater/answers_json/3798@74/description"
+    ]
+  },
+  {
+    "source": "We can always find areas for improvement, but we have successfully defended the United States and our allies from numerous Communist threats over the past eight years.",
+    "zh": "我们总能找到需要改进的地方，但在过去八年里，我们成功地保卫了美国和我们的盟友免受共产主义的众多威胁。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3799@75/description",
+      "1960_Kennedy_Symington/answers_json/3799@77/description",
+      "1960_Kennedy_Humphrey/answers_json/3799@76/description",
+      "1960_Nixon_Lodge/answers_json/3799@75/description",
+      "1960_Nixon_Dirksen/answers_json/3799@76/description",
+      "1960_Nixon_Rockefeller/answers_json/3799@73/description",
+      "1960_Nixon_Goldwater/answers_json/3799@75/description"
+    ]
+  },
+  {
+    "source": "In the final analysis, every dollar spent on defense is taken from more productive uses within our economy. I will look for ways to find common ground with the Soviet Union so that we can cut defense spending.",
+    "zh": "归根结底，花在国防上的每一美元都来自我们经济中更具生产力的用途。我将寻找与苏联达成共同点的方法，以便我们能够削减国防开支。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3800@76/description",
+      "1960_Kennedy_Symington/answers_json/3800@78/description",
+      "1960_Kennedy_Humphrey/answers_json/3800@77/description",
+      "1960_Nixon_Lodge/answers_json/3800@76/description",
+      "1960_Nixon_Dirksen/answers_json/3800@77/description",
+      "1960_Nixon_Rockefeller/answers_json/3800@74/description",
+      "1960_Nixon_Goldwater/answers_json/3800@76/description"
+    ]
+  },
+  {
+    "source": "We will campaign up and down New York and the Eastern Seaboard.",
+    "zh": "我们将在纽约州和东部沿海地区进行战役。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3801@77/description",
+      "1960_Kennedy_Symington/answers_json/3801@79/description",
+      "1960_Kennedy_Humphrey/answers_json/3801@78/description",
+      "1960_Nixon_Lodge/answers_json/3801@77/description",
+      "1960_Nixon_Dirksen/answers_json/3801@78/description",
+      "1960_Nixon_Rockefeller/answers_json/3801@75/description",
+      "1960_Nixon_Goldwater/answers_json/3801@77/description"
+    ]
+  },
+  {
+    "source": "We will focus on the Midwest.",
+    "zh": "我们将重点关注中西部地区。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3802@78/description",
+      "1960_Kennedy_Symington/answers_json/3802@80/description",
+      "1960_Kennedy_Humphrey/answers_json/3802@79/description",
+      "1960_Nixon_Lodge/answers_json/3802@78/description",
+      "1960_Nixon_Dirksen/answers_json/3802@79/description",
+      "1960_Nixon_Rockefeller/answers_json/3802@76/description",
+      "1960_Nixon_Goldwater/answers_json/3802@78/description"
+    ]
+  },
+  {
+    "source": "We will travel to California and the West Coast.",
+    "zh": "我们将前往加利福尼亚州和西海岸。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3803@79/description",
+      "1960_Kennedy_Symington/answers_json/3803@81/description",
+      "1960_Kennedy_Humphrey/answers_json/3803@80/description",
+      "1960_Nixon_Lodge/answers_json/3803@79/description",
+      "1960_Nixon_Dirksen/answers_json/3803@80/description",
+      "1960_Nixon_Rockefeller/answers_json/3803@77/description",
+      "1960_Nixon_Goldwater/answers_json/3803@79/description"
+    ]
+  },
+  {
+    "source": "We will focus on Texas and the South.",
+    "zh": "我们将重点关注得克萨斯州和南部。",
+    "keys": [
+      "1960_Kennedy_Johnson/answers_json/3804@80/description",
+      "1960_Kennedy_Symington/answers_json/3804@82/description",
+      "1960_Kennedy_Humphrey/answers_json/3804@81/description",
+      "1960_Nixon_Lodge/answers_json/3804@80/description",
+      "1960_Nixon_Dirksen/answers_json/3804@81/description",
+      "1960_Nixon_Rockefeller/answers_json/3804@78/description",
+      "1960_Nixon_Goldwater/answers_json/3804@80/description"
+    ]
+  },
+  {
+    "source": "Alabama - Unpledged",
+    "zh": "阿拉巴马州 - 未承诺",
+    "keys": [
+      "1960_Kennedy_Johnson/states_json/333@50/name",
+      "1960_Kennedy_Symington/states_json/333@50/name",
+      "1960_Kennedy_Humphrey/states_json/333@50/name",
+      "1960_Nixon_Lodge/states_json/333@50/name",
+      "1960_Nixon_Dirksen/states_json/333@50/name",
+      "1960_Nixon_Rockefeller/states_json/333@50/name",
+      "1960_Nixon_Goldwater/states_json/333@50/name"
+    ]
+  },
+  {
+    "source": "This might help you in the Deep South, but it will definitely not help with black and liberal turnout in other regions.",
+    "zh": "这可能会对您在深南部有所帮助，但对于其他地区的黑人和自由派投票率绝对没有帮助。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1228@0/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1228@0/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1228@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's hard to sound too aggressive on the Cold War, but this might do it. A lot of people think this is an extreme idea.",
+    "zh": "很难在冷战问题上听起来过于激进，但这可能会做到这一点。很多人认为这是一个极端的想法。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1334@1/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1335@76/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1334@1/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1335@87/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1334@0/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1335@79/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1334@0/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1335@77/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is the party line that people want to hear. Good luck this fall!",
+    "zh": "这是人们想听到的政党路线。祝这个秋天好运！",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1203@2/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1203@2/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1203@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "This may be more accurate, given your record. Let's see how it flies with the voting public this fall.",
+    "zh": "根据您的记录，这可能更准确。让我们看看今年秋天它在公众投票中的表现如何。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1204@3/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1204@3/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1204@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Good luck with your bold agenda for the future.",
+    "zh": "祝您未来的大胆议程好运。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1205@4/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1205@4/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1205@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "This line of reasoning could work, if voters don't find it too clever by half.",
+    "zh": "如果选民不觉得这种推理太聪明的话，这种推理可能会起作用。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1206@5/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1206@5/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1206@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your words of support help as LBJ begins campaigning in the South. He will cajole and strong-arm that region's politicians into disavowing the unpledged elector movement.",
+    "zh": "随着林登·约翰逊开始在南方开展竞选活动，您的支持之言有所帮助。他将哄骗并强迫该地区的政客否认未承诺的选举运动。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1207@6/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1208@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "One ugly incident may not swing too many voters to your side, but any little bit helps late in a campaign.",
+    "zh": "一件丑陋的事件可能不会让太多选民支持你，但任何一点点都会在竞选后期有所帮助。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1209@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "Nixon is better known than you are, you're a good debater, and you're telegenic. Why would you not want to debate him?",
+    "zh": "尼克松比你更出名，你是一位出色的辩手，而且你很上镜。你为什么不想和他辩论呢？",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1217@9/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1217@8/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1217@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "You've managed to come across as Nixon's equal in these debates, and that alone is a good start...",
+    "zh": "在这些辩论中你已经设法与尼克松平等，仅此一点就是一个好的开始......",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1218@10/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1218@9/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1218@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are the clear winner in the first debate, and it shows in the sudden enthusiasm of your crowds.",
+    "zh": "你是第一场辩论中明显的赢家，这从观众突然的热情中就可以看出。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1219@11/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1220@12/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1219@10/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1220@11/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1219@12/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1220@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "The impulse is noble, but you come across as a little petty as you awkwardly read from these leaflets at your latest press conference.",
+    "zh": "这种冲动是高尚的，但当你在最近的新闻发布会上笨拙地阅读这些传单时，你会显得有点小气。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1221@13/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1221@12/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1221@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "You might get away with this for awhile, but be careful that you don't let these attacks snowball.",
+    "zh": "您可能会暂时摆脱这种情况，但要小心，不要让这些攻击滚雪球。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1222@14/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1222@13/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1222@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "Giving this speech was a good idea. Many people were impressed, and it provided good material for future advertisements.",
+    "zh": "发表这次演讲是个好主意。很多人都印象深刻，也为以后的广告提供了很好的素材。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1223@15/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1223@14/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1223@16/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is an acceptable response, but it wouldn't have harmed you to be a little more bold.",
+    "zh": "这是一个可以接受的回应，但更大胆一点也不会对你造成伤害。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1224@16/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1224@15/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1224@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "It won't cripple your chances of winning the election, but there are some concerns about how passive you've been on addressing this issue.",
+    "zh": "这不会削弱您赢得选举的机会，但有人担心您在解决这个问题上的被动程度。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1225@17/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1225@16/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1225@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "This will help you drive turnout in the northern states, and hurt a little in the South.",
+    "zh": "这将帮助您提高北部各州的投票率，但对南部各州会造成一些影响。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1226@18/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1226@17/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1226@19/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a safe answer that won't hurt you too much with anybody.",
+    "zh": "这是一个安全的答案，不会对任何人造成太大伤害。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1227@19/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1227@18/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1227@20/answer_feedback"
+    ]
+  },
+  {
+    "source": "This might not be the right answer in the case of Nixon. It comes off as overly aggressive, and if 8 years as Vice President is not enough experience, where does that leave you?",
+    "zh": "对于尼克松，这可能不是正确的答案。这显得过于激进，如果担任副总裁 8 年还不够经验，那你还能做什么呢？",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1229@20/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1229@19/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1229@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "This will certainly galvanize your base, but it's hard to imagine that you can get national health insurance passed after the failures of Truman on this front.",
+    "zh": "这肯定会刺激你的基础，但很难想象在杜鲁门这方面的失败之后你还能让国民健康保险获得通过。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1266@21/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1266@20/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1266@22/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1266@26/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1266@23/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1266@27/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1266@25/answer_feedback"
+    ]
+  },
+  {
+    "source": "National health insurance is not a Republican issue.",
+    "zh": "国民健康保险不是共和党的问题。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1267@22/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1267@21/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1267@23/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1267@27/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1267@24/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1267@28/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1267@26/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is exactly what your party wants to hear and will push for on this issue.",
+    "zh": "这正是您的政党希望听到的，并将在这个问题上推动的。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1268@23/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1268@22/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1268@24/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1268@28/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1268@25/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1268@29/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1268@27/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are definitely going against the Republican Congress on this issue, but it could work to your benefit.",
+    "zh": "在这个问题上你肯定会反对共和党国会，但这可能对你有利。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1269@24/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1269@23/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1269@25/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1269@29/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1269@26/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1269@30/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1269@28/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is really more of a Republican idea, and it's not like old-age health insurance is unpopular...",
+    "zh": "这确实更像是共和党的想法，而且老年健康保险并不不受欢迎……",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1270@25/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1270@24/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1270@26/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1270@30/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1270@27/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1270@31/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1270@29/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is right in line with the goals of your party.",
+    "zh": "这与你们党的目标完全一致。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1271@26/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1271@25/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1271@27/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1271@31/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1271@28/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1271@32/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1271@30/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is definitely an extreme stance for a Democrat to take.",
+    "zh": "这绝对是民主党采取的极端立场。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1272@27/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1272@26/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1272@28/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1272@32/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1272@29/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1272@33/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1272@31/answer_feedback"
+    ]
+  },
+  {
+    "source": "You're taking a big chance by breaking with Eisenhower and advocating a pretty conservative position on this issue.",
+    "zh": "你冒着很大的风险与艾森豪威尔决裂，并在这个问题上主张相当保守的立场。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1273@28/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1273@27/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1273@29/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1273@33/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1273@30/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1273@34/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1273@32/answer_feedback"
+    ]
+  },
+  {
+    "source": "People want to see a President who is tough on Communism, but even some staunch anti-Communists feel that sending troops to such tiny and remote islands is ill-advised.",
+    "zh": "人们希望看到一位对共产主义采取强硬态度的总统，但即使是一些坚定的反共主义者也认为向如此小而偏远的岛屿派遣军队是不明智的。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1274@29/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1275@30/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1274@28/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1275@29/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1274@34/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1275@35/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1274@31/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1275@32/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good answer for this situation.",
+    "zh": "对于这种情况，这是一个很好的答案。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1276@31/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1277@32/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1276@30/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1277@31/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1276@36/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1277@37/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1276@33/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1277@34/answer_feedback"
+    ]
+  },
+  {
+    "source": "Nixon is questioning your hesitation on this issue. Fortunately, however, the average voter has never heard of Quemoy and Matsu.",
+    "zh": "尼克松正在质疑你在这个问题上的犹豫。但幸运的是，普通选民从未听说过金门和马祖。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1278@33/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1278@32/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1278@38/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1278@35/answer_feedback"
+    ]
+  },
+  {
+    "source": "Kennedy is questioning your hesitation on this issue. Fortunately, however, the average voter has never heard of Quemoy and Matsu.",
+    "zh": "肯尼迪正在质疑你在这个问题上的犹豫。但幸运的是，普通选民从未听说过金门和马祖。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1279@34/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1279@33/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1279@39/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1279@36/answer_feedback"
+    ]
+  },
+  {
+    "source": "This position is a little too passive for those who want to see a tough, Cold War leader as President.",
+    "zh": "对于那些希望看到一位强硬的冷战领导人担任总统的人来说，这个立场有点太被动了。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1280@35/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1281@36/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1280@34/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1281@35/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1280@40/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1281@41/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1280@37/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1281@38/answer_feedback"
+    ]
+  },
+  {
+    "source": "As a challenger in this election, it's better to point out problems in the foreign policy of Eisenhower, than to say it has been completely effective.",
+    "zh": "作为这次选举的挑战者，与其说艾森豪威尔的外交政策完全有效，不如指出它的问题。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1283@37/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1286@40/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1283@36/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1286@39/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1283@31/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1286@34/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1283@43/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1286@46/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1283@40/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1286@43/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1283@36/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1286@39/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1283@34/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1286@37/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good answer that supports the record and policies of yourself and Eisenhower.",
+    "zh": "这是一个很好的答案，支持您自己和艾森豪威尔的记录和政策。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1284@38/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1284@37/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1284@32/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1284@44/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1284@41/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1284@37/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1284@35/answer_feedback"
+    ]
+  },
+  {
+    "source": "Not only does it undercut your claims as Eisenhower's successor, but it also offends Eisenhower personally when you criticize his foreign policy.",
+    "zh": "这不仅削弱了你作为艾森豪威尔继任者的主张，而且当你批评他的外交政策时，也冒犯了艾森豪威尔个人。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1285@39/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1287@41/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1288@42/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1285@38/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1287@40/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1288@41/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1285@33/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1287@35/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1288@36/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1285@45/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1287@47/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1288@48/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1285@42/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1287@44/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1288@45/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1285@38/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1287@40/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1288@41/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1285@36/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1287@38/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1288@39/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good answer that should win support for you from Democrats.",
+    "zh": "这是一个很好的答案，应该会赢得民主党的支持。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1295@43/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1295@48/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1295@49/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1295@52/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1295@48/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1295@40/answer_feedback"
+    ]
+  },
+  {
+    "source": "This isn't a good response for the majority of your party.",
+    "zh": "对于你们党的大多数人来说，这不是一个好的回应。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1296@44/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1297@45/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1296@49/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1297@50/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1296@50/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1297@51/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1296@53/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1297@54/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1296@49/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1297@50/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1296@41/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1297@42/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good answer that should win support for you from Republicans.",
+    "zh": "这是一个很好的答案，应该会赢得共和党人的支持。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1298@46/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1298@51/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1298@52/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1298@55/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1298@51/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1298@43/answer_feedback"
+    ]
+  },
+  {
+    "source": "This definitely helps you with the black and liberal vote in the north.",
+    "zh": "这绝对可以帮助您获得北方的黑人和自由派选票。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1299@47/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1299@52/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1299@43/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1299@53/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1299@56/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1299@52/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1299@44/answer_feedback"
+    ]
+  },
+  {
+    "source": "You and Kennedy are both making public statements, and it seems like people outside the South are generally upset at King's imprisonment for such a trivial offense.",
+    "zh": "你和肯尼迪都在发表公开声明，似乎南方以外的人们普遍对金因如此微不足道的罪行而被监禁感到不安。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1300@48/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1300@53/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1300@44/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1300@54/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1300@57/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1300@53/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1300@45/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems like an overly critical response where Dr. King is concerned. ",
+    "zh": "对于金博士而言，这似乎是一个过于批评的回应。 ",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1301@49/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1302@50/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1301@54/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1302@55/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1301@45/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1302@46/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1301@55/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1302@56/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1301@58/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1302@59/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1301@54/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1302@55/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1301@46/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1302@47/answer_feedback"
+    ]
+  },
+  {
+    "source": "Repeal of Taft-Hartley is bound to appeal to the union wing of the party.",
+    "zh": "废除塔夫脱-哈特利法案势必会向该党的工会派提出上诉。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1303@51/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1303@56/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1303@47/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1303@57/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1303@60/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1303@56/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1303@48/answer_feedback"
+    ]
+  },
+  {
+    "source": "You yourself voted for the passage of Taft-Hartley, and that law has wide support in the Republican Party.",
+    "zh": "您本人投票支持塔夫脱-哈特利法案的通过，并且该法律在共和党中得到了广泛支持。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1304@52/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1304@57/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1304@48/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1304@58/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1304@61/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1304@57/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1304@49/answer_feedback"
+    ]
+  },
+  {
+    "source": "Not only does it undercut your claims as Eisenhower's successor, but it also offends Eisenhower personally when you criticize his economic record.",
+    "zh": "这不仅削弱了你作为艾森豪威尔继任者的主张，而且当你批评他的经济记录时，也冒犯了艾森豪威尔个人。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1305@53/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1305@58/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1305@49/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1305@59/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1305@62/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1305@58/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1305@50/answer_feedback"
+    ]
+  },
+  {
+    "source": "As a challenger in this election, it doesn't make sense for you to praise Eisenhower's economic record.",
+    "zh": "作为这次选举的挑战者，你赞扬艾森豪威尔的经济记录是没有意义的。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1306@54/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1306@59/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1306@50/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1306@60/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1306@63/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1306@59/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1306@51/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is not a good response for a Democratic candidate.",
+    "zh": "对于民主党候选人来说，这不是一个好的回应。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1307@55/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1307@60/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1307@51/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1307@61/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1307@64/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1307@60/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1307@52/answer_feedback"
+    ]
+  },
+  {
+    "source": "Undoing what's left of the New Deal is not a mainstream position by this point.",
+    "zh": "撤销新政的剩余内容目前还不是主流立场。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1308@56/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1308@61/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1308@52/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1308@62/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1308@65/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1308@61/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1308@53/answer_feedback"
+    ]
+  },
+  {
+    "source": "This puts you at odds with many Republicans, but a higher minimum wage is not the most unpopular idea.",
+    "zh": "这使您与许多共和党人产生分歧，但提高最低工资并不是最不受欢迎的想法。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1309@57/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1309@62/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1309@53/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1309@62/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1309@54/answer_feedback"
+    ]
+  },
+  {
+    "source": "This puts you at odds with many Democrats, and the minimum wage is popular as well.",
+    "zh": "这会让您与许多民主党人产生分歧，而且最低工资也很受欢迎。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1310@58/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1310@63/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1310@54/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1310@63/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1310@55/answer_feedback"
+    ]
+  },
+  {
+    "source": "Abolishing the minimum wage is definitely a fringe position by this point.",
+    "zh": "到目前为止，废除最低工资绝对是一个边缘立场。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1311@59/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1312@60/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1311@64/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1312@65/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1311@55/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1312@56/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1311@64/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1312@65/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1311@56/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1312@57/answer_feedback"
+    ]
+  },
+  {
+    "source": "Many remember your role (for better or worse) in unmasking Alger Hiss and other incidents, and are surprised to hear you talking about “witch hunts” now.",
+    "zh": "许多人记得您在揭露阿尔杰·希斯和其他事件中所扮演的角色（无论好坏），并且惊讶地听到您现在谈论“政治迫害”。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1313@61/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1313@66/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1313@57/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1313@66/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1313@58/answer_feedback"
+    ]
+  },
+  {
+    "source": "This argument seems stale after years of aggressive Soviet expansion, combined with a minimum number of internal security leaks.",
+    "zh": "经过多年的苏联侵略性扩张，再加上最少数量的内部安全漏洞，这种论点似乎已经过时了。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1314@62/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1315@63/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1314@67/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1315@68/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1314@58/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1315@59/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1314@67/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1315@68/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1314@59/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1315@60/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's good to be aggressive during the campaign, but can you back it up if you are elected?",
+    "zh": "竞选期间积极进取是好事，但如果当选，你能支持吗？",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1316@64/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1316@69/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1316@60/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1316@63/answer_feedback"
+    ]
+  },
+  {
+    "source": "Some are interpreting this as a criticism or repudiation of Eisenhower, which does not play well for you.",
+    "zh": "有些人将此解释为对艾森豪威尔的批评或否定，这对你来说不太好。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1317@65/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1317@70/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1317@61/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1317@64/answer_feedback"
+    ]
+  },
+  {
+    "source": "The headlines today say, “KENNEDY ADVOCATES APOLOGY TO SOVIET UNION”, which is probably not a good thing.",
+    "zh": "今天的头条新闻说，“肯尼迪主张向苏联道歉”，这可能不是一件好事。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1318@66/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1318@71/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1318@62/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1318@65/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1318@66/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1318@69/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1318@61/answer_feedback"
+    ]
+  },
+  {
+    "source": "The headlines today say, “NIXON ADVOCATES APOLOGY TO SOVIET UNION”, which is probably not a good thing.",
+    "zh": "今天的头条新闻说，“尼克松主张向苏联道歉”，这可能不是一件好事。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1319@67/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1319@72/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1319@63/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1319@66/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1319@67/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1319@70/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1319@62/answer_feedback"
+    ]
+  },
+  {
+    "source": "Nixon needles you a bit on this point, but it isn't too controversial.",
+    "zh": "尼克松在这一点上有点刺耳，但并没有太大争议。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1320@68/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1320@73/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1320@64/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1320@67/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1320@68/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1320@71/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1320@63/answer_feedback"
+    ]
+  },
+  {
+    "source": "A few people are interpreting this as a criticism or repudiation of Eisenhower, which does not play well for you.",
+    "zh": "有些人将此解释为对艾森豪威尔的批评或否定，这对你来说不太好。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1321@69/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1321@74/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1321@65/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1321@68/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1321@69/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1321@72/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1321@64/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems like a coded argument for segregation to some.",
+    "zh": "这似乎是对某些人进行隔离的编码论点。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1322@70/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1322@75/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1322@66/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1322@69/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1322@70/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1322@73/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1322@65/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems like a coded argument for segregation to some, and is also a repudiation of Eisenhower.",
+    "zh": "这对某些人来说似乎是种族隔离的编码论点，也是对艾森豪威尔的否定。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1323@71/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1323@76/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1323@67/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1323@70/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1323@71/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1323@74/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1323@66/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a pretty passive answer for a Cold War environment.",
+    "zh": "对于冷战环境来说，这是一个相当被动的答案。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1330@72/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1331@73/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1330@83/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1331@84/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1330@75/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1331@76/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1330@73/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1331@74/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is the kind of aggressive stance that the American people want to hear.",
+    "zh": "这是美国人民希望听到的侵略性立场。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1332@74/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1333@75/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1332@85/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1333@86/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1332@77/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1333@78/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1332@75/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1333@76/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a little incongruous with some of what you and Robert Kennedy have been doing recently in the area of investigating union abuses.",
+    "zh": "这与您和罗伯特·肯尼迪最近在调查工会滥用行为方面所做的一些工作有点不一致。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1336@77/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1336@74/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1336@77/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1336@78/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1336@78/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is absolutely not what you need to say if you want to win this fall.",
+    "zh": "如果你想在今年秋天获胜，这绝对不是你需要说的话。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1337@78/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1337@75/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1337@78/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1337@79/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1337@79/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is exactly what your party wants to hear.",
+    "zh": "这正是你们的政党想听到的。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1338@79/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1338@76/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1338@79/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1338@80/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1338@80/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems a little too union-friendly for many potential Republican voters.",
+    "zh": "对于许多潜在的共和党选民来说，这似乎有点过于对工会友好。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1339@80/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1339@77/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1339@80/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1339@81/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1339@81/answer_feedback"
+    ]
+  },
+  {
+    "source": "You yourself voted against Taft-Hartley, and now you are reversing yourself in the midst of an election? For what reason?",
+    "zh": "你自己投票反对塔夫脱-哈特利，现在你在选举中改变自己的立场？出于什么原因？",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1340@81/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1340@78/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1340@81/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1340@82/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1340@82/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is way out there for a Democrat. What do you mean by this?",
+    "zh": "对于民主党人来说，这太离谱了。你这是什么意思？",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1341@82/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1341@79/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1341@82/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1341@83/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1341@83/answer_feedback"
+    ]
+  },
+  {
+    "source": "This statement will motivate the base, but it's a little impractical at this point.",
+    "zh": "这种说法会激励基地，但目前有点不切实际。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1342@83/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1342@80/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1342@83/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1342@84/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1342@84/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a core argument of your campaign, and a good place to differentiate yourself from the Republicans.",
+    "zh": "这是您竞选活动的核心论点，也是您与共和党人区分开来的好地方。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1343@84/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1343@88/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1343@81/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1343@84/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1343@85/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1343@80/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1343@85/answer_feedback"
+    ]
+  },
+  {
+    "source": "Eisenhower is furious that you would join the Democrats in repeating the inaccurate “missile gap” allegation.",
+    "zh": "艾森豪威尔对您与民主党一起重复不准确的“导弹间隙”指控感到愤怒。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1344@85/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1344@89/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1344@82/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1344@85/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1344@86/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1344@81/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1344@86/answer_feedback"
+    ]
+  },
+  {
+    "source": "This won't hurt you too much, but it does nothing to differentiate you from Nixon and Eisenhower.",
+    "zh": "这不会对你造成太大伤害，但它无法将你与尼克松和艾森豪威尔区分开来。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1345@86/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1345@90/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1345@83/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1345@86/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1345@87/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1345@82/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1345@87/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is definitely too soft of a stance to take on the issue of military spending and the Soviet Union.",
+    "zh": "对于军费开支和苏联问题，这绝对是过于软弱的立场。",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1346@87/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1347@88/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1346@91/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1347@92/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1346@84/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1347@85/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1346@87/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1347@88/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1346@88/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1347@89/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1346@83/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1347@84/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1346@88/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1347@89/answer_feedback"
+    ]
+  },
+  {
+    "source": "You have enthusiastic crowds wherever you go. Unfortunately, Eisenhower has also hit the trail for the final few days, and is definitely helping Nixon. Good luck tonight!",
+    "zh": "无论你走到哪里，都有热情的人群。不幸的是，艾森豪威尔在最后几天也开始了工作，并且肯定对尼克松有所帮助。祝今晚好运！",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1348@89/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1350@91/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1352@93/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1354@95/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1348@93/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1350@95/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1352@97/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1354@99/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1348@86/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1350@88/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1352@90/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1354@92/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1348@89/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1350@91/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1352@93/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1354@95/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1348@90/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1350@92/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1352@94/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1354@96/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1348@85/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1350@87/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1352@89/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1354@91/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1348@90/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1350@92/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1352@94/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1354@96/answer_feedback"
+    ]
+  },
+  {
+    "source": "Everything is going well, except for an unfortunate incident in Texas which is giving Lyndon Johnson some good publicity there. Good luck tonight!",
+    "zh": "一切进展顺利，除了得克萨斯州中的一个不幸事件，该事件为林登·约翰逊带来了一些良好的宣传。祝今晚好运！",
+    "keys": [
+      "1960_Kennedy_Johnson/answer_feedback_json/1349@90/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1351@92/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1353@94/answer_feedback",
+      "1960_Kennedy_Johnson/answer_feedback_json/1355@96/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1349@94/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1351@96/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1353@98/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1355@100/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1349@87/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1351@89/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1353@91/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1355@93/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1349@90/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1351@92/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1353@94/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1355@96/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1349@91/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1351@93/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1353@95/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1355@97/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1349@86/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1351@88/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1353@90/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1355@92/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1349@91/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1351@93/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1353@95/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1355@97/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Stuart Symington as your running mate?",
+    "zh": "对于选择斯图尔特·赛明顿作为你的竞选搭档，你有什么话要说的？",
+    "keys": [
+      "1960_Kennedy_Symington/questions_json/451@1/description"
+    ]
+  },
+  {
+    "source": "During the Great Depression, the federal government began a policy of farm subsidies to stabilize farm incomes and to target a specific output of each crop. Are these policies still necessary in 1960?",
+    "zh": "在大萧条期间，联邦政府开始实施农业补贴政策，以稳定农场收入并确定每种作物的特定产量。这些政策在 1960 年还有必要吗？",
+    "keys": [
+      "1960_Kennedy_Symington/questions_json/481@15/description",
+      "1960_Kennedy_Humphrey/questions_json/481@18/description",
+      "1960_Nixon_Dirksen/questions_json/481@18/description",
+      "1960_Nixon_Rockefeller/questions_json/481@16/description"
+    ]
+  },
+  {
+    "source": "What would you do as President to combat increasing unemployment in America's industrial cities?",
+    "zh": "作为总统，您会采取什么措施来应对美国工业城市不断增加的失业率？",
+    "keys": [
+      "1960_Kennedy_Symington/questions_json/491@20/description",
+      "1960_Kennedy_Humphrey/questions_json/491@16/description",
+      "1960_Nixon_Lodge/questions_json/491@21/description",
+      "1960_Nixon_Dirksen/questions_json/491@16/description",
+      "1960_Nixon_Goldwater/questions_json/491@21/description"
+    ]
+  },
+  {
+    "source": "Stuart Symington is a close friend of mine and a tireless advocate for liberalism in the United States. I look forward to working with him for the next four years.",
+    "zh": "斯图尔特·赛明顿是我的一位密友，也是美国自由主义的不懈倡导者。我期待着在接下来的四年里与他合作。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3666@4/description"
+    ]
+  },
+  {
+    "source": "Stuart Symington has served his home state of Missouri well for many years, as Harry Truman himself has noted, and is a staunch Democrat.",
+    "zh": "斯图尔特·赛明顿多年来一直很好地服务于他的家乡密苏里州，正如哈里·杜鲁门本人所指出的，并且是一名坚定的民主党人。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3667@5/description"
+    ]
+  },
+  {
+    "source": "We have too much of a farm surplus right now, and we need to reduce subsidies for production so that prices can fall into balance and benefit the consumer.",
+    "zh": "我们现在的农业剩余太多了，我们需要减少对生产的补贴，这样价格才能趋于平衡，让消费者受益。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3754@36/description",
+      "1960_Kennedy_Humphrey/answers_json/3754@38/description",
+      "1960_Nixon_Dirksen/answers_json/3754@44/description",
+      "1960_Nixon_Rockefeller/answers_json/3754@43/description"
+    ]
+  },
+  {
+    "source": "I think these programs need to be phased out over time, but in such a way that we don't bring sudden instability to our nation's farm policy.",
+    "zh": "我认为这些计划需要随着时间的推移逐步取消，但这样我们就不会给我们国家的农业政策带来突然的不稳定。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3755@37/description",
+      "1960_Kennedy_Humphrey/answers_json/3755@39/description",
+      "1960_Nixon_Dirksen/answers_json/3755@45/description",
+      "1960_Nixon_Rockefeller/answers_json/3755@44/description"
+    ]
+  },
+  {
+    "source": "They are absolutely necessary. Farmers are not in a good position to bargain for their crops, and any economic weakness in that sector can easily cause a recession in the broader economy.",
+    "zh": "它们是绝对必要的。农民没有处于有利地位来讨价还价他们的农作物，该部门的任何经济疲软都很容易导致更广泛的经济衰退。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3756@38/description",
+      "1960_Kennedy_Humphrey/answers_json/3756@40/description",
+      "1960_Nixon_Dirksen/answers_json/3756@46/description",
+      "1960_Nixon_Rockefeller/answers_json/3756@45/description"
+    ]
+  },
+  {
+    "source": "We need more spending and should consider lower taxes to stimulate American economy and industry.",
+    "zh": "我们需要更多支出，并应考虑降低税收来刺激美国经济和工业。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3786@68/description",
+      "1960_Kennedy_Humphrey/answers_json/3786@67/description",
+      "1960_Nixon_Lodge/answers_json/3786@66/description",
+      "1960_Nixon_Dirksen/answers_json/3786@67/description",
+      "1960_Nixon_Goldwater/answers_json/3786@62/description"
+    ]
+  },
+  {
+    "source": "We need to strengthen our labor unions and protections for the nation's industry, including trade protections if necessary.",
+    "zh": "我们需要加强工会和对国家工业的保护，包括必要时的贸易保护。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3787@69/description",
+      "1960_Kennedy_Humphrey/answers_json/3787@68/description",
+      "1960_Nixon_Lodge/answers_json/3787@67/description",
+      "1960_Nixon_Dirksen/answers_json/3787@68/description",
+      "1960_Nixon_Goldwater/answers_json/3787@63/description"
+    ]
+  },
+  {
+    "source": "If we continue our current economic policies, the economy should continue to recover into the 1960s and we will see a rebound in our employment rate.",
+    "zh": "如果我们继续实行目前的经济政策，经济应该会继续复苏到 20 世纪 60 年代，我们的就业率将会出现反弹。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3788@70/description",
+      "1960_Kennedy_Humphrey/answers_json/3788@69/description",
+      "1960_Nixon_Lodge/answers_json/3788@68/description",
+      "1960_Nixon_Dirksen/answers_json/3788@69/description",
+      "1960_Nixon_Goldwater/answers_json/3788@64/description"
+    ]
+  },
+  {
+    "source": "We need lower taxes, fewer regulations, and a smaller federal government. This will encourage private enterprise and spur a recovery to our industrial capacity.",
+    "zh": "我们需要更低的税收、更少的监管和更小的联邦政府。这将鼓励私营企业并刺激我们的工业产能恢复。",
+    "keys": [
+      "1960_Kennedy_Symington/answers_json/3789@71/description",
+      "1960_Kennedy_Humphrey/answers_json/3789@70/description",
+      "1960_Nixon_Lodge/answers_json/3789@69/description",
+      "1960_Nixon_Dirksen/answers_json/3789@70/description",
+      "1960_Nixon_Goldwater/answers_json/3789@65/description"
+    ]
+  },
+  {
+    "source": "Symington is perfectly capable, but politically he doesn't bring any particular region outside of Missouri to the fold.",
+    "zh": "赛明顿完全有能力，但在政治上他不会将密苏里州之外的任何特定区域纳入其中。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1210@6/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1211@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "Farm issues aren't as important to voters as they once were, but some do still depend on these subsidies.",
+    "zh": "农场问题对选民来说不再像以前那么重要，但有些问题仍然依赖于这些补贴。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1289@42/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1290@43/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1291@44/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1292@45/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1293@46/answer_feedback",
+      "1960_Kennedy_Symington/answer_feedback_json/1294@47/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1289@37/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1290@38/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1291@39/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1292@40/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1293@41/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1294@42/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1289@46/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1290@47/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1291@48/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1292@49/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1293@50/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1294@51/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1289@42/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1290@43/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1291@44/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1292@45/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1293@46/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1294@47/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good combination of policies which is acceptable to liberals and moderates alike.",
+    "zh": "这是自由派和温和派都可以接受的良好政策组合。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1324@77/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1324@68/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1324@71/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1324@72/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1324@67/answer_feedback"
+    ]
+  },
+  {
+    "source": "Republicans don't like to hear you calling for more spending at this stage of the game.",
+    "zh": "共和党人不喜欢听到你在这个阶段呼吁增加支出。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1325@78/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1325@69/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1325@72/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1325@73/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1325@68/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is not a winning argument for a Republican in a national election.",
+    "zh": "这不是共和党在全国选举中获胜的论据。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1326@79/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1326@70/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1326@73/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1326@74/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1326@69/answer_feedback"
+    ]
+  },
+  {
+    "source": "For a Democrat, this argument seems complacent and overly supportive of Eisenhower.",
+    "zh": "作为民主党人，你这番话显得安于现状，而且过于支持艾森豪威尔。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1327@80/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1327@71/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1327@74/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1327@75/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1327@70/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is not the policy prescription that Democrats want to hear from their Presidential candidate.",
+    "zh": "这不是民主党人希望从总统候选人那里听到的政策处方。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1328@81/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1328@72/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1328@75/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1328@76/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1328@71/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a sure way to motivate the base, but it may not be the most popular economic prescription at this point.",
+    "zh": "这是激励基础的可靠方法，但它可能不是目前最流行的经济处方。",
+    "keys": [
+      "1960_Kennedy_Symington/answer_feedback_json/1329@82/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1329@73/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1329@76/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1329@77/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1329@72/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Hubert H. Humphrey as your running mate?",
+    "zh": "对于选择休伯特·H.·汉弗莱作为你的竞选搭档，你有什么话要说的？",
+    "keys": [
+      "1960_Kennedy_Humphrey/questions_json/452@1/description"
+    ]
+  },
+  {
+    "source": "At a campaign stop today in Milwaukee, your running mate, Hubert H. Humphrey, seemed to promise that your Administration would propose extensive federal civil rights legislation. Do you stand by his statement?",
+    "zh": "今天在密尔沃基的一次竞选活动中，您的竞选搭档休伯特·H.·汉弗莱似乎承诺您的政府将提出广泛的联邦民权立法。你支持他的说法吗？",
+    "keys": [
+      "1960_Kennedy_Humphrey/questions_json/453@7/description"
+    ]
+  },
+  {
+    "source": "Currently the highest income tax bracket pays a rate of 91%. Will you work harder to cut tax rates as President?",
+    "zh": "目前最高所得税级税率为 91%。作为总统你会更加努力地降低税率吗？",
+    "keys": [
+      "1960_Kennedy_Humphrey/questions_json/478@22/description",
+      "1960_Nixon_Lodge/questions_json/478@20/description",
+      "1960_Nixon_Dirksen/questions_json/478@17/description",
+      "1960_Nixon_Rockefeller/questions_json/478@18/description",
+      "1960_Nixon_Goldwater/questions_json/478@16/description"
+    ]
+  },
+  {
+    "source": "I've been very impressed with Hubert Humphrey's ideas and moral courage throughout his political career. He is the type of person who would make a great President of this country.",
+    "zh": "休伯特汉弗莱在整个政治生涯中的思想和道德勇气给我留下了深刻的印象。他是那种会成为这个国家伟大总统的人。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3668@4/description"
+    ]
+  },
+  {
+    "source": "Hubert Humphrey has been an unwavering friend of the farmer, the Negro, and the laborer in his years in the Senate. He is the type of man who reflects my deepest held beliefs on these issues.",
+    "zh": "休伯特汉弗莱在参议院任职期间一直是农民、黑人和工人坚定不移的朋友。他是那种能反映我对这些问题最深的信念的人。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3669@5/description"
+    ]
+  },
+  {
+    "source": "Hubert Humphrey and I have the same position on this issue. I support extensive legislation to correct our greatest moral problems in this country.",
+    "zh": "休伯特汉弗莱和我在这个问题上有相同的立场。我支持广泛的立法来纠正我们国家最大的道德问题。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3670@6/description"
+    ]
+  },
+  {
+    "source": "I think anyone is aware of Hubert Humphrey's position and we're glad to have him on our ticket. We plan to look at any reasonable measure in this area.",
+    "zh": "我认为任何人都知道休伯特汉弗莱的立场，我们很高兴让他加入我们的名单。我们计划研究该领域的任何合理措施。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3671@7/description"
+    ]
+  },
+  {
+    "source": "I favor a more cautious approach really. I'm a little concerned by some of the tactics we've seen recently in the civil rights movement.",
+    "zh": "我确实赞成采取更谨慎的做法。我对我们最近在民权运动中看到的一些策略有点担心。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3672@8/description"
+    ]
+  },
+  {
+    "source": "This is not a high priority for me as President. We need to create an old age insurance program and increase our funding for education.",
+    "zh": "作为总统，这对我来说并不是一个高度优先的事项。我们需要建立养老保险计划并增加教育经费。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3745@29/description",
+      "1960_Nixon_Lodge/answers_json/3745@38/description",
+      "1960_Nixon_Dirksen/answers_json/3745@35/description",
+      "1960_Nixon_Rockefeller/answers_json/3745@34/description",
+      "1960_Nixon_Goldwater/answers_json/3745@31/description"
+    ]
+  },
+  {
+    "source": "I would be open to this, depending on how the economy goes in the next year or two.",
+    "zh": "我对此持开放态度，具体取决于未来一两年的经济发展情况。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3746@30/description",
+      "1960_Nixon_Lodge/answers_json/3746@39/description",
+      "1960_Nixon_Dirksen/answers_json/3746@36/description",
+      "1960_Nixon_Rockefeller/answers_json/3746@35/description",
+      "1960_Nixon_Goldwater/answers_json/3746@32/description"
+    ]
+  },
+  {
+    "source": "We need to cut this rate substantially. It is way too high.",
+    "zh": "我们需要大幅降低这一速度。它太高了。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answers_json/3747@31/description",
+      "1960_Nixon_Lodge/answers_json/3747@40/description",
+      "1960_Nixon_Dirksen/answers_json/3747@37/description",
+      "1960_Nixon_Rockefeller/answers_json/3747@36/description",
+      "1960_Nixon_Goldwater/answers_json/3747@33/description"
+    ]
+  },
+  {
+    "source": "By selecting Humphrey, you are writing off the South and pinning your hopes on winning liberals in the North and West.",
+    "zh": "通过选择汉弗莱，您将注销南方，并将希望寄托在赢得北方和西方的自由派上。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answer_feedback_json/1212@5/answer_feedback",
+      "1960_Kennedy_Humphrey/answer_feedback_json/1213@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a great answer if, as your selection of Humphrey suggests, you plan to run as a strong supporter of civil rights.",
+    "zh": "如果正如您选择的汉弗莱所示，您计划作为民权的坚定支持者参选，那么这是一个很好的答案。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answer_feedback_json/1214@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a little lukewarm, but it does get the idea across.",
+    "zh": "这有点冷淡，但确实传达了这个想法。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answer_feedback_json/1215@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "If this was your opinion, why did you pick Humphrey as your running mate?",
+    "zh": "如果这是你的观点，你为什么选择汉弗莱作为你的竞选搭档？",
+    "keys": [
+      "1960_Kennedy_Humphrey/answer_feedback_json/1216@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's a consensus from both sides that the top tax rate is too high. Your answer definitely puts you on the liberal end of the debate.",
+    "zh": "双方一致认为最高税率太高。你的回答肯定会让你站在辩论的自由派一边。",
+    "keys": [
+      "1960_Kennedy_Humphrey/answer_feedback_json/1282@30/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1282@42/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1282@39/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1282@35/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1282@33/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Henry Cabot Lodge Jr. as your running mate?",
+    "zh": "对于选择亨利·卡伯特·洛奇 Jr.作为你的竞选搭档，你有什么想说的？",
+    "keys": [
+      "1960_Nixon_Lodge/questions_json/460@1/description"
+    ]
+  },
+  {
+    "source": "To what extent will you make your experience as Vice President a theme of your campaign against the youthful Kennedy?",
+    "zh": "您会在多大程度上将您担任副总统的经历作为反对年轻人运动的主题肯尼迪？",
+    "keys": [
+      "1960_Nixon_Lodge/questions_json/475@7/description",
+      "1960_Nixon_Dirksen/questions_json/475@7/description",
+      "1960_Nixon_Rockefeller/questions_json/475@9/description",
+      "1960_Nixon_Goldwater/questions_json/475@8/description"
+    ]
+  },
+  {
+    "source": "At a campaign stop today in Harlem, your running mate, Henry Cabot Lodge Jr., seemed to make a promise that your Administration will appoint a black Cabinet member. Do you stand by his statement?",
+    "zh": "今天在哈莱姆区的一次竞选活动中，您的竞选搭档小亨利·卡伯特·洛奇似乎承诺您的政府将任命一名黑人内阁成员。你支持他的说法吗？",
+    "keys": [
+      "1960_Nixon_Lodge/questions_json/461@8/description"
+    ]
+  },
+  {
+    "source": "Southern Republicans are insisting that you visit their region extensively during this campaign, claiming that Kennedy will be vulnerable in some states. What are your thoughts?",
+    "zh": "南方共和党人坚持要求您在这次竞选期间广泛访问他们的地区，声称肯尼迪在某些州将很容易受到攻击。你有什么想法？",
+    "keys": [
+      "1960_Nixon_Lodge/questions_json/470@9/description",
+      "1960_Nixon_Dirksen/questions_json/470@8/description",
+      "1960_Nixon_Rockefeller/questions_json/470@7/description",
+      "1960_Nixon_Goldwater/questions_json/470@7/description"
+    ]
+  },
+  {
+    "source": "Eisenhower has his own responsibilities as President, but he is able to hit the trail for the last week of the campaign. He will obviously provide a huge boost wherever he appears. What do you think?",
+    "zh": "艾森豪威尔作为总统有他自己的责任，但他能够在竞选的最后一周继续前进。无论他出现在哪里，显然都会带来巨大的推动力。你怎么认为？",
+    "keys": [
+      "1960_Nixon_Lodge/questions_json/471@23/description",
+      "1960_Nixon_Dirksen/questions_json/471@23/description",
+      "1960_Nixon_Rockefeller/questions_json/471@23/description",
+      "1960_Nixon_Goldwater/questions_json/471@23/description"
+    ]
+  },
+  {
+    "source": "I want Eisenhower to focus on the Midwest.",
+    "zh": "我希望艾森豪威尔专注于中西部。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3725@0/description",
+      "1960_Nixon_Dirksen/answers_json/3725@0/description",
+      "1960_Nixon_Rockefeller/answers_json/3725@0/description",
+      "1960_Nixon_Goldwater/answers_json/3725@0/description"
+    ]
+  },
+  {
+    "source": "I want Eisenhower to travel to California and the West Coast.",
+    "zh": "我想要艾森豪威尔前往加利福尼亚州和西海岸。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3726@1/description",
+      "1960_Nixon_Dirksen/answers_json/3726@1/description",
+      "1960_Nixon_Rockefeller/answers_json/3726@1/description",
+      "1960_Nixon_Goldwater/answers_json/3726@1/description"
+    ]
+  },
+  {
+    "source": "I will pledge, as much as possible, to continue the policies of Dwight Eisenhower when I am President. I will also emphasize my experience in Eisenhower's Administration, particularly in world affairs.",
+    "zh": "当我担任总统时，我将尽可能保证继续执行德怀特·艾森豪威尔的政策。我还将强调我在艾森豪威尔政府中的经验，特别是在国际事务中的经验。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3689@2/description",
+      "1960_Nixon_Dirksen/answers_json/3689@2/description",
+      "1960_Nixon_Rockefeller/answers_json/3689@2/description",
+      "1960_Nixon_Goldwater/answers_json/3689@2/description"
+    ]
+  },
+  {
+    "source": "I will praise the leadership of Eisenhower, but emphasize to concerned Republicans that I will be a more orthodox conservative when I am President.",
+    "zh": "我会赞扬艾森豪威尔的领导力，但向有关共和党人强调，当我担任总统时，我将成为一个更加正统的保守派。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3690@3/description",
+      "1960_Nixon_Dirksen/answers_json/3690@3/description",
+      "1960_Nixon_Rockefeller/answers_json/3690@3/description",
+      "1960_Nixon_Goldwater/answers_json/3690@3/description"
+    ]
+  },
+  {
+    "source": "It is important to keep the Republican Party moving into the future. We need to act on civil rights, education, and health care over the coming term.",
+    "zh": "保持共和党走向未来非常重要。我们需要在下个学期在民权、教育和医疗保健方面采取行动。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3691@4/description",
+      "1960_Nixon_Dirksen/answers_json/3691@4/description",
+      "1960_Nixon_Rockefeller/answers_json/3691@4/description",
+      "1960_Nixon_Goldwater/answers_json/3691@4/description"
+    ]
+  },
+  {
+    "source": "Henry Cabot Lodge has been actively engaged in world affairs for many years, and I am proud to have him appear on my ticket.",
+    "zh": "亨利·卡伯特·洛奇多年来一直积极参与世界事务，我很自豪他出现在我的机票上。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3693@6/description"
+    ]
+  },
+  {
+    "source": "Henry Cabot Lodge represents the future of the Republican Party, and represents my own views as well. I'm looking forward to governing with him for the next four years.",
+    "zh": "亨利·卡伯特·洛奇代表了共和党的未来，也代表了我自己的观点。我期待着在接下来的四年里与他一起执政。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3694@7/description"
+    ]
+  },
+  {
+    "source": "Absolutely. This statement was made with the full support of our campaign.",
+    "zh": "当然。这一声明是在我们竞选活动的全力支持下做出的。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3695@8/description",
+      "1960_Nixon_Rockefeller/answers_json/3703@8/description"
+    ]
+  },
+  {
+    "source": "I can't make any promises about our Cabinet at this point, but I support the sentiment of this statement.",
+    "zh": "目前我无法对我们的内阁做出任何承诺，但我支持这一声明的观点。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3696@9/description"
+    ]
+  },
+  {
+    "source": "This was made without our advance knowledge, and it is not something that we can pledge to do at this point.",
+    "zh": "这是在我们事先不知情的情况下制作的，目前我们无法保证这样做。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3697@10/description",
+      "1960_Nixon_Rockefeller/answers_json/3705@10/description"
+    ]
+  },
+  {
+    "source": "I think our best chance this year will come from winning the Midwest and Northeast. I can't make any promises about visiting the South.",
+    "zh": "我认为我们今年最好的机会来自于赢得中西部和东北部。我不能对访问南方做出任何承诺。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3719@14/description",
+      "1960_Nixon_Dirksen/answers_json/3719@11/description",
+      "1960_Nixon_Rockefeller/answers_json/3719@14/description",
+      "1960_Nixon_Goldwater/answers_json/3719@11/description"
+    ]
+  },
+  {
+    "source": "I agree. We can definitely split the South if we make a strong play for it this year. I will visit extensively.",
+    "zh": "我同意。如果我们今年发挥出色，我们绝对可以分裂南方。我将广泛参观。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3720@15/description",
+      "1960_Nixon_Dirksen/answers_json/3720@12/description",
+      "1960_Nixon_Rockefeller/answers_json/3720@15/description",
+      "1960_Nixon_Goldwater/answers_json/3720@12/description"
+    ]
+  },
+  {
+    "source": "There are too many competitive states around the nation. To keep our entire party engaged, I pledge to visit all 50 states during this campaign.",
+    "zh": "全国有太多竞争性的州。为了让我们全党保持参与，我承诺在竞选期间访问所有 50 个州。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3721@16/description",
+      "1960_Nixon_Dirksen/answers_json/3721@13/description",
+      "1960_Nixon_Rockefeller/answers_json/3721@16/description",
+      "1960_Nixon_Goldwater/answers_json/3721@13/description"
+    ]
+  },
+  {
+    "source": "I can't make promises in advance about where I will or won't visit.",
+    "zh": "我无法提前承诺我会或不会去哪里。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3722@17/description",
+      "1960_Nixon_Dirksen/answers_json/3722@14/description",
+      "1960_Nixon_Rockefeller/answers_json/3722@17/description",
+      "1960_Nixon_Goldwater/answers_json/3722@14/description"
+    ]
+  },
+  {
+    "source": "I want Eisenhower to plant himself in New York, and to stay there until election day. That state is too important to take chances with.",
+    "zh": "我希望艾森豪威尔扎根于纽约州，并留在那里直到选举日。这种状态太重要了，不能冒险。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3723@18/description",
+      "1960_Nixon_Dirksen/answers_json/3723@15/description",
+      "1960_Nixon_Rockefeller/answers_json/3723@18/description",
+      "1960_Nixon_Goldwater/answers_json/3723@15/description"
+    ]
+  },
+  {
+    "source": "I want Eisenhower to campaign up and down the Eastern Seaboard.",
+    "zh": "我希望艾森豪威尔在东海岸上下活动。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3724@19/description",
+      "1960_Nixon_Dirksen/answers_json/3724@16/description",
+      "1960_Nixon_Rockefeller/answers_json/3724@19/description",
+      "1960_Nixon_Goldwater/answers_json/3724@16/description"
+    ]
+  },
+  {
+    "source": "Let's be honest with ourselves. Kennedy is great on television and he did very well debating Hubert Humphrey in the primaries. We should probably avoid this.",
+    "zh": "让我们对自己诚实。肯尼迪在电视上表现出色，他在初选中与休伯特汉弗莱的辩论表现非常好。我们或许应该避免这种情况。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3727@20/description",
+      "1960_Nixon_Dirksen/answers_json/3727@17/description",
+      "1960_Nixon_Rockefeller/answers_json/3727@20/description",
+      "1960_Nixon_Goldwater/answers_json/3727@17/description"
+    ]
+  },
+  {
+    "source": "I've been a champion debater for my entire life. I'd be happy to go against Kennedy on TV.",
+    "zh": "我一生都是辩论冠军。我很乐意在电视上反对肯尼迪。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3728@21/description",
+      "1960_Nixon_Lodge/answers_json/3729@22/description",
+      "1960_Nixon_Lodge/answers_json/3730@23/description",
+      "1960_Nixon_Dirksen/answers_json/3728@18/description",
+      "1960_Nixon_Dirksen/answers_json/3729@19/description",
+      "1960_Nixon_Dirksen/answers_json/3730@20/description",
+      "1960_Nixon_Rockefeller/answers_json/3728@21/description",
+      "1960_Nixon_Rockefeller/answers_json/3729@22/description",
+      "1960_Nixon_Rockefeller/answers_json/3730@23/description",
+      "1960_Nixon_Goldwater/answers_json/3728@18/description",
+      "1960_Nixon_Goldwater/answers_json/3729@19/description",
+      "1960_Nixon_Goldwater/answers_json/3730@20/description"
+    ]
+  },
+  {
+    "source": "Honestly, I'd rather that people didn't bring this issue up. People know that Kennedy is Catholic, and this can only galvanize his support from that sector.",
+    "zh": "老实说，我宁愿人们不要提出这个问题。人们知道肯尼迪是天主教徒，这只能激发他在该领域的支持。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3731@24/description",
+      "1960_Nixon_Dirksen/answers_json/3731@21/description",
+      "1960_Nixon_Rockefeller/answers_json/3731@24/description",
+      "1960_Nixon_Goldwater/answers_json/3731@21/description"
+    ]
+  },
+  {
+    "source": "I wouldn't go to these extremes, but anyone should be concerned about a President who is forced to follow the dictates of the Pope.",
+    "zh": "我不会走这些极端，但任何人都应该担心被迫听从教皇命令的总统。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3732@25/description",
+      "1960_Nixon_Dirksen/answers_json/3732@22/description",
+      "1960_Nixon_Rockefeller/answers_json/3732@25/description",
+      "1960_Nixon_Goldwater/answers_json/3732@22/description"
+    ]
+  },
+  {
+    "source": "Not particularly. Our campaign would prefer to move on to other issues to be perfectly honest.",
+    "zh": "不是特别。老实说，我们的竞选活动更愿意转向其他问题。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3733@26/description",
+      "1960_Nixon_Dirksen/answers_json/3733@23/description",
+      "1960_Nixon_Rockefeller/answers_json/3733@26/description",
+      "1960_Nixon_Goldwater/answers_json/3733@23/description"
+    ]
+  },
+  {
+    "source": "Again, I'd have to say that this is a valid concern. This would set a dangerous precedent for the independence of our nation's executive.",
+    "zh": "再次，我不得不说这是一个合理的担忧。这将为我们国家行政部门的独立性开创一个危险的先例。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3734@27/description",
+      "1960_Nixon_Dirksen/answers_json/3734@24/description",
+      "1960_Nixon_Rockefeller/answers_json/3734@27/description",
+      "1960_Nixon_Goldwater/answers_json/3734@24/description"
+    ]
+  },
+  {
+    "source": "This needs to be a key centerpiece of our campaign. Our current President is widely popular, and I can easily make the case that I was a central part of his Administration.",
+    "zh": "这需要成为我们活动的关键核心。我们现任总统广受欢迎，我可以很容易地证明我是他的政府的核心人物。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3735@28/description",
+      "1960_Nixon_Dirksen/answers_json/3735@25/description",
+      "1960_Nixon_Rockefeller/answers_json/3735@28/description",
+      "1960_Nixon_Goldwater/answers_json/3735@25/description"
+    ]
+  },
+  {
+    "source": "I think there are better themes to touch on. Let's focus on our plans for national defense and economic growth, and also focus more on Kennedy's inexperience.",
+    "zh": "我认为有更好的主题可以触及。让我们关注我们的国防和经济增长计划，同时也更多地关注肯尼迪的经验不足。",
+    "keys": [
+      "1960_Nixon_Lodge/answers_json/3736@29/description",
+      "1960_Nixon_Dirksen/answers_json/3736@26/description",
+      "1960_Nixon_Rockefeller/answers_json/3736@29/description",
+      "1960_Nixon_Goldwater/answers_json/3736@26/description"
+    ]
+  },
+  {
+    "source": "People like Dwight Eisenhower, and it's rarely a bad idea to assume his legacy.",
+    "zh": "人们喜欢德怀特·艾森豪威尔，继承他的遗产并不是一个坏主意。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1230@0/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1230@0/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1230@1/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1230@1/answer_feedback"
+    ]
+  },
+  {
+    "source": "The country is not really clamoring for policies right now that are more conservative than those of Eisenhower's. Most voters are registered Democrats.",
+    "zh": "该国目前并没有真正呼吁采取比艾森豪威尔的政策更保守的政策。大多数选民都是登记的民主党人。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1231@1/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1231@1/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1231@2/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1231@2/answer_feedback"
+    ]
+  },
+  {
+    "source": "Depending on your strategy this fall, this could be a good answer to galvanize the liberal Republican wing.",
+    "zh": "根据您今年秋天的策略，这可能是激励自由共和党派的一个很好的答案。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1232@2/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1232@2/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1232@3/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1232@3/answer_feedback"
+    ]
+  },
+  {
+    "source": "This could be a good idea, but sometimes the voters want to hear a little more substance, especially since your personality is unappealing to some.",
+    "zh": "这可能是个好主意，但有时选民希望听到更多实质性内容，特别是因为你的个性对某些人来说没有吸引力。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1233@3/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1233@3/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1233@4/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1233@4/answer_feedback"
+    ]
+  },
+  {
+    "source": "Henry Cabot Lodge is known for his foreign policy experience, and there is some hope he could make Massachusetts competitive...",
+    "zh": "亨利·卡伯特·洛奇以其外交政策经验而闻名，并且有希望使马萨诸塞州具有竞争力......",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1234@4/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1235@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Lodge put you in a tight spot with this statement, unless you intend to run a very progressive campaign on civil rights.",
+    "zh": "洛奇这个声明会让你陷入困境，除非你打算在民权上开展一场非常进步的活动。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1236@6/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1237@7/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1238@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "Some in the South are a bit alienated, but you need all the help you can get in other regions.",
+    "zh": "南方的一些人有点疏远，但您需要在其他地区获得的所有帮助。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1249@9/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1249@6/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1249@10/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1249@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "This obviously helps in the South, but it hurts you in other areas. Some towns insist on playing Dixie at your campaign events, and other such things...",
+    "zh": "这显然对南方有帮助，但在其他地区却会伤害你。有些城镇坚持在竞选活动中扮演迪克西，以及其他类似的事情......",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1250@10/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1250@7/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1250@11/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1250@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "This makes everyone happy for now, but it also gives Kennedy an opening to out-campaign you in some important swing states.",
+    "zh": "这让现在每个人都高兴，但它也给了肯尼迪在一些重要的摇摆州超越你的机会。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1251@11/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1251@8/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1251@12/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1251@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "This turns off Southerners a bit, but the trade-off in terms of flexibility is probably worth it.",
+    "zh": "这让南方人有点反感，但灵活性方面的权衡可能是值得的。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1252@12/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1252@9/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1252@13/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1252@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "Obviously this helps in New York, but you're also getting a little bump nationally from the popularity of Eisenhower.",
+    "zh": "显然这对纽约州有帮助，但艾森豪威尔的受欢迎程度也在全国范围内得到了一些提升。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1253@13/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1253@10/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1253@14/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1253@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "Obviously this helps on the East Coast, but you're also getting a little bump nationally from the popularity of Eisenhower.",
+    "zh": "显然这对东海岸有帮助，但艾森豪威尔的受欢迎程度也在全国范围内得到了一些提升。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1254@14/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1254@11/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1254@15/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1254@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "Obviously this helps in the Midwest, but you're also getting a little bump nationally from the popularity of Eisenhower.",
+    "zh": "显然这对中西部地区有帮助，但艾森豪威尔的受欢迎程度也在全国范围内得到了一些提升。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1255@15/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1255@12/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1255@16/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1255@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "Obviously this helps on the West Coast, but you're also getting a little bump nationally from the popularity of Eisenhower.",
+    "zh": "显然这对西海岸有帮助，但艾森豪威尔的受欢迎程度也在全国范围内得到了一些推动。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1256@16/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1256@13/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1256@17/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1256@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "Eisenhower advises you to avoid a debate with Kennedy, and you accept that advice. Voters are a little upset that you won't appear, but it could always be worse...",
+    "zh": "艾森豪威尔建议您避免与肯尼迪争论，并且您接受该建议。选民们对你不出现感到有点沮丧，但情况可能会更糟......",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1257@17/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1257@14/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1257@18/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1257@16/answer_feedback"
+    ]
+  },
+  {
+    "source": "Kennedy has managed to come across as your equal in these debates, and that alone is a good start for him...",
+    "zh": "肯尼迪在这些辩论中成功地与你平起平坐，仅此一点对他来说就是一个良好的开始......",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1258@18/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1258@15/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1258@19/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1258@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Kennedy was the clear winner in the first debate, and it looks like he's received a bump in the polls.",
+    "zh": "肯尼迪在第一场辩论中明显获胜，而且看起来他在民调中的支持率有所上升。\n然而，",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1259@19/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1260@20/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1259@16/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1260@17/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1259@20/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1260@21/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1259@18/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1260@19/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's best to stay clear of the Catholicism issue. Anybody who thinks it's important in this election already knows about it.",
+    "zh": "最好远离天主教问题。任何认为这在这次选举中很重要的人都已经知道了。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1261@21/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1262@22/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1263@23/answer_feedback",
+      "1960_Nixon_Lodge/answer_feedback_json/1264@24/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1261@18/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1262@19/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1263@20/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1264@21/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1261@22/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1262@23/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1263@24/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1264@25/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1261@20/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1262@21/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1263@22/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1264@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's no reason not to focus your record with Dwight Eisenhower. People like him, and you served under him for eight years.",
+    "zh": "没有理由不将您的记录集中在德怀特·艾森豪威尔上。人们喜欢他，而你在他手下工作了八年。",
+    "keys": [
+      "1960_Nixon_Lodge/answer_feedback_json/1265@25/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1265@22/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1265@26/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1265@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Everett Dirksen as your running mate?",
+    "zh": "对于选择埃弗里特·德克森作为你的竞选搭档，你有什么话要说的？",
+    "keys": [
+      "1960_Nixon_Dirksen/questions_json/466@1/description"
+    ]
+  },
+  {
+    "source": "Everett Dirksen has served the state of Illinois admirably during his time in the U.S. Senate, and I'm proud to have him on my ticket.",
+    "zh": "埃弗里特·德克森在担任美国参议院期间为伊利诺伊州州提供了令人钦佩的服务，我很自豪他能成为我的候选人。",
+    "keys": [
+      "1960_Nixon_Dirksen/answers_json/3709@6/description"
+    ]
+  },
+  {
+    "source": "Everett Dirksen is a mainstream Republican who represents the direction that our party should take moving forward.",
+    "zh": "埃弗里特·德克森是一位主流共和党人，代表了我们党前进的方向。",
+    "keys": [
+      "1960_Nixon_Dirksen/answers_json/3710@7/description"
+    ]
+  },
+  {
+    "source": "Dirksen will give you conservative credibility without much baggage on unions, economics, or civil rights. And he could make the difference in Illinois.",
+    "zh": "德克森会给你保守的可信度，在工会、经济或民权上没有太多包袱。他可以在伊利诺伊州中发挥作用。",
+    "keys": [
+      "1960_Nixon_Dirksen/answer_feedback_json/1244@4/answer_feedback",
+      "1960_Nixon_Dirksen/answer_feedback_json/1245@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Nelson Rockefeller as your running mate?",
+    "zh": "对于选择纳尔逊·洛克菲勒作为你的竞选搭档，你有什么话要说的？",
+    "keys": [
+      "1960_Nixon_Rockefeller/questions_json/463@1/description"
+    ]
+  },
+  {
+    "source": "At a campaign stop today in Harlem, your running mate, Nelson Rockefeller, seemed to promise that your Administration would propose extensive federal civil rights legislation. Do you stand by his statement?",
+    "zh": "今天在哈莱姆区的一次竞选活动中，您的竞选搭档纳尔逊·洛克菲勒似乎承诺您的政府将提出广泛的联邦民权立法。你支持他的说法吗？",
+    "keys": [
+      "1960_Nixon_Rockefeller/questions_json/464@8/description"
+    ]
+  },
+  {
+    "source": "I know this is a bold step, but I believe that Nelson Rockefeller represents the future of our party, and I believe he will be a dynamic leader of this party and nation for many years to come.",
+    "zh": "我知道这是一个大胆的步骤，但我相信纳尔逊·洛克菲勒代表了我们党的未来，我相信他将在未来的许多年里成为这个党和国家充满活力的领导人。",
+    "keys": [
+      "1960_Nixon_Rockefeller/answers_json/3701@6/description"
+    ]
+  },
+  {
+    "source": "Nelson Rockefeller is a very capable man, and I will be proud to have him serve as my Vice President.",
+    "zh": "纳尔逊·洛克菲勒是一个非常有能力的人，我会很自豪让他担任我的副总统。",
+    "keys": [
+      "1960_Nixon_Rockefeller/answers_json/3702@7/description"
+    ]
+  },
+  {
+    "source": "I can't make any promises about our Administration at this point, but I support the sentiment of this statement.",
+    "zh": "目前我无法对我们的政府做出任何承诺，但我支持这一声明的观点。",
+    "keys": [
+      "1960_Nixon_Rockefeller/answers_json/3704@9/description"
+    ]
+  },
+  {
+    "source": "This is exactly what Rockefeller wanted to hear, and he is putting his considerable resources at your disposal.",
+    "zh": "这正是洛克菲勒想听到的，他正在将大量资源供您使用。",
+    "keys": [
+      "1960_Nixon_Rockefeller/answer_feedback_json/1239@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "Rockefeller and his supporters are concerned about the tepid nature of your endorsement, after the promises you had to make to get him in the ticket...",
+    "zh": "洛克菲勒和他的支持者担心你的背书不温不火，在你必须做出让他加入的承诺之后......",
+    "keys": [
+      "1960_Nixon_Rockefeller/answer_feedback_json/1240@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "If you want harmony in your campaign, you'd be well advised to agree with the statements of Rockefeller.",
+    "zh": "如果您希望竞选活动和谐，建议您同意洛克菲勒的声明。",
+    "keys": [
+      "1960_Nixon_Rockefeller/answer_feedback_json/1241@7/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1242@8/answer_feedback",
+      "1960_Nixon_Rockefeller/answer_feedback_json/1243@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about the selection of Barry Goldwater as your running mate?",
+    "zh": "对于选择巴里·戈德华特作为你的竞选搭档，你有什么话要说的？",
+    "keys": [
+      "1960_Nixon_Goldwater/questions_json/468@1/description"
+    ]
+  },
+  {
+    "source": "It is time that we presented the American people with a true choice for the future of this country. Me and Barry Goldwater will do that loud and clear.",
+    "zh": "现在是我们向美国人民展示这个国家未来的真正选择的时候了。我和巴里·戈德华特会大声而清晰地做到这一点。",
+    "keys": [
+      "1960_Nixon_Goldwater/answers_json/3714@6/description"
+    ]
+  },
+  {
+    "source": "Barry Goldwater is an Air Force veteran, a rugged individualist, and a man of principle. I'm proud to have him on my ticket.",
+    "zh": "巴里·戈德华特是一名空军退伍军人，一个粗犷的个人主义者，一个有原则的人。我很自豪他能出现在我的票上。",
+    "keys": [
+      "1960_Nixon_Goldwater/answers_json/3715@7/description"
+    ]
+  },
+  {
+    "source": "Goldwater will definitely help your ticket in the South, but LBJ is an even greater force in that region. It will be interesting to see if you can overcome that obstacle.",
+    "zh": "戈德华特肯定会对您在南方的竞选组合有所帮助，但林登·约翰逊在该地区的影响力更大。看看你能否克服这个障碍将会很有趣。",
+    "keys": [
+      "1960_Nixon_Goldwater/answer_feedback_json/1246@5/answer_feedback",
+      "1960_Nixon_Goldwater/answer_feedback_json/1247@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's a little odd that you would pick Goldwater as your running mate, and then call for more civil rights legislation. Some of your supporters are confused.",
+    "zh": "你选择戈德华特作为你的竞选搭档，然后呼吁更多民权立法，这有点奇怪。你的一些支持者很困惑。",
+    "keys": [
+      "1960_Nixon_Goldwater/answer_feedback_json/1248@7/answer_feedback"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-11T07:28:10.485Z",
+  "network": "Only loopback/data/blob permitted",
+  "browser": "155.0.8059.39",
+  "pairings": [
+    {
+      "scope": "2020_Biden_Harris",
+      "year": "2020",
+      "candidate": 300,
+      "runningMate": 304,
+      "entriesChecked": 169,
+      "answers": 25,
+      "visits": 12,
+      "rngCalls": 99178,
+      "outcome": "loss",
+      "status": "passed"
+    },
+    {
+      "scope": "2012_Obama_Biden",
+      "year": "2012",
+      "candidate": 16,
+      "runningMate": 30,
+      "entriesChecked": 203,
+      "answers": 25,
+      "visits": 12,
+      "rngCalls": 61921,
+      "outcome": "loss",
+      "status": "passed"
+    },
+    {
+      "scope": "2000_Nader_LaDuke",
+      "year": "2000",
+      "candidate": 79,
+      "runningMate": 89,
+      "entriesChecked": 295,
+      "answers": 25,
+      "visits": 12,
+      "rngCalls": 61815,
+      "outcome": "loss",
+      "status": "passed"
+    },
+    {
+      "scope": "1964_Johnson_Humphrey",
+      "year": "1964",
+      "candidate": 6970,
+      "runningMate": 9998,
+      "entriesChecked": 108,
+      "answers": 25,
+      "visits": 12,
+      "rngCalls": 35819,
+      "outcome": "win",
+      "status": "passed"
+    },
+    {
+      "scope": "1844_Polk_Dallas",
+      "year": "1844",
+      "candidate": 131,
+      "runningMate": 135,
+      "entriesChecked": 183,
+      "answers": 25,
+      "visits": 0,
+      "rngCalls": 15978,
+      "outcome": "loss",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "external": [],
+  "missing": [],
+  "checks": [
+    "All selected pairings played to election results in both languages",
+    "Every loaded question/answer/feedback/issue description resolves to Chinese",
+    "Language toggle leaves the entire game object and RNG count unchanged",
+    "Same initial seed and choices yield identical votes, state results, answers, visits and random-call counts",
+    "No JS errors or external/missing core resources"
+  ]
+}

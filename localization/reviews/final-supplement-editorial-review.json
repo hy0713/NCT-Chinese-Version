@@ -1,0 +1,832 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "final-supplement",
+  "uniqueSourcesReviewed": 65,
+  "recordPositions": 740,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 0,
+      "reason": "DormantbaseGaryJohnson ending reviewed as extra coverage, not claimed native playable ticket; firstthirdparty claim party classification dependent."
+    },
+    {
+      "index": 13,
+      "reason": "Leading ending fragment runtime numeric prefix preserved."
+    },
+    {
+      "index": 22,
+      "reason": "OriginalstaffnameBobBaurtypo biography meantBobBauer; source name needs sourcednote."
+    },
+    {
+      "index": 28,
+      "reason": "OriginalJulianCastrocongressman confusesbrotherJoaquin; preservedbody and source, note needed."
+    },
+    {
+      "index": 32,
+      "reason": "OriginalJurvestonspelling preservedEnglish, Chinesephoneticuncertainty to note."
+    },
+    {
+      "index": 33,
+      "reason": "ADCoriginalLeaguevsactualCommittee needsnote, ownpoliticalcharacterization preserved."
+    },
+    {
+      "index": 39,
+      "reason": "OriginalKimberlynewlywedwife claim inconsistent2020relationship; preservedfiction, source note needed."
+    },
+    {
+      "index": 40,
+      "reason": "AlmostentireCOVIDpandemic original hyperbole retained, not verifiedApril2020appointment timing."
+    },
+    {
+      "index": 45,
+      "reason": "Alternativefacts2017phrase retrospectively inserted2016script, requireschronologynote."
+    },
+    {
+      "index": 50,
+      "reason": "OriginallastyearBrexit wrongfor2016campaign, and founderUKIP doubtful; preservebody/English and source note."
+    },
+    {
+      "index": 53,
+      "reason": "OriginalNewUnitedStates odd phrase kept新美国, no invented organization."
+    },
+    {
+      "index": 57,
+      "reason": "Original democratic socalist typo interpreted democratic socialist, insinuation quotes retained."
+    },
+    {
+      "index": 60,
+      "reason": "DNCchairdate depends2016resignation, not claimingcurrentoffice."
+    },
+    {
+      "index": 63,
+      "reason": "Electiondeadlock distinguishesplurality/statewinfromElectoralCollege majority; donor scheme fictional not legal endorsement."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<h3>It's a miracle! You have won the 2012 election.</h3> <p>Gary Johnson? Even the people who voted for you can't believe you won.</p> <p>You are the first third-party candidate to ever win the Presidency. Now go enact that Libertarian agenda!</p>",
+      "sha256": "525d7d8b7e86b9091f2db96f69348de61ff0ebc7741e6a6825ab3217396555fa",
+      "zh": "<h3>奇迹！你赢得了2012年大选。</h3> <p>加里·约翰逊？连投票给你的人，都不敢相信你赢了。</p> <p>你是首位赢得总统职位的第三党候选人。现在，去推行自由意志主义议程吧！</p>",
+      "keys": [
+        "base/candidate_json/18@3/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<h3>Sorry! You have lost the 2012 election.</h3> <p>But what did you expect? Your main goal was to get the Libertarian agenda out there and hope for a miracle.  The miracle never came.</p>",
+      "sha256": "9e1aa0f761abfab84398dd95c1abeedc6dd57004362858e4ed49bfc26d084afb",
+      "zh": "<h3>很遗憾！你输掉了2012年大选。</h3> <p>但你原本期待什么呢？你的主要目标是传播自由意志主义议程，再盼着奇迹发生。奇迹终究没有出现。</p>",
+      "keys": [
+        "base/candidate_json/18@3/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry! You have lost the 2012 election.</h3> <p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. However, this  was entirely irrelevant to your chances as a third-party candidate.</p> <p>Better luck next time.</p>",
+      "sha256": "a57bc56b4b1f1ce4642a636d18e66165d8236037e810b82f0a447daf03176d34",
+      "zh": "<h3>很遗憾！你输掉了2012年大选。</h3> <p>没有候选人获得选举人票的绝对多数，这是1824年以来首次出现这种情况。不过，作为第三党候选人，这与你的胜算完全无关。</p> <p>希望下次好运。</p>",
+      "keys": [
+        "base/candidate_json/18@3/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "<h3>Wow! You have won the election.</h3><p>This has to rank as one of the biggest upsets in political history. Prepare to implement your radically progressive agenda in the United States of America!</p>",
+      "sha256": "830bbe95122a2ff7ed1c1392505732c1c2ab3e259eb9b1155cdc213e8c6a8b44",
+      "zh": "<h3>哇！你赢得了选举。</h3><p>这一定算得上政治史上最大的冷门之一。准备在美利坚合众国推行你激进的进步派议程吧！</p>",
+      "keys": [
+        "base/candidate_json/19@4/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>Sorry, you have lost.</h3><p>This was about what everyone expected. Good job. Good effort.</p>",
+      "sha256": "d5dede2fdd8093de0b8b7d035b12706e11318f9eac48af37c89b9ef4925600de",
+      "zh": "<h3>很遗憾，你输了。</h3><p>结果基本符合大家的预期。干得不错，你已经努力了。</p>",
+      "keys": [
+        "base/candidate_json/19@4/electoral_loss_message",
+        "base/candidate_json/19@4/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "<h3>Congratulations</h3>",
+      "sha256": "7b76491fa3b3c19399c64e9295de0898f37c5459028a4b2b8a0c241abbc8a15a",
+      "zh": "<h3>恭喜</h3>",
+      "keys": [
+        "base/candidate_json/27@5/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>Better luck next time</h3>",
+      "sha256": "20cd30c0b9c899a1eb38ffb1499abd1a79f63ab382b9de2268cb52d2d2555fe7",
+      "zh": "<h3>希望下次好运</h3>",
+      "keys": [
+        "base/candidate_json/27@5/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "<h3>Interesting</h3>",
+      "sha256": "912364ad2588671eab7fbd1b06c5e28ba30bba7e7166dea7d8b7e72ceb43a39f",
+      "zh": "<h3>有意思</h3>",
+      "keys": [
+        "base/candidate_json/27@5/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "<h3>Congratulations!</h3>",
+      "sha256": "c543438419dbaca263139d8d9f04645e183540a435453ddfa24a2145687cc69a",
+      "zh": "<h3>恭喜！</h3>",
+      "keys": [
+        "base/candidate_json/29@6/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "<h3>oops</h3>",
+      "sha256": "5826b0c7b6ab565b9cf66af7377cb2ea3c37a3c9150bf8f01ae8b87c8d0243d6",
+      "zh": "<h3>哎呀</h3>",
+      "keys": [
+        "base/candidate_json/29@6/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "<h3>hmm</h3>",
+      "sha256": "6ea3811b3983ebcf92667d54529f5e067c60fa4fc8247581bdbffb3664683e5e",
+      "zh": "<h3>嗯……</h3>",
+      "keys": [
+        "base/candidate_json/29@6/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Congratulations!",
+      "sha256": "6a9fac33b7c1e18c95bd33f3daeeb5dc4e9589257ad2ea8e1a6ee2bf2a9bb181",
+      "zh": "恭喜！",
+      "keys": [
+        "base/candidate_json/22@37/electoral_victory_message",
+        "base/candidate_json/22@37/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Better luck next time!",
+      "sha256": "0c4d73be807682ec25fa68d95d30791a70e5ab1d035003d01a9b2f389937e12e",
+      "zh": "希望下次好运！",
+      "keys": [
+        "base/candidate_json/22@37/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": " electoral votes.",
+      "sha256": "1e4a28cc5d01881d284188c4fe7f4658cd071beecebc41d3f203b317b64e6a9a",
+      "zh": " 张选举人票。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l164.c87/text",
+        "2020_Biden_Rice/ending/s0.l164.c87/text",
+        "2020_Biden_Duckworth/ending/s0.l164.c87/text",
+        "2020_Biden_Demings/ending/s0.l164.c87/text",
+        "2020_Biden_Bass/ending/s0.l164.c87/text",
+        "2020_Biden_Whitmer/ending/s0.l164.c87/text",
+        "2020_Biden_Warren/ending/s0.l164.c87/text",
+        "2020_Trump_Pence/ending/s0.l164.c87/text",
+        "2020_Trump_Haley/ending/s0.l164.c87/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Florida",
+      "sha256": "8e9e26c2ef86ecd02ba5c84da8a0859a39b4181b19f4c89312d6f1c1b78ccf15",
+      "zh": "佛罗里达州",
+      "keys": [
+        "2016a_Clinton_Booker/answers_json/4720@72/description",
+        "2016a_Clinton_Castro/answers_json/4720@64/description",
+        "2016a_Clinton_Warren/answers_json/4720@59/description",
+        "2016a_Clinton_Brown/answers_json/4720@62/description",
+        "2016a_Trump_Brown/answers_json/4720@65/description",
+        "2016a_Trump_Christie/answers_json/4720@60/description",
+        "2016a_Trump_Carson/answers_json/4720@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "California.",
+      "sha256": "16a59ca259fe598f937524fd37284fdce020acdf796767d34987b7683cd2ac3e",
+      "zh": "加利福尼亚州。",
+      "keys": [
+        "1988_Bush_Quayle/answers_json/4520@65/description",
+        "1988_Bush_Dole/answers_json/4520@67/description",
+        "1988_Bush_Kemp/answers_json/4520@68/description",
+        "1988_Dukakis_Bentsen/answers_json/4520@71/description",
+        "1988_Dukakis_Glenn/answers_json/4520@72/description",
+        "1988_Dukakis_Gore/answers_json/4520@72/description",
+        "1988_Dukakis_Jackson/answers_json/4520@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "'Barry Goldwater thinks we can.'",
+      "sha256": "f189130fe5e45e44e8b83ac29e19272c06116ea336cdd1794ffb5d47da0753fa",
+      "zh": "“巴里·戈德华特认为我们能做到。”",
+      "keys": [
+        "1964_Goldwater_Miller/answers_json/3239@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Illinois",
+      "sha256": "39cf050af563dfc386389621ebbde19c75fac0e3d5d63d498496ace3a5476cbe",
+      "zh": "伊利诺伊州",
+      "keys": [
+        "1860_Lincoln_Hamlin/answers_json/4026@57/description",
+        "1860_Lincoln_Clay/answers_json/4026@57/description",
+        "1860_Lincoln_Chase/answers_json/4026@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "New York",
+      "sha256": "815eca977c7d75f72bd23bccc91bc6f9931a42fbf03451eb0d7db8d2a704d94f",
+      "zh": "纽约州",
+      "keys": [
+        "1860_Lincoln_Hamlin/answers_json/4027@58/description",
+        "1860_Lincoln_Clay/answers_json/4027@58/description",
+        "1860_Lincoln_Chase/answers_json/4027@58/description",
+        "1844_Polk_Dallas/answers_json/4233@67/description",
+        "1844_Polk_Woodbury/answers_json/4233@64/description",
+        "1844_Clay_Frelinghuysen/answers_json/4233@69/description",
+        "1844_Clay_Sergeant/answers_json/4233@67/description",
+        "1844_Clay_Fillmore/answers_json/4233@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Ohio",
+      "sha256": "438a7d5904cf041b1d91ce69a92200a1306ca5a932e86a235015991bc165138e",
+      "zh": "俄亥俄州",
+      "keys": [
+        "1860_Lincoln_Hamlin/answers_json/4028@59/description",
+        "1860_Lincoln_Clay/answers_json/4028@59/description",
+        "1860_Lincoln_Chase/answers_json/4028@59/description",
+        "1844_Polk_Dallas/answers_json/4235@69/description",
+        "1844_Polk_Woodbury/answers_json/4235@66/description",
+        "1844_Clay_Frelinghuysen/answers_json/4235@71/description",
+        "1844_Clay_Sergeant/answers_json/4235@69/description",
+        "1844_Clay_Fillmore/answers_json/4235@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Pennsylvania",
+      "sha256": "808ed51137308015c71ccb45d27995efea3745131b48229f0eeac7d39500cad3",
+      "zh": "宾夕法尼亚州",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4234@68/description",
+        "1844_Polk_Woodbury/answers_json/4234@65/description",
+        "1844_Clay_Frelinghuysen/answers_json/4234@70/description",
+        "1844_Clay_Sergeant/answers_json/4234@68/description",
+        "1844_Clay_Fillmore/answers_json/4234@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Virginia",
+      "sha256": "0ee033b5f7f9fc3a7e571c03892bcc3e3dc4a3bde64e6e439cef20bf22cdb54f",
+      "zh": "弗吉尼亚州",
+      "keys": [
+        "1844_Polk_Dallas/answers_json/4236@71/description",
+        "1844_Polk_Woodbury/answers_json/4236@68/description",
+        "1844_Clay_Frelinghuysen/answers_json/4236@73/description",
+        "1844_Clay_Sergeant/answers_json/4236@71/description",
+        "1844_Clay_Fillmore/answers_json/4236@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "<p><em>Debate Coach</em>: Will highlight the best debate answer.</p><p>An attorney for the campaign and a White House Counsel for the Obama Administration who's willing to prep you for the debates against Donald Trump, which could be chaotic if you are unable to command the stage.</p>",
+      "sha256": "19ff973c0cfc53f406a7fdecb4c5a6a8f9157c43f9a0711d356a3f715b8e6ac5",
+      "zh": "<p><em>辩论教练</em>：会突出显示最佳辩论回答。</p><p>他是竞选团队的律师，曾任奥巴马政府白宫法律顾问，愿意帮你准备与唐纳德·特朗普的辩论。如果你无法掌控舞台，辩论可能会变得混乱。</p>",
+      "keys": [
+        "staff.21.300/staff/6000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "<p><em>Kingmaker</em>: Upon being hired your relationship with all lobbies with which you already have a positive relationship will be increased by 10.</p><p>A longtime advisor of yours, Ron Klain is eager to get into the White House, and will use his connections in Washington to get you there.</p>",
+      "sha256": "b9df310588c83849f6aa8f294e3bfa471ab602d024d4c795c1c66d102082d257",
+      "zh": "<p><em>造王者</em>：雇用后，你与所有已建立正面关系的游说团体的关系值提高10。</p><p>罗恩·克莱因是你多年的顾问，渴望进入白宫，会利用自己在华盛顿的人脉，帮助你走到那里。</p>",
+      "keys": [
+        "staff.21.300/staff/6001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "<p><em>Fundraiser</em>: Permanently increases the effectiveness of fundraising.</p><p>The former CEO of Dreamworks, Katzenberg has spent his whole life bringing dreams to life. You've always dreamed of the White House, haven't you?  With a little cash, he can help that dream come true.</p>",
+      "sha256": "593637af74d045548668c713137e45f96cd8b287b32045569a731ff48b89c097",
+      "zh": "<p><em>筹款人</em>：永久提高筹款效果。</p><p>梦工厂前首席执行官卡岑伯格，一生都在让梦想成为现实。你不也一直梦想着白宫吗？有一点资金，他就能帮助这个梦成真。</p>",
+      "keys": [
+        "staff.21.300/staff/6002@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>One of your chief rivals for the nomination, Pete Buttigieg dropped out before Super Tuesday to endorse your candidacy.  In return, he wants a job in the White House. Until then, he's willing to stump for you.</p>",
+      "sha256": "059143fcab1fe14f8865b62b0f88c7cc512541c38d636ba4c060507b9e9362bd",
+      "zh": "<p><em>能言善辩者</em>：永久改善你的随机判定运气。</p><p>皮特·布蒂吉格曾是与你争夺提名的主要对手之一，在超级星期二前退选，并支持你参选。作为回报，他想在白宫谋一份工作。在那之前，他愿意为你奔走助选。</p>",
+      "keys": [
+        "staff.21.300/staff/6003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>The former spokeswoman and vice president of corporate communications at the Motion Picture Association of America, Kate Bedingfield knows the media biz better than anyone on your campaign, and could aid in your media strategy, especially in the midst of this national lockdown.</p>",
+      "sha256": "14f9d2afdcd4b736e4e891896a953f8581bba69fb5b2c11a1f3a433246a34134",
+      "zh": "<p><em>媒体经理</em>：提高广告宣传效果。</p><p>凯特·贝丁菲尔德曾任美国电影协会发言人和企业传播副总裁，比竞选团队中任何人都更了解媒体行业。她能帮助制定媒体策略，尤其是在这场全国封锁期间。</p>",
+      "keys": [
+        "staff.21.300/staff/6004@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "<p><em>Spin Doctor</em>: Opponent's visit effectiveness is cut in half.</p><p>A longtime ally of the Clintons, Dolan is a master of spin, and is interested in helping you take down Trump.</p>",
+      "sha256": "17cebef7b96f03ae6dbca7240389194d17561cbd350f271b1dd2e8f680df7e8b",
+      "zh": "<p><em>舆论操盘手</em>：使对手的访问效果减半。</p><p>多兰是克林顿夫妇多年的盟友，擅长包装舆论，有兴趣帮助你击败特朗普。</p>",
+      "keys": [
+        "staff.21.300/staff/6005@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "<p><em>Surrogate</em>: Provides a small boost in the state of Texas.</p><p>A popular congressman from San Antonio, Julián Castro would be willing to campaign throughout his home state of Texas in support of your candidacy.</p>",
+      "sha256": "8a47ce4d48ee8cb40b0b2d8aa24bce40d6661803a8c0638c6b8e909a8b4d2154",
+      "zh": "<p><em>助选代表</em>：在得克萨斯州提供小幅加成。</p><p>朱利安·卡斯特罗是一位来自圣安东尼奥、很受欢迎的国会议员，愿意在家乡得克萨斯州各地为你助选。</p>",
+      "keys": [
+        "staff.21.300/staff/6006@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "<p><em>Surrogate</em>: Provides a small boost in the states of Michigan, Wisconsin, Ohio and Indiana.</p><p>The incumbent, popular governor of Michigan, Gretchen Whitmer is as much a darling of liberals as she is loathed by conservatives.  Still, she would be willing to campaign throughout Michigan and its neighboring states in support of your campaign.</p>",
+      "sha256": "ef7d437222aec56141f21fc64c73bd67befb7e1f3d6afe566af4178b1b8c3485",
+      "zh": "<p><em>助选代表</em>：在密歇根州、威斯康星州、俄亥俄州和印第安纳州提供小幅加成。</p><p>现任密歇根州州长格雷琴·惠特默很受欢迎。自由派对她有多喜爱，保守派就有多憎恶。不过，她仍愿意在密歇根州及邻州奔走，支持你的竞选。</p>",
+      "keys": [
+        "staff.21.300/staff/6007@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "A group created by allies of Bernie Sanders' 2016 primary campaign that seeks to promote progressive candidates and policies.",
+      "sha256": "8b0196baf24e3435c050d87b4d4446142bdc30960b00a3a03f8d3d52a579eb91",
+      "zh": "由伯尼·桑德斯2016年初选团队的盟友创建的组织，致力于推动进步派候选人和政策。",
+      "keys": [
+        "staff.21.300/lobby/7000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "The American Federation of Labour and Congress of Industrial Organizations is the largest federation of trade unions in the United States.",
+      "sha256": "1bf5382a4f7b08b5c8251076174c306154f696ec61279bcf58187deb82978f87",
+      "zh": "美国劳工联合会—产业工会联合会，是美国最大的工会联合组织。",
+      "keys": [
+        "staff.21.300/lobby/7001@1/description",
+        "staff.20.201/lobby/7003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Bolstered by Democratic fundraiser and philanthropist Karla M. Jurveston, Emily's List seeks to promote women's reproductive healthcare in the United States.",
+      "sha256": "fb5a824b707b60066e34b17cb1a81c40776762cf9936f97e920c2ca2e14d2f55",
+      "zh": "在民主党筹款人和慈善家卡拉·M.·尤尔韦特松支持下，“艾米莉名单”致力于促进美国女性生殖医疗。",
+      "keys": [
+        "staff.21.300/lobby/7002@2/description",
+        "staff.20.201/lobby/7001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "An advocacy group for Arab-American interests, the ADC has recently taken an interest in opposing support for the state of Israel.",
+      "sha256": "c684e8ad9a365e0d1695ccbfb96bbfeb8be060ef10d4f0d2e06229b08e595c97",
+      "zh": "一个维护阿拉伯裔美国人利益的倡议团体。ADC最近开始关注反对支持以色列的问题。",
+      "keys": [
+        "staff.21.300/lobby/7003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Since its formation in 2013, Black Lives Matter has made its lot in Washington supporting social justice for African-Americans.",
+      "sha256": "64371a2b149db76baeeb06d32f6e6fac4400830c26283b2f2d068f40294053f4",
+      "zh": "自2013年成立以来，“黑人的命也是命”运动，在华盛顿致力于支持非裔美国人的社会公正。",
+      "keys": [
+        "staff.21.300/lobby/7004@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>The wife of your second son, Eric, Lara Trump was a former TV producer for Inside Edition, and could bolster the campaign's efforts blanketing the airwaves.</p>",
+      "sha256": "88b216afbbf6d2483235983caccbb3e424373025cbb5958c0cb8d3e8d9f9980c",
+      "zh": "<p><em>媒体经理</em>：提高广告宣传效果。</p><p>你次子埃里克的妻子劳拉·特朗普，曾是《内幕新闻》的电视制作人，可以加强竞选团队覆盖广播电视的宣传工作。</p>",
+      "keys": [
+        "staff.21.301/staff/6000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "<p><em>Speechwriter</em>: Provides a small, permanent boost to all positive statewide effects.</p><p>Despite you and him having a rocky relationship, Sims is nonetheless a talented a talented speechwriter, and could strengthen your campaigning—as long as you stay on prompter.</p>",
+      "sha256": "62366ba383c884265ee3efe1a5f7394757bf1d74260a92637855e79557abbf1b",
+      "zh": "<p><em>演讲撰稿人</em>：对所有正面的全州效果提供小幅永久加成。</p><p>虽然你与西姆斯的关系不太顺利，他仍是一位有才华的演讲撰稿人，能加强你的竞选表现——只要你照着提词器讲。</p>",
+      "keys": [
+        "staff.21.301/staff/6001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "<p><em>Debate Coach</em>: Will highlight the best debate answer.</p><p>Chris Christie is the former governor of New Jersey, and made a splash in the 2016 Primaries working on behalf of your first campaign.  While relations with him have grown cold since then, he's still the best debater in the business, and willing to coach you in preparation for your debates against Joe Biden.</p>",
+      "sha256": "175a8aed064187947ddd13b6c36e44e8d3aa36ada01f57d6ff59699c64f4fbe8",
+      "zh": "<p><em>辩论教练</em>：会突出显示最佳辩论回答。</p><p>克里斯·克里斯蒂曾任新泽西州州长，在2016年初选中为你的首次竞选助力，引起过广泛关注。虽然此后关系转冷，他仍是业内最出色的辩手，愿意辅导你，为与乔·拜登的辩论作准备。</p>",
+      "keys": [
+        "staff.21.301/staff/6002@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "<p><em>Workhorse</em>: Upon being hired, the Workhorse will max out your relationship with the lobby mentioned in his description.</p><p>The husband of your first daughter, Ivanka, Jared Kushner is a Jewish businessman who has served faithfully in the administration as your czar on Israel policy, most notably being the architect of the Abraham Accords.  Bringing him into the campaign would bolster relationship with Jewish voters, and the powerful AIPAC.</p>",
+      "sha256": "ef4a3129e221c3e603f2dbdd3b68ba0dc5d8682b6fecd1f27fe364298aa14a32",
+      "zh": "<p><em>实干家</em>：雇用后，将你与其介绍中提到的游说团体的关系值提升至最高。</p><p>贾里德·库什纳是你长女伊万卡的丈夫，一位犹太裔商人。他在政府中忠诚地负责以色列政策，最引人注目的是策划《亚伯拉罕协议》。让他加入竞选，能加强你与犹太裔选民及强大的美国以色列公共事务委员会的关系。</p>",
+      "keys": [
+        "staff.21.301/staff/6003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "<p><em>Firebrand</em>: Provides a permanent increase to the effectiveness of visits.</p><p>The newly wed wife of your first son, Don Jr., Kimberly Guilfoyle is a passionate supporter of the campaign, and is sure to rile up the MAGA base.</p>",
+      "sha256": "7b5e55603e5b2646b5fdee5c95d648c05795cdefe2efdacfd27ac93f880d9c42",
+      "zh": "<p><em>激情鼓动者</em>：永久提高访问效果。</p><p>你长子小唐纳德的新婚妻子金伯利·吉尔福伊尔，热情支持竞选，肯定能激发“让美国再次伟大”基本盘的情绪。</p>",
+      "keys": [
+        "staff.21.301/staff/6004@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>Your latest Press Secretary, Kayleigh McEnany has served in the role for nearly the entirety of the COVID Pandemic, but has mostly made her fame in spats with the press during questioning.</p>",
+      "sha256": "509a946b214c1edc1fb392a7d7fb36ac62e527887db3277a514be9e9b28ba904",
+      "zh": "<p><em>能言善辩者</em>：永久改善你的随机判定运气。</p><p>你最新的新闻秘书凯莉·麦克纳尼，几乎在整个新冠疫情期间都担任此职，但出名主要靠的是在提问环节与记者争吵。</p>",
+      "keys": [
+        "staff.21.301/staff/6005@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "<p><em>Fundraiser</em>: Permanently increases the effectiveness of fundraising.</p><p>The chairman and CEO of Las Vegas Sands, Sheldon Adelson is a billionaire gambling tycoon.  Despite the economic hit on the gambling industry, Adelson is willing and ready to bankroll your campaign.</p>",
+      "sha256": "4ba6d0d6118d0d1dcd82fe9dfa45a11104f6b23647d0b1d5bd6e4628f3f5cb5e",
+      "zh": "<p><em>筹款人</em>：永久提高筹款效果。</p><p>拉斯维加斯金沙集团董事长兼首席执行官谢尔登·阿德尔森，是一位亿万富翁博彩巨头。尽管博彩业遭受经济冲击，阿德尔森仍愿意并准备好出资支持你的竞选。</p>",
+      "keys": [
+        "staff.21.301/staff/6006@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "<p><em>Surrogate</em>: Provides a small, automatic boost in the state of Michigan.</p><p>Betsy DeVos is a scion of the powerful DeVos family of Michigan politics, and has served since 2017 as your controversial Secretary of Education. In hiring her, you'll be hoping you can use her influence to bring Michigan into your column a second time.</p>",
+      "sha256": "63f818f107efe8987cce05d06362b042f65583a8b034d3515b6dd76bd4a75752",
+      "zh": "<p><em>助选代表</em>：在密歇根州提供小幅自动加成。</p><p>贝齐·德沃斯出身于密歇根州政坛势力强大的德沃斯家族，自2017年起担任你那位备受争议的教育部长。雇用她时，你希望利用她的影响力，让密歇根州再次投向你。</p>",
+      "keys": [
+        "staff.21.301/staff/6007@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "The most prominent organization for promoting the US-Israel alliance, AIPAC seeks to further the close relationship, and is the most important and well-funded group in doing so.",
+      "sha256": "58213e9eb4610909c3b76d9a9672e450e774e489b46917181fe9d37103b199a5",
+      "zh": "美国以色列公共事务委员会，是促进美以联盟的最知名组织，致力于深化两国密切关系，也是这方面最重要、资金最充裕的团体。",
+      "keys": [
+        "staff.21.301/lobby/7000@0/description",
+        "staff.20.200/lobby/7002@2/description",
+        "staff.20.201/lobby/7002@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "One of the most influential lobbies, 'big pharma' as it is derisevely known has been the most signficant roadblock against liberal attempts at reforming US healthcare policy.",
+      "sha256": "0ce9489c5c5fecab7556a29ee8ff3b477d6f0be9ab2c14ae087a6f5df2919bce",
+      "zh": "这是最有影响力的游说团体之一，常被贬称为“制药巨头”。它一直是自由派尝试改革美国医疗政策时最重大的阻碍。",
+      "keys": [
+        "staff.21.301/lobby/7001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "<p><em>Spin Doctor</em>: Opponent's visiting effectiveness is cut in half.</p><p>A good friend of yours and a backer of Ted Cruz in the primaries, Kellyanne Conway is an ambitious strategist willing to work on behalf of the campaign as its manager and in backing 'alternative facts.'</p>",
+      "sha256": "c75833cd30b3aff1f1001f46a0813038834d98038825f7794078153a98e10ef6",
+      "zh": "<p><em>舆论操盘手</em>：使对手的访问效果减半。</p><p>凯莉安·康韦是你的好朋友，初选时支持过特德·克鲁兹。她是富有抱负的策略家，愿意担任竞选经理，为竞选效力，也支持“另类事实”。</p>",
+      "keys": [
+        "staff.20.200/staff/6000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "<p><em>Firebrand</em>: Provides a permanent increase to the effectiveness of visits.</p><p>One of the founders of Breitbart News, Steve Bannon is a darling of the far-right, and has been a crucial ally of your's during the primary.  He's previously been accused of spouting racism and anti-semitism, but who cares?  They spread the same sort of stuff around about you, after all.</p>",
+      "sha256": "0ccae5f25da9e404bc95639041bae87685051825174fda3c3561aa70ca8e7f28",
+      "zh": "<p><em>激情鼓动者</em>：永久提高访问效果。</p><p>史蒂夫·班农是布赖特巴特新闻网的创办者之一，是极右翼的宠儿，也是你初选中的关键盟友。他曾被指责发表种族主义和反犹言论，但谁在乎？毕竟，他们也到处拿同样的话说你。</p>",
+      "keys": [
+        "staff.20.200/staff/6001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>Known simply by 'Omarosa,' Omarosa was a contestant on the first season of your hit, ratings-getting, award-winning reality TV show The Apprentice, and has been a friend of your's since.</p>",
+      "sha256": "7c09b7e89db016085600f3c6729fec40530805703e7ea0510ac836af576997e3",
+      "zh": "<p><em>媒体经理</em>：提高广告宣传效果。</p><p>奥马罗萨·马尼戈，被人们简称为“奥马罗萨”，参加过你那档热门、收视率高又获过奖的真人秀《学徒》第一季，此后一直是你的朋友。</p>",
+      "keys": [
+        "staff.20.200/staff/6002@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>The former mayor of New York City who grew to national fame after 9/11, Rudy Giuliani is hoping to inject that same patriotic magic that's fueled his career since into your longshot campaign.</p>",
+      "sha256": "df6ed54785697ed14b6d7662c799afd9d7737cd54ba1e8993fbea93db14e7e81",
+      "zh": "<p><em>能言善辩者</em>：永久改善你的随机判定运气。</p><p>鲁迪·朱利安尼曾任纽约市市长，“9·11”后在全国声名大振。他希望把此后推动自己事业的那种爱国感染力，注入你这场胜算不大的竞选。</p>",
+      "keys": [
+        "staff.20.200/staff/6003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "<p><em>Kingmaker</em>: Upon being hired your relationship with all lobbies with which you already have a positive relationship will be increased by 10.</p><p>A former lobbyist and a strong conservative, Corey Lewandowski is an experienced political operative, though his competency in front of the press has been put into doubt in the past.</p>",
+      "sha256": "6951855189d70ebe24fde84e0ddced9630aeb8ae1045f1b2b0d5cf2dfbf4861d",
+      "zh": "<p><em>造王者</em>：雇用后，你与所有已建立正面关系的游说团体的关系值提高10。</p><p>科里·莱万多夫斯基曾是说客，也是坚定的保守派。他是经验丰富的政治操盘手，不过，过去在媒体面前的表现曾让人质疑其能力。</p>",
+      "keys": [
+        "staff.20.200/staff/6004@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "<p><em>Debate Coach</em>: Will highlight the best debate answer.</p><p>Nigel Farage is a member of the European Parliament, founder of UKIP and was the architect of the UK's vote to leave the European Union last year, and is one of the few commentators who predict you've got a shot, and as something of a charismatic himself, is willing to fly in to coach you in the coming debate.</p>",
+      "sha256": "d43cd7ea234789930f7f1446141c7f92b44887b1e835b02f664241c88fa865a7",
+      "zh": "<p><em>辩论教练</em>：会突出显示最佳辩论回答。</p><p>奈杰尔·法拉奇是欧洲议会议员、英国独立党创办者，也是英国去年投票脱离欧盟的策划者。他是少数预测你有胜算的评论人士之一，自己也颇有魅力，愿意飞来指导你，为即将到来的辩论作准备。</p>",
+      "keys": [
+        "staff.20.200/staff/6005@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "<p><em>Fundraiser</em>: Permanently increases the effectiveness of fundraising.</p><p>A Wall Street guy and a hedge fund manager, Steve Mnuchin is willing to bankroll your campaign. In return he'll want a job in a hypothetical Trump Administration, of course.</p>",
+      "sha256": "07aa11fd859bb8d921498047c9a4e09264ba21d1aa93a6b7511ad553a8347a4b",
+      "zh": "<p><em>筹款人</em>：永久提高筹款效果。</p><p>史蒂文·姆努钦是华尔街人士、对冲基金经理，愿意出资支持你的竞选。当然，作为回报，如果特朗普政府成立，他会想要一份工作。</p>",
+      "keys": [
+        "staff.20.200/staff/6006@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "<p><em>Surrogate</em>: Provides a small, automatic boost in the states of Wisconsin, Minnesota and Michigan.</p><p>The incumbent governor of Wisconsin, Scott Walker was one of your rivals for the Republican nomination this year, and now is a hesitant supporter.  In bringing him on board, you're hoping he'll be able to swing the states of Wisconsin, Minnesota and Michigan.</p>",
+      "sha256": "aa30ada77526854c535880a4c234673ea18a669c5fa5788019079005799e33dc",
+      "zh": "<p><em>助选代表</em>：在威斯康星州、明尼苏达州和密歇根州提供小幅自动加成。</p><p>现任威斯康星州州长斯科特·沃克，曾是你今年争夺共和党提名的对手之一，如今则犹豫地支持你。请他加入，是希望他能扭转威斯康星州、明尼苏达州和密歇根州的局势。</p>",
+      "keys": [
+        "staff.20.200/staff/6007@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "NumbersUSA is a right-wing group of activists who oppose new immigration to the New United States, and have sought to bolster their influence with Republican policymaking with your candidacy.",
+      "sha256": "c8047db31ce9050a6c6639c7a0b4ac6636fa6823ec1c7f7e5e57496db3f47fc2",
+      "zh": "NumbersUSA是一个反对向“新美国”新增移民的右翼活动团体，并试图借助你的参选，加强自己对共和党政策制定的影响。",
+      "keys": [
+        "staff.20.200/lobby/7000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "The Club For Growth is a conservative PAC that supports open markets.",
+      "sha256": "58235c59cec986d7cb0f4bc3a54f03d9607debca18e7c8164a97c01674e0d570",
+      "zh": "增长俱乐部是支持开放市场的保守派政治行动委员会。",
+      "keys": [
+        "staff.20.200/lobby/7003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "<p><em>Loyalist</em>: Upon being hired, the Loyalist provides a small, permanent boost to all positive global effects.</p><p>Your husband's former Chief of Staff, John Podesta is a competent bureaucrat and Democratic Party operative.</p>",
+      "sha256": "3ce90c5053bbf738d9a0c6a1c60c9cab0848cb647b1e6ae85fb307b54b62802e",
+      "zh": "<p><em>忠诚派</em>：雇用后，对所有正面的全国效果提供小幅永久加成。</p><p>约翰·波德斯塔曾任你丈夫的白宫办公厅主任，是能干的行政官员和民主党政治操盘手。</p>",
+      "keys": [
+        "staff.20.201/staff/6000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>A top aide to Barack Obama in both his election campaigns, Jim Margolis is a top communications director, and would be sure to up your media game, which could be useful against an opponent like Donald Trump.</p>",
+      "sha256": "681bac7cb67db11a20f4184af15d5746b0d594feeec1daf836672a4751b8c756",
+      "zh": "<p><em>媒体经理</em>：提高广告宣传效果。</p><p>吉姆·马戈利斯在贝拉克·奥巴马两次竞选中都是高级助手，是一流的传播主管，肯定能提升你的媒体表现；面对唐纳德·特朗普这样的对手，这可能很有用。</p>",
+      "keys": [
+        "staff.20.201/staff/6001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "<p><em>Kingmaker</em>: Upon being hired your relationship with all lobbies with which you already have a positive relationship will be increased by 10.</p><p>The former acting chair of the DNC, Donna Brazile is a good friend of yours, and 'helped' in your primary win against democratic socalist upstart Bernie Sanders.</p>",
+      "sha256": "8de6edc9b4509493b4245e9c8a8b5ff3d2f7df4cc205573b5e275335af7e1a4f",
+      "zh": "<p><em>造王者</em>：雇用后，你与所有已建立正面关系的游说团体的关系值提高10。</p><p>民主党全国委员会前代理主席唐娜·布拉齐尔，是你的好朋友，也曾“帮助”你在初选中击败民主社会主义新锐伯尼·桑德斯。</p>",
+      "keys": [
+        "staff.20.201/staff/6002@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>The 42nd president of the United States and your husband, Bill Clinton has had a... troubled relationship with you, but separation was never an option for you two; not considering who you both are.  Some of your advisors are urging you to bring Bill closer and make him a more instrumental part of the campaign. Willy's slickness could be of use.</p>",
+      "sha256": "fc09520e8f72cf93cd59c9df4135468f8cf8af8e800684f3ab29d0a53802ef7b",
+      "zh": "<p><em>能言善辩者</em>：永久改善你的随机判定运气。</p><p>美国第42任总统、你的丈夫比尔·克林顿，与你的关系有过……波折，但考虑到你们两人的身份，分开从来不是选项。一些顾问敦促你让比尔更靠近竞选核心，发挥更重要的作用。威利的圆滑手腕也许能派上用场。</p>",
+      "keys": [
+        "staff.20.201/staff/6003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "<p><em>Speechwriter</em>: Provides a small, permanent boost to all positive statewide effects.</p><p>All the best leaders have great speechwriters, and Dan Schwerin is an up-and-coming talent in that field, and a great writer in his own right.  He helped you with writing your memoir, Hard Choices and is now willing to come back on board to help you win this election.</p>",
+      "sha256": "c7923ad39c7dcd954d054fede6cd2f8a28399f361827a9a85221f77347bc4874",
+      "zh": "<p><em>演讲撰稿人</em>：对所有正面的全州效果提供小幅永久加成。</p><p>最优秀的领导者都有出色的演讲撰稿人，丹·施韦林正是这个领域的新秀，本身也是优秀作家。他帮助你写过回忆录《艰难抉择》，如今愿意重新加入，帮助你赢得选举。</p>",
+      "keys": [
+        "staff.20.201/staff/6004@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "<p><em>Workhorse</em>: Upon being hired, the Workhorse will max out your relationship with the lobby mentioned in her description.</p><p>Debbie Wasserman Schultz is a good friend of yours, and also worked to 'help' in your victory against Bernie Sanders in the primaries.  As chair of the DNC, she could even further cement your relationship with the powerful campaign fund.</p>",
+      "sha256": "bbfde094011ee442287bc88eebace58375bff0e231d0d7286646fe8824d5a139",
+      "zh": "<p><em>实干家</em>：雇用后，将你与其介绍中提到的游说团体的关系值提升至最高。</p><p>黛比·沃瑟曼·舒尔茨是你的好朋友，也曾“帮助”你在初选中击败伯尼·桑德斯。作为民主党全国委员会主席，她还能进一步巩固你与这笔强大竞选资金的关系。</p>",
+      "keys": [
+        "staff.20.201/staff/6005@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "<p><em>Wonk</em>: How each answer will effect your relationship with lobbies will now be displayed.</p><p>An expert of matters of foreign policy, Jake Sullivan is a young operative ready to make his mark in Washington, and help with cementing your positions on the policies of the day.</p>",
+      "sha256": "413d7afd2135bd6430603726d2db49621c933dead84c5ef74d8d0775a2bedf76",
+      "zh": "<p><em>政策通</em>：现在会显示每个回答将如何影响你与游说团体的关系。</p><p>杰克·沙利文是外交政策专家，一位准备在华盛顿崭露头角的年轻政治工作人员，能帮助你巩固在当下政策议题上的立场。</p>",
+      "keys": [
+        "staff.20.201/staff/6006@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "<p><em>Surrogate</em>: Provides a small, automatic boost in the states of Colorado, New Mexico, Arizona, Utah and Nevada.</p><p>Ken Salazar is the former senator from Colorado, and once was Obama's Secretary of the Interior. He remains widely popular in his home state and in the Southwest generally, and is willing to campaign on your behalf in the region.</p>",
+      "sha256": "f195118623ddd2a1a17760118fdcf7b31108fec987f6b7ce88fd1b98dddce3ff",
+      "zh": "<p><em>助选代表</em>：在科罗拉多州、新墨西哥州、亚利桑那州、犹他州和内华达州提供小幅自动加成。</p><p>肯·萨拉查曾任科罗拉多州参议员，也当过奥巴马的内政部长。他在家乡和西南地区总体上仍广受欢迎，愿意在当地为你助选。</p>",
+      "keys": [
+        "staff.20.201/staff/6007@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "<p><em>Trojan Horse</em>: Upon hiring the Trojan Horse, Evan McMullin receives a large, automatic boost to his numbers in Utah at the expense of Donald Trump.</p><p>Evan McMullin is an independent candidate for president out of the state of Utah, and seeks to win enough center-right and independent voters in the state to snag its electoral votes and deadlock the election.  While nominally an independent, McMullin's and your goals could align, and some targeted funding (made discreetly, of course!) could go a long way to bolstering his candidacy.</p>",
+      "sha256": "a0799f6730989c1cdfceeb5152754638a00af972624ca04eb437aece428f65a7",
+      "zh": "<p><em>特洛伊木马</em>：雇用后，埃文·麦克马林在犹他州的数值获得大幅自动加成，代价是唐纳德·特朗普的数值下降。</p><p>来自犹他州的独立总统候选人埃文·麦克马林，试图在该州争取足够多的中间偏右及独立选民，拿下选举人票，使选举陷入僵局。虽然名义上独立，他与你的目标可能一致。定向提供一些资金——当然要低调——或许能大大增强他的竞选。</p>",
+      "keys": [
+        "staff.20.201/staff/6008@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "A nascent PAC, the Immigrants' List is a bipartisan group seeking to protect immigration in the country.",
+      "sha256": "27637373ec20211bd5c539e0a2fb4874770df43c3ef6d2e642f0911892911bb5",
+      "zh": "“移民名单”是一个新兴的政治行动委员会，由两党人士组成，旨在维护美国的移民事业。",
+      "keys": [
+        "staff.20.201/lobby/7000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

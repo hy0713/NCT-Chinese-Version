@@ -1,0 +1,1139 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2020-a",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 456,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 0,
+      "reason": "Original pull of understood pull off; electoral coalition not formal coalition government."
+    },
+    {
+      "index": 9,
+      "reason": "Original his heart wasn't it read heart wasn't in it; MasterClass allusion author source not certified."
+    },
+    {
+      "index": 10,
+      "reason": "Original claim first president/VPduo win/complete2fullelections ambiguous and requires historic check; English untouched, Chinese contextual two elections/terms for both figures."
+    },
+    {
+      "index": 11,
+      "reason": "IncompleteHTML fragment and350votes maintained; fictional secret rigging conjecture not verified historical event."
+    },
+    {
+      "index": 12,
+      "reason": "Trailing runtime name insertion preserved; district and state wins not merged."
+    },
+    {
+      "index": 13,
+      "reason": "Leading fragment/punctuation retained for runtime name assembly."
+    },
+    {
+      "index": 19,
+      "reason": "Original a state or two to Trump understood conditional lost extra states, no numeric alteration."
+    },
+    {
+      "index": 20,
+      "reason": "Original one electoral vote margin claim preserved despite possible arithmetic distinction270neededvsmajoritymargin; note needed."
+    },
+    {
+      "index": 28,
+      "reason": "StopSteal/Biden/Jan6 plot is deliberately reversed alternate-history satire; not actual Biden conduct."
+    },
+    {
+      "index": 29,
+      "reason": "Original malformed unclosedp retained; Freedom Police fictional dictatorship narrative."
+    },
+    {
+      "index": 30,
+      "reason": "Peacefully/patriotically ironic threatening context retained, not endorsement or legal instruction."
+    },
+    {
+      "index": 32,
+      "reason": "Bigly exaggerated colloquial voice; candidate suicides/medical event and dream fictional not actual claims."
+    },
+    {
+      "index": 36,
+      "reason": "RINO expanded名义上的共和党人, derisive in-party epithet not zoology."
+    },
+    {
+      "index": 37,
+      "reason": "Comparing modern electoral total to Washington must account differing ElectoralCollege sizes; original claims unchanged."
+    },
+    {
+      "index": 38,
+      "reason": "Leading incomplete ending fragment intact with closingp tag; runtime prefix not guessed."
+    },
+    {
+      "index": 45,
+      "reason": "Election ghosts past/present/future alludes ChristmasCarol but source yet to verify; preserve satire, actual deaths not causes election loss."
+    },
+    {
+      "index": 52,
+      "reason": "Original2019impeachmenttrial retained; Houseimpeachment2019/Senatetrial2020distinction needs note; Ukranian typo interpreted Ukrainian."
+    },
+    {
+      "index": 59,
+      "reason": "OriginalBarret spelling retained English; Chinese通行巴雷特."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>Joe Biden and Donald Trump face off in a heated 2020 election campaign. Held in the wake of a COVID-19 pandemic and nationwide protests, turnout is expected to be through the roof. Can Joe Biden hold together a large enough coalition of anti-Trump voters to make Trump a one-term President, or will Trump pull of another huge upset after trailing in the polls?</p>",
+      "sha256": "ac019f203734b0b5f5924d49dbde0844c6c8973472fd2e88a57ccb2637c6221c",
+      "zh": "<p>乔·拜登与唐纳德·特朗普在激烈的2020年选战中正面对决。经历新冠疫情和全国性的抗议之后，预计投票率会极高。乔·拜登能否维系一个足够庞大的反特朗普选民联盟，让特朗普只做一届总统？还是说，特朗普会在民调落后的情况下，再一次大爆冷门？</p>",
+      "keys": [
+        "base/election_json/21@0/summary"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<h3>Congratulations! You have won the 2020 election.</h3><p>Things may have been closer and more contested than you hoped for, but the final result remains. Can you help bring the country back together after a tumultuous few years? Or will you be seen as a lame duck from the first day -- unable to keep the two wings of your party coordinated? Time will tell.</p>",
+      "sha256": "1531bc7c53a15d6a9401c5f9bf0ab83f5cfeb5ddcc3a49f5d0a25e7aaa07d975",
+      "zh": "<h3>恭喜！你赢得了2020年大选。</h3><p>竞争也许比你希望的更接近，争议也更大，但最终结果已经确定。经过几年的动荡，你能帮助这个国家重新团结起来吗？还是会从第一天就被视为跛脚鸭，无法让党内两派协调一致？时间会给出答案。</p>",
+      "keys": [
+        "base/candidate_json/300@175/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry! You have lost the 2020 election.</h3><p>After an election in which many of your supporters claimed democracy itself was at stake, what happens now? Perhaps the party will need to go in a completely different direction in 2024. As for yourself, it seems that your long, illustrious political career has surely drawn to a close.</p>",
+      "sha256": "44f0e4ec278b63954bcdd59d6e6883a410b424a86348bc010cab928475d80081",
+      "zh": "<h3>很遗憾！你输掉了2020年大选。</h3><p>许多支持者曾说，这场选举关系到民主本身的存亡。如今又该怎么办？也许，到了2024年，本党需要走一条截然不同的路线。至于你本人，看来漫长而辉煌的政治生涯确实已经落幕。</p>",
+      "keys": [
+        "base/candidate_json/300@175/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "<h3>Sorry! You have lost the 2020 election.</h3><p>In spite of the 269-269 tie in the electoral college, Republicans control a majority of state delegations in the House of Representatives. After an election in which many of your supporters claimed democracy itself was at stake, what happens now? Perhaps the party will need to go in a completely different direction in 2024.</p>",
+      "sha256": "36055bb5d13e26330dee8ed6848c60a4edcee2d113cffc23dc7f296bad2688af",
+      "zh": "<h3>很遗憾！你输掉了2020年大选。</h3><p>尽管选举人票以269比269打平，共和党却掌握众议院多数州代表团。许多支持者曾说，这场选举关系到民主本身的存亡。如今又该怎么办？也许，到了2024年，本党需要走一条截然不同的路线。</p>",
+      "keys": [
+        "base/candidate_json/300@175/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>Congratulations! You have won the 2020 election.</h3><p>For the second time in a row, many analysts saw a victory for you as practically impossible. But whatever they say, it is clear that your Make America Great Again agenda has been vindicated. Where do you take things from here?</p>",
+      "sha256": "2cdc7d2b282b7b3c9ab727193f934504e58b88b0c440e6e11e3554b58942fcf2",
+      "zh": "<h3>恭喜！你赢得了2020年大选。</h3><p>许多分析人士连续第二次认为，你获胜几乎是不可能的。但不管他们怎么说，显然，你的“让美国再次伟大”议程得到了选民肯定。接下来，你会把事情带向何方？</p>",
+      "keys": [
+        "base/candidate_json/301@176/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "<h3>Sorry! You have lost the 2020 election.</h3><p>After an election in which many of your supporters claimed democracy itself was at stake, what happens now? Many analysts believe the party will need to go in a completely different direction next time. As for yourself, will you take these results sitting down, or will you prepare yourself for an epic political comeback in 2024?</p>",
+      "sha256": "0fa9a720b0fb8c60588cdaa4c0bbcebc2b685f0ca48ccfbed63a503461f84cbd",
+      "zh": "<h3>很遗憾！你输掉了2020年大选。</h3><p>许多支持者曾说，这场选举关系到民主本身的存亡。如今又该怎么办？许多分析人士认为，本党下次需要走一条截然不同的路线。至于你本人，是会忍气吞声地接受结果，还是准备在2024年上演一场惊人的政治回归？</p>",
+      "keys": [
+        "base/candidate_json/301@176/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>Congratulations! You have won the 2020 election.</h3><p>In spite of the 269-269 tie in the electoral college, Republicans control a majority of state delegations in the House of Representatives. A lot of liberals are absolutely distraught and outraged that the election came down to such a technicality, but hey, those are the rules!</p>",
+      "sha256": "0f287af51ddc6dc4faf2020b22acc879b82332080cfa0863fc44b9a97c68455c",
+      "zh": "<h3>恭喜！你赢得了2020年大选。</h3><p>尽管选举人票以269比269打平，共和党却掌握众议院多数州代表团。许多自由派因选举最终取决于这样一个程序细节而悲愤交加。不过，嘿，规则就是如此！</p>",
+      "keys": [
+        "base/candidate_json/301@176/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Sorry, you lost the 2020 election.",
+      "sha256": "81bc0d818a38f6a53d2793377d61b3e2830fbbe9e46915154151b25fd3db4c51",
+      "zh": "很遗憾，你输掉了2020年大选。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l13.c13/text",
+        "2020_Biden_Rice/ending/s0.l13.c13/text",
+        "2020_Biden_Duckworth/ending/s0.l13.c13/text",
+        "2020_Biden_Demings/ending/s0.l13.c13/text",
+        "2020_Biden_Bass/ending/s0.l13.c13/text",
+        "2020_Biden_Whitmer/ending/s0.l13.c13/text",
+        "2020_Biden_Warren/ending/s0.l13.c13/text",
+        "2020_Trump_Pence/ending/s0.l13.c13/text",
+        "2020_Trump_Haley/ending/s0.l13.c13/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Congratulations! You won the 2020 election!",
+      "sha256": "ad98624163c9c8117101b46feada9a3e7dcb32129e230522ad9bf660d5cf78c3",
+      "zh": "恭喜！你赢得了2020年大选！",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l46.c13/text",
+        "2020_Biden_Rice/ending/s0.l46.c13/text",
+        "2020_Biden_Duckworth/ending/s0.l46.c13/text",
+        "2020_Biden_Demings/ending/s0.l46.c13/text",
+        "2020_Biden_Bass/ending/s0.l46.c13/text",
+        "2020_Biden_Whitmer/ending/s0.l46.c13/text",
+        "2020_Biden_Warren/ending/s0.l46.c13/text",
+        "2020_Trump_Pence/ending/s0.l46.c13/text",
+        "2020_Trump_Haley/ending/s0.l46.c13/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Trump and his supporters are riotous. As he gives a speech, making massive promises for his next term, your team is despondent. Is this the end of moderate Democrats? Progressives are already yelling that this wouldn't have happened if Bernie had been the nominee. Others point to the age of you and Hillary and wonder if a younger, Obama-like candidate is what they need again. Speaking of him, Obama has called you and tried to cheer you up, but his heart wasn't it. Democrats have once again lost to a candidate many among them consider to be perhaps the worst President in history; you are certain to take the blame for this loss. Your political career is over, in any case. Maybe you can do a Masterclass where you read out your victory speech anyway?",
+      "sha256": "58ccf829bf8251550b838408d7e91ff76e022a29aea89959ccef774c0eacc5e1",
+      "zh": "特朗普及其支持者欢腾不已。他正在发表演说，为下个任期许下宏大的承诺，你的团队却垂头丧气。温和派民主党人要就此落幕了吗？进步派已经大喊，要是提名人是伯尼，就不会发生这种事。还有人提起你和希拉里的年龄，琢磨是否需要再找一位奥巴马式的年轻候选人。说到他，奥巴马打来电话，试图让你振作，却也没什么底气。民主党又一次败给了一个他们当中许多人视为可能是史上最差总统的候选人，你必然要为这次失败承担责任。无论如何，你的政治生涯结束了。也许可以录一堂MasterClass课，把你的胜选演说念出来？",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l53.c23/text",
+        "2020_Biden_Rice/ending/s0.l53.c23/text",
+        "2020_Biden_Duckworth/ending/s0.l53.c23/text",
+        "2020_Biden_Demings/ending/s0.l53.c23/text",
+        "2020_Biden_Bass/ending/s0.l53.c23/text",
+        "2020_Biden_Whitmer/ending/s0.l53.c23/text",
+        "2020_Biden_Warren/ending/s0.l53.c23/text",
+        "2020_Trump_Pence/ending/s0.l53.c23/text",
+        "2020_Trump_Haley/ending/s0.l53.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "You will most certainly have to fend off legal charges of election rigging over the next few months (and the accusations that come with that for the next few years), but other than that, hopefully, you can close the COVID-19 chapter of America, and pass that infrastructure bill. Voting security is also a new hot button issue, which hopefully you can secure for generations of young Americans to come. If all goes well, you and Obama can be the first president and vice president duo to win and complete 2 full elections. Let's hope you stay healthy. You are the oldest president, after all…",
+      "sha256": "761446e37a5db14ffbfa22f497dc2f0be0671c51b751aaea5ce35b040f62fde8",
+      "zh": "接下来几个月，你肯定得应对指控选举被操纵的诉讼，此后几年还要面对相应的指责。除此之外，希望你能让美国走出新冠疫情，推动通过那项基础设施法案。投票安全也成了新的热门争议，希望你能为未来几代年轻美国人保障它。如果一切顺利，你和奥巴马就能成为第一对各自赢得两次选举、完成相应任期的总统与副总统搭档。希望你保持健康，毕竟，你是年龄最大的总统……",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l57.c23/text",
+        "2020_Biden_Rice/ending/s0.l57.c23/text",
+        "2020_Biden_Duckworth/ending/s0.l57.c23/text",
+        "2020_Biden_Demings/ending/s0.l57.c23/text",
+        "2020_Biden_Bass/ending/s0.l57.c23/text",
+        "2020_Biden_Whitmer/ending/s0.l57.c23/text",
+        "2020_Biden_Warren/ending/s0.l57.c23/text",
+        "2020_Trump_Pence/ending/s0.l57.c23/text",
+        "2020_Trump_Haley/ending/s0.l57.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": " votes?</h3><p>That was the strained voice of Elizabeth Warren, sitting around a table near the Senate floor in Washington DC. Accompanying her was Joe Manchin, Chuck Schumer, and a few other high-profile Democrats senators. 'I still can't wrap my mind around it' Manchin hoarsely says to the table. 'He shouldn't have even gotten more than 350 votes on a good day, but he eclipsed that by a lot.' Nobody responded, they just looked around nervously. 'Do you think, he, you know... rigged it? Not trying to be a conspiracy theorist, but c'mon. This is unprecedented. Everyone remained silent. To the surprise of them, if they could verify it accurately, none of them knew of any plot of this calibre. The only person who might have known anything was Biden, and he hasn't responded to any calls. Had the US finally, truly, visually, had their democratic process violated?</p>",
+      "sha256": "06c4811f0f0b3f597fe6e0c2f01a0d5e30561325a824ccc823ba26a72608740e",
+      "zh": " 票？</h3><p>这是伊丽莎白·沃伦紧绷的声音。她坐在华盛顿特区参议院议场附近的一张桌子旁，同席还有乔·曼钦、查克·舒默，以及几位知名民主党参议员。“我还是想不明白。”曼钦声音沙哑地对众人说，“就算一切顺风顺水，他也不该拿到超过350票，可他远远超过了这个数。”没人回答，只是紧张地环顾四周。“你们觉得，他，你们懂的……操纵了选举？我不是想当阴谋论者，可是，拜托，这太前所未有了。”所有人依旧沉默。让他们意外的是，即使要准确查证，也没有一个人知道存在如此规模的阴谋。唯一可能知道些什么的是拜登，但他没有接听任何电话。美国的民主程序，难道终于真的、明摆着遭到了破坏？</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l73.c23/text",
+        "2020_Biden_Rice/ending/s0.l73.c23/text",
+        "2020_Biden_Duckworth/ending/s0.l73.c23/text",
+        "2020_Biden_Demings/ending/s0.l73.c23/text",
+        "2020_Biden_Bass/ending/s0.l73.c23/text",
+        "2020_Biden_Whitmer/ending/s0.l73.c23/text",
+        "2020_Biden_Warren/ending/s0.l73.c23/text",
+        "2020_Trump_Pence/ending/s0.l73.c23/text",
+        "2020_Trump_Haley/ending/s0.l73.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "You've don- wait. What? You've, uh, really won there, haven't you? You flipped more than Texas, more than Maine's 2nd district. You've flipped states that haven't gone blue since Clinton, Carter, and/or Lyndon Johnson! Well done, I guess. You're getting flooded with calls, including one from ",
+      "sha256": "c9367062d06e2fb8e72c6b2d838b9f410306e82b791fcd044ad7c7b3c31b1b98",
+      "zh": "你做到——等等，什么？你，呃，还真赢得够多啊？你翻蓝的可不止得克萨斯州，也不止缅因州第二国会选区。你拿下了一些自克林顿、卡特，甚至林登·约翰逊以来都没有投向民主党的州！好吧，干得不错。电话铺天盖地地打来，其中一通来自",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l77.c18/text",
+        "2020_Biden_Rice/ending/s0.l77.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l77.c18/text",
+        "2020_Biden_Demings/ending/s0.l77.c18/text",
+        "2020_Biden_Bass/ending/s0.l77.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l77.c18/text",
+        "2020_Biden_Warren/ending/s0.l77.c18/text",
+        "2020_Trump_Pence/ending/s0.l77.c18/text",
+        "2020_Trump_Haley/ending/s0.l77.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": ". She's a bit confused about how you did this well, as are other top Democrats. Many Republicans are demanding recounts and investigations immediately, and most Democrats are silent on calling them out. Good luck over the next few months...",
+      "sha256": "9fa9c6e2d29c77fa436f4f747e0b9f3b5fd3a2c0ad29b8a127838afd37aedc0c",
+      "zh": "。她对你怎么会赢得这么好有点困惑，其他民主党高层也一样。许多共和党人立即要求重新计票和调查，而大多数民主党人没有出面批评这些要求。祝你未来几个月好运……",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l77.c356/text",
+        "2020_Biden_Rice/ending/s0.l77.c356/text",
+        "2020_Biden_Duckworth/ending/s0.l77.c356/text",
+        "2020_Biden_Demings/ending/s0.l77.c356/text",
+        "2020_Biden_Bass/ending/s0.l77.c356/text",
+        "2020_Biden_Whitmer/ending/s0.l77.c356/text",
+        "2020_Biden_Warren/ending/s0.l77.c356/text",
+        "2020_Trump_Pence/ending/s0.l77.c356/text",
+        "2020_Trump_Haley/ending/s0.l77.c356/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. But MY GOD. What a win. Not only have you won back the states he took from Obama, but you also won some states not won since before the turn of the century. Even Democrats are shocked at what you've managed to do. Trump and every Republican, Trumpist or not, is raising hell that you rigged the election. It seems the magical Trump poll effect couldn't save him this time...",
+      "sha256": "476e0517592df11d4c0afb886db21ce787351c7645210326477e41cf05202eeb",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。但天哪，这是何等的胜利！你不仅夺回了他从奥巴马手里抢走的州，还赢下了世纪之交前就没再投向民主党的一些州。连民主党人都对你的成绩感到震惊。特朗普和所有共和党人，无论是不是特朗普派，都在大吵大闹，说你操纵了选举。看来，这次神奇的特朗普民调效应也救不了他了……",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l81.c18/text",
+        "2020_Biden_Rice/ending/s0.l81.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l81.c18/text",
+        "2020_Biden_Demings/ending/s0.l81.c18/text",
+        "2020_Biden_Bass/ending/s0.l81.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l81.c18/text",
+        "2020_Biden_Warren/ending/s0.l81.c18/text",
+        "2020_Trump_Pence/ending/s0.l81.c18/text",
+        "2020_Trump_Haley/ending/s0.l81.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. Your margin, however, is shocking, even to Democrats. You have flipped at least 5 states blue and completely embarrassed the Republicans. With or without those runoff elections in Georgia, you will control the Senate after this commanding win. Republicans are already declaring this the most fraudulent election ever, and demanding recounts. ",
+      "sha256": "82ab5c0e0d36a365b22307aeb8ac9bf0f6958c0c96938c12bd3098423b552671",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。不过，你的优势连民主党人都感到震惊。你至少把五个州翻成了蓝色，让共和党颜面尽失。无论佐治亚州决选结果如何，在这场压倒性胜利之后，你都会掌控参议院。共和党已经宣称这是有史以来舞弊最严重的选举，并要求重新计票。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l85.c18/text",
+        "2020_Biden_Rice/ending/s0.l85.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l85.c18/text",
+        "2020_Biden_Demings/ending/s0.l85.c18/text",
+        "2020_Biden_Bass/ending/s0.l85.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l85.c18/text",
+        "2020_Biden_Warren/ending/s0.l85.c18/text",
+        "2020_Trump_Pence/ending/s0.l85.c18/text",
+        "2020_Trump_Haley/ending/s0.l85.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. It seems the polls were more accurate this time around, even if they were a bit off, as numerous states in 2016 that Trump won, went to you.",
+      "sha256": "1cdbd6eb6c116e71ad22181a466fc4f45673d7320b1e95d6597341c20ef071a0",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。看来，这次民调更准确了，虽然仍有一些偏差，但特朗普2016年赢下的多个州，都投向了你。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l89.c18/text",
+        "2020_Biden_Rice/ending/s0.l89.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l89.c18/text",
+        "2020_Biden_Demings/ending/s0.l89.c18/text",
+        "2020_Biden_Bass/ending/s0.l89.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l89.c18/text",
+        "2020_Biden_Warren/ending/s0.l89.c18/text",
+        "2020_Trump_Pence/ending/s0.l89.c18/text",
+        "2020_Trump_Haley/ending/s0.l89.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. You managed to outdo Trump four years prior and break his lock on the rust belt and sunbelt. It seems Democrats have learned from their loss back in 2016. The Senate remains hanging in the balance, however, due to two runoff elections in Georgia, but your victory will certainly help. Republicans are calling foul play, but you knew that would happen. ",
+      "sha256": "f9959842574df9afc293857f8f3d4917c3eb975eacfb0210ce598c5801d9a08e",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。你的成绩超过四年前的特朗普，打破了他对铁锈地带和阳光地带的掌控。看来，民主党已从2016年的失败中吸取教训。不过，由于佐治亚州有两场决选，参议院控制权仍悬而未决，但你的胜利肯定会有所帮助。共和党人指责有人作弊，可你早就知道他们会这么说。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l93.c18/text",
+        "2020_Biden_Rice/ending/s0.l93.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l93.c18/text",
+        "2020_Biden_Demings/ending/s0.l93.c18/text",
+        "2020_Biden_Bass/ending/s0.l93.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l93.c18/text",
+        "2020_Biden_Warren/ending/s0.l93.c18/text",
+        "2020_Trump_Pence/ending/s0.l93.c18/text",
+        "2020_Trump_Haley/ending/s0.l93.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. Your margin, which clocks in at 306 electoral votes exactly, is certainly humorous, as that's the amount Trump had 4 years ago. The Senate remains hanging in the balance, due to two runoff elections in Georgia. Republicans are calling foul play, but you knew that would happen.",
+      "sha256": "7aa1e3af6f0aeb45bbc4d014797a9f2fafab2806f35d72a1de2cc21a1797311b",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。你恰好拿到306张选举人票，实在有点好笑，因为特朗普四年前拿到的就是这个数。由于佐治亚州有两场决选，参议院控制权仍悬而未决。共和党人指责有人作弊，可你早就知道他们会这么说。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l97.c18/text",
+        "2020_Biden_Rice/ending/s0.l97.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l97.c18/text",
+        "2020_Biden_Demings/ending/s0.l97.c18/text",
+        "2020_Biden_Bass/ending/s0.l97.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l97.c18/text",
+        "2020_Biden_Warren/ending/s0.l97.c18/text",
+        "2020_Trump_Pence/ending/s0.l97.c18/text",
+        "2020_Trump_Haley/ending/s0.l97.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. It was a close shave, however, you just barely made it in. a state or two to Trump and it would be all different. Democrats are happy, albeit a bit disappointed, and the Senate remains hanging in the balance. Republicans already call foul play, but you knew that would happen.",
+      "sha256": "1d492c917ab6232f610f4bd4d0e8e52a541369971c511e8e84e6ffdb42563cac",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。不过，你只是险胜，勉强跨过门槛。再有一两个州投给特朗普，结果就全变了。民主党人很高兴，虽然也有点失望，参议院控制权仍悬而未决。共和党已经指责有人作弊，可你早就知道他们会这么说。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l101.c18/text",
+        "2020_Biden_Rice/ending/s0.l101.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l101.c18/text",
+        "2020_Biden_Demings/ending/s0.l101.c18/text",
+        "2020_Biden_Bass/ending/s0.l101.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l101.c18/text",
+        "2020_Biden_Warren/ending/s0.l101.c18/text",
+        "2020_Trump_Pence/ending/s0.l101.c18/text",
+        "2020_Trump_Haley/ending/s0.l101.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "You've done it. The terror that has been the Trump administration comes to a close with your win tonight. They say third times the charm, and you certainly proved it tonight. But my, my, by a single vote in the electoral college you did. This is one of the closest elections in US history, and you can be sure that Republicans everywhere, Trumpians or not, will be fuming at this result, and calling foul play. Be prepared for 2000 all over again.",
+      "sha256": "445d4ce8df28a3307e13e0ed63e12e9e173e1bbfea3e7cd3553c2ea2e6ee73f8",
+      "zh": "你做到了。今晚的胜利，终结了特朗普政府带来的可怕岁月。俗话说，事不过三，你今晚确实证明了这一点。可是，天哪，你在选举人团中只靠一票优势获胜。这是美国历史上最接近的选举之一。你可以肯定，各地共和党人，无论是不是特朗普派，都会对结果怒不可遏，指责有人作弊。准备好再经历一次2000年吧。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l105.c18/text",
+        "2020_Biden_Rice/ending/s0.l105.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l105.c18/text",
+        "2020_Biden_Demings/ending/s0.l105.c18/text",
+        "2020_Biden_Bass/ending/s0.l105.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l105.c18/text",
+        "2020_Biden_Warren/ending/s0.l105.c18/text",
+        "2020_Trump_Pence/ending/s0.l105.c18/text",
+        "2020_Trump_Haley/ending/s0.l105.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "You came within an inch of victory, yet couldn't make it over the last hurdle. Despite polling showing you being up for most of the campaign, you still couldn't beat 'the Donald'. With an unusual electoral coalition, you were two electoral votes from being carried to victory. Despite this, Democrats have kept the house, and will likely take the Senate after two runoff elections in Georgia. Regardless, your loss at the top of the ticket is bitter.",
+      "sha256": "c9aba2012162c85da0279f464d360251f9ad62c5641927eb275f00057b471a0f",
+      "zh": "你离胜利只差一步，却没能跨过最后一道障碍。尽管竞选的大部分时间里，民调都显示你领先，你仍未击败“唐纳德”。凭借一个不同寻常的选民联盟，你只差两张选举人票就能获胜。尽管如此，民主党保住了众议院，而且很可能在佐治亚州两场决选后拿下参议院。不过，你在总统竞选上的败北仍令人痛苦。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l109.c18/text",
+        "2020_Biden_Rice/ending/s0.l109.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l109.c18/text",
+        "2020_Biden_Demings/ending/s0.l109.c18/text",
+        "2020_Biden_Bass/ending/s0.l109.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l109.c18/text",
+        "2020_Biden_Warren/ending/s0.l109.c18/text",
+        "2020_Trump_Pence/ending/s0.l109.c18/text",
+        "2020_Trump_Haley/ending/s0.l109.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "In a nail-biter, you lost. Despite polling showing you being up for most of the campaign, Trump has come back at the last minute with a shocking victory. With an extremely slight electoral margin of victory, Donald Trump will be the next President. The House remains in Democratic hands, though the Senate will be decided by two upcoming Senate elections in Georgia.",
+      "sha256": "13e14d2a1b4f60d24ddb1a685a0fbb38914494f49fc1e1af6349ed02cb80e1fe",
+      "zh": "经过一场令人屏息的胶着较量，你输了。尽管竞选的大部分时间里，民调都显示你领先，特朗普却在最后关头反扑，赢得惊人的胜利。凭借极其微弱的选举人票优势，唐纳德·特朗普将成为下一任总统。众议院仍由民主党掌控，但参议院将取决于佐治亚州即将举行的两场参议员选举。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l113.c18/text",
+        "2020_Biden_Rice/ending/s0.l113.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l113.c18/text",
+        "2020_Biden_Demings/ending/s0.l113.c18/text",
+        "2020_Biden_Bass/ending/s0.l113.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l113.c18/text",
+        "2020_Biden_Warren/ending/s0.l113.c18/text",
+        "2020_Trump_Pence/ending/s0.l113.c18/text",
+        "2020_Trump_Haley/ending/s0.l113.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "In a shocker, you lost. Polling showed that you were <em>expected</em> to win, yet bitter defeat came instead. You've slightly outperformed Hillary, which is something to be happy about, at least. Regardless, Democrats have narrowly held on to the House, and will, fortunately, be able to prevent Trump from passing the worst excesses of his agenda. With 2022 likely to be a firmly Democratic environment, this isn't the worst possible outcome.",
+      "sha256": "a6026a9901e175d4853a44b10b4b0407792a761ecc02069857789345e09f4248",
+      "zh": "出人意料，你输了。民调显示，你<em>本应</em>获胜，迎来的却是苦涩失败。你的成绩略好于希拉里，至少这值得高兴。无论如何，民主党勉强保住了众议院，幸好能阻止特朗普推行其议程中最极端的部分。2022年很可能有利于民主党，所以这还不是最坏的结果。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l117.c18/text",
+        "2020_Biden_Rice/ending/s0.l117.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l117.c18/text",
+        "2020_Biden_Demings/ending/s0.l117.c18/text",
+        "2020_Biden_Bass/ending/s0.l117.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l117.c18/text",
+        "2020_Biden_Warren/ending/s0.l117.c18/text",
+        "2020_Trump_Pence/ending/s0.l117.c18/text",
+        "2020_Trump_Haley/ending/s0.l117.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "In a shocker, you lost. Polling showed that you were <em>expected</em> to win, yet bitter defeat came instead. Ironically, you've lost by the exact margin Hillary did in 2016. Republicans have extremely narrowly clinched the House, in a massive upset. With an effective reset back to 2016, many wonder about the future of the Democratic party itself. Hopefully, 2022 will be able to deliver a blow to Trump's agenda.",
+      "sha256": "cb2b5e831099300a053bd09e070d48bf3f5561c33bc8c24f155ebdbf14e2792c",
+      "zh": "出人意料，你输了。民调显示，你<em>本应</em>获胜，迎来的却是苦涩失败。讽刺的是，你落败的差距与希拉里2016年完全相同。共和党以极其微弱的优势爆冷拿下众议院。局面实际上退回了2016年，许多人开始怀疑民主党本身的未来。希望2022年能给特朗普的议程迎头一击。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l121.c18/text",
+        "2020_Biden_Rice/ending/s0.l121.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l121.c18/text",
+        "2020_Biden_Demings/ending/s0.l121.c18/text",
+        "2020_Biden_Bass/ending/s0.l121.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l121.c18/text",
+        "2020_Biden_Warren/ending/s0.l121.c18/text",
+        "2020_Trump_Pence/ending/s0.l121.c18/text",
+        "2020_Trump_Haley/ending/s0.l121.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "You lost, badly. Even worse than Hillary did in 2016. Congress is comfortably in Republican hands. Trump now has a strong mandate to pass his agenda, and Democrats can only hope that the Republicans won't abolish the filibuster as Trump has just suggested. Democrats' only hope here is for 2022 to return them to a majority in one house of Congress, thereby allowing them to block Trump's more egregious legislation.",
+      "sha256": "1248df8294f6bcbd286cadf5e3e9a835fb3678e228cd3889771f18a58e63793d",
+      "zh": "你输了，输得很惨，比希拉里2016年还惨。共和党稳稳掌控国会。特朗普如今获得了推行议程的有力授权，民主党只能希望共和党不会像特朗普刚刚建议的那样，废除冗长辩论机制。民主党唯一的希望，是2022年重新取得国会某一院的多数席位，从而阻止特朗普更加恶劣的立法。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l125.c18/text",
+        "2020_Biden_Rice/ending/s0.l125.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l125.c18/text",
+        "2020_Biden_Demings/ending/s0.l125.c18/text",
+        "2020_Biden_Bass/ending/s0.l125.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l125.c18/text",
+        "2020_Biden_Warren/ending/s0.l125.c18/text",
+        "2020_Trump_Pence/ending/s0.l125.c18/text",
+        "2020_Trump_Haley/ending/s0.l125.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Dear god... ",
+      "sha256": "8cb0a6a366b9f941742b6d03cbeaa759cd2e4d91641402753ed03abf064395d3",
+      "zh": "天哪……",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l129.c18/text",
+        "2020_Biden_Rice/ending/s0.l129.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l129.c18/text",
+        "2020_Biden_Demings/ending/s0.l129.c18/text",
+        "2020_Biden_Bass/ending/s0.l129.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l129.c18/text",
+        "2020_Biden_Warren/ending/s0.l129.c18/text",
+        "2020_Trump_Pence/ending/s0.l129.c18/text",
+        "2020_Trump_Haley/ending/s0.l129.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": " electoral votes.... With this margin of victory, Trump will be working with a strong Republican Congress, and he'll be able to easily pass his agenda. With this strong of a mandate for his agenda, there is little Democrats can do to stop Trump from continuing in the manner he did pre-2018. Hopefully, 2022 will be able to equalize things....",
+      "sha256": "c193eb6e72822a16cbc4ae7146398433f1b946bf51a7960ae3d1a30a008408d0",
+      "zh": " 张选举人票……凭借这样的胜选优势，特朗普将拥有强大的共和党国会配合，能轻松推动其议程。有如此有力的授权，民主党几乎无法阻止特朗普继续沿用2018年前的做法。希望2022年能够扳回局面……",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l129.c59/text",
+        "2020_Biden_Rice/ending/s0.l129.c59/text",
+        "2020_Biden_Duckworth/ending/s0.l129.c59/text",
+        "2020_Biden_Demings/ending/s0.l129.c59/text",
+        "2020_Biden_Bass/ending/s0.l129.c59/text",
+        "2020_Biden_Whitmer/ending/s0.l129.c59/text",
+        "2020_Biden_Warren/ending/s0.l129.c59/text",
+        "2020_Trump_Pence/ending/s0.l129.c59/text",
+        "2020_Trump_Haley/ending/s0.l129.c59/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "<h3>\"Stop the Steal!\"</h3><p>Former Vice President Joe Biden was on MSNBC, discussing his recent claims of massive election fraud, \"Trump stole this election! I think that's fairly clear.\"</p><p>\"There is significant evidence that I won in all of these states that Donald Trump supposedly 'won'. I think we really need to look at these fraudulent 'in-person' votes because if you only count the legal votes, I win easily.\"</p><p>Biden was going across the media, trying to popularise his claims of electoral fraud before the Congressional certification occurred. In addition, he was preparing a major rally near the Capitol, where he could show those crooked Republicans a piece of his mind. January 6th was going to be a date to live in infamy. Joe was gonna fight like hell.</p>",
+      "sha256": "38b44878c71b6efb14b7efa8ad188e337b76eea8d26d9b6c4f149ced0764ae65",
+      "zh": "<h3>“阻止窃选！”</h3><p>前副总统乔·拜登上了MSNBC，谈起他最近关于大规模选举舞弊的指控：“特朗普偷走了这场选举！我想，这已经很清楚了。”</p><p>“有大量证据表明，所有那些唐纳德·特朗普据称‘赢得’的州，其实都是我赢的。我想，我们真得调查这些舞弊的‘现场投票’，因为如果只数合法选票，我轻松就能赢。”</p><p>拜登奔走于各家媒体，试图在国会认证前，让自己的选举舞弊指控深入人心。此外，他正在国会大厦附近筹备一场大型集会，好让那些腐败的共和党人见识见识他的怒火。1月6日将成为一个遗臭万年的日子。乔要拼死抗争。</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l133.c9/text",
+        "2020_Biden_Rice/ending/s0.l133.c9/text",
+        "2020_Biden_Duckworth/ending/s0.l133.c9/text",
+        "2020_Biden_Demings/ending/s0.l133.c9/text",
+        "2020_Biden_Bass/ending/s0.l133.c9/text",
+        "2020_Biden_Whitmer/ending/s0.l133.c9/text",
+        "2020_Biden_Warren/ending/s0.l133.c9/text",
+        "2020_Trump_Pence/ending/s0.l133.c9/text",
+        "2020_Trump_Haley/ending/s0.l133.c9/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "<h3>Ten years later...</h3><p><em>Location: Stannard, Vermont</em><p>\"Mr. Vice President, please come in.\" Biden raised an eyebrow. Bernie knew that he didn't need to call him that</p><p>Ten years after the landslide victory of Donald Trump, the United States had changed a lot. The wall was built, the 'Mexicans' were deported, and Hillary was locked up; yet, even though his country had rejected everything he believed in, Biden had still found happiness.</p><p>With a cabin in Vermont, he and his family were isolated from the chaos of the rest of the country. Despite the frigid winters, and even though his only neighbour was Bernie Sanders... life like this wasn't too bad. He audibly sighed and continued eating dinner with Bernie.</p><p>When, several months later, the Freedom Police came to take him for 'interviews', he wasn't even that upset.</p>",
+      "sha256": "af12d7ef6dfc71da9aa749924f15dc2788325c28546ad9ffce450408172695b0",
+      "zh": "<h3>十年后……</h3><p><em>地点：佛蒙特州斯坦纳德</em><p>“副总统先生，请进。”拜登挑起眉毛。伯尼知道，他不必再这么称呼自己。</p><p>唐纳德·特朗普压倒性胜利十年后，美国已经大变样。墙建好了，“墨西哥人”被驱逐了，希拉里被关了起来。不过，即使自己的国家否定了他相信的一切，拜登仍然找到了幸福。</p><p>他与家人住在佛蒙特州的一间小木屋里，与国内其他地方的混乱隔绝。尽管冬天严寒，唯一的邻居又是伯尼·桑德斯……这样的生活倒也不坏。他叹出一口气，继续与伯尼共进晚餐。</p><p>几个月后，当“自由警察”来带他去接受“谈话”时，他甚至都没有那么难过。</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l138.c7/text",
+        "2020_Biden_Rice/ending/s0.l138.c7/text",
+        "2020_Biden_Duckworth/ending/s0.l138.c7/text",
+        "2020_Biden_Demings/ending/s0.l138.c7/text",
+        "2020_Biden_Bass/ending/s0.l138.c7/text",
+        "2020_Biden_Whitmer/ending/s0.l138.c7/text",
+        "2020_Biden_Warren/ending/s0.l138.c7/text",
+        "2020_Trump_Pence/ending/s0.l138.c7/text",
+        "2020_Trump_Haley/ending/s0.l138.c7/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "We all know who REALLY won the election, though, don't we? You no doubt will be on Biden's case from now until the end of his term, plotting your epic comeback. Your base is still ravenous as ever, and you might need to throw them a bone, as, after all, you've said about mail-ins and whatnot, they are angered at your loss. You're about to give a speech in Washington DC, near the capitol buildings. Let them know what you think about this election, then they can 'peacefully and patriotically' give that traitor Mike Pence a lesson.",
+      "sha256": "ef982745ee748c40b59f8e656a239f66fd967a38f3428d55d2d9d19780137909",
+      "zh": "不过，我们都知道谁才真正赢得了选举，不是吗？从现在直到拜登任期结束，你肯定都会紧盯着他，谋划自己惊人的回归。你的基本盘仍然像以往一样渴望战斗，也许得给他们点东西。毕竟，你说了那么多关于邮寄选票之类的话，他们对你的败选非常愤怒。你即将在华盛顿特区、国会建筑附近发表演说。让他们知道你怎么看这场选举，然后他们就能“和平而爱国地”给那个叛徒迈克·彭斯一个教训。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l150.c23/text",
+        "2020_Biden_Rice/ending/s0.l150.c23/text",
+        "2020_Biden_Duckworth/ending/s0.l150.c23/text",
+        "2020_Biden_Demings/ending/s0.l150.c23/text",
+        "2020_Biden_Bass/ending/s0.l150.c23/text",
+        "2020_Biden_Whitmer/ending/s0.l150.c23/text",
+        "2020_Biden_Warren/ending/s0.l150.c23/text",
+        "2020_Trump_Pence/ending/s0.l150.c23/text",
+        "2020_Trump_Haley/ending/s0.l150.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "COVID-19 still reigns terror throughout America, so hopefully, you can help vaccine rollout chug along smoothly, and oversee the economic recovery. After that subsides, any one of your big promises might be your next mission. Build the wall or perhaps renegotiate more fair deals for the hardworking men and women of the glorious manufacturing sector of America. Watch out for those radical Democrats, however, you know them and the liberal media will lambast you at every turn for your choices. You've dealt with them before, though. Just remind them who is president. For now, just sit back and bask in the knowledge that you pulled 2 of the greatest upsets in US political history. MAGA!",
+      "sha256": "a1bd6f7fc786bdd198a630be91d59c20b3c7ee14e97853256733b8e4f8e929fa",
+      "zh": "新冠疫情仍在美国肆虐，希望你能帮助疫苗接种顺利推进，并监督经济复苏。待疫情平息，你的任何一项重大承诺，都可能成为下一项任务。筑墙，或者为美国伟大制造业中辛勤工作的男男女女，重新谈判更公平的协议。不过，要当心那些激进的民主党人；你知道，他们和自由派媒体会对你的每个选择横加指责。但你以前对付过他们，只要提醒他们谁才是总统。现在，先安心享受吧：你已经制造了美国政治史上两次最大的冷门。让美国再次伟大！",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l154.c23/text",
+        "2020_Biden_Rice/ending/s0.l154.c23/text",
+        "2020_Biden_Duckworth/ending/s0.l154.c23/text",
+        "2020_Biden_Demings/ending/s0.l154.c23/text",
+        "2020_Biden_Bass/ending/s0.l154.c23/text",
+        "2020_Biden_Whitmer/ending/s0.l154.c23/text",
+        "2020_Biden_Warren/ending/s0.l154.c23/text",
+        "2020_Trump_Pence/ending/s0.l154.c23/text",
+        "2020_Trump_Haley/ending/s0.l154.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "<h3>\"We won bigly\"</h3><p>\"You know, we won bigly tonight. Tremendously. Many smart, very smart people, are saying that we had the biggest win, maybe ever.\"</p><p>Donald Trump's voice drawled throughout the hall as he made a victory speech. Even D.C, the pinnacle of liberalism in America, had fallen to 'the Donald'. Reports were showing Bernie Sanders had shot himself, Joe Biden had a heart attack, and Hillary Clinton had been uncontrollably laughing for the past 2 hours. A new era could begin. You can build a wall - maybe a statue to your greatness. Tear down that old statue of that loser Lincoln and show a <em>real</em> President. Long live -</p><p>You wake up to the TV, \"We can now project the state of Georgia for Joe Biden. Joe Biden will be the next President with 306 electoral votes.\"</p><p>No. No! NO! You can salvage this. Sleepy Joe has stolen the election! Fraud! You will not let Donald Trump's name be smeared!</p>",
+      "sha256": "5e397e65c5f9c13368229c5928452fc60f8df1e7de96b849e34f0c045c1db526",
+      "zh": "<h3>“我们赢得老大了”</h3><p>“你知道，我们今晚赢得老大了。赢得太了不起了。许多聪明人，非常聪明的人，都说我们取得了最大的一场胜利，也许是有史以来最大的一场。”</p><p>唐纳德·特朗普发表胜选演说时，拖长音调的声音回荡在大厅里。连美国自由主义堡垒华盛顿特区，都落入了“唐纳德”手中。有报道称，伯尼·桑德斯开枪自尽，乔·拜登心脏病发作，希拉里·克林顿则已经狂笑不止两小时。新时代可以开始了。你可以建一堵墙，也许再立一座雕像，纪念自己的伟大。拆掉那个失败者林肯的旧雕像，展示一位<em>真正的</em>总统。万岁——</p><p>电视的声音把你惊醒：“我们现在可以预测，乔·拜登赢得佐治亚州。乔·拜登将以306张选举人票成为下一任总统。”</p><p>不。不！不！你还能挽救局面。瞌睡乔偷走了选举！舞弊！你不会让唐纳德·特朗普的名字蒙羞！</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l159.c7/text",
+        "2020_Biden_Rice/ending/s0.l159.c7/text",
+        "2020_Biden_Duckworth/ending/s0.l159.c7/text",
+        "2020_Biden_Demings/ending/s0.l159.c7/text",
+        "2020_Biden_Bass/ending/s0.l159.c7/text",
+        "2020_Biden_Whitmer/ending/s0.l159.c7/text",
+        "2020_Biden_Warren/ending/s0.l159.c7/text",
+        "2020_Trump_Pence/ending/s0.l159.c7/text",
+        "2020_Trump_Haley/ending/s0.l159.c7/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "We are going to Make America Great Again... again! Throw away your prepared remarks accusing the Democrats of fraud, because you're heading back for a second term - and it's a LANDSLIDE! I don't think anyone has won by as much as you have tonight. Nobody thought that anybody could ever win by more than you did in 2016, but you've definitely proved the liberal media wrong. The American people have vindicated your agenda and style of politics - surely the fake news media can see that now? Sleepy Joe will probably go to sleep forever after seeing the landslide you've achieved. Congress is comfortably in Republican hands, and a world of options is open to you!",
+      "sha256": "72ddb752b95f0a74aab767b6643fba3144526dc20c1a59320b629eb195fe6f08",
+      "zh": "我们要让美国再次伟大……再来一次！把准备好指控民主党舞弊的演说稿扔掉吧，你即将迎来第二个任期，而且是压倒性胜利！我想，今晚从没有人赢得像你这么多。没人觉得，谁还能比你2016年赢得更多，但你确实证明了自由派媒体是错的。美国人民肯定了你的议程和政治风格——假新闻媒体现在总该看明白了吧？瞌睡乔看到你如此大胜，也许就要永远睡下去了。共和党稳稳掌控国会，你面前有无数选择！",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l180.c18/text",
+        "2020_Biden_Rice/ending/s0.l180.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l180.c18/text",
+        "2020_Biden_Demings/ending/s0.l180.c18/text",
+        "2020_Biden_Bass/ending/s0.l180.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l180.c18/text",
+        "2020_Biden_Warren/ending/s0.l180.c18/text",
+        "2020_Trump_Pence/ending/s0.l180.c18/text",
+        "2020_Trump_Haley/ending/s0.l180.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Again?! You managed to win with the EXACT same margin as you did in 2016. By that, I mean to say... A TREMENDOUS LANDSLIDE! You won bigly! Nobody expected it! With your margins, you've carried Republicans to decent margins in Congress. Democrats can cope and seethe, America's going to be great again! Throw away your prepared remarks accusing the Democrats of fraud, because you're heading back for a second term!",
+      "sha256": "b7993aedb853b40d01e5fa0ad7184267fef93c7fdbb32cfea82d41182faeb346",
+      "zh": "又来一次？！你竟然以与2016年完全相同的优势获胜。我的意思是……一场了不起的压倒性胜利！你赢得老大了！没人料到！凭借你的优势，你还带动共和党在国会取得了不错的席位优势。民主党人就自己憋屈、生闷气去吧，美国要再次伟大了！把准备好指控民主党舞弊的演说稿扔掉吧，你即将迎来第二个任期！",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l184.c18/text",
+        "2020_Biden_Rice/ending/s0.l184.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l184.c18/text",
+        "2020_Biden_Demings/ending/s0.l184.c18/text",
+        "2020_Biden_Bass/ending/s0.l184.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l184.c18/text",
+        "2020_Biden_Warren/ending/s0.l184.c18/text",
+        "2020_Trump_Pence/ending/s0.l184.c18/text",
+        "2020_Trump_Haley/ending/s0.l184.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "We are going to Make America Great Again... again! Throw away your prepared remarks accusing the Democrats of fraud, because you're heading back for a second term! Democrats are fuming, Sleepy Joe is surely crying! With a somewhat comfortable margin of victory, you can surely tell your followers all about the massive landslide you've achieved. Nate Silver and those fake news analysts are going to have a real hard time explaining THIS one. ",
+      "sha256": "7d056af162ae50ae00a36c4161383809e9533bd30037352842eb6e9be18bbf5b",
+      "zh": "我们要让美国再次伟大……再来一次！把准备好指控民主党舞弊的演说稿扔掉吧，你即将迎来第二个任期！民主党人怒火冲天，瞌睡乔肯定正在哭！凭借相当稳妥的胜选优势，你当然可以向追随者大谈自己取得的压倒性大胜。内特·西尔弗和那些假新闻分析人士，这回可真难解释了。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l188.c18/text",
+        "2020_Biden_Rice/ending/s0.l188.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l188.c18/text",
+        "2020_Biden_Demings/ending/s0.l188.c18/text",
+        "2020_Biden_Bass/ending/s0.l188.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l188.c18/text",
+        "2020_Biden_Warren/ending/s0.l188.c18/text",
+        "2020_Trump_Pence/ending/s0.l188.c18/text",
+        "2020_Trump_Haley/ending/s0.l188.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "We are going to Make America Great Again... again! Throw away your prepared remarks accusing the Democrats of fraud, because you're heading back for a second term! The RINOs who doubted you will surely be forced to go along with you now. Fake-News Romney, Screechy Collins, all of them are unhappily congratulating you. With your margin of victory, Republicans have just missed out on taking the House, and will probably keep the Senate, dependent on a runoff election in Georgia.",
+      "sha256": "c5ec511de2abfae620702f7e99036f341e3162648b7865ecafe6a1bfd77b207b",
+      "zh": "我们要让美国再次伟大……再来一次！把准备好指控民主党舞弊的演说稿扔掉吧，你即将迎来第二个任期！那些怀疑你的“名义上的共和党人”，现在肯定不得不跟随你。假新闻罗姆尼、尖叫的柯林斯，他们都不情不愿地向你祝贺。凭借你的优势，共和党只差一点就夺回众议院，也很可能保住参议院，具体取决于佐治亚州的一场决选。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l192.c18/text",
+        "2020_Biden_Rice/ending/s0.l192.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l192.c18/text",
+        "2020_Biden_Demings/ending/s0.l192.c18/text",
+        "2020_Biden_Bass/ending/s0.l192.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l192.c18/text",
+        "2020_Biden_Warren/ending/s0.l192.c18/text",
+        "2020_Trump_Pence/ending/s0.l192.c18/text",
+        "2020_Trump_Haley/ending/s0.l192.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "<h3>Rigged!</h3><p>This can't be right! Only 270 electoral votes? That's less than that LOSER Bush! Sleepy Joe's Democratic fraud machines have rigged the election against you! Without fraud? Well without fraud you would be looking at TREMENDOUS victories! A historic landslide, surely! You can post a tweet about the rigging now: \"Even with Democratic fraud we won BIG! More electoral votes than George Washington. Democrats are crying - not sad at all!\" With this margin of victory, the Democrats have managed to steal the House from you! You'll have to find a way to pass your Make America Great Again agenda despite this setback.</p>",
+      "sha256": "fbd5172544ea2fd466720d820f3d5d30bfd4db331a14e9e3c1d481631f80df1b",
+      "zh": "<h3>被操纵了！</h3><p>不可能！才270张选举人票？比那个失败者布什还少！瞌睡乔的民主党舞弊机器，操纵了选举来对付你！要是没有舞弊呢？没有舞弊，你拿到的就会是了不起的大胜！肯定是一场历史性压倒胜利！现在就能发条推文谈操纵选举：“就算民主党舞弊，我们还是大胜！选举人票比乔治·华盛顿还多。民主党在哭——一点也不悲伤！”凭借这样的胜选差距，民主党设法从你手里偷走了众议院！尽管遭遇这个挫折，你仍得想办法推进让美国再次伟大的议程。</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l196.c7/text",
+        "2020_Biden_Rice/ending/s0.l196.c7/text",
+        "2020_Biden_Duckworth/ending/s0.l196.c7/text",
+        "2020_Biden_Demings/ending/s0.l196.c7/text",
+        "2020_Biden_Bass/ending/s0.l196.c7/text",
+        "2020_Biden_Whitmer/ending/s0.l196.c7/text",
+        "2020_Biden_Warren/ending/s0.l196.c7/text",
+        "2020_Trump_Pence/ending/s0.l196.c7/text",
+        "2020_Trump_Haley/ending/s0.l196.c7/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": " to make sure the votes are counted accurately in your favour (which they were), and your victory is certified. They let presidents do that, right?</p>",
+      "sha256": "eb4643bdbf276f12f50b45ef3d2741e826894df5f3395c62b42e75d0e14850e6",
+      "zh": "，确保选票准确地按有利于你的结果统计——事实本来就是如此——并认证你的胜利。他们允许总统这么干，对吧？</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l200.c526/text",
+        "2020_Biden_Rice/ending/s0.l200.c526/text",
+        "2020_Biden_Duckworth/ending/s0.l200.c526/text",
+        "2020_Biden_Demings/ending/s0.l200.c526/text",
+        "2020_Biden_Bass/ending/s0.l200.c526/text",
+        "2020_Biden_Whitmer/ending/s0.l200.c526/text",
+        "2020_Biden_Warren/ending/s0.l200.c526/text",
+        "2020_Trump_Pence/ending/s0.l200.c526/text",
+        "2020_Trump_Haley/ending/s0.l200.c526/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Despite your most valiant efforts, Joe Biden has been elected to the US presidency. As expected, your supporters are shocked and furious Sleepy Joe has been elected, and his supporters are thrilled that you are being ousted. The margin of victory, however, was razor-thin, even more so than four years prior. Recount efforts from your supporters and governments are already underway, with Democrats begrudgingly moving along with it. Your supporters are even more rabid with the margin and are calling on VP Pence to overturn the election. You are about to give a press conference on the election results. Make sure you play your cards right.",
+      "sha256": "25debe7e2e6c4a3554ec45993cadfb6ca0d211a64178ee15c93fde677de18305",
+      "zh": "尽管你已经竭尽全力，乔·拜登仍当选美国总统。不出所料，你的支持者因瞌睡乔当选而震惊、愤怒，他的支持者则为你被赶下台而兴奋。不过，胜选差距极其微弱，比四年前还小。你的支持者和政府方面已经展开重新计票，民主党虽不情愿，也配合推进。如此微弱的差距，让你的支持者更加狂躁，他们呼吁副总统彭斯推翻选举结果。你即将就选举结果召开新闻发布会，一定要出好手中的牌。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l204.c18/text",
+        "2020_Biden_Rice/ending/s0.l204.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l204.c18/text",
+        "2020_Biden_Demings/ending/s0.l204.c18/text",
+        "2020_Biden_Bass/ending/s0.l204.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l204.c18/text",
+        "2020_Biden_Warren/ending/s0.l204.c18/text",
+        "2020_Trump_Pence/ending/s0.l204.c18/text",
+        "2020_Trump_Haley/ending/s0.l204.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Despite your most valiant efforts, Joe Biden has been elected to the US presidency. As expected, your supporters are shocked and furious Sleepy Joe has been elected, and his supporters are thrilled that you are being ousted. Ironically, your loss margin is identical to that of Hillary in 2016. It seems the red wave of yours never quite panned out, although your Trump poll effect did, as many pundits had you not surpassing 200 votes.",
+      "sha256": "7c9235fccb4fe9e675113294f77f2d6a92042da987d4156c02271f0f5e7fbe8d",
+      "zh": "尽管你已经竭尽全力，乔·拜登仍当选美国总统。不出所料，你的支持者因瞌睡乔当选而震惊、愤怒，他的支持者则为你被赶下台而兴奋。讽刺的是，你落败的差距与希拉里2016年完全相同。看来，你的红色浪潮终究没有出现，不过，你的特朗普民调效应倒出现了，因为许多评论人士曾认为你拿不到超过200票。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l208.c18/text",
+        "2020_Biden_Rice/ending/s0.l208.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l208.c18/text",
+        "2020_Biden_Demings/ending/s0.l208.c18/text",
+        "2020_Biden_Bass/ending/s0.l208.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l208.c18/text",
+        "2020_Biden_Warren/ending/s0.l208.c18/text",
+        "2020_Trump_Pence/ending/s0.l208.c18/text",
+        "2020_Trump_Haley/ending/s0.l208.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Despite your most valiant efforts, Joe Biden has been elected to the US presidency. As expected, your supporters are shocked and furious Sleepy Joe has been elected, and his supporters are thrilled that you are being ousted. The polls were much more accurate this time, as you lost a few southern states, but it always could have been worse. Recounts are unlikely to change much of the result, but you're going to initiate them anyways.",
+      "sha256": "98add8e2d6357705c07c24b19e46fbd4ce372e95f6d51d2e85da99cdc2cd89bd",
+      "zh": "尽管你已经竭尽全力，乔·拜登仍当选美国总统。不出所料，你的支持者因瞌睡乔当选而震惊、愤怒，他的支持者则为你被赶下台而兴奋。这次民调准确得多，你输掉了几个南方州，不过结果本来可能更糟。重新计票大概改变不了多少，但你还是要启动。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l212.c18/text",
+        "2020_Biden_Rice/ending/s0.l212.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l212.c18/text",
+        "2020_Biden_Demings/ending/s0.l212.c18/text",
+        "2020_Biden_Bass/ending/s0.l212.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l212.c18/text",
+        "2020_Biden_Warren/ending/s0.l212.c18/text",
+        "2020_Trump_Pence/ending/s0.l212.c18/text",
+        "2020_Trump_Haley/ending/s0.l212.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Despite your most valiant efforts, Joe Biden has been elected to the US presidency. As expected, your supporters are shocked and furious Sleepy Joe has been elected, and his supporters are thrilled that you are being ousted. Pollsters and Democrats are happy, as the polls were much more accurate this time around. Your base, on the other hand is livid, decrying every state as being fraudulently involved. You are about to give a press conference on the election results. Make sure you play your cards right.",
+      "sha256": "a56c2eb53fed774673ddb38af4f78dc1fc2e85f02afa9231a80333fdfeac0b10",
+      "zh": "尽管你已经竭尽全力，乔·拜登仍当选美国总统。不出所料，你的支持者因瞌睡乔当选而震惊、愤怒，他的支持者则为你被赶下台而兴奋。民调机构和民主党很高兴，这次民调准确得多。你的基本盘却怒不可遏，指责每个州都卷入了舞弊。你即将就选举结果召开新闻发布会，一定要出好手中的牌。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l216.c18/text",
+        "2020_Biden_Rice/ending/s0.l216.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l216.c18/text",
+        "2020_Biden_Demings/ending/s0.l216.c18/text",
+        "2020_Biden_Bass/ending/s0.l216.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l216.c18/text",
+        "2020_Biden_Warren/ending/s0.l216.c18/text",
+        "2020_Trump_Pence/ending/s0.l216.c18/text",
+        "2020_Trump_Haley/ending/s0.l216.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Despite your most valiant efforts, Joe Biden has been elected to the US presidency. As expected, your supporters are shocked and furious Sleepy Joe has been elected, and his supporters are thrilled that you are being ousted. But my god. Did you EVER lose. The polls were wrong, sure, but in the OPPOSITE direction. Democrats are shocked, poll companies are confused, liberals vindicated, and in the middle of it all, your supporters, metaphorically shaking with anger and grief. You are about to give a press conference on the election results. Make sure you play your cards right so that you can save your image for history.",
+      "sha256": "34efedb1fb1eebf98806a1dd4e4a8dc2f11c11a4f0b2efb08608bc8e9ca3f542",
+      "zh": "尽管你已经竭尽全力，乔·拜登仍当选美国总统。不出所料，你的支持者因瞌睡乔当选而震惊、愤怒，他的支持者则为你被赶下台而兴奋。可是，天哪，你输得可真惨。民调确实错了，却错在相反方向。民主党震惊，民调公司困惑，自由派觉得自己终于扬眉吐气。在这一切当中，你的支持者因愤怒和悲伤而浑身发抖——这是一种形容。你即将就选举结果召开新闻发布会，一定要出好手中的牌，保住自己在历史上的形象。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l219.c18/text",
+        "2020_Biden_Rice/ending/s0.l219.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l219.c18/text",
+        "2020_Biden_Demings/ending/s0.l219.c18/text",
+        "2020_Biden_Bass/ending/s0.l219.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l219.c18/text",
+        "2020_Biden_Warren/ending/s0.l219.c18/text",
+        "2020_Trump_Pence/ending/s0.l219.c18/text",
+        "2020_Trump_Haley/ending/s0.l219.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Despite your best effo- whoa. You, uh, REALLY didn't do well. Huh. Biden really won this election, huh? You'd expect such a margin from an inspiring leader, a charismatic Kennedy or Clinton character (not Hillary though), but not from Joe Biden. Some Democrats are starting to, shockingly, believe your accusations. The next few months will be interesting, Donald.",
+      "sha256": "496076415cbc8c0e6d3f0e5887d50e37fc69a44551d8a5e301c3918fb7b59e35",
+      "zh": "尽管你拼尽全——哇。你，呃，还真是表现不佳啊。嗯，拜登真的赢了这场选举，是吗？这么大的优势，人们会想到鼓舞人心的领袖，像肯尼迪或克林顿那样富有魅力的人——可不是希拉里——但不会想到乔·拜登。令人震惊的是，一些民主党人开始相信你的指控了。未来几个月会很有意思，唐纳德。",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l222.c18/text",
+        "2020_Biden_Rice/ending/s0.l222.c18/text",
+        "2020_Biden_Duckworth/ending/s0.l222.c18/text",
+        "2020_Biden_Demings/ending/s0.l222.c18/text",
+        "2020_Biden_Bass/ending/s0.l222.c18/text",
+        "2020_Biden_Whitmer/ending/s0.l222.c18/text",
+        "2020_Biden_Warren/ending/s0.l222.c18/text",
+        "2020_Trump_Pence/ending/s0.l222.c18/text",
+        "2020_Trump_Haley/ending/s0.l222.c18/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "<h3>Donaldddddddd!!!!!</h3><p>Donald Trump turned around rapidly in a New York City hotel room to see who was wailing his name. To his surprise, hovering right there in front of him, were 3 ghosts. Donald demanded to know their names and purposes. They introduced themselves as Alf Landon, Herbert Hoover, and George McGovern, and explained they were the ghosts of elections past. What, did you expect them to be ghosts of the past, present, and future? That's not how elections work. Anyways, they explain they appear whenever a presidential election is dramatically lost, to comfort the loser, which Donald doesn't appreciate 14 minutes after losing Utah. They explain how, despite his loss, many other wonderful things will happen to him. For one, he will live a long life, as they did prior to their deaths. Trump dismisses, this, noting that he never actually actually lost, because of Sleepy Joe's massive fraud. They all sigh, and vanish into thin air next to Trump, leaving him alone in his room.</p>",
+      "sha256": "f02236d6cf039c829c14d3d9a73261173d9be626c6465c26ab5b15701fa60abf",
+      "zh": "<h3>唐纳德啊啊啊啊啊！！！！！</h3><p>唐纳德·特朗普在纽约市一间酒店客房里猛地转身，想看看谁在哀叫他的名字。让他惊讶的是，面前竟漂浮着三个幽灵。唐纳德要求他们报上姓名和来意。他们自称阿尔夫·兰登、赫伯特·胡佛和乔治·麦戈文，解释说，自己是过去选举的幽灵。怎么，你还以为是过去、现在和未来的幽灵吗？选举可不是这么回事。不管怎样，他们解释说，每当总统选举出现惨败，就会现身安慰败选者。可刚输掉犹他州十四分钟的唐纳德，并不领情。他们说，尽管输掉选举，他仍会遇到许多美好的事。比如，他会像他们去世前那样长寿。特朗普不以为然，指出由于瞌睡乔的大规模舞弊，自己其实根本没输。他们都叹了口气，在特朗普身旁消失得无影无踪，把他独自留在房间里。</p>",
+      "keys": [
+        "2020_Biden_Harris/ending/s0.l225.c7/text",
+        "2020_Biden_Rice/ending/s0.l225.c7/text",
+        "2020_Biden_Duckworth/ending/s0.l225.c7/text",
+        "2020_Biden_Demings/ending/s0.l225.c7/text",
+        "2020_Biden_Bass/ending/s0.l225.c7/text",
+        "2020_Biden_Whitmer/ending/s0.l225.c7/text",
+        "2020_Biden_Warren/ending/s0.l225.c7/text",
+        "2020_Trump_Pence/ending/s0.l225.c7/text",
+        "2020_Trump_Haley/ending/s0.l225.c7/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "What will you say to the American people as you accept your party's nomination for President?",
+      "sha256": "601c2c98eb24aeeff4838d955308671798b3d92558e74ac72911d4b09563ad39",
+      "zh": "在接受本党总统候选人提名时，你会对美国人民说些什么？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1200@0/description",
+        "2020_Biden_Rice/questions_json/1200@0/description",
+        "2020_Biden_Duckworth/questions_json/1200@0/description",
+        "2020_Biden_Demings/questions_json/1200@0/description",
+        "2020_Biden_Bass/questions_json/1200@0/description",
+        "2020_Biden_Whitmer/questions_json/1200@0/description",
+        "2020_Biden_Warren/questions_json/1200@0/description",
+        "2020_Trump_Pence/questions_json/1300@0/description",
+        "2020_Trump_Haley/questions_json/1300@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Which of these themes will you emphasize the most as you campaign for President this year?",
+      "sha256": "59dd3ed68ac5ab99a7b5c77214bfbde3fa5fe67b26c9c5b18c8e995516d7d88a",
+      "zh": "今年竞选总统时，你会最着重强调以下哪一项主题？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1201@1/description",
+        "2020_Biden_Rice/questions_json/1201@1/description",
+        "2020_Biden_Duckworth/questions_json/1201@1/description",
+        "2020_Biden_Demings/questions_json/1201@1/description",
+        "2020_Biden_Bass/questions_json/1201@1/description",
+        "2020_Biden_Whitmer/questions_json/1201@1/description",
+        "2020_Biden_Warren/questions_json/1201@1/description",
+        "2020_Trump_Pence/questions_json/1301@1/description",
+        "2020_Trump_Haley/questions_json/1301@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "An outbreak of COVID-19 has led to a wave of stay-at-home orders and business closures. How will you campaign over  the next few months?",
+      "sha256": "4b71ffcd56c3ab1b214056099e73fc9d169486716da2d2f6a4f6697a920bae74",
+      "zh": "新冠疫情暴发，导致各地纷纷发布居家令，企业停业。未来几个月，你会如何竞选？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1202@2/description",
+        "2020_Biden_Rice/questions_json/1202@2/description",
+        "2020_Biden_Duckworth/questions_json/1202@3/description",
+        "2020_Biden_Demings/questions_json/1202@3/description",
+        "2020_Biden_Bass/questions_json/1202@2/description",
+        "2020_Biden_Whitmer/questions_json/1202@3/description",
+        "2020_Biden_Warren/questions_json/1202@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Your closest rival for the nomination, Bernie Sanders, will be meeting with you to discuss your policy objectives. What tone are you looking to strike with him?",
+      "sha256": "99b14bd4e8aa9e7947ce5335a0170f5967cacb4164e87510bafece994373f61d",
+      "zh": "与你争夺提名的最主要对手伯尼·桑德斯，将与你会面，讨论你的政策目标。你希望与他会谈时采取怎样的基调？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1203@3/description",
+        "2020_Biden_Rice/questions_json/1203@3/description",
+        "2020_Biden_Duckworth/questions_json/1203@2/description",
+        "2020_Biden_Demings/questions_json/1203@2/description",
+        "2020_Biden_Bass/questions_json/1203@3/description",
+        "2020_Biden_Whitmer/questions_json/1203@2/description",
+        "2020_Biden_Warren/questions_json/1203@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Do you plan to make Trump's 2019 impeachment a focus of your campaign? And if so, how much?",
+      "sha256": "5a492e394e40f9a36612e39031bc79c84b4430393df292ca5369fe11bc10c234",
+      "zh": "你是否打算把特朗普2019年遭弹劾作为竞选重点？如果是，会着重到什么程度？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1205@4/description",
+        "2020_Biden_Rice/questions_json/1205@5/description",
+        "2020_Biden_Duckworth/questions_json/1205@6/description",
+        "2020_Biden_Demings/questions_json/1205@6/description",
+        "2020_Biden_Bass/questions_json/1205@4/description",
+        "2020_Biden_Whitmer/questions_json/1205@5/description",
+        "2020_Biden_Warren/questions_json/1205@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "What do you have to say about the selection of Kamala Harris as your running mate? What makes her the best choice?",
+      "sha256": "41ebece2f96342ef473f0963103402eb59942b29dc514ef32760cc7314a7a295",
+      "zh": "对于选择卡玛拉·哈里斯作为搭档，你要说些什么？是什么让她成为最佳人选？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1225@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Trump's 2019 impeachment trial was closely tied the role your son, Hunter, took with a Ukranian energy company called Burisma. Was his appointment appropriate, given your son's background and skill set?",
+      "sha256": "990fd794f1a2e9b8fe165025a0c39aacd6ac8e7a074eca02f85e873a0027b5a5",
+      "zh": "特朗普2019年的弹劾审判，与你的儿子亨特在一家名为布里斯马的乌克兰能源公司任职密切相关。考虑到你儿子的背景和技能，他的任命是否恰当？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1204@6/description",
+        "2020_Biden_Rice/questions_json/1204@4/description",
+        "2020_Biden_Duckworth/questions_json/1204@4/description",
+        "2020_Biden_Demings/questions_json/1204@5/description",
+        "2020_Biden_Bass/questions_json/1204@6/description",
+        "2020_Biden_Whitmer/questions_json/1204@4/description",
+        "2020_Biden_Warren/questions_json/1204@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "What are your thoughts on the death of George Floyd and the wave of protests in the wake of his death? Will you make an appearance at a Black Lives Matter event?",
+      "sha256": "5733872739b78de288c10a62f1cf1bedb685eb0b30b6a90f636581507f16821b",
+      "zh": "对于乔治·弗洛伊德之死，以及此后兴起的抗议浪潮，你有什么看法？你是否会出席一场“黑人的命也是命”运动活动？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1206@7/description",
+        "2020_Biden_Rice/questions_json/1206@7/description",
+        "2020_Biden_Duckworth/questions_json/1206@7/description",
+        "2020_Biden_Demings/questions_json/1206@7/description",
+        "2020_Biden_Bass/questions_json/1206@7/description",
+        "2020_Biden_Whitmer/questions_json/1206@8/description",
+        "2020_Biden_Warren/questions_json/1206@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "To what extent do you support emergency economic legislation to address the effects of COVID-19 on society?",
+      "sha256": "5e84a49fd2eb63294320ca58821ddc211d66c1a0532fc9d48174b96c236a1d07",
+      "zh": "你在多大程度上支持紧急经济立法，以应对新冠疫情对社会的影响？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1208@8/description",
+        "2020_Biden_Rice/questions_json/1208@8/description",
+        "2020_Biden_Duckworth/questions_json/1208@9/description",
+        "2020_Biden_Demings/questions_json/1208@8/description",
+        "2020_Biden_Bass/questions_json/1208@8/description",
+        "2020_Biden_Whitmer/questions_json/1208@9/description",
+        "2020_Biden_Warren/questions_json/1208@9/description",
+        "2020_Trump_Pence/questions_json/1308@9/description",
+        "2020_Trump_Haley/questions_json/1308@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "As President, would you consider implementing policies such as a national lockdown or a mask mandate to control COVID-19?",
+      "sha256": "ba03d339f71fe5d62bb77def4bc126139f53476e4ff89a6d47a4375f98664967",
+      "zh": "担任总统后，你是否会考虑全国封锁或强制戴口罩等政策，以控制新冠疫情？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1209@9/description",
+        "2020_Biden_Rice/questions_json/1209@11/description",
+        "2020_Biden_Duckworth/questions_json/1209@12/description",
+        "2020_Biden_Demings/questions_json/1209@11/description",
+        "2020_Biden_Bass/questions_json/1209@11/description",
+        "2020_Biden_Whitmer/questions_json/1209@10/description",
+        "2020_Biden_Warren/questions_json/1209@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "What is your position on the need for a federal infrasctructure bill? How large should any package be?",
+      "sha256": "ab3fb0990c449ea0d95edacfb59141514bfe68ac20742e71f095343c4bb2691a",
+      "zh": "你对联邦基础设施法案的必要性有什么立场？一揽子方案的规模应有多大？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1210@10/description",
+        "2020_Biden_Rice/questions_json/1210@9/description",
+        "2020_Biden_Duckworth/questions_json/1210@10/description",
+        "2020_Biden_Demings/questions_json/1210@10/description",
+        "2020_Biden_Bass/questions_json/1210@10/description",
+        "2020_Biden_Whitmer/questions_json/1210@12/description",
+        "2020_Biden_Warren/questions_json/1210@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "What is your opinion on the expansion of mail-in voting and early voting in this election? Do you have any concerns?",
+      "sha256": "35730a3011c9a0732d411ef63093a49844c4002d742a933950f53782158b263a",
+      "zh": "你对这次选举扩大邮寄投票和提前投票有什么看法？有什么顾虑？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1216@11/description",
+        "2020_Biden_Rice/questions_json/1216@10/description",
+        "2020_Biden_Duckworth/questions_json/1216@11/description",
+        "2020_Biden_Demings/questions_json/1216@9/description",
+        "2020_Biden_Bass/questions_json/1216@9/description",
+        "2020_Biden_Whitmer/questions_json/1216@11/description",
+        "2020_Biden_Warren/questions_json/1216@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "With the tragic passing of Ruth Bader-Ginsburg, it appears that Republicans are poised to place another conservative judge on the Supreme Court. What are your thoughts on their tactics?",
+      "sha256": "bef6dffde6e9909d9319be07bfe58da5e1a2ae164105df54cd0c184bfddfaf42",
+      "zh": "露丝·巴德·金斯伯格不幸去世，共和党似乎准备再让一名保守派法官进入最高法院。你怎么看他们的策略？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1218@12/description",
+        "2020_Biden_Rice/questions_json/1218@12/description",
+        "2020_Biden_Duckworth/questions_json/1218@13/description",
+        "2020_Biden_Demings/questions_json/1218@12/description",
+        "2020_Biden_Bass/questions_json/1218@13/description",
+        "2020_Biden_Whitmer/questions_json/1218@14/description",
+        "2020_Biden_Warren/questions_json/1218@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Do you support the plans of some in your party to expand the size of the Supreme Court, in order to counteract the Republicans' actions in regard to Merrick Garland and Amy Coney Barret?",
+      "sha256": "91d8b110db110da8dee1a38163d4bc5a771afea4da0f91deefc5ee64af4681a1",
+      "zh": "为了回应共和党在梅里克·加兰和艾米·科尼·巴雷特问题上的行动，你是否支持党内一些人扩大最高法院人数的计划？",
+      "keys": [
+        "2020_Biden_Harris/questions_json/1219@13/description",
+        "2020_Biden_Rice/questions_json/1219@13/description",
+        "2020_Biden_Duckworth/questions_json/1219@14/description",
+        "2020_Biden_Demings/questions_json/1219@13/description",
+        "2020_Biden_Bass/questions_json/1219@12/description",
+        "2020_Biden_Whitmer/questions_json/1219@13/description",
+        "2020_Biden_Warren/questions_json/1219@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

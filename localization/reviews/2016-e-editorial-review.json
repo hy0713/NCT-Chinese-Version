@@ -1,0 +1,775 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-e",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 132,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 0,
+      "reason": "ACA-to-slavery comparison preserved as candidate rhetoric, not endorsed as historical or policy equivalence."
+    },
+    {
+      "index": 9,
+      "reason": "Original4percent/3.8percent retained; slower increase versus actual reduction distinguished."
+    },
+    {
+      "index": 14,
+      "reason": "Vice-presidential Mount Rushmore is invented compliment/joke, not actual national monument."
+    },
+    {
+      "index": 26,
+      "reason": "Explicit threatening political rhetoric retained, not softened into mere protest."
+    },
+    {
+      "index": 32,
+      "reason": "Repetition incredible/incredibility maintained rather than inventing competence criteria."
+    },
+    {
+      "index": 43,
+      "reason": "Progressives lost nomination, not Kaine personally defeated Bernie; subject resolved by English grammatical context."
+    },
+    {
+      "index": 51,
+      "reason": "Rolodex idiom means contacts, not need literal card-index hardware."
+    },
+    {
+      "index": 56,
+      "reason": "20million lost Bush/Cheney emails is character claim preserved, not independently confirmed accounting."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "Many have started taking a second look at some of Ben Carson's past statements. Do you agree with his comparisons of Obamacare to slavery?",
+      "sha256": "c27e80be12f30d3f86f5b96ece87016b171159943ed95ba89162d7dd995075d5",
+      "zh": "许多人开始重新审视本·卡森过去的一些言论。你是否赞同他把奥巴马医改比作奴隶制？",
+      "keys": [
+        "2016_Trump_Carson/questions_json/1040@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "In light of your scathing and unrestrained jeremiads against Ben Carson before the Iowa Caucuses, what makes you now think that he is a good running mate?",
+      "sha256": "4b310da88c4828b91d86306ea710c0ec5f374b62ef3892b8dc8fd8dcbc0b4501",
+      "zh": "在艾奥瓦州党团会议前，你曾对本·卡森作出尖刻而毫不留情的长篇斥责。如今又是什么让你觉得，他是合适的竞选搭档？",
+      "keys": [
+        "2016_Trump_Carson/questions_json/1082@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Do you stand by your statements that there will be absolutely no cuts to Social Security or Medicare under a Trump Administration?",
+      "sha256": "769de1da8c38ba10c1b75917ab370eb91454700d93aa33cf7d857a9945c135a0",
+      "zh": "你是否仍坚持，特朗普政府绝不会削减社会保障或老年医疗保险？",
+      "keys": [
+        "2016_Trump_Carson/questions_json/1030@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Ben Carson is one of the most terrific choices we could have come up with. He's another one of those outsider figures who really got some traction in this race, and he'll help us unite our supporters accordingly.",
+      "sha256": "479fa8382317b92c59142849ed5776617cf268c4dd594508cff479b9848cea17",
+      "zh": "本·卡森是我们能想到的最出色的人选之一。他也是在这场竞选中真正赢得了声势的体制外人物，会帮助我们团结各自的支持者。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5007@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "We're out here to show that we understand what it's gonna take to fix black America and open our great prosperity to all Americans. And it could be a really wonderful thing if we get people like Ben Carson in the right place to make a difference.",
+      "sha256": "fc417423cf083ab203f60ff254eb39fc4bf9e6cdda93f37570e023b945ef69f2",
+      "zh": "我们出来竞选，是要表明自己懂得如何解决美国黑人群体面临的问题，让全体美国人共享这个国家的繁荣。如果让本·卡森这样的人处在能够发挥作用的位置上，那可能真是一件好事。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5008@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "This is the guy who lost in 2012. He was a loser. And then he gave speeches against me from the beginning. I mean, is this really the kind of guy we want at our convention?",
+      "sha256": "9e0997bf1adec07c3896eba37e85b137b570ba24e9b5e6e46a8b4bd4dd48a011",
+      "zh": "这个人2012年输掉了选举。他是个失败者。后来，从一开始就发表演说反对我。我是说，我们真的想让这种人参加我们的党代会吗？",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5060@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "I'm not the one who has a say in the matter. It sounds like he doesn't want to speak there anyway, and so be it.",
+      "sha256": "87df4c4730d50eae69c9db9537742d757d32f577d4a1d7e77e0cb8574577d108",
+      "zh": "这件事不是我说了算。听起来他本来就不想在那里演说，那就随他吧。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5061@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "The failing New York Times and many others have totally exaggerated this to make us look divided in the face of Hillary Clinton. I would be glad to work with Mitt and get him into the convention hall.",
+      "sha256": "6fe714823685a9cd77b80a977716c6f1ed5a3c576ae8d84afb3b94d661d2e83b",
+      "zh": "日渐衰败的《纽约时报》和许多其他媒体，把这件事完全夸大了，想让我们在希拉里·克林顿面前显得四分五裂。我很愿意与米特合作，让他走进党代会会场。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5062@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "We're going to take care of people when I'm President. Absolutely no cuts to Social Security and Medicare. We have millions and millions of people relying on these programs.",
+      "sha256": "baf9b397adba16e166927638f6500130b5515402d2e01bbb6c0f0a3628bc5fa7",
+      "zh": "我当上总统后，我们会照顾好人民。绝不削减社会保障和老年医疗保险。数以百万计的人靠着这些项目生活。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5101@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "You know, sometimes if the program grows by 4%, and then you do something and you don't even know you did something, especially when it's a Republican, and the program grows by 3.8%. The liberal media loves to call that a \"cut\".",
+      "sha256": "660d9f0b1c4dbbd8c9b9d2f4eea0055090af2870ef98a8f7d10b85c4a4d5f256",
+      "zh": "你知道，有时候一个项目原本增长4%，然后你做了点什么，甚至自己都没意识到，尤其是做事的是共和党人，项目就只增长3.8%。自由派媒体就爱把这叫作“削减”。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5102@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Obamacare is the biggest disaster in the history of the United States in at least the last 100 years. Dr. Carson and myself, he is a medical doctor you know, we might use different words to mean the same thing.",
+      "sha256": "ee0dd5c69842eb2ff040c9eb5ab6aed2626bbec97abeb78632cb27cf608b96ff",
+      "zh": "奥巴马医改至少是过去一百年美国历史上最大的灾难。卡森医生和我，你知道，他是位医生，我们可能用不同的话表达同一个意思。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5133@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Whatever you want to say about Obamacare, it won't be around for long when I'm President, believe me. We're going to repeal and replace the Obamacare disaster so fast, it's going to be truly something.",
+      "sha256": "e1cb57c63d5e0fed5146a64a74ad753e9ec6434f74e3c3df7cdf3960f1db7947",
+      "zh": "你想怎么说奥巴马医改都行，但相信我，我当上总统后，它不会存在太久。我们会极其迅速地废除并取代奥巴马医改这场灾难，场面会很了不起。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5134@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Obamacare is not slavery, period. But one thing that's very unfair with the media -- they will sit there through a three hour speech and ignore the whole speech, and use one phrase in a hit piece. And who knows if he even meant to say it, or he was tired after a long day?",
+      "sha256": "53eebf8e7a0859972a848ef1f601cc052c710075406653d1f66793badc37f79d",
+      "zh": "奥巴马医改不是奴隶制，就这么简单。但媒体有一点很不公平：他们坐在那里听了三小时的演说，却忽略整场演说，只挑一句话写攻击文章。谁知道他是不是本来就想那么说，或者只是忙了一整天，累了？",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5135@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "We all say things in the heat of the moment that we might not mean later. You do it, I do it, Hillary Clinton has done it thousands of times. I was passionate about winning and I make no apologies.",
+      "sha256": "b50ca75b8e62433f67bba40bc715873c0ef5a007aa97647370fcbd84d2c2a47b",
+      "zh": "我们都可能在情绪激动时说出事后并不认同的话。你会，我会，希拉里·克林顿干过成千上万次。我当时一心要赢，绝不道歉。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5272@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "I never attacked the character of Ben Carson. I have no idea where you people in the media get this stuff. He's going to make a terrific Vice President. I predict that his face will one day be on the Mt. Rushmore of Vice Presidents.",
+      "sha256": "0ed33e3a25be06e9b803f9827e23220bfb51c01a7ea37bc7c54926c937b0108d",
+      "zh": "我从没攻击过本·卡森的人品。我不知道你们这些媒体人从哪里听来的。他会是一位出色的副总统。我预言，有一天他的面孔会出现在副总统版的拉什莫尔山上。",
+      "keys": [
+        "2016_Trump_Carson/answers_json/5273@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Behind the scenes, there are those who have their doubts about having two outsiders on one ticket.",
+      "sha256": "6aad69a8d2413f9958c665d99f61c35e07f947e02ed21cdcfdf05338f1d604c2",
+      "zh": "私下里，有些人对让两位体制外人士搭档参选心存疑虑。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2507@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Dr. Carson is well-known in the black community, and generally respected, even if his political views are at odds.",
+      "sha256": "c6bc8f0cef8f7a604799776dbe1ff9cd4b1e712cd15311afab5b6d120811073d",
+      "zh": "卡森医生在黑人群体中广为人知，也普遍受到尊重，即使他的政治观点与他们不一致。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2508@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Disagreements are fine, but at some point you have to temper the open hostility towards the Republican establishment if you want to have a shot.",
+      "sha256": "c18294bb12f632f06fe3e4537ef5986ad2ea3fe6fdf8ef23c0ed3c8a23aae1d2",
+      "zh": "有分歧没关系，但如果你想有胜算，到某个时候，就得收敛对共和党建制派公开表现出的敌意。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2550@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "The absence of some traditional Republican stalwarts at the convention becomes a bit of a news story, but only for a day or two.",
+      "sha256": "60586fd2c535eb0cd8374e09324e8283d65082231a3f67b96faa40195d697f50",
+      "zh": "一些传统共和党中坚人物缺席党代会，成了一条新闻，不过也就持续一两天。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2551@27/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "You've broken a bit with orthodoxy on this issue, but your stance is popular.",
+      "sha256": "4cb121797dededc6327e2e52e6817d9353785b88b209d0fd14dcb14f04015f2d",
+      "zh": "在这个问题上，你多少偏离了正统路线，但你的立场很受欢迎。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2585@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "You may have a point, but there's no reason to back away from supporting a popular program in the midst of a campaign.",
+      "sha256": "58b3dd1acaa78c1fc26eb75a0cfdb55ca4f254fa2c0b8e5dfe243150d17167d5",
+      "zh": "你也许有道理，但竞选途中没有理由放弃支持一个受欢迎的项目。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2586@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Even your opponents have to chuckle a bit at this one.",
+      "sha256": "67adef7577c46e2b534c2e0f3c17083b640fe53b1c7d6f7692817db4458a762a",
+      "zh": "听到这一句，连你的对手都得笑上几声。",
+      "keys": [
+        "2016_Trump_Carson/answer_feedback_json/2704@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "What was your rationale behind selecting Sarah Palin as your running mate?",
+      "sha256": "c54f2e66564ce7c97dc9058fc43440254097a2c61f93f7719aee260811914f46",
+      "zh": "你选择萨拉·佩林作为竞选搭档的理由是什么？",
+      "keys": [
+        "2016_Trump_Palin/questions_json/1005@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Some advisors are privately alarmed at the long, meandering, and aggressive stump speeches that Sarah Palin is giving. Do you have any thoughts about reining her in?",
+      "sha256": "2458d6b03f27a3c577fab115254ad1b3faa8840819da78a2607d00a46ab87d1f",
+      "zh": "一些顾问私下里对萨拉·佩林冗长、东拉西扯而咄咄逼人的巡回竞选演说感到担忧。你是否考虑过约束她？",
+      "keys": [
+        "2016_Trump_Palin/questions_json/1041@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "The left believes that any woman who doesn't agree with its radical agenda for America is a sellout. We know better. Sarah Palin was a very successful Governor, one of the most successful ever, really.",
+      "sha256": "889429e418754817f95c11543e71065549187fb1c1dacb374b739ba20210daf5",
+      "zh": "左翼认为，任何不赞同他们激进美国议程的女性都是叛徒。我们可不这么想。萨拉·佩林是一位非常成功的州长，真的，是有史以来最成功的州长之一。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5011@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "The sexist liberal media continues to blame this phenomenal woman for lazy John McCain's implosion in 2008. When I win this election, the failing New York Times will see just how wrong they've been!",
+      "sha256": "5fb116c2b9711fbfc1645388a75af2f8e024b9c06860b69b8b41657f7b2501b3",
+      "zh": "充满性别歧视的自由派媒体，继续把懒惰的约翰·麦凯恩在2008年的惨败归咎于这位非凡女性。等我赢得选举，日渐衰败的《纽约时报》就会知道，他们错得有多离谱！",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5012@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "I barely said a word. Now if the Democrats and their friends in the media want to rig this election with fake polls and massive voter fraud, they will see what it looks like when someone incites violence.",
+      "sha256": "d1dd51e1f1f1ce276523cefa966af6beadf3a75654f29ac7b268469e22eb8d87",
+      "zh": "我几乎没说什么。不过，如果民主党和他们在媒体里的朋友想靠虚假民调和大规模选举舞弊操纵这场选举，他们就会见识到，真正煽动暴力是什么样。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5079@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "This is a total overreaction as usual. And how about the fact that the Democrats were sending fake protestors to my rallies to get these headlines up in the first place?",
+      "sha256": "8b258591300782f3db4b67202c9aa09db487ed2ae475755fa7049d8e4f9fcec2",
+      "zh": "照例，这完全是反应过度。再说，民主党派冒牌抗议者到我的集会上，不就是为了先制造出这些新闻头条吗？",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5080@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Hillary Clinton would be a disaster for this country, her husband signed NAFTA, and now she says she wants open markets and many other things.",
+      "sha256": "a70a590130c6c5d72b84b85b4b17a235da7167f224c4df52bcb445c5ce1f540a",
+      "zh": "希拉里·克林顿会给这个国家带来灾难。她丈夫签署了《北美自由贸易协定》，如今她又说自己想要开放市场，还想要许多其他东西。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5081@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "You know, this is hard for me. Really it's not something I usually do, I'm very against it. But this one time, I am willing to apologize for what I said a couple of times. Emotions were heated, and I may have helped push a couple of individuals over the line.",
+      "sha256": "d8125049217e1ab486b65ea0720430c7b1efcb2980ff0089136cd9791a915e10",
+      "zh": "你知道，这对我来说很难。我真的不常这么做，我非常反对这么做。不过，这一次，我愿意为自己有几次说过的话道歉。当时情绪激动，我可能助推了几个人越过界限。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5082@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This is the kind of woman Sarah Palin is and the kind of woman we want in our campaign. Let's just remind her to keep firing away at Crooked Hillary and all the crimes and anti-woman activites of the Clinton cabal.",
+      "sha256": "168e652ae644409cbed412d7a0003d010efb0cd798ffba4d2dd636a963a1b49d",
+      "zh": "萨拉·佩林就是这种女性，也是我们竞选团队需要的女性。只要提醒她，继续猛攻“骗子希拉里”，以及克林顿小集团的一切罪行和反女性活动。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5136@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "It's really a ludicrous thing. You have the same people who led John McCain and Mitt Romney to defeat. And now they've given me the same terrible advice for months. We're not gonna change a thing.",
+      "sha256": "d62ae2f8240ca9c55a56a1cc3383f5a32b1bb9bfbef399507a91d922e2dca58e",
+      "zh": "这实在荒唐。就是那些带着约翰·麦凯恩和米特·罗姆尼走向失败的人，如今又连续几个月给我同样糟糕的建议。我们一点也不会改。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5137@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "I really hate to do this, but we gotta try and lower her profile. I love Sarah, she's incredible, but we need her to be incredible around the people who appreciate her incredibility.",
+      "sha256": "54f09567543cc402f69c22c7e1279bf95535c6c41ab5eafb63f415078f0dc3bd",
+      "zh": "我真不愿这么做，但我们得尽量降低她的曝光度。我喜欢萨拉，她很了不起，但我们需要她在欣赏她这种了不起的人面前，继续表现得了不起。",
+      "keys": [
+        "2016_Trump_Palin/answers_json/5138@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Mainstream pundits seem to think you've made a political blunder, but they've been wrong before. Meanwhile, your rallies just got even wilder.",
+      "sha256": "ae37e97410229ee269752ed80ee60b428990d85244dee21b6fe7d4b72b995f68",
+      "zh": "主流评论人士似乎认为，你犯了一个政治错误，不过他们以前也错过。与此同时，你的集会变得更加狂热了。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2511@6/answer_feedback",
+        "2016_Trump_Palin/answer_feedback_json/2512@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Your latest comments spark days of outrage in the media, and significant controversy, but as usual your supporters are fired up.",
+      "sha256": "4781fe472e91a34f9a20b4ffe830877e2b2ddb2f39a3df71d3467a157c777cf9",
+      "zh": "你最新的言论引发媒体连续数日的愤怒报道，以及重大争议，不过照例，你的支持者斗志高昂。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2565@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Some think you've gone a little too far with these comments, but as usual your supporters are fired up.",
+      "sha256": "38a122c0a2003b6229725cdd510b028bb06669cc946d82d458302aa03a68d9b2",
+      "zh": "有些人认为，你这番话有点过了头，不过照例，你的支持者斗志高昂。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2566@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Donald Trump apologizing for anything makes instant headline news.",
+      "sha256": "711f24b069b4c9fa992d11d77a54831dcb4e9765cbfc29cc7fc44a0c866683f3",
+      "zh": "唐纳德·特朗普为任何事情道歉，都会立刻成为头条新闻。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2567@46/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Pundits may say it's a bad idea, but Sarah Palin can whip your crowds into a frenzy.",
+      "sha256": "ef659bb8cfa3ee5310b393a3af5e1cf94c7d648c662bf81231f7f9a27c86fa3c",
+      "zh": "评论人士也许会说这不是个好主意，但萨拉·佩林能让你的集会人群陷入狂热。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2617@73/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "As usual, you are trusting your instincts over conventional wisdom.",
+      "sha256": "1ac5cf9b7e5f760f07ebbe7f53a34e61e08146af70e88a183ddc8827baf099a9",
+      "zh": "照例，你相信自己的直觉，胜过惯常的判断。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2618@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "You can't really hide Sarah Palin. Now the media just runs stories about how you're trying to hide Sarah Palin.",
+      "sha256": "25eeb197ce39c8fd898814f695a6600a52bc9d436852ac3fca9624251854aae1",
+      "zh": "你根本藏不住萨拉·佩林。现在，媒体干脆开始报道你试图把萨拉·佩林藏起来这件事。",
+      "keys": [
+        "2016_Trump_Palin/answer_feedback_json/2619@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Let's step back a couple years. In the run-up to the 2016 election, you have the luxury of being your party's presumptive nominee, along with a significant amount of time to prepare for the campaign. How will you take advantage of this time?",
+      "sha256": "1ef6ea1f7ff3acda9c7a3808207c6d5131fbae020ca35e9cdad51d63d428df84",
+      "zh": "让我们回到几年前。在2016年选举前，你有一个有利条件：大家普遍认为你会成为本党的提名人，而且你有充足的时间筹备竞选。你会怎样利用这段时间？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1042@0/description",
+        "2016_Clinton_Booker/questions_json/1042@0/description",
+        "2016_Clinton_Brown/questions_json/1042@0/description",
+        "2016_Clinton_Sanders/questions_json/1042@0/description",
+        "2016_Clinton_Warren/questions_json/1042@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "The FBI director, James Comey, has handed down a severe criticism of your email practices while Secretary of State, though he declined to recommend any indictments. Do you have any comment?",
+      "sha256": "631ca27c2449bd9534bb40912cd492850f95c6029e73832a4e1623d2e2dc8c88",
+      "zh": "联邦调查局局长詹姆斯·科米严厉批评了你担任国务卿期间使用电子邮件的做法，但没有建议提起任何刑事指控。你有什么评论？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1043@2/description",
+        "2016_Clinton_Booker/questions_json/1043@1/description",
+        "2016_Clinton_Brown/questions_json/1043@2/description",
+        "2016_Clinton_Sanders/questions_json/1043@1/description",
+        "2016_Clinton_Warren/questions_json/1043@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "What was your rationale behind selecting Tim Kaine as your running mate?",
+      "sha256": "181ecaaee101891bbd8b1eaf045dcc8f9c20afa7942910696ca5369f0f691d17",
+      "zh": "你选择蒂姆·凯恩作为竞选搭档的理由是什么？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1046@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Having already lost a close nomination battle, many progressives feel let down by your choice of Tim Kaine as running mate. What is your response to this?",
+      "sha256": "4357482e8621449220fa34df105dac8691eca5aceaa74e45ac35a921fac5f0a4",
+      "zh": "许多进步派刚刚在一场激烈的提名争夺中惜败，又对你选择蒂姆·凯恩作为搭档感到失望。你会如何回应？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1077@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "To what extent will you campaign with Barack Obama, or support his presence on the campaign trail this year?",
+      "sha256": "bd1e579b5c72bf7b60f06c11febe757592c4a30137357c556b0e7da918066407",
+      "zh": "今年，你会在多大程度上与贝拉克·奥巴马共同竞选，或支持他参加竞选活动？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1059@15/description",
+        "2016_Clinton_Booker/questions_json/1059@15/description",
+        "2016_Clinton_Sanders/questions_json/1059@16/description",
+        "2016_Clinton_Warren/questions_json/1059@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "While attending a 9/11 memorial event today, you were caught on video going limp and being carried into a van, apparently for medical attention. Do you have any comment?",
+      "sha256": "758343f11b86e1e637cf6c4778348732aa959e12ebd04c053c90fbcf166e551f",
+      "zh": "今天参加“9·11”纪念活动时，有视频拍到你身体瘫软，被人抬进一辆厢式车，显然是为了接受医疗照护。你有什么评论？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1067@18/description",
+        "2016_Clinton_Booker/questions_json/1067@18/description",
+        "2016_Clinton_Brown/questions_json/1067@18/description",
+        "2016_Clinton_Sanders/questions_json/1067@18/description",
+        "2016_Clinton_Warren/questions_json/1067@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Do you plan to participate in the customary series of three televised debates with Donald Trump in this election cycle?",
+      "sha256": "02614d10c0bb408017e942075f7013d05c42fce3dea2c8154e43bfcd66dbae07",
+      "zh": "在本届选举中，你是否打算照惯例，与唐纳德·特朗普参加三场电视辩论？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1071@19/description",
+        "2016_Clinton_Booker/questions_json/1071@19/description",
+        "2016_Clinton_Brown/questions_json/1071@19/description",
+        "2016_Clinton_Sanders/questions_json/1071@19/description",
+        "2016_Clinton_Warren/questions_json/1071@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "A video surfaced of Trump describing how he tried to seduce a married woman, and how he can generally kiss women or \"grab them by the pussy\". 14 women have also stepped forward to accuse him of assault. What is your response?",
+      "sha256": "4bf59e22d69cbd9c7f83256bc7263e1c50a4ebe5c1b2f28755c501be979cd0b1",
+      "zh": "一段视频曝光，特朗普在其中讲述自己如何试图引诱一名已婚女性，还说一般可以亲吻女性，或是“抓她们的阴部”。另有14名女性出面指控他侵犯她们。你会如何回应？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1072@20/description",
+        "2016_Clinton_Booker/questions_json/1072@20/description",
+        "2016_Clinton_Brown/questions_json/1072@20/description",
+        "2016_Clinton_Sanders/questions_json/1072@20/description",
+        "2016_Clinton_Warren/questions_json/1072@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "A leaked transcript from Wikileaks shows you saying in a closed-door speech at Goldman Sachs that you are \"center-left, center-right\" and that you support \"open trade and open borders\". How do you respond?",
+      "sha256": "b3e5d16ea341f9179c9e0091c59076a867ed6aaf9a33696f8d31e0b85ba5ced4",
+      "zh": "维基解密泄露的一份记录显示，你在高盛的一次闭门演说中表示，自己“中间偏左，也中间偏右”，并支持“开放贸易和开放边界”。你会如何回应？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1073@21/description",
+        "2016_Clinton_Booker/questions_json/1073@21/description",
+        "2016_Clinton_Brown/questions_json/1073@21/description",
+        "2016_Clinton_Sanders/questions_json/1073@22/description",
+        "2016_Clinton_Warren/questions_json/1073@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "A leaked transcript from Wikileaks shows your campaign working with members of the DNC to collaborate against the campaign of Bernie Sanders in subtle but definite ways, such as the sharing of some debate questions before a primary debate. How do you respond?",
+      "sha256": "a4a75d833473392bc4ac465bc9da8aeee560ee20c4e9633515fccf08dd031af8",
+      "zh": "维基解密泄露的一份记录显示，你的竞选团队与民主党全国委员会的一些成员合作，以隐蔽但明确的方式联手对付伯尼·桑德斯的竞选，例如在一场初选辩论前分享部分辩论问题。你会如何回应？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1074@22/description",
+        "2016_Clinton_Booker/questions_json/1074@22/description",
+        "2016_Clinton_Brown/questions_json/1074@22/description",
+        "2016_Clinton_Sanders/questions_json/1074@21/description",
+        "2016_Clinton_Warren/questions_json/1074@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "James Comey, FBI Director, has made a late announcement that additional emails have surfaced in your case, thanks to an investigation into Anthony Weiner. What are your thoughts?",
+      "sha256": "05df2e4500a96666c9a8f06bbc1be0687f3e46a85c471032ea24be832e7ecd1c",
+      "zh": "联邦调查局局长詹姆斯·科米在竞选末期宣布，由于对安东尼·韦纳的调查，你的案件中又出现了更多电子邮件。你对此有什么看法？",
+      "keys": [
+        "2016_Clinton_Kaine/questions_json/1075@23/description",
+        "2016_Clinton_Booker/questions_json/1075@23/description",
+        "2016_Clinton_Brown/questions_json/1075@23/description",
+        "2016_Clinton_Sanders/questions_json/1075@23/description",
+        "2016_Clinton_Warren/questions_json/1075@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "We're going to hit our rolodex and solidify our campaign organization and fundraising. I'm going to hit the trail for Democrats in the 2014 midterms. We will be well-prepared to outspend Jeb Bush and we will unite the party before the primaries.",
+      "sha256": "ebe826b77f0bb3d05e7670e63f2fbfc28923a9709097d4a7d7d395387879b59c",
+      "zh": "我们要动用人脉，巩固竞选组织和筹款能力。我会在2014年中期选举中为民主党奔走助选。我们会做好充分准备，在竞选支出上压过杰布·布什，并在初选前团结全党。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5139@0/description",
+        "2016_Clinton_Booker/answers_json/5139@0/description",
+        "2016_Clinton_Brown/answers_json/5139@0/description",
+        "2016_Clinton_Sanders/answers_json/5139@0/description",
+        "2016_Clinton_Warren/answers_json/5139@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "I will travel and make a number of paid speeches to support the Clinton Foundation's global outreach. I will write a book about some of the difficult choices I made as Secretary of State. This will flex my loyalty to Obama and my foreign policy credentials.",
+      "sha256": "85c1f723b3b07a4e5993bb9b221d5f1cd26c11178b2050d7b5e330a38baa3b4c",
+      "zh": "我会出访并发表多场有偿演说，支持克林顿基金会的全球工作。我还会写一本书，谈谈担任国务卿时作过的一些艰难抉择。这会展示我对奥巴马的忠诚，以及我的外交资历。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5140@1/description",
+        "2016_Clinton_Booker/answers_json/5140@1/description",
+        "2016_Clinton_Brown/answers_json/5140@1/description",
+        "2016_Clinton_Sanders/answers_json/5140@1/description",
+        "2016_Clinton_Warren/answers_json/5140@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "I will write a book about the challenges facing America, and on my fight for healthcare access, fair pay, the environment, and the economy. From the time that I was First Lady of Arkansas until now, I have always fought to give every American a fair shake.",
+      "sha256": "d0b30c43109a5bdeabb76f261de2826cf3e085c57c6f4861fbf13ef836612fd3",
+      "zh": "我会写一本书，谈美国面临的挑战，以及我在医疗服务获取、公平薪酬、环境和经济问题上的奋斗。从担任阿肯色州第一夫人直到今天，我一直在为每个美国人争取公平的机会。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5141@2/description",
+        "2016_Clinton_Booker/answers_json/5141@2/description",
+        "2016_Clinton_Brown/answers_json/5141@2/description",
+        "2016_Clinton_Sanders/answers_json/5141@2/description",
+        "2016_Clinton_Warren/answers_json/5141@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "It's hard to visit certain places in the heat of a campaign. I will do a tour of the U.S. where I visit all 50 states and highlight the people we're fighting for with Obama's policies, and whom we'll keep fighting for when I'm President.",
+      "sha256": "326bc9b7a55cbaabbbe7be4e4508bada9a19c20545fe62970a9241f06ee68102",
+      "zh": "竞选进入白热化阶段后，有些地方很难安排访问。我会巡访美国全部五十个州，突出那些我们正通过奥巴马的政策为之奋斗的人；等我当上总统，我们还会继续为他们奋斗。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5142@3/description",
+        "2016_Clinton_Booker/answers_json/5142@3/description",
+        "2016_Clinton_Brown/answers_json/5142@3/description",
+        "2016_Clinton_Sanders/answers_json/5142@3/description",
+        "2016_Clinton_Warren/answers_json/5142@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "The Republicans can't beat us on the issues, like raising the minimum wage or making college more affordable. So instead their allies in the right-wing media use these non-stories and innuendo to defend the privilege of the 1%. There is nothing to see here.",
+      "sha256": "6175220f2b8db7ab4af334ea973e3e88ba37a28d97e6868bcdd2296df661ec45",
+      "zh": "共和党无法在提高最低工资、减轻大学费用负担这些议题上击败我们。所以，他们在右翼媒体中的盟友就拿这些根本不算新闻的事和影射来维护最富有的1%人群的特权。这里没什么可看的。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5143@4/description",
+        "2016_Clinton_Booker/answers_json/5143@4/description",
+        "2016_Clinton_Brown/answers_json/5143@4/description",
+        "2016_Clinton_Sanders/answers_json/5143@4/description",
+        "2016_Clinton_Warren/answers_json/5143@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Let's take a step back. George Bush and Dick Cheney lost over 20 million emails from their time in office. I have already turned over every relevant email from my time as Secretary of State. Anything else is a right-wing hit job.",
+      "sha256": "7cde67b78c14a42ab99dba7a0d8feaa0e11dd462b6a005752105b728dff47a49",
+      "zh": "让我们退一步看看。乔治·布什和迪克·切尼丢失了任内的二千多万封电子邮件。我已经交出了担任国务卿期间所有相关邮件。其他说法都是右翼的恶意攻击。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5144@5/description",
+        "2016_Clinton_Booker/answers_json/5144@5/description",
+        "2016_Clinton_Brown/answers_json/5144@5/description",
+        "2016_Clinton_Sanders/answers_json/5144@5/description",
+        "2016_Clinton_Warren/answers_json/5144@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "I used the same email practices as Colin Powell and many other people in government. I was far too busy dealing with Russia, the Arab Spring, and the E.U. crisis to keep track of how IT was setting up my email system.",
+      "sha256": "491eff31f6580c44201952527af97339a4da8e387ac94a66bef2d44fd9e0caf0",
+      "zh": "我采用的电子邮件做法，与科林·鲍威尔及许多政府人士相同。我忙着处理俄罗斯、阿拉伯之春和欧盟危机，根本无暇追踪信息技术人员如何配置我的邮件系统。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5145@6/description",
+        "2016_Clinton_Booker/answers_json/5145@6/description",
+        "2016_Clinton_Brown/answers_json/5145@6/description",
+        "2016_Clinton_Sanders/answers_json/5145@6/description",
+        "2016_Clinton_Warren/answers_json/5145@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "This email system was a lapse in judgment, and I apologize. It was simply a matter of convenience to prevent me from carrying two phones everywhere, but if I was doing it again, I might do something different.",
+      "sha256": "47142b0c68560c07bc2f8efc08481aaf259f0174f61e6785d1b9a359a20d1fdd",
+      "zh": "使用这套邮件系统是判断失误，我为此道歉。当时只是图方便，免得走到哪里都带两部手机。如果再来一次，我也许会作出不同选择。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5146@7/description",
+        "2016_Clinton_Booker/answers_json/5146@7/description",
+        "2016_Clinton_Brown/answers_json/5146@7/description",
+        "2016_Clinton_Sanders/answers_json/5146@7/description",
+        "2016_Clinton_Warren/answers_json/5146@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Donald Trump is already using this shooting as an excuse for his vile and unfounded attacks on an entire religion. We are better than that as a nation, and we deserve better than that from our President.",
+      "sha256": "31c7f6b45f79aff9f2f94f6a6696334178ab40b115fe0706fdc8a08610612802",
+      "zh": "唐纳德·特朗普已经把这次枪击当成借口，对整个宗教发动恶毒而毫无根据的攻击。我们的国家不该这样，我们也理应拥有比这更好的总统。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5147@8/description",
+        "2016_Clinton_Booker/answers_json/5147@8/description",
+        "2016_Clinton_Brown/answers_json/5147@8/description",
+        "2016_Clinton_Sanders/answers_json/5147@8/description",
+        "2016_Clinton_Warren/answers_json/5147@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

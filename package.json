@@ -1,0 +1,23 @@
+{
+  "name": "nct-chinese-version",
+  "private": true,
+  "description": "Optional browser verification tools. The game itself only needs Python 3.",
+  "scripts": {
+    "test": "node tests/syntax.cjs && node tests/integrity.cjs && node tests/stories-integrity.cjs && node tests/acceptance.cjs && node tests/extended.cjs && node tests/stories-browser.cjs && node tests/story-endings.cjs && node tests/annotations.cjs",
+    "test:integrity": "node tests/integrity.cjs",
+    "test:syntax": "node tests/syntax.cjs",
+    "test:browser": "node tests/acceptance.cjs",
+    "test:extended": "node tests/extended.cjs",
+    "test:stories:integrity": "node tests/stories-integrity.cjs",
+    "test:stories": "node tests/stories-browser.cjs",
+    "test:stories:smoke": "node tests/stories-browser.cjs --smoke",
+    "test:stories:review": "node tests/stories-browser.cjs --review",
+    "test:endings": "node tests/story-endings.cjs",
+    "test:annotations": "node tests/annotations.cjs",
+    "build:annotations": "python tools/build-annotations.py",
+    "build:stories": "node tools/extract-stories.cjs && python tools/translate-stories.py --offline && python tools/build-stories.py && python tools/review-stories.py && python tools/build-annotations.py"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

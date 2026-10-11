@@ -1,0 +1,1099 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2020-c",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 444,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 3,
+      "reason": "Original90percent claim and NRA wholesale bought insult retained as character rhetoric; not certified quantitative research."
+    },
+    {
+      "index": 6,
+      "reason": "Speculative tax imprisonment not judicial conviction."
+    },
+    {
+      "index": 12,
+      "reason": "Carter/Baker report historic2005 recommendations need primary check; do not apply later rules automatically."
+    },
+    {
+      "index": 16,
+      "reason": "Original should prosecuted missing be repaired Chinese grammar; originalmillions/trillions and origin allegation kept as2020candidate stance not contemporary medical advice."
+    },
+    {
+      "index": 17,
+      "reason": "Original McConnell nominate colloquial conflates presidential nomination and Senateconfirmation; body literal retained pendingnote."
+    },
+    {
+      "index": 20,
+      "reason": "Added four versus two Courtseats retained; president cannot unilaterallychange statutorysize needs note."
+    },
+    {
+      "index": 30,
+      "reason": "Personally certified translated主持认证 to avoid sole vice-presidential adjudication power; joint counting procedural roles to verify."
+    },
+    {
+      "index": 33,
+      "reason": "Fake laptop original assertion retained as candidate speech, not retrospective certification of authenticity or later claims."
+    },
+    {
+      "index": 38,
+      "reason": "Indian means Indian ancestry not Indian citizenship or NativeAmerican; Chinese印第安notused."
+    },
+    {
+      "index": 41,
+      "reason": "Referendum metaphor public judgement election, not separate binding ballot initiative."
+    },
+    {
+      "index": 57,
+      "reason": "Independent support means unaffiliated voters not campaign independence from donations."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "Nobody can deny that the situation on the southern border is a problem right now, and one that we take very seriously. I'm going to do everything I can to resolve this issue when I'm President.",
+      "sha256": "2993f2bd7f35211c09b78d1d558f57b60ca93e3e8149523487767cef295a17db",
+      "zh": "没有人能否认，南部边境目前的状况是个问题，我们也非常认真地对待。我当上总统后，会竭尽所能解决它。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6052@49/description",
+        "2020_Biden_Rice/answers_json/6052@49/description",
+        "2020_Biden_Duckworth/answers_json/6052@49/description",
+        "2020_Biden_Demings/answers_json/6052@49/description",
+        "2020_Biden_Bass/answers_json/6052@49/description",
+        "2020_Biden_Whitmer/answers_json/6052@49/description",
+        "2020_Biden_Warren/answers_json/6052@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "We're going to be fair, but we're going to be tough. I've always supported the rule of law in my career, for decades now, regardless of what some right-wing websites try to say about me.",
+      "sha256": "9d83e6113f48787ba2a52053cccb9bad7ad6e464b80429382c67ba662539de07",
+      "zh": "我们会公平，也会强硬。几十年来，在整个政治生涯中，我一直支持法治，不管一些右翼网站想怎么说我。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6053@50/description",
+        "2020_Biden_Rice/answers_json/6053@50/description",
+        "2020_Biden_Duckworth/answers_json/6053@50/description",
+        "2020_Biden_Demings/answers_json/6053@50/description",
+        "2020_Biden_Bass/answers_json/6053@50/description",
+        "2020_Biden_Whitmer/answers_json/6053@50/description",
+        "2020_Biden_Warren/answers_json/6053@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "We need to look at whatever we can do right now to take guns off of the streets and reduce the level of shootings and murders in this country. I am going to push for any kind of assault weapons ban, background check, or other legislation that we can get.",
+      "sha256": "7c1877378ee6c5fc19f72e166318f6fa9c9f3b362330e6ce521131fd7195b568",
+      "zh": "我们需要考虑现在能采取的一切办法，减少街头枪支，降低全国枪击和谋杀的数量。我会推动任何能够通过的突击武器禁令、背景审查或其他立法。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6054@51/description",
+        "2020_Biden_Rice/answers_json/6054@51/description",
+        "2020_Biden_Duckworth/answers_json/6054@51/description",
+        "2020_Biden_Demings/answers_json/6054@51/description",
+        "2020_Biden_Bass/answers_json/6054@51/description",
+        "2020_Biden_Whitmer/answers_json/6054@51/description",
+        "2020_Biden_Warren/answers_json/6054@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "If you look at these mass shootings we keep seeing, assault weapons are responsible for 90 percent of the problem. Everyone wants them banned except a small group of extremists and NRA lobbyists who have bought the Republican Party wholesale.",
+      "sha256": "71a9f3c312a15a322d09b231a1717957e38c0ad787a7d1db02b543207a7bec21",
+      "zh": "看看这些接连发生的大规模枪击，突击武器造成了其中90%的问题。除了少数极端分子，以及把共和党整个买下来的全国步枪协会说客，大家都想禁掉它们。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6055@52/description",
+        "2020_Biden_Rice/answers_json/6055@52/description",
+        "2020_Biden_Duckworth/answers_json/6055@52/description",
+        "2020_Biden_Demings/answers_json/6055@52/description",
+        "2020_Biden_Bass/answers_json/6055@52/description",
+        "2020_Biden_Whitmer/answers_json/6055@52/description",
+        "2020_Biden_Warren/answers_json/6055@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "If we win Florida, this election is over. I want us doing events all over the state.",
+      "sha256": "70de1e1f2ee4bbef30c4e8f14beec5ed197721952639e02288027e27008a8aaa",
+      "zh": "只要赢下佛罗里达州，这场选举就结束了。我希望我们在全州各地开展活动。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6090@53/description",
+        "2020_Biden_Rice/answers_json/6090@53/description",
+        "2020_Biden_Duckworth/answers_json/6090@53/description",
+        "2020_Biden_Demings/answers_json/6090@53/description",
+        "2020_Biden_Bass/answers_json/6090@53/description",
+        "2020_Biden_Whitmer/answers_json/6090@53/description",
+        "2020_Biden_Warren/answers_json/6090@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "The right-wing media wants to present me as some kind of a gun-grabber, when that couldn't be further from the truth. My only crime is not parroting the NRA's every last word on this issue.",
+      "sha256": "b281e0a60c7c0231560474f2cb4a3cc0016f76216544db0a8edc0df134065d61",
+      "zh": "右翼媒体想把我描绘成某种要没收枪支的人，事实却完全相反。我唯一的“罪”，就是没有在这个问题上逐字鹦鹉学舌般地重复全国步枪协会的每句话。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6056@54/description",
+        "2020_Biden_Rice/answers_json/6056@54/description",
+        "2020_Biden_Duckworth/answers_json/6056@54/description",
+        "2020_Biden_Demings/answers_json/6056@54/description",
+        "2020_Biden_Bass/answers_json/6056@54/description",
+        "2020_Biden_Whitmer/answers_json/6056@54/description",
+        "2020_Biden_Warren/answers_json/6056@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Come on, man! If there was ever a real investigation of Trump's tax practices by the IRS or the FBI, he'd probably be in prison right now. Am I wrong?",
+      "sha256": "687d2f6bb36119807e7a36f30810c805601ac0ff4c168e55c429992fbc86eff6",
+      "zh": "拜托，老兄！如果国税局或联邦调查局真的调查过特朗普的税务做法，他现在大概已经坐牢了。我说错了吗？",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6057@55/description",
+        "2020_Biden_Rice/answers_json/6057@55/description",
+        "2020_Biden_Duckworth/answers_json/6057@55/description",
+        "2020_Biden_Demings/answers_json/6057@55/description",
+        "2020_Biden_Bass/answers_json/6057@55/description",
+        "2020_Biden_Whitmer/answers_json/6057@55/description",
+        "2020_Biden_Warren/answers_json/6057@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "As part of a balanced campaign strategy, of course we're going to attack Donald Trump on his tax shenanigans. But we just need to make sure our main focus is on the substantive issues affecting working Americans.",
+      "sha256": "78b3d3faafa85722f790a450e8c3f9ac823fca3f5a7fc292a58ebf82e005f853",
+      "zh": "作为均衡竞选策略的一部分，我们当然会攻击唐纳德·特朗普的税务花招。但必须确保，我们主要聚焦的是影响美国劳动者的实质问题。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6058@56/description",
+        "2020_Biden_Rice/answers_json/6058@56/description",
+        "2020_Biden_Duckworth/answers_json/6058@56/description",
+        "2020_Biden_Demings/answers_json/6058@56/description",
+        "2020_Biden_Bass/answers_json/6058@56/description",
+        "2020_Biden_Whitmer/answers_json/6058@56/description",
+        "2020_Biden_Warren/answers_json/6058@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "People know all about Donald Trump and the dozens of scandals that have unfolded around him. I think we're better off talking about solutions to the COVID-19 crisis and the economy.",
+      "sha256": "fa2d23a7cd87f9528a134a349b6f57ec50203ab7f4f4403353c874e67dce2cee",
+      "zh": "大家都知道唐纳德·特朗普，以及围绕他出现的数十桩丑闻。我想，还是谈解决新冠危机和经济问题的办法更好。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6059@57/description",
+        "2020_Biden_Rice/answers_json/6059@57/description",
+        "2020_Biden_Duckworth/answers_json/6059@57/description",
+        "2020_Biden_Demings/answers_json/6059@57/description",
+        "2020_Biden_Bass/answers_json/6059@57/description",
+        "2020_Biden_Whitmer/answers_json/6059@57/description",
+        "2020_Biden_Warren/answers_json/6059@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "It's a shame that it takes a global pandemic for us to get serious about the right to vote. The future of democracy demands that we protect the vote in this country, and I intend to push for federal legislation to do just that.",
+      "sha256": "d09a90b53f37a74b6f014cc1094a3b0edad13600955146fb67c3c5a32c4f16af",
+      "zh": "我们竟然得等到一场全球疫情，才认真对待投票权，实在遗憾。民主的未来要求我们保护这个国家的投票权，我打算推动联邦立法，做到这一点。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6060@58/description",
+        "2020_Biden_Rice/answers_json/6060@58/description",
+        "2020_Biden_Duckworth/answers_json/6060@58/description",
+        "2020_Biden_Demings/answers_json/6060@58/description",
+        "2020_Biden_Bass/answers_json/6060@58/description",
+        "2020_Biden_Whitmer/answers_json/6060@58/description",
+        "2020_Biden_Warren/answers_json/6060@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "These are perfectly reasonable measures to take that will save lives in the midst of a global pandemic. It's a shame that Republicans, including Trump's Postal Service head, are willing to undermine this process so brazenly.",
+      "sha256": "fe59ad3390605f2f66a183190cfb9fff4d0f4d9526f7e53e13816362bf77d74e",
+      "zh": "这些措施完全合理，可以在全球疫情中挽救生命。共和党人，包括特朗普任命的邮政部门负责人，竟愿意如此公然地破坏这一过程，实在遗憾。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6061@59/description",
+        "2020_Biden_Rice/answers_json/6061@59/description",
+        "2020_Biden_Duckworth/answers_json/6061@59/description",
+        "2020_Biden_Demings/answers_json/6061@59/description",
+        "2020_Biden_Bass/answers_json/6061@59/description",
+        "2020_Biden_Whitmer/answers_json/6061@59/description",
+        "2020_Biden_Warren/answers_json/6061@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Anyone can see that we have special circumstances this year. If I'm elected, I plan to appoint a commission to research which of these measures were effective, and what we can do differently in 2024.",
+      "sha256": "08544db4989c7ec6b1bc499a4fcd6ad2311e30dbc33ad134354bd19422b65dec",
+      "zh": "谁都看得出，今年情况特殊。当选后，我计划设立一个委员会，研究哪些措施有效，以及2024年可以如何改进。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6062@60/description",
+        "2020_Biden_Rice/answers_json/6062@60/description",
+        "2020_Biden_Duckworth/answers_json/6062@60/description",
+        "2020_Biden_Demings/answers_json/6062@60/description",
+        "2020_Biden_Bass/answers_json/6062@60/description",
+        "2020_Biden_Whitmer/answers_json/6062@60/description",
+        "2020_Biden_Warren/answers_json/6062@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Two of my old friends, Jimmy Carter and James Baker, came out with a great study on election integrity a few years ago, and it's time we put their recommendations into action. I think this would represent a reasonable compromise between making it easy to vote, while ensuring our elections are secure from fraud.",
+      "sha256": "5a2726ef94242843747a3cc20ece8c5c0e94f411ffe54344da769343a080784a",
+      "zh": "几年前，我的两位老朋友吉米·卡特和詹姆斯·贝克，就选举公正性发表了一份出色研究，是时候落实他们的建议了。我认为，这能合理兼顾投票便利与防止选举舞弊。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6063@61/description",
+        "2020_Biden_Rice/answers_json/6063@61/description",
+        "2020_Biden_Duckworth/answers_json/6063@61/description",
+        "2020_Biden_Demings/answers_json/6063@61/description",
+        "2020_Biden_Bass/answers_json/6063@61/description",
+        "2020_Biden_Whitmer/answers_json/6063@61/description",
+        "2020_Biden_Warren/answers_json/6063@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Trump's willingness to inflame racial tensions and spread disinformation about China and coronavirus is appalling. There is a direct relationship between his actions and the increase in attacks that we've seen.",
+      "sha256": "01b1225ba9c8d08b5f283879c86caf38c55796a6749c6f4a1e4b9b7c60dc5ce8",
+      "zh": "特朗普竟愿意激化种族紧张，散布关于中国和冠状病毒的虚假信息，令人震惊。他的行为与我们看到的袭击增加，有直接关系。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6064@62/description",
+        "2020_Biden_Rice/answers_json/6064@62/description",
+        "2020_Biden_Demings/answers_json/6064@62/description",
+        "2020_Biden_Bass/answers_json/6064@62/description",
+        "2020_Biden_Warren/answers_json/6064@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Asian-American hate needs to stop, right now. As a candidate I am pleading with all Americans to look into their hearts and ask what they can do to help on this important issue.",
+      "sha256": "a587f9161d4a3a1769ab59f6f3dd980b6dedf5c246196aebc0e553328806d306",
+      "zh": "针对亚裔美国人的仇恨必须停止，现在就停止。作为候选人，我恳请每个美国人审视自己的内心，想想能为这个重要问题做些什么。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6065@63/description",
+        "2020_Biden_Rice/answers_json/6065@63/description",
+        "2020_Biden_Demings/answers_json/6065@63/description",
+        "2020_Biden_Bass/answers_json/6065@63/description",
+        "2020_Biden_Warren/answers_json/6065@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Reasonable, intelligent people should be able to distinguish between criticism of China, and criticism of Asian-Americans in the United States. It's very sad and unfortunate that some can't understand this, and we need to do everything possible to prevent these kinds of attacks.",
+      "sha256": "5f4651aba7f79ae8afa83e8908129623f106e77751f6dcffa172b39c19c4d8a2",
+      "zh": "理性、明智的人应该分清，批评中国，与批评生活在美国的亚裔美国人，是两回事。有些人不明白这一点，令人悲伤和遗憾。我们需要尽一切可能防止这类袭击。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6066@64/description",
+        "2020_Biden_Rice/answers_json/6066@64/description",
+        "2020_Biden_Demings/answers_json/6066@64/description",
+        "2020_Biden_Bass/answers_json/6066@64/description",
+        "2020_Biden_Warren/answers_json/6066@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "These attacks are wrong and they should prosecuted to the full extent of the law. At the same time, we need more answers from China. Millions of lives and trillions of dollars have been lost, yet they continue to block any serious investigation into the origins of this virus.",
+      "sha256": "7f0715954d342640466e09521c06955f87bed95f9c3e81bea6fce22f79b59b30",
+      "zh": "这些袭击是错的，应依法严厉追诉。同时，我们需要中国给出更多答案。数百万生命、数万亿美元已经损失，他们却继续阻挠任何对病毒起源的认真调查。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6067@65/description",
+        "2020_Biden_Rice/answers_json/6067@65/description",
+        "2020_Biden_Demings/answers_json/6067@65/description",
+        "2020_Biden_Bass/answers_json/6067@65/description",
+        "2020_Biden_Warren/answers_json/6067@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "I'm warning Mitch McConnell right now. Either he can back off and wait until this election is over with to nominate a justice, or I will do everything in my power to expand the size of the Court as President.",
+      "sha256": "f3c2978dd9511d1c447409b95b371db8abbd6f835713ae5147ed7fd2fdcf0d3f",
+      "zh": "我现在就警告米奇·麦康奈尔：要么退让，等这场选举结束再提名大法官；要么我当总统后，就会尽一切所能扩大法院人数。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6068@66/description",
+        "2020_Biden_Rice/answers_json/6068@66/description",
+        "2020_Biden_Duckworth/answers_json/6068@62/description",
+        "2020_Biden_Demings/answers_json/6068@66/description",
+        "2020_Biden_Bass/answers_json/6068@66/description",
+        "2020_Biden_Whitmer/answers_json/6068@62/description",
+        "2020_Biden_Warren/answers_json/6068@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "This is a naked power grab by the Republicans, Trump, and Mitch McConnell that puts the integrity of the Court in serious jeopardy. It was just four years ago that McConnell took the exact opposite position on this same issue.",
+      "sha256": "a46db61917ae8c8e56d4c0bbce7eac5dc7b9d3114ee9a6655cf79856bd006bcf",
+      "zh": "这是共和党、特朗普和米奇·麦康奈尔赤裸裸的夺权，严重危及法院的公信力。就在四年前，麦康奈尔在同一个问题上采取的还是完全相反的立场。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6069@67/description",
+        "2020_Biden_Rice/answers_json/6069@67/description",
+        "2020_Biden_Duckworth/answers_json/6069@63/description",
+        "2020_Biden_Demings/answers_json/6069@67/description",
+        "2020_Biden_Bass/answers_json/6069@67/description",
+        "2020_Biden_Whitmer/answers_json/6069@63/description",
+        "2020_Biden_Warren/answers_json/6069@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "We can sit around all day worrying about tactics, but the fact of the matter is, we need to win elections. If Democrats did a better job of appealing to all Americans, we wouldn't be in this predicament right now.",
+      "sha256": "3130bdfcd682a540a2caa964bb4053f9a391088ded9133f804da843c760a407a",
+      "zh": "我们可以整天坐着担心策略，但事实是，我们需要赢得选举。如果民主党能更好地争取全体美国人，现在就不会陷入这种困境。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6070@68/description",
+        "2020_Biden_Rice/answers_json/6070@68/description",
+        "2020_Biden_Duckworth/answers_json/6070@64/description",
+        "2020_Biden_Demings/answers_json/6070@68/description",
+        "2020_Biden_Bass/answers_json/6070@68/description",
+        "2020_Biden_Whitmer/answers_json/6070@64/description",
+        "2020_Biden_Warren/answers_json/6070@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Absolutely. We can't sit here and play by the niceties of a bygone era while Republicans steamroll us. I'm prepared to appoint four new justices to the Supreme Court.",
+      "sha256": "79fe7709e49e209c37f64a4af950c8327c2bc112febec35f3c2f8cda37c56a8f",
+      "zh": "当然。我们不能还守着早已过时的礼让，让共和党一路碾压我们。我准备给最高法院增设并任命四名大法官。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6071@69/description",
+        "2020_Biden_Rice/answers_json/6071@69/description",
+        "2020_Biden_Duckworth/answers_json/6071@65/description",
+        "2020_Biden_Demings/answers_json/6071@69/description",
+        "2020_Biden_Bass/answers_json/6071@69/description",
+        "2020_Biden_Whitmer/answers_json/6071@65/description",
+        "2020_Biden_Warren/answers_json/6071@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Fair is fair, right? The Republicans have stolen two seats on the Court with McConnell's chicanery. I think we should create two new justices and appoint them in return.",
+      "sha256": "fdb178e2f7a0c9ef6ed7d69037e65507bf8eb2c2f3b27a6169cdc703409ced02",
+      "zh": "公平就是公平，对吧？共和党靠麦康奈尔的诡计，偷走了法院的两个席位。我认为，我们应该新增两个大法官席位，再任命人选，作为回应。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6072@70/description",
+        "2020_Biden_Rice/answers_json/6072@70/description",
+        "2020_Biden_Duckworth/answers_json/6072@66/description",
+        "2020_Biden_Demings/answers_json/6072@70/description",
+        "2020_Biden_Bass/answers_json/6072@70/description",
+        "2020_Biden_Whitmer/answers_json/6072@66/description",
+        "2020_Biden_Warren/answers_json/6072@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "This is a very serious issue and the integrity of the Court is at risk. We're going to create a commission when I'm elected to recommend ways in which we can reform the federal court system and restore the faith of the American people.",
+      "sha256": "79dd8f0f78891b207f527c83a9707caf8ff9a68ebec29b597be801ca4e86f387",
+      "zh": "这是个非常严肃的问题，法院的公信力正面临风险。当选后，我们会成立委员会，建议如何改革联邦法院体系，恢复美国人民的信任。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6073@71/description",
+        "2020_Biden_Rice/answers_json/6073@71/description",
+        "2020_Biden_Duckworth/answers_json/6073@67/description",
+        "2020_Biden_Demings/answers_json/6073@71/description",
+        "2020_Biden_Bass/answers_json/6073@71/description",
+        "2020_Biden_Whitmer/answers_json/6073@67/description",
+        "2020_Biden_Warren/answers_json/6073@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "The Court has had nine justices since 1869, and any attempt to change that is sure to destroy the Court's legitimacy even further. We must look at other kinds of reform.",
+      "sha256": "cf8da26f0eeb54f05d4769786dc97bb897b75844bce8c7dfeaf9ded56db9f620",
+      "zh": "法院自1869年以来一直有九名大法官，任何改变人数的企图，肯定都会进一步摧毁它的正当性。我们必须考虑其他形式的改革。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6074@72/description",
+        "2020_Biden_Rice/answers_json/6074@72/description",
+        "2020_Biden_Duckworth/answers_json/6074@68/description",
+        "2020_Biden_Demings/answers_json/6074@72/description",
+        "2020_Biden_Bass/answers_json/6074@72/description",
+        "2020_Biden_Whitmer/answers_json/6074@68/description",
+        "2020_Biden_Warren/answers_json/6074@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "We're in the midst of a COVID pandemic and Trump has refused to accept the legitimacy of this year's results. I think it's best if we buy a 30-minute TV slot and take my case directly to the American people.",
+      "sha256": "c4d64e8dd52e74c366119130c7760133266fcd1d41c752c8f92176d49e95f7c5",
+      "zh": "我们正处于新冠疫情中，特朗普又不肯承认今年选举结果的正当性。我认为，最好买下三十分钟的电视时段，直接向美国人民陈述我的主张。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6075@73/description",
+        "2020_Biden_Rice/answers_json/6075@73/description",
+        "2020_Biden_Duckworth/answers_json/6075@69/description",
+        "2020_Biden_Demings/answers_json/6075@73/description",
+        "2020_Biden_Bass/answers_json/6075@73/description",
+        "2020_Biden_Whitmer/answers_json/6075@69/description",
+        "2020_Biden_Warren/answers_json/6075@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "I've been around politics long enough to know that you <i>always</i> show up to the debates when you're a challenger… even against Trump and even in 2020.",
+      "sha256": "7a7494a9963ab46ed7d4b8c9f8d818419aa348d35fcbab9239ec3f8442c5565d",
+      "zh": "我从政够久了，知道作为挑战者，<i>总是</i>应该参加辩论……哪怕对手是特朗普，哪怕是在2020年。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6076@74/description",
+        "2020_Biden_Harris/answers_json/6077@75/description",
+        "2020_Biden_Harris/answers_json/6078@76/description",
+        "2020_Biden_Rice/answers_json/6076@74/description",
+        "2020_Biden_Rice/answers_json/6077@75/description",
+        "2020_Biden_Rice/answers_json/6078@76/description",
+        "2020_Biden_Duckworth/answers_json/6076@70/description",
+        "2020_Biden_Duckworth/answers_json/6077@71/description",
+        "2020_Biden_Duckworth/answers_json/6078@72/description",
+        "2020_Biden_Demings/answers_json/6076@74/description",
+        "2020_Biden_Demings/answers_json/6077@75/description",
+        "2020_Biden_Demings/answers_json/6078@76/description",
+        "2020_Biden_Bass/answers_json/6076@74/description",
+        "2020_Biden_Bass/answers_json/6077@75/description",
+        "2020_Biden_Bass/answers_json/6078@76/description",
+        "2020_Biden_Whitmer/answers_json/6076@70/description",
+        "2020_Biden_Whitmer/answers_json/6077@71/description",
+        "2020_Biden_Whitmer/answers_json/6078@72/description",
+        "2020_Biden_Warren/answers_json/6076@70/description",
+        "2020_Biden_Warren/answers_json/6077@71/description",
+        "2020_Biden_Warren/answers_json/6078@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "From day one, Trump has failed to take this pandemic seriously, and has actively encouraged behaviors that spread COVID-19. What we see now is the natural consequence of that recklessness, and it only shows how unfit he is to be President of the United States.",
+      "sha256": "3696b8e45b6726d7db66c4f4a3b643aa9e82eaa81f92a54a3bcbe5c7b3d0ce7d",
+      "zh": "从第一天起，特朗普就没认真对待这场疫情，还积极鼓励会传播病毒的行为。现在的情况，是这种鲁莽的自然后果，也更加说明他多么不适合担任美国总统。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6079@77/description",
+        "2020_Biden_Rice/answers_json/6079@77/description",
+        "2020_Biden_Duckworth/answers_json/6079@73/description",
+        "2020_Biden_Demings/answers_json/6079@77/description",
+        "2020_Biden_Bass/answers_json/6079@77/description",
+        "2020_Biden_Whitmer/answers_json/6079@73/description",
+        "2020_Biden_Warren/answers_json/6079@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "We are praying for a full recovery, but we've seen time after time how Trump has disregarded the medical advice on masking and social distancing.",
+      "sha256": "94b126d85af773082199d5ea584830bcc29639b9816a34cf715fb9450dd53380",
+      "zh": "我们为他完全康复祈祷，但也一再看到，特朗普无视戴口罩和保持社交距离的医学建议。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6080@78/description",
+        "2020_Biden_Rice/answers_json/6080@78/description",
+        "2020_Biden_Duckworth/answers_json/6080@74/description",
+        "2020_Biden_Demings/answers_json/6080@78/description",
+        "2020_Biden_Bass/answers_json/6080@78/description",
+        "2020_Biden_Whitmer/answers_json/6080@74/description",
+        "2020_Biden_Warren/answers_json/6080@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Jill and I are praying for a full and speedy recovery for President Trump. As someone who has dealt with tragedy, you never want to see this kind of thing happen to anyone.",
+      "sha256": "b681b2651b9916353df7f0a8498c3fc176f4a8066b36c24ab635ca7505fed8e5",
+      "zh": "吉尔和我正为特朗普总统尽快完全康复祈祷。经历过悲剧的人，绝不希望看到任何人遭遇这种事。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6081@79/description",
+        "2020_Biden_Rice/answers_json/6081@79/description",
+        "2020_Biden_Duckworth/answers_json/6081@75/description",
+        "2020_Biden_Demings/answers_json/6081@79/description",
+        "2020_Biden_Bass/answers_json/6081@79/description",
+        "2020_Biden_Whitmer/answers_json/6081@75/description",
+        "2020_Biden_Warren/answers_json/6081@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "With minority voter suppression, Russian interference, social media misinformation, and the Postal Service's sabotage of mail-in voting, I don't know why Trump should be the one to doubt the integrity of this year's election. It's Democrats who should be worried!",
+      "sha256": "087534e7d70f1b5e79cc4a34a2fc4196e3a9e9f3c12ca148bb01d4e646975442",
+      "zh": "少数族裔选民遭打压，俄罗斯干预，社交媒体传播虚假信息，邮政部门破坏邮寄投票——我不知道，特朗普为什么倒成了怀疑今年选举公正性的人。该担心的是民主党！",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6082@80/description",
+        "2020_Biden_Rice/answers_json/6082@80/description",
+        "2020_Biden_Duckworth/answers_json/6082@76/description",
+        "2020_Biden_Demings/answers_json/6082@80/description",
+        "2020_Biden_Bass/answers_json/6082@80/description",
+        "2020_Biden_Whitmer/answers_json/6082@76/description",
+        "2020_Biden_Warren/answers_json/6082@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "I've walked the walk on this issue. As Vice President, I was the one who personally certified Donald Trump's election in January of 2017. Trump's rhetoric is extremely irresponsible and dangerous to the future of democracy in this country.",
+      "sha256": "1aa7e0bcc14c9d9ceeaa9a3d49c414c923dbdba936bb4205d1af72b15a23e9cb",
+      "zh": "在这个问题上，我做到了言行一致。2017年1月，我担任副总统时，亲自主持认证了唐纳德·特朗普当选。特朗普的言论极不负责任，对这个国家民主的未来十分危险。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6083@81/description",
+        "2020_Biden_Rice/answers_json/6083@81/description",
+        "2020_Biden_Duckworth/answers_json/6083@77/description",
+        "2020_Biden_Demings/answers_json/6083@81/description",
+        "2020_Biden_Bass/answers_json/6083@81/description",
+        "2020_Biden_Whitmer/answers_json/6083@77/description",
+        "2020_Biden_Warren/answers_json/6083@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "If Trump thought he was going to win this election, he wouldn't be saying these kinds of things. I'm confident that we're going to win, and that the American people will have full faith in the outcome this year.",
+      "sha256": "44c77a597d24a0c52b19e277d34ead512507d2c8a29d137ff99bc95ed1298ac8",
+      "zh": "如果特朗普觉得自己会赢，就不会说这种话。我相信我们会获胜，美国人民也会充分信任今年的结果。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6084@82/description",
+        "2020_Biden_Rice/answers_json/6084@82/description",
+        "2020_Biden_Duckworth/answers_json/6084@78/description",
+        "2020_Biden_Demings/answers_json/6084@82/description",
+        "2020_Biden_Bass/answers_json/6084@82/description",
+        "2020_Biden_Whitmer/answers_json/6084@78/description",
+        "2020_Biden_Warren/answers_json/6084@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Let's just wait and see how this all plays out before we go throwing wild accusations at each other. I have every confidence that this will be a fair election.",
+      "sha256": "2fed5f63a262eefefe49dbc7bcf32c09600cca1b65ace75b7d4950da97b20e04",
+      "zh": "别急着互相抛出狂妄的指控，先看看事情如何发展。我完全相信，这会是一场公平的选举。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6085@83/description",
+        "2020_Biden_Rice/answers_json/6085@83/description",
+        "2020_Biden_Duckworth/answers_json/6085@79/description",
+        "2020_Biden_Demings/answers_json/6085@83/description",
+        "2020_Biden_Bass/answers_json/6085@83/description",
+        "2020_Biden_Whitmer/answers_json/6085@79/description",
+        "2020_Biden_Warren/answers_json/6085@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "This is a fake laptop. End of story. I don't know how it got passed around, but you have to strongly suspect Russian intelligence or other nefarious actors here.",
+      "sha256": "727620db9658552a90aa40592cbb798fce96d2c0e823e8f25bbee1e1b5424892",
+      "zh": "这是一台假笔记本电脑，事情就是这样。我不知道它是怎么流传出来的，但这里很值得怀疑俄罗斯情报部门或其他恶意势力的作用。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6086@84/description",
+        "2020_Biden_Rice/answers_json/6086@84/description",
+        "2020_Biden_Duckworth/answers_json/6086@80/description",
+        "2020_Biden_Demings/answers_json/6086@84/description",
+        "2020_Biden_Bass/answers_json/6086@84/description",
+        "2020_Biden_Whitmer/answers_json/6086@80/description",
+        "2020_Biden_Warren/answers_json/6086@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "This story is disinformation, nothing is proven about the laptop, and no reputable news agency will run with this story. Why should I insert myself into the middle of this controversy?",
+      "sha256": "6f4a56c44278d83c40179f32fe7de5f79d5ebeb8ea731740977da63806a96ba3",
+      "zh": "这个故事是虚假信息，关于电脑的说法都没有得到证明，也没有信誉良好的新闻机构愿意跟进。我为什么要把自己卷进这场争议？",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6087@85/description",
+        "2020_Biden_Rice/answers_json/6087@85/description",
+        "2020_Biden_Duckworth/answers_json/6087@81/description",
+        "2020_Biden_Demings/answers_json/6087@85/description",
+        "2020_Biden_Bass/answers_json/6087@85/description",
+        "2020_Biden_Whitmer/answers_json/6087@81/description",
+        "2020_Biden_Warren/answers_json/6087@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "I want us to focus on Pennsylvania, with maybe a quick stop over the border in Ohio.",
+      "sha256": "890accb8bb0c2f975c7328f5f822557e080a1328b1c1a7cbcfd3a5a888105c49",
+      "zh": "我希望我们聚焦宾夕法尼亚州，也许越过州界，去俄亥俄州短暂停留。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6088@86/description",
+        "2020_Biden_Rice/answers_json/6088@86/description",
+        "2020_Biden_Duckworth/answers_json/6088@82/description",
+        "2020_Biden_Demings/answers_json/6088@86/description",
+        "2020_Biden_Bass/answers_json/6088@86/description",
+        "2020_Biden_Whitmer/answers_json/6088@82/description",
+        "2020_Biden_Warren/answers_json/6088@82/description",
+        "2020_Trump_Pence/answers_json/6204@91/description",
+        "2020_Trump_Haley/answers_json/6204@91/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "We're going to campaign hard in Michigan, Wisconsin, and Iowa on this final day of the campaign.",
+      "sha256": "0a3a7472620dfafa27c5afddc8f8ab054d2123c3a79caada19a8e245ad1b61f1",
+      "zh": "竞选最后一天，我们会在密歇根州、威斯康星州和艾奥瓦州大力竞选。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6089@87/description",
+        "2020_Biden_Rice/answers_json/6089@87/description",
+        "2020_Biden_Duckworth/answers_json/6089@83/description",
+        "2020_Biden_Demings/answers_json/6089@87/description",
+        "2020_Biden_Bass/answers_json/6089@87/description",
+        "2020_Biden_Whitmer/answers_json/6089@83/description",
+        "2020_Biden_Warren/answers_json/6089@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Kamala Harris has the experience to be an effective President from day one. Her judgment and intelligence as California's Attorney General and U.S. Senator have been on display for everyone to see.",
+      "sha256": "fce39d50f6a7eb29199d7bddd631e00b7e964503882fcbb210fa3191113dc933",
+      "zh": "卡玛拉·哈里斯有经验，能从第一天起有效担任总统。她担任加利福尼亚州司法部长和美国参议员时展现的判断力与才智，大家都有目共睹。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6092@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Kamala Harris is the first Indian, the first African-American woman who would be Vice President. She has succeeded in every role she has been elected to, and I'm proud to stand next to her in this campaign.",
+      "sha256": "5bbe8d32d591bd0c1436446ccfe8f6e3fee82e910d63fa9e850331615ad94064",
+      "zh": "卡玛拉·哈里斯将成为第一位印度裔副总统，也是第一位非裔美国女性副总统。她在每一个通过选举获得的职位上都取得了成功，我很自豪能在这场竞选中与她并肩。",
+      "keys": [
+        "2020_Biden_Harris/answers_json/6093@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Infrastructure spending is farily popular across the spectrum. There's nothing wrong with going big here, politically.",
+      "sha256": "18d65f483bae5b2a07efc04636cacc2abdd04c55a271a5a9c3db23196f454575",
+      "zh": "基础设施支出在各种政治立场的人中，都相当受欢迎。从政治上说，大手笔没有什么不对。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3031@0/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3031@0/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3031@0/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3031@0/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3031@0/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3031@0/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3031@0/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Based on some early results, it appears that many polls significantly underestimated Trump's support. This may be close after all.",
+      "sha256": "88dcf549bc95b0b0b5ec20e1d91cc77af4ad093d853d8b751103f929d1941743",
+      "zh": "根据一些初步结果，许多民调似乎严重低估了特朗普的支持率。这场选举可能终究还是很接近。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Harris/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Harris/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Harris/answer_feedback_json/3003@4/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3003@4/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3003@4/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3003@4/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3003@4/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3003@4/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3000@1/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3001@2/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3002@3/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3003@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Pundits are noting a strong focus on Donald Trump's excesses in your opening speeches. Are you satisfied to make this election a referendum on Trump?",
+      "sha256": "7cc9ffc8b9c1729c33553016bff8e4bcaa8e90fb7b9d92e7918fe33cd58cc7c6",
+      "zh": "评论人士注意到，你开场的演说着重强调唐纳德·特朗普的过分行为。你愿意把这场选举变成对特朗普的全民评价吗？",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3008@5/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3008@5/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3008@5/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3008@5/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3008@5/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3008@5/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3008@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Pundits are noting a strong focus on infrastructure and the economy in your opening speeches.",
+      "sha256": "924c0ca6a101e8f21b4de8da6eaf6bd430c54b4820ffc34668eb57635637eb3f",
+      "zh": "评论人士注意到，你开场的演说着重强调基础设施和经济。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3009@6/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3009@6/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3009@6/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3009@6/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3009@6/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3009@6/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3009@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "Pundits are noting a strong focus on unity and diversity in your opening speeches.",
+      "sha256": "2d64060cbf340e78c3c6bb107c08a058a6618c2843c9ae7cf8bdde367eff2499",
+      "zh": "评论人士注意到，你开场的演说着重强调团结与多元。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3010@7/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3010@7/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3010@7/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3010@7/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3010@7/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3010@7/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3010@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Pundits are noting a serious tone and a focus on COVID and competency in your opening speeches.",
+      "sha256": "25cb67bcfc1aed0ca8b32e64a3d1592b94a041cd826256da8fe563cf2bca7794",
+      "zh": "评论人士注意到，你开场的演说语气严肃，着重强调新冠疫情和执政能力。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3011@8/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3011@8/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3011@8/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3011@8/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3011@8/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3011@8/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3011@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "Your support of mainstream science on COVID appeals to most Democrats. Republicans say you're just looking for an excuse to stay out of the public eye.",
+      "sha256": "d1a0ac88583cf4b9014b6fc03e5e3834914f85299598395adaac0d76bdf3c4ac",
+      "zh": "你对新冠疫情主流科学认识的支持，吸引了大多数民主党人。共和党人则说，你只是在找借口，不想出现在公众面前。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3012@9/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3012@9/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3012@9/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3012@9/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3012@9/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3012@9/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3012@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "It seems you're looking to strike a balance between cocooning yourself too much from the public on the one hand, and ignoring scientific advice on the other.",
+      "sha256": "23417bc766afe2f49f7e449a99b621ccc2e8288b0fae460171827631e04a762f",
+      "zh": "看来，你正在两者之间寻找平衡：既不让自己过度与公众隔绝，也不无视科学建议。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3013@10/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3013@10/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3013@10/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3013@10/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3013@10/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3013@10/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3013@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "For better or worse, your appearances do make headlines and keep you in front of the American people. Some of your core supporters are confused and concerned, however.",
+      "sha256": "dadfe71032ffaf8a3415cd3a31589a85720ba0b017bae5ac173be7129d9e7c49",
+      "zh": "不管是好是坏，你的亮相确实登上了头条，让美国人民继续看到你。不过，一些核心支持者感到困惑和担忧。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3014@11/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3014@11/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3014@11/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3014@11/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3014@11/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3014@11/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3014@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Pundits note that you are keeping your distance from the progressive left and presenting yourself as a much more traditional Democrat.",
+      "sha256": "051574eff860a36d858f55890faa1784b4575db831be1657434f1980ed41a95f",
+      "zh": "评论人士注意到，你正与进步派左翼保持距离，把自己塑造成更传统的民主党人。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3015@12/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3015@12/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3015@12/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3015@12/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3015@12/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3015@12/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3015@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Many progressive commentators are outraged by your seeming snub of Bernie Sanders, and stories about a potential rift dominate the political news for several days.",
+      "sha256": "1faecae1d1bc54219d7dfaba679d90038b8aa91fd091f93073e11563ad4eda75",
+      "zh": "许多进步派评论人士，对你似乎冷落伯尼·桑德斯感到愤怒。可能出现裂痕的报道，连续几天占据政治新闻。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3016@13/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3016@13/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3016@13/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3016@13/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3016@13/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3016@13/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3016@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Your line, “he shouldn't even be President right now”, gets replayed on cable news and clearly sets the tone for your thinking on this issue.",
+      "sha256": "2a03cfbc268db56181af3857e50aedac5d1626c38a3cf5abfe146d0eb7ed3f7b",
+      "zh": "你那句“他现在根本就不该再当总统”，在有线新闻中反复播放，明确表明了你在这个问题上的态度。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3017@14/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3017@14/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3017@14/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3017@14/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3017@14/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3017@14/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3017@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "Impeachment was a very polarizing issue, and maybe it is best to just move on to other things.",
+      "sha256": "a8f6d952bcb5a61c8e5d5419eac10ee146eaa7bdada04ee3b46e8b9878c2648b",
+      "zh": "弹劾是一个引发强烈政治分歧的问题，也许最好转而讨论其他事情。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3018@15/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3018@15/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3018@15/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3018@15/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3018@15/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3018@15/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3018@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "It's an age old question -- does apologizing help to clear the air around a certain issue, or does it just make you look weak?",
+      "sha256": "405338935b91b3a231b68d1072900c868a0659d5081f612e810e938c9e8f54f7",
+      "zh": "这是个老问题：道歉是有助于消除某件事的疑虑，还是只会显得软弱？",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3019@16/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3019@16/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3019@16/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3019@16/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3019@16/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3019@16/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3019@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Your strong stance on Trump's impeachment is keeping the issue in the news throughout this campaign.",
+      "sha256": "b845ce0bbd1da1ab4a347e6101f851f8c52ef641b57f5084ec90f4abcd95d41a",
+      "zh": "你在弹劾特朗普上的强硬立场，让这一议题在整个竞选中持续受到报道。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3020@17/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3020@17/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3020@17/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3020@17/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3020@17/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3020@17/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3020@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Some of your core Democratic voters are worried and confused by your equivocal tone on impeachment, given how obviously guilty they believe Trump to have been.",
+      "sha256": "8fdf994f897bdcb6bf87986dd9ac6bb63a15e7f14b1bcb6bbdfcddf48b6313ac",
+      "zh": "一些民主党核心选民对你在弹劾问题上含糊其辞的语气，感到担忧和困惑，因为他们认为特朗普的罪责显而易见。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3021@18/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3021@18/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3021@18/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3021@18/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3021@18/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3021@18/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3021@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Your willingness to use “defund the police” rhetoric establishes you as a firm supporter of Black Lives Matter -- and opens you up to heated attacks from the right.",
+      "sha256": "45b85ab0e8edd72f702f0bc776124f925374ce05943ab02b41bfd93e0c4d9307",
+      "zh": "你愿意使用“削减警察经费”的说法，使你成为“黑人的命也是命”运动的坚定支持者，也让你面临右翼的猛烈攻击。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3022@19/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3022@19/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3022@19/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3022@19/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3022@19/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3022@19/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3022@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Some allies hoped to see a bit of a stronger statement from you on this issue.",
+      "sha256": "83200979fc2055b47a437be988aaad580d2e1c2f8692e14e70eedf8f369b666b",
+      "zh": "一些盟友希望，你在这个问题上的表态能更强硬一点。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3023@20/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3023@20/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3023@20/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3023@20/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3023@20/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3023@20/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3023@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Many progressives believe that you are trying way too hard to win over independent support in this election, even to the extent of flirting with racist rhetoric to do so.",
+      "sha256": "fff3bfbd2816c05d05e690a37036cc116172c686441c55e77b947e0bcd33277c",
+      "zh": "许多进步派认为，你在争取独立选民支持上用力过猛，甚至不惜靠近带有种族主义意味的说辞。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3024@21/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3024@21/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3024@21/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3024@21/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3024@21/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3024@21/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3024@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "People note that you are vigorously pushing for more economic stimulus and relief payments.",
+      "sha256": "80796fba11c2d1fa6d59b4e9b1de433b90f29cf6a0268760f358b97ea7040eb4",
+      "zh": "人们注意到，你正大力推动更多经济刺激和救助款。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3025@22/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3025@22/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3025@22/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3025@22/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3025@22/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3025@22/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3025@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "Some people on both sides of the spectrum note that you are trying to finesse this issue.",
+      "sha256": "9a3986d1c8b9e7e700e578fbc1c927e68511b1b2aa6ea47184a7ab95e591ebb4",
+      "zh": "两边的一些人注意到，你正在巧妙地处理这个问题。",
+      "keys": [
+        "2020_Biden_Harris/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Harris/answer_feedback_json/3027@24/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Rice/answer_feedback_json/3027@24/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Duckworth/answer_feedback_json/3027@24/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Demings/answer_feedback_json/3027@24/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Bass/answer_feedback_json/3027@24/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Whitmer/answer_feedback_json/3027@24/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3026@23/answer_feedback",
+        "2020_Biden_Warren/answer_feedback_json/3027@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

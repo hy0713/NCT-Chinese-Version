@@ -1,0 +1,532 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1968-g",
+  "uniqueSourcesReviewed": 42,
+  "recordPositions": 102,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "We need to do anything we can to ensure quality education for our youngsters. Let's see how this program develops and whether it seems to work or not.",
+      "sha256": "aaff8fe0fe044610308f062641699f756f5d10c4d9c6b107b38db52a555c48f3",
+      "zh": "我们必须尽一切可能，确保孩子们获得优质教育。先看看这个项目如何发展、能否奏效吧。",
+      "keys": [
+        "1968_Humphrey_Kennedy/answers_json/1743@54/description",
+        "1968_Humphrey_Connally/answers_json/1743@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Programs like Head Start are the only way that we will end poverty in our cities and rural districts. I fought for this program from the beginning and I will support it as President.",
+      "sha256": "8aa8689370624624b8c3c08debbe7acf64caa46d2e6eabdac06326c916492fcc",
+      "zh": "启蒙计划这样的项目，是消除城市和农村贫困的唯一办法。我从一开始就在为这个项目奋斗，担任总统后也会支持它。",
+      "keys": [
+        "1968_Humphrey_Kennedy/answers_json/1744@55/description",
+        "1968_Humphrey_Connally/answers_json/1744@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Lyndon Johnson, in his crude way, swears that he will slit your throat if you oppose his policies on Vietnam while campaigning. Will you risk his wrath and be your own man on the trail?",
+      "sha256": "54740003955148e45dbc978dbc5a2292f22542a77248294a67c3945d9c0e9e34",
+      "zh": "林登·约翰逊用他粗鲁的方式发誓：如果你在竞选时反对他的越南政策，他就要割断你的喉咙。你会冒着激怒他的风险，在竞选途中坚持自己的主张吗？",
+      "keys": [
+        "1968_Humphrey_Connally/questions_json/332@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Do you believe that the black community in most cities overreacted to the assassination of Martin Luther King this past April?",
+      "sha256": "b395020c2adc3f7a3d7c2ecd96721933372234c9928e0ac5148f773bd43511a9",
+      "zh": "对于今年四月马丁·路德·金遇刺，你认为多数城市的黑人社区反应过度了吗？",
+      "keys": [
+        "1968_Humphrey_Connally/questions_json/264@22/description",
+        "1968_Humphrey_Harris/questions_json/264@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "The reaction that occurred should terrify any thinking American. Entire neighborhoods were burned and pillaged. They even looted their own storekeepers in many cities.",
+      "sha256": "c5a42a903175689e9d5fd6676c54c6704ea773a7f2713b53943b5965b1d09d10",
+      "zh": "那样的反应，应让每个有头脑的美国人感到恐惧。整个街区被烧毁、洗劫。在许多城市，他们甚至抢劫了自己社区的店主。",
+      "keys": [
+        "1968_Humphrey_Connally/answers_json/1697@20/description",
+        "1968_Humphrey_Harris/answers_json/1697@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "That was a very tough event for many of us to take, no matter what our backgrounds were. I believe that more precautions should have been taken to keep things from getting out of hand, but we must also remember that most Negroes wanted no part of these riots.",
+      "sha256": "2a98302d9ff905760c4b08a25f9ec6a92714d668748d9eff8b98e8d3a74b3543",
+      "zh": "无论出身如何，那件事都让我们许多人难以承受。我认为本应采取更多预防措施，避免局面失控，但我们也必须记住，大多数黑人并不想参与这些骚乱。",
+      "keys": [
+        "1968_Humphrey_Connally/answers_json/1698@21/description",
+        "1968_Humphrey_Harris/answers_json/1698@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "I believe that both the black community and the police overreacted in many areas. First and foremost, we must speak out against violence wherever it may occur -- and against whoever is the source of it.",
+      "sha256": "3bc7b761ca9e0ab0ff4a854143128200d3f5837c846b3d72efd7e11fc675c097",
+      "zh": "我认为在许多地方，黑人社区和警察都反应过度了。最重要的是，无论暴力发生在哪里、来自何人，我们都必须公开反对。",
+      "keys": [
+        "1968_Humphrey_Connally/answers_json/1699@22/description",
+        "1968_Humphrey_Harris/answers_json/1699@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "That's not an entirely relevant question, because I agree with Johnson's stance in Vietnam. We cannot cave in to Communist aggression and maintain our standing in the world.",
+      "sha256": "6e2f64162bd45b2308d6acbaa6db9b250c20cc29c5ec6add1b00bb8762038cbb",
+      "zh": "这个问题不完全适用，因为我赞同约翰逊的越南立场。我们不能一边屈服于共产主义的进攻，一边还想维持自己在世界上的地位。",
+      "keys": [
+        "1968_Humphrey_Connally/answers_json/3272@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "I have no problems opposing the policies of Lyndon Johnson. If he wants to try and sabotage my campaign, we'll just have to live with it.",
+      "sha256": "f65580799d9f0e98996cf146a3ae91516627f60938d4dbd7ada0724e89f3b3c9",
+      "zh": "我并不介意反对林登·约翰逊的政策。如果他想破坏我的竞选，我们也只能接受这个现实。",
+      "keys": [
+        "1968_Humphrey_Connally/answers_json/3273@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Johnson is a deeply unpopular President. I don't think his threats are credible here. I will loudly call for peace in Vietnam.",
+      "sha256": "a179142d851fc2c6c06bb3909a66ab96a5529766ed2d3c38aa128d046cd0100e",
+      "zh": "约翰逊是一位极不受欢迎的总统。我不认为他的威胁在这里有多大分量。我会大声呼吁越南和平。",
+      "keys": [
+        "1968_Humphrey_Connally/answers_json/3274@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "What will be the overall message of your campaign?",
+      "sha256": "503992581546434268f94fa0bf32f3e89da5b04be9b67bd6c2532c013c1b76fe",
+      "zh": "你的竞选总体上要传达什么信息？",
+      "keys": [
+        "1968_Wallace_LeMay/questions_json/334@0/description",
+        "1968_Wallace_Thurmond/questions_json/334@0/description",
+        "1968_Wallace_Chandler/questions_json/334@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "What is more important to you -- competing with Nixon in the border states (to help Humphrey) or winning over Humphrey voters in the northern cities (to help Nixon)?",
+      "sha256": "088ef90ae8b24d5eee9ae09b51c5bae4e050e2d003a2d522562cc40fbc02a879",
+      "zh": "对你而言，哪件事更重要：在交界各州与尼克松竞争，帮助汉弗莱；还是在北方城市争取汉弗莱选民，帮助尼克松？",
+      "keys": [
+        "1968_Wallace_LeMay/questions_json/338@2/description",
+        "1968_Wallace_Thurmond/questions_json/338@3/description",
+        "1968_Wallace_Chandler/questions_json/338@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Will you try to compete with Johnson and Humphrey's machine in Texas?",
+      "sha256": "86331163628cbc20f833f1e07997e61027099f393b8b8917ad30688a123bab61",
+      "zh": "你会尝试在得克萨斯州挑战约翰逊和汉弗莱的政治机器吗？",
+      "keys": [
+        "1968_Wallace_LeMay/questions_json/337@16/description",
+        "1968_Wallace_Chandler/questions_json/337@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "If there is no majority in the electoral college, what are your goals at the bargaining table?",
+      "sha256": "95889b5e0997e95ec23ffee66c6e8e898ab2fd5ccb7efb5f9563f8b960e01dc9",
+      "zh": "如果选举人团中无人获得过半数，你在谈判桌上的目标是什么？",
+      "keys": [
+        "1968_Wallace_LeMay/questions_json/340@23/description",
+        "1968_Wallace_Thurmond/questions_json/340@23/description",
+        "1968_Wallace_Chandler/questions_json/340@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "I am campaigning on the issue of ending desegregation. That is my appeal and that is the issue I will stick to.",
+      "sha256": "93f673a0cf3d3b45fbcc75c43d75261f150a98787cdd59c7ec61d3ee41868a64",
+      "zh": "我的竞选主张是停止废除种族隔离。这就是我的诉求，也是我会坚持的议题。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3278@75/description",
+        "1968_Wallace_Thurmond/answers_json/3278@76/description",
+        "1968_Wallace_Chandler/answers_json/3278@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "I'm opposed to desegregation, environmentalism, defeatism, social engineering, busing, declining property values, and unchecked rioting. My candidacy appeals to southerners and northerners alike.",
+      "sha256": "e522df0c75c9ff07b17759b4abbe781b58ea1dc799f3fd1436c1230cf4baece3",
+      "zh": "我反对废除种族隔离、环保主义、失败主义、社会改造、校车接送、房产贬值，以及无人遏制的骚乱。我的参选既吸引南方人，也吸引北方人。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3279@76/description",
+        "1968_Wallace_Thurmond/answers_json/3279@77/description",
+        "1968_Wallace_Chandler/answers_json/3279@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "You know, beyond the racial thing I do have other policies. I have worked tirelessly in Alabama on behalf of the poor and downtrodden, and I will do the same as President of the United States.",
+      "sha256": "6b28003c52a241796c6d3827b5c10a09c5106b4cb1f4afb2ee36c5b54d01fb62",
+      "zh": "除了种族问题，你们知道，我也有其他政策。我在亚拉巴马州为贫困和受压迫的人不懈工作，担任美国总统后也会如此。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3280@77/description",
+        "1968_Wallace_Thurmond/answers_json/3280@78/description",
+        "1968_Wallace_Chandler/answers_json/3280@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "I am a serious candidate for President of the United States. I will protect law-abiding Americans from social disorder and I will win the war in Vietnam.",
+      "sha256": "47b99ef84d446cdd4e082daf2b1c703a3164d0d07e1cf224db181c27d33e98ce",
+      "zh": "我是一位认真竞选美国总统的候选人。我会保护守法美国人免遭社会混乱之害，并赢得越南战争。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3281@78/description",
+        "1968_Wallace_Thurmond/answers_json/3281@79/description",
+        "1968_Wallace_Chandler/answers_json/3281@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Texas should be fertile ground for the George Wallace message. If Humphrey and Johnson get into a rift, I think we've got a real shot in that state. I will try my best to win it.",
+      "sha256": "bd9ba0a6bcde8af7456f0ea570bb0d8c715c9989fa5456d03196e7e39b65031a",
+      "zh": "得克萨斯州应该很适合传播乔治·华莱士的主张。如果汉弗莱与约翰逊闹翻，我认为我们在那个州真有机会。我会尽力拿下它。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3289@79/description",
+        "1968_Wallace_Chandler/answers_json/3289@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "I'm more worried about keeping the rest of the South from going to Nixon. I'm less concerned about Humphrey's chances in Texas.",
+      "sha256": "6ae902755e53a3b3cc592c61d423085bf4c8737260fd623baafb7162b9aa650c",
+      "zh": "我更担心南方其他地区会倒向尼克松。相比之下，汉弗莱在得克萨斯州的胜算没那么令我在意。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3291@81/description",
+        "1968_Wallace_Chandler/answers_json/3291@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "I'm just going to run my campaign and whatever happens between those two will happen.",
+      "sha256": "067884111e2f6e2ff21b493d25156abe1dad2b349ed95ebe644681488051a07f",
+      "zh": "我只管开展自己的竞选，他们两个会怎么样，就随他们去吧。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3292@82/description",
+        "1968_Wallace_Thurmond/answers_json/3292@84/description",
+        "1968_Wallace_Chandler/answers_json/3292@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "It looks like Nixon is the favorite, so I'm going to focus most of my efforts on campaigning where he's ahead.",
+      "sha256": "c81afebf58cfded849893efd7ef8bcbf3a8b9675f324ac8fdae9b766f06dcad8",
+      "zh": "看来尼克松是获胜热门，所以我会把大部分精力放在他领先的地方竞选。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3293@83/description",
+        "1968_Wallace_Thurmond/answers_json/3293@85/description",
+        "1968_Wallace_Chandler/answers_json/3293@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Humphrey and the Democrats need to know in the future that they cannot ignore the due concerns of the South and win elections. I will focus on winning potential Humphrey supporters.",
+      "sha256": "55c51f6f2182b4c5963176b7846ef87a8f55ba625832162b7f6d19cd2b075ab0",
+      "zh": "汉弗莱和民主党必须明白：今后不能一边无视南方应有的关切，一边还想赢得选举。我会着重争取潜在的汉弗莱支持者。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3294@84/description",
+        "1968_Wallace_Thurmond/answers_json/3294@86/description",
+        "1968_Wallace_Chandler/answers_json/3294@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "I will support whatever candidate agrees to rescind the Civil Rights Act of 1964 and agrees to appoint justices who will overturn <em>Brown v. Board of Education</em>. If no candidate agrees to those conditions, then I will not support either one of them.",
+      "sha256": "e2e634622a9a6d85fcf3592e033a14be359ce1575f23880eef41d8b64f6bf37b",
+      "zh": "谁同意撤销1964年《民权法案》，并任命愿意推翻<em>布朗诉教育委员会案</em>判决的大法官，我就支持谁。如果没人接受这些条件，我就谁都不支持。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3298@85/description",
+        "1968_Wallace_Thurmond/answers_json/3298@87/description",
+        "1968_Wallace_Chandler/answers_json/3298@89/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "There's not a dime's worth of difference between the Democrats and Republicans. My goal is to win this election outright.",
+      "sha256": "91ae98acef9a86e5716e0986ef05c0b1b4c9d298a13cbfaad94b4ffc50db9831",
+      "zh": "民主党和共和党的差别，连一角钱都不值。我的目标，是直接赢下这场选举。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3299@86/description",
+        "1968_Wallace_Thurmond/answers_json/3299@88/description",
+        "1968_Wallace_Chandler/answers_json/3299@90/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Whatever ends up happening on election day, I cannot comment about the aftermath at this point. If that scenario develops I will hear what each side has to say and make a decision at that point.",
+      "sha256": "408abd4677ce44b33982f8797bd3d9359d14673812335e5055a7efc5f2d025ba",
+      "zh": "无论选举日最终发生什么，现在我都不能评论之后的安排。如果真的出现那种局面，我会听听双方怎么说，再作决定。",
+      "keys": [
+        "1968_Wallace_LeMay/answers_json/3300@87/description",
+        "1968_Wallace_Thurmond/answers_json/3300@89/description",
+        "1968_Wallace_Chandler/answers_json/3300@91/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "This position is too dovish for the mainstream of the Republican Party. In the future you might do better to take a more moderate stance.",
+      "sha256": "5ed867a87b7ee580593d5c35f8e702285e15d7a0b1570fbd8095e6896e816125",
+      "zh": "对共和党主流而言，这个立场过于偏鸽派了。今后你或许应该采取更温和的立场。",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/650@1/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/650@1/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/650@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "This is vintage Nixon. You should do well with your appeals to law and order as long as your rhetoric doesn't sound too extreme.",
+      "sha256": "784fefd8caac95bd9e2f7606e9110333f0341b0a675ce7fa0016b6b76bd6004c",
+      "zh": "这很有尼克松一贯的风格。只要言辞不过于极端，你维护法律与秩序的呼吁应该会有良好效果。",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/651@2/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/651@2/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/651@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "The election closes in chaos. Peace talks collapse, you accuse Nixon, Nixon accuses the Democrats of bugging his plane, and the upshot is mass confusion and anger among the voters. Good luck tonight! ",
+      "sha256": "db62a7ea661a10408854b7d7d06f95c0ef7f55c8855a1f74fbfcbc8e98cea26b",
+      "zh": "选举在混乱中收尾。和平谈判破裂，你指控尼克松，尼克松又指控民主党在他的飞机上安装窃听器，结果选民一片困惑、愤怒。祝你今晚好运！",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/698@17/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/698@17/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/698@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Stick to your bread-and-butter appeals. This is red meat for the kind of people who will vote for you this fall.",
+      "sha256": "26aa2442de937ea0ede1b2b4918ea1da2cd424ae5873c8da3a78ae1434eb8425",
+      "zh": "坚持那些最能吸引你选民的老主张。这种话正合秋季会投你票的人胃口。",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/700@19/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/700@19/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/700@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "This is not what your supporters want to hear out of you.",
+      "sha256": "4fd655a7f40ecb5335e82f44d5b470b5666e325091fff829c9f3f0ed562f2cc0",
+      "zh": "这可不是支持者想听你说的话。",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/701@20/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/701@20/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/701@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "This is anathema to your voting base. They are talking about dumping you now and just voting for Nixon.",
+      "sha256": "1363d6ad52d3853b0cafa7e25e4ac02687a33d13fe5ca18b4db730f568bd3961",
+      "zh": "你的选民基本盘对此深恶痛绝。他们现在正议论着抛弃你，干脆投尼克松。",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/702@21/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/702@21/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/702@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "It looks like Humphrey has enjoyed a last minute surge in the polls, thanks to a breakthrough in peace negotiations. Will this help cause a deadlock in the electoral college?",
+      "sha256": "f4b5e452ce83caaa5c7d83c02b8a6f416bbb0357ca44206bfd016305ffc8ea2f",
+      "zh": "和平谈判取得突破，似乎让汉弗莱在最后关头的民调中上升。这会有助于造成选举人团僵局吗？",
+      "keys": [
+        "1968_Wallace_LeMay/answer_feedback_json/705@24/answer_feedback",
+        "1968_Wallace_LeMay/answer_feedback_json/706@25/answer_feedback",
+        "1968_Wallace_LeMay/answer_feedback_json/707@26/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/705@24/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/706@25/answer_feedback",
+        "1968_Wallace_Thurmond/answer_feedback_json/707@26/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/705@24/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/706@25/answer_feedback",
+        "1968_Wallace_Chandler/answer_feedback_json/707@26/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Do you plan to make a strong effort in any of the non-Southern states?",
+      "sha256": "491041bfdde99b8db0a6db03d6328b0b177afbd3921279be0343d0fa27288241",
+      "zh": "你打算在南方以外的某些州大力竞选吗？",
+      "keys": [
+        "1968_Wallace_Thurmond/questions_json/335@17/description",
+        "1968_Wallace_Chandler/questions_json/335@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "My goal is to sweep the South and prevent either candidate from achieving an electoral majority. I will make this region my primary focus.",
+      "sha256": "9fe335809fb34b4e2d98f64bea03b741c2ecfa8cef9c656d2ef9c33ffc75e8f8",
+      "zh": "我的目标是横扫南方，让其他两位候选人都无法取得选举人票过半数。我会把竞选重点放在这个地区。",
+      "keys": [
+        "1968_Wallace_Thurmond/answers_json/3282@80/description",
+        "1968_Wallace_Chandler/answers_json/3282@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "I will stick to the states where Richard Nixon is leading, and emphasize my credentials as a law-and-order conservative. If I can keep Nixon below 270, I have a real chance at brokering an end to desegregation after this election.",
+      "sha256": "bf46fccfc6590ab4604655a8af7d97b1023b1efee683fc329b2a46641fee4e77",
+      "zh": "我会紧盯理查德·尼克松领先的州，强调自己是维护法律与秩序的保守派。只要能让尼克松拿不到270票，我就真有机会在选后谈判中换取停止废除种族隔离。",
+      "keys": [
+        "1968_Wallace_Thurmond/answers_json/3283@81/description",
+        "1968_Wallace_Chandler/answers_json/3283@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "I am a national candidate, and my law-and-order appeal is universal. I will travel into the North and the West and campaign for any voter who is concerned about the future of our country.",
+      "sha256": "15e8d77256641aa2b05ac4ebc6520ce778878b2ef38230b2f6f138946f1b8bfd",
+      "zh": "我是一位全国性的候选人，我维护法律与秩序的主张适用于所有地方。我会前往北方和西部，争取每一位关心国家未来的选民。",
+      "keys": [
+        "1968_Wallace_Thurmond/answers_json/3284@82/description",
+        "1968_Wallace_Chandler/answers_json/3284@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "We need to teach the Democrats a lesson this year. I will work tirelessly to pry white northern votes away from Humphrey, so that future candidates on our side know they'd best not trifle with the South.",
+      "sha256": "045f9eebd5b68cc1d357154c8175984034e5391273378ce414dc7106bb89a549",
+      "zh": "今年，我们必须给民主党一个教训。我会不懈地从汉弗莱手中夺取北方白人选票，让今后我们阵营的候选人知道，最好别把南方不当回事。",
+      "keys": [
+        "1968_Wallace_Thurmond/answers_json/3285@83/description",
+        "1968_Wallace_Chandler/answers_json/3285@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "What can you say to the people of the South to dampen the appeal of Richard Nixon?",
+      "sha256": "5aaeef2eed4cc7c48bf725306a6d0f043dd0bd805f415f763d358a4a47b5d346",
+      "zh": "你会对南方人民说些什么，以削弱理查德·尼克松的吸引力？",
+      "keys": [
+        "1968_Wallace_Chandler/questions_json/336@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Richard Nixon is a California yankee and an interloper. He does not deserve the support of a decent southern man.",
+      "sha256": "1883edf53edb194156ff960f87910b3ee3c7ce3455c8152ec48cb807e3964097",
+      "zh": "理查德·尼克松是个加利福尼亚来的北方佬，是个外来插手的人。他不配得到正派南方人的支持。",
+      "keys": [
+        "1968_Wallace_Chandler/answers_json/3286@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "I have more credibility than Nixon does on the issues of law-and-order. I trust that southerners will see through his empty appeals on this issue.",
+      "sha256": "384210df71e738780c0bb0428608f88c50af3043bdc96a9657d26dd55144da1d",
+      "zh": "在法律与秩序问题上，我比尼克松更可信。我相信南方人能看穿他在这个问题上的空洞呼吁。",
+      "keys": [
+        "1968_Wallace_Chandler/answers_json/3287@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "I'm more worried about sticking it to Humphrey than I am about Nixon. If it comes down to a negotiated election, I'd rather have Nixon in the driver's seat because I think we can work with him.",
+      "sha256": "4dcb2b59f8472812d4e2ccd83e62c1f4f157b246f5412210c5f9376866070091",
+      "zh": "比起尼克松，我更在意给汉弗莱一点颜色看看。如果最终要靠谈判决定选举，我宁愿让尼克松掌握主动，因为我认为我们能与他合作。",
+      "keys": [
+        "1968_Wallace_Chandler/answers_json/3288@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

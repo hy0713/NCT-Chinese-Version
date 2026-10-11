@@ -1,0 +1,705 @@
+{
+  "date": "2026-10-11T07:28:51.531Z",
+  "browser": "Chrome 155.0.8059.39 (Windows)",
+  "offline": "All requests except localhost/127.0.0.1 blocked",
+  "checks": [
+    {
+      "name": "Chinese default and home",
+      "status": "passed"
+    },
+    {
+      "name": "Toggle and localStorage persistence",
+      "status": "passed"
+    },
+    {
+      "name": "Achievements and help",
+      "status": "passed"
+    },
+    {
+      "name": "All native year/candidate/running-mate combinations load",
+      "status": "passed",
+      "count": 105
+    },
+    {
+      "name": "Answer validation popup",
+      "status": "passed"
+    },
+    {
+      "name": "Switch does not mutate any game field, selection, or RNG",
+      "status": "passed"
+    },
+    {
+      "name": "Poll map, state names, PV/EV, gradient and advisor control",
+      "status": "passed"
+    },
+    {
+      "name": "Complete native game through 25 answers and state visits",
+      "status": "passed",
+      "answers": 25,
+      "visits": 12,
+      "outcome": "loss"
+    },
+    {
+      "name": "Language toggle on results does not trigger upstream integrity reload",
+      "status": "passed"
+    },
+    {
+      "name": "All result tabs and live language switching",
+      "status": "passed"
+    },
+    {
+      "name": "Replay confirmation",
+      "status": "passed"
+    },
+    {
+      "name": "80%, 100%, 125%, 150% CSS zoom: result button text fits",
+      "status": "passed"
+    },
+    {
+      "name": "No JS errors, no missing resources, zero external requests",
+      "status": "passed"
+    },
+    {
+      "name": "All original JSON and question-set files byte-for-byte unchanged",
+      "status": "passed",
+      "count": 111
+    }
+  ],
+  "errors": [],
+  "external": [],
+  "missing": [],
+  "pairings": [
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 304,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 305,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 314,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 313,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 306,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 307,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 300,
+      "mate": 308,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 301,
+      "mate": 309,
+      "status": "passed"
+    },
+    {
+      "year": "2020",
+      "candidate": 301,
+      "mate": 310,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 200,
+      "mate": 204,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 200,
+      "mate": 205,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 200,
+      "mate": 207,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 200,
+      "mate": 206,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 200,
+      "mate": 208,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 201,
+      "mate": 209,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 201,
+      "mate": 211,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 201,
+      "mate": 213,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 201,
+      "mate": 210,
+      "status": "passed"
+    },
+    {
+      "year": "2016",
+      "candidate": 201,
+      "mate": 212,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 165,
+      "mate": 169,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 165,
+      "mate": 170,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 165,
+      "mate": 171,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 165,
+      "mate": 172,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 166,
+      "mate": 173,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 166,
+      "mate": 175,
+      "status": "passed"
+    },
+    {
+      "year": "2016a",
+      "candidate": 166,
+      "mate": 174,
+      "status": "passed"
+    },
+    {
+      "year": "2012",
+      "candidate": 16,
+      "mate": 30,
+      "status": "passed"
+    },
+    {
+      "year": "2012",
+      "candidate": 16,
+      "mate": 34,
+      "status": "passed"
+    },
+    {
+      "year": "2012",
+      "candidate": 17,
+      "mate": 31,
+      "status": "passed"
+    },
+    {
+      "year": "2012",
+      "candidate": 17,
+      "mate": 32,
+      "status": "passed"
+    },
+    {
+      "year": "2012",
+      "candidate": 17,
+      "mate": 33,
+      "status": "passed"
+    },
+    {
+      "year": "2012",
+      "candidate": 17,
+      "mate": 37,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 77,
+      "mate": 81,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 77,
+      "mate": 82,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 77,
+      "mate": 83,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 77,
+      "mate": 84,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 78,
+      "mate": 85,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 78,
+      "mate": 86,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 78,
+      "mate": 87,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 78,
+      "mate": 88,
+      "status": "passed"
+    },
+    {
+      "year": "2000",
+      "candidate": 79,
+      "mate": 89,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 152,
+      "mate": 156,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 152,
+      "mate": 157,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 152,
+      "mate": 158,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 153,
+      "mate": 159,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 153,
+      "mate": 160,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 153,
+      "mate": 161,
+      "status": "passed"
+    },
+    {
+      "year": "1988",
+      "candidate": 153,
+      "mate": 162,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 91,
+      "mate": 95,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 91,
+      "mate": 96,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 91,
+      "mate": 97,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 91,
+      "mate": 98,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 92,
+      "mate": 99,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 92,
+      "mate": 100,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 92,
+      "mate": 101,
+      "status": "passed"
+    },
+    {
+      "year": "1976",
+      "candidate": 92,
+      "mate": 102,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 23,
+      "mate": 55,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 23,
+      "mate": 44,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 23,
+      "mate": 56,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 23,
+      "mate": 57,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 24,
+      "mate": 58,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 24,
+      "mate": 61,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 24,
+      "mate": 60,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 24,
+      "mate": 59,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 25,
+      "mate": 62,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 25,
+      "mate": 64,
+      "status": "passed"
+    },
+    {
+      "year": "1968",
+      "candidate": 25,
+      "mate": 63,
+      "status": "passed"
+    },
+    {
+      "year": "1964",
+      "candidate": 6970,
+      "mate": 9998,
+      "status": "passed"
+    },
+    {
+      "year": "1964",
+      "candidate": 6969,
+      "mate": 9999,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 105,
+      "mate": 108,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 105,
+      "mate": 109,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 105,
+      "mate": 110,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 106,
+      "mate": 111,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 106,
+      "mate": 113,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 106,
+      "mate": 112,
+      "status": "passed"
+    },
+    {
+      "year": "1960",
+      "candidate": 106,
+      "mate": 115,
+      "status": "passed"
+    },
+    {
+      "year": "1948",
+      "candidate": 116,
+      "mate": 120,
+      "status": "passed"
+    },
+    {
+      "year": "1948",
+      "candidate": 117,
+      "mate": 121,
+      "status": "passed"
+    },
+    {
+      "year": "1948",
+      "candidate": 117,
+      "mate": 122,
+      "status": "passed"
+    },
+    {
+      "year": "1948",
+      "candidate": 117,
+      "mate": 123,
+      "status": "passed"
+    },
+    {
+      "year": "1948",
+      "candidate": 117,
+      "mate": 124,
+      "status": "passed"
+    },
+    {
+      "year": "1916",
+      "candidate": 142,
+      "mate": 146,
+      "status": "passed"
+    },
+    {
+      "year": "1916",
+      "candidate": 142,
+      "mate": 147,
+      "status": "passed"
+    },
+    {
+      "year": "1916",
+      "candidate": 143,
+      "mate": 148,
+      "status": "passed"
+    },
+    {
+      "year": "1916",
+      "candidate": 143,
+      "mate": 149,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 20,
+      "mate": 45,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 20,
+      "mate": 47,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 20,
+      "mate": 48,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 20,
+      "mate": 46,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 21,
+      "mate": 49,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 21,
+      "mate": 51,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 21,
+      "mate": 50,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 21,
+      "mate": 53,
+      "status": "passed"
+    },
+    {
+      "year": "1896",
+      "candidate": 21,
+      "mate": 52,
+      "status": "passed"
+    },
+    {
+      "year": "1860",
+      "candidate": 67,
+      "mate": 71,
+      "status": "passed"
+    },
+    {
+      "year": "1860",
+      "candidate": 67,
+      "mate": 127,
+      "status": "passed"
+    },
+    {
+      "year": "1860",
+      "candidate": 67,
+      "mate": 128,
+      "status": "passed"
+    },
+    {
+      "year": "1860",
+      "candidate": 68,
+      "mate": 72,
+      "status": "passed"
+    },
+    {
+      "year": "1860",
+      "candidate": 68,
+      "mate": 129,
+      "status": "passed"
+    },
+    {
+      "year": "1860",
+      "candidate": 68,
+      "mate": 130,
+      "status": "passed"
+    },
+    {
+      "year": "1844",
+      "candidate": 131,
+      "mate": 135,
+      "status": "passed"
+    },
+    {
+      "year": "1844",
+      "candidate": 131,
+      "mate": 136,
+      "status": "passed"
+    },
+    {
+      "year": "1844",
+      "candidate": 132,
+      "mate": 137,
+      "status": "passed"
+    },
+    {
+      "year": "1844",
+      "candidate": 132,
+      "mate": 138,
+      "status": "passed"
+    },
+    {
+      "year": "1844",
+      "candidate": 132,
+      "mate": 139,
+      "status": "passed"
+    }
+  ],
+  "pairingsVerifiedAt": "2026-10-11T07:28:51.531Z",
+  "status": "passed"
+}

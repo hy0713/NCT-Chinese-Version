@@ -1,0 +1,1138 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1960-a",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 353,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 5,
+      "reason": "Original claims Nixon's presidential prospects are over. Preserve simulated 1960 forecast; note explains his actual 1968 victory."
+    },
+    {
+      "index": 10,
+      "reason": "Failed health-insurance proposal does not mean no elderly medical assistance passed in 1960; note distinguishes Kennedy-Anderson from Kerr-Mills."
+    },
+    {
+      "index": 19,
+      "reason": "Retain original precise 150-clergymen claim; cited Houston speech establishes religious argument but does not independently verify that headcount."
+    },
+    {
+      "index": 28,
+      "reason": "Original compresses sit-in arrest, old traffic conviction and probation violation; note separates the events without changing original."
+    },
+    {
+      "index": 29,
+      "reason": "Museum photograph supports Dallas protest on Nov 4 but does not independently establish original spitting detail; preserve and disclose uncertainty."
+    },
+    {
+      "index": 73,
+      "reason": "Condolences translated as sympathy during imprisonment, not mourning a death, based on living husband's imprisonment and contemporaneous interview."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>After eight years of Dwight Eisenhower, two youthful candidates compete to be his successor. Kennedy is a Senator with a moderate record, a telegenic face, and high-minded rhetoric. Nixon is the sitting Vice President with a strong Cold War record, moderate economic views, and potential likeability problems. Nixon begins the campaign as the slight favorite, but every region of the country could be competitive. Key issues are the Cold War, civil rights, and health care.</p>",
+      "sha256": "a6a4dc6ebcd38950e1c80800a2a2ce82141bf205dc63397ce703e39021d129b4",
+      "zh": "<p>德怀特·艾森豪威尔执政八年之后，两位年轻候选人争夺继任者的位置。肯尼迪是一位政绩较为温和的参议员，镜头前形象出众，演说充满崇高理想。尼克松是现任副总统，有强硬的冷战政绩和温和的经济主张，但个人亲和力可能是个问题。竞选开始时，尼克松略被看好，不过全国每个地区都可能展开激烈竞争。关键议题是冷战、民权和医疗保障。</p>",
+      "keys": [
+        "base/election_json/11@9/summary"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "<h3>Congratulations! You have won the 1960 Presidential Election.</h3><p>Hopefully you can move the United States in a more modern direction after eight quiet years of Eisenhower, while holding the line against the Soviet Union. At your young age, you have the potential to define the entire decade as President, and perhaps to hand the torch to one of your brothers in the future.</p>",
+      "sha256": "19587d427605b298240a6ca7b02aa87cdec16ec8421a05a380e10aae185fd746",
+      "zh": "<h3>恭喜！你赢得了1960年总统选举。</h3><p>但愿在艾森豪威尔平静的八年之后，你能推动美国走向更加现代的方向，同时守住对抗苏联的防线。你如此年轻，有望以总统身份塑造整个十年，或许将来还能把火炬传给你的某位兄弟。</p>",
+      "keys": [
+        "base/candidate_json/105@87/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry, you have lost the 1960 Presidential Election.</h3><p>It was always going to be tough to defeat the Vice President to someone as popular as Eisenhower. However, you still have your seat in the Senate. At your young age, there is no reason you couldn't be a strong contender for President in 1964 or 1968, especially if this election was close. Let's just hope the Democrats don't blame your defeat on your religion.</p>",
+      "sha256": "00a35c10275234a9c3b90898a06f243074722a3a01dc8c2e721279cb3f703830",
+      "zh": "<h3>很遗憾，你输掉了1960年总统选举。</h3><p>要击败艾森豪威尔这样一位广受欢迎的总统的副手，本来就很困难。不过，你仍保有参议院席位。你如此年轻，完全可能在1964年或1968年成为有力的总统竞争者，尤其如果这次选举结果很接近。但愿民主党人别把你的败选归咎于你的宗教信仰。</p>",
+      "keys": [
+        "base/candidate_json/105@87/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "<h3>No candidate has won a majority in the Electoral College.</h3><p>The Democrats have an advantage in the House of Representatives, so you are probably in good shape. However, a lot depends on how you deal with Harry Byrd. It's possible that some kind of deal will need to be struck with Byrd or Nixon to get a clean majority in the House.</p>",
+      "sha256": "80adfe8504d89f4a6c7cdfc32cd7595ad1e076a3caa72816ab2de69f0244cf39",
+      "zh": "<h3>没有候选人获得过半数选举人票。</h3><p>民主党在众议院占优势，所以你的处境大概不错。不过，很多事情取决于你如何与哈里·伯德打交道。可能需要和伯德或尼克松达成某种协议，才能在众议院取得明确的多数。</p>",
+      "keys": [
+        "base/candidate_json/105@87/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "<h3>Congratulations! You have won the 1960 Presidential Election.</h3><p>With luck, you will be able to duplicate the eight years of peace and prosperity under Eisenhower. Unfortunately, the Democrats maintain their majority in both houses of Congress. With luck, they will be good partners in a bipartisan governing coalition. Your first order of business is to mend fences with Lyndon Johnson, who is returning to his role as Senate Majority Leader.</p>",
+      "sha256": "44ff37d9f7139de31e57052fc49a656c26664f466bfa8e926f4b1727ddd3739c",
+      "zh": "<h3>恭喜！你赢得了1960年总统选举。</h3><p>但愿你能延续艾森豪威尔任内八年的和平与繁荣。遗憾的是，民主党仍在国会两院保持多数。但愿他们能成为两党执政联盟中的良好伙伴。你的第一项任务，是与重返参议院多数党领袖职位的林登·约翰逊修复关系。</p>",
+      "keys": [
+        "base/candidate_json/106@88/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "<h3>Sorry, you have lost the 1960 Presidential Election.</h3><p>A lot of people think this election was yours to lose, and party operatives are already whispering that Nelson Rockefeller will be the frontrunner in 1964. As such, it appears that your chances of becoming President are over. Perhaps you can return to California and run for Governor, or for the Senate again.</p>",
+      "sha256": "3978e85a3007b0ac31a1a2f7195ff1c84650973ae11281e84da3207f5b9cfd2e",
+      "zh": "<h3>很遗憾，你输掉了1960年总统选举。</h3><p>许多人认为，这场选举本是你胜券在握，输掉只能怪自己。党内操盘手已经私下议论，纳尔逊·洛克菲勒会成为1964年的热门人选。看来，你成为总统的机会就此结束了。也许你可以回加利福尼亚州竞选州长，或者再竞选参议员。</p>",
+      "keys": [
+        "base/candidate_json/106@88/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "<h3>No candidate has won a majority in the Electoral College.</h3><p>The Democrats have an advantage in the House of Representatives, so you are probably in bad shape. However, a lot depends on how Kennedy deals with Harry Byrd. It's possible that some kind of deal will need to be struck for any candidate to get a clean majority in the House.</p>",
+      "sha256": "e2356a857e7ac3ac995da87188ad49f762eff420db5db4d62e8276f1634a20ea",
+      "zh": "<h3>没有候选人获得过半数选举人票。</h3><p>民主党在众议院占优势，所以你的处境大概不妙。不过，很多事情取决于肯尼迪如何与哈里·伯德打交道。可能需要达成某种协议，某位候选人才能在众议院取得明确的多数。</p>",
+      "keys": [
+        "base/candidate_json/106@88/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "What kind of tone will you attempt to set in your campaign this fall?",
+      "sha256": "7fe55a1cccc82309e96464687b7c13811b5685854025839de98ea1f16d7e19bd",
+      "zh": "今年秋季，你打算为竞选定下什么样的基调？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/448@0/description",
+        "1960_Kennedy_Symington/questions_json/448@0/description",
+        "1960_Kennedy_Humphrey/questions_json/448@0/description",
+        "1960_Nixon_Lodge/questions_json/459@0/description",
+        "1960_Nixon_Dirksen/questions_json/459@0/description",
+        "1960_Nixon_Rockefeller/questions_json/459@0/description",
+        "1960_Nixon_Goldwater/questions_json/459@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "What do you have to say about the selection of Lyndon Johnson as your running mate?",
+      "sha256": "2e64da44c3033e2c5397382427a8050202b3e2fdc80eb9225f432b3b50eb1d2b",
+      "zh": "对于选择林登·约翰逊作为竞选搭档，你有什么话要说？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/449@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "Do you believe that current levels of defense spending are adequate?",
+      "sha256": "50df582bc9d76fb4ba14b6492a445410bd3983406b353ee60a3f2ed176362d9c",
+      "zh": "你认为目前的国防开支水平足够吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/494@2/description",
+        "1960_Kennedy_Symington/questions_json/494@4/description",
+        "1960_Kennedy_Humphrey/questions_json/494@4/description",
+        "1960_Nixon_Lodge/questions_json/494@4/description",
+        "1960_Nixon_Dirksen/questions_json/494@4/description",
+        "1960_Nixon_Rockefeller/questions_json/494@4/description",
+        "1960_Nixon_Goldwater/questions_json/494@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "There was a recent effort in Congress to pass a program to provide medical care to elderly Americans, but it was narrowly defeated. Will you make a further push for this type of program as President?",
+      "sha256": "104dacafcc68eddd8c75d03aafb941e3964dba31597a7db6ed3e07a6b19b50a0",
+      "zh": "国会最近尝试通过一项为美国老年人提供医疗保障的计划，但以微弱差距遭到否决。作为总统，你会继续推动这类计划吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/476@3/description",
+        "1960_Kennedy_Symington/questions_json/476@3/description",
+        "1960_Kennedy_Humphrey/questions_json/476@3/description",
+        "1960_Nixon_Lodge/questions_json/476@3/description",
+        "1960_Nixon_Dirksen/questions_json/476@3/description",
+        "1960_Nixon_Rockefeller/questions_json/476@3/description",
+        "1960_Nixon_Goldwater/questions_json/476@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "Are you satisfied with the economy and the economic policies of this country over the past eight years?",
+      "sha256": "cb2bed174df04795ad62ca3d80ae5061bc4fd0e7ed1af92a1284c7045425796c",
+      "zh": "你对本国过去八年的经济状况和经济政策满意吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/485@4/description",
+        "1960_Kennedy_Symington/questions_json/485@2/description",
+        "1960_Kennedy_Humphrey/questions_json/485@2/description",
+        "1960_Nixon_Lodge/questions_json/485@2/description",
+        "1960_Nixon_Dirksen/questions_json/485@2/description",
+        "1960_Nixon_Rockefeller/questions_json/485@2/description",
+        "1960_Nixon_Goldwater/questions_json/485@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "Is the United States adequately prepared to defend against the Soviet threat today?",
+      "sha256": "ad3eb77d21ccf8f69b6635c056efa718c7da4e17d3eb0bedd6c640e9ce20dd0f",
+      "zh": "今天，美国是否已做好充分准备，应对苏联的威胁？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/479@5/description",
+        "1960_Kennedy_Symington/questions_json/479@5/description",
+        "1960_Kennedy_Humphrey/questions_json/479@5/description",
+        "1960_Nixon_Lodge/questions_json/479@5/description",
+        "1960_Nixon_Dirksen/questions_json/479@5/description",
+        "1960_Nixon_Rockefeller/questions_json/479@5/description",
+        "1960_Nixon_Goldwater/questions_json/479@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "Do you believe the United States is adequately prepared to defend against the Soviet threat over the next ten years?",
+      "sha256": "62320e9f9469a183711f3edd8d965caa3096150aae0390e5c22b769b5cde670b",
+      "zh": "你认为，美国是否已做好充分准备，应对未来十年的苏联威胁？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/480@6/description",
+        "1960_Kennedy_Symington/questions_json/480@6/description",
+        "1960_Kennedy_Humphrey/questions_json/480@6/description",
+        "1960_Nixon_Lodge/questions_json/480@6/description",
+        "1960_Nixon_Dirksen/questions_json/480@6/description",
+        "1960_Nixon_Rockefeller/questions_json/480@6/description",
+        "1960_Nixon_Goldwater/questions_json/480@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "Richard Nixon has made \"experience\" the centerpiece of his campaign. What do you have to say on this point?",
+      "sha256": "a6d0d91d335becfd86fce6aa9413a2159f7c1dd0bda18c890b07d94d553d8e01",
+      "zh": "理查德·尼克松把“经验”作为竞选的核心。你对此有什么话要说？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/458@7/description",
+        "1960_Kennedy_Symington/questions_json/458@7/description",
+        "1960_Kennedy_Humphrey/questions_json/458@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "Anti-Catholicism has been a huge issue thus far in the campaign, with hundreds of pamphlets and leaflets being distributed across the South and Midwest. Do you have any comment?",
+      "sha256": "cde2020f3c046d3eb9a0ac245db68d591210cb3b570c0afd6b35a281601bc1ef",
+      "zh": "反天主教情绪至今一直是竞选中的重大问题，数百种小册子和传单在南方及中西部散发。你有什么回应？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/455@8/description",
+        "1960_Kennedy_Symington/questions_json/455@8/description",
+        "1960_Kennedy_Humphrey/questions_json/455@9/description",
+        "1960_Nixon_Lodge/questions_json/473@10/description",
+        "1960_Nixon_Dirksen/questions_json/473@9/description",
+        "1960_Nixon_Rockefeller/questions_json/473@10/description",
+        "1960_Nixon_Goldwater/questions_json/473@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Should the United States apologize to the Soviet Union for the controversy surrounding the downed U-2 spy plane and surrounding espionage?",
+      "sha256": "97a86ab3127486fc1507512ae78f5165956279cb3d5ed8552577fcb855168ab0",
+      "zh": "对于U-2侦察机被击落及相关间谍活动引发的争议，美国应该向苏联道歉吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/489@9/description",
+        "1960_Kennedy_Symington/questions_json/489@10/description",
+        "1960_Kennedy_Humphrey/questions_json/489@11/description",
+        "1960_Nixon_Lodge/questions_json/489@13/description",
+        "1960_Nixon_Dirksen/questions_json/489@12/description",
+        "1960_Nixon_Rockefeller/questions_json/489@11/description",
+        "1960_Nixon_Goldwater/questions_json/489@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "Did Dwight Eisenhower do the right thing when he sent federal troops to Little Rock to ensure the integration of the high school there?",
+      "sha256": "a1d2dddb3ffb90136a5a3d8343770781e6e87f86dc8ba92283fae74656b8747a",
+      "zh": "德怀特·艾森豪威尔派遣联邦军队前往小石城，确保当地高中实行种族融合，这样做是否正确？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/490@10/description",
+        "1960_Kennedy_Symington/questions_json/490@9/description",
+        "1960_Kennedy_Humphrey/questions_json/490@12/description",
+        "1960_Nixon_Lodge/questions_json/490@11/description",
+        "1960_Nixon_Dirksen/questions_json/490@11/description",
+        "1960_Nixon_Rockefeller/questions_json/490@12/description",
+        "1960_Nixon_Goldwater/questions_json/490@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "There have been a large number of sit-ins recently, where black students and activists are sitting at whites-only lunch counters and department stores to advocate for desegregation. Do you support this movement?",
+      "sha256": "8f37b6cba2a93fb793044db69c9b2b26cbea152e876588ae7ba25382c2f346f6",
+      "zh": "最近发生了大量静坐抗议，黑人学生和活动人士坐在仅供白人使用的简餐柜台及百货商店中，要求废除种族隔离。你支持这个运动吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/457@11/description",
+        "1960_Kennedy_Symington/questions_json/457@11/description",
+        "1960_Kennedy_Humphrey/questions_json/457@10/description",
+        "1960_Nixon_Lodge/questions_json/462@12/description",
+        "1960_Nixon_Dirksen/questions_json/467@10/description",
+        "1960_Nixon_Rockefeller/questions_json/465@13/description",
+        "1960_Nixon_Goldwater/questions_json/469@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Anti-Catholicism continues to be an issue. Major newspapers have published a statement by 150 Protestant clergy, including Norman Vincent Peale, opposing any Catholic as President. Do you have any comment?",
+      "sha256": "f59137d9f1d0cceff4922b1c50539f99e80a37fda281b7cdfc9b1cf3750f177a",
+      "zh": "反天主教情绪仍是个问题。各大报纸刊登了一份由150名新教教士，包括诺曼·文森特·皮尔发表的声明，反对任何天主教徒担任总统。你有什么回应？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/456@12/description",
+        "1960_Kennedy_Symington/questions_json/456@12/description",
+        "1960_Kennedy_Humphrey/questions_json/456@13/description",
+        "1960_Nixon_Lodge/questions_json/474@14/description",
+        "1960_Nixon_Dirksen/questions_json/474@13/description",
+        "1960_Nixon_Rockefeller/questions_json/474@14/description",
+        "1960_Nixon_Goldwater/questions_json/474@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "Has the United States adequately defended against the Communist threat in Indochina? Would you support further action there if necessary?",
+      "sha256": "71ad0e66e2b003a794fe220636432eaa605ad849407a8c7da7d99c543b8ecd2f",
+      "zh": "美国是否充分抵御了印度支那的共产主义威胁？如有必要，你会支持在那里采取进一步行动吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/492@14/description",
+        "1960_Kennedy_Symington/questions_json/492@16/description",
+        "1960_Nixon_Rockefeller/questions_json/492@17/description",
+        "1960_Nixon_Goldwater/questions_json/492@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "What is your position on the power of labor unions in the United States?",
+      "sha256": "5988a4cfb0e51c528ca33f9b90e4c91afd48113359f41621adfbc15ff4313808",
+      "zh": "你对美国工会的权力持什么立场？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/493@15/description",
+        "1960_Kennedy_Humphrey/questions_json/493@17/description",
+        "1960_Nixon_Lodge/questions_json/493@16/description",
+        "1960_Nixon_Dirksen/questions_json/493@20/description",
+        "1960_Nixon_Goldwater/questions_json/493@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Do you believe that the islands of Quemoy and Matsu should fall within the United States defense perimeter in Asia?",
+      "sha256": "a4362d6c002eab13b534b2bdcca24b96967a8ac9d21562c5da174324650d6929",
+      "zh": "你认为，金门和马祖应当纳入美国在亚洲的防御范围吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/477@16/description",
+        "1960_Kennedy_Symington/questions_json/477@17/description",
+        "1960_Nixon_Lodge/questions_json/477@19/description",
+        "1960_Nixon_Dirksen/questions_json/477@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "What is your opinion on the current level of education funding in the United States? Would you increase federal education funding, even if it meant higher taxes or a larger budget deficit?",
+      "sha256": "a811ba19597186a665a123f70739f3856b6c0fe996eade6c2f29d640a9fe93a8",
+      "zh": "你对美国目前的教育经费水平有什么看法？即使意味着提高税收或扩大预算赤字，你也会增加联邦教育经费吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/482@17/description",
+        "1960_Kennedy_Symington/questions_json/482@21/description",
+        "1960_Nixon_Lodge/questions_json/482@18/description",
+        "1960_Nixon_Dirksen/questions_json/482@19/description",
+        "1960_Nixon_Rockefeller/questions_json/482@19/description",
+        "1960_Nixon_Goldwater/questions_json/482@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Would you support the passage of a federal civil rights bill as President to address the worst excesses of segregation in the South?",
+      "sha256": "9279ab048981d88343a558b0698a1024a86b84f336a42ef89f9be77fb2c53f31",
+      "zh": "作为总统，你会支持通过一项联邦民权法案，制止南方种族隔离中最恶劣的行为吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/483@18/description",
+        "1960_Kennedy_Symington/questions_json/483@19/description",
+        "1960_Kennedy_Humphrey/questions_json/483@15/description",
+        "1960_Nixon_Dirksen/questions_json/483@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Do you believe that Cuba has been lost to the Communists as of this time? If so, do you think it is partially the fault of the United States?",
+      "sha256": "ae77b65126297fef478ad320045a71cc4f0a4c5defad5f60110eeee963b8f3b7",
+      "zh": "你认为，古巴目前是否已经落入共产党之手？如果是，美国是否负有部分责任？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/488@19/description",
+        "1960_Kennedy_Symington/questions_json/488@22/description",
+        "1960_Kennedy_Humphrey/questions_json/488@20/description",
+        "1960_Nixon_Lodge/questions_json/488@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "Do you support a minimum wage of $1.25 per hour, with some exceptions for small business? Such a measure was recently defeated in Congress.",
+      "sha256": "e3ed08cd75ec2875ee16cd0631f01c36fdfe813c9d2299bcf06d0d9e0646ab34",
+      "zh": "你支持将最低工资定为每小时1.25美元，并对小企业给予一些豁免吗？国会最近否决了这类措施。",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/486@20/description",
+        "1960_Kennedy_Symington/questions_json/486@14/description",
+        "1960_Kennedy_Humphrey/questions_json/486@19/description",
+        "1960_Nixon_Rockefeller/questions_json/486@20/description",
+        "1960_Nixon_Goldwater/questions_json/486@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "How serious, at the current time, do you believe the internal Communist threat is?",
+      "sha256": "170e8fa3d648a9b9544ba320d059a6403704863b46c9b5830d278a986ffabd4b",
+      "zh": "你认为，目前国内的共产主义威胁有多严重？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/487@21/description",
+        "1960_Kennedy_Symington/questions_json/487@18/description",
+        "1960_Kennedy_Humphrey/questions_json/487@21/description",
+        "1960_Nixon_Rockefeller/questions_json/487@21/description",
+        "1960_Nixon_Goldwater/questions_json/487@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "Recently, Martin Luther King Jr. was arrested at a sit-in in Atlanta, and has now been sentenced to four months in prison for failing to get a Georgia driver's license after moving to that state. Do you have any comment or action you would like to take?",
+      "sha256": "6875b371badd3bb2d37fea16f79573f8f79cb5709600d3cbfbdea8a1d2e0c7d8",
+      "zh": "小马丁·路德·金最近在亚特兰大的一场静坐抗议中被捕，如今因迁居佐治亚州后没有取得该州驾照，被判入狱四个月。你想发表什么意见，或采取什么行动吗？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/484@22/description",
+        "1960_Kennedy_Symington/questions_json/484@23/description",
+        "1960_Kennedy_Humphrey/questions_json/484@23/description",
+        "1960_Nixon_Lodge/questions_json/484@22/description",
+        "1960_Nixon_Dirksen/questions_json/484@22/description",
+        "1960_Nixon_Rockefeller/questions_json/484@22/description",
+        "1960_Nixon_Goldwater/questions_json/484@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "Lady Bird Johnson, LBJ's wife, has been spat on by a gathering of far-right protestors in a Dallas hotel lobby. What are your thoughts?",
+      "sha256": "7528b1591dcf9a016d5d85b998cdbcae1dc2b915b20861affbefb5602d418e7c",
+      "zh": "林登·约翰逊的妻子伯德夫人，在达拉斯一家酒店大堂遭到一群极右翼抗议者吐口水。你对此怎么看？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/450@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "Where will you spend your final day before the election?",
+      "sha256": "6628a6583c32dd344559472e490fbd5723e2b62b7a9d8a1170a475aaf714bf97",
+      "zh": "选举前的最后一天，你会在哪里度过？",
+      "keys": [
+        "1960_Kennedy_Johnson/questions_json/495@24/description",
+        "1960_Kennedy_Symington/questions_json/495@24/description",
+        "1960_Kennedy_Humphrey/questions_json/495@24/description",
+        "1960_Nixon_Lodge/questions_json/495@24/description",
+        "1960_Nixon_Dirksen/questions_json/495@24/description",
+        "1960_Nixon_Rockefeller/questions_json/495@24/description",
+        "1960_Nixon_Goldwater/questions_json/495@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "I will campaign as a mainstream liberal Democrat, emphasizing key parts of our platform and pressing the case for more vigilance in our national defense.",
+      "sha256": "82eccf4c8c3e552e811607d8beb79bd333f9390081d3123d72b347a68aa2e6f8",
+      "zh": "我会以主流自由派民主党人的身份竞选，强调党纲的关键部分，并力陈加强国防警惕的必要性。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3659@0/description",
+        "1960_Kennedy_Symington/answers_json/3659@0/description",
+        "1960_Kennedy_Humphrey/answers_json/3659@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "I have always been on the more moderate wing of the party. We need to emphasize my anti-Communism and my record as a Senator if we hope to win back the Eisenhower Democrats.",
+      "sha256": "e133b4ca5f57fde017c433eeb68930e423b71fb431b387023b77734d6486f63f",
+      "zh": "我一直属于党内较温和的一派。如果想争取支持艾森豪威尔的民主党选民回归，我们就需要强调我的反共立场和参议员政绩。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3660@1/description",
+        "1960_Kennedy_Symington/answers_json/3660@1/description",
+        "1960_Kennedy_Humphrey/answers_json/3660@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "It is important to keep the Democratic Party moving into the future. We need to act on civil rights, education, and health care over the coming term.",
+      "sha256": "4c65a8f755844536e9b3d09b3c6f8dbccd10847c6846de6c13b237abf738d4c0",
+      "zh": "让民主党继续走向未来十分重要。下个任期，我们需要在民权、教育和医疗保障方面采取行动。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3661@2/description",
+        "1960_Kennedy_Symington/answers_json/3661@2/description",
+        "1960_Kennedy_Humphrey/answers_json/3661@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "I will deemphasize the political aspect of this campaign, as much as practicable, and emphasize my own personality and leadership ability. Of course I will still make strong statements on the Cold War.",
+      "sha256": "e5579e58d2eb91d6105e691e945d6ced659f373cb512f41748c6768cae972945",
+      "zh": "我会尽可能淡化这场竞选的政治色彩，强调自己的个性和领导能力。当然，我仍会在冷战问题上发表强硬言论。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3662@3/description",
+        "1960_Kennedy_Symington/answers_json/3662@3/description",
+        "1960_Kennedy_Humphrey/answers_json/3662@3/description",
+        "1960_Nixon_Lodge/answers_json/3692@5/description",
+        "1960_Nixon_Dirksen/answers_json/3692@5/description",
+        "1960_Nixon_Rockefeller/answers_json/3692@5/description",
+        "1960_Nixon_Goldwater/answers_json/3692@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "Lyndon Johnson shares my political beliefs and will be my close partner in government for the next four years.",
+      "sha256": "41158aaab7ac2cf14c9f7aadeb6d306c80c8105d290c95eb43e591ef9df3e32d",
+      "zh": "林登·约翰逊与我持有相同的政治信念，未来四年，他将是我执政中的密切伙伴。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3663@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "Lyndon Johnson is a loyal Southerner and Senator from Texas who will spare no effort to advance a Democratic agenda. ",
+      "sha256": "f9f564e95e1e74c9cc469d06403eda583e051006def6d58f0d554da6b06824aa",
+      "zh": "林登·约翰逊是一位忠诚的南方人、得克萨斯州参议员，会不遗余力地推动民主党的施政纲领。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3664@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "I have no real comment to make, but I'm sure that the voters in Texas will be incensed at the incivility of this episode.",
+      "sha256": "e0e36b63e5f3136e4a400c07656dd8b0f8a3b50a45d2f196b1bc93266407df95",
+      "zh": "我没有什么特别的评论，不过相信得克萨斯州选民会对这次事件中的无礼行为感到愤怒。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3665@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "Let's be cautious with this idea. Nixon is a skilled debater, and the last thing we need right now is a campaign setback on national television.",
+      "sha256": "89e6a58f0735930b975820721646d72e905a9b71507c1bde15d510b1219417c4",
+      "zh": "对这个主意，我们还是谨慎些吧。尼克松很擅长辩论，眼下我们最不需要的，就是在全国电视观众面前遭遇竞选挫折。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3673@7/description",
+        "1960_Kennedy_Symington/answers_json/3673@6/description",
+        "1960_Kennedy_Humphrey/answers_json/3673@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "I would love to go against Nixon in a televised debate. We could use the exposure and I'm confident that I would win.",
+      "sha256": "39765ea1ecb6455e099ed11c70ab5b0b054f0401398f12542cdd5c8134a8d7ff",
+      "zh": "我很愿意与尼克松进行电视辩论。我们需要更多曝光，而且我有信心获胜。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3674@8/description",
+        "1960_Kennedy_Johnson/answers_json/3675@9/description",
+        "1960_Kennedy_Johnson/answers_json/3676@10/description",
+        "1960_Kennedy_Symington/answers_json/3674@7/description",
+        "1960_Kennedy_Symington/answers_json/3675@8/description",
+        "1960_Kennedy_Symington/answers_json/3676@9/description",
+        "1960_Kennedy_Humphrey/answers_json/3674@10/description",
+        "1960_Kennedy_Humphrey/answers_json/3675@11/description",
+        "1960_Kennedy_Humphrey/answers_json/3676@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Let's gather some of these leaflets and show them to the media and to major newspapers. I think they demonstrate the lengths that some people will go to discredit my candidacy.",
+      "sha256": "fb1dc0f556ba87d8b2e20ac6d5f00902c5073ba709a2883993699bd93d21beab",
+      "zh": "让我们收集一些这种传单，交给媒体和各大报纸。我认为，它们说明了一些人为了抹黑我的参选，能做到什么程度。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3677@11/description",
+        "1960_Kennedy_Symington/answers_json/3677@10/description",
+        "1960_Kennedy_Humphrey/answers_json/3677@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "I will attack the idea that any good Protestant would vote against my candidacy because I happen to be a Catholic.",
+      "sha256": "54dcb30f31b80486526496c3dcdcd2114158ee07e160f5374cf5db5f0ed728c2",
+      "zh": "我要抨击这样的想法：只因为我恰好是天主教徒，一位正直的新教徒就应该投票反对我。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3678@12/description",
+        "1960_Kennedy_Symington/answers_json/3678@11/description",
+        "1960_Kennedy_Humphrey/answers_json/3678@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "We can't be out there responding to every little two-bit leaflet that some crank puts out. Let's wait and see how this issue develops.",
+      "sha256": "94a5d579c6b29b4a2405650731e06168a10df92840e618dae83975e782427d5b",
+      "zh": "我们不能去回应每个偏执怪人散发的廉价小传单。先看看这个问题会如何发展吧。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3679@13/description",
+        "1960_Kennedy_Symington/answers_json/3679@12/description",
+        "1960_Kennedy_Humphrey/answers_json/3679@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "Let's take this opportunity to make a major speech on the topic. I will address this issue exclusively in a televised speech, and put it to rest for good.",
+      "sha256": "8d90196b7b3755991dfba794f001b3ee418f40bc4ad9e68ea61f8a96c9e292d1",
+      "zh": "让我们借此机会，专门就这个问题发表一篇重要演说。我会通过电视演说集中回应，让争议彻底平息。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3680@14/description",
+        "1960_Kennedy_Symington/answers_json/3680@13/description",
+        "1960_Kennedy_Humphrey/answers_json/3680@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "Let's put a couple of statements into my next campaign speech to address this issue, and reassure the public that I take no orders from the Pope.",
+      "sha256": "1c91c198a4912c52b4d1f98fff8c8edb63f761b05cbc4265e450694ff31abce2",
+      "zh": "在下一次竞选演说中，让我们加入几句话回应这个问题，让公众放心：我不听命于教皇。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3681@15/description",
+        "1960_Kennedy_Symington/answers_json/3681@14/description",
+        "1960_Kennedy_Humphrey/answers_json/3681@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "I am Catholic and proud of it. I will not respond to bigoted attacks or innuendo, and I trust that these attacks will only help me by driving higher Catholic turnout.",
+      "sha256": "87c2f19efe23005b55ee1a2095e2045d320590780cfb50b15cf8fc7cceb03422",
+      "zh": "我是天主教徒，并以此为荣。我不会回应偏执的攻击或影射，相信这些攻击只会提高天主教徒的投票热情，反而帮助我。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3682@16/description",
+        "1960_Kennedy_Symington/answers_json/3682@15/description",
+        "1960_Kennedy_Humphrey/answers_json/3682@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "This movement has my full support, as do the other civil rights measures of our day. I will push for a Civil Rights Act as President.",
+      "sha256": "5b8890cbda66b5dccb69955c221fef1dc970ee0a42a704df0f9840001b077d26",
+      "zh": "这个运动得到我的全力支持，当今其他民权措施也是如此。作为总统，我会推动一部《民权法》。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3683@17/description",
+        "1960_Kennedy_Symington/answers_json/3683@16/description",
+        "1960_Kennedy_Humphrey/answers_json/3683@19/description",
+        "1960_Nixon_Lodge/answers_json/3698@11/description",
+        "1960_Nixon_Dirksen/answers_json/3711@8/description",
+        "1960_Nixon_Rockefeller/answers_json/3706@11/description",
+        "1960_Nixon_Goldwater/answers_json/3716@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "I support the civil rights movement, but I'm a little concerned about the disregard for the law that some of these activists have shown.",
+      "sha256": "2d416b4a200861e8537fb8a1782f8886306fc4cb3d2a22fe4100953c56a1090f",
+      "zh": "我支持民权运动，但一些活动人士漠视法律的做法，让我有些担忧。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3684@18/description",
+        "1960_Kennedy_Symington/answers_json/3684@17/description",
+        "1960_Kennedy_Humphrey/answers_json/3684@20/description",
+        "1960_Nixon_Lodge/answers_json/3699@12/description",
+        "1960_Nixon_Dirksen/answers_json/3712@9/description",
+        "1960_Nixon_Rockefeller/answers_json/3707@12/description",
+        "1960_Nixon_Goldwater/answers_json/3717@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "These activists are trespassing on the property of lawful businesses. I think there are better methods of pushing for change in the South.",
+      "sha256": "ab1bd04a17df20f9aef1b03eade5659501dd2b6b4f67cb023b6ee87169b50766",
+      "zh": "这些活动人士擅自进入合法商家的场所。我认为，要推动南方的改变，有比这更好的办法。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3685@19/description",
+        "1960_Kennedy_Symington/answers_json/3685@18/description",
+        "1960_Kennedy_Humphrey/answers_json/3685@21/description",
+        "1960_Nixon_Lodge/answers_json/3700@13/description",
+        "1960_Nixon_Dirksen/answers_json/3713@10/description",
+        "1960_Nixon_Rockefeller/answers_json/3708@13/description",
+        "1960_Nixon_Goldwater/answers_json/3718@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "Richard Nixon and I entered Congress in the same year, 1947, and have both served in the highest levels of government for some time.",
+      "sha256": "23d4b35b0b89e3300f5b56c6623cbc7fa7968ab57b3bdca0357a4ddacf23710e",
+      "zh": "理查德·尼克松和我在同一年，也就是1947年进入国会，而且都已在政府高层任职了一段时间。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3686@20/description",
+        "1960_Kennedy_Symington/answers_json/3686@19/description",
+        "1960_Kennedy_Humphrey/answers_json/3686@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "I question this premise, to be frank. It's still not clear to me exactly what role Nixon had in the Eisenhower Administration, or what policies of his have been implemented.",
+      "sha256": "42e9eb8ddb6fe39452fe52d210a5203b99a272266ed2f3951332cfb6c7bc48bd",
+      "zh": "坦率地说，我质疑这个前提。我仍不清楚，尼克松在艾森豪威尔政府中究竟起过什么作用，或他的哪些政策已经付诸实施。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3687@21/description",
+        "1960_Kennedy_Symington/answers_json/3687@20/description",
+        "1960_Kennedy_Humphrey/answers_json/3687@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "I will bring new, dynamic leadership to this country as President. I don't see how this line of argument puts me at any disadvantage.",
+      "sha256": "8357ec0acbc58918a2c9e39514df64fef59ba7c2c775472c21cf15dcf1043d3c",
+      "zh": "作为总统，我将为这个国家带来新颖、充满活力的领导。我看不出，这种论点怎么会让我处于劣势。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3688@22/description",
+        "1960_Kennedy_Symington/answers_json/3688@21/description",
+        "1960_Kennedy_Humphrey/answers_json/3688@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "This program is a good starting point, but I would much prefer a program of national health insurance for all Americans -- not just the elderly.",
+      "sha256": "4e82f26ab3ecc55f10567da7dfd0824119e970fc60022f1ea54580cca0539072",
+      "zh": "这项计划是个不错的起点，不过我更希望设立面向所有美国人的全国医疗保险，而不只是老年人。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3737@23/description",
+        "1960_Kennedy_Symington/answers_json/3737@22/description",
+        "1960_Kennedy_Humphrey/answers_json/3737@25/description",
+        "1960_Nixon_Lodge/answers_json/3737@30/description",
+        "1960_Nixon_Dirksen/answers_json/3737@27/description",
+        "1960_Nixon_Rockefeller/answers_json/3737@30/description",
+        "1960_Nixon_Goldwater/answers_json/3737@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "I would redouble our efforts on this front. Too many of our nation's elderly are unable to afford decent medical care in their advanced years.",
+      "sha256": "57ff52a45e3d512a3f215f57f52f9ba3eaba32c6eb41dd57565e16b2f3ee8cbc",
+      "zh": "我们会加倍努力推动这件事。本国太多老年人到了晚年，却负担不起像样的医疗服务。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3738@24/description",
+        "1960_Kennedy_Symington/answers_json/3738@23/description",
+        "1960_Kennedy_Humphrey/answers_json/3738@26/description",
+        "1960_Nixon_Lodge/answers_json/3738@31/description",
+        "1960_Nixon_Dirksen/answers_json/3738@28/description",
+        "1960_Nixon_Rockefeller/answers_json/3738@31/description",
+        "1960_Nixon_Goldwater/answers_json/3738@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "I prefer a slightly different program, offering health insurance to the elderly that they can choose to purchase. The proposed program was mandatory, and also covered only those covered by the Social Security Act.",
+      "sha256": "a49db524dfb85b8f6b2ea49ff919d804d9342c0576d2e28ea736a57a6709e6d6",
+      "zh": "我更倾向于略有不同的计划，让老年人自行选择是否购买医疗保险。原提案要求强制参加，而且只覆盖《社会保障法》所涵盖的人。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3739@25/description",
+        "1960_Kennedy_Symington/answers_json/3739@24/description",
+        "1960_Kennedy_Humphrey/answers_json/3739@27/description",
+        "1960_Nixon_Lodge/answers_json/3739@32/description",
+        "1960_Nixon_Dirksen/answers_json/3739@29/description",
+        "1960_Nixon_Rockefeller/answers_json/3739@32/description",
+        "1960_Nixon_Goldwater/answers_json/3739@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "This program would represent a massive new financial commitment for the federal government, when care of the elderly properly rests with the affected family.",
+      "sha256": "283003e1fbbd74bb47a759302b705847a2ea007165e9629fc463ae6c82b1d626",
+      "zh": "这项计划意味着联邦政府要承担巨额的新开支，而照顾老人本应由相关家庭负责。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3740@26/description",
+        "1960_Kennedy_Symington/answers_json/3740@25/description",
+        "1960_Kennedy_Humphrey/answers_json/3740@28/description",
+        "1960_Nixon_Lodge/answers_json/3740@33/description",
+        "1960_Nixon_Dirksen/answers_json/3740@30/description",
+        "1960_Nixon_Rockefeller/answers_json/3740@33/description",
+        "1960_Nixon_Goldwater/answers_json/3740@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "We need to dispatch an armed garrison to these islands, to make sure there is no mistaking our commitment in our fight against Communism.",
+      "sha256": "2325009fdeb6a9f1b4915a1c6e07e2f116613a72a81af7cc3b4940a3ba890882",
+      "zh": "我们需要派驻武装守备部队到这些岛屿，明确无误地表明我们反共斗争的承诺。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3741@27/description",
+        "1960_Kennedy_Symington/answers_json/3741@26/description",
+        "1960_Nixon_Lodge/answers_json/3741@34/description",
+        "1960_Nixon_Dirksen/answers_json/3741@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "I do believe we should defend these islands. We are committed to the defense of Taiwan, and that commitment must include all of Taiwan to be credible.",
+      "sha256": "6a7cb9881c9e46e0a948b66f212c47b777eaae10c5670db58fa643952956a2bc",
+      "zh": "我确实认为，我们应当保卫这些岛屿。我们已经承诺保卫台湾；要让这个承诺可信，就必须包括台湾的所有地区。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3742@28/description",
+        "1960_Kennedy_Symington/answers_json/3742@27/description",
+        "1960_Nixon_Lodge/answers_json/3742@35/description",
+        "1960_Nixon_Dirksen/answers_json/3742@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "It wouldn't be responsible of me to comment at this point. As President I will consult with our military leaders to determine what is appropriate.",
+      "sha256": "a81e299752c9c20c7b7fc3b87f566268efcd2b2c32d07f89f506beb010b5363f",
+      "zh": "此时发表意见，并不负责任。作为总统，我会与军方领导人商议，确定怎样做才合适。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3743@29/description",
+        "1960_Kennedy_Symington/answers_json/3743@28/description",
+        "1960_Nixon_Lodge/answers_json/3743@36/description",
+        "1960_Nixon_Dirksen/answers_json/3743@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "I'm not sure it's practical or desirable from a military standpoint to defend two tiny islands that are much closer to the Chinese mainland than they are to Formosa.",
+      "sha256": "0c2cd780e8edb9c43f2ab2662fc14764831a2d31266e4d8a9a79dad4ff38cb47",
+      "zh": "从军事角度看，保卫两座距中国大陆远比距台湾更近的小岛，是否实际、是否值得，我并不确定。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3744@30/description",
+        "1960_Kennedy_Symington/answers_json/3744@29/description",
+        "1960_Nixon_Lodge/answers_json/3744@37/description",
+        "1960_Nixon_Dirksen/answers_json/3744@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "I am satisfied with our progress over the past few years. We have prevented further expansion while avoiding any major wars.",
+      "sha256": "f29fe9b0130241a8b8e2803d0c5fa87bc380ca8493ef6c51a363af78335fc106",
+      "zh": "我对过去几年的进展满意。我们阻止了进一步扩张，也避免了任何重大战争。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3748@31/description",
+        "1960_Kennedy_Symington/answers_json/3748@30/description",
+        "1960_Kennedy_Humphrey/answers_json/3748@32/description",
+        "1960_Nixon_Lodge/answers_json/3748@41/description",
+        "1960_Nixon_Dirksen/answers_json/3748@38/description",
+        "1960_Nixon_Rockefeller/answers_json/3748@37/description",
+        "1960_Nixon_Goldwater/answers_json/3748@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "We can never be fully satisfied, but we have certainly held our own in the Cold War over the past eight years, compared to where we were during the Korean War.",
+      "sha256": "27de7a84dd5740313f316c9af31453ca11c1704d6d161f83142a76e6ec11027b",
+      "zh": "我们永远不能完全满足，但与朝鲜战争时期相比，过去八年，我们在冷战中确实守住了自己的地位。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3749@32/description",
+        "1960_Kennedy_Symington/answers_json/3749@31/description",
+        "1960_Kennedy_Humphrey/answers_json/3749@33/description",
+        "1960_Nixon_Lodge/answers_json/3749@42/description",
+        "1960_Nixon_Dirksen/answers_json/3749@39/description",
+        "1960_Nixon_Rockefeller/answers_json/3749@38/description",
+        "1960_Nixon_Goldwater/answers_json/3749@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "Cuba has been lost to the Soviet Union, providing a potential base for Communist aggression on the very doorstep of our nation. I am very unsatisfied with the current situation.",
+      "sha256": "868afa120a583969e65fe68c91a1b82b2d88937e5514d299725d91f4ca3f60bd",
+      "zh": "古巴已经落入苏联之手，在我国的家门口，为共产主义侵略提供了潜在基地。我对当前局面非常不满。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3750@33/description",
+        "1960_Kennedy_Symington/answers_json/3750@32/description",
+        "1960_Kennedy_Humphrey/answers_json/3750@34/description",
+        "1960_Nixon_Lodge/answers_json/3750@43/description",
+        "1960_Nixon_Dirksen/answers_json/3750@40/description",
+        "1960_Nixon_Rockefeller/answers_json/3750@39/description",
+        "1960_Nixon_Goldwater/answers_json/3750@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "I am as satisfied as I can be. With sound defense policies and strong economic growth, we should continue to maintain our advantage over the Soviet Union.",
+      "sha256": "0031d84405c54217159aac4fbeb1648d7263df8b7e8d43acab0774d9ac1f48aa",
+      "zh": "我已尽可能感到满意。只要国防政策稳健、经济强劲增长，我们就应该继续保持对苏联的优势。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3751@34/description",
+        "1960_Kennedy_Symington/answers_json/3751@33/description",
+        "1960_Kennedy_Humphrey/answers_json/3751@35/description",
+        "1960_Nixon_Lodge/answers_json/3751@44/description",
+        "1960_Nixon_Dirksen/answers_json/3751@41/description",
+        "1960_Nixon_Rockefeller/answers_json/3751@40/description",
+        "1960_Nixon_Goldwater/answers_json/3751@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "I don't know, to be perfectly frank. Things are going well for now, but we will have many challenges to meet in places like Cuba, Lebanon, Latin America, Indochina, and elsewhere.",
+      "sha256": "ff780378ada5e65d290f4572cad7bc4edf0594b0dcf4fe5d0085ee398f74efdc",
+      "zh": "坦率地说，我不知道。目前情况不错，但我们还将在古巴、黎巴嫩、拉丁美洲、印度支那及其他地区面对许多挑战。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3752@35/description",
+        "1960_Kennedy_Symington/answers_json/3752@34/description",
+        "1960_Kennedy_Humphrey/answers_json/3752@36/description",
+        "1960_Nixon_Lodge/answers_json/3752@45/description",
+        "1960_Nixon_Dirksen/answers_json/3752@42/description",
+        "1960_Nixon_Rockefeller/answers_json/3752@41/description",
+        "1960_Nixon_Goldwater/answers_json/3752@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "We have a missile gap, and an overly tight monetary policy that is constraining our growth. I'm very concerned that these shortfalls will allow the Soviet Union to gain an advantage if they are not addressed.",
+      "sha256": "195dbb7d0a881503bc608811a6b46d3058047e964ff66c08881d216e27985358",
+      "zh": "我们存在导弹差距，过度紧缩的货币政策也在制约增长。如果这些不足得不到解决，可能使苏联取得优势，这让我十分担忧。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3753@36/description",
+        "1960_Kennedy_Symington/answers_json/3753@35/description",
+        "1960_Kennedy_Humphrey/answers_json/3753@37/description",
+        "1960_Nixon_Lodge/answers_json/3753@46/description",
+        "1960_Nixon_Dirksen/answers_json/3753@43/description",
+        "1960_Nixon_Rockefeller/answers_json/3753@42/description",
+        "1960_Nixon_Goldwater/answers_json/3753@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "Education is a key front in our battle with Communism, and that includes adequate pay and respect for our nation's teachers. I would support additional federal spending on this.",
+      "sha256": "2dfb1dbcf4474f1aa5edb4c1688a397318ebd3506b65f85fdb35d347b4ede6c7",
+      "zh": "教育是我们与共产主义斗争中的关键阵线，其中也包括让教师获得足够的报酬和尊重。我会支持增加这方面的联邦开支。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3757@37/description",
+        "1960_Kennedy_Symington/answers_json/3757@39/description",
+        "1960_Nixon_Lodge/answers_json/3757@47/description",
+        "1960_Nixon_Dirksen/answers_json/3757@47/description",
+        "1960_Nixon_Rockefeller/answers_json/3757@46/description",
+        "1960_Nixon_Goldwater/answers_json/3757@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "I'm not satisfied with how well teachers are paid in this country, and I'd encourage local jurisdictions to address this issue further. We need to strike a good balance in this regard.",
+      "sha256": "08c44d7c4181a18fd889726e11b4834a4049fc7b5227fcc64c587c461d52dc86",
+      "zh": "我对本国教师的薪酬水平不满意，会鼓励地方政府进一步处理这个问题。我们需要在这方面取得良好的平衡。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3758@38/description",
+        "1960_Kennedy_Symington/answers_json/3758@40/description",
+        "1960_Nixon_Lodge/answers_json/3758@48/description",
+        "1960_Nixon_Dirksen/answers_json/3758@48/description",
+        "1960_Nixon_Rockefeller/answers_json/3758@47/description",
+        "1960_Nixon_Goldwater/answers_json/3758@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "We need to minimize the federal funding of education, even in block grants. It could easily open the door to federal control of our schools.",
+      "sha256": "1fe1a844003a281308b37a0be412a8c6bc84fd59f0c085bd66a5563e510b1595",
+      "zh": "我们需要尽量减少联邦教育经费，即便是整笔拨款也应如此。这很容易为联邦控制学校打开大门。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3759@39/description",
+        "1960_Kennedy_Symington/answers_json/3759@41/description",
+        "1960_Nixon_Lodge/answers_json/3759@49/description",
+        "1960_Nixon_Dirksen/answers_json/3759@49/description",
+        "1960_Nixon_Rockefeller/answers_json/3759@48/description",
+        "1960_Nixon_Goldwater/answers_json/3759@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "We need to do anything we can to move our nation forward on this issue, including a civil rights bill and measures to protect voting rights.",
+      "sha256": "f2cfa0c4e2e452d73e1497ba4ea21621e1fa61197121ed4b11610ff02c728b5a",
+      "zh": "我们需要尽一切努力，推动本国在这个问题上前进，包括民权法案和保护投票权的措施。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3760@40/description",
+        "1960_Kennedy_Symington/answers_json/3760@42/description",
+        "1960_Kennedy_Humphrey/answers_json/3760@41/description",
+        "1960_Nixon_Dirksen/answers_json/3760@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "I am supportive of a civil rights bill and will work with Congress to get one written and passed.",
+      "sha256": "307f1474e697e46e4ca66f8b2683c6bff6fdb5e49ce7f2a40b0186a369d171ea",
+      "zh": "我支持民权法案，会与国会合作起草并推动通过。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3761@41/description",
+        "1960_Kennedy_Symington/answers_json/3761@43/description",
+        "1960_Kennedy_Humphrey/answers_json/3761@42/description",
+        "1960_Nixon_Dirksen/answers_json/3761@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "This is something that is more appropriately addressed by individual states, though I will do anything I can to enforce the decisions of our Supreme Court.",
+      "sha256": "d431ce441827484b62f1792fc03bc2debaee8fd8fb7da4480ebcc3fefeea04ba",
+      "zh": "这个问题更适合由各州分别处理，不过我会尽一切努力，执行最高法院的判决。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3762@42/description",
+        "1960_Kennedy_Symington/answers_json/3762@44/description",
+        "1960_Kennedy_Humphrey/answers_json/3762@43/description",
+        "1960_Nixon_Dirksen/answers_json/3762@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "I would not support a measure like this. This would be an unnecessary and unconstitutional interference into the rights of our states.",
+      "sha256": "952c6a45f84fdec2154dad579df59bfdf3b4dd304c3494324d4267a3c3e6d7a4",
+      "zh": "我不会支持这类措施。这是对各州权利不必要、而且违宪的干预。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3763@43/description",
+        "1960_Kennedy_Symington/answers_json/3763@45/description",
+        "1960_Kennedy_Humphrey/answers_json/3763@44/description",
+        "1960_Nixon_Dirksen/answers_json/3763@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "Let's make a call to Mrs. King to offer our condolences, and let's demand the release of Mr. King.",
+      "sha256": "6400c64f497f7e77a609f6128ad6e56159dd6676b09c749dbde5a0d40e8293bc",
+      "zh": "让我们给金夫人打个电话，向她表示慰问，并要求释放金先生。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3764@44/description",
+        "1960_Kennedy_Symington/answers_json/3764@46/description",
+        "1960_Kennedy_Humphrey/answers_json/3764@45/description",
+        "1960_Nixon_Lodge/answers_json/3764@50/description",
+        "1960_Nixon_Dirksen/answers_json/3764@54/description",
+        "1960_Nixon_Rockefeller/answers_json/3764@49/description",
+        "1960_Nixon_Goldwater/answers_json/3764@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "Let's make a public comment criticizing this arrest, and expressing our hopes that this situation doesn't escalate any further.",
+      "sha256": "8e6295c8207ce380307f46dbfa8260030b0c673e92f1515344767926df848791",
+      "zh": "让我们公开批评这次逮捕，表达希望事态不要进一步升级的愿望。",
+      "keys": [
+        "1960_Kennedy_Johnson/answers_json/3765@45/description",
+        "1960_Kennedy_Symington/answers_json/3765@47/description",
+        "1960_Kennedy_Humphrey/answers_json/3765@46/description",
+        "1960_Nixon_Lodge/answers_json/3765@51/description",
+        "1960_Nixon_Dirksen/answers_json/3765@55/description",
+        "1960_Nixon_Rockefeller/answers_json/3765@50/description",
+        "1960_Nixon_Goldwater/answers_json/3765@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

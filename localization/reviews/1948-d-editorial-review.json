@@ -1,0 +1,210 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1948-d",
+  "uniqueSourcesReviewed": 18,
+  "recordPositions": 20,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "The vitality and way of life in our country is under constant attack from Communism. I support any measure which combats that ideology.",
+      "sha256": "c8432b55a60ba30611a43b2660f23db75ba68d9b2294825764b5966a9da3d6dd",
+      "zh": "共产主义不断攻击我国的活力和生活方式。我支持任何对抗这种意识形态的措施。",
+      "keys": [
+        "1948_Dewey_Stassen/answers_json/3954@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "You know, in a few isolated cases, we do have people in this country who are too sympathetic towards Communism to hold public office, in my opinion. But we shouldn't let such accusations get out of hand.",
+      "sha256": "63b0af96317abeaa05cb53b663f9956dab1b633e7da95d712f9bba99220882ca",
+      "zh": "你知道，在少数个别情况下，本国确实有些人过于同情共产主义，在我看来不适合担任公职。但我们不应该让这类指控失控。",
+      "keys": [
+        "1948_Dewey_Stassen/answers_json/3955@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "I think this bodes ill for the future of American politics. I support debate on legitimate political issues, but not the casual and spurious accusations about Communist sympathies.",
+      "sha256": "32e30aa92e6a2c26f8bbe890d6edb1da3511e85f1f1e76c9a75182a2e26b0581",
+      "zh": "我认为，这对美国政治的未来不是好兆头。我支持围绕正当的政治议题辩论，但不支持随意、无根据地指控别人同情共产主义。",
+      "keys": [
+        "1948_Dewey_Stassen/answers_json/3956@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "Harold Stassen is a great man who represents my views for the future of this country. Now let's get going with this campaign.",
+      "sha256": "ba43831d4a963d94217479a0fef754db62f0f9a4f83cb37dd2c8013bd056dad4",
+      "zh": "哈罗德·史塔森是位出色的人物，代表了我对本国未来的看法。现在，让我们开始竞选吧。",
+      "keys": [
+        "1948_Dewey_Stassen/answers_json/3958@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "This seems to be a bit of a self-criticism. And are things going poorly in China right now?",
+      "sha256": "93089f00c970ac745824b855e287854494533da4c23788d8f743b71e7044eef8",
+      "zh": "这似乎有点像是在自我批评。而且，中国眼下的局势很糟糕吗？",
+      "keys": [
+        "1948_Dewey_Stassen/answer_feedback_json/1420@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "As long as the Communists don't take over in China, your reputation on this issue is safe.",
+      "sha256": "36fab87338ecc946a5ffec702beb465dc1d6a2d73ca46771f43281d8aa49501f",
+      "zh": "只要共产党没有在中国掌权，你在这个问题上的声誉就不会受损。",
+      "keys": [
+        "1948_Dewey_Stassen/answer_feedback_json/1421@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "These are good points to bring up on the campaign trail.",
+      "sha256": "7ce30698ad4c37d64d0ee894a7b0e0d75e26ccc270aa1a86752fd6ffb0a1b83c",
+      "zh": "这些都是值得在竞选中强调的观点。",
+      "keys": [
+        "1948_Dewey_Stassen/answer_feedback_json/1426@21/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1427@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "For the most part, Americans support the efforts to reduce Communist influence in this country.",
+      "sha256": "99ef5fcb63bc20cf59c295b2f4b2afaf0261afaca959dd929075f1210c247231",
+      "zh": "总体而言，美国人支持减少本国共产党影响的努力。",
+      "keys": [
+        "1948_Dewey_Stassen/answer_feedback_json/1428@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Supporters want to see vigilance on the Communism issue.",
+      "sha256": "af6bf7064c11a8bb237cc96fe8485caa16775a9e33eaf85e57ff7494d0d019b4",
+      "zh": "支持者希望在共产主义问题上保持警惕。",
+      "keys": [
+        "1948_Dewey_Stassen/answer_feedback_json/1506@90/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "What do you have to say about your announced running mate, John Bricker?",
+      "sha256": "ac066cadea6e78d66ea8fbc09f138ff1fbd45e0ad2c61235a48187019ba973d9",
+      "zh": "对于已经宣布的竞选搭档约翰·布里克，你有什么话要说？",
+      "keys": [
+        "1948_Dewey_Bricker/questions_json/542@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "What do you have to say about the provision of large-scale military and economic aid to Turkey and Greece, to prevent a Communist takeover in those countries?",
+      "sha256": "292b72a98f3e115979f5a8a84c47fd91fe5cae60337c6f6cb378d6e4894f5335",
+      "zh": "对于向土耳其和希腊提供大规模军事与经济援助，以阻止共产党在两国掌权的做法，你有什么意见？",
+      "keys": [
+        "1948_Dewey_Bricker/questions_json/530@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "I support this aid and think it is a necessary step to combat the Soviet Union.",
+      "sha256": "2529c113dd14b141836348bf5e3429d2d082c5a7e030c1cde011c8a66ae217ec",
+      "zh": "我支持这项援助，认为它是对抗苏联的必要一步。",
+      "keys": [
+        "1948_Dewey_Bricker/answers_json/3927@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "I support this aid, but I think we could have been more careful about the cost.",
+      "sha256": "fc4d29492add553a49b162ad4a1459bc120cd5590b32f781194def3dcb1cddf9",
+      "zh": "我支持这项援助，不过认为我们本可以更谨慎地控制成本。",
+      "keys": [
+        "1948_Dewey_Bricker/answers_json/3928@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "I do not support this action that we have taken.",
+      "sha256": "349945d4d6382019bba1644586e7e58a45442d56808f99d5d16cac7ee5d34328",
+      "zh": "我不支持我们采取的这项行动。",
+      "keys": [
+        "1948_Dewey_Bricker/answers_json/3929@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "John Bricker is a great man who represents my views for the future of this country. Now let's get going with this campaign.",
+      "sha256": "e4340b418c6526f3387a2cbb314040228b972f442c4c60a5079a2a91b811f5ca",
+      "zh": "约翰·布里克是位出色的人物，代表了我对本国未来的看法。现在，让我们开始竞选吧。",
+      "keys": [
+        "1948_Dewey_Bricker/answers_json/3959@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "This package was yours from start to finish. You need to stand by it.",
+      "sha256": "a04eced6e463f5f251fd66cdbb2dabd7dedae4eb7552b345c58a81b249455e67",
+      "zh": "这套援助方案从头到尾都是你的主张。你需要坚持支持它。",
+      "keys": [
+        "1948_Dewey_Bricker/answer_feedback_json/1412@19/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1413@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "What do you have to say about your announced running mate, Arthur Vandenberg?",
+      "sha256": "ca7295e2d30f52f6ac185583f55d6fbc4e5043e28434fcca063e4b092c294fee",
+      "zh": "对于已经宣布的竞选搭档阿瑟·范登堡，你有什么话要说？",
+      "keys": [
+        "1948_Dewey_Vandenberg/questions_json/543@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Arthur Vandenberg is a great man who represents my views for the future of this country. Now let's get going with this campaign.",
+      "sha256": "48ba57a7bff9f4c94d6432ee730975696b63fe7fc8c3018025635456e169b0f7",
+      "zh": "阿瑟·范登堡是位出色的人物，代表了我对本国未来的看法。现在，让我们开始竞选吧。",
+      "keys": [
+        "1948_Dewey_Vandenberg/answers_json/3960@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

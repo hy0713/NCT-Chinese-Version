@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-09",
+  "research": "2012-RESEARCH_PENDING_ZH.md",
+  "sourceExceptions": [
+    {
+      "index": 5,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 6,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 7,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 11,
+      "reason": "Paul is candidate first name in supplied ending; preserved, do not replace with dynamic running mate."
+    },
+    {
+      "index": 14,
+      "reason": "Hillary succession is fictional forecast, not actual 2016 presidential outcome."
+    },
+    {
+      "index": 18,
+      "reason": "Original either the house malformed phrase read contextually as House; sentence split around runtime running mate preserved."
+    },
+    {
+      "index": 19,
+      "reason": "Split text remains split with no invented candidate interpolation."
+    },
+    {
+      "index": 20,
+      "reason": "First Democrat popular/electoral divergence retained as alternate-history conditional ending."
+    },
+    {
+      "index": 26,
+      "reason": "Original instead of your read as instead of you; English unchanged."
+    },
+    {
+      "index": 29,
+      "reason": "Split text around dynamic candidate preserved."
+    },
+    {
+      "index": 30,
+      "reason": "Split text around dynamic candidate preserved."
+    },
+    {
+      "index": 38,
+      "reason": "Original broad characterization retained; Arizona decision actually left section 2(B) provision while striking other provisions. Research note pending."
+    },
+    {
+      "index": 41,
+      "reason": "Original premiums wording retained; must distinguish out-of-pocket cap and premium rules in research note."
+    }
+  ]
+}

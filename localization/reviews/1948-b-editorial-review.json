@@ -1,0 +1,1107 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1948-b",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 347,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "There should not be a limit on how many terms a President can serve. This is why we have an election every four years -- to gauge the will of the American people.",
+      "sha256": "16fe077a222fefbb8cc43124344e315b291648c9bfe0d28437e5aab40841819c",
+      "zh": "总统能任职多少届，不应受到限制。我们每四年举行一次选举，就是为了检验美国人民的意愿。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3912@59/description",
+        "1948_Dewey_Warren/answers_json/3912@61/description",
+        "1948_Dewey_Stassen/answers_json/3912@61/description",
+        "1948_Dewey_Bricker/answers_json/3912@61/description",
+        "1948_Dewey_Vandenberg/answers_json/3912@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I support the Marshall Plan and believe that it is a force for the future peace and prosperity of our world.",
+      "sha256": "fdb22c208b20bdb595ae2f24ca9a68c73c4eee5b47253287557700600515dd2d",
+      "zh": "我支持马歇尔计划，认为它有助于世界未来的和平与繁荣。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3913@60/description",
+        "1948_Dewey_Warren/answers_json/3913@62/description",
+        "1948_Dewey_Stassen/answers_json/3913@62/description",
+        "1948_Dewey_Bricker/answers_json/3913@62/description",
+        "1948_Dewey_Vandenberg/answers_json/3913@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Obviously, Europe needs some kind of aid after the horrors of World War II. I will be careful to see that this plan is fairly administered and does not become excessive.",
+      "sha256": "bfa36304d61caca05f1f36961750505eb49beb29175b333535996634ae67655a",
+      "zh": "显然，经历第二次世界大战的浩劫之后，欧洲需要某种援助。我会认真确保这项计划公平实施，而且不至于过度扩张。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3914@61/description",
+        "1948_Dewey_Warren/answers_json/3914@63/description",
+        "1948_Dewey_Stassen/answers_json/3914@63/description",
+        "1948_Dewey_Bricker/answers_json/3914@63/description",
+        "1948_Dewey_Vandenberg/answers_json/3914@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "The Marshall Plan is a waste of resources, and will slow the development of Europe by forcing nations to rely on foreign subsidies, rather than rebuilding their own economies.",
+      "sha256": "b2ad33a870de02c74c65324604ff58e9682bd07b2b0aacc8fac15e70878afb29",
+      "zh": "马歇尔计划是浪费资源。它迫使各国依赖外国补助，而不是重建自身经济，将拖慢欧洲的发展。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3915@62/description",
+        "1948_Dewey_Warren/answers_json/3915@64/description",
+        "1948_Dewey_Stassen/answers_json/3915@64/description",
+        "1948_Dewey_Bricker/answers_json/3915@64/description",
+        "1948_Dewey_Vandenberg/answers_json/3915@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "The Marshall Plan is provocative towards the Soviet Union, and is likely to lead to further aggression and escalation from them.",
+      "sha256": "e50b84ec4e08b6290dc9860fb4b0d78df0c5838f79f8a908ecd05364a5626c8b",
+      "zh": "马歇尔计划是在挑衅苏联，很可能引发他们进一步的侵略和事态升级。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3916@63/description",
+        "1948_Dewey_Warren/answers_json/3916@65/description",
+        "1948_Dewey_Stassen/answers_json/3916@65/description",
+        "1948_Dewey_Bricker/answers_json/3916@65/description",
+        "1948_Dewey_Vandenberg/answers_json/3916@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "The HUAC is a necessary defender of American values, and I don't see anything to criticize in its current conduct.",
+      "sha256": "55ad2ac8343815fcec5c6c672fea0f71c73f0bf26edfe40d29c2631758ebe0d4",
+      "zh": "非美活动调查委员会是捍卫美国价值观的必要力量，我看不出它当前的行动有什么可批评的。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3918@64/description",
+        "1948_Dewey_Warren/answers_json/3918@66/description",
+        "1948_Dewey_Stassen/answers_json/3918@66/description",
+        "1948_Dewey_Bricker/answers_json/3918@66/description",
+        "1948_Dewey_Vandenberg/answers_json/3918@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "The HUAC is not something I plan to address very much as I campaign.",
+      "sha256": "55167e1373592fcea1d667f5cd751bd1f94f63811efe4c04992b0dcb67aaf514",
+      "zh": "我不打算在竞选中多谈非美活动调查委员会。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3919@65/description",
+        "1948_Dewey_Warren/answers_json/3919@67/description",
+        "1948_Dewey_Stassen/answers_json/3919@67/description",
+        "1948_Dewey_Bricker/answers_json/3919@67/description",
+        "1948_Dewey_Vandenberg/answers_json/3919@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "I'm not very comfortable with the activities of this committee, and I believe they should be scaled back to a minimum.",
+      "sha256": "d0d4021a312d9389a98716121959f8baead52bf1acef95273d01da0fde003e3b",
+      "zh": "我对这个委员会的活动颇有疑虑，认为应该将其缩减到最低限度。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3920@66/description",
+        "1948_Dewey_Warren/answers_json/3920@68/description",
+        "1948_Dewey_Stassen/answers_json/3920@68/description",
+        "1948_Dewey_Bricker/answers_json/3920@68/description",
+        "1948_Dewey_Vandenberg/answers_json/3920@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Corporations have been raising prices much faster than wages have increased, and they are pocketing exorbitant profits as a result. I will fight for the rights of labor, and for better regulation during my next term.",
+      "sha256": "73c04c59f8198d85fb6151fd05fb7226d61b719a1535681b20cfcc10bd02935e",
+      "zh": "企业提价的速度远远超过工资上涨，因而攫取了过高的利润。下个任期，我将争取劳工权利，并加强监管。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3921@67/description",
+        "1948_Dewey_Warren/answers_json/3921@69/description",
+        "1948_Dewey_Stassen/answers_json/3921@69/description",
+        "1948_Dewey_Bricker/answers_json/3921@69/description",
+        "1948_Dewey_Vandenberg/answers_json/3921@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "We have already passed the Taft-Hartley Act and a modernized system of price supports for food, and their effect can clearly be seen in the drop in inflation since 1947. I'm confident this trend will continue.",
+      "sha256": "b2a81897324a8429a3ba01ddf69029ba137c48c71409bc9af3474e00af27c4d8",
+      "zh": "我们已经通过《塔夫脱—哈特利法》，并更新了食品价格支持制度。1947年以来通货膨胀回落，已清楚显示了它们的效果。我相信这个趋势会持续。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3922@68/description",
+        "1948_Dewey_Warren/answers_json/3922@70/description",
+        "1948_Dewey_Stassen/answers_json/3922@70/description",
+        "1948_Dewey_Bricker/answers_json/3922@70/description",
+        "1948_Dewey_Vandenberg/answers_json/3922@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "We need to control the spending and interference of the federal government, and reinforce our commitment to a sound American dollar. These policies will bring inflation under control in my Administration.",
+      "sha256": "38c707e23cd16fda582205ec66b3ee0b01fb196e57c177e741989771e8a65326",
+      "zh": "我们需要控制联邦政府的开支和干预，重申维护稳健美元的承诺。在我的政府任内，这些政策将使通货膨胀得到控制。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3923@69/description",
+        "1948_Dewey_Warren/answers_json/3923@71/description",
+        "1948_Dewey_Stassen/answers_json/3923@71/description",
+        "1948_Dewey_Bricker/answers_json/3923@71/description",
+        "1948_Dewey_Vandenberg/answers_json/3923@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "We need a federal housing bill that will produce low-income housing and provide cheaper mortgages for all Americans, so that we can get more housing built in this country.",
+      "sha256": "6e1ee4ee2a9e1ea8bddaba71f23a075f0741ea2ddbee2db55751a9c853f357ed",
+      "zh": "我们需要一项联邦住房法案，建设低收入住房，并为所有美国人提供更便宜的住房贷款，让本国建起更多住房。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3924@70/description",
+        "1948_Dewey_Warren/answers_json/3924@72/description",
+        "1948_Dewey_Stassen/answers_json/3924@72/description",
+        "1948_Dewey_Bricker/answers_json/3924@72/description",
+        "1948_Dewey_Vandenberg/answers_json/3924@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "We are clearly overcrowding our urban areas at the moment. At the very least, we can expand the federal highway system to make more areas accessible to families and developers.",
+      "sha256": "c0c024a1d44ecbba1f41354d7a421409b48aa236ddd7dfd22ca6b65139a397e5",
+      "zh": "眼下，城市地区显然过于拥挤。至少我们可以扩大联邦公路系统，让家庭和开发商能够进入更多地区。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3925@71/description",
+        "1948_Dewey_Warren/answers_json/3925@73/description",
+        "1948_Dewey_Stassen/answers_json/3925@73/description",
+        "1948_Dewey_Bricker/answers_json/3925@73/description",
+        "1948_Dewey_Vandenberg/answers_json/3925@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "It has taken a couple of years after the end of the war, but I can already see that many new houses are being built by private developers to resolve this shortage, and I can only predict that this trend will continue without any special action by the government.",
+      "sha256": "f1497b144f6d80492addbbb3fd148d97c7186de7b7c953e05644d27d5caa9bc7",
+      "zh": "战争结束后过了几年，我已经看到私人开发商正在建设许多新住房，缓解短缺。我只能预计，即便政府不采取特别行动，这个趋势也会持续。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3926@72/description",
+        "1948_Dewey_Warren/answers_json/3926@74/description",
+        "1948_Dewey_Stassen/answers_json/3926@74/description",
+        "1948_Dewey_Bricker/answers_json/3926@74/description",
+        "1948_Dewey_Vandenberg/answers_json/3926@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Part of our current economic problem is the inability of Congress to pass programs which would help the American worker. I'd rather see us have more housing, more roads, and better health care than to see us with an unnecessary surplus.",
+      "sha256": "8a06343fd5e8853baa03cbabf0cfb5d080db4c61ac234df8a67e2f6fb4d1cdfb",
+      "zh": "我们当前经济问题的一个原因，是国会无法通过有助于美国劳动者的计划。与其维持不必要的盈余，我宁愿看到更多住房、更多道路和更好的医疗保障。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3933@73/description",
+        "1948_Dewey_Bricker/answers_json/3933@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "I've always been an advocate of “pay-as-you-go liberalism”, as I've put it. I believe that we can pass the programs this country needs without destroying the fiscal health of the government.",
+      "sha256": "527bc099e479bfb5e36ea95af1aab049202e96ad316115ff6edae00ba9ff01ea",
+      "zh": "我一向主张自己所说的“量入为出的自由主义”。我认为，我们能够通过国家需要的计划，而不损害政府的财政健康。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3934@74/description",
+        "1948_Dewey_Bricker/answers_json/3934@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "We've run up quite a national debt over the past few years, and rightly so, but now that World War II is over, we should focus on paying down this debt.",
+      "sha256": "8b58375647412fa912e6c44c80b49628cdfb17563543badaadd310058a3af38f",
+      "zh": "过去几年，我们累积了相当多的国债，而且这样做有其道理。但第二次世界大战既然已经结束，我们就应该着力偿还债务。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3935@75/description",
+        "1948_Dewey_Bricker/answers_json/3935@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "In the world we live in now, we need to remain vigilant, lest we see the world overwhelmed by Communist expansion. I think this measure is, unfortunately, a necessary one.",
+      "sha256": "3dbfb0270f721263faabcd6920be58c98e6b764d993ae64970e9c6df747a48cf",
+      "zh": "在如今这个世界，我们必须保持警惕，以免共产主义的扩张席卷全球。我认为，尽管令人遗憾，这项措施仍是必要的。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3939@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "You will never see me support the conscription of American boys into the military during peacetime, whether it be in 1940 or in the current time, or in a future time.",
+      "sha256": "42e694d6a744ed531e0a2d99c7ff79dc5190a11ccd3eeccd5e1febffc84c39d6",
+      "zh": "无论是在1940年、现在，还是将来，你都不会看到我支持在和平时期征召美国青年入伍。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3940@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "The economy would be even better without the obstructionism of Congress, or the excessive profiteering and price-gouging from many companies. But overall, we've seen great prosperity since the end of World War II.",
+      "sha256": "fb8f334ed381a4b3a14884af0d3a5efba9c05f3de2f7d0f5cb05caaf12f5472d",
+      "zh": "如果没有国会的阻挠，以及许多公司的牟取暴利和哄抬物价，经济会更好。不过总体上，第二次世界大战结束以来，我们经历了很大的繁荣。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3947@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Farm income has increased. Employment income and jobs have increased. Business income has increased. We've seen great strides in our economy since 1945, and I don't mind telling people.",
+      "sha256": "681b5e6b404dd3d75155f296711222c451fdb25a87e9529e0cb4aac8af069e4a",
+      "zh": "农民收入增加了。工资收入和就业岗位增加了。企业收入也增加了。1945年以来，我们的经济取得了长足进步，我很乐意告诉大家。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3948@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "This isn't the type of issue I prefer to address on the campaign trail. Let's stick to positive talk about the future of our nation.",
+      "sha256": "f2bb9d52a9669cc9b2c99f3180d2b5e55a1bd72e09fdf1c2f5d6271cb00f78da",
+      "zh": "这不是我想在竞选中讨论的那类议题。让我们继续积极谈论国家的未来。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3949@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "We have 10% inflation, crippling labor issues, and a legacy of overreach dating to the New Deal. I'm not very satisfied at all with our economic situation.",
+      "sha256": "ad909cae5aa1aa77a9c3a14a4a21d9e4760ba4b1a6c1ea161a9b6064ff461ba4",
+      "zh": "我们有10%的通货膨胀、严重妨碍经济运行的劳工问题，以及从新政时期延续至今的政府越权。我对经济状况一点也不满意。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3950@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "This might make you look a bit more moderate, but your relations with labor have gone from bad to worse. It is probably not worth it on the balance.",
+      "sha256": "f4519dc374841b54f4ad437963aabfb8fcf65cf8899216510f515f55696ce1c0",
+      "zh": "这也许会让你显得稍微温和一些，但你与劳工的关系已经越来越糟。总的来看，大概不值得。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1356@0/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "You've redeemed yourself in the eyes of labor and energized the Democratic base.",
+      "sha256": "722a7b8b6ed0c25573ea2e3cd2dfb44934721bff36a6ca8d146e3b57beb30ddd",
+      "zh": "你在劳工眼中挽回了形象，也激发了民主党基本盘的热情。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1357@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "The independence of Israel is cause for great celebration among America's Jewish community, particularly in New York.",
+      "sha256": "dff84c821fc64f1fbf3bf71c98c5ab18f45d290bcd5a2a78f315cc21059ef948",
+      "zh": "以色列独立，让美国犹太人群体，尤其是纽约州的犹太人欢欣鼓舞。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1358@2/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "This certainly hurts you in New York. Perhaps other parts of the country will see things differently.",
+      "sha256": "2076eda0d50f73153d13af15b3089677f50b515ed61249b1056e9792457c3086",
+      "zh": "这肯定会损害你在纽约州的支持。也许其他地区会有不同的看法。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1359@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "You've averted a Thurmond candidacy, but there are also complaints about your vacillation on this issue that could cost you outside of the South.",
+      "sha256": "82124fdf79d919ea5aab6537069cad1e946514c5efd91996d128d23ffcf9870b",
+      "zh": "你避免了瑟蒙德参选，但有人抱怨你在这个问题上摇摆不定，这可能让你在南方以外的地区付出代价。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1360@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "This is nearly the worst of all worlds. You've come off as indecisive as well as unprincipled, and left a bad taste for many.",
+      "sha256": "6b938dac8e8d83ec23f1731fe80dab7a95d20ffbf89ba54b9f5183548fc59a4e",
+      "zh": "这几乎是最糟糕的结果。你显得既优柔寡断，又毫无原则，让许多人十分反感。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1361@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Strom Thurmond will cost you some southern states, but hopefully you can make up for it in other regions.",
+      "sha256": "a1cc8d2a9eda1be6fea26f57acb95be6ebbcb91ccafb73ffeabe2db2b04bd032",
+      "zh": "斯特罗姆·瑟蒙德会让你失去一些南方州，但愿你能在其他地区弥补损失。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1362@6/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1363@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "It's a little tone-deaf to speak out so much against the anti-Communism trend at this point.",
+      "sha256": "9f54f3cb7a602b7f4d53cb0c0ca851832258b3f9a992b96219faf5a6860c0c58",
+      "zh": "在这个时候，如此大力抨击反共潮流，显得有些不识时务。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1364@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "Of course you've expressed reservations in private, but it's going to be difficult to win this fall if you're defending yourself against Communism allegations everywhere you go.",
+      "sha256": "a52312b058206171a73db46efd1c74d89327fe7ea6e67d4fef072296ed6bf825",
+      "zh": "你当然曾在私下表达过保留意见，但如果走到哪里都要为自己辩解、应对亲共指控，今年秋季就很难胜选。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1365@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Anti-Communism is a popular opinion, but you also come off as a flip-flopper and a grandstander with this sudden announcement.",
+      "sha256": "7b2d05d5f15f026d4896db9e67faacccbb7286dece3cd49bdc91fa9541425b00",
+      "zh": "反共立场很受欢迎，但你突然作出这种宣布，也让自己显得反复无常、爱出风头。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1366@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "The Soviet takeover of West Berlin provides additional ammunition to your Republican critics.",
+      "sha256": "9761eb2947b96a0edfb035ee4d8515ac5a76abe1bae0a5b1ec1254a908e48094",
+      "zh": "苏联接管西柏林，为你的共和党批评者提供了更多攻击材料。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1367@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "The Berlin Airlift, as it is called, is making headlines in the United States and is definitely helping to restore your popularity.",
+      "sha256": "547ad1ff7d75531af6b732b52eb0db3a1d3c9ab6a10cdf2b43f2f8d816017924",
+      "zh": "这场被称为“柏林空运”的行动，在美国登上了新闻头条，确实有助于恢复你的民望。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1368@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "You've given a good speech, but most Americans don't have strong feelings about Thomas Dewey, and you haven't really energized them.",
+      "sha256": "c74ea5fe9c5e079a61deab5dbc373a5bf096a3dd64e44b9b9cffc27f2ea95599",
+      "zh": "你的演说不错，但大多数美国人对托马斯·杜威没有强烈感受，你也没能真正激发他们的热情。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1369@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Hmm... there is some praise for this stand, but it doesn't seem to have changed much in the polls.",
+      "sha256": "abc979b25680c45ad44ec68845ae86050fb3e9dc6b2743ae5508071d60777730",
+      "zh": "嗯……有人赞扬这个立场，但它似乎没有使民调发生多少变化。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1370@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "People will definitely have second-thoughts when they see the Republican Congress turn its back on its own platform. Consensus seems to be that this was a brilliant maneuver on your part.",
+      "sha256": "d27828d98039df46790459891d87cb820a8a1ec767c2640fb6125e09d0348d38",
+      "zh": "看到共和党控制的国会背弃自己的党纲，人们肯定会重新考虑。大家似乎一致认为，你这一招十分高明。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1371@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "There might have been a better line of attack to take.",
+      "sha256": "edfa7febeadadb8f3c2b516f9ba3aadb0b55ab96923d35ad1fb4eb86fcc3dc6c",
+      "zh": "也许本可以选择一条更好的进攻路线。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1372@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Everywhere you go, large crowds await you. Dewey seems to have the advantage in the polls, but pundits admire your spunk and your fiery speaking style.",
+      "sha256": "5e2b8f9c11d242d542feffc0b21a997a761653f1b3244919a6081bba9ff8806b",
+      "zh": "无论你走到哪里，都有大批人群等着你。杜威似乎在民调中占优，但评论人士欣赏你的斗志和火热的演说风格。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1373@17/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1374@18/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1375@19/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1376@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Way to remind the American people about the ineffectual Congress we have.",
+      "sha256": "8a7b4293df851d4b5cf2a722aa278dcf581d9e1da84eb4da1ca57c7d982e0a23",
+      "zh": "好样的，又让美国人民想起了我们这个无所作为的国会。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1377@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "There is some chatter about whether these crowds you're drawing signify anything. You're the underdog for sure, but maybe you're on to something.",
+      "sha256": "5e6c193cb571c6d0ca3628c97ce0826b99211a50542180532beeacd7c1530c1c",
+      "zh": "有人议论，你吸引来的这些人群究竟意味着什么。你无疑处于劣势，但也许你真的找到了突破口。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1378@22/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1379@23/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1380@24/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1381@25/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1382@26/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1383@27/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1384@28/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1385@29/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1386@30/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1387@31/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1388@32/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1389@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Let's see if you've managed to pull it off. Election night will be interesting.",
+      "sha256": "aaddcdf542014c1dbdd77c2ff5c0e860b122b6194ff33b0a91cf94dee720457a",
+      "zh": "看看你是否成功了吧。选举之夜会很有看头。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1390@34/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1391@35/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1392@36/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1393@37/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "This is what your supporters want to hear.",
+      "sha256": "75c13e856ecccf8991102d6bc4a794be7eb5b8d65ab6a704a3d9127144919b4b",
+      "zh": "这正是你的支持者想听到的话。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1394@38/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1396@40/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1397@41/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1398@42/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1399@43/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1394@1/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1396@3/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1397@4/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1398@5/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1399@6/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1394@1/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1396@3/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1397@4/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1398@5/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1399@6/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1394@1/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1396@3/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1397@4/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1398@5/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1399@6/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1394@1/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1396@3/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1397@4/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1398@5/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1399@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "There are definitely some murmurs about what you mean by this.",
+      "sha256": "0c959d42538b02d8f7ed510eca1ef258df79111fbc137e574441518596bc4fe7",
+      "zh": "确实有人在私下议论，你这番话究竟是什么意思。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1395@39/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1400@44/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1395@2/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1400@7/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1395@2/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1400@7/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1395@2/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1400@7/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1395@2/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1400@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "After a long career, people wonder what you're talking about. You seem to be giving isolationist talking points now.",
+      "sha256": "b94f3c5b61967cc2d4f6567f85905a003f75f2d9fb73c06b8cec3f8fb4789c17",
+      "zh": "你的政治生涯已经这么长，人们却不明白你在说什么。如今，你似乎在复述孤立主义者的论调。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1401@45/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1401@8/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1401@8/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1401@8/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1401@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Given the popularity of FDR, it is generally Republicans who favor the two-term limit.",
+      "sha256": "706e0dd04f097c28907cc737dc776202ac94ecb4aff7d8eea3dcab51e3b31483",
+      "zh": "考虑到富兰克林·罗斯福广受欢迎，通常是共和党人支持两届任期限制。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1402@46/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1402@9/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1402@9/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1402@9/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1402@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Some die-hard Roosevelt supporters agree, but overall there is broad support for the Amendment.",
+      "sha256": "5d08219b2af3378662b298814d6f5033b444d8b414b3d553dd1c5d464245f395",
+      "zh": "一些坚定的罗斯福支持者赞同你，但总体上，这项修正案得到了广泛支持。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1403@47/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1403@10/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1403@10/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1403@10/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1403@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Way to stand by your proposals.",
+      "sha256": "d5180f095de6e4d85fa030b0bcad369426600cfe91b3cee904b577587fb3376c",
+      "zh": "好样的，坚持了自己的提案。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1404@48/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1404@11/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1404@11/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1404@11/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1404@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "You're repeating isolationist talking-points and trashing your own policies as President. What is going on?",
+      "sha256": "9fb02ed4d57b1e77eaf76480e6dea8115ecc824304464e2992b2fa77d348c1d2",
+      "zh": "你在复述孤立主义者的论调，还抨击自己作为总统制定的政策。这是怎么回事？",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1405@49/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1405@12/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1405@12/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1405@12/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1405@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "You're repeating Henry Wallace talking-points and trashing your own policies as President. What is going on?",
+      "sha256": "95612bef474299d4f4c099fba56fc64a4fc81b2956a1f2be9f0a025d4b169f7b",
+      "zh": "你在复述亨利·华莱士的论调，还抨击自己作为总统制定的政策。这是怎么回事？",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1406@50/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1406@13/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1406@13/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1406@13/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1406@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "Henry Wallace has instantly derided you for such comments, though they might be playing well in the heartland.",
+      "sha256": "ba28380493341aed47564562f4d3a1efdfe722b790fc2d6616bbd3423d8b0e96",
+      "zh": "亨利·华莱士立即嘲讽了你这番话，不过它在美国腹地也许颇受欢迎。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1407@51/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1407@14/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1407@14/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1407@14/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1407@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "It's probably not best to speak out against anti-Communism movements in public, no matter your personal feelings.",
+      "sha256": "62ea27ed9a8fb3bda7772abccf82b9f8624563ed4b95dfba39551ded6dbbe805",
+      "zh": "不管你个人怎么想，公开抨击反共运动大概都不是上策。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1408@52/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1408@15/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1408@15/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1408@15/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1408@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "It's probably best not to praise the effects of Taft-Hartley during this campaign if you want to keep labor happy.",
+      "sha256": "a87a4f880de033b1bc8b874fb6415ba68a5cd74da73548591295c0e5d4ec8d7c",
+      "zh": "如果你想让劳工满意，竞选期间大概最好别赞扬《塔夫脱—哈特利法》的效果。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1409@53/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1409@16/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1409@16/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1409@16/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1409@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "These are odd talking points for a New Deal Democrat. A few supporters are really scratching their heads today.",
+      "sha256": "6b5c00895f65aade02a478771131c65e0b544b527299f26cf1b9edac4e9e849f",
+      "zh": "作为新政派民主党人，提出这些主张很奇怪。今天，一些支持者确实感到摸不着头脑。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1410@54/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1410@17/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1410@17/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1410@17/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1410@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Your supporters want stronger action on the housing issue.",
+      "sha256": "580e8fc634e6309b2c2c3e3af7f674009eb6824e524ccf3d70538331883bbd37",
+      "zh": "你的支持者希望在住房问题上采取更有力的行动。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1411@55/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1411@18/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1411@18/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1411@18/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1411@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "This is just what your supporters want to hear.",
+      "sha256": "00efa51a9eb86969a1f8e190189d574d28a27f7805e79ae830e61ac2c7122ce9",
+      "zh": "这正是你的支持者想听到的。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1414@56/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1429@20/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1429@24/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1414@21/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1429@23/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1429@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Your party would prefer a balanced budget, as opposed to a surplus.",
+      "sha256": "56c28d9a3fb8ca081b4240290458b77b96007a5dbf6044c17777cf83d30c7b5d",
+      "zh": "与其有盈余，你所在的政党更希望实现预算平衡。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1415@57/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1415@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "This seems to go against your own policy, and is more of an isolationist position at this time.",
+      "sha256": "214275943c5fa2d3e0964065822293abf5c83faa487a42051c6aef10a4801e8d",
+      "zh": "这似乎违背了你自己的政策，而且在这个时候更偏向孤立主义立场。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1418@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "These are good points to bring up, and they seem to really move the crowds as you travel the nation.",
+      "sha256": "5c64c2d0a2a2d10ed28f761ce30cb305e01b981fae537c908a9243530463a39a",
+      "zh": "这些观点很值得强调。在全国巡回演说时，它们似乎真的打动了听众。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1422@59/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1423@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "People are scratching their heads at the speech you just gave. Does this represent some kind of a break with the Democratic leadership?",
+      "sha256": "94e41fe997c5b633da4da1725d4bd09bfea97f286dd95b662101554767e3e967",
+      "zh": "人们对你刚才的演说感到困惑。这是不是意味着，你与民主党领导层发生了某种决裂？",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1424@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "Even some Republicans see problems in the current setup of Social Security.",
+      "sha256": "b02c0766d86af13348b0ec0a7d05959edb83ff78ab83aec40065602d0c7f45b8",
+      "zh": "就连一些共和党人，也认为目前的社会保障安排存在问题。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1469@62/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1469@59/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1469@63/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1469@62/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1469@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "It's going to be difficult at this point to build support for the rollback of Social Security.",
+      "sha256": "ee7095569307ce6f5181d5792b5e7ba18cb4934b55a24f5e939644ecd619e762",
+      "zh": "到了这个时候，要争取支持缩减社会保障，已经很困难了。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1470@63/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1470@60/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1470@64/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1470@63/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1470@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "Your party is pretty evenly split between those who support and oppose federal housing programs.",
+      "sha256": "360216a376fd624d48d6e64ac4ee9ed886e9673b53af06bba871d634c9dddd14",
+      "zh": "在是否支持联邦住房计划的问题上，你的政党几乎分成势均力敌的两派。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1471@64/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1472@65/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1473@66/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1471@61/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1472@62/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1473@63/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1471@65/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1472@66/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1473@67/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1471@64/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1472@65/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1473@66/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1471@61/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1472@62/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1473@63/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "It's one thing to run as a liberal Republican, but advocating for national health care is probably taking things a bit too far.",
+      "sha256": "b18500329d3e50cc8952ee54b098bba39aeba0f10ad139932400d58c8336978e",
+      "zh": "以自由派共和党人的身份参选是一回事，但主张全国性医疗保障，大概就走得有些太远了。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1474@67/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1474@64/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1474@68/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1474@67/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1474@64/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "Advisers are advocating a cautious approach this fall to preserve your large lead.",
+      "sha256": "3361ddbf8b7a576258c9dbaee39cfefd3e77c80e96c151c6fddc2a6c9408ad2e",
+      "zh": "顾问们主张今年秋季采取谨慎的竞选策略，以保住你的巨大领先优势。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1475@68/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1477@70/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1491@84/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1503@90/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1436@27/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1446@36/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1475@65/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1477@67/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1491@81/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1436@31/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1446@40/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1475@69/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1477@71/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1491@85/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1436@30/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1446@39/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1475@68/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1477@70/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1491@84/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1436@27/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1446@36/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1475@65/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1477@67/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1491@81/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "This answer pleases conservatives in your party.",
+      "sha256": "55a092e44bd1c22a8b7e8718d880ea83b6c335ac7c15f8d474c1791ec196d73e",
+      "zh": "这个回答让党内保守派满意。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1476@69/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1478@71/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1476@66/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1478@68/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1476@70/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1478@72/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1476@69/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1478@71/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1476@66/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1478@68/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "This is a pretty mainstream position by this point, in either party.",
+      "sha256": "6f6faf95918a954c67d0372791ad9a526217c6104e6183b2895b601d01841f0d",
+      "zh": "到这个时候，这已经是两党都相当主流的立场。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1479@72/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1479@69/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1479@73/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1479@72/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1479@69/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "This answer pleases what's left of the isolationists in your party.",
+      "sha256": "2c9cb9eecca18f06a522e334a14a77cd35e44920199287b48de6bcdbeca96ab9",
+      "zh": "这个回答让党内剩下的孤立主义者满意。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1480@73/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1480@70/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1480@74/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1480@73/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1495@88/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1480@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "This answer pleases the majority of Republicans.",
+      "sha256": "08de891d2ee0104c1e93f0f41c5aa4cb52d1eff0a182ff3005e76c9dcf5db129",
+      "zh": "这个回答让大多数共和党人满意。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1481@74/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1481@71/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1481@75/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1481@74/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1481@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "Most Republicans favor this Amendment after the overreach of FDR. Many wonder why you see things differently.",
+      "sha256": "899e031ec8de09bcf927b767549b73f786e48042e6c05503f9b573e5691a7ee5",
+      "zh": "在富兰克林·罗斯福越权之后，大多数共和党人支持这项修正案。许多人不明白，你为什么持不同看法。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1482@75/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1483@76/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1484@77/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1482@72/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1483@73/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1484@74/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1482@76/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1483@77/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1484@78/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1482@75/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1483@76/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1484@77/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1482@72/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1483@73/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1484@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "The Marshall Plan is one measure of Truman and George Marshall that has broad support.",
+      "sha256": "2ef22ceef432e4a77d72b38bf8383d95a016445bb6bd9414cd2f5fd8b679d0d2",
+      "zh": "马歇尔计划是杜鲁门与乔治·马歇尔提出的一项广受支持的措施。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1485@78/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1486@79/answer_feedback",
+        "1948_Truman_Barkley/answer_feedback_json/1487@80/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1485@75/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1486@76/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1487@77/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1485@79/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1486@80/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1487@81/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1485@78/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1486@79/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1487@80/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1485@75/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1486@76/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1487@77/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "Not only are you opposing a popular measure, but you're using the leftist rhetoric of Henry Wallace as you do so.",
+      "sha256": "f8cac551144d1f7cad9ae9f4fa65fba7f0207adedaec81ead00b0d90ec394d1d",
+      "zh": "你不仅在反对一项受欢迎的措施，还使用了亨利·华莱士式的左翼言辞。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1488@81/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1488@78/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1488@82/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1488@81/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1488@78/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "Just lately, it seems like this committee has uncovered shocking revelations about Communists in government. Americans definitely want to see more of this.",
+      "sha256": "0c02b1e6b09876a01042540cff231fb7ff781499d86101530ffa924ec4ed778f",
+      "zh": "就在最近，这个委员会似乎揭露了关于政府内共产党人的惊人情况。美国人确实希望看到更多这样的揭露。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1489@82/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1489@79/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1489@83/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1489@82/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1489@79/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "This is a good position in line with much of your party.",
+      "sha256": "355f283d343df1215ea5615c35c1a59f56c79742bfefc3126e6b952341b222b0",
+      "zh": "这是个不错的立场，与党内许多人的看法一致。",
+      "keys": [
+        "1948_Truman_Barkley/answer_feedback_json/1490@83/answer_feedback",
+        "1948_Dewey_Warren/answer_feedback_json/1490@80/answer_feedback",
+        "1948_Dewey_Stassen/answer_feedback_json/1490@84/answer_feedback",
+        "1948_Dewey_Bricker/answer_feedback_json/1490@83/answer_feedback",
+        "1948_Dewey_Vandenberg/answer_feedback_json/1490@80/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

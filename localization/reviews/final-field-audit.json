@@ -1,0 +1,583 @@
+{
+  "checkedAt": "2026-10-10",
+  "entries": 32770,
+  "unreviewed": [],
+  "counts": {
+    "human-full-field": 23553,
+    "human-proper-name-verification": 4821,
+    "human-short-terminology": 4394,
+    "human-contextual-short-term": 2
+  },
+  "scopes": {
+    "base": {
+      "human-full-field": 479,
+      "human-proper-name-verification": 367,
+      "human-short-terminology": 189,
+      "human-contextual-short-term": 2
+    },
+    "2020_Biden_Harris": {
+      "human-full-field": 221,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Biden_Rice": {
+      "human-full-field": 221,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Biden_Duckworth": {
+      "human-full-field": 220,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Biden_Demings": {
+      "human-full-field": 221,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Biden_Bass": {
+      "human-full-field": 221,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Biden_Whitmer": {
+      "human-full-field": 220,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Biden_Warren": {
+      "human-full-field": 218,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Trump_Pence": {
+      "human-full-field": 230,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2020_Trump_Haley": {
+      "human-full-field": 230,
+      "human-proper-name-verification": 50,
+      "human-short-terminology": 40
+    },
+    "2016_Trump_Pence": {
+      "human-full-field": 222,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Trump_Christie": {
+      "human-full-field": 226,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Trump_Sessions": {
+      "human-full-field": 218,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Trump_Carson": {
+      "human-full-field": 210,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Trump_Palin": {
+      "human-full-field": 220,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Clinton_Kaine": {
+      "human-full-field": 216,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Clinton_Booker": {
+      "human-full-field": 213,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Clinton_Brown": {
+      "human-full-field": 219,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Clinton_Sanders": {
+      "human-full-field": 212,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016_Clinton_Warren": {
+      "human-full-field": 213,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Clinton_Booker": {
+      "human-full-field": 201,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Clinton_Castro": {
+      "human-full-field": 183,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Clinton_Warren": {
+      "human-full-field": 172,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Clinton_Brown": {
+      "human-full-field": 176,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Trump_Brown": {
+      "human-full-field": 180,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Trump_Christie": {
+      "human-full-field": 166,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2016a_Trump_Carson": {
+      "human-full-field": 178,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2012_Obama_Biden": {
+      "human-full-field": 240,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2012_Obama_Clinton": {
+      "human-full-field": 244,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2012_Romney_Ryan": {
+      "human-full-field": 253,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2012_Romney_Portman": {
+      "human-full-field": 242,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2012_Romney_Rubio": {
+      "human-full-field": 259,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2012_Romney_Pawlenty": {
+      "human-full-field": 246,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Bush_Cheney": {
+      "human-full-field": 318,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Bush_Danforth": {
+      "human-full-field": 325,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Bush_Ridge": {
+      "human-full-field": 328,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Bush_Powell": {
+      "human-full-field": 332,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Gore_Lieberman": {
+      "human-full-field": 324,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Gore_Graham": {
+      "human-full-field": 303,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Gore_Kerry": {
+      "human-full-field": 320,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Gore_Bayh": {
+      "human-full-field": 325,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "2000_Nader_LaDuke": {
+      "human-full-field": 336,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Bush_Quayle": {
+      "human-full-field": 205,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Bush_Dole": {
+      "human-full-field": 209,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Bush_Kemp": {
+      "human-full-field": 213,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Dukakis_Bentsen": {
+      "human-full-field": 212,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Dukakis_Glenn": {
+      "human-full-field": 215,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Dukakis_Gore": {
+      "human-full-field": 215,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1988_Dukakis_Jackson": {
+      "human-full-field": 211,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Carter_Mondale": {
+      "human-full-field": 280,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Carter_Church": {
+      "human-full-field": 280,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Carter_Glenn": {
+      "human-full-field": 285,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Carter_Jackson": {
+      "human-full-field": 275,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Ford_Dole": {
+      "human-full-field": 288,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Ford_Baker": {
+      "human-full-field": 280,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Ford_Anderson": {
+      "human-full-field": 272,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1976_Ford_Connally": {
+      "human-full-field": 277,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Nixon_Agnew": {
+      "human-full-field": 182,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Nixon_Reagan": {
+      "human-full-field": 180,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Nixon_Rockefeller": {
+      "human-full-field": 178,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Nixon_Romney": {
+      "human-full-field": 177,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Humphrey_Muskie": {
+      "human-full-field": 318,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Humphrey_Kennedy": {
+      "human-full-field": 315,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Humphrey_Connally": {
+      "human-full-field": 310,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Humphrey_Harris": {
+      "human-full-field": 312,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Wallace_LeMay": {
+      "human-full-field": 178,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Wallace_Thurmond": {
+      "human-full-field": 179,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1968_Wallace_Chandler": {
+      "human-full-field": 181,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1964_Johnson_Humphrey": {
+      "human-full-field": 114,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1964_Goldwater_Miller": {
+      "human-full-field": 117,
+      "human-proper-name-verification": 45,
+      "human-short-terminology": 40
+    },
+    "1960_Kennedy_Johnson": {
+      "human-full-field": 210,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1960_Kennedy_Symington": {
+      "human-full-field": 216,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1960_Kennedy_Humphrey": {
+      "human-full-field": 208,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1960_Nixon_Lodge": {
+      "human-full-field": 210,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1960_Nixon_Dirksen": {
+      "human-full-field": 212,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1960_Nixon_Rockefeller": {
+      "human-full-field": 204,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1960_Nixon_Goldwater": {
+      "human-full-field": 211,
+      "human-proper-name-verification": 44,
+      "human-short-terminology": 40
+    },
+    "1948_Truman_Barkley": {
+      "human-full-field": 205,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1948_Dewey_Warren": {
+      "human-full-field": 199,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1948_Dewey_Stassen": {
+      "human-full-field": 204,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1948_Dewey_Bricker": {
+      "human-full-field": 204,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1948_Dewey_Vandenberg": {
+      "human-full-field": 199,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1916_Wilson_Marshall": {
+      "human-full-field": 199,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1916_Wilson_Baker": {
+      "human-full-field": 191,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1916_Hughes_Fairbanks": {
+      "human-full-field": 185,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1916_Hughes_Burkett": {
+      "human-full-field": 183,
+      "human-proper-name-verification": 42,
+      "human-short-terminology": 40
+    },
+    "1896_McKinley_Hobart": {
+      "human-full-field": 179,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_McKinley_Reed": {
+      "human-full-field": 188,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_McKinley_Quay": {
+      "human-full-field": 194,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_McKinley_Gage": {
+      "human-full-field": 192,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_Bryan_Sewall": {
+      "human-full-field": 194,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_Bryan_Stevenson": {
+      "human-full-field": 197,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_Bryan_Matthews": {
+      "human-full-field": 187,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_Bryan_Boies": {
+      "human-full-field": 188,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1896_Bryan_Teller": {
+      "human-full-field": 203,
+      "human-proper-name-verification": 39,
+      "human-short-terminology": 40
+    },
+    "1860_Lincoln_Hamlin": {
+      "human-full-field": 135,
+      "human-proper-name-verification": 27,
+      "human-short-terminology": 32
+    },
+    "1860_Lincoln_Clay": {
+      "human-full-field": 136,
+      "human-proper-name-verification": 27,
+      "human-short-terminology": 32
+    },
+    "1860_Lincoln_Chase": {
+      "human-full-field": 136,
+      "human-proper-name-verification": 27,
+      "human-short-terminology": 32
+    },
+    "1860_Douglas_Johnson": {
+      "human-full-field": 143,
+      "human-proper-name-verification": 27,
+      "human-short-terminology": 32
+    },
+    "1860_Douglas_Guthrie": {
+      "human-full-field": 143,
+      "human-proper-name-verification": 27,
+      "human-short-terminology": 32
+    },
+    "1860_Douglas_Seymour": {
+      "human-full-field": 142,
+      "human-proper-name-verification": 27,
+      "human-short-terminology": 32
+    },
+    "1844_Polk_Dallas": {
+      "human-full-field": 188,
+      "human-proper-name-verification": 21,
+      "human-short-terminology": 40
+    },
+    "1844_Polk_Woodbury": {
+      "human-full-field": 181,
+      "human-proper-name-verification": 21,
+      "human-short-terminology": 40
+    },
+    "1844_Clay_Frelinghuysen": {
+      "human-full-field": 195,
+      "human-proper-name-verification": 21,
+      "human-short-terminology": 40
+    },
+    "1844_Clay_Sergeant": {
+      "human-full-field": 190,
+      "human-proper-name-verification": 21,
+      "human-short-terminology": 40
+    },
+    "1844_Clay_Fillmore": {
+      "human-full-field": 196,
+      "human-proper-name-verification": 21,
+      "human-short-terminology": 40
+    },
+    "staff.21.300": {
+      "human-short-terminology": 13,
+      "human-full-field": 13
+    },
+    "staff.21.301": {
+      "human-short-terminology": 13,
+      "human-full-field": 10
+    },
+    "staff.20.200": {
+      "human-short-terminology": 13,
+      "human-full-field": 11
+    },
+    "staff.20.201": {
+      "human-short-terminology": 14,
+      "human-full-field": 13
+    }
+  },
+  "nativePairings": 105,
+  "years": [
+    "2020",
+    "2016",
+    "2016a",
+    "2012",
+    "2000",
+    "1988",
+    "1976",
+    "1968",
+    "1964",
+    "1960",
+    "1948",
+    "1916",
+    "1896",
+    "1860",
+    "1844"
+  ],
+  "limits": [
+    "Full-field editorial review is not independent scholarly certification of every historical claim.",
+    "Proper-name verification is explicitly separate from paragraph review.",
+    "Runtime, RNG and ending regression results are recorded separately in tests/."
+  ]
+}

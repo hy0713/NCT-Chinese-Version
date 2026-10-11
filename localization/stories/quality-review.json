@@ -1,0 +1,494 @@
+{
+  "schema": 1,
+  "entries": 32770,
+  "missing": 0,
+  "recordReviewCounts": {
+    "human-revised": 27997,
+    "reviewed-segments-or-terms": 4773
+  },
+  "longTextReviewCounts": {
+    "human-revised": 22130
+  },
+  "uniqueSourcesNeedingProofreading": 0,
+  "segmentMethods": {
+    "editorial": 5398,
+    "glossary": 324,
+    "draft-google-protected-proper-terms-v2": 782,
+    "framework-reviewed": 32
+  },
+  "fullFieldHumanOverrides": 5753,
+  "segmentHumanOverrides": 229,
+  "scopes": {
+    "base": {
+      "human-revised": 673,
+      "reviewed-segments-or-terms": 364
+    },
+    "2020_Biden_Harris": {
+      "human-revised": 266,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Biden_Rice": {
+      "human-revised": 266,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Biden_Duckworth": {
+      "human-revised": 265,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Biden_Demings": {
+      "human-revised": 266,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Biden_Bass": {
+      "human-revised": 266,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Biden_Whitmer": {
+      "human-revised": 265,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Biden_Warren": {
+      "human-revised": 263,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Trump_Pence": {
+      "human-revised": 275,
+      "reviewed-segments-or-terms": 45
+    },
+    "2020_Trump_Haley": {
+      "human-revised": 275,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Trump_Pence": {
+      "human-revised": 262,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Trump_Christie": {
+      "human-revised": 266,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Trump_Sessions": {
+      "human-revised": 258,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Trump_Carson": {
+      "human-revised": 250,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Trump_Palin": {
+      "human-revised": 260,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Clinton_Kaine": {
+      "human-revised": 256,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Clinton_Booker": {
+      "human-revised": 253,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Clinton_Brown": {
+      "human-revised": 259,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Clinton_Sanders": {
+      "human-revised": 252,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016_Clinton_Warren": {
+      "human-revised": 253,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Clinton_Booker": {
+      "human-revised": 241,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Clinton_Castro": {
+      "human-revised": 223,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Clinton_Warren": {
+      "human-revised": 212,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Clinton_Brown": {
+      "human-revised": 216,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Trump_Brown": {
+      "human-revised": 220,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Trump_Christie": {
+      "human-revised": 206,
+      "reviewed-segments-or-terms": 45
+    },
+    "2016a_Trump_Carson": {
+      "human-revised": 218,
+      "reviewed-segments-or-terms": 45
+    },
+    "2012_Obama_Biden": {
+      "human-revised": 280,
+      "reviewed-segments-or-terms": 45
+    },
+    "2012_Obama_Clinton": {
+      "human-revised": 284,
+      "reviewed-segments-or-terms": 45
+    },
+    "2012_Romney_Ryan": {
+      "human-revised": 293,
+      "reviewed-segments-or-terms": 45
+    },
+    "2012_Romney_Portman": {
+      "human-revised": 282,
+      "reviewed-segments-or-terms": 45
+    },
+    "2012_Romney_Rubio": {
+      "human-revised": 299,
+      "reviewed-segments-or-terms": 45
+    },
+    "2012_Romney_Pawlenty": {
+      "human-revised": 286,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Bush_Cheney": {
+      "human-revised": 358,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Bush_Danforth": {
+      "human-revised": 365,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Bush_Ridge": {
+      "human-revised": 368,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Bush_Powell": {
+      "human-revised": 372,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Gore_Lieberman": {
+      "human-revised": 364,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Gore_Graham": {
+      "human-revised": 343,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Gore_Kerry": {
+      "human-revised": 360,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Gore_Bayh": {
+      "human-revised": 365,
+      "reviewed-segments-or-terms": 45
+    },
+    "2000_Nader_LaDuke": {
+      "human-revised": 376,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Bush_Quayle": {
+      "human-revised": 245,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Bush_Dole": {
+      "human-revised": 249,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Bush_Kemp": {
+      "human-revised": 253,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Dukakis_Bentsen": {
+      "human-revised": 252,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Dukakis_Glenn": {
+      "human-revised": 255,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Dukakis_Gore": {
+      "human-revised": 255,
+      "reviewed-segments-or-terms": 45
+    },
+    "1988_Dukakis_Jackson": {
+      "human-revised": 251,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Carter_Mondale": {
+      "human-revised": 320,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Carter_Church": {
+      "human-revised": 320,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Carter_Glenn": {
+      "human-revised": 325,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Carter_Jackson": {
+      "human-revised": 315,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Ford_Dole": {
+      "human-revised": 328,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Ford_Baker": {
+      "human-revised": 320,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Ford_Anderson": {
+      "human-revised": 312,
+      "reviewed-segments-or-terms": 45
+    },
+    "1976_Ford_Connally": {
+      "human-revised": 317,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Nixon_Agnew": {
+      "human-revised": 222,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Nixon_Reagan": {
+      "human-revised": 220,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Nixon_Rockefeller": {
+      "human-revised": 218,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Nixon_Romney": {
+      "human-revised": 217,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Humphrey_Muskie": {
+      "human-revised": 358,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Humphrey_Kennedy": {
+      "human-revised": 355,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Humphrey_Connally": {
+      "human-revised": 350,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Humphrey_Harris": {
+      "human-revised": 352,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Wallace_LeMay": {
+      "human-revised": 218,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Wallace_Thurmond": {
+      "human-revised": 219,
+      "reviewed-segments-or-terms": 45
+    },
+    "1968_Wallace_Chandler": {
+      "human-revised": 221,
+      "reviewed-segments-or-terms": 45
+    },
+    "1964_Johnson_Humphrey": {
+      "human-revised": 154,
+      "reviewed-segments-or-terms": 45
+    },
+    "1964_Goldwater_Miller": {
+      "human-revised": 157,
+      "reviewed-segments-or-terms": 45
+    },
+    "1960_Kennedy_Johnson": {
+      "human-revised": 250,
+      "reviewed-segments-or-terms": 44
+    },
+    "1960_Kennedy_Symington": {
+      "human-revised": 256,
+      "reviewed-segments-or-terms": 44
+    },
+    "1960_Kennedy_Humphrey": {
+      "human-revised": 248,
+      "reviewed-segments-or-terms": 44
+    },
+    "1960_Nixon_Lodge": {
+      "human-revised": 250,
+      "reviewed-segments-or-terms": 44
+    },
+    "1960_Nixon_Dirksen": {
+      "human-revised": 252,
+      "reviewed-segments-or-terms": 44
+    },
+    "1960_Nixon_Rockefeller": {
+      "human-revised": 244,
+      "reviewed-segments-or-terms": 44
+    },
+    "1960_Nixon_Goldwater": {
+      "human-revised": 251,
+      "reviewed-segments-or-terms": 44
+    },
+    "1948_Truman_Barkley": {
+      "human-revised": 245,
+      "reviewed-segments-or-terms": 42
+    },
+    "1948_Dewey_Warren": {
+      "human-revised": 239,
+      "reviewed-segments-or-terms": 42
+    },
+    "1948_Dewey_Stassen": {
+      "human-revised": 244,
+      "reviewed-segments-or-terms": 42
+    },
+    "1948_Dewey_Bricker": {
+      "human-revised": 244,
+      "reviewed-segments-or-terms": 42
+    },
+    "1948_Dewey_Vandenberg": {
+      "human-revised": 239,
+      "reviewed-segments-or-terms": 42
+    },
+    "1916_Wilson_Marshall": {
+      "human-revised": 239,
+      "reviewed-segments-or-terms": 42
+    },
+    "1916_Wilson_Baker": {
+      "human-revised": 231,
+      "reviewed-segments-or-terms": 42
+    },
+    "1916_Hughes_Fairbanks": {
+      "human-revised": 225,
+      "reviewed-segments-or-terms": 42
+    },
+    "1916_Hughes_Burkett": {
+      "human-revised": 223,
+      "reviewed-segments-or-terms": 42
+    },
+    "1896_McKinley_Hobart": {
+      "human-revised": 219,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_McKinley_Reed": {
+      "human-revised": 228,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_McKinley_Quay": {
+      "human-revised": 234,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_McKinley_Gage": {
+      "human-revised": 232,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_Bryan_Sewall": {
+      "human-revised": 234,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_Bryan_Stevenson": {
+      "human-revised": 237,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_Bryan_Matthews": {
+      "human-revised": 227,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_Bryan_Boies": {
+      "human-revised": 228,
+      "reviewed-segments-or-terms": 39
+    },
+    "1896_Bryan_Teller": {
+      "human-revised": 243,
+      "reviewed-segments-or-terms": 39
+    },
+    "1860_Lincoln_Hamlin": {
+      "human-revised": 167,
+      "reviewed-segments-or-terms": 27
+    },
+    "1860_Lincoln_Clay": {
+      "human-revised": 168,
+      "reviewed-segments-or-terms": 27
+    },
+    "1860_Lincoln_Chase": {
+      "human-revised": 168,
+      "reviewed-segments-or-terms": 27
+    },
+    "1860_Douglas_Johnson": {
+      "human-revised": 175,
+      "reviewed-segments-or-terms": 27
+    },
+    "1860_Douglas_Guthrie": {
+      "human-revised": 175,
+      "reviewed-segments-or-terms": 27
+    },
+    "1860_Douglas_Seymour": {
+      "human-revised": 174,
+      "reviewed-segments-or-terms": 27
+    },
+    "1844_Polk_Dallas": {
+      "human-revised": 228,
+      "reviewed-segments-or-terms": 21
+    },
+    "1844_Polk_Woodbury": {
+      "human-revised": 221,
+      "reviewed-segments-or-terms": 21
+    },
+    "1844_Clay_Frelinghuysen": {
+      "human-revised": 235,
+      "reviewed-segments-or-terms": 21
+    },
+    "1844_Clay_Sergeant": {
+      "human-revised": 230,
+      "reviewed-segments-or-terms": 21
+    },
+    "1844_Clay_Fillmore": {
+      "human-revised": 236,
+      "reviewed-segments-or-terms": 21
+    },
+    "staff.21.300": {
+      "human-revised": 26
+    },
+    "staff.21.301": {
+      "human-revised": 23
+    },
+    "staff.20.200": {
+      "human-revised": 24
+    },
+    "staff.20.201": {
+      "human-revised": 27
+    }
+  },
+  "residualEnglish": [],
+  "notes": [
+    {
+      "topic": "典故与网络梗校注",
+      "note": "来源说明及逐段修订持续更新，当前数量见 ../annotations/coverage.json，全文见 ../annotations/NOTES_ZH.md。全部105组合的完整字段审读范围、尚未审读字段及原文疑点见 ../reviews/HISTORICAL_REVIEW_ZH.md；固定英文快照及对应修订记录保留在该目录。疑似误署名、未找到最早载体及游戏虚构明确标记；原作人物观点与校注事实区分。全部长文本已有完整字段编辑，短术语与专名另行复核；这不是独立历史学者对每项原作主张的认证。"
+    },
+    {
+      "topic": "原文史实与讽刺",
+      "note": "剧情含架空史、讽刺和原文笔误；译文不擅自更改为真实历史。2020 部分人物头衔及亲属关系、2016 法拉奇的时间指代等，已逐段校订，原作疑点与查证边界见 ../reviews/FINAL_RESEARCH_BOUNDARIES_ZH.md。"
+    },
+    {
+      "topic": "术语",
+      "note": "已区分 liberal/Libertarian、decriminalization/legalization、州权/人民主权原则、自由铸银/金本位、竞选组合/入场券。较少见人物与利益团体音译仍建议人工复核。"
+    },
+    {
+      "topic": "完整字段与短术语复核",
+      "note": "全部105内置组合的问题、全部回答、反馈、背景、人物、结局和团队简介已有完整字段审读；185项短术语与316项专名分别复核，原文SHA与具体键及当前包的对照见 ../reviews/final-field-audit.json。没有把机器草稿或规则替换冒充逐段审读。"
+    },
+    {
+      "topic": "特殊打字剧情",
+      "note": "^ 延时控制与 < 换行控制完整保留。开始播放前按当前语言选择文本；播放中途切换语言不会重启动画，因此当前动画仍沿用启动时语言。"
+    },
+    {
+      "topic": "失效媒体",
+      "note": "6 个远程媒体无法取得，使用本地替代。1968 隐藏视频用3秒黑色视频替代，原 onended/videoDone/nextTask 保留；影片内容和原时长未还原。"
+    },
+    {
+      "topic": "上游问题",
+      "note": "原版重复 pk、330 条指向未加载集合的引用保持原样。1988 布什538票特殊路径原文返回空白叙事，未擅自增加剧情。"
+    },
+    {
+      "topic": "随机与分支",
+      "note": "105 组合各完成一个固定随机序列下的中英文完整对局；边界结局采用合成结果测试。未穷尽所有随机事件、所有答案路径及每个特殊条件组合。"
+    }
+  ]
+}

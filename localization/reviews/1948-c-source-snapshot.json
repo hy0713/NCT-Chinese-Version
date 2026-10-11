@@ -1,0 +1,777 @@
+[
+  {
+    "source": "The idea is definitely getting around that you are soft on Communism. Party operatives are scratching their heads right now.",
+    "zh": "这个想法肯定是在传播你对共产主义态度软弱。党的工作人员现在正在摸不着头脑。",
+    "keys": [
+      "1948_Truman_Barkley/answer_feedback_json/1492@85/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1492@82/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1492@86/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1492@85/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1492@82/answer_feedback"
+    ]
+  },
+  {
+    "source": "This sounds a little too liberal for the direction of your party and supporters.",
+    "zh": "这对于你的政党和支持者的方向来说听起来有点过于自由。",
+    "keys": [
+      "1948_Truman_Barkley/answer_feedback_json/1493@86/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1493@83/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1493@87/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1493@86/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1493@83/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a good way to point to the positive accomplishments of your party.",
+    "zh": "这是指出您的政党所取得的积极成就的好方法。",
+    "keys": [
+      "1948_Truman_Barkley/answer_feedback_json/1494@87/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1494@84/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1494@88/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1494@87/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1494@84/answer_feedback"
+    ]
+  },
+  {
+    "source": "You're repeating a Harry Truman line with this statement.",
+    "zh": "您正在使用此语句重复哈里·杜鲁门行。",
+    "keys": [
+      "1948_Truman_Barkley/answer_feedback_json/1496@88/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1496@89/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your experience in New York shows that expansive programs and a balanced budget are not mutually exclusive.",
+    "zh": "您在纽约州中的经验表明，广泛的计划和平衡的预算并不相互排斥。",
+    "keys": [
+      "1948_Truman_Barkley/answer_feedback_json/1497@89/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1497@90/answer_feedback"
+    ]
+  },
+  {
+    "source": "Supporters are energized by your aggressive campaign. And inflation is an issue that worries everyone right now.",
+    "zh": "支持者因您积极进取的活动而充满活力。而通货膨胀是目前每个人都担心的问题。",
+    "keys": [
+      "1948_Truman_Barkley/answer_feedback_json/1504@91/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about your announced running mate, Earl Warren?",
+    "zh": "对于你宣布的竞选搭档厄尔·沃伦，你有什么话要说的？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/540@0/description"
+    ]
+  },
+  {
+    "source": "A wave of strikes and economic turmoil has led to bipartisan support for a new labor law. Do you support Truman's decision to veto the Taft-Hartley Act?",
+    "zh": "一波罢工和经济动荡导致两党支持新劳动法。您支持杜鲁门否决《塔夫脱-哈特利法案》的决定吗？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/508@1/description",
+      "1948_Dewey_Stassen/questions_json/508@1/description",
+      "1948_Dewey_Bricker/questions_json/508@1/description",
+      "1948_Dewey_Vandenberg/questions_json/508@1/description"
+    ]
+  },
+  {
+    "source": "The Jewish state of Israel is set to declare its independence on May 15, 1948. Do you support Truman's decision to recognize this new nation?",
+    "zh": "以色列犹太国将于 1948 年 5 月 15 日宣布独立。您支持杜鲁门承认这个新国家的决定吗？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/509@2/description",
+      "1948_Dewey_Stassen/questions_json/509@2/description",
+      "1948_Dewey_Bricker/questions_json/509@2/description",
+      "1948_Dewey_Vandenberg/questions_json/509@2/description"
+    ]
+  },
+  {
+    "source": "To what extent will you emphasize your support for civil rights legislation in New York as you hit the campaign trail?",
+    "zh": "当您进行竞选活动时，您会在多大程度上强调您对纽约州中的民权立法的支持？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/510@3/description",
+      "1948_Dewey_Stassen/questions_json/510@3/description",
+      "1948_Dewey_Bricker/questions_json/510@4/description",
+      "1948_Dewey_Vandenberg/questions_json/510@4/description"
+    ]
+  },
+  {
+    "source": "To what extent are you prepared to make anti-Communism an issue in this campaign, or to attack Harry Truman on the issue?",
+    "zh": "您准备在多大程度上将反共主义作为这场运动的一个问题，或者在这个问题上攻击哈里·杜鲁门？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/511@4/description",
+      "1948_Dewey_Stassen/questions_json/511@4/description",
+      "1948_Dewey_Bricker/questions_json/511@3/description",
+      "1948_Dewey_Vandenberg/questions_json/511@3/description"
+    ]
+  },
+  {
+    "source": "Do you have any comments to make on the Soviet blockade of Berlin, and the airlift in progress to resupply that city?",
+    "zh": "您对苏联封锁柏林以及为该城市进行补给的空运有何评论？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/512@5/description",
+      "1948_Dewey_Stassen/questions_json/512@5/description",
+      "1948_Dewey_Bricker/questions_json/512@5/description",
+      "1948_Dewey_Vandenberg/questions_json/512@5/description"
+    ]
+  },
+  {
+    "source": "What will be the main focus of your acceptance speech at the Republican Convention?",
+    "zh": "您在共和党代表大会上发表获奖感言的主要焦点是什么？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/513@6/description",
+      "1948_Dewey_Stassen/questions_json/513@6/description",
+      "1948_Dewey_Bricker/questions_json/513@6/description",
+      "1948_Dewey_Vandenberg/questions_json/513@6/description"
+    ]
+  },
+  {
+    "source": "Your party has passed a fairly ambitious and liberal platform which you have supported. However, if the Republican Congress won't pass these laws now, how do you expect to push them forward as President?",
+    "zh": "你们的政党已经通过了一个相当雄心勃勃且自由的纲领，并且得到了你们的支持。然而，如果共和党国会现在不通过这些法律，您作为总统预计如何推动这些法律的实施？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/515@11/description",
+      "1948_Dewey_Stassen/questions_json/515@8/description",
+      "1948_Dewey_Bricker/questions_json/515@11/description",
+      "1948_Dewey_Vandenberg/questions_json/515@12/description"
+    ]
+  },
+  {
+    "source": "Do you advocate the international control of nuclear weapons under the United Nations?",
+    "zh": "您是否主张联合国对核武器进行国际管制？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/538@21/description",
+      "1948_Dewey_Vandenberg/questions_json/538@22/description"
+    ]
+  },
+  {
+    "source": "What do you think about proposals for the federal government to build an expansive interstate highway system?",
+    "zh": "您对联邦政府建设广阔的州际公路系统的提案有何看法？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/531@22/description",
+      "1948_Dewey_Vandenberg/questions_json/531@21/description"
+    ]
+  },
+  {
+    "source": "Before you head to New York to spend the election day, is there one last place you want to hit on the campaign trail?",
+    "zh": "在您前往纽约州度过选举日之前，您在竞选活动中还有最后一个想去的地方吗？",
+    "keys": [
+      "1948_Dewey_Warren/questions_json/519@24/description",
+      "1948_Dewey_Stassen/questions_json/519@24/description",
+      "1948_Dewey_Bricker/questions_json/519@24/description",
+      "1948_Dewey_Vandenberg/questions_json/519@24/description"
+    ]
+  },
+  {
+    "source": "Absolutely not. This is a perfectly reasonable measure, designed to prevent a strike in one industry from crippling the American economy.",
+    "zh": "绝对不是。这是一项完全合理的措施，旨在防止某个行业的罢工损害美国经济。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3848@1/description",
+      "1948_Dewey_Stassen/answers_json/3848@1/description",
+      "1948_Dewey_Bricker/answers_json/3848@1/description",
+      "1948_Dewey_Vandenberg/answers_json/3848@1/description"
+    ]
+  },
+  {
+    "source": "I support Truman's veto. The National Labor Relations Act was put in place to protect the rights of labor, and it should be respected.",
+    "zh": "我支持杜鲁门的否决。 《国家劳动关系法》是为了保护劳动者的权利而制定的，理应受到尊重。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3849@2/description",
+      "1948_Dewey_Stassen/answers_json/3849@2/description",
+      "1948_Dewey_Bricker/answers_json/3849@2/description",
+      "1948_Dewey_Vandenberg/answers_json/3849@2/description"
+    ]
+  },
+  {
+    "source": "I've supported the Israeli state from the beginning. I'm glad that Truman came around, but he absolutely sent the wrong message by vacillating on this issue until the very last moment.",
+    "zh": "我从一开始就支持以色列国家。我很高兴杜鲁门出现了，但他直到最后一刻才在这个问题上犹豫不决，这绝对传递了错误的信息。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3850@3/description",
+      "1948_Dewey_Stassen/answers_json/3850@3/description",
+      "1948_Dewey_Bricker/answers_json/3850@3/description",
+      "1948_Dewey_Vandenberg/answers_json/3850@3/description"
+    ]
+  },
+  {
+    "source": "I support the Israeli state, and I'm pleased that Truman and I are in agreement on this issue.",
+    "zh": "我支持以色列国家，我很高兴杜鲁门和我在这个问题上达成了一致。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3851@4/description",
+      "1948_Dewey_Stassen/answers_json/3851@4/description",
+      "1948_Dewey_Bricker/answers_json/3851@4/description",
+      "1948_Dewey_Vandenberg/answers_json/3851@4/description"
+    ]
+  },
+  {
+    "source": "I believe it was a hasty and impetuous move by the Truman Administration to support the creation of Israel. I have to come out against this measure.",
+    "zh": "我认为这是杜鲁门政府支持以色列建国的仓促而鲁莽的举动。我必须站出来反对这项措施。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3852@5/description",
+      "1948_Dewey_Stassen/answers_json/3852@5/description",
+      "1948_Dewey_Bricker/answers_json/3852@5/description",
+      "1948_Dewey_Vandenberg/answers_json/3852@5/description"
+    ]
+  },
+  {
+    "source": "Not only will I speak about this issue, but I will use it to attack Truman. I've supported civil rights all along, while Truman seems to have come around at the 11th hour, and for transparent political gain.",
+    "zh": "我不仅会谈论这个问题，而且我会用它来攻击杜鲁门。我一直支持民权，而杜鲁门似乎在第11个小时才出现，并且是为了透明的政治利益。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3853@6/description",
+      "1948_Dewey_Stassen/answers_json/3853@6/description",
+      "1948_Dewey_Bricker/answers_json/3853@6/description",
+      "1948_Dewey_Vandenberg/answers_json/3853@6/description"
+    ]
+  },
+  {
+    "source": "I think part of any good campaign involves speaking about my past, and as Governor of New York I successfully pushed for some of the first anti-discrimination laws in the country.",
+    "zh": "我认为任何好的运动的一部分都涉及谈论我的过去，作为纽约州的州长，我成功推动了该国第一部反歧视法律。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3854@7/description",
+      "1948_Dewey_Stassen/answers_json/3854@7/description",
+      "1948_Dewey_Bricker/answers_json/3854@7/description",
+      "1948_Dewey_Vandenberg/answers_json/3854@7/description"
+    ]
+  },
+  {
+    "source": "My record speaks for itself. For the time being, we just need to keep the party energized and avoid any statements which might be deemed as controversial.",
+    "zh": "我的记录不言而喻。目前，我们只需要保持党的活力，避免发表任何可能被视为有争议的言论。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3855@8/description",
+      "1948_Dewey_Stassen/answers_json/3855@8/description",
+      "1948_Dewey_Bricker/answers_json/3855@8/description",
+      "1948_Dewey_Vandenberg/answers_json/3855@8/description"
+    ]
+  },
+  {
+    "source": "Not only is this a serious issue, but Harry Truman is complicit in it. It is no secret that he is, along with most Democrats, complacent on the issue of Communist infiltration.",
+    "zh": "这不仅是一个严重的问题，而且哈里·杜鲁门也是其中的同谋。众所周知，他和大多数民主党人一样，对共产党渗透问题感到自满。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3856@9/description",
+      "1948_Dewey_Stassen/answers_json/3856@9/description",
+      "1948_Dewey_Bricker/answers_json/3856@9/description",
+      "1948_Dewey_Vandenberg/answers_json/3856@9/description"
+    ]
+  },
+  {
+    "source": "I think there are legitimate questions to be asked about how much the Communists have embedded themselves into departments of the government. I support the measures we have in place to combat this.",
+    "zh": "我认为，关于共产党人在政府部门中的融入程度，我们可以提出一些合理的问题。我支持我们为应对这一问题而采取的措施。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3857@10/description",
+      "1948_Dewey_Stassen/answers_json/3857@10/description",
+      "1948_Dewey_Bricker/answers_json/3857@10/description",
+      "1948_Dewey_Vandenberg/answers_json/3857@10/description"
+    ]
+  },
+  {
+    "source": "If you'll remember my debate with Harold Stassen, I got this nomination in the first place by remaining above such type of politics.",
+    "zh": "如果你还记得我与哈罗德·斯塔森的辩论，我首先通过保持在此类政治之上而获得了这项提名。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3858@11/description",
+      "1948_Dewey_Stassen/answers_json/3858@11/description",
+      "1948_Dewey_Bricker/answers_json/3858@11/description",
+      "1948_Dewey_Vandenberg/answers_json/3858@11/description"
+    ]
+  },
+  {
+    "source": "I would have us move into East Germany if this blockade continues. We're the ones with a nuclear bomb. Why should we be afraid of the Soviets?",
+    "zh": "如果封锁继续下去，我会让我们搬到东德。我们是拥有核弹的人。我们为什么要害怕苏联？",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3859@12/description",
+      "1948_Dewey_Stassen/answers_json/3859@12/description",
+      "1948_Dewey_Bricker/answers_json/3859@12/description",
+      "1948_Dewey_Vandenberg/answers_json/3859@12/description"
+    ]
+  },
+  {
+    "source": "I support our current airlift and hope that it leads to an agreeable conclusion.",
+    "zh": "我支持我们目前的空运，并希望它能得出一个令人满意的结论。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3860@13/description",
+      "1948_Dewey_Stassen/answers_json/3860@13/description",
+      "1948_Dewey_Bricker/answers_json/3860@13/description",
+      "1948_Dewey_Vandenberg/answers_json/3860@13/description"
+    ]
+  },
+  {
+    "source": "We need to pull back from West Berlin and maintain a more realistic defense perimeter. We're more likely to be drawn into World War III than to gain anything useful from the defense of that exclave.",
+    "zh": "我们需要从西柏林撤退并维持更现实的防御范围。我们更有可能被卷入第三次世界大战，而不是从保卫那片飞地中获得任何有用的东西。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3861@14/description",
+      "1948_Dewey_Stassen/answers_json/3861@14/description",
+      "1948_Dewey_Bricker/answers_json/3861@14/description",
+      "1948_Dewey_Vandenberg/answers_json/3861@14/description"
+    ]
+  },
+  {
+    "source": "Harry Truman is an ineffectual, vacillating, highly unpopular President. We need to hammer on this theme and remind the American people why they need a new leader in the White House.",
+    "zh": "哈里·杜鲁门是一位无能、优柔寡断、极不受欢迎的总统。我们需要强调这个主题并提醒美国人民为什么他们需要一位新的领导人白宫。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3862@15/description",
+      "1948_Dewey_Stassen/answers_json/3862@15/description",
+      "1948_Dewey_Bricker/answers_json/3862@15/description",
+      "1948_Dewey_Vandenberg/answers_json/3862@15/description"
+    ]
+  },
+  {
+    "source": "I will talk about what I have accomplished in New York -- public works, a balanced budget, anti-discrimination laws, business creation, and funding for teachers and universities. This is the future of our party.",
+    "zh": "我将谈论我在纽约州中所取得的成就——公共工程、平衡预算、反歧视法、企业创建以及为教师和大学提供资金。这就是我们党的未来。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3863@16/description",
+      "1948_Dewey_Stassen/answers_json/3863@16/description",
+      "1948_Dewey_Bricker/answers_json/3863@16/description",
+      "1948_Dewey_Vandenberg/answers_json/3863@16/description"
+    ]
+  },
+  {
+    "source": "I will put out the olive branch to our conservative friends and talk about the need for less spending, a limited foreign policy, and Communist influence in the government.",
+    "zh": "我将向我们的保守派朋友伸出橄榄枝，并谈论减少开支、有限的外交政策以及共产党在政府中的影响力的必要性。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3864@17/description",
+      "1948_Dewey_Stassen/answers_json/3864@17/description",
+      "1948_Dewey_Bricker/answers_json/3864@17/description",
+      "1948_Dewey_Vandenberg/answers_json/3864@17/description"
+    ]
+  },
+  {
+    "source": "We're way ahead, so why screw up a good thing? I will talk in general about the future greatness of this country once I'm President, and avoid alienating any potential allies or partners in government.",
+    "zh": "我们已经遥遥领先，为什么要把一件好事搞砸呢？一旦我成为总统，我将概括地谈论这个国家未来的伟大，并避免疏远任何潜在的盟友或政府合作伙伴。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3865@18/description",
+      "1948_Dewey_Stassen/answers_json/3865@18/description",
+      "1948_Dewey_Bricker/answers_json/3865@18/description",
+      "1948_Dewey_Vandenberg/answers_json/3865@18/description"
+    ]
+  },
+  {
+    "source": "Just in the past 12 months, Congress has passed the Marshall Plan and Taft-Hartley with bipartisan support. They have passed an expansive farm bill, and will be considering housing legislation soon. I don't see why I couldn't work with this Congress.",
+    "zh": "就在过去 12 个月，国会在两党支持下通过了马歇尔计划和塔夫脱-哈特利法案。他们已经通过了一项广泛的农业法案，并将很快考虑住房立法。我不明白为什么我不能与本届国会合作。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3872@24/description",
+      "1948_Dewey_Stassen/answers_json/3872@24/description",
+      "1948_Dewey_Bricker/answers_json/3872@24/description",
+      "1948_Dewey_Vandenberg/answers_json/3872@24/description"
+    ]
+  },
+  {
+    "source": "I believe that a Republican Congress, working with a Republican President, will be able to come to accord on the key issues of our time.",
+    "zh": "我相信，共和党国会与共和党总统合作，将能够就我们这个时代的关键问题达成一致。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3873@25/description",
+      "1948_Dewey_Stassen/answers_json/3873@25/description",
+      "1948_Dewey_Bricker/answers_json/3873@25/description",
+      "1948_Dewey_Vandenberg/answers_json/3873@25/description"
+    ]
+  },
+  {
+    "source": "Why not campaign in New York itself?",
+    "zh": "为什么不在纽约州本身开展活动？",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3889@38/description",
+      "1948_Dewey_Stassen/answers_json/3889@38/description",
+      "1948_Dewey_Bricker/answers_json/3889@38/description",
+      "1948_Dewey_Vandenberg/answers_json/3889@38/description"
+    ]
+  },
+  {
+    "source": "We'll arrive in New York via Ohio and Pennsylvania.",
+    "zh": "我们将经俄亥俄州和宾夕法尼亚州到达纽约州。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3890@39/description",
+      "1948_Dewey_Stassen/answers_json/3890@39/description",
+      "1948_Dewey_Bricker/answers_json/3890@39/description",
+      "1948_Dewey_Vandenberg/answers_json/3890@39/description"
+    ]
+  },
+  {
+    "source": "I'll spend the last day in California with my running mate, and then fly back to New York.",
+    "zh": "我将和我的竞选搭档一起在加利福尼亚州度过最后一天，然后飞回纽约州。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3891@40/description",
+      "1948_Dewey_Stassen/answers_json/3891@40/description",
+      "1948_Dewey_Bricker/answers_json/3891@40/description",
+      "1948_Dewey_Vandenberg/answers_json/3891@40/description"
+    ]
+  },
+  {
+    "source": "We'll barnstorm as much of the Midwest as we can, going from state to state.",
+    "zh": "我们将尽可能多地在中西部地区进行巡演，从一个州到另一个州。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3892@41/description",
+      "1948_Dewey_Stassen/answers_json/3892@41/description",
+      "1948_Dewey_Bricker/answers_json/3892@41/description",
+      "1948_Dewey_Vandenberg/answers_json/3892@41/description"
+    ]
+  },
+  {
+    "source": "Anyone can see that I've supported road development throughout my career, and I think this would be a positive step for the country.",
+    "zh": "任何人都可以看到我在整个职业生涯中一直支持道路发展，我认为这对国家来说将是积极的一步。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3930@75/description",
+      "1948_Dewey_Vandenberg/answers_json/3930@75/description"
+    ]
+  },
+  {
+    "source": "It would depend on the scope of the program. We could certainly use a limited number of modern, well-constructed federal roads to connect our different regions.",
+    "zh": "这取决于计划的范围。我们当然可以使用有限数量的现代化、建设良好的联邦道路来连接我们的不同地区。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3931@76/description",
+      "1948_Dewey_Vandenberg/answers_json/3931@76/description"
+    ]
+  },
+  {
+    "source": "I'm not so sure about this. Such a system will surely displace many existing towns and neighborhoods, and provide an entirely new area for federal interference in local matters.",
+    "zh": "我对此不太确定。这样的系统肯定会取代许多现有的城镇和社区，并为联邦干预地方事务提供一个全新的领域。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3932@77/description",
+      "1948_Dewey_Vandenberg/answers_json/3932@77/description"
+    ]
+  },
+  {
+    "source": "I think this is a necessary expedient which we should implement immediately. It is important to set a precedent now, before other countries develop the bomb, that nuclear war will never again become state policy.",
+    "zh": "我认为这是一个必要的权宜之计，我们应该立即实施。现在重要的是在其他国家研制核弹之前树立先例，核战争永远不会再次成为国家政策。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3951@78/description",
+      "1948_Dewey_Vandenberg/answers_json/3951@78/description"
+    ]
+  },
+  {
+    "source": "Only if we had clear assurances that other nations would not develop a nuclear bomb, and a means of enforcing those assurances.",
+    "zh": "只有我们明确保证其他国家不会研制核弹，并有执行这些保证的手段。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3952@79/description",
+      "1948_Dewey_Vandenberg/answers_json/3952@79/description"
+    ]
+  },
+  {
+    "source": "We need to be realistic. Would the Soviet Union do such a thing if they developed a nuclear bomb? I would never support this action.",
+    "zh": "我们需要现实一点。如果苏联研制出核弹，苏联会做出这样的事吗？我绝对不会支持这个行动。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3953@80/description",
+      "1948_Dewey_Vandenberg/answers_json/3953@80/description"
+    ]
+  },
+  {
+    "source": "Earl Warren is a great man who represents my views for the future of this country. Now let's get going with this campaign.",
+    "zh": "厄尔·沃伦是一位伟人，他代表了我对这个国家未来的看法。现在让我们开始这个活动吧。",
+    "keys": [
+      "1948_Dewey_Warren/answers_json/3957@81/description"
+    ]
+  },
+  {
+    "source": "The Berlin Airlift is dominating the headlines and building positive sentiment for Truman. But that's the way things go...",
+    "zh": "柏林空运占据了头条新闻，并为杜鲁门建立了积极的情绪。但事情就是这样......",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1441@0/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1441@0/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1441@0/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1441@0/answer_feedback"
+    ]
+  },
+  {
+    "source": "This idea does not appeal to most Americans, though you might get a few Henry Wallace supporters.",
+    "zh": "这个想法对大多数美国人来说并不有吸引力，尽管你可能会得到一些亨利华莱士的支持者。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1425@19/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1425@19/answer_feedback"
+    ]
+  },
+  {
+    "source": "Nearly every Republican in Congress voted in support of Taft-Hartley, and Robert Taft is a key member of the party. There is definitely consternation at your stance.",
+    "zh": "国会中几乎所有共和党人都投票支持塔夫脱-哈特利，罗伯特·塔夫脱是该党的重要成员。你的立场肯定令人震惊。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1430@21/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1430@25/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1430@24/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1430@21/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your attacks on Truman are making headlines. Pundits speculate that you will repeat your aggressive tactics of 1944.",
+    "zh": "你对杜鲁门的攻击正在成为头条新闻。专家推测您将重复 1944 年的侵略策略。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1431@22/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1431@26/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1431@25/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1431@22/answer_feedback"
+    ]
+  },
+  {
+    "source": "It's good to support Israel, especially if you expect to win your home state this fall.",
+    "zh": "支持以色列是件好事，特别是如果您希望今年秋天赢得自己的家乡。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1432@23/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1432@27/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1432@26/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1432@23/answer_feedback"
+    ]
+  },
+  {
+    "source": "This seems to be a change of heart from your earlier position.",
+    "zh": "这似乎是你对之前立场的改变。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1433@24/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1433@28/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1433@27/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1433@24/answer_feedback"
+    ]
+  },
+  {
+    "source": "“Dewey hits back on civil rights” say the headlines. People are noticing.",
+    "zh": "“杜威回击民权”的标题是这样的。人们正在注意到。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1434@25/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1434@29/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1434@28/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1434@25/answer_feedback"
+    ]
+  },
+  {
+    "source": "There's nothing wrong with pointing to a positive record of accomplishment.",
+    "zh": "指出积极的成就记录并没有什么错。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1435@26/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1435@30/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1435@29/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1435@26/answer_feedback"
+    ]
+  },
+  {
+    "source": "People had their doubts about whether you were prepared to energize your base with the communism issue, but you have proven them wrong.",
+    "zh": "人们怀疑你是否准备好用共产主义问题来激励你的基础，但你已经证明他们错了。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1437@28/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1437@32/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1437@31/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1437@28/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a decent talking point for 1948.",
+    "zh": "这是 1948 年的一个不错的话题。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1438@29/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1438@33/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1438@32/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1438@29/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is somewhat true, but it seems like you are leaving a potential line of attack on the table.",
+    "zh": "这在某种程度上是正确的，但似乎你在桌面上留下了潜在的攻击路线。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1439@30/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1439@34/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1439@33/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1439@30/answer_feedback"
+    ]
+  },
+  {
+    "source": "Not only is Truman enjoying a wave of positive publicity for the Berlin Airlift, but your own ideas seem extreme to the public.",
+    "zh": "不仅杜鲁门享受着柏林空运的积极宣传浪潮，而且你自己的想法在公众看来也很极端。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1440@31/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1440@35/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1440@34/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1440@31/answer_feedback"
+    ]
+  },
+  {
+    "source": "This stance has appeal to what remains of the isolationists, but to most it seems like a dangerous retreat in the face of Communist aggression.",
+    "zh": "这一立场对剩下的孤立主义者有吸引力，但对大多数人来说，这似乎是面对共产主义侵略的危险撤退。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1442@32/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1442@36/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1442@35/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1442@32/answer_feedback"
+    ]
+  },
+  {
+    "source": "You've certainly made headlines with your attacks, but with Truman so unpopular, it might be for the best.",
+    "zh": "你的攻击确实成为了头条新闻，但由于杜鲁门如此不受欢迎，这可能是最好的结果。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1443@33/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1443@37/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1443@36/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1443@33/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is a positive campaign message, and it should especially reinforce your lead in your home state.",
+    "zh": "这是一个积极的竞选信息，它应该特别加强您在家乡的领先地位。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1444@34/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1444@38/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1444@37/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1444@34/answer_feedback"
+    ]
+  },
+  {
+    "source": "Republican delegates are happy, but is staunch conservatism the best route to electoral success in this era?",
+    "zh": "共和党代表很高兴，但坚定的保守主义是这个时代选举成功的最佳途径吗？",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1445@35/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1445@39/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1445@38/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1445@35/answer_feedback"
+    ]
+  },
+  {
+    "source": "You're certainly drawing good crowds, but word has it that Truman is doing even better on that front. Fortunately you should win where it matters -- in the ballot box.",
+    "zh": "你确实吸引了很多观众，但有消息称杜鲁门在这方面做得更好。幸运的是，你应该在重要的地方获胜——在投票箱中。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1447@37/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1448@38/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1449@39/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1450@40/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1453@43/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1454@44/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1455@45/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1456@46/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1457@47/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1458@48/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1459@49/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1460@50/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1461@51/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1462@52/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1463@53/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1464@54/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1447@41/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1448@42/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1449@43/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1450@44/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1453@47/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1454@48/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1455@49/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1456@50/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1457@51/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1458@52/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1459@53/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1460@54/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1461@55/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1462@56/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1463@57/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1464@58/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1447@40/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1448@41/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1449@42/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1450@43/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1453@46/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1454@47/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1455@48/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1456@49/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1457@50/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1458@51/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1459@52/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1460@53/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1461@54/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1462@55/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1463@56/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1464@57/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1447@37/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1448@38/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1449@39/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1450@40/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1453@43/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1454@44/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1455@45/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1456@46/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1457@47/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1458@48/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1459@49/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1460@50/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1461@51/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1462@52/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1463@53/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1464@54/answer_feedback"
+    ]
+  },
+  {
+    "source": "Another attack on Truman. Political junkies are delighted by the back-and-forth in this campaign between the two of you.",
+    "zh": "对杜鲁门的另一次攻击。政治迷们对你们两人之间在这场竞选中的来来回回感到高兴。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1451@41/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1451@45/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1502@89/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1451@44/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1451@41/answer_feedback"
+    ]
+  },
+  {
+    "source": "Advisers like the bland, non-committal nature of this answer. The important thing is to play it safe and preserve your lead in the polls. ",
+    "zh": "顾问喜欢这个答案的平淡、不置可否的性质。重要的是要谨慎行事并保持在民意调查中的领先地位。 ",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1452@42/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1452@46/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1452@45/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1452@42/answer_feedback"
+    ]
+  },
+  {
+    "source": "What an exciting last day of the campaign! Let's see how the voting goes tomorrow.",
+    "zh": "活动的最后一天真是令人兴奋！明天的投票结果如何，让我们拭目以待吧。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1465@55/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1466@56/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1467@57/answer_feedback",
+      "1948_Dewey_Warren/answer_feedback_json/1468@58/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1465@59/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1466@60/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1467@61/answer_feedback",
+      "1948_Dewey_Stassen/answer_feedback_json/1468@62/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1465@58/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1466@59/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1467@60/answer_feedback",
+      "1948_Dewey_Bricker/answer_feedback_json/1468@61/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1465@55/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1466@56/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1467@57/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1468@58/answer_feedback"
+    ]
+  },
+  {
+    "source": "This idea does not appeal to most Americans, especially in your party.",
+    "zh": "这个想法对大多数美国人没有吸引力，尤其是在你们的政党中。",
+    "keys": [
+      "1948_Dewey_Warren/answer_feedback_json/1505@85/answer_feedback",
+      "1948_Dewey_Vandenberg/answer_feedback_json/1505@85/answer_feedback"
+    ]
+  },
+  {
+    "source": "What do you have to say about your announced running mate, Harold Stassen?",
+    "zh": "对于你宣布的竞选搭档哈罗德·斯塔森，你有什么话要说的？",
+    "keys": [
+      "1948_Dewey_Stassen/questions_json/541@0/description"
+    ]
+  },
+  {
+    "source": "How concerned are you about events in China? What would you do as President to support Chiang Kai-Shek?",
+    "zh": "您对中国发生的事件有多关心？作为总统你会做什么来支持蒋介石？",
+    "keys": [
+      "1948_Dewey_Stassen/questions_json/536@21/description"
+    ]
+  },
+  {
+    "source": "A number of Congressional candidates have made anti-Communism and accusations of Communist sympathies a centerpiece of their political campaigns. Do you support this trend?",
+    "zh": "许多国会候选人已将反共产主义和对共产主义同情的指控作为其政治竞选的核心内容。你支持这个趋势吗？",
+    "keys": [
+      "1948_Dewey_Stassen/questions_json/539@22/description"
+    ]
+  },
+  {
+    "source": "We need to be doing more to defend our ally in China. I believe that country is in very real danger of falling to the Communists if we don't step in somehow.",
+    "zh": "我们需要采取更多措施来保卫我们在中国的盟友。我相信，如果我们不以某种方式介入，这个国家将面临落入共产党手中的真正危险。",
+    "keys": [
+      "1948_Dewey_Stassen/answers_json/3944@75/description"
+    ]
+  },
+  {
+    "source": "China is a crucial ally, under duress, and I support Chiang Kai-Shek and the Nationalists in their struggle.",
+    "zh": "中国是一个重要的盟友，在胁迫下，我支持蒋介石和国民党的斗争。",
+    "keys": [
+      "1948_Dewey_Stassen/answers_json/3945@76/description"
+    ]
+  },
+  {
+    "source": "Publicly, of course, I support any ally of the United States. But Kai-Shek has proven himself to be a disappointment, if you really want to know the truth. I will be careful about making any statement or policy which would commit the U.S. to his further defense.",
+    "zh": "当然，在公开场合，我支持美国的任何盟友。但如果你真的想知道真相的话，凯石已经证明自己令人失望。我将谨慎做出任何会让美国承诺进一步为他辩护的声明或政策。",
+    "keys": [
+      "1948_Dewey_Stassen/answers_json/3946@77/description"
+    ]
+  }
+]

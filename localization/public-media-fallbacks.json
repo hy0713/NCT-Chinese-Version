@@ -1,0 +1,117 @@
+[
+  {
+    "source": "https://i.imgur.com/lXxBoP4.png",
+    "privateCachePath": "/static/vendor/theme-assets/d7b8b7e208febb.png",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://i.imgur.com/pcmPlA7.jpeg",
+    "privateCachePath": "/static/vendor/theme-assets/99886ad8758466.jpg",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://wallpapercave.com/wp/wp8392690.jpg",
+    "privateCachePath": "/static/vendor/theme-assets/7199c30770850a.jpg",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/allende.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/4d95ad82fd01f2.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/amerika.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/24cf4183bffe98.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/bella_ciao.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/b15423d4dbcc0c.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/death.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/3fb26f7b3171eb.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/drinking_song.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/37ced052419647.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/let_go.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/4bf62a61204536.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/In%20Liberating%20Strife/war.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/9e55f103ddc3cd.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/1812_overture.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/998526908ffedb.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/5th_movement.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/c6522f8820e374.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/concerto.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/b6a8774e25e4ec.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/fortuna.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/fe710e0992b43e.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/hungarian.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/f918b41e8365cb.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/moonlight_sonata.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/b26fd4e9e6fdf0.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://github.com/newcampaigntrail/resources/raw/main/Other/Sounds/STSS/The%20Beautiful/waltz.mp3",
+    "privateCachePath": "/static/vendor/soundtracks/2b289a136f00c8.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  },
+  {
+    "source": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/T2VVI5A5VUI6JACWQGLYDV5I6U.jpg",
+    "privateCachePath": "/static/vendor/story-assets/7bc0404f65dcd9.jpg",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/VA6SJW4tgijzcn7ja/flight-in-deep-space_hg5q9th-l_thumbnail-1080_01.png",
+    "privateCachePath": "/static/vendor/story-assets/1941dc2ce2ca50.png",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://i.imgur.com/KVeVC8p.png",
+    "privateCachePath": "/static/vendor/story-assets/5e213fe8f76fed.png",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://i.imgur.com/lmtBoXt.png",
+    "privateCachePath": "/static/vendor/story-assets/71385e2804c99e.png",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://i.imgur.com/ulRsZjE.gif",
+    "privateCachePath": "/static/vendor/story-assets/53f954a12ff8b9.gif",
+    "publicFallback": "/static/images/black.jpg"
+  },
+  {
+    "source": "https://ia601408.us.archive.org/28/items/ytmp3free.cc_al-gore-celebrating-youtubemp3free.org/ytmp3free.cc_al-gore-celebrating-youtubemp3free.org.mp3",
+    "privateCachePath": "/static/vendor/story-assets/c5648f4348351e.mp3",
+    "publicFallback": "/static/vendor/soundtracks/unavailable.wav"
+  }
+]

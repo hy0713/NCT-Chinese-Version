@@ -1,0 +1,14 @@
+{
+  "checkedAt":"2026-10-09",
+  "research":"2016a-RESEARCH_PENDING_ZH.md",
+  "sourceExceptions":[
+    {"index":0,"reason":"March2016 creation date retained; scenario differs from later2016 native version, no subsequent events injected."},
+    {"index":3,"reason":"Original congressional majority shorthand preserved; contingent presidential election constitutionally by state House delegations, note needed."},
+    {"index":4,"reason":"Bully pulpit means presidency's influential platform, not bullying or literal religious pulpit."},
+    {"index":5,"reason":"Original case doubt read as cast doubt; English unchanged, future behavior not rewritten with hindsight."},
+    {"index":6,"reason":"Original pulled out2016 incomplete phrase read as pulled out victory; English unchanged."},
+    {"index":27,"reason":"Original any prohibition broadly summarized; Obergefell concerns same-sex marriage state license and recognition, not every legal restriction."},
+    {"index":29,"reason":"10000 refugee original period number retained, fiscal/calendar distinction to annotate."},
+    {"index":46,"reason":"Whole again unity campaign phrase preserved, no promise of redrawn geographical borders."}
+  ]
+}

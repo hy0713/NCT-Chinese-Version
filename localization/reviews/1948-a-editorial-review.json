@@ -1,0 +1,1068 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1948-a",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 291,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 3,
+      "reason": "Original first two-term Republican since Grant is ambiguous: McKinley won two elections but died in the second term. Retain original broad wording and explain elected terms versus completed terms."
+    },
+    {
+      "index": 7,
+      "reason": "Original independence announcement May 15 retained; note separates May 14 declaration, mandate expiry at local May 15 midnight and US May 14 de facto recognition."
+    },
+    {
+      "index": 10,
+      "reason": "Original any supplies formulation retained; note explains the blockade of ground/water routes and the continuing air corridors."
+    },
+    {
+      "index": 40,
+      "reason": "Original West Germany retained; note distinguishes 1948 occupation zones from states established in 1949."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<h3>Congratulations! You have won the 1948 Presidential Election.</h3><p>In a comeback for the ages, you defeated Thomas Dewey and shocked the nation. Prepare for another four years in the White House. There is much work to be done. You have an ambitious domestic agenda, and face a dangerous foreign situation with the Soviet Union. With a new Democratic majority in Congress, you can hopefully push for universal health care and a repeal of the Taft-Hartley Act.</p>",
+      "sha256": "6814a4c68a60339a37de11d78448a8fe09107bcada168d955eb6f26be32f0727",
+      "zh": "<h3>恭喜！你赢得了1948年总统选举。</h3><p>你上演了一场足以载入史册的逆转，击败托马斯·杜威，震惊了全国。准备在白宫再干四年吧。还有许多工作要做。你有雄心勃勃的国内施政计划，对外则面临苏联带来的危险局势。民主党重新取得国会多数，你有望推动全民医疗保障，并废除《塔夫脱—哈特利法》。</p>",
+      "keys": [
+        "base/candidate_json/116@100/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "<h3>Sorry. You have lost the 1948 Presidential Election.</h3><p>It was always going to be a longshot after your first, tumultuous years in office. With luck, Dewey will defend the New Deal reforms and continue your foreign policy. As for you, who knows what history will say of your Presidency? You made some momentous decisions, but will ultimately leave office under a cloud of unpopularity. Perhaps you could serve another term in the Senate?</p>",
+      "sha256": "f4175c572b83e334c87bea093d08d7832eb40f63fab05fea54e65643e1cf85c3",
+      "zh": "<h3>很遗憾，你输掉了1948年总统选举。</h3><p>执政最初几年如此动荡，你本来就胜算渺茫。但愿杜威会维护新政改革，并延续你的外交政策。至于你，谁知道历史会如何评价你的总统任期？你作出过一些重大决策，却终究要在民望低迷的阴影下离任。也许你还能再当一届参议员？</p>",
+      "keys": [
+        "base/candidate_json/116@100/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "<h3>No candidate captured an Electoral College majority.</h3><p>This leaves everyone in a bad situation. Segregationists from the South are demanding concessions before they will support a candidate, leaving the House deadlocked. Perhaps you can work out a deal with Dewey to circumvent this, based on who has the plurality of popular and electoral votes. It's always possible that one of you could serve as the other's Vice President.</p>",
+      "sha256": "a7a078a23597e063b0801eeb7d586f0668d30ea0ea9f15559cf07890cbc5f3cb",
+      "zh": "<h3>没有候选人获得过半数选举人票。</h3><p>这让所有人都陷入困境。南方的种族隔离派要求先作出让步，才肯支持某位候选人，众议院因此僵持不下。也许你能根据谁在普选票和选举人票上领先，与杜威达成协议，绕过这个僵局。你们中的一人，也可能出任另一人的副总统。</p>",
+      "keys": [
+        "base/candidate_json/116@100/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "<h3>Congratulations! You have won the 1948 Presidential Election.</h3><p>You have become the first Republican to win the White House in 20 years. You face a dangerous foreign situation, and your domestic agenda is likely to be opposed by Democrats and conservatives alike. Conversely, the support and confidence of the Republican establishment is almost guaranteed. With luck, you might become the first two-term Republican since Ulysses Grant.</p>",
+      "sha256": "e327802f2a52a4a25e4f0dd15487cb0c063a47adec496f20016256d437be2899",
+      "zh": "<h3>恭喜！你赢得了1948年总统选举。</h3><p>你成为二十年来首位赢得白宫的共和党人。你面临危险的国际局势，国内施政计划则很可能同时遭到民主党人和保守派反对。另一方面，共和党建制派的支持和信任几乎可以确保。但愿你能成为尤利西斯·格兰特以来首位任职两届的共和党总统。</p>",
+      "keys": [
+        "base/candidate_json/117@101/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>Sorry. You have lost the 1948 Presidential Election.</h3><p>Pundits and political pros are shocked at your collapse. The second-guessing will likely come fast and furious from your party. The Republicans have now lost five Presidential elections in a row, and have no obvious standard-bearer to break the trend in 1952. As for your own career, you are still the Governor of New York, but it is pretty unlikely that you'll be given another chance to prove yourself on the national stage.</p>",
+      "sha256": "f74baada4056b9571edfa2ab0d81b54441ce4fc565ebef384a1f8ebae5b605d6",
+      "zh": "<h3>很遗憾，你输掉了1948年总统选举。</h3><p>评论人士和老练的政治操盘手，都对你的溃败感到震惊。党内对你事后挑错的声音，很可能很快就会铺天盖地而来。共和党已经连续输掉五次总统选举，却没有一位显而易见的领军人物，能在1952年打破这个局面。至于你自己的政治生涯，你仍是纽约州州长，但很不可能再有机会在全国舞台上证明自己。</p>",
+      "keys": [
+        "base/candidate_json/117@101/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "<h3>No candidate captured an Electoral College majority.</h3><p>This leaves everyone in a bad situation. Segregationists from the South are demanding concessions before they will support a candidate, leaving the House deadlocked. Perhaps you can work out a deal with Truman to circumvent this, based on who has the plurality of popular and electoral votes. It's always possible that one of you could serve as the other's Vice President.</p>",
+      "sha256": "9ffd1019d3aab9d74bfa6e83d250c039c782712ea559e00cdec1ccd6b2c84b51",
+      "zh": "<h3>没有候选人获得过半数选举人票。</h3><p>这让所有人都陷入困境。南方的种族隔离派要求先作出让步，才肯支持某位候选人，众议院因此僵持不下。也许你能根据谁在普选票和选举人票上领先，与杜鲁门达成协议，绕过这个僵局。你们中的一人，也可能出任另一人的副总统。</p>",
+      "keys": [
+        "base/candidate_json/117@101/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "A wave of strikes and economic turmoil has led to bipartisan support for a new labor law. The Taft-Hartley Act, limiting the power of labor unions, has been placed on your desk. Will you sign this bill or veto it?",
+      "sha256": "f80dd1b7c733b71408d19658c4e60b743f7ef63960c095cd20c2fd88637aa60f",
+      "zh": "一波罢工潮和经济动荡，使两党都开始支持一项新的劳工法。限制工会权力的《塔夫脱—哈特利法》已经送到你的办公桌上。你会签署，还是否决？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/496@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "The Jewish state of Israel is set to declare its independence on May 15, 1948. Will your Administration recognize this new nation?",
+      "sha256": "e61e6f573192557a0524db82070e452a5033617db87c1e87ea8863a4213d05ae",
+      "zh": "犹太国家以色列准备在1948年5月15日宣布独立。你的政府会承认这个新国家吗？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/497@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "A young, liberal Senate candidate from Minnesota named Hubert Humphrey is pushing for a civil rights plank in the Democratic platform. You can either encourage this movement or nip it in the bud.",
+      "sha256": "957aecb72805fdd96aded0ff3e51241cdf5643e4eb6c65a4917314f6c93100af",
+      "zh": "一位来自明尼苏达州、名叫休伯特·汉弗莱的年轻自由派参议员候选人，正推动将民权条款纳入民主党党纲。你可以鼓励这一行动，也可以将它扼杀在萌芽中。",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/498@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "Do you stand by your decision to implement a loyalty program for employees of the federal government? Do you believe that Communist infiltration is a serious threat right now?",
+      "sha256": "6134a68ba4b109752cc861542016351329568e6f54e2053162ceee2c3dc6f3a1",
+      "zh": "你仍坚持为联邦政府雇员实施忠诚审查计划的决定吗？你认为共产党渗透目前是严重威胁吗？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/499@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "The Soviet Union has blocked West Berlin from receiving any supplies from Western Europe. What are your thoughts on this situation?",
+      "sha256": "7990bc296337959b34c3dd2356d64c402d2d571ecd5d53a346822d687358e6b4",
+      "zh": "苏联封锁了西柏林，使其无法从西欧获得任何物资。你怎么看待这个局面？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/500@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "Is there anything you can say during your acceptance speech at the national convention to shake this race up?",
+      "sha256": "e79bd593dbf24d30141198af6ff586b80035a2ce6ac9fdc4085021837a35513f",
+      "zh": "在全国代表大会的接受提名演说中，你能说些什么，来打破这场竞选的僵局？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/501@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "You are making a whistle-stop tour of the country to promote your candidacy. What region will you visit over the next two weeks?",
+      "sha256": "c41d5a3b3222a81e0abdaba36edc6c935db8f0a752e10533d5143b9e8d679038",
+      "zh": "你正在乘火车沿途停车演说，为竞选造势。接下来两周，你会前往哪个地区？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/502@6/description",
+        "1948_Truman_Barkley/questions_json/504@13/description",
+        "1948_Truman_Barkley/questions_json/505@19/description",
+        "1948_Truman_Barkley/questions_json/506@23/description",
+        "1948_Dewey_Warren/questions_json/514@7/description",
+        "1948_Dewey_Warren/questions_json/516@14/description",
+        "1948_Dewey_Warren/questions_json/517@20/description",
+        "1948_Dewey_Warren/questions_json/518@23/description",
+        "1948_Dewey_Stassen/questions_json/514@7/description",
+        "1948_Dewey_Stassen/questions_json/516@14/description",
+        "1948_Dewey_Stassen/questions_json/517@20/description",
+        "1948_Dewey_Stassen/questions_json/518@23/description",
+        "1948_Dewey_Bricker/questions_json/514@7/description",
+        "1948_Dewey_Bricker/questions_json/516@14/description",
+        "1948_Dewey_Bricker/questions_json/517@20/description",
+        "1948_Dewey_Bricker/questions_json/518@23/description",
+        "1948_Dewey_Vandenberg/questions_json/514@7/description",
+        "1948_Dewey_Vandenberg/questions_json/516@14/description",
+        "1948_Dewey_Vandenberg/questions_json/517@20/description",
+        "1948_Dewey_Vandenberg/questions_json/518@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "Would you support an act that would allocate federal funds for the construction of low-income housing?",
+      "sha256": "984145087b2fbab36a110445bfe1d7cb5e04f76c7f7cdc619b3231a03d25c7a1",
+      "zh": "你会支持拨出联邦资金建设低收入住房的法案吗？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/521@7/description",
+        "1948_Dewey_Warren/questions_json/521@13/description",
+        "1948_Dewey_Stassen/questions_json/521@12/description",
+        "1948_Dewey_Bricker/questions_json/521@9/description",
+        "1948_Dewey_Vandenberg/questions_json/521@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "You are calling for a pretty far-reaching platform as you campaign, but the current Congress has refused to consider many of your proposals. How will things be different in your next term if you are elected?",
+      "sha256": "1efec1feff0a9007e2b09eb63d9658de3639dcaf0fa6848aba45d64fea60c1f3",
+      "zh": "你在竞选中提出了一套相当广泛的施政纲领，但本届国会拒绝审议你的许多提案。如果当选，下个任期会有什么不同？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/503@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "What are your views on a federal health insurance program?",
+      "sha256": "3fcd3806d6ee5ce7520db6433a92be1f02f5bf59efaf2f8b96648e11884230b2",
+      "zh": "你对联邦医疗保险计划有什么看法？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/522@9/description",
+        "1948_Dewey_Warren/questions_json/522@8/description",
+        "1948_Dewey_Stassen/questions_json/522@13/description",
+        "1948_Dewey_Bricker/questions_json/522@10/description",
+        "1948_Dewey_Vandenberg/questions_json/522@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Do you support the federal funding of primary education, and if so, in what form?",
+      "sha256": "6c754aa78dfa5af1dc6e0d558f46a5578a51a84a0c86b95c9c59d528df740da1",
+      "zh": "你支持联邦政府资助初等教育吗？如果支持，应采取什么形式？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/523@10/description",
+        "1948_Dewey_Warren/questions_json/523@9/description",
+        "1948_Dewey_Stassen/questions_json/523@9/description",
+        "1948_Dewey_Bricker/questions_json/523@13/description",
+        "1948_Dewey_Vandenberg/questions_json/523@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "In general, what is your view on the providing of foreign aid to American allies?",
+      "sha256": "a7aa231b50751b02645b83bd83277b4d543c48804fea0b97cba042b4e565d89e",
+      "zh": "总体而言，你怎么看待向美国盟国提供援助？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/524@11/description",
+        "1948_Dewey_Warren/questions_json/524@10/description",
+        "1948_Dewey_Stassen/questions_json/524@10/description",
+        "1948_Dewey_Bricker/questions_json/524@8/description",
+        "1948_Dewey_Vandenberg/questions_json/524@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "What are your views on the expansion of Social Security?",
+      "sha256": "2a46c45d1405a39e116a43d279eaae5d741770058c8fd14614cf25ab3318fc03",
+      "zh": "你对扩大社会保障有什么看法？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/520@12/description",
+        "1948_Dewey_Warren/questions_json/520@12/description",
+        "1948_Dewey_Stassen/questions_json/520@11/description",
+        "1948_Dewey_Bricker/questions_json/520@12/description",
+        "1948_Dewey_Vandenberg/questions_json/520@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "What do you think about the proposed Constitutional Amendment to limit the President to two terms in office?",
+      "sha256": "c71b735f9b54b301423a56846013e55909e7887db39fb05daf3f54c1c05fa7fd",
+      "zh": "有人提议通过宪法修正案，将总统任期限制为两届。你怎么看？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/525@14/description",
+        "1948_Dewey_Warren/questions_json/525@18/description",
+        "1948_Dewey_Stassen/questions_json/525@17/description",
+        "1948_Dewey_Bricker/questions_json/525@17/description",
+        "1948_Dewey_Vandenberg/questions_json/525@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "Is the House Un-American Activities Committee going too far in its attempts to root out Communist influence, or should it be doing more?",
+      "sha256": "0e6a1d1a1886b88cd68c10036e839e4f10af22f4bb9f6a08ccebe5369cba8435",
+      "zh": "众议院非美活动调查委员会清除共产党影响的行动，是否已经走得太远，还是应该做得更多？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/527@15/description",
+        "1948_Dewey_Warren/questions_json/527@17/description",
+        "1948_Dewey_Stassen/questions_json/527@19/description",
+        "1948_Dewey_Bricker/questions_json/527@16/description",
+        "1948_Dewey_Vandenberg/questions_json/527@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "What will you do to help resolve the severe housing shortage in this country?",
+      "sha256": "02fbd003ea1e25363c28111c4ebf1cc146c6d875c5461036cf1d701d23e8a5dc",
+      "zh": "你会采取什么措施，帮助解决本国严重的住房短缺？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/529@16/description",
+        "1948_Dewey_Warren/questions_json/529@19/description",
+        "1948_Dewey_Stassen/questions_json/529@18/description",
+        "1948_Dewey_Bricker/questions_json/529@19/description",
+        "1948_Dewey_Vandenberg/questions_json/529@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "How will you reduce the inflation rate, currently around 10% annually, if you are elected President?",
+      "sha256": "d45524d67882bb41c5df5c2addee61ce59d3cb9bd814789b0852665669684e82",
+      "zh": "如果当选总统，你会如何降低目前每年约10%的通货膨胀率？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/528@17/description",
+        "1948_Dewey_Warren/questions_json/528@16/description",
+        "1948_Dewey_Stassen/questions_json/528@16/description",
+        "1948_Dewey_Bricker/questions_json/528@18/description",
+        "1948_Dewey_Vandenberg/questions_json/528@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "What are your views, in general, on the Marshall Plan?",
+      "sha256": "e7b96ea6a46ee1cc3692029ce031db4a97e13db73cad6a7be6a76c46bea508ed",
+      "zh": "总体而言，你对马歇尔计划有什么看法？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/526@18/description",
+        "1948_Dewey_Warren/questions_json/526@15/description",
+        "1948_Dewey_Stassen/questions_json/526@15/description",
+        "1948_Dewey_Bricker/questions_json/526@15/description",
+        "1948_Dewey_Vandenberg/questions_json/526@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "How satisfied are you with the overall economy at present?",
+      "sha256": "8d1f373fe0e942bd3983ce4747ce26bb324292bee24fd6a3b85ac9e1e8a7f876",
+      "zh": "你对当前整体经济状况有多满意？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/537@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "What are your views on the current federal budget surplus? Would you attempt to maintain this surplus as President?",
+      "sha256": "76353629468249cd2c4e774f9639ea47b3e060df2bf7a9c0968cd7aa652e80dd",
+      "zh": "你怎么看待目前的联邦预算盈余？作为总统，你会努力维持这种盈余吗？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/532@21/description",
+        "1948_Dewey_Bricker/questions_json/532@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "Given the Soviet threat, do you support the Selective Service Act which has been passed, even if it may lead to a peacetime draft?",
+      "sha256": "1fbec8eb0c08d4fb2e74dd78e3bf00150fe3ec11e4909a996a42de274e81eac1",
+      "zh": "考虑到苏联的威胁，你支持已获通过的《选择性征兵法》吗，即便它可能导致和平时期的征兵？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/534@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "Before you head to Missouri to spend the election day, is there one last place you want to hit on the campaign trail?",
+      "sha256": "bdbabb8ac73d1c2aaceefa862787acd188158d6265cc925dca3afee008bd547a",
+      "zh": "在前往密苏里州度过选举日之前，你还想最后去哪个地方拉票？",
+      "keys": [
+        "1948_Truman_Barkley/questions_json/507@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "I stand by my actions 100%. The buck stops here.",
+      "sha256": "fac3e7c9dd3cc1386be3594400ec283dd86b1d397c4ce2e11bc1297cabc9721c",
+      "zh": "我完全坚持自己的决定。责任到我这里为止。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3814@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "Sign it. Labor actions in the steel and coal industries nearly paralyzed our economy, and the public is fed up.",
+      "sha256": "8a814d5f4433433e98966c0ed28ba25835ead04df1b5cfbe6f6393f896d884d3",
+      "zh": "签署。钢铁和煤炭行业的劳工行动，几乎让经济陷入瘫痪，公众已经受够了。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3805@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "I support the HUAC, although I do wish it could be a little more aggressive in its rooting out of Communist influence.",
+      "sha256": "8358368c41d285804ad21a481a257e492062bbe66e845d4c846730c0fe901779",
+      "zh": "我支持非美活动调查委员会，不过我确实希望，它清除共产党影响的行动能更积极一些。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3917@2/description",
+        "1948_Dewey_Warren/answers_json/3917@0/description",
+        "1948_Dewey_Stassen/answers_json/3917@0/description",
+        "1948_Dewey_Bricker/answers_json/3917@0/description",
+        "1948_Dewey_Vandenberg/answers_json/3917@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "Veto it. This law goes too far, and besides, we won't have a chance without the support of labor.",
+      "sha256": "0b399e42d3490d1718ee670559ecc034e087e4aca54820f5086e23353cb9e02c",
+      "zh": "否决。这部法律走得太远了；何况没有劳工支持，我们根本没有胜算。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3806@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "We will recognize Israel. It is the right thing to do in the aftermath of the Holocaust, and if that's not enough, we can kiss New York good-bye if we don't.",
+      "sha256": "caf62ea2191b25acf768e88e8f59bc1d489ae170e36058301479220c0782959b",
+      "zh": "我们会承认以色列。经历大屠杀之后，这是应当做的事；如果这个理由还不够，那么不承认它，我们就别想赢下纽约州了。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3807@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "We will not recognize Israel. There's no way we can divert resources from Europe to defend that nation, and we would be seriously jeopardizing our relations with oil-producing Arab states. ",
+      "sha256": "b70e1010353a1dc016c94986590af26c6979940e7b6bce81a39a32946d1bf289",
+      "zh": "我们不会承认以色列。我们不可能从欧洲抽调资源去保卫那个国家，而且这样做会严重危及我们与产油阿拉伯国家的关系。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3808@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "Our chances are bad enough without instigating a Southern walkout from our convention. This kind of thing will have to wait until our position is a little stronger.",
+      "sha256": "5949c5f67f0483cbd6ed3c8ce209e69f571efbdad649958c9d0fa1cf42d9753a",
+      "zh": "我们的胜算已经够低了，不能再引发南方代表退出党代会。这类事情得等我们的地位更稳固一些再说。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3809@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "I don't have anything to say on this plank one way or the other. I'm prepared to accept the judgment of my party on this issue.",
+      "sha256": "1ad1d3fd93226aac5bec8e48f3b0eac1a5440437b8b826e4e3c963d33f335abf",
+      "zh": "对这项条款，我不打算表态支持或反对。我准备接受本党在这个问题上的判断。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3810@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "I support a civil rights plank in the Democratic platform. We can't concede this issue to Republicans and the Progressive Party if we want to compete in the industrial states.",
+      "sha256": "50e9b7fb6397c77868b2e6daa14857cf678c9edbe53fc80ad7c4cc1d50d619b8",
+      "zh": "我支持在民主党党纲中纳入民权条款。如果想在工业州争取胜利，我们就不能把这个议题让给共和党和进步党。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3811@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "I support a civil rights plank, and furthermore I will personally take executive action to desegregate the Armed Forces. I believe we can turn the black vote if we take initiative on this issue.",
+      "sha256": "586e4d0181d400f13094c5e775b793650cdeead670a4854fac635a707b7c3015",
+      "zh": "我支持民权条款，而且还会亲自采取行政行动，废除军队中的种族隔离。我认为，只要主动推进这个议题，就能争取黑人选票转而支持我们。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3812@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "I support this program, but I'm concerned with some of the actions I'm seeing from the FBI and the House Un-American Activities Committee. We need to balance this program with appropriate concern for due process and civil liberties.",
+      "sha256": "8c548e04ffba1f42ed3bf714db3f4022a33cde8579baba855426c73c65f267b0",
+      "zh": "我支持这项计划，但联邦调查局和非美活动调查委员会的一些行动让我担忧。实施计划时，我们必须兼顾正当法律程序和公民自由。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3813@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "I'm prepared to go even further on this issue. I will personally oversee a sweeping investigation of the State Department, Department of Defense, and other agencies which are prone to infiltration.",
+      "sha256": "85f7b3709229d2b81ce34db54cd7b2ff07e3b723963cd47b9d4e1068514a5929",
+      "zh": "我准备在这个问题上更进一步。我将亲自监督，对国务院、国防部及其他容易遭到渗透的机构展开全面调查。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3815@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "It's not very practical to defend West Berlin, in its isolated location, if the Soviets continue to escalate. I'd prefer to focus on building our defenses in the rest of West Germany.",
+      "sha256": "3b2cb4e1c077421e75e5091282f846c460ef8edd9564696d6e3128bdd6703071",
+      "zh": "西柏林孤悬在外，如果苏联继续升级事态，保卫它并不现实。我宁愿集中精力，加强我们在西德其他地区的防御。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3816@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "We need to do whatever it takes to ensure that Berlin is adequately supplied. We cannot further embolden Soviet aggression by retreating from the agreed-upon boundaries in our 1945 settlement.",
+      "sha256": "75a8528fd24c138bfa5c6643acdcf51ff208f2db69d51eca8ddec3f0ea75b28b",
+      "zh": "我们必须不惜一切，确保柏林获得充足物资。不能放弃1945年协议划定的界限，让苏联的侵略气焰更加嚣张。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3817@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "We need to go after Thomas Dewey hard. I haven't heard him take a serious stand on any major issue of our time, and this country needs a true leader.",
+      "sha256": "56bd307f7ac1b15e2543553314223578f670e92b319055bb1659e4a93a8b942e",
+      "zh": "我们得狠狠抨击托马斯·杜威。在当今任何重大议题上，我都没听到他采取过鲜明的立场，而这个国家需要一位真正的领袖。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3818@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "I will pledge to visit every state in the Union before election day. I stand for every working man in this country, and I'll let them know all about it before this is done.",
+      "sha256": "5fec876709e23ae16e8be2b83a94d4606797739c23023a0f8d0cd55d8d0a63bf",
+      "zh": "我会承诺在选举日前访问联邦每一个州。我代表这个国家的每一位劳动者，这场竞选结束之前，我会让他们都明白这一点。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3819@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "The Republicans are putting out a nice platform, but their own Congress has sandbagged half of these proposals in the past two years alone. I will call Congress into session and make them put their money where their mouth is.",
+      "sha256": "d7c831a70dbc6620c6f73e59d7a8791109dbf95068463ae1cf000b28dbd0dc33",
+      "zh": "共和党提出了一份漂亮的党纲，但光是过去两年，他们控制的国会就阻挠了其中一半的提案。我将召集国会开会，逼他们拿出实际行动，兑现承诺。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3820@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "I'm going to eviscerate Henry Wallace and bring the so-called Progressive Party back into the fold. I support universal health care and civil rights just the same as they do, and they are running for vanity's sake alone if they support Wallace.",
+      "sha256": "6caaa07cf593ef30e160af3ccd70408065aabd2eaf47aba0a3fde6c2269ff147",
+      "zh": "我要猛烈抨击亨利·华莱士，把所谓的进步党支持者争取回来。我和他们一样支持全民医疗保障和民权；如果他们支持华莱士，那参选就纯粹是为了满足虚荣心。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3821@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "We're going up the Eastern Seaboard, from Maryland all the way to Connecticut.",
+      "sha256": "96f2af95adbc7bc2207b521e5b43d12ec5b36648ed3fc8a790bbbc6994aaf4af",
+      "zh": "我们沿东海岸北上，从马里兰州一直到康涅狄格州。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3822@18/description",
+        "1948_Truman_Barkley/answers_json/3829@24/description",
+        "1948_Truman_Barkley/answers_json/3834@28/description",
+        "1948_Truman_Barkley/answers_json/3839@32/description",
+        "1948_Dewey_Warren/answers_json/3866@19/description",
+        "1948_Dewey_Warren/answers_json/3874@26/description",
+        "1948_Dewey_Warren/answers_json/3879@30/description",
+        "1948_Dewey_Warren/answers_json/3884@34/description",
+        "1948_Dewey_Stassen/answers_json/3866@19/description",
+        "1948_Dewey_Stassen/answers_json/3874@26/description",
+        "1948_Dewey_Stassen/answers_json/3879@30/description",
+        "1948_Dewey_Stassen/answers_json/3884@34/description",
+        "1948_Dewey_Bricker/answers_json/3866@19/description",
+        "1948_Dewey_Bricker/answers_json/3874@26/description",
+        "1948_Dewey_Bricker/answers_json/3879@30/description",
+        "1948_Dewey_Bricker/answers_json/3884@34/description",
+        "1948_Dewey_Vandenberg/answers_json/3866@19/description",
+        "1948_Dewey_Vandenberg/answers_json/3874@26/description",
+        "1948_Dewey_Vandenberg/answers_json/3879@30/description",
+        "1948_Dewey_Vandenberg/answers_json/3884@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "We're going to hit the Midwest, from Ohio to Wisconsin and Iowa.",
+      "sha256": "85bfed9e40d7fadbe2cde09478fb8af70de82f0840f6758a87fc8f94f33aabdc",
+      "zh": "我们去中西部，从俄亥俄州到威斯康星州和艾奥瓦州。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3823@19/description",
+        "1948_Truman_Barkley/answers_json/3830@25/description",
+        "1948_Truman_Barkley/answers_json/3835@29/description",
+        "1948_Truman_Barkley/answers_json/3840@33/description",
+        "1948_Dewey_Warren/answers_json/3867@20/description",
+        "1948_Dewey_Warren/answers_json/3875@27/description",
+        "1948_Dewey_Warren/answers_json/3880@31/description",
+        "1948_Dewey_Warren/answers_json/3885@35/description",
+        "1948_Dewey_Stassen/answers_json/3867@20/description",
+        "1948_Dewey_Stassen/answers_json/3875@27/description",
+        "1948_Dewey_Stassen/answers_json/3880@31/description",
+        "1948_Dewey_Stassen/answers_json/3885@35/description",
+        "1948_Dewey_Bricker/answers_json/3867@20/description",
+        "1948_Dewey_Bricker/answers_json/3875@27/description",
+        "1948_Dewey_Bricker/answers_json/3880@31/description",
+        "1948_Dewey_Bricker/answers_json/3885@35/description",
+        "1948_Dewey_Vandenberg/answers_json/3867@20/description",
+        "1948_Dewey_Vandenberg/answers_json/3875@27/description",
+        "1948_Dewey_Vandenberg/answers_json/3880@31/description",
+        "1948_Dewey_Vandenberg/answers_json/3885@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "I'm going through the Plains and Mountain states. I could personally talk to a third of the voters in that region, as sparsely populated as it is.",
+      "sha256": "6e663207444842b0f8992ddd33039cfe9993b5d9f9c0dcc01e1766874d6218b5",
+      "zh": "我要走遍大平原和山地各州。那里人烟稀少，我没准能亲自和当地三分之一的选民谈上话。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3825@20/description",
+        "1948_Truman_Barkley/answers_json/3832@26/description",
+        "1948_Truman_Barkley/answers_json/3837@30/description",
+        "1948_Truman_Barkley/answers_json/3842@34/description",
+        "1948_Dewey_Warren/answers_json/3869@21/description",
+        "1948_Dewey_Warren/answers_json/3877@28/description",
+        "1948_Dewey_Warren/answers_json/3882@32/description",
+        "1948_Dewey_Warren/answers_json/3887@36/description",
+        "1948_Dewey_Stassen/answers_json/3869@21/description",
+        "1948_Dewey_Stassen/answers_json/3877@28/description",
+        "1948_Dewey_Stassen/answers_json/3882@32/description",
+        "1948_Dewey_Stassen/answers_json/3887@36/description",
+        "1948_Dewey_Bricker/answers_json/3869@21/description",
+        "1948_Dewey_Bricker/answers_json/3877@28/description",
+        "1948_Dewey_Bricker/answers_json/3882@32/description",
+        "1948_Dewey_Bricker/answers_json/3887@36/description",
+        "1948_Dewey_Vandenberg/answers_json/3869@21/description",
+        "1948_Dewey_Vandenberg/answers_json/3877@28/description",
+        "1948_Dewey_Vandenberg/answers_json/3882@32/description",
+        "1948_Dewey_Vandenberg/answers_json/3887@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "We're going to hit the West Coast, and especially California. ",
+      "sha256": "059bd11ac35d1cd3bd0076060fb73021e4947874e31716eac90d12f817691b13",
+      "zh": "我们去西海岸，尤其是加利福尼亚州。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3826@21/description",
+        "1948_Truman_Barkley/answers_json/3833@27/description",
+        "1948_Truman_Barkley/answers_json/3838@31/description",
+        "1948_Truman_Barkley/answers_json/3843@35/description",
+        "1948_Dewey_Warren/answers_json/3870@22/description",
+        "1948_Dewey_Warren/answers_json/3878@29/description",
+        "1948_Dewey_Warren/answers_json/3883@33/description",
+        "1948_Dewey_Warren/answers_json/3888@37/description",
+        "1948_Dewey_Stassen/answers_json/3870@22/description",
+        "1948_Dewey_Stassen/answers_json/3878@29/description",
+        "1948_Dewey_Stassen/answers_json/3883@33/description",
+        "1948_Dewey_Stassen/answers_json/3888@37/description",
+        "1948_Dewey_Bricker/answers_json/3870@22/description",
+        "1948_Dewey_Bricker/answers_json/3878@29/description",
+        "1948_Dewey_Bricker/answers_json/3883@33/description",
+        "1948_Dewey_Bricker/answers_json/3888@37/description",
+        "1948_Dewey_Vandenberg/answers_json/3870@22/description",
+        "1948_Dewey_Vandenberg/answers_json/3878@29/description",
+        "1948_Dewey_Vandenberg/answers_json/3883@33/description",
+        "1948_Dewey_Vandenberg/answers_json/3888@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "When I get elected, we're going to get a Democratic Congress with me. That's how it's done.",
+      "sha256": "5e656356a1c8b178644b1dcb3107cce12db6ee096282b20493f640e2a0a9b49c",
+      "zh": "我当选时，民主党也会跟着我一起赢下国会。办法就是这样。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3827@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "I'm calling Congress into session now so that the American people can see how little they are capable of accomplishing. If they don't vote the Republicans out this fall then I don't know what to say.",
+      "sha256": "b5dd143d114738f06d2d6a07b129ce30ef2fecf9d4788fe13992fe898bac0394",
+      "zh": "我现在就召集国会开会，让美国人民看看他们能做成的事有多少。如果选民今年秋季还不把共和党人赶下台，那我也没什么可说的了。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3828@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "Let's go back through Illinois and criss-cross that state.",
+      "sha256": "b5609e4b5f802a916a934bc118f31ec64ce96815ba85ed2c3ef7629143b02290",
+      "zh": "让我们再去一趟伊利诺伊州，跑遍全州。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3844@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "Let's spend our last day in New York and then fly home.",
+      "sha256": "d5f6efffe6eea3408ca37d23786395b4bcc1c2e039b757d6f8328c6b6a4830dc",
+      "zh": "让我们最后一天待在纽约州，然后坐飞机回家。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3845@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "Let's go to Ohio and Michigan.",
+      "sha256": "e7891c4bb2b2d0b47d4c1ca70ada0ccc83fe60adb7a9c626fc682874e20a660c",
+      "zh": "让我们去俄亥俄州和密歇根州。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3846@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "Let's spend our last day in California and then fly home.",
+      "sha256": "9d8094e248861ecf9e8afcc33c7e9253e1e81d20fce327dcd65830e4f07fe61d",
+      "zh": "让我们最后一天待在加利福尼亚州，然后坐飞机回家。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3847@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "I support the expansion of benefits, which were set at fairly low levels during the 1930s and have been eaten up by our recent inflation.",
+      "sha256": "986313e2482748bc47b1d982adbd60cb10a12df24a5e0a559f759b258b11650c",
+      "zh": "我支持提高福利待遇。它们在1930年代定得相当低，又被近期的通货膨胀侵蚀了。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3893@40/description",
+        "1948_Dewey_Warren/answers_json/3893@42/description",
+        "1948_Dewey_Stassen/answers_json/3893@42/description",
+        "1948_Dewey_Bricker/answers_json/3893@42/description",
+        "1948_Dewey_Vandenberg/answers_json/3893@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "I support Social Security, but I think the program is most solvent in its current form.",
+      "sha256": "3309dc12d4e0560a423d25057e8d0bea3255c33e198b452a0b5dc893a3a4a4d8",
+      "zh": "我支持社会保障，但认为维持目前的形式，最能确保这项制度的偿付能力。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3894@41/description",
+        "1948_Dewey_Warren/answers_json/3894@43/description",
+        "1948_Dewey_Stassen/answers_json/3894@43/description",
+        "1948_Dewey_Bricker/answers_json/3894@43/description",
+        "1948_Dewey_Vandenberg/answers_json/3894@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "I've never been comfortable with the Social Security program, and I would like to see it rolled back.",
+      "sha256": "364f4b5bf97b11119b97c85fe24d0ae668ff2e11d74365ac6aa348e9f890d82f",
+      "zh": "我一直对社会保障制度有所保留，希望缩减它。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3895@42/description",
+        "1948_Dewey_Warren/answers_json/3895@44/description",
+        "1948_Dewey_Stassen/answers_json/3895@44/description",
+        "1948_Dewey_Bricker/answers_json/3895@44/description",
+        "1948_Dewey_Vandenberg/answers_json/3895@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "This is something that we badly need right now. We have a housing shortage in this country, and too many working-class Americans cannot afford a home.",
+      "sha256": "ee3607dd3c82726abf89db89da2d3d6d313f68c19c9ef33854c92777a4906c27",
+      "zh": "这是我们眼下迫切需要的。本国住房短缺，太多工薪阶层的美国人买不起住房。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3896@43/description",
+        "1948_Dewey_Warren/answers_json/3896@45/description",
+        "1948_Dewey_Stassen/answers_json/3896@45/description",
+        "1948_Dewey_Bricker/answers_json/3896@45/description",
+        "1948_Dewey_Vandenberg/answers_json/3896@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "I can't make a conclusive statement on this issue. I'm sure that between myself and Congress we can work out a good solution once I'm elected.",
+      "sha256": "6128768c2d158bc3ee55ecd5c6e975ae588361ee2dc64d10d13a5ba46c14ba68",
+      "zh": "在这个问题上，我还不能作出明确表态。我相信当选之后，我和国会能共同找到一个好办法。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3897@44/description",
+        "1948_Dewey_Warren/answers_json/3897@46/description",
+        "1948_Dewey_Stassen/answers_json/3897@46/description",
+        "1948_Dewey_Bricker/answers_json/3897@46/description",
+        "1948_Dewey_Vandenberg/answers_json/3897@46/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "I'm not comfortable with committing the federal government to the area of home construction, especially with all of the other responsibilities it has taken on over the past two decades.",
+      "sha256": "13ec027a96c19e711cc42edee93ef6ef4a3b0d2a1154c1262a21742667ac73fa",
+      "zh": "我不赞成让联邦政府承诺介入住房建设，尤其考虑到过去二十年它已经承担了那么多其他职责。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3898@45/description",
+        "1948_Dewey_Warren/answers_json/3898@47/description",
+        "1948_Dewey_Stassen/answers_json/3898@47/description",
+        "1948_Dewey_Bricker/answers_json/3898@47/description",
+        "1948_Dewey_Vandenberg/answers_json/3898@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "I support universal health care coverage in this country, financed by the federal government.",
+      "sha256": "061eb68da461f023ad81401e6723f2f26cd6778c0c1452867bb2ec39893769fc",
+      "zh": "我支持由联邦政府出资，在本国实现全民医疗保障。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3899@46/description",
+        "1948_Dewey_Warren/answers_json/3899@48/description",
+        "1948_Dewey_Stassen/answers_json/3899@48/description",
+        "1948_Dewey_Bricker/answers_json/3899@48/description",
+        "1948_Dewey_Vandenberg/answers_json/3899@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "I think there are definitely programs that the federal government can get involved in to improve public health, but I also support our current system of private care and insurance.",
+      "sha256": "c0b4495a7d6f05cae6b2809ac4eeaadda8a9157d425e5422d5eae3f41cb4b588",
+      "zh": "我认为，联邦政府确实可以参与一些改善公共健康的计划，但我也支持现行的私人医疗服务和保险体系。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3900@47/description",
+        "1948_Dewey_Warren/answers_json/3900@49/description",
+        "1948_Dewey_Stassen/answers_json/3900@49/description",
+        "1948_Dewey_Bricker/answers_json/3900@49/description",
+        "1948_Dewey_Vandenberg/answers_json/3900@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "With a country that is getting more and more prosperous by the day, I'm sure that we can find a good solution in the area of health care.",
+      "sha256": "c0c9150d17cf128ae268f8db91a07216466449f0d21a7f30ff4cbedfdc30902b",
+      "zh": "本国日益繁荣，我相信，我们能够在医疗保障方面找到一个好办法。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3901@48/description",
+        "1948_Dewey_Warren/answers_json/3901@50/description",
+        "1948_Dewey_Stassen/answers_json/3901@50/description",
+        "1948_Dewey_Bricker/answers_json/3901@50/description",
+        "1948_Dewey_Vandenberg/answers_json/3901@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "We should not have the federal government involving itself in the health care business. Private enterprise has built an outstanding health care system and will continue to do so in the future.",
+      "sha256": "061b13d8e2173f1bf3b294f5ffa33c37c568504857e078b92b67ed76defa9f42",
+      "zh": "联邦政府不应介入医疗行业。私人企业已经建立了出色的医疗体系，今后也会继续如此。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3902@49/description",
+        "1948_Dewey_Warren/answers_json/3902@51/description",
+        "1948_Dewey_Stassen/answers_json/3902@51/description",
+        "1948_Dewey_Bricker/answers_json/3902@51/description",
+        "1948_Dewey_Vandenberg/answers_json/3902@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "I absolutely believe that the federal government should be providing funds, to the states of course, for them to apply to education spending on our country's youth.",
+      "sha256": "be0926c4659018e969c4d7c07fff3bf6df95a1a3b4bc4976880395267c93b221",
+      "zh": "我当然认为，联邦政府应该提供资金——当然是拨给各州——让它们用于本国青少年的教育开支。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3903@50/description",
+        "1948_Dewey_Warren/answers_json/3903@52/description",
+        "1948_Dewey_Stassen/answers_json/3903@52/description",
+        "1948_Dewey_Bricker/answers_json/3903@52/description",
+        "1948_Dewey_Vandenberg/answers_json/3903@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "This is something that we will research and consider seriously over the next four years. I'd have to see the details of any proposal before I could give my opinion.",
+      "sha256": "0495e04093837773be9d7c1d1513f1ee75375a023b32b7e7323f5684a7711351",
+      "zh": "未来四年，我们会认真研究、考虑这个问题。我必须先看到具体提案，才能发表意见。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3904@51/description",
+        "1948_Dewey_Warren/answers_json/3904@53/description",
+        "1948_Dewey_Stassen/answers_json/3904@53/description",
+        "1948_Dewey_Bricker/answers_json/3904@53/description",
+        "1948_Dewey_Vandenberg/answers_json/3904@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "I'm opposed to the provision of federal funds for primary education. It will inevitably lead to other forms of interference in what should be a state and local matter.",
+      "sha256": "ffe418bfd7f16dcdc4a01df0c4ef87353f93a6bc60029e40ef48c4fb69ebb586",
+      "zh": "我反对为初等教育提供联邦资金。这必然会引出其他干预，而教育本应由州和地方负责。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3905@52/description",
+        "1948_Dewey_Warren/answers_json/3905@54/description",
+        "1948_Dewey_Stassen/answers_json/3905@54/description",
+        "1948_Dewey_Bricker/answers_json/3905@54/description",
+        "1948_Dewey_Vandenberg/answers_json/3905@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "We are the only thing standing between the world and global domination by the Soviets. I'm prepared to take any measure to prevent the advance of Communism.",
+      "sha256": "c6727ff3e3d9371836ef5487e8febbc636a119523cbfb62d3f529eb82e80518f",
+      "zh": "阻挡苏联统治全球的，只有我们。我准备采取任何措施，阻止共产主义的扩张。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3906@53/description",
+        "1948_Dewey_Warren/answers_json/3906@55/description",
+        "1948_Dewey_Stassen/answers_json/3906@55/description",
+        "1948_Dewey_Bricker/answers_json/3906@55/description",
+        "1948_Dewey_Vandenberg/answers_json/3906@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "I support this kind of thing in limited cases where there is a clear threat. But I'm worried about some of the ill-defined, open ended commitments we are getting ourselves into with other countries, and with the United Nations.",
+      "sha256": "8c6cc6cc676e52a59c42fc1d266efe93f2740db22004f770fc58611926c46ccb",
+      "zh": "在威胁明确的少数情况下，我支持这类行动。但我们对其他国家以及联合国作出的一些承诺，界限不清，也没有终点，这让我担忧。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3907@54/description",
+        "1948_Dewey_Warren/answers_json/3907@56/description",
+        "1948_Dewey_Stassen/answers_json/3907@56/description",
+        "1948_Dewey_Bricker/answers_json/3907@56/description",
+        "1948_Dewey_Vandenberg/answers_json/3907@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "This is a drain on American finances for a cause that threatens to entangle us in future wars, not of our making. I oppose the actions we have taken.",
+      "sha256": "58fa53ccc6f98a46a4799c9a64058e54e9453eaaac6a82966e3e19ad978c7004",
+      "zh": "这会消耗美国的财力，还可能让我们日后卷入并非由我们引起的战争。我反对我们已经采取的这些行动。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3908@55/description",
+        "1948_Dewey_Warren/answers_json/3908@57/description",
+        "1948_Dewey_Stassen/answers_json/3908@57/description",
+        "1948_Dewey_Bricker/answers_json/3908@57/description",
+        "1948_Dewey_Vandenberg/answers_json/3908@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "I support this Amendment as a necessary step towards the political health of this nation. We need to, periodically,  have a fresh point of view in government. Ours is not an imperial nation.",
+      "sha256": "746baaf79425a0a1406e925b5f9f11d3f152649c54a88abf8c416daa18d92546",
+      "zh": "我支持这项修正案，认为它是保障国家政治健康的必要一步。我们需要定期为政府注入新的视角。我们不是一个帝国。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3909@56/description",
+        "1948_Dewey_Warren/answers_json/3909@58/description",
+        "1948_Dewey_Stassen/answers_json/3909@58/description",
+        "1948_Dewey_Bricker/answers_json/3909@58/description",
+        "1948_Dewey_Vandenberg/answers_json/3909@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "I believe strongly in the two-term precedent, but I don't believe it should be enforced by Constitutional Amendment.",
+      "sha256": "146374cfeb4d90a82a6510d074e06b27df6f914f2590b397f5f9fe7c1fbbead1",
+      "zh": "我坚信两届任期的惯例，但不认为应该通过宪法修正案强制执行。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3910@57/description",
+        "1948_Dewey_Warren/answers_json/3910@59/description",
+        "1948_Dewey_Stassen/answers_json/3910@59/description",
+        "1948_Dewey_Bricker/answers_json/3910@59/description",
+        "1948_Dewey_Vandenberg/answers_json/3910@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "I don't have a strong stance on this Amendment. I support the popular will of the people on this issue.",
+      "sha256": "5599ab31bc336db4a842a75ca8c147ef3a59353802ba12a3ec228b417ce29f84",
+      "zh": "我对这项修正案没有强烈立场。在这个问题上，我支持人民的意愿。",
+      "keys": [
+        "1948_Truman_Barkley/answers_json/3911@58/description",
+        "1948_Dewey_Warren/answers_json/3911@60/description",
+        "1948_Dewey_Stassen/answers_json/3911@60/description",
+        "1948_Dewey_Bricker/answers_json/3911@60/description",
+        "1948_Dewey_Vandenberg/answers_json/3911@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

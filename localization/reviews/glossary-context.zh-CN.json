@@ -1,0 +1,511 @@
+{
+  "schema": 1,
+  "checkedAt": "2026-10-10",
+  "era": "1844 / 1860 / 1896 / 1916 / 1948 / 1960 / 1964 / 1968 / 1976 / 1988 / 2000 / 2012 / 2016a / 2016 / 2020",
+  "terms": [
+    {
+      "en": "internal improvements",
+      "zh": "国内公共工程",
+      "avoid": "内部改进／内政改革",
+      "noteId": "1844.american-system"
+    },
+    {
+      "en": "national bank",
+      "zh": "国家银行",
+      "avoid": "直接等同于现代美联储或1863年全国银行制度",
+      "noteId": "1844.bank-war"
+    },
+    {
+      "en": "Independent Treasury",
+      "zh": "独立国库",
+      "avoid": "独立央行",
+      "noteId": "1844.bank-war"
+    },
+    {
+      "en": "free banking",
+      "zh": "自由银行制度",
+      "avoid": "免费银行服务",
+      "noteId": "1844.bank-war"
+    },
+    {
+      "en": "nativism",
+      "zh": "本土主义（排外主义）",
+      "avoid": "美国原住民主义",
+      "noteId": "1844.nativist-riots"
+    },
+    {
+      "en": "Gag Rule",
+      "zh": "禁议规则",
+      "avoid": "普通议事纪律／禁止所有发言",
+      "noteId": "1844.gag-rule"
+    },
+    {
+      "en": "Manifest Destiny",
+      "zh": "天定命运",
+      "avoid": "忽略固定措辞的1845年背景",
+      "noteId": "1844.manifest-destiny-date"
+    },
+    {
+      "en": "sectional",
+      "zh": "地域的／地区间的",
+      "avoid": "阶层的",
+      "noteId": "1844.sectional-source"
+    },
+    {
+      "en": "recolonized to Africa",
+      "zh": "送往非洲殖民安置",
+      "avoid": "国内安置／移民归化",
+      "noteId": "1844.african-colonization"
+    },
+    {
+      "en": "Liberty Party",
+      "zh": "自由党",
+      "avoid": "自由意志党",
+      "noteId": "1844.birney-name"
+    },
+    {
+      "en": "Know-Nothings",
+      "zh": "一无所知党人",
+      "avoid": "一无所知的人",
+      "noteId": "1860.know-nothing"
+    },
+    {
+      "en": "popular sovereignty",
+      "zh": "人民主权原则",
+      "avoid": "忽略领地奴隶制争论的泛泛表述",
+      "noteId": "1860.popular-sovereignty"
+    },
+    {
+      "en": "Southern bolters",
+      "zh": "脱离党派的南方人",
+      "avoid": "南方爆弹手",
+      "noteId": "1860.popular-sovereignty"
+    },
+    {
+      "en": "Dixiecrats",
+      "zh": "迪克西民主党人",
+      "avoid": "泛指所有南方民主党人",
+      "noteId": "1964.dixiecrat"
+    },
+    {
+      "en": "dog whistle",
+      "zh": "政治狗哨（隐含暗示）",
+      "avoid": "不解释政治隐喻的字面吹哨",
+      "noteId": "1968.dog-whistle"
+    },
+    {
+      "en": "Solid South",
+      "zh": "稳固南方（民主党南方票仓／南方基地）",
+      "avoid": "与共和党南方战略混同",
+      "noteId": "1964.solid-south"
+    },
+    {
+      "en": "Dred Scott v. Sandford",
+      "zh": "德雷德·斯科特诉桑福德案",
+      "avoid": "把联邦领地与已入联邦的州混同",
+      "noteId": "1860.dred-scott"
+    },
+    {
+      "en": "personal liberty laws",
+      "zh": "个人自由法",
+      "avoid": "忽略其对逃奴遣返程序的历史语境",
+      "noteId": "1860.personal-liberty"
+    },
+    {
+      "en": "land grant universities",
+      "zh": "赠地大学",
+      "avoid": "把原作secondary education错置当成高等教育事实",
+      "noteId": "1860.land-grant-source"
+    },
+    {
+      "en": "Black Republicans",
+      "zh": "“黑色共和党人”（当时的贬称）",
+      "avoid": "单纯按族裔译成黑人共和党人",
+      "noteId": "1860.black-republicans"
+    },
+    {
+      "en": "Fire-Eaters",
+      "zh": "喷火派",
+      "avoid": "吞火表演者／泛指所有南方人",
+      "noteId": "1860.fire-eaters"
+    },
+    {
+      "en": "Hunkers",
+      "zh": "纽约民主党保守派（Hunkers）",
+      "avoid": "另一个全国性政党",
+      "noteId": "1860.hunkers"
+    },
+    {
+      "en": "fusion ticket (1860)",
+      "zh": "联合竞选组合／联合选举人名单",
+      "avoid": "只按总统／副总统搭档理解",
+      "noteId": "1860.fusion-electors"
+    },
+    {
+      "en": "wet / dry (Prohibition)",
+      "zh": "反禁酒派／禁酒派",
+      "avoid": "湿人／干人",
+      "noteId": "1896.wet-dry"
+    },
+    {
+      "en": "patronage jobs",
+      "zh": "酬庸官职",
+      "avoid": "一般工作岗位",
+      "noteId": "1896.pendleton-patronage"
+    },
+    {
+      "en": "Coxey’s Army",
+      "zh": "考克西抗议队伍／考克西军队",
+      "avoid": "正规联邦军队",
+      "noteId": "1896.coxey-army"
+    },
+    {
+      "en": "Blue Laws",
+      "zh": "蓝色法／星期日营业限制法",
+      "avoid": "蓝色字体的法律",
+      "noteId": "1896.blue-laws"
+    },
+    {
+      "en": "Rural Free Delivery",
+      "zh": "农村免费投递",
+      "avoid": "农村寄信免邮资",
+      "noteId": "1896.rural-mail"
+    },
+    {
+      "en": "injunction (labor dispute)",
+      "zh": "法院禁令",
+      "avoid": "工会命令",
+      "noteId": "1896.pullman-intervention"
+    },
+    {
+      "en": "nail-biter / squeaker (election)",
+      "zh": "极其胶着的选举",
+      "avoid": "咬指甲比赛／吱吱声",
+      "noteId": "1896.contingent-election"
+    },
+    {
+      "en": "hyphenated American",
+      "zh": "带族裔前缀的美国人／带连字符的美国人",
+      "avoid": "独立法律国籍类别",
+      "noteId": "1916.hyphenated"
+    },
+    {
+      "en": "workers’ compensation",
+      "zh": "工伤赔偿",
+      "avoid": "工人工资补贴",
+      "noteId": ""
+    },
+    {
+      "en": "Jones Act (1916 Philippines)",
+      "zh": "《琼斯法》／菲律宾自治法",
+      "avoid": "1920年沿海航运法",
+      "noteId": "1916.jones-philippines"
+    },
+    {
+      "en": "political machine",
+      "zh": "政治机器／政党组织网络",
+      "avoid": "机械设备",
+      "noteId": ""
+    },
+    {
+      "en": "Preparedness (1916)",
+      "zh": "备战／加强国防准备",
+      "avoid": "已正式参战",
+      "noteId": ""
+    },
+    {
+      "en": "Easter Rising",
+      "zh": "复活节起义",
+      "avoid": "宗教节日纠纷",
+      "noteId": "1916.easter-rising"
+    },
+    {
+      "en": "The buck stops here",
+      "zh": "责任到我这里为止",
+      "avoid": "一美元停在这里",
+      "noteId": "1948.buck-stops"
+    },
+    {
+      "en": "whistle-stop tour",
+      "zh": "乘火车沿途停车演说",
+      "avoid": "吹哨举报之旅",
+      "noteId": "1948.whistle-stop"
+    },
+    {
+      "en": "civil rights plank",
+      "zh": "民权条款／党纲中的民权主张",
+      "avoid": "木板",
+      "noteId": "1948.civil-rights"
+    },
+    {
+      "en": "pay-as-you-go liberalism",
+      "zh": "量入为出的自由主义",
+      "avoid": "随用随付服务／自由意志主义",
+      "noteId": ""
+    },
+    {
+      "en": "de facto / de jure recognition",
+      "zh": "事实承认／法律承认",
+      "avoid": "承认即承诺派兵保卫",
+      "noteId": "1948.israel-date"
+    },
+    {
+      "en": "HUAC",
+      "zh": "众议院非美活动调查委员会",
+      "avoid": "麦卡锡主持的参议院委员会",
+      "noteId": "1948.loyalty-huac"
+    },
+    {
+      "en": "Quemoy / Matsu / Formosa",
+      "zh": "金门／马祖／台湾",
+      "avoid": "将台湾与外岛混为一处",
+      "noteId": "1960.quemoy-matsu"
+    },
+    {
+      "en": "missile gap",
+      "zh": "导弹差距",
+      "avoid": "两枚导弹间距／已验证的苏联优势",
+      "noteId": "1960.missile-gap"
+    },
+    {
+      "en": "right-to-work law",
+      "zh": "工作权法",
+      "avoid": "政府保证人人有工作的法律",
+      "noteId": "1960.right-to-work"
+    },
+    {
+      "en": "condolences (King imprisonment)",
+      "zh": "慰问",
+      "avoid": "丈夫已死的哀悼",
+      "noteId": "1960.king-call"
+    },
+    {
+      "en": "block grants",
+      "zh": "整笔拨款",
+      "avoid": "街区补助",
+      "noteId": "1960.economic-terms"
+    },
+    {
+      "en": "hard money (1960 campaign)",
+      "zh": "紧缩货币政策",
+      "avoid": "金属硬币／1844金属货币制度",
+      "noteId": "1960.economic-terms"
+    },
+    {
+      "en": "unpledged electors",
+      "zh": "未承诺支持特定候选人的选举人",
+      "avoid": "尚未决定投票的普通选民",
+      "noteId": "1960.congress"
+    },
+    {
+      "en": "telegenic",
+      "zh": "上镜／镜头表现良好",
+      "avoid": "电视技术",
+      "noteId": "1960.tv"
+    },
+    {
+      "en": "red meat (campaign rhetoric)",
+      "zh": "最能激发基本盘热情的主张",
+      "avoid": "字面上的红肉",
+      "noteId": ""
+    },
+    {
+      "en": "one heartbeat away from the Presidency",
+      "zh": "离总统职位仅有一次心跳之遥；暗指副总统继任",
+      "avoid": "马上必然成为总统",
+      "noteId": ""
+    },
+    {
+      "en": "fiscal conservative",
+      "zh": "财政保守派",
+      "avoid": "所有议题立场必然相同",
+      "noteId": ""
+    },
+    {
+      "en": "Birchers",
+      "zh": "约翰·伯奇协会成员／支持者",
+      "avoid": "鸟类／所有姓伯奇的人",
+      "noteId": ""
+    },
+    {
+      "en": "go low / take the high road",
+      "zh": "卑劣攻击／堂堂正正的竞选路线",
+      "avoid": "海拔高低",
+      "noteId": ""
+    },
+    {
+      "en": "Jumbo (LBJ meme)",
+      "zh": "巨无霸；约翰逊的粗俗绰号",
+      "avoid": "另一位政治人物／已认证的逐字史料",
+      "noteId": "1968.jumbo"
+    },
+    {
+      "en": "Dump the Hump",
+      "zh": "甩掉汉弗莱",
+      "avoid": "丢掉驼峰",
+      "noteId": "1968.hump"
+    },
+    {
+      "en": "pointy-headed intellectuals",
+      "zh": "尖脑袋知识分子；脱离现实的精英的讥称",
+      "avoid": "生理疾病",
+      "noteId": "1968.pointy-heads"
+    },
+    {
+      "en": "Head Start",
+      "zh": "启蒙计划",
+      "avoid": "大学提前录取",
+      "noteId": "1968.head-start"
+    },
+    {
+      "en": "devolution (federal responsibilities)",
+      "zh": "权责下放给州政府",
+      "avoid": "生物退化",
+      "noteId": ""
+    },
+    {
+      "en": "judicial activism",
+      "zh": "司法能动主义／积极运用司法审查",
+      "avoid": "法官参加街头抗议",
+      "noteId": "1968.court-rights"
+    },
+    {
+      "en": "police riot (Chicago 1968)",
+      "zh": "警察制造的暴乱",
+      "avoid": "警察平息暴乱",
+      "noteId": "1968.chicago"
+    },
+    {
+      "en": "long, hot summer (1967)",
+      "zh": "1967年漫长炎热的夏季；城市骚乱的历史称呼",
+      "avoid": "仅指天气／1968年金遇刺",
+      "noteId": "1968.summer"
+    },
+    {
+      "en": "Kennedy Round",
+      "zh": "肯尼迪回合",
+      "avoid": "肯尼迪1967年亲自主持会议",
+      "noteId": "1968.kennedy-round"
+    },
+    {
+      "en": "mongrelize (racist rhetoric)",
+      "zh": "杂种化；保留种族主义侮辱语气",
+      "avoid": "中性化成普通交流",
+      "noteId": "1968.affirmative"
+    },
+    {
+      "en": "useful idiot (political insult)",
+      "zh": "有用的傻瓜；被政治势力利用者的讥称",
+      "avoid": "无证认定列宁逐字发明",
+      "noteId": ""
+    },
+    {
+      "en": "detente",
+      "zh": "缓和关系",
+      "avoid": "完全撤销防务",
+      "noteId": ""
+    },
+    {
+      "en": "rose garden strategy",
+      "zh": "玫瑰园战略；突出现任总统身份",
+      "avoid": "园艺竞选政策",
+      "noteId": "1976.rose-garden"
+    },
+    {
+      "en": "adultery in my heart",
+      "zh": "我在心里犯过奸淫；宗教自省",
+      "avoid": "承认实际婚外情",
+      "noteId": "1976.playboy"
+    },
+    {
+      "en": "draft evaders",
+      "zh": "逃避征兵者",
+      "avoid": "与军中逃兵一律混称",
+      "noteId": "1976.draft"
+    },
+    {
+      "en": "deserters",
+      "zh": "军中逃兵；擅离职守者",
+      "avoid": "一切反战人士",
+      "noteId": "1976.draft"
+    },
+    {
+      "en": "Humphrey-Hawkins (1976 proposal)",
+      "zh": "汉弗莱—霍金斯充分就业法案",
+      "avoid": "1976年已生效的1978年法律",
+      "noteId": "1976.humphrey-hawkins"
+    },
+    {
+      "en": "Scoop Jackson",
+      "zh": "斯库普·杰克逊；亨利·杰克逊的绰号",
+      "avoid": "独家新闻杰克逊；安德鲁·杰克逊",
+      "noteId": "1976.scoop"
+    },
+    {
+      "en": "Church Committee",
+      "zh": "彻奇委员会；情报活动调查委员会",
+      "avoid": "教会委员会",
+      "noteId": "1976.church-committee"
+    },
+    {
+      "en": "Scrooge",
+      "zh": "斯克鲁奇；吝啬冷酷的文学比喻",
+      "avoid": "美国政治人物",
+      "noteId": "1976.scrooge"
+    },
+    {
+      "en": "Clennon King",
+      "zh": "克伦农·金",
+      "avoid": "马丁·路德·金",
+      "noteId": "1976.church-race"
+    },
+    {
+      "en": "Bayh-Celler amendment",
+      "zh": "贝赫—塞勒修正案提议",
+      "avoid": "已经生效的总统直选制度",
+      "noteId": "1976.bayh-celler"
+    },
+    {
+      "en": "hardhat vote",
+      "zh": "建筑等行业工人选票",
+      "avoid": "安全帽的投票",
+      "noteId": ""
+    },
+    {
+      "en": "New South (Carter rhetoric)",
+      "zh": "新南方；摆脱旧有隔离政治的形象",
+      "avoid": "当时已完全消除种族歧视",
+      "noteId": ""
+    },
+    {
+      "en": "court-packing",
+      "zh": "扩充最高法院席位",
+      "avoid": "总统单方面增加席位",
+      "noteId": "2020.court-expansion"
+    },
+    {
+      "en": "Kung-flu",
+      "zh": "功夫流感",
+      "avoid": "正式疾病名称或无族裔指向的中性词",
+      "noteId": "2020.kung-flu"
+    },
+    {
+      "en": "Stop the Steal!",
+      "zh": "阻止偷窃！",
+      "avoid": "拜登真实行动的历史记载",
+      "noteId": "2020.reversed-election"
+    },
+    {
+      "en": "White House Counsel",
+      "zh": "白宫法律顾问",
+      "avoid": "一般政策顾问",
+      "noteId": "staff.bauer-spelling"
+    },
+    {
+      "en": "alternative facts",
+      "zh": "另类事实",
+      "avoid": "另一套经证实的事实",
+      "noteId": "staff.alternative-facts"
+    }
+  ]
+}

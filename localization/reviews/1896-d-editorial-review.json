@@ -1,0 +1,985 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1896-d",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 225,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "Today we will cover the need for religious tolerance. The Republicans are a party for all Americans.",
+      "sha256": "33ec50685c81f565f7b91073f8f73cd2d92df8a704a4b51c377e1f34c4163481",
+      "zh": "今天，我们要谈宗教宽容的重要性。共和党属于全体美国人。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1431@22/description",
+        "1896_McKinley_Quay/answers_json/1438@41/description",
+        "1896_McKinley_Gage/answers_json/1431@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "John D. Rockefeller has nothing to fear from a McKinley Administration. I reject the calls of certain mountebanks for the break-up or socialization of Standard Oil.",
+      "sha256": "0221a9a6ce0dc6d95bd646841dc271524b9c12b41f29485b9653a99e28b8d9ad",
+      "zh": "约翰·D.·洛克菲勒不必担心麦金莱政府。我反对那些江湖骗子鼓吹拆分标准石油公司，或把它改为社会所有。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1405@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Rockefeller knows my positions well. I feel as if it would be unbecoming to give him personal assurances, however. I work for all of the American people.",
+      "sha256": "42a9a6797e2960f3c19bfd28c915607d58e76333f001387276e41fc5fc39e718",
+      "zh": "洛克菲勒很了解我的立场。不过，亲自向他作保证，我觉得有失身份。我为全体美国人民服务。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1406@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "This antitrust legislation was passed with good reason. Business competition will inherently fail wherever monopolies exist.",
+      "sha256": "6c997703fd7a7f2baf7889eee900d5459c337b0d9d94a521a1d0151a5c8c3385",
+      "zh": "反托拉斯立法的通过，自有充分的理由。垄断存在的地方，商业竞争就必然失灵。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1407@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Let's talk about the importance of reviving American business. Our tariff act will give them the protections they need to succeed.",
+      "sha256": "22f560532d69aac1baae2542c822920bbcc83187f471d0e711a7577261c2723c",
+      "zh": "谈谈振兴美国工商业的重要性吧。我们的关税法，将提供企业成功所需的保护。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1432@36/description",
+        "1896_McKinley_Quay/answers_json/1439@42/description",
+        "1896_McKinley_Gage/answers_json/1432@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Let's discuss world affairs. I support the annexation of Hawaii and I support the independence of Cuba. I support a stronger Navy.",
+      "sha256": "96e9d2aa5239474e4be69d3baf71c5f0a77481e0c7cb736a368dfcca5b209611",
+      "zh": "谈谈国际事务吧。我支持吞并夏威夷，支持古巴独立，也支持建立更强大的海军。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1434@37/description",
+        "1896_McKinley_Quay/answers_json/1441@44/description",
+        "1896_McKinley_Gage/answers_json/1434@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Every man should have a right to bargain for his own wages. Let us reaffirm our opposition to collective bargaining and to radical labor unions.",
+      "sha256": "e08da923f4fb4c26875526f95fdb09c638dac91ec2d400217c51702621de932e",
+      "zh": "每个人都应当有权自行商议工资。重申我们反对集体谈判，也反对激进工会。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1435@38/description",
+        "1896_McKinley_Quay/answers_json/1442@45/description",
+        "1896_McKinley_Gage/answers_json/1435@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Let's remind the voters that we will clean government up after four years of Democratic incompetence.",
+      "sha256": "db701ec41aad3fa2dcd35ea7f4134647961bea62aa735ce4f19a7c5f5a87acf7",
+      "zh": "提醒选民：经历了民主党四年的无能执政，我们会整顿政府。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1436@39/description",
+        "1896_McKinley_Quay/answers_json/1443@46/description",
+        "1896_McKinley_Gage/answers_json/1436@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Let's address our speech to the workers and voters of the mid-Atlantic, who have been abandoned by the Democrats' nominee for this election.",
+      "sha256": "d41660032aec346873449bb3a0cca5b019b723f69466812fbffb8c418d05545d",
+      "zh": "让我们把这场演说讲给中大西洋地区的工人和选民听。他们已被本次大选的民主党候选人抛弃。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1437@40/description",
+        "1896_McKinley_Quay/answers_json/1444@47/description",
+        "1896_McKinley_Gage/answers_json/1437@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "If we could be sure that the benefits would spread equally to the different states, I think a public works program could be helpful at this point.",
+      "sha256": "bafd9c8ce374e1e018aab963e0081b92657d3259e6fdace4bc2b78e1244795b6",
+      "zh": "如果能确保各州均等受益，我认为，眼下推行公共工程计划可能有所帮助。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1620@87/description",
+        "1896_Bryan_Stevenson/answers_json/1620@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "I'm sure that Mr. Coxey is a well-intentioned citizen, but I see no constitutional authority for implementing a federal public works program.",
+      "sha256": "71f342346cead302552cacae47f48763490721fb4442304a05b23888fca7e90e",
+      "zh": "我相信，考克西先生是一位善意的公民，但我看不出，宪法授予了实施联邦公共工程计划的权力。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1621@88/description",
+        "1896_Bryan_Stevenson/answers_json/1621@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "This is absolutely the wrong solution to our business downturn. We must increase tariffs to stimulate American business.",
+      "sha256": "f0a7bc66aca57355a5663514d78fe5d441a92c7a77934bd64b3bf138ef4769b5",
+      "zh": "这绝对不是解决商业萧条的正确办法。我们必须提高关税，促进美国工商业。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1622@89/description",
+        "1896_Bryan_Stevenson/answers_json/1622@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "This is absolutely the wrong solution to our business downturn. We must allow the free coinage of silver to reduce the burden of our debts.",
+      "sha256": "162dd3c88c968931ddf954f5fe7188461c9aad4de25e84f8bf7c23f8e5507c95",
+      "zh": "这绝对不是解决商业萧条的正确办法。我们必须允许白银自由铸币，减轻债务负担。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1623@90/description",
+        "1896_Bryan_Stevenson/answers_json/1623@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Internal areas of the country have the same rights to use our waterways as the coastal regions. Making the Mississippi more navigable and more flood-resistant could prove to be an economic windfall.",
+      "sha256": "6d240bdb198d66ddf78e11b92e6adb8f2f16aa173548380ada8560f320022262",
+      "zh": "内陆地区与沿海地区，同样有权使用我国的水道。改善密西西比河的通航和防洪条件，可能带来巨大的经济收益。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1632@91/description",
+        "1896_McKinley_Gage/answers_json/1632@86/description",
+        "1896_Bryan_Stevenson/answers_json/1632@74/description",
+        "1896_Bryan_Matthews/answers_json/1632@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "This is another costly project that promises very little return on our investment.",
+      "sha256": "0be25f56295cda8dfbc9fc0203f8c5b300c852fef01c82c41c21975f17a4ec43",
+      "zh": "这又是一个耗资巨大、却几乎看不到投资回报的工程。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1633@92/description",
+        "1896_McKinley_Gage/answers_json/1633@87/description",
+        "1896_Bryan_Stevenson/answers_json/1633@75/description",
+        "1896_Bryan_Matthews/answers_json/1633@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "This is not regulation of commerce under the Commerce Clause. This is direct action by the federal government to build and operate a public works project. I'm not sure that this is Constitutional.",
+      "sha256": "53a07ea46589fd4d9b7abb022914d473525213b4dcd887f65fdc3912d6db8e80",
+      "zh": "这不是依据商业条款监管商业，而是联邦政府直接建设和经营公共工程。我不确定，这是否合宪。",
+      "keys": [
+        "1896_McKinley_Quay/answers_json/1634@93/description",
+        "1896_McKinley_Gage/answers_json/1634@88/description",
+        "1896_Bryan_Stevenson/answers_json/1634@76/description",
+        "1896_Bryan_Matthews/answers_json/1634@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Rockefeller gives you a solemn nod of approval. His support will be priceless this fall.",
+      "sha256": "fb919a31488cb1e980b5fa5fff2914701cacee839a95a3de327804450d1c4299",
+      "zh": "洛克菲勒郑重地点头表示赞许。今年秋天，他的支持将无比珍贵。",
+      "keys": [
+        "1896_McKinley_Quay/answer_feedback_json/504@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Rockefeller gives you a silent, unmistakable glare. He never thought he'd live to see a Republican of your ilk speaking out against his business.",
+      "sha256": "6f0d31cc359ae5aada4d692ca2e85480606b36b781a6d2bd3dd31ad6a7fe63e4",
+      "zh": "洛克菲勒一言不发，却明显狠狠瞪了你一眼。他从未想过，有生之年竟会看到你这样的共和党人，公开反对他的企业。",
+      "keys": [
+        "1896_McKinley_Quay/answer_feedback_json/505@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Bryan's reputation amongst industrial workers is actually suspect (he is often perceived as being too pro-farmer and too evangelical). Do you have any plans to win this traditionally Democratic block of voters?",
+      "sha256": "8d563fce1d22dad83c65690fe2a0c03af3e4c2951f8bcbaf821cc532ed09f04c",
+      "zh": "布赖恩在产业工人中的声望其实颇受质疑：人们往往觉得，他太偏向农民，宗教热情也太强。你有什么计划，争取这批传统上支持民主党的选民？",
+      "keys": [
+        "1896_McKinley_Gage/questions_json/172@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Should corporations be permitted to hire private detectives for security, and to infiltrate into labor movements?",
+      "sha256": "378b7c19842660dc436313ce710cb57813cfd106f6b9cc8d8ac8a7b09777da8f",
+      "zh": "应当允许企业雇用私人侦探负责安保，并渗透进劳工运动吗？",
+      "keys": [
+        "1896_McKinley_Gage/questions_json/240@17/description",
+        "1896_Bryan_Sewall/questions_json/240@17/description",
+        "1896_Bryan_Stevenson/questions_json/240@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Do you think that the United States Navy is large enough to adequately defend American interests on a global level?",
+      "sha256": "d19cb7103a89ce77b688992267f25ff72cfb1a591e1ee5ca7ce46c0062c53398",
+      "zh": "你认为，美国海军的规模，足以在全球范围内维护美国利益吗？",
+      "keys": [
+        "1896_McKinley_Gage/questions_json/238@18/description",
+        "1896_Bryan_Boies/questions_json/238@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Will you press for your party to include a condemnation of lynching in the party platform?",
+      "sha256": "5dd9a462cdcdca93dff6783e3f88b1de2e0bec08ba313972efb4d18abaad4149",
+      "zh": "你会推动本党在党纲中加入谴责私刑的条款吗？",
+      "keys": [
+        "1896_McKinley_Gage/questions_json/248@20/description",
+        "1896_Bryan_Stevenson/questions_json/248@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Should there be some regulation of working hours for children, particularly those under the age of 12 or 13?",
+      "sha256": "60dfe98e7f791576580c7d150876bbe73ce714bee9d85818bb2673b69cac0fb9",
+      "zh": "应当规范儿童的工作时间吗，尤其是十二三岁以下的儿童？",
+      "keys": [
+        "1896_McKinley_Gage/questions_json/216@21/description",
+        "1896_Bryan_Stevenson/questions_json/216@19/description",
+        "1896_Bryan_Teller/questions_json/216@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Business owners should threaten the workers with further unemployment if Bryan wins.",
+      "sha256": "17952384ace96470d1a64eeee85a9dde145b9783fb45a45969f74083ad0d7273",
+      "zh": "企业主应当威胁工人：如果布赖恩获胜，他们将面临更多失业。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1376@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "We will remind laborers that inflation will debase the value of their wages. Silver coinage is a rural policy.",
+      "sha256": "9db2498a140b2b93a2d0dc73a10ed4728365beea4eca7c2944e93cc6138aa158",
+      "zh": "我们会提醒劳工，通货膨胀会降低工资的价值。白银铸币是面向农村的政策。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1377@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Let's remind the immigrant populations that Bryan is a religious fanatic who opposes the sale of alcohol.",
+      "sha256": "4f50f692b26e090fbe919e2f6df05be9613a6b4c9539ce0f81e9997d47043699",
+      "zh": "提醒移民群体：布赖恩是个宗教狂热分子，反对出售酒类。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1378@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Americans are one people. We will not do special messaging for special interest groups.",
+      "sha256": "de6470fb61b5931f68719bcc6056ca7fcbc509d95e58c2711469c94203523647",
+      "zh": "美国人是一个整体。我们不会为了某些特殊利益群体，另说一套话。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1379@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "It agonizes me that we do not have this protection in place. Have we not seen children who are seven years old losing their hands in the cotton looms?",
+      "sha256": "bfbe07698e53fa3ece67863abb0f579b9792cb7c29a94fb091d9ca39a6198681",
+      "zh": "我们竟然还没有这种保障，真让我痛心。难道我们没见过，七岁的孩子在棉纺织机里失去双手吗？",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1536@77/description",
+        "1896_Bryan_Stevenson/answers_json/1536@50/description",
+        "1896_Bryan_Teller/answers_json/1536@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "I believe this is warranted in the industrial trades. Let us not forget that all hands are needed on the farm, not least of all in this day and age.",
+      "sha256": "ce44d410b0523fffd080b17a416e76eaa1608c54b9407e5eb151b0653e17caae",
+      "zh": "我认为，这在工业行业中是必要的。可别忘了，农场需要所有人手，尤其是在眼下这个时代。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1537@78/description",
+        "1896_Bryan_Stevenson/answers_json/1537@51/description",
+        "1896_Bryan_Teller/answers_json/1537@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "It falls outside the scope of the Constitution for the federal government to regulate the working conditions within a factory. This is not something that the President has control over.",
+      "sha256": "48369bedac5387ae65d4c4e95fe77625fde210d835acd4780dd82b5046b91fb7",
+      "zh": "联邦政府规范工厂内部的劳动条件，超出了宪法规定的权限。这不是总统能管的事。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1538@79/description",
+        "1896_Bryan_Stevenson/answers_json/1538@52/description",
+        "1896_Bryan_Teller/answers_json/1538@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "The Navy is more than adequate to meet our current needs, and will remain so as long as imperialist Republicans avoid intervening in Cuba or Hawaii.",
+      "sha256": "7e20582bc4bdc5fa9899b7d7bd7aeac2cbf8d282c8f2233c7d4100803e236160",
+      "zh": "海军完全足以应付当前需要。只要那些帝国主义共和党人不插手古巴或夏威夷，今后也会如此。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1606@80/description",
+        "1896_Bryan_Boies/answers_json/1606@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "I am disappointed with the backward status of our Navy. We need a more vigorous fleet, and we need a canal in Nicaragua to more closely link our two coasts.",
+      "sha256": "9df25eb4b68ef6cbb339e452aa953467a134f8a2d15dd8f6be9314017df6c434",
+      "zh": "我国海军的落后状况让我失望。我们需要一支更强劲的舰队，也需要尼加拉瓜运河，更紧密地连接东西两岸。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1607@81/description",
+        "1896_Bryan_Boies/answers_json/1607@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "This is another sad attempt to crush the spirit of the working man. It's difficult to distinguish between Pinkertons and vigilantes during some of these repression actions.",
+      "sha256": "f81e542b5376c2fdd7bc2b4e815d598a8c85dfaf2bf580b01cc6d9e5121b29b0",
+      "zh": "这又是一次压垮工人精神的可悲尝试。在某些镇压行动中，平克顿侦探与私刑暴徒几乎没有区别。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1611@82/description",
+        "1896_Bryan_Sewall/answers_json/1611@69/description",
+        "1896_Bryan_Stevenson/answers_json/1611@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Perhaps if collective bargaining was protected, companies would have less cause to fear their own employees.",
+      "sha256": "c62c519936d54922902f03eac15c62761f6d2bd12cffef8210e618267f9fe391",
+      "zh": "如果集体谈判得到保障，企业也许就没那么多理由害怕自己的雇员了。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1612@83/description",
+        "1896_Bryan_Sewall/answers_json/1612@70/description",
+        "1896_Bryan_Stevenson/answers_json/1612@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "I don't see who has the authority to stop this. This is another example of regulation that would fall outside of the scope of the Commerce Clause in the Constitution.",
+      "sha256": "7ff65f4153febebe705e7a9dad7dacc7b3e70f970e059d24e78f5257c13c4ee9",
+      "zh": "我看不出，谁有权阻止这种做法。这又是一种超出宪法商业条款范围的监管。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1613@84/description",
+        "1896_Bryan_Sewall/answers_json/1613@71/description",
+        "1896_Bryan_Stevenson/answers_json/1613@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "The practice of hiring detectives from agencies like the Pinkertons is justified by the militancy and danger of the American labor movement.",
+      "sha256": "5f6b49f944ff245a44a83d72669cc8685d486c8c693b3975cc77d6c73d88befc",
+      "zh": "美国劳工运动如此激进而危险，企业雇用平克顿等机构的侦探，是有理由的。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1614@85/description",
+        "1896_Bryan_Sewall/answers_json/1614@72/description",
+        "1896_Bryan_Stevenson/answers_json/1614@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "I abhor any instance where extra-judicial punishment is meted out by the passions of an inflamed mob. My party will speak out against this practice in our platform.",
+      "sha256": "12323e8b648fdbe06109455b37f5732a5edb9637574603f04e10bd5772c6fb1b",
+      "zh": "我憎恶一切因暴怒人群的激情而施行的法外惩罚。本党将在党纲中谴责这种做法。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1638@89/description",
+        "1896_Bryan_Stevenson/answers_json/1638@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "This has no hope of becoming law, but we have to include the plank in order to appease the southern delegates who secured my nomination.",
+      "sha256": "13af99b51884c480fe125bd327af82488577566a100c0c622b5ebe1f579f2d42",
+      "zh": "这不可能成为法律，但我们必须把这一条写进党纲，安抚那些确保我获得提名的南方代表。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1639@90/description",
+        "1896_Bryan_Stevenson/answers_json/1639@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "This isn't an issue worth addressing. It will please no one and offend everyone, at least within our party's rank-and-file.",
+      "sha256": "ec076d0c2ed72ec78c3acc73a9cf805c7c27ace82fc22c183a38de0f734b1fc9",
+      "zh": "这不是值得讨论的问题。至少在本党普通党员中，提起它谁也讨好不了，反倒会得罪所有人。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1640@91/description",
+        "1896_Bryan_Stevenson/answers_json/1640@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "These types incidents will happen when the federal government's due process Amendments fail to account for the innate differences among the citizens of the South.",
+      "sha256": "c974d5f992668094106b3f8b3cb3c4efa3f4b37a408db5570b538afb8fe85500",
+      "zh": "联邦政府有关正当法律程序的宪法修正案，没有考虑到南方公民之间天生的差异，这类事件因此会发生。",
+      "keys": [
+        "1896_McKinley_Gage/answers_json/1641@92/description",
+        "1896_Bryan_Stevenson/answers_json/1641@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "There's nothing the Republicans can do about it, but at least you have the moral victory of a strong statement against injustice.",
+      "sha256": "de67e57b3c1586a577d2f0aa90963399d7ad0fb99404882505a2c260d5ac2757",
+      "zh": "共和党对此无能为力，但至少，发表有力声明反对不公，让你在道义上赢了一局。",
+      "keys": [
+        "1896_McKinley_Gage/answer_feedback_json/561@42/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/561@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Once your views become well-known, Southern Democrats will defect in droves for John Palmer, the Bourbon Democrats' splinter candidate.",
+      "sha256": "c6db7e728e949a2778f55c6005f2a2a653ac64d35ca7ea75c289ff4dc9f3b39c",
+      "zh": "一旦你的观点广为人知，南方民主党人就会成群结队地转投约翰·帕尔默——波旁民主党分裂派的候选人。",
+      "keys": [
+        "1896_McKinley_Gage/answer_feedback_json/641@66/answer_feedback",
+        "1896_McKinley_Gage/answer_feedback_json/642@67/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/641@70/answer_feedback",
+        "1896_Bryan_Stevenson/answer_feedback_json/642@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "Which of the following most closely matches your overall campaign message?",
+      "sha256": "0618591762158109f3bdad6f499a80959199bd8f97c4766bb19ae2187b43750b",
+      "zh": "以下哪项最符合你的总体竞选诉求？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/138@0/description",
+        "1896_Bryan_Stevenson/questions_json/138@0/description",
+        "1896_Bryan_Matthews/questions_json/138@0/description",
+        "1896_Bryan_Boies/questions_json/138@0/description",
+        "1896_Bryan_Teller/questions_json/138@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "You have alluded to the need for less prejudice between the races. Senator \"Pitchfork\" Ben Tillman, of South Carolina, privately seeks your clarification.<br>Can you reassure him that the federal government will respect the rights of the states under your Administration?",
+      "sha256": "cffcb07a39362fe87e3f0db8c461a48e995fe89feea0e29d190f8349fffbe966",
+      "zh": "你曾暗示，应当减少种族间的偏见。南卡罗来纳州联邦参议员“干草叉”本·蒂尔曼私下找你，要求说明白。<br>你能否向他保证，执政时，联邦政府会尊重各州的权利？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/145@1/description",
+        "1896_Bryan_Stevenson/questions_json/145@4/description",
+        "1896_Bryan_Matthews/questions_json/145@7/description",
+        "1896_Bryan_Boies/questions_json/145@7/description",
+        "1896_Bryan_Teller/questions_json/145@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "You have very little chance of winning New York this fall, and nearly all of that city's newspapers are anti-Bryan. That doesn't mean you couldn't draw a frenzied crowd in New York City.<br>Perhaps the media attention would be beneficial in building excitement for your campaign on a national scale?",
+      "sha256": "cd77a9cd6498254ceca006bfdc3f292e9b59ea1622a6bbc03f3ac0b4796e4bab",
+      "zh": "今年秋天，你几乎不可能赢下纽约，该市报纸也几乎全都反对布赖恩。不过，这不代表你在纽约市就吸引不到热情高涨的人群。<br>也许媒体关注，能让你的竞选热潮蔓延到全国？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/142@2/description",
+        "1896_Bryan_Stevenson/questions_json/142@10/description",
+        "1896_Bryan_Matthews/questions_json/142@10/description",
+        "1896_Bryan_Boies/questions_json/142@4/description",
+        "1896_Bryan_Teller/questions_json/142@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "What do you have to say about William McKinley's campaign, at a high level?",
+      "sha256": "2a1b9efce8707b505c795b45e5c4a78b3e1212377096b72fc7a6db87f92a97b9",
+      "zh": "总体上，你对威廉·麦金莱的竞选有什么评论？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/139@5/description",
+        "1896_Bryan_Stevenson/questions_json/139@2/description",
+        "1896_Bryan_Matthews/questions_json/139@2/description",
+        "1896_Bryan_Boies/questions_json/139@2/description",
+        "1896_Bryan_Teller/questions_json/139@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "The novelty of a personal visit from the \"Great Commoner\" could probably swing the West Coast states in your direction. However, it will take two weeks to travel and return via train.<br>Will you divert your attention from the Midwest long enough to visit California, Oregon, and Washington?",
+      "sha256": "0d9a50785ea1634e03530b0de5baa3e51516ecfb80d560f753a7341e181bfb65",
+      "zh": "“伟大的平民”亲自来访，这种新鲜感可能让西海岸各州转而支持你。不过，乘火车往返需要两周。<br>你会暂时把注意力从中西部移开，抽出这么长时间，访问加利福尼亚、俄勒冈和华盛顿吗？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/141@6/description",
+        "1896_Bryan_Stevenson/questions_json/141@8/description",
+        "1896_Bryan_Matthews/questions_json/141@9/description",
+        "1896_Bryan_Boies/questions_json/141@10/description",
+        "1896_Bryan_Teller/questions_json/141@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "What do you think of leaving the Midwest for a week and making a circuit of the crucial upper South states? (i.e. Delaware, Maryland, Virginia, West Virginia, and Kentucky)",
+      "sha256": "df9c786bfc7e179e141610c5246508a59a474647468e8cc1c1d5c67db2b74644",
+      "zh": "你会离开中西部一周，巡访几个关键的南方北部州吗？（即特拉华、马里兰、弗吉尼亚、西弗吉尼亚和肯塔基。）",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/148@9/description",
+        "1896_Bryan_Stevenson/questions_json/148@6/description",
+        "1896_Bryan_Matthews/questions_json/148@4/description",
+        "1896_Bryan_Boies/questions_json/148@3/description",
+        "1896_Bryan_Teller/questions_json/148@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Can you respond to rumors that you would seek to abolish the Supreme Court if elected, due to their recent decisions on the income tax and antitrust issues?",
+      "sha256": "6718d51742751e9156aa98cbbe0b715b99e94c9a734f48ef81a35efd7ce3f610",
+      "zh": "有传言说，因为最高法院最近在所得税和反托拉斯问题上的裁决，你当选后将谋求废除最高法院。你能回应吗？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/140@13/description",
+        "1896_Bryan_Stevenson/questions_json/140@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Critics have said that you wrap yourself in religious imagery too much for a presidential candidate. What is your response? ",
+      "sha256": "b027ae3ece8fa7aad0b81d01b93216fce6d9fbe0c88ebeb8437a5dc00ec58f37",
+      "zh": "批评者说，作为总统候选人，你把自己包裹在宗教意象之中，做得太过了。你如何回应？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/144@15/description",
+        "1896_Bryan_Stevenson/questions_json/144@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Do you support greater regulation on the sale and labeling of opium, cocaine, and morphine when used in patent medicines?",
+      "sha256": "3d6cfbfcb4341f7111118723cbc6bc5a7b496622457c2cabc9c7cfdbfaf9c339",
+      "zh": "你支持对成药中使用的鸦片、可卡因和吗啡，加强销售与标签监管吗？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/249@16/description",
+        "1896_Bryan_Stevenson/questions_json/249@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "You are making a big speech in Chicago today. What points will you touch on?",
+      "sha256": "3e411222839fc1b40f2ba68f45465f169a4ba864edc82849fc8b73fa802d6110",
+      "zh": "今天，你将在芝加哥发表重要演说。你准备谈哪些要点？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/149@18/description",
+        "1896_Bryan_Teller/questions_json/149@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "The federal deficit has recently increased after two decades of steady decline. What are your thoughts on this?",
+      "sha256": "d531eed6f7bc9fb9164d97f2523d50a3182a5a429527533ab39396c5dd140da5",
+      "zh": "联邦赤字在连续二十年稳步下降后，最近又增加了。你对此怎么看？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/214@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "What is your opinion on the overthrow of the Hawaiian monarchy by the Dole group? Do you support the annexation of Hawaii into the United States?",
+      "sha256": "cee948b148da5e0397cbc85ff5f09faf35be19ddce23adca792873bf4cd56eb2",
+      "zh": "你如何看待多尔集团推翻夏威夷君主制？你支持美国吞并夏威夷吗？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/228@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "A few western states have allowed women the right to vote. Do you take the calls for a women's suffrage Amendment seriously?",
+      "sha256": "a881dc41cea7193626698da3354b0f027b4775a75cdb4389480c39908e2e3a25",
+      "zh": "西部已有几个州给予妇女投票权。对于要求通过妇女选举权宪法修正案的呼声，你会认真考虑吗？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/217@22/description",
+        "1896_Bryan_Stevenson/questions_json/217@17/description",
+        "1896_Bryan_Teller/questions_json/217@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "There is one week left until election day. Every state is important, but where will you give an extra push with your personal campaigning to swing the final results?",
+      "sha256": "bde7a3422dbe48a461e12f78232bb60390ca9a69db007cf9bebbbbfce3bd3fc8",
+      "zh": "离投票日还有一周。每个州都很重要，但你会亲自在哪里加大竞选力度，争取左右最终结果？",
+      "keys": [
+        "1896_Bryan_Sewall/questions_json/251@24/description",
+        "1896_Bryan_Stevenson/questions_json/251@24/description",
+        "1896_Bryan_Matthews/questions_json/251@24/description",
+        "1896_Bryan_Boies/questions_json/251@24/description",
+        "1896_Bryan_Teller/questions_json/251@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "We support the free coinage of silver priced at a 16-to-1 ratio against gold. The results will aid farmers and workers of all classes and contribute to an American renewal.",
+      "sha256": "b6c57ad20b3f007b20054e0b6f1d0885d1dd55223ee9e01b5bcc1f67b63dea21",
+      "zh": "我们支持按金银比价16∶1自由铸造银币。这将帮助各个阶层的农民和工人，推动美国复兴。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/976@1/description",
+        "1896_Bryan_Stevenson/answers_json/976@1/description",
+        "1896_Bryan_Matthews/answers_json/976@1/description",
+        "1896_Bryan_Boies/answers_json/976@1/description",
+        "1896_Bryan_Teller/answers_json/976@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "We will focus on free-silver and especially on the issues affecting farmers. We will seek a reduction in private debts and an end to the monopolistic practices of the railroads. We will also fight for the lowest possible tariffs.",
+      "sha256": "07766dd0bf284ee17832d118e535b493f2e67867de9031bd2b631d0eb8fc7ccc",
+      "zh": "我们将以自由铸银为重点，特别关注影响农民的问题。我们要减轻私人债务，结束铁路公司的垄断做法，也要争取尽可能低的关税。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/977@2/description",
+        "1896_Bryan_Stevenson/answers_json/977@2/description",
+        "1896_Bryan_Matthews/answers_json/977@2/description",
+        "1896_Bryan_Boies/answers_json/977@2/description",
+        "1896_Bryan_Teller/answers_json/977@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Silver coinage is just one part of my platform. Let's not forget the struggles of the urban worker in his efforts to unionize and obtain fair wages.",
+      "sha256": "e200a99274346facca6a71c7463c3efefe41b01fa3b7f38a8ba4228eac9647ca",
+      "zh": "白银铸币只是我纲领的一部分。别忘了，城市工人还在为组织工会、争取公平工资而奋斗。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/978@3/description",
+        "1896_Bryan_Stevenson/answers_json/978@3/description",
+        "1896_Bryan_Matthews/answers_json/978@3/description",
+        "1896_Bryan_Boies/answers_json/978@3/description",
+        "1896_Bryan_Teller/answers_json/978@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "I am 100% committed to the coinage of silver. It's important however, that we strike a moderate tone on other issues to expand our appeal as widely as we can.",
+      "sha256": "9b8de88dd4248cbf62662d7ac0cd83c87985d987557a563e5b32c597cb1d5030",
+      "zh": "我百分之百支持白银铸币。不过，为了尽可能扩大支持，在其他问题上，我们必须采取温和的语气。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/979@4/description",
+        "1896_Bryan_Stevenson/answers_json/979@4/description",
+        "1896_Bryan_Matthews/answers_json/979@4/description",
+        "1896_Bryan_Boies/answers_json/979@4/description",
+        "1896_Bryan_Teller/answers_json/979@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "McKinley is a fanatical defender of an obsolete monetary system. He is a front-man for big business and the New York financiers.",
+      "sha256": "1226b74cfaad27106197eb57a4e1f803fe1df69750cc618bc7da1707223325b8",
+      "zh": "麦金莱狂热地维护一套过时的货币制度。他是大企业与纽约金融家的台前傀儡。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/980@5/description",
+        "1896_Bryan_Stevenson/answers_json/980@5/description",
+        "1896_Bryan_Matthews/answers_json/980@5/description",
+        "1896_Bryan_Boies/answers_json/980@5/description",
+        "1896_Bryan_Teller/answers_json/980@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "McKinley's support of high tariffs is a crime which strangles American commerce. Similar protectionist programs have twice been rejected by American voters in the past ten years alone.",
+      "sha256": "90a840a383435b43bb8f087f268b2868249c6d308ad8db28e466bcd61d7aa6b7",
+      "zh": "麦金莱支持高关税，这是扼杀美国商业的罪行。仅在过去十年中，美国选民就已两次拒绝了类似的贸易保护政策。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/981@6/description",
+        "1896_Bryan_Stevenson/answers_json/981@6/description",
+        "1896_Bryan_Matthews/answers_json/981@6/description",
+        "1896_Bryan_Boies/answers_json/981@6/description",
+        "1896_Bryan_Teller/answers_json/981@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "We may have our disagreements, but William McKinley is an honorable man. Our campaign will focus on the issues, not on the opponent.",
+      "sha256": "d74d8e355406138993815e5843f332a58140c6228f2a25aae7d0334fe49fd72b",
+      "zh": "我们虽有分歧，但威廉·麦金莱是个正直的人。我们的竞选将着眼于议题，而不是针对对手本人。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/982@7/description",
+        "1896_Bryan_Stevenson/answers_json/982@7/description",
+        "1896_Bryan_Matthews/answers_json/982@7/description",
+        "1896_Bryan_Boies/answers_json/982@7/description",
+        "1896_Bryan_Teller/answers_json/982@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "McKinley's insistence on the gold standard has alienated many prominent Republicans from his own party, such as Henry Teller.",
+      "sha256": "7a8568fe8f508ce4a1d41171afab9e4f77e1c18164c086dbeee1ebfcc8e17e6f",
+      "zh": "麦金莱坚持金本位，已经让亨利·特勒等许多重要的共和党人疏远了自己的党。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/983@8/description",
+        "1896_Bryan_Stevenson/answers_json/983@8/description",
+        "1896_Bryan_Matthews/answers_json/983@8/description",
+        "1896_Bryan_Boies/answers_json/983@8/description",
+        "1896_Bryan_Teller/answers_json/983@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "The Supreme Court has consistently stood in the way of progress by implementing an overly narrow interpretation of the Constitution. I support drastic measures to reduce its influence.",
+      "sha256": "0c176dac19a4524839a0ffaccd5228477d2eba8b273a627776e87a8fe138cc33",
+      "zh": "最高法院一贯把宪法解释得过于狭隘，阻挡进步。我支持采取激烈措施，削弱它的影响。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/984@9/description",
+        "1896_Bryan_Stevenson/answers_json/984@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "There have been some terrible decisions made by the Court. We might consider some measures to make the court more accountable to the popular will.",
+      "sha256": "7e2824ad53c120e2f66a7a424c13ff48130a335ed6fbe976df5e7e80a9242a7e",
+      "zh": "法院作出过一些糟糕的裁决。我们可以考虑一些办法，使法院更受民意约束。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/985@10/description",
+        "1896_Bryan_Stevenson/answers_json/985@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "This is an unfounded rumor that the McKinley campaign has disseminated to discredit my candidacy.",
+      "sha256": "5d3e93278037c4d81ec02fa9ed85e05ffa4a103a4c0eb64256b44afe696c2b34",
+      "zh": "这是麦金莱阵营为损害我的候选人声誉，散布的无稽谣言。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/986@11/description",
+        "1896_Bryan_Stevenson/answers_json/986@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "8 years of a William Jennings Bryan presidency will leave the Court in much better shape to address our nation's problems.",
+      "sha256": "22de37da5f463952fc56f2f50d17bdf325801fa44f6ef67bcee40fa3a1ef8e5d",
+      "zh": "如果威廉·詹宁斯·布赖恩执政八年，最高法院将更有能力应对我国的问题。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/987@12/description",
+        "1896_Bryan_Stevenson/answers_json/987@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "Let us bring our message to the citizens of the Pacific Coast. Winning these three states could swing the entire election.",
+      "sha256": "9cdf4c1a30f6368d856bde397a67037886a4d8c9fca08836cbed30c78189e3c2",
+      "zh": "把我们的主张带到太平洋沿岸的民众那里去。拿下这三个州，可能改变整场选举的结果。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/989@13/description",
+        "1896_Bryan_Stevenson/answers_json/989@13/description",
+        "1896_Bryan_Matthews/answers_json/989@9/description",
+        "1896_Bryan_Boies/answers_json/989@9/description",
+        "1896_Bryan_Teller/answers_json/989@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "Let's keep the tour as short as possible. I will take a train to San Francisco and deliver a few speeches in that city, but will not tour the entire coast.",
+      "sha256": "f728ea3f2c31be39d26b4052ab645022b3a0dc4e6b7f5caefa79abc2de67fd0a",
+      "zh": "尽量缩短行程。我会乘火车到旧金山，在城里发表几次演说，但不会巡访整个海岸。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/990@14/description",
+        "1896_Bryan_Stevenson/answers_json/990@14/description",
+        "1896_Bryan_Matthews/answers_json/990@10/description",
+        "1896_Bryan_Boies/answers_json/990@10/description",
+        "1896_Bryan_Teller/answers_json/990@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "There is no time for that diversion. Heaven knows what rumors McKinley will spread while I am gone, and winning the Midwest should be our primary focus.",
+      "sha256": "29e836893add653835426f54bb44b217f7642fa5b8a55f254f81574e62422d1c",
+      "zh": "没有时间这样分心了。天知道，我不在的时候，麦金莱会散布什么谣言。拿下中西部，应当是我们的首要目标。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/991@15/description",
+        "1896_Bryan_Stevenson/answers_json/991@15/description",
+        "1896_Bryan_Matthews/answers_json/991@11/description",
+        "1896_Bryan_Boies/answers_json/991@11/description",
+        "1896_Bryan_Teller/answers_json/991@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "New York is a traditional Democratic stronghold, and I'm confident that the people of that state will support my message. We will campaign there extensively.",
+      "sha256": "6099cbe84c01375f3536eb6da99ad84a64794ff1bd6df3bb85ba1e1f3fba6cba",
+      "zh": "纽约是民主党的传统重镇，我相信，该州人民会支持我的主张。我们将在那里大力竞选。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/992@16/description",
+        "1896_Bryan_Stevenson/answers_json/992@16/description",
+        "1896_Bryan_Matthews/answers_json/992@12/description",
+        "1896_Bryan_Boies/answers_json/992@12/description",
+        "1896_Bryan_Teller/answers_json/992@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "Let's not waste our time in a hostile state. We must sow our seed upon the good earth where it will multiply.",
+      "sha256": "da7b1fe44d5e01588de04c1294a2264fd129b8969d73f75b88febaf6d408cb1c",
+      "zh": "别在敌意深重的州浪费时间。我们必须把种子撒在好土上，才会结出丰硕的果实。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/993@17/description",
+        "1896_Bryan_Stevenson/answers_json/993@17/description",
+        "1896_Bryan_Matthews/answers_json/993@13/description",
+        "1896_Bryan_Boies/answers_json/993@13/description",
+        "1896_Bryan_Teller/answers_json/993@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "I will give one big speech in New York City to open my campaign. Even if winning that state is hopeless, we need the national press.",
+      "sha256": "8eb626db104efc687fedfc34fa79c1895c6e4f8fa369e950a8861f53008191b4",
+      "zh": "我会在纽约市发表一场重要演说，为竞选揭幕。即便赢下该州毫无希望，我们也需要全国媒体的关注。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/994@18/description",
+        "1896_Bryan_Stevenson/answers_json/994@18/description",
+        "1896_Bryan_Matthews/answers_json/994@14/description",
+        "1896_Bryan_Boies/answers_json/994@14/description",
+        "1896_Bryan_Teller/answers_json/994@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "The humblest citizen in all the land, when clad in the armor of a righteous cause, is stronger than all the hosts of error.",
+      "sha256": "c3e14e1a7d880fa5c4901af48c6eeb398452c95bb3f3237dad8ab372129ec82e",
+      "zh": "哪怕是全国最卑微的公民，只要身披正义事业的铠甲，也比谬误的千军万马更强大。",
+      "keys": [
+        "1896_Bryan_Sewall/answers_json/999@19/description",
+        "1896_Bryan_Stevenson/answers_json/999@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

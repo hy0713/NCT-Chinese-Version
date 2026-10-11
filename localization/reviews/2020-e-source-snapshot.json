@@ -1,0 +1,482 @@
+[
+  {
+    "source": "You have repeatedly dodged the question when asked whether you will accept the results of this year's election. Do you have any statements to make?",
+    "zh": "当被问及是否接受今年的选举结果时，您多次回避这个问题。你有什么要发表的吗？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1322@17/description",
+      "2020_Trump_Haley/questions_json/1322@18/description"
+    ]
+  },
+  {
+    "source": "You have caught COVID-19 and require hospitalization, but it fortunately appears you will recover. How will you act in the wake of this episode?",
+    "zh": "您感染了 COVID-19 并需要住院治疗，但幸运的是您似乎会康复。在这一集之后你会采取什么行动？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1321@18/description",
+      "2020_Trump_Haley/questions_json/1321@17/description"
+    ]
+  },
+  {
+    "source": "Your immigration policies have antagonized opponents and pleased your core supporters, but your signature wall remains unfinished. What do you plan to do next?",
+    "zh": "你的移民政策激怒了对手，也让你的核心支持者感到高兴，但你的签名墙仍未完成。接下来你打算做什么？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1313@19/description",
+      "2020_Trump_Haley/questions_json/1313@21/description"
+    ]
+  },
+  {
+    "source": "Do you have any statements to make in regards to gun control or the right to bear arms?",
+    "zh": "关于枪支管制或携带武器的权利，您有什么要发表的声明吗？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1314@20/description",
+      "2020_Trump_Haley/questions_json/1314@19/description"
+    ]
+  },
+  {
+    "source": "Your plans for a federal infrasctructure bill stalled over the past couple of years. Do you plan to pursue this again if reelected? How large should any package be?",
+    "zh": "您的联邦基础设施法案计划在过去几年陷入停滞。如果连任，您是否打算再次追求这一目标？任何包裹应该有多大？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1310@21/description",
+      "2020_Trump_Haley/questions_json/1310@20/description"
+    ]
+  },
+  {
+    "source": "What is your rationale for the recent truce in Afghanistan? Do you plan to pull out all American troops before the election?",
+    "zh": "您最近阿富汗停火的理由是什么？你打算在大选前撤出所有美军吗？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1311@22/description",
+      "2020_Trump_Haley/questions_json/1311@22/description"
+    ]
+  },
+  {
+    "source": "The New York Post has broken a story about a laptop that Hunter Biden purportedly lost. Do you have any comment?",
+    "zh": "纽约州帖子揭露了一个关于亨特拜登据称丢失的笔记本电脑的故事。您有何评论？",
+    "keys": [
+      "2020_Trump_Pence/questions_json/1323@23/description",
+      "2020_Trump_Haley/questions_json/1323@23/description"
+    ]
+  },
+  {
+    "source": "My record over the past four years speaks to itself. Record low unemplyoment. Terrific success with tax cuts and foreign policy. If it wasn't for China releasing COVID, this election wouldn't even be a contest.",
+    "zh": "我过去四年的记录不言而喻。失业率创历史新低。减税和外交政策取得了巨大成功。如果不是中国释放了新冠病毒，这次选举甚至不会成为一场竞赛。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6109@0/description",
+      "2020_Trump_Haley/answers_json/6109@0/description"
+    ]
+  },
+  {
+    "source": "This election is a battle for the soul of America. The radical Democrats want to destroy free speech, handcuff our police, open our borders, and implement a nationwide program of socialism. You must stop them.",
+    "zh": "这次选举是一场美国灵魂之战。激进的民主党人想要摧毁言论自由，给我们的警察戴上手铐，开放我们的边界，并实施全国性的社会主义计划。你必须阻止他们。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6110@1/description",
+      "2020_Trump_Haley/answers_json/6110@1/description"
+    ]
+  },
+  {
+    "source": "We've done some unbelievable things for conservatism in America, things people wouldn't have dreamed of four years ago. The largest tax cuts in history. Fighting for religious freedom. Standing up to China. I'm very proud.",
+    "zh": "我们为美国的保守主义做了一些令人难以置信的事情，这是人们四年前做梦也想不到的事情。历史上最大规模的减税。为宗教自由而战。挺身而出对抗中国。我很自豪。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6112@3/description",
+      "2020_Trump_Haley/answers_json/6112@3/description"
+    ]
+  },
+  {
+    "source": "I am the law and order candidate. The riots, the Democrat riots really, and the efforts to undermine the Supreme Court, the phony Russia investigation, and ignoring our immigration laws. It's all coming from the Democrats.",
+    "zh": "我是法律与秩序候选人。骚乱，真正的民主党骚乱，以及破坏最高法院的努力，虚假的俄罗斯调查，以及无视我们的移民法。这一切都来自民主党。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6113@4/description",
+      "2020_Trump_Haley/answers_json/6113@4/description"
+    ]
+  },
+  {
+    "source": "We had unbelivable economic growth and it helped out the middle class, and the working people really. Then the Democrats destroyed it with this COVID scare. It's going to come roaring back with me here, just wait.",
+    "zh": "我们的经济增长令人难以置信，它确实帮助了中产阶级和劳动人民。然后民主党用新冠病毒恐慌摧毁了它。它会和我一起咆哮回来，等着吧。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6114@5/description",
+      "2020_Trump_Haley/answers_json/6114@5/description"
+    ]
+  },
+  {
+    "source": "The Democrats are running on a surrender platform. Surrender to COVID, surrender to illegal immigrants, surrender to China, Iran, and Palestine. These aren't people who love America, folks, believe me.",
+    "zh": "民主党的竞选纲领是投降。向新冠病毒投降，向非法移民投降，向中国、伊朗和巴勒斯坦投降。相信我，这些人并不是热爱美国的人。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6115@6/description",
+      "2020_Trump_Haley/answers_json/6115@6/description"
+    ]
+  },
+  {
+    "source": "Joe Biden is a joke, really. He's 78 years old, sits in his basement all day, probably has dementia, and many other issues. Is he the person who will stand up for you and for America?",
+    "zh": "乔·拜登真的是个笑话。他已经 78 岁了，整天坐在地下室里，可能患有痴呆症和许多其他问题。他是那个会为你和美国挺身而出的人吗？",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6116@7/description",
+      "2020_Trump_Haley/answers_json/6116@7/description"
+    ]
+  },
+  {
+    "source": "Kung flu is nothing but a criminal attempt by China, an act of war almost, if you think about it, to plunge the globe into chaos and undermine our election in favor of Joe Biden. Let's not forget which one of us is a stooge to China.",
+    "zh": "功夫流感只不过是中国的一次犯罪企图，如果你仔细想想，这几乎是一种战争行为，目的是让全球陷入混乱并破坏我们支持乔·拜登的选举。我们不要忘记我们当中谁是中国的走狗。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6117@8/description",
+      "2020_Trump_Haley/answers_json/6117@8/description"
+    ]
+  },
+  {
+    "source": "This is just a little thing, like the flu almost, that the media and the Democrats are attempting to spin into the second coming of the plague. They would rather destroy the American economy and society than see me get reelected.",
+    "zh": "这只是一件小事，就像流感一样，媒体和民主党试图将其归咎于瘟疫的第二次到来。他们宁愿摧毁美国经济和社会，也不愿看到我连任。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6118@9/description",
+      "2020_Trump_Haley/answers_json/6118@9/description"
+    ]
+  },
+  {
+    "source": "We can all do basic things like wearing masks to slow the spread. And at the same time, we need to be careful about the impact on small business and the economy. I don't think these Democrat lockdowns are sustainable.",
+    "zh": "我们都可以做一些基本的事情，比如戴口罩来减缓传播。与此同时，我们需要谨慎对待对小企业和经济的影响。我认为民主党的封锁措施是不可持续的。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6119@10/description",
+      "2020_Trump_Haley/answers_json/6119@10/description"
+    ]
+  },
+  {
+    "source": "Democrat or Republican, we all need to take this situation extremely seriously and listen to qualified medical experts like Dr. Anthony Fauci. I like to call him Tony, he's a hell of a guy!",
+    "zh": "民主党或共和党，我们都需要非常认真地对待这种情况，并听取安东尼·福奇博士等合格医学专家的意见。我喜欢叫他托尼，他是个很棒的人！",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6120@11/description",
+      "2020_Trump_Haley/answers_json/6120@11/description"
+    ]
+  },
+  {
+    "source": "Unfortunately Joe Biden is so senile, he's probably meeting with them to get this marching orders. He's really just the Crazy Bernie and Commie Liz candidate when you get right down to it.",
+    "zh": "不幸的是，乔·拜登太老了，他可能正在与他们会面以获得这个行军命令。当你认真对待时，他真的只是疯狂的伯尼和科米利兹候选人。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6121@12/description",
+      "2020_Trump_Haley/answers_json/6121@12/description"
+    ]
+  },
+  {
+    "source": "We really can't say it enough, the Democrats want to implement radical socialism in this country. What more proof do you need than incidents like this one?",
+    "zh": "我们真的不能说得太多，民主党人想在这个国家实行激进的社会主义。除了这样的事件，你还需要什么更多的证据呢？",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6122@13/description",
+      "2020_Trump_Haley/answers_json/6122@13/description"
+    ]
+  },
+  {
+    "source": "Joe Biden is acting like a moderate right now, but you'd better believe that behind the scenes, he'll be spending a lot of time listening to out-of-touch liberals like Elizabeth Warren.",
+    "zh": "乔·拜登现在表现得像个温和派，但你最好相信在幕后，他会花很多时间倾听像伊丽莎白·沃伦这样脱离现实的自由派。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6123@14/description",
+      "2020_Trump_Haley/answers_json/6123@14/description"
+    ]
+  },
+  {
+    "source": "Honestly I think Bernie is more popular than Joe is, to tell the truth. I don't know why he's allowing himself to be placated like this when he won the last two primaries. It's very weak.",
+    "zh": "老实说，说实话，我认为伯尼比乔更受欢迎。我不知道当他赢得最后两次初选时，他为什么要这样安抚自己。它非常弱。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6124@15/description",
+      "2020_Trump_Haley/answers_json/6124@15/description"
+    ]
+  },
+  {
+    "source": "There's absolutely no evidence that masks do anything to stop coronavirus. Even Dr. Fauci said so -- he changed his mind because he hates me, by the way -- but he was clearly saying masks do not help against coronavirus. Look it up!",
+    "zh": "绝对没有证据表明口罩对阻止冠状病毒有任何作用。就连福奇博士也这么说——顺便说一句，他改变了主意，因为他恨我——但他显然是在说口罩无助于对抗冠状病毒。查一下！",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6125@16/description",
+      "2020_Trump_Haley/answers_json/6125@16/description"
+    ]
+  },
+  {
+    "source": "When it makes sense to wear a mask, I wear a mask. I have a mask in my pocket right now. Sometimes it makes sense, and sometimes there's no reason to wear one.",
+    "zh": "当需要戴口罩时，我就会戴口罩。我现在口袋里有一个口罩。有时它是有道理的，有时却没有理由穿。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6126@17/description",
+      "2020_Trump_Haley/answers_json/6126@17/description"
+    ]
+  },
+  {
+    "source": "Yeah I mean, if you're in a crowd, mingling, it makes sense. You do see some people, and there's no one within 100 feet of these people and they're in the middle of a field, and they're walking around with masks on, and it's insane.",
+    "zh": "是的，我的意思是，如果你在人群中，混在一起，这是有道理的。你确实看到一些人，在这些人的 100 英尺范围内没有人，他们在田野中央，戴着面具走来走去，这太疯狂了。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6127@18/description",
+      "2020_Trump_Haley/answers_json/6127@18/description"
+    ]
+  },
+  {
+    "source": "Masks are a big factor, as you can see I'm wearing one right now. Our businesses are getting killed by these Democrat lockdowns. Anything that will help us reopen, if it's masks or anything, it's a good thing.",
+    "zh": "口罩是一个重要因素，正如你所看到的，我现在戴着一个。我们的企业正在被民主党的封锁所扼杀。任何能帮助我们重新开放的东西，如果是口罩或其他东西，都是一件好事。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6128@19/description",
+      "2020_Trump_Haley/answers_json/6128@19/description"
+    ]
+  },
+  {
+    "source": "Hunter's payments were an attempt to bribe Joe Biden, end of story. All we wanted to do was look into it, and we had this impeachment nonsense. If this doesn't show how crooked the Democrats are, I don't know what does.",
+    "zh": "亨特的付款是企图贿赂乔·拜登，故事结束。我们想做的就是调查此事，而我们却发现了这种弹劾的胡言乱语。如果这还不能说明民主党有多么不诚实，我不知道还有什么能说明这一点。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6129@20/description",
+      "2020_Trump_Haley/answers_json/6129@20/description"
+    ]
+  },
+  {
+    "source": "Maybe it was illegal, maybe it wasn't. Mr. Barr can decide that. All I'm saying is, does it matter? We know that Hunter had no expertise in the oil industry, and they're paying him $1 million a year while his father is Vice President.",
+    "zh": "也许这是非法的，也许不是。巴尔先生可以决定这一点。我只想说，这重要吗？我们知道亨特在石油行业没有专业知识，而当他的父亲担任副总统时，他们每年付给他 100 万美元。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6130@21/description",
+      "2020_Trump_Haley/answers_json/6130@21/description"
+    ]
+  },
+  {
+    "source": "I was just asking questions, you know, and then we had this entire phony impeachment scandal. I never said he did something wrong, I just said we have to look into this, and we really should, and Ukraine is the country that can do it.",
+    "zh": "我只是在问问题，你知道，然后我们就发生了整个虚假的弹劾丑闻。我从未说过他做错了什么，我只是说我们必须调查此事，我们确实应该调查，而乌克兰是可以做到这一点的国家。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6131@22/description",
+      "2020_Trump_Haley/answers_json/6131@22/description"
+    ]
+  },
+  {
+    "source": "You know, we can spend all day talking about who did what and when. I'm not the kind of guy who gets into that stuff. We have a terrific tax cut, a terrific economy, we're building the wall. We have a lot of incredible things to highlight.",
+    "zh": "你知道，我们可以花一整天的时间谈论谁在何时做了什么。我不是那种喜欢做这些事情的人。我们有很棒的减税，很棒的经济，我们正在建造隔离墙。我们有很多令人难以置信的事情要强调。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6132@23/description",
+      "2020_Trump_Haley/answers_json/6132@23/description"
+    ]
+  },
+  {
+    "source": "This was a pretty typical arrest, really. We don’t have any idea why George Floyd died. Maybe it was the drugs, who knows? Then you have the media fomenting riots and using them to get China Joe elected this fall.",
+    "zh": "这确实是一次非常典型的逮捕。我们不知道乔治·弗洛伊德为什么死。也许是药物的作用，谁知道呢？然后媒体煽动骚乱，并利用它们让中国·乔在今年秋天当选。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6133@24/description",
+      "2020_Trump_Haley/answers_json/6133@24/description"
+    ]
+  },
+  {
+    "source": "Whatever happened, there's no excuse for the riots, the fires, the hatred of white people, and the hatred of police that we're seeing. We have to respect our police or we won't have a country.",
+    "zh": "无论发生什么，我们所看到的骚乱、火灾、对白人的仇恨以及对警察的仇恨都是没有借口的。我们必须尊重我们的警察，否则我们就没有国家。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6134@25/description",
+      "2020_Trump_Haley/answers_json/6134@25/description"
+    ]
+  },
+  {
+    "source": "I really don't have a lot to say about this situation. You never like to see a situation like this, whether it's the police, whether it's the drugs. It's just sad.",
+    "zh": "对于这种情况我真的没什么可说的。你永远不喜欢看到这样的情况，无论是警察，还是毒品。这只是悲伤。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6135@26/description",
+      "2020_Trump_Haley/answers_json/6135@26/description"
+    ]
+  },
+  {
+    "source": "It's unbelievable really. I saw the video, we all saw the video. And think, this is in a place run entirely by Democrats. We've all seen them cover up these incidents before, maybe they'll step in this time and prosecute the officer.",
+    "zh": "真的令人难以置信。我看到了视频，我们都看到了视频。想一想，这是一个完全由民主党人管理的地方。我们以前都见过他们掩盖这些事件，也许这次他们会介入并起诉这名警官。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6136@27/description",
+      "2020_Trump_Haley/answers_json/6136@27/description"
+    ]
+  },
+  {
+    "source": "It's incredible that Hunter Biden isn't in jail right now, when you get down to it. Some Ukranian oligarch was giving him $1 million to do absolutely nothing, and Sleepy Joe was in on it too. Where is the FBI?",
+    "zh": "令人难以置信的是，当你认真思考时，亨特拜登现在没有入狱。某个乌克兰寡头给了他 100 万美元，让他什么也不做，瞌睡乔也参与其中。联邦调查局在哪里？",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6137@28/description",
+      "2020_Trump_Haley/answers_json/6137@28/description"
+    ]
+  },
+  {
+    "source": "Democrats keep saying these allegations are debunked and that there's no evidence. Can you imagine what they'd be saying if one of my kids was doing cocaine, making $1 million a year in Ukraine? This is media hypocrisy at its finest.",
+    "zh": "民主党人一直说这些指控已被揭穿并且没有证据。你能想象如果我的一个孩子在乌克兰吸食可卡因并每年赚取 100 万美元，他们会怎么说？这是媒体最虚伪的表现。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6138@29/description",
+      "2020_Trump_Haley/answers_json/6138@29/description"
+    ]
+  },
+  {
+    "source": "The liberal media would rather cover this kind of salacious gossip than focus on my record-low unemployment, booming economy, and incredibly successful foreign policy victories. We're too smart to play into their hands.",
+    "zh": "自由派媒体宁愿报道这种淫秽的八卦，也不愿关注我创纪录的低失业率、蓬勃发展的经济和令人难以置信的成功的外交政策胜利。我们太聪明了，不会落入他们的手中。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6139@30/description",
+      "2020_Trump_Haley/answers_json/6139@30/description"
+    ]
+  },
+  {
+    "source": "Maybe there wasn't a crime here after all. I can admit when I'm wrong. I just thought these payments looked weird and that someone should look into it, was that a crime?",
+    "zh": "也许这里根本就没有犯罪。当我错了的时候我可以承认。我只是觉得这些付款看起来很奇怪，应该有人调查一下，这是犯罪吗？",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6140@31/description",
+      "2020_Trump_Haley/answers_json/6140@31/description"
+    ]
+  },
+  {
+    "source": "We passed a terrific relief bill way back in April, I was very proactive. And you know, we need to think about spending and defecits as well, before we come out with another huge thing.",
+    "zh": "早在四月份我们就通过了一项很棒的救济法案，我非常积极主动。你知道，在我们推出另一项重大举措之前，我们还需要考虑支出和赤字。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6141@32/description",
+      "2020_Trump_Haley/answers_json/6141@32/description"
+    ]
+  },
+  {
+    "source": "I'm working around the clock right now to put $2,000 into the hands of every American. We need to get the economy open again, and we need to get people spending money.",
+    "zh": "我现在正在夜以继日地工作，以便将 2,000 美元送到每个美国人的手中。我们需要重新开放经济，我们需要让人们花钱。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6142@33/description",
+      "2020_Trump_Haley/answers_json/6142@33/description"
+    ]
+  },
+  {
+    "source": "If you look at what's happening right now with Dirty Nancy, it's a disgrace. We have a second package all ready to go, and she's blocking it until the election to make me look bad. They're putting dirty politics over helping Americans.",
+    "zh": "如果你看看《肮脏的南希》现在发生的事情，你会发现这是一种耻辱。我们已经准备好了第二个包裹，但她却阻止它直到选举，让我看起来很糟糕。他们将肮脏的政治置于帮助美国人之上。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6143@34/description",
+      "2020_Trump_Haley/answers_json/6143@34/description"
+    ]
+  },
+  {
+    "source": "The socialist Democratic Party is pushing for lockdowns at every opportunity. They will stop at nothing to exert their control over patriotic, hard-working American citizens and businesses. Not on my watch!",
+    "zh": "社会主义者民主党正在利用一切机会推动封锁。他们将不择手段地对爱国、勤劳的美国公民和企业施加控制。不在我的监视之下！",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6144@35/description",
+      "2020_Trump_Haley/answers_json/6144@35/description"
+    ]
+  },
+  {
+    "source": "I don't think these mandates and lockdowns are a good idea, really. But if that's what San Francisco and New York want to do, as long as they don't impose on the rest of us.",
+    "zh": "我认为这些强制措施和封锁确实不是一个好主意。但如果这就是旧金山和纽约州想要做的，只要他们不强加给我们其他人。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6145@36/description",
+      "2020_Trump_Haley/answers_json/6145@36/description"
+    ]
+  },
+  {
+    "source": "I would encourage everyone out there to wear a mask in public. It's just common sense and it will help our struggling small businesses. There could be some legal issues around a mandate, I'm not the expert, but just wear the mask, people!",
+    "zh": "我鼓励每个人在公共场合戴口罩。这只是常识，它将帮助我们陷入困境的小企业。授权可能存在一些法律问题，我不是专家，但请戴上面具，朋友们！",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6146@37/description",
+      "2020_Trump_Haley/answers_json/6146@37/description"
+    ]
+  },
+  {
+    "source": "We have some incredibly gifted scientists, people who have been there long before Obama was around by the way, and we've got to listen to them. We could be talking about hundreds of thousands of lives.",
+    "zh": "顺便说一句，我们有一些非常有天赋的科学家，他们早在奥巴马出现之前就已经存在了，我们必须倾听他们的意见。我们可能正在谈论数十万人的生命。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6147@38/description",
+      "2020_Trump_Haley/answers_json/6147@38/description"
+    ]
+  },
+  {
+    "source": "The corrupt Democrats and their media enablers have stonewalled our attempts at infrastructure spending at every turn, throwing their own voters under the bus to spite me.",
+    "zh": "腐败的民主党人和他们的媒体支持者处处阻碍我们在基础设施支出方面的尝试，把他们自己的选民扔到公共汽车下来刁难我。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6148@39/description",
+      "2020_Trump_Haley/answers_json/6148@39/description"
+    ]
+  },
+  {
+    "source": "We're going to tremendously push for an infrastructure bill. And you know, one of my favorite pieces of infrastructure is The Wall. That would create so many jobs for a very low cost, but certain people don't want to protect America.",
+    "zh": "我们将大力推动基础设施法案。你知道，我最喜欢的基础设施之一是隔离墙。这将以非常低的成本创造如此多的就业机会，但某些人不想保护美国。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6149@40/description",
+      "2020_Trump_Haley/answers_json/6149@40/description"
+    ]
+  },
+  {
+    "source": "I'm the pro-business President, a lot of people have been saying that. We want a decently sized, targeted infrastructure bill that will keep our economy competitive and reserve an appropriate space for private enterprise.",
+    "zh": "我是亲商总统，很多人都这么说。我们希望制定一项规模适当、有针对性的基础设施法案，以保持我们的经济竞争力，并为私营企业保留适当的空间。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6150@41/description",
+      "2020_Trump_Haley/answers_json/6150@41/description"
+    ]
+  },
+  {
+    "source": "We've built a lot of infrastructure already. One of the things the media never talks about is The Wall, we've built hundreds of miles of beautiful wall on the border. And so I'm not sure we need another big bill right now.",
+    "zh": "我们已经建立了很多基础设施。媒体从未谈论的事情之一是隔离墙，我们在边境修建了数百英里的美丽隔离墙。所以我不确定我们现在是否需要另一笔大额账单。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6151@42/description",
+      "2020_Trump_Haley/answers_json/6151@42/description"
+    ]
+  },
+  {
+    "source": "Our strategy in Afghanistan under Barack Obama was a total disaster with the surge. All I'm saying is we need to stop wasting our time and get our troops out, and I'd like to see that happen by the end of my term.",
+    "zh": "我们在贝拉克·奥巴马下的阿富汗战略随着激增而完全是一场灾难。我想说的是，我们需要停止浪费时间并撤出我们的部队，我希望看到这在我的任期结束时发生。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6152@43/description",
+      "2020_Trump_Haley/answers_json/6152@43/description"
+    ]
+  },
+  {
+    "source": "We have a timetable. I'm confident that when I'm reelected we'll be getting our troops out. Now if I gave you an exact date, the date depends on a lot of factors. I can't even tell you what all those factors are because some of them are secret.",
+    "zh": "我们有一个时间表。我相信，当我再次当选时，我们将把我们的军队撤出。现在，如果我给你一个确切的日期，这个日期取决于很多因素。我什至无法告诉你所有这些因素是什么，因为其中一些是秘密的。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6153@44/description",
+      "2020_Trump_Haley/answers_json/6153@44/description"
+    ]
+  },
+  {
+    "source": "Liberals have been complaining about Afghanistan for years, practically since we went there. Now when I finally do something about it, they can't stand that I'm the one fixing this and they start attacking me.",
+    "zh": "自从我们去阿富汗以来，自由主义者多年来一直在抱怨阿富汗。现在，当我终于对此采取行动时，他们无法忍受我是解决这个问题的人，他们开始攻击我。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6154@45/description",
+      "2020_Trump_Haley/answers_json/6154@45/description"
+    ]
+  },
+  {
+    "source": "A truce is just a truce. That's it. We're looking to see if the Taliban meet their commitments, and if not, we're going to pulverize them. We have some terrific planes, terrific missiles, and I'm pretty sure they can get the job done.",
+    "zh": "休战只是休战。就是这样。我们正在观察塔利班是否履行他们的承诺，如果没有，我们将粉碎他们。我们有一些很棒的飞机，很棒的导弹，我很确定他们能够完成任务。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6155@46/description",
+      "2020_Trump_Haley/answers_json/6155@46/description"
+    ]
+  },
+  {
+    "source": "We've already built most of the wall during my first term, actually. The failing New York Times barely talks about it. I feel pretty good that The Wall will be there for a long time to come.",
+    "zh": "实际上，在我的第一个任期内，我们已经建造了大部分隔离墙。失败的纽约州时报几乎没有谈论它。我感觉很好，隔离墙将在那里存在很长一段时间。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6160@47/description",
+      "2020_Trump_Haley/answers_json/6160@47/description"
+    ]
+  },
+  {
+    "source": "I'm doing everything in my power to get the wall built. We've made some good progress actually, and another four years will really help us all out.",
+    "zh": "我正在尽我所能来建造隔离墙。事实上，我们已经取得了一些良好的进展，再过四年将真正帮助我们所有人走出困境。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6161@48/description",
+      "2020_Trump_Haley/answers_json/6161@48/description"
+    ]
+  },
+  {
+    "source": "You know, some bleeding heart types on the left just won't let it happen. It's okay, we have ICE, we have lasers and night vision goggles. Rome wasn't built in a day, that's what they always told me.",
+    "zh": "你知道，一些左翼流血的心脏类型不会让它发生。没关系，我们有ICE，我们有激光和夜视镜。罗马不是一天建成的，这是他们总是告诉我的。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6162@49/description",
+      "2020_Trump_Haley/answers_json/6162@49/description"
+    ]
+  },
+  {
+    "source": "If the radical left would stop stonewalling me on every issue, maybe we could come together and find a better solution on immigration reform.",
+    "zh": "如果激进左派不再在每个问题上阻挠我，也许我们可以走到一起，在移民改革问题上找到更好的解决方案。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6163@50/description",
+      "2020_Trump_Haley/answers_json/6163@50/description"
+    ]
+  },
+  {
+    "source": "You've seen what's going on out there. Riots, fires, disrespect for police. We need to do everything we can to allow law-abiding citizens to defend themselves at home and in public.",
+    "zh": "你已经看到了外面发生的事情。骚乱、火灾、不尊重警察。我们需要尽一切努力让守法公民在家里和公共场合捍卫自己。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6164@51/description",
+      "2020_Trump_Haley/answers_json/6164@51/description"
+    ]
+  },
+  {
+    "source": "It's pretty simple, really. The left wants to take all of the guns in this country and destroy them, whatever the Constitution says about it. Some of them might not admit that, but it's the truth.",
+    "zh": "这真的很简单。无论宪法如何规定，左派都想夺走这个国家的所有枪支并销毁它们。有些人可能不承认这一点，但这是事实。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6165@52/description",
+      "2020_Trump_Haley/answers_json/6165@52/description"
+    ]
+  },
+  {
+    "source": "I think my position on guns has been pretty clear, really. We've stood firm against any new restrictions on gun ownership.",
+    "zh": "我认为我对枪支的立场非常明确，真的。我们坚决反对任何对枪支拥有的新限制。",
+    "keys": [
+      "2020_Trump_Pence/answers_json/6166@53/description",
+      "2020_Trump_Haley/answers_json/6166@53/description"
+    ]
+  }
+]

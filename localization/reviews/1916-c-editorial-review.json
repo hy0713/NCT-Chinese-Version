@@ -1,0 +1,971 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1916-c",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 211,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "The most fervent anti-war wing of the party cheers you on.",
+      "sha256": "991e202279182279ea0de0627f623c4a03ff4b7241e7a85810692f7df9e1b9cc",
+      "zh": "党内最坚定的反战派为你喝彩。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1791@53/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1791@24/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1791@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "This position is lifted straight from the Republican platform.",
+      "sha256": "09c8e169fff6d385f2297e2c009fcd881cb5732b50cc9fb3b5e848a6c58fb696",
+      "zh": "这个立场直接照搬了共和党党纲。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1792@54/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1792@25/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1792@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "This is a broadly popular stance.",
+      "sha256": "8e676b9ae184f43ee1296ce3279250f042995c82254cae12a0640560eabe2b95",
+      "zh": "这是一个广受欢迎的立场。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1793@55/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1794@56/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1796@58/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1793@52/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1794@53/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1796@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "This is a broadly popular stance, but it definitely alienates a key bloc of Democrats.",
+      "sha256": "ea61511f56c3dedd1c201c3d2f67d31b5fff1091f7b881ddb962cdbf30d39c31",
+      "zh": "这是一个广受欢迎的立场，但也确实疏远了民主党一个重要的支持群体。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1795@57/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1795@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "Good luck in this year's election. Many people think it will awfully close.",
+      "sha256": "2acb747895fb865d51ceb67dfe129c8740ff5a9e654188edbeb52a22f7f84429",
+      "zh": "祝你今年选举顺利。许多人认为双方会争得极为胶着。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1797@59/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1798@60/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1799@61/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1800@62/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1797@56/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1798@57/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1799@58/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1800@59/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1797@26/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1798@27/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1799@28/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1800@29/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1797@25/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1798@26/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1799@27/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1800@28/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "Immediate independence of the Philippines is not the popular position for Republicans.",
+      "sha256": "402b3e92236d8eb900d00d82d43a78094e918d41f47f5dc62fd909f67a5ecff2",
+      "zh": "立即让菲律宾独立，在共和党人中并不受欢迎。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1824@63/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1824@60/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1824@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "Conservatives have denounced the 17th Amendment, but it is broadly popular.",
+      "sha256": "2128d6475fe79170004f3fa4ed00f6995fa1861280ddc21fe13591622d54d2e1",
+      "zh": "保守派谴责第十七修正案，但它广受欢迎。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1825@64/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1825@61/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1825@53/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1825@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "The League of Nations idea is viewed with suspicion by many conservatives, and anti-war progressives alike.",
+      "sha256": "228266832bd527b5eb0929d896b4b24d9c112beb25ae511c629a046a1b1553f2",
+      "zh": "许多保守派和反战的进步派，都对建立国际联盟的构想抱有疑虑。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1826@65/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1826@62/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1826@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "There's nothing wrong with postponing judgment on this issue.",
+      "sha256": "c66038fd0900ea5450da1018e3f735aeb20753e9bec1dc7d3ea1e02510e0b94f",
+      "zh": "暂缓对这个问题作出判断，没有什么不妥。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1827@66/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1827@63/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1827@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "You are certainly running an aggressive campaign on the military issues.",
+      "sha256": "694ae0d46ee6291cb144e8364b7a5687de715c9fd87c2c8ce123c7fa040ae935",
+      "zh": "你在军事议题上的竞选攻势确实很强。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1828@67/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1828@64/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1828@56/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1828@54/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "This position is too anti-war for many in your party to accept.",
+      "sha256": "44d0c5d655555523586d976aa16306cd559b0ddb46ecf6ba112b09d25f440916",
+      "zh": "这个立场过于反战，让党内许多人无法接受。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1829@68/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1829@65/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1829@57/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1829@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "This is a break from the party platform, but it might help in the Western states.",
+      "sha256": "8a757433ead65d997b0d3423054af980bbcaf0554757f5a657f90873b90c1626",
+      "zh": "这偏离了党纲，但可能有助于争取西部各州。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1832@69/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1832@66/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1832@58/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1832@58/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "This in line with the feelings of your Party.",
+      "sha256": "29ae2dae19d54cbcaad1c09fdb7b5907dbec7eeab9994ecd7206c320816cc10a",
+      "zh": "这符合你所在政党的倾向。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1833@70/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1833@67/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1833@59/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1833@59/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "You are definitely sticking to conservative points in this campaign.",
+      "sha256": "b1e8bc1b4c17be78c2daaa6aa8eecbd06e0e3d8a4ececd9325919b7d4ecbe30b",
+      "zh": "在这场竞选中，你确实一直坚持保守派的主张。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1834@71/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1834@68/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1834@60/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1834@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "Many in your party are in favor of Prohibition, but there is a significant minority on the other side. Particularly among the German wing.",
+      "sha256": "ed0f85dc6e4a1439d4e7153bf4261acc3fc405dc8c63d7040944458d9266f7fc",
+      "zh": "党内许多人赞成禁酒，但也有相当一部分人持反对意见，尤其是德裔群体。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1835@72/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1835@69/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1835@61/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1835@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "This is a controversial stance, and it is probably aligned with the minority within your party.",
+      "sha256": "2e83f35f9bd1f3881ea359b9ed00ee47c702750eb8a3006b4d97e9b529ab0dd8",
+      "zh": "这是一个有争议的立场，站在你党内少数派一边的可能性很大。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1836@73/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1836@70/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1836@62/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1836@62/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "People are surprised to hear you in sympathy with the progressive wing of the Democratic coalition.",
+      "sha256": "1c9d0b1bf7aebcdaf223ee9c8a188e6b123da91f073552e41ffc5f22146eaa2d",
+      "zh": "听到你赞同民主党联盟中的进步派，人们感到惊讶。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1837@74/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1837@71/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1837@63/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1837@63/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "This is a safe position for a Republican to take.",
+      "sha256": "047dd1c5f208a3e76c37441ccafb8576ed7320817cc0b9399aa8b07bc9f47370",
+      "zh": "对共和党人来说，这是个稳妥的立场。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1838@75/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1839@76/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1838@72/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1839@73/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1838@64/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1839@65/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1838@64/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1839@65/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "There is still conservative opposition to the Federal Reserve, but even that wing of the party is divided on the issue.",
+      "sha256": "5afa19ff836eb2190b7daca91c213941d5a73e76f7cdeaa0db647fad719ceeaf",
+      "zh": "保守派仍有人反对联邦储备制度，但就连党内这一派在此事上也存在分歧。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1840@77/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1840@74/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1840@66/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1840@66/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "This is a very advanced position for a Republican to take on federal regulation.",
+      "sha256": "824ac63bd6719d5e0928662321b6d33e80e6fa1c171c7102dc4500778bfaaea2",
+      "zh": "对共和党人来说，在联邦监管问题上采取这个立场，已是相当进步了。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1841@78/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1843@80/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1841@75/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1843@77/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1841@67/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1843@69/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1843@67/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1848@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "You continue to make conservative points on the campaign trail.",
+      "sha256": "7396f609cab4aea87d4b306f8425415cbcde82553ac84a3d23f92c21d3870cfa",
+      "zh": "你继续在竞选中强调保守派的主张。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1842@79/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1842@76/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1842@68/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Somewhat counter to initial expectations, you continue to press the conservative case as you campaign.",
+      "sha256": "fc160f96a90a5ae0a6433aea7fae81e8ba3e63e4b8f2c3a6d5909f123421f3bd",
+      "zh": "与最初的预期有些不同，你继续在竞选中力陈保守派的主张。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1844@81/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1844@78/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1844@70/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1844@68/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1849@73/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "This is a controversial step, which has certainly created much bewilderment from your party.",
+      "sha256": "a13e1add057dc64cfdf78b7abaadf0d194b82b079c1372d189b2a6dd4c5c8835",
+      "zh": "这是有争议的一步，确实让党内许多人十分困惑。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1845@82/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1845@79/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1845@71/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1845@69/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "There are some attacks about this meeting, but it could also help keep German-Americans in the fold.",
+      "sha256": "f70678210f8b2d20a4d34e653002ef59b17e6ce8246bc8ec2015a147d315e9b9",
+      "zh": "有人抨击这次会见，但它也可能有助于留住德裔美国人的支持。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1846@83/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1846@80/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1846@72/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1846@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Red-blooded Americans cheer your strong stance on this position.",
+      "sha256": "67cc1cb232d85de0a86044edbeb07619f84e65121a87833efc4aec89061df2b8",
+      "zh": "自诩铁血爱国的美国人为你的强硬立场喝彩。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1847@84/answer_feedback",
+        "1916_Wilson_Marshall/answer_feedback_json/1854@89/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1847@81/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1854@83/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1847@73/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1847@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Significant concern is beginning to develop among Republicans over the level of immigration that has been permitted.",
+      "sha256": "b31844dde446f16249daf96ec8ec22c246b4ba3fa16b4393cf05f5ade9b09c1e",
+      "zh": "共和党人开始对获准入境的移民数量产生严重担忧。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1850@85/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1850@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "Congress has just such a bill in the works right now.",
+      "sha256": "c2749e8beb644ddd15a2106d95275a9004de37c265e0aa3472fa39bd956a73ce",
+      "zh": "国会眼下正在酝酿的，正是这样一项法案。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1851@86/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1851@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "This is a surprisingly anti-war position for you, given initial expectations.",
+      "sha256": "936ec09aead664850f4a9f37f2f06217fb9a56cd164e6dbfd0d729ed92258dd9",
+      "zh": "考虑到最初的预期，你这个反战立场令人意外。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1852@87/answer_feedback",
+        "1916_Hughes_Fairbanks/answer_feedback_json/1852@76/answer_feedback",
+        "1916_Hughes_Burkett/answer_feedback_json/1852@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "Jingoists and so on favor this stance, but there is a significant German bloc of Republicans who you should still be worried about.",
+      "sha256": "11af5fb0ddad0da0cb42e4ba5a1d7552a24c66813745bc957f3463dbece33e6d",
+      "zh": "沙文主义者等人支持这个立场，但共和党内还有相当一批德裔选民，你仍需顾及他们。",
+      "keys": [
+        "1916_Wilson_Marshall/answer_feedback_json/1853@88/answer_feedback",
+        "1916_Wilson_Baker/answer_feedback_json/1853@82/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "What motivated you to place Newton Baker on the ticket for your attempt at reelection?",
+      "sha256": "b93047103d0b6f620a408ae3eb37cddc9ca46f93770a93fb2849eca03015d906",
+      "zh": "在争取连任时，你为什么选择牛顿·贝克作为竞选搭档？",
+      "keys": [
+        "1916_Wilson_Baker/questions_json/665@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "Will you make any statements about the increased regulation of narcotics and stimulants such as a cocaine, which began with the 1914 Harrison Act?",
+      "sha256": "25fb218007af7daa3ef62b6428419471505603c2eb061be44c4887f1e440c6d6",
+      "zh": "1914年的《哈里森法》开始加强对麻醉药品，以及可卡因等兴奋剂的监管。你会就此发表意见吗？",
+      "keys": [
+        "1916_Wilson_Baker/questions_json/696@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "Newton Baker is the best man for the job. Regardless of any political gossip, the President needs a reliable working partner as Vice President.",
+      "sha256": "88310d03fe14a077a8e56fa90ef540059d2bb0531a55266bafb1078e6f7f9e2e",
+      "zh": "牛顿·贝克是担任这个职位的最佳人选。不管政界有什么闲言碎语，总统都需要一位可靠的副总统作为工作搭档。",
+      "keys": [
+        "1916_Wilson_Baker/answers_json/4270@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "Newton Baker is the progressive choice for Vice President, and I have every confidence in his abilities.",
+      "sha256": "37297fdd374564278fb8835b8fc739a1648143e088822fa29109035909e8a7d9",
+      "zh": "牛顿·贝克是副总统人选中的进步派选择，我对他的能力完全有信心。",
+      "keys": [
+        "1916_Wilson_Baker/answers_json/4271@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "This is yet another positive example of progressive legislation that has been enacted over the previous few years.",
+      "sha256": "dfa5aa10829f32b9f942ce1b494eae3e354270bbd19707b1b837862da2b76b6c",
+      "zh": "这又是过去几年通过的进步主义立法的一个正面例子。",
+      "keys": [
+        "1916_Wilson_Baker/answers_json/4360@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "This isn't an important issue in our current campaign.",
+      "sha256": "b1190b6813d1df151fafb5e8dd07c2e03ad6804f197541b41c269372f48d66d8",
+      "zh": "这不是我们当前竞选中的重要议题。",
+      "keys": [
+        "1916_Wilson_Baker/answers_json/4361@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "What themes will you emphasize as you accept the Republican nomination and begin your campaign?",
+      "sha256": "f7f31470b2c2f786b2f4abe9817364de57a9c9dc8d71dc119dabaf744b38ec32",
+      "zh": "在接受共和党提名、展开竞选时，你会强调哪些主题？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/666@0/description",
+        "1916_Hughes_Burkett/questions_json/666@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "In making appointments to your campaign (and by implication, when you are President), will you favor traditional Republicans, Progressives, or try for an even balance?",
+      "sha256": "55e70ad510e6c7c6e40f8c4d214041fb438f9601a82ba67809a47efca3475871",
+      "zh": "在任命竞选团队成员时——也意味着日后担任总统时——你会偏向传统共和党人、进步派，还是尽量均衡安排？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/669@1/description",
+        "1916_Hughes_Burkett/questions_json/669@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "What position will you take in regards to the war in Europe as you campaign?",
+      "sha256": "05dd06daecdedfb6c2dd22e5690f810c9b242afa073960d6d9350c030c0d4c85",
+      "zh": "在竞选中，你会对欧洲战争采取什么立场？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/667@2/description",
+        "1916_Hughes_Burkett/questions_json/667@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "Theodore Roosevelt is hitting the campaign trail hard this fall. However, he continues to make bellicose speeches about the war in Europe. Will you distance yourself from his rhetoric?",
+      "sha256": "60b563900abbdee2a990419b8963ab3c320012b4415c9cbf90b88a951a162f65",
+      "zh": "西奥多·罗斯福今年秋季正积极投入竞选活动，但仍不断就欧洲战争发表好战言论。你会与他的说法划清界限吗？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/673@5/description",
+        "1916_Hughes_Burkett/questions_json/673@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "What do you make of Woodrow Wilson's response to the raids and outrages of Pancho Villa?",
+      "sha256": "27cc3bdddede9a8d6d9825867814ef78c0958fdbccd47d4adcab3c2d293ac6b5",
+      "zh": "对于伍德罗·威尔逊应对潘乔·比利亚袭击和暴行的做法，你怎么看？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/675@6/description",
+        "1916_Hughes_Burkett/questions_json/675@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Do you have any plans to attack the nomination of Louis Brandeis to the Supreme Court?",
+      "sha256": "8f21feec80a98900f07398348f77534dbff4fad1a124eeafe0fc1c9e951caeb2",
+      "zh": "你打算抨击路易斯·布兰代斯获提名出任最高法院大法官一事吗？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/670@7/description",
+        "1916_Hughes_Burkett/questions_json/670@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "How much will you emphasize your own reform efforts as Governor of New York, as you campaign nationally?",
+      "sha256": "48b3da69700c26df77c04dd860800607eb1805e0d304abdfd4b98e5f9495ef3d",
+      "zh": "在全国竞选时，你会在多大程度上强调自己担任纽约州州长期间的改革政绩？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/671@9/description",
+        "1916_Hughes_Burkett/questions_json/671@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Do you plan to attack Woodrow Wilson's stance on preparedness and war with Europe, and if so, how?",
+      "sha256": "bc4a07b576aa935f72466369b934cd91ab3119bcd0bba0cec8df18c9fb3b6d24",
+      "zh": "你打算抨击伍德罗·威尔逊在备战和对欧战争问题上的立场吗？如果打算，会如何抨击？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/668@12/description",
+        "1916_Hughes_Burkett/questions_json/668@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "California, an important state this fall, is in the midst of a divisive split between Progressives and traditional Republicans. What are your own plans for visiting that state?",
+      "sha256": "5ca1bc8ea09ab2b4b4b4b6a931c25a3b2c813b9df1ece3fa71c2a0a10283a3f4",
+      "zh": "加利福尼亚州是今年秋季的重要战场，进步派与传统共和党人之间的尖锐分裂正在撕裂该州党内。你打算怎样安排赴该州的行程？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/672@13/description",
+        "1916_Hughes_Burkett/questions_json/672@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "What are your opinions on child labor legislation, as exemplified by the recent Keating-Owens child labor bill?",
+      "sha256": "9f82e13930a50395da384ad520efb1a48c57f2f7907a8eb5a08a40593ca5935d",
+      "zh": "最近提出的基廷—欧文童工法案，是童工立法的一例。你对这类立法有什么看法？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/678@14/description",
+        "1916_Hughes_Burkett/questions_json/678@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "Do you have any statements to make on the tariff question, and/or the recently established Tariff Commission, as you campaign?",
+      "sha256": "55e2d41cb89d8e10a4da17e1435542380d57b544fb613947386c4c1d2b65a91e",
+      "zh": "竞选期间，你会就关税问题，以及最近成立的关税委员会发表什么意见吗？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/676@15/description",
+        "1916_Hughes_Burkett/questions_json/676@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "Woodrow Wilson has recently pushed through the Adamson Act to avert a railroad strike, which establishes an eight-hour day for railroad employees. Will you attack this action in your campaign?",
+      "sha256": "f93d4abaa7994406a64cfcd983657f92820381c3aff5a4c2687907fe828d9756",
+      "zh": "伍德罗·威尔逊最近推动通过《亚当森法》，以避免铁路罢工，为铁路雇员确立了八小时工作制。你会在竞选中抨击这一举措吗？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/674@16/description",
+        "1916_Hughes_Burkett/questions_json/674@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "What do you make of the Preparedness Day Parades which have sprung up across the country this summer?",
+      "sha256": "6ba78635ef555e817e3da56bcb33f4f692b5fb760f71af176723ef5057e9963d",
+      "zh": "今年夏季，全国各地兴起了“备战日”游行。你对此怎么看？",
+      "keys": [
+        "1916_Hughes_Fairbanks/questions_json/683@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "My record as Governor of New York shows that I am willing to enact progressive reforms, and to combat machine politics. I will bring this mentality to the national stage as President.",
+      "sha256": "ed3367a4f253fadcd2890f5796ecd780e424170b30c418bb6dc21e10e687a943",
+      "zh": "我担任纽约州州长的政绩表明，我愿意推行进步主义改革，打击政治机器。作为总统，我会把这种作风带到全国。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4272@2/description",
+        "1916_Hughes_Burkett/answers_json/4272@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "Mr. Wilson has veered between ineptness on the one hand, and sudden, radical solutions on the other. I am the safe, pragmatic alternative in this contest.",
+      "sha256": "c917ff9a2d7ecaa8b4019ac5ec3fd6467cb29fd21396aa75e4f6a8f56c58fed6",
+      "zh": "威尔逊先生一会儿无能失措，一会儿又突然推出激进的解决办法。在这场竞选中，我是稳妥、务实的选择。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4273@3/description",
+        "1916_Hughes_Burkett/answers_json/4273@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "We can all agree on the need for reform, in this day in age. The question is, will we have sensible, moderate change or naked overreach?",
+      "sha256": "5a5acc936bf2535cd7a52c67f24716a34c1db1b23a9554cbd770de72c4867db2",
+      "zh": "在这个时代，我们都能认同改革的必要性。问题在于，我们要的是明智、温和的改变，还是公然越权？",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4274@4/description",
+        "1916_Hughes_Burkett/answers_json/4274@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "We've seen alarming measures during Wilson's first term. I stand firmly opposed to the income tax, the new interference with business, and the reduction in tariffs which will undermine our prosperity.",
+      "sha256": "9da8d888fef282ae57502a9bd74b4ab727c161252693c43a6c8cf1af4706701b",
+      "zh": "威尔逊第一任期推出的一些措施令人担忧。我坚决反对所得税、对企业的新干预，以及将损害我国繁荣的降低关税政策。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4275@5/description",
+        "1916_Hughes_Burkett/answers_json/4275@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Mr. Wilson's vacillations on the issue have emboldened potential adversaries and led to unfortunate events like the sinking of the <em>Lusitania</em>. A more resolute policy would actually increase the chances for peace.",
+      "sha256": "e5f0d0da93cb686bb29a3c082a43a1bc7db5bdb897f22ac2aa7bf014f0020191",
+      "zh": "威尔逊先生在这个问题上摇摆不定，助长了潜在敌手的气焰，导致了<em>卢西塔尼亚号</em>被击沉这样的悲剧。采取更坚定的政策，实际上会增加实现和平的机会。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4276@6/description",
+        "1916_Hughes_Burkett/answers_json/4276@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "As President, I have no desire for war. However, I will spare no effort to protect the legitimate rights of American shipping and commerce.",
+      "sha256": "32546975094e9c62b8f02a509f214e088f7ae820ae43ab116636ae2075919c3c",
+      "zh": "作为总统，我并不希望战争。不过，为了保护美国航运和贸易的正当权利，我将不遗余力。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4277@7/description",
+        "1916_Hughes_Burkett/answers_json/4277@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "If Mr. Wilson continues to allow American ships to travel in dangerous areas, it is only a matter of time before we are drawn into war. His claims to be the peace candidate ring hollow.",
+      "sha256": "90c96152712847fac2b51fc0c0fab03e7a3a74c56e16a10280740ff8e9e3e382",
+      "zh": "如果威尔逊先生继续允许美国船只驶入危险海域，我们被拖入战争只是时间问题。他自称是和平候选人，听起来空洞无物。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4278@8/description",
+        "1916_Hughes_Burkett/answers_json/4278@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "Wilson has repeatedly taken half-measures, when we should be doing much more to prepare for the threat of war.",
+      "sha256": "298964d8f15569e25f9f11a530bfd8f4d1d169c19d3ca627db1308acd1e60f82",
+      "zh": "面对战争威胁，我们本该做更多准备，威尔逊却一再采取半吊子的措施。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4279@9/description",
+        "1916_Hughes_Burkett/answers_json/4279@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "I refuse to politicize the security of the United States. Wilson and I are both in support of the current measures.",
+      "sha256": "11f6d8ce86869080ec8dc9b811758c64c39840e145845c43b98e1ddca97f1b34",
+      "zh": "我拒绝把美国的安全问题政治化。威尔逊和我都支持当前的措施。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4280@10/description",
+        "1916_Hughes_Burkett/answers_json/4280@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "Preparedness is a bellicose policy which leads us closer to the very thing we are preparing against -- war, that is.",
+      "sha256": "edc3d77ce6def762536f55aa8c9b7d876a0fb82e1eab5e89848137dd612c4a02",
+      "zh": "备战是一项好战政策，会让我们更接近本来要防范的事——也就是战争。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4281@11/description",
+        "1916_Hughes_Burkett/answers_json/4281@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "If we must make a decision, we should appeal to the progressive element of the party. These voters are the most likely ones to bolt for Wilson this fall.",
+      "sha256": "fc487d58d5828dcfd7f0b4bf98da3c83bd96a9e38177d90487071747c39e3ceb",
+      "zh": "如果必须作出取舍，我们就应当争取党内进步派。这些选民最有可能在今年秋季转投威尔逊。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4282@12/description",
+        "1916_Hughes_Burkett/answers_json/4282@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "I'm a moderate candidate, and my purpose is to tie the different strands of our party into a unified whole. My appointments will reflect this.",
+      "sha256": "a19bdf70f34adfe57d44e3006c4c2533992ed50dcee2be620b93864a7f27addb",
+      "zh": "我是一位温和的候选人，目的是把党内不同力量团结成一个整体。我的人事任命也会体现这一点。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4283@13/description",
+        "1916_Hughes_Burkett/answers_json/4283@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "The great mass of voters in this country are Republicans. If we keep the mainstream elements of the party happy, they will deliver us a victory in November.",
+      "sha256": "5b37f555c79e4953be4f8b0afbd155b0ab6cc62e2f47de22f3564992ed56c32c",
+      "zh": "本国广大选民都是共和党人。只要让党内主流满意，他们就会在十一月为我们带来胜利。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4284@14/description",
+        "1916_Hughes_Burkett/answers_json/4284@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "I believe the appointment of Louis Brandeis to the Court shows exceptionally poor, and dangerous, judgment on the part of Woodrow Wilson.",
+      "sha256": "a8902de74e7467663a3af537900d874f99fb6c6d690b095ff6a5105ddd1f4804",
+      "zh": "我认为，伍德罗·威尔逊任命路易斯·布兰代斯进入最高法院，显示出他极其糟糕、而且危险的判断力。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4285@15/description",
+        "1916_Hughes_Burkett/answers_json/4285@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "We would be better served to focus on other issues as we campaign.",
+      "sha256": "d6ba26cdd8a3cb64819108a5adaa18d6a102add6c20d7dc0d411c3cc510e3b6b",
+      "zh": "竞选中，我们最好把重点放在其他议题上。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4286@16/description",
+        "1916_Hughes_Burkett/answers_json/4286@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "I have a substantial record of reform and progressivism as Governor of New York, and as a Supreme Court Justice. I won't hesitate to say so as I campaign.",
+      "sha256": "a27eb42339f4aaf9e0abc1f13cd6cbc2626fcaf5c6b2d86100760e5d50804610",
+      "zh": "无论作为纽约州州长，还是最高法院大法官，我都有丰富的改革和进步主义政绩。我在竞选中会毫不犹豫地指出这一点。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4287@17/description",
+        "1916_Hughes_Burkett/answers_json/4287@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "My history as Governor of New York shows that I can balance the need for reform with respect for established institutions.",
+      "sha256": "641117bed4a39540b177d66ddd334b0b1bc7e11279959d43fd6377071075c398",
+      "zh": "我担任纽约州州长的经历表明，我能够在改革需要与尊重现有制度之间取得平衡。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4288@18/description",
+        "1916_Hughes_Burkett/answers_json/4288@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "Obviously it is helpful to remind the voters of my achievements, but our primary focus should be on Woodrow Wilson and the issues of 1916.",
+      "sha256": "1ba59369ad92a293e6ab6bacd3c5c5c9cf8decc644490a96bdc1d1eab86c723f",
+      "zh": "显然，提醒选民我的政绩很有帮助，但我们应当主要关注伍德罗·威尔逊和1916年的议题。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4289@19/description",
+        "1916_Hughes_Burkett/answers_json/4289@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 66,
+      "source": "We will plan our own visit to that state, and call upon the Governor and his opponents equally, to avoid giving offense.",
+      "sha256": "a04294183ee6bb446fdc405dde9b6220d2dc705c1fe20d788dc1ffd36583de2f",
+      "zh": "我们将自行安排赴该州的行程，对州长和他的对手一视同仁地拜访，以免得罪任何一方。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4290@20/description",
+        "1916_Hughes_Burkett/answers_json/4290@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 67,
+      "source": "It's best not to wade into the middle of a controversy -- we should not make any large trip to California during this campaign.",
+      "sha256": "d94dd5de55d79cedc2870096e08586936457ee9ad644449012e2c6e33a39c5e1",
+      "zh": "最好别卷入争端——这次竞选中，我们不应大张旗鼓地前往加利福尼亚州。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4291@21/description",
+        "1916_Hughes_Burkett/answers_json/4291@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 68,
+      "source": "The Governor of California can barely be called a Republican. We will coordinate our itinerary with the established party apparatus on our visit.",
+      "sha256": "2c082a9c0d7fb98d627deb5de47a7bc38dbb52a3424de21e0352f3224b11ad9b",
+      "zh": "加利福尼亚州州长简直算不上共和党人。访问期间，我们会与现有的党组织协调行程。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4292@22/description",
+        "1916_Hughes_Burkett/answers_json/4292@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 69,
+      "source": "I would actually redouble the points that Roosevelt is making about our lack of military preparation.",
+      "sha256": "fbc5a9742274d53969c5368e83bcf3be424b64aef3e60bcbe18670ff7ba26614",
+      "zh": "实际上，我会进一步强化罗斯福对我国军事准备不足的批评。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4293@23/description",
+        "1916_Hughes_Burkett/answers_json/4293@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 70,
+      "source": "I'm not going to comment on the speeches of Teddy Roosevelt -- there is too much to lose in antagonizing him.",
+      "sha256": "a9b553a074b27483fad507ee41929453d4735b1092d2bb68aad848f07f8b6722",
+      "zh": "我不会评论泰迪·罗斯福的演说——得罪他的代价太大了。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4294@24/description",
+        "1916_Hughes_Burkett/answers_json/4294@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 71,
+      "source": "I will emphasize that I am my own man, and that I believe the one-sided neutrality of Woodrow Wilson is at risk of pushing us into a war with Germany.",
+      "sha256": "e6d9ca9ab8514f52c8a5032f0df194035fe170b26eeac76d38a4088c2a28fe1d",
+      "zh": "我会强调自己有独立的主张，并认为伍德罗·威尔逊片面的中立政策，有把我们推入对德战争的危险。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4295@25/description",
+        "1916_Hughes_Burkett/answers_json/4295@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 72,
+      "source": "Wilson's impetuous actions in pushing this into law, with no chance for debate in Congress, are incorrect and dangerous.",
+      "sha256": "72a0cdd362d87c947ce16e56c1ae0ae88da0a6f6fe8e8517dffa8f9a3eb5d542",
+      "zh": "威尔逊不让国会有机会辩论，就急着推动这项法律通过，这种做法是错误而危险的。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4296@26/description",
+        "1916_Hughes_Burkett/answers_json/4296@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 73,
+      "source": "We all have different opinions about the Adamson Act, and I don't propose to make it a big part of my campaign speech.",
+      "sha256": "71c9f082ce94e2616ca56bffa48849e9b051ed96cfc22ccbd06be1f3c203fece",
+      "zh": "我们对《亚当森法》各有看法，我不打算让它成为竞选演说的重要内容。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4297@27/description",
+        "1916_Hughes_Burkett/answers_json/4297@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 74,
+      "source": "Wilson and I may have our differences on other issues, but I believe an eight-hour workday is broadly popular and worthy of praise.",
+      "sha256": "f8b9075a687df282796f3bc7f3e431c2e5da77c7245bd22f48ebb58b0be6c192",
+      "zh": "威尔逊和我在其他问题上也许有分歧，但我认为八小时工作制广受欢迎，值得赞扬。",
+      "keys": [
+        "1916_Hughes_Fairbanks/answers_json/4298@28/description",
+        "1916_Hughes_Burkett/answers_json/4298@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

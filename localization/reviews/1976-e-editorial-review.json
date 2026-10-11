@@ -1,0 +1,895 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "1976-e",
+  "uniqueSourcesReviewed": 66,
+  "recordPositions": 220,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 26,
+      "reason": "On the fence out his politics read contextually as about his politics; English unchanged."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "I am the President of the United States and we should exploit that fact. Show me presiding over the Bicentennial, meeting with Queen Elizabeth, and generally looking like a President. My record speaks for itself.",
+      "sha256": "c42cabaaf8393c199e1b57fca096f07ea06c1d3c39a0d76a352788b23453cbf6",
+      "zh": "我是美国总统，我们应充分利用这一点。展示我主持建国二百周年纪念活动、会见伊丽莎白女王，以及其他体现总统风范的场面。我的政绩不言自明。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3545@1/description",
+        "1976_Ford_Baker/answers_json/3545@1/description",
+        "1976_Ford_Anderson/answers_json/3545@0/description",
+        "1976_Ford_Connally/answers_json/3545@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "We barely defeated Ronald Reagan to win our nomination in the first place. We should take conservative positions and make sure we shore up our support in that area.",
+      "sha256": "13939e5ddc392cb6bc9da93c555a42b9bd473afe3d77545e25c7c8d6cf54fce8",
+      "zh": "我们当初只是勉强击败罗纳德·里根，才赢得提名。我们应采取保守立场，确保巩固这方面的支持。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3546@2/description",
+        "1976_Ford_Baker/answers_json/3546@2/description",
+        "1976_Ford_Anderson/answers_json/3546@1/description",
+        "1976_Ford_Connally/answers_json/3546@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "Who is this Jimmy Carter person anyway? He's untested and takes both sides of every important issue. We need to make sure people understand that.",
+      "sha256": "8f3874eda297e1f39fe2987572c83011f02479e26a8f615dbddf79091504123b",
+      "zh": "这个吉米·卡特到底是谁？他未经考验，在每个重要问题上都两边讨好。我们必须让人们明白这一点。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3547@3/description",
+        "1976_Ford_Baker/answers_json/3547@3/description",
+        "1976_Ford_Anderson/answers_json/3547@2/description",
+        "1976_Ford_Connally/answers_json/3547@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "I'm an approachable, open guy with an open Administration. Let's emphasize my mainstream values and positions, and avoid extremist rhetoric or attacks on Jimmy Carter.",
+      "sha256": "5aa63476cca419882882d5d049ff3d00bd7d26bb7b0167fcc92504bdc4cbd5c4",
+      "zh": "我是个平易近人、坦率的人，领导着一个开放的政府。我们应强调我符合主流的价值观和立场，避免极端言辞或攻击吉米·卡特。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3548@4/description",
+        "1976_Ford_Baker/answers_json/3548@4/description",
+        "1976_Ford_Anderson/answers_json/3548@3/description",
+        "1976_Ford_Connally/answers_json/3548@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "I will let the cameras into the White House so the people can see for themselves. I'm a normal, approachable, friendly President. I didn't spend my whole life trying to run for the office.",
+      "sha256": "32219cd5c7b38d581851b05be80822064a1f21e0fedd52b0bfae05a1080c12a1",
+      "zh": "我会让摄像机进入白宫，让人民亲眼看看。我是个普通、平易近人、友善的总统，并没有一辈子都在谋划竞选这个职位。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3549@5/description",
+        "1976_Ford_Baker/answers_json/3549@5/description",
+        "1976_Ford_Anderson/answers_json/3549@4/description",
+        "1976_Ford_Connally/answers_json/3549@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "I've taken our country and led it past the nightmares of Watergate and Vietnam. Anyone can see that I've led an open, honest Administration.",
+      "sha256": "dfc46efdf28c1971963748b91af5197b423a96a669a8c2f0ed878d87c3934d89",
+      "zh": "我已经带领国家走出水门事件和越南战争的噩梦。谁都看得出，我领导的是一个公开、诚实的政府。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3550@6/description",
+        "1976_Ford_Baker/answers_json/3550@6/description",
+        "1976_Ford_Anderson/answers_json/3550@5/description",
+        "1976_Ford_Connally/answers_json/3550@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "Honesty and integrity is one thing, but voters want to hear about solutions. I've led our economy back from a steep recession while passing a tax cut for the American people.",
+      "sha256": "e4d3e7cbcf2a2e4abff759cd456dc320c875faacc9ff0ba824276d8fc6aa7011",
+      "zh": "诚实与廉正是一回事，但选民想听的是解决办法。我已经带领经济走出严重衰退，同时为美国人民实行了减税。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3551@7/description",
+        "1976_Ford_Baker/answers_json/3551@7/description",
+        "1976_Ford_Anderson/answers_json/3551@6/description",
+        "1976_Ford_Connally/answers_json/3551@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "What about the honesty and integrity of Jimmy Carter? Whether it's abortion, gun control, busing, or labor, he's taken both sides of too many issues to count.",
+      "sha256": "399d38258d3ea4a1f2d37733cb9c6d50f866272ecd7b3c0a5885d2d30f166d1f",
+      "zh": "那吉米·卡特的诚实与廉正呢？不论堕胎、枪支管制、校车接送还是劳工，他在太多问题上两边都说过好话，多得数不清。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3552@8/description",
+        "1976_Ford_Baker/answers_json/3552@8/description",
+        "1976_Ford_Anderson/answers_json/3552@7/description",
+        "1976_Ford_Connally/answers_json/3552@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 8,
+      "source": "I agree. We can't have this kind of thing on the Ford Administration. He should leave immediately.",
+      "sha256": "1420d64a71cbac9fa4791e68a270d06c0d2010f28c684c5a25945250db57a82f",
+      "zh": "我同意。福特政府不能容忍这种事情。他应立即离职。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3553@9/description",
+        "1976_Ford_Baker/answers_json/3553@9/description",
+        "1976_Ford_Anderson/answers_json/3553@8/description",
+        "1976_Ford_Connally/answers_json/3553@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "Let's have him leave the day that the article comes out. That way the connection is clear.",
+      "sha256": "0f781c03fe1c4ca575b9b53a84769928cc105df2ea82b64abd09592fb90b8c70",
+      "zh": "让他在文章发表当天离职吧。这样，两件事的关系就很清楚了。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3554@10/description",
+        "1976_Ford_Baker/answers_json/3554@10/description",
+        "1976_Ford_Anderson/answers_json/3554@9/description",
+        "1976_Ford_Connally/answers_json/3554@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "Let's wait and see and how the public reacts to this.",
+      "sha256": "6990663361e2d4ec7baa7b98b0ac42544b0b0021f78d3fb827e09c13fb40bf37",
+      "zh": "先等等，看看公众会怎么反应。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3555@11/description",
+        "1976_Ford_Baker/answers_json/3555@11/description",
+        "1976_Ford_Anderson/answers_json/3555@10/description",
+        "1976_Ford_Connally/answers_json/3555@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "A couple of bad jokes shouldn't ruin someone's career. Let's keep him on board.",
+      "sha256": "98591e85b91162b63cb5da23f8ba60b2ea2cd214feb962e5f74e4ddfd9d8b927",
+      "zh": "几个糟糕的笑话，不应该毁掉一个人的职业生涯。让他留下吧。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3556@12/description",
+        "1976_Ford_Baker/answers_json/3556@12/description",
+        "1976_Ford_Anderson/answers_json/3556@11/description",
+        "1976_Ford_Connally/answers_json/3556@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": "Not really. I'm the President and Carter is an upstart from Georgia. Let's keep it that way.",
+      "sha256": "01fcf057a6c8742ad2907c98e31414f1018c2961722b76373aa75185fddabc8a",
+      "zh": "不太想。我是总统，卡特只是佐治亚州来的新晋人物。还是维持这个局面吧。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3557@13/description",
+        "1976_Ford_Baker/answers_json/3557@13/description",
+        "1976_Ford_Anderson/answers_json/3557@12/description",
+        "1976_Ford_Connally/answers_json/3557@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "I think this is a good idea, and we need something to shake this campaign up.",
+      "sha256": "c4fab75d179c8ce96e2f4fe740c35b1c02a82938400aed366311c2784c8451d7",
+      "zh": "我认为这是个好主意，我们也需要一些事情来改变竞选局势。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3558@14/description",
+        "1976_Ford_Dole/answers_json/3559@15/description",
+        "1976_Ford_Dole/answers_json/3560@16/description",
+        "1976_Ford_Baker/answers_json/3558@14/description",
+        "1976_Ford_Baker/answers_json/3559@15/description",
+        "1976_Ford_Baker/answers_json/3560@16/description",
+        "1976_Ford_Anderson/answers_json/3558@13/description",
+        "1976_Ford_Anderson/answers_json/3559@14/description",
+        "1976_Ford_Anderson/answers_json/3560@15/description",
+        "1976_Ford_Connally/answers_json/3558@15/description",
+        "1976_Ford_Connally/answers_json/3559@16/description",
+        "1976_Ford_Connally/answers_json/3560@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "This is an issue that has been blown way out of proportion. In many of these cases, I've proposed my own alternative to a given bill, and Congress has acted on it.",
+      "sha256": "7241f574af93b515f2095463a84c9abaf8985623ed7023bb5c5d92ae553ee496",
+      "zh": "这个问题被严重夸大了。在许多情况下，我都为有关法案提出过自己的替代方案，而国会也采取了行动。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3564@17/description",
+        "1976_Ford_Baker/answers_json/3564@17/description",
+        "1976_Ford_Anderson/answers_json/3564@19/description",
+        "1976_Ford_Connally/answers_json/3564@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "The Democrats, with their huge majorities, have passed bill after bill outside of the American mainstream. I've been left with little choice.",
+      "sha256": "24a93f2d72be4e9f575475d2c545fbee477f465cef6c78b604ac8a42a86d8a49",
+      "zh": "民主党凭借庞大的多数，一部接一部通过偏离美国主流的法案。我几乎别无选择。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3565@18/description",
+        "1976_Ford_Baker/answers_json/3565@18/description",
+        "1976_Ford_Anderson/answers_json/3565@20/description",
+        "1976_Ford_Connally/answers_json/3565@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "Congress is simply too liberal to be a useful partner in government right now. I hope that the American people will elect Republican congressman to be my partners over the next four years.",
+      "sha256": "dd25a5717811754e685af9b72d7bae521711f70c83a129fff140a20080fdc3f2",
+      "zh": "眼下，国会过于自由派，无法成为有用的执政伙伴。我希望美国人民选出共和党议员，在未来四年与我合作。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3566@19/description",
+        "1976_Ford_Baker/answers_json/3566@19/description",
+        "1976_Ford_Anderson/answers_json/3566@21/description",
+        "1976_Ford_Connally/answers_json/3566@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "The American people deserve to hear the truth. I support this strategy.",
+      "sha256": "772d3fccfd7a3e7db250a5739a97f6d263ffaf913f49e20d649129080178f542",
+      "zh": "美国人民有权听到真相。我支持这个策略。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3567@20/description",
+        "1976_Ford_Baker/answers_json/3567@20/description",
+        "1976_Ford_Anderson/answers_json/3567@22/description",
+        "1976_Ford_Connally/answers_json/3567@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "Maybe some limited spots, asking if we really know who Jimmy Carter is. Or attacking him on one of these issues. But let's not go overboard.",
+      "sha256": "007c2d8f846b7b536f6b201bbeda5411e257f49e0b126c707c0ae48eebad9761",
+      "zh": "或许可以做一些有限的短广告，问问我们是否真的了解吉米·卡特，或就其中某个议题攻击他。但不要过火。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3568@21/description",
+        "1976_Ford_Baker/answers_json/3568@21/description",
+        "1976_Ford_Anderson/answers_json/3568@23/description",
+        "1976_Ford_Connally/answers_json/3568@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "The problem is, if we go negative against Carter, he's sure to hammer us on the Nixon pardon. We really have a lot to lose here.",
+      "sha256": "d532d333a1619b0bc17ca12cca3a045809da98062a31d60c4a48e18be39b04ef",
+      "zh": "问题是，如果我们对卡特发动负面攻势，他肯定会拿赦免尼克松来猛攻我们。我们在这里确实有很大风险。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3569@22/description",
+        "1976_Ford_Baker/answers_json/3569@22/description",
+        "1976_Ford_Anderson/answers_json/3569@24/description",
+        "1976_Ford_Connally/answers_json/3569@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "This is great. We need any good news we can get at this point.",
+      "sha256": "c02211bb471b2ea10b2c92b1b1bf3f5d2ba79a0d2d2a54a60777b1f3452cfbb0",
+      "zh": "太好了。眼下，只要是好消息，我们都需要。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3570@23/description",
+        "1976_Ford_Baker/answers_json/3570@23/description",
+        "1976_Ford_Anderson/answers_json/3570@25/description",
+        "1976_Ford_Connally/answers_json/3570@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "I will hold a press conference and remind people that we really don't know anything about this guy. What other hidden, perverse notions does he have?",
+      "sha256": "38985372b459fc60363ce3d42a6c55661af591b7f1226aad68c604111a7f8104",
+      "zh": "我会召开记者会，提醒人们，我们其实对这个人一无所知。他还有什么隐而不露、反常的想法？",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3571@24/description",
+        "1976_Ford_Baker/answers_json/3571@24/description",
+        "1976_Ford_Anderson/answers_json/3571@26/description",
+        "1976_Ford_Connally/answers_json/3571@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Bob Dole is a staunch conservative who really sets the tone for the direction I want to take.",
+      "sha256": "d8609f97b8931e455af2d6dbfa2616438ff168526f77437766c03757498c6995",
+      "zh": "鲍勃·多尔是坚定的保守派，真正体现了我想要前进的方向。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3572@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "Bob Dole is the type of Republican that the entire party can get behind, and he has served his home state of Kansas well.",
+      "sha256": "c9105b6e9ae5610388c3941d4742ad806c5cb753a400c049e8653fa9148d19c6",
+      "zh": "鲍勃·多尔是全党都能支持的共和党人，也为家乡堪萨斯州尽心服务。",
+      "keys": [
+        "1976_Ford_Dole/answers_json/3573@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "This is probably your best strategy. The voters like Carter for now, but hopefully some will think twice about his leadership as election day approaches.",
+      "sha256": "e81d045c442d15e01b961bb5d69d9f05d767b12402bc2c3274d439059195eec1",
+      "zh": "这大概是你最好的策略。选民眼下喜欢卡特，但希望随着选举日临近，有些人会重新考虑他的领导能力。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1100@59/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1100@57/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1100@52/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1100@55/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Reagan's supporters are just a vocal minority right now. It's good to unite the party, but will this really help you beat Jimmy Carter in 1976?",
+      "sha256": "ee0e33bb8820e4ba3467aeb874afa9db4281728caa1c5fddd5743503a0cd2f35",
+      "zh": "里根的支持者目前只是声音很大的少数派。团结全党固然好，但这真的有助于你在1976年击败吉米·卡特吗？",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1101@60/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1101@58/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1101@53/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1101@56/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "It's risky to attack Carter so heavily. Voters like him as a person -- even some who might be on the fence out his politics or readiness for office.",
+      "sha256": "1056824d8a6890ef54183fcba2d36ccd867e8f3b179aa50eac41b32736aea796",
+      "zh": "如此猛烈地攻击卡特很冒险。选民喜欢他的为人，甚至包括一些对他的政治主张或任职准备仍然犹豫的人。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1102@61/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1102@59/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1102@54/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1102@57/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "This is a good strategy. You need to make the case that you've also acted with integrity in office, given the climate of this year's election.",
+      "sha256": "7af815b7f80b5ecfc6ed59db2703e7e7b3950a1c90e1d26a0441c5b746b39cfc",
+      "zh": "这是个好策略。鉴于今年选举的氛围，你必须说明，自己执政时同样坚守了廉正。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1103@62/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1104@63/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1105@64/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1103@60/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1104@61/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1105@62/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1103@55/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1104@56/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1105@57/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1103@58/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1104@59/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1105@60/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "This is out of step with the current mood. Voters <em>do</em> want to hear about honesty and integrity.",
+      "sha256": "504b9e49b62c81d695900fb479b71552123ed367e8716ec96233ab754f99de04",
+      "zh": "这与当前情绪不符。选民<em>确实</em>想听到诚实与廉正。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1106@65/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1106@63/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1106@58/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1106@61/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "It's risky to attack Carter so heavily. Voters like him as a person -- even some who might be on the fence about his politics or readiness for office.",
+      "sha256": "51a2f9fc21fd698aed628640987baf128d80073c85293309ec60bc5cd36487f3",
+      "zh": "如此猛烈地攻击卡特很冒险。选民喜欢他的为人，甚至包括一些对他的政治主张或任职准备仍然犹豫的人。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1107@66/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1107@64/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1107@59/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1107@62/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "This is a good, proactive step that helped minimize the damage from Butz's gaffe.",
+      "sha256": "eadb5c98a964faa14b33df71165073c734558daa2e6fc2319796b7cf35fa2e14",
+      "zh": "这是积极而明智的一步，有助于尽量减轻巴茨失言造成的损害。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1108@67/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1109@68/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1108@65/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1109@66/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1108@60/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1109@61/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1108@63/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1109@64/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "The reaction is not too good, overall. You quickly decide that Butz must go, but you got a couple days of embarrassing press first.",
+      "sha256": "cfef1cc5c61f36d047841c3d9973aca367b5e593ccfb54735182f88031928054",
+      "zh": "总体而言，反应不太好。你很快决定巴茨必须离职，但在此之前，已经有了几天令人尴尬的报道。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1110@69/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1110@67/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1110@62/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1110@65/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "Eventually, after a few days of uproar, your party makes it clear that Butz must go. Unfortunately, this has been a huge distraction and has made you look pretty bad on the evening news.",
+      "sha256": "1160aa1e09be740eb26dbd326d9c26408eaae06c4970e2ad06f2312081bc8b8a",
+      "zh": "闹了几天之后，党内最终明确表示，巴茨必须离职。不幸的是，这件事严重分散了竞选精力，也让你在晚间新闻里显得很糟。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1111@70/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1111@68/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1111@63/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1111@66/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "You need any help you can get right now. Why would you not want to debate on national television?",
+      "sha256": "09ba3b2fe269f12c818fb8265ba0309d56cbea2aa20718d4f19c31efbf579c78",
+      "zh": "眼下，你需要一切可能的帮助。为什么不想在全国电视上辩论？",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1112@71/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1112@69/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1112@64/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1112@67/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "You performed pretty well in these debates. Furthermore, as the election gets closer, the economy is improving and voters are giving things a closer look...",
+      "sha256": "cb62036fd15a2f75d49df74815698f49abbb90e05bb815fe8c5a4968867b95e5",
+      "zh": "你在这些辩论中的表现相当不错。而且，随着选举临近，经济正在改善，选民也开始更仔细地审视局势……",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1113@72/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1113@70/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1113@65/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1113@68/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "You performed well, except for an unfortunate gaffe about the Soviet Union and Eastern Europe. Furthermore, as the election gets closer, the economy is improving and voters are giving things a closer look...",
+      "sha256": "c4dbb66e2ff1caeaff9e6bf8d73287c00fc0b1fcd48062efbb81b18b43038213",
+      "zh": "除了关于苏联和东欧的一次不幸口误，你的表现不错。而且，随着选举临近，经济正在改善，选民也开始更仔细地审视局势……",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1114@73/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1115@74/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1114@71/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1115@72/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1114@66/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1115@67/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1114@69/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1115@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "It is true that relations with Congress have been stormy. But what else can you expect when the House is mostly Democrat, and you're a Republican?",
+      "sha256": "1503ba2be60d92fd331bbcf091ffda2a10aca131c541f26acec1702db95482a1",
+      "zh": "你与国会的关系确实风波不断。不过，众议院大多是民主党人，你却是共和党人，还能指望什么？",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1116@75/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1116@73/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1116@68/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1116@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "This is a nice thing to hope for, but for the moment there are a lot of popular Democratic Congressmen in states that you need to win. Tactfulness might be the better strategy.",
+      "sha256": "1cc0879dba4dfe4ce8f1c0fd8147106e114bed16e27f2889299727b9ed665a3b",
+      "zh": "这个愿望当然不错，但眼下，你需要赢下的州里，有许多受欢迎的民主党众议员。措辞圆融一点，或许是更好的策略。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1117@76/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1117@74/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1117@69/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1117@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "The attacks do stick a little bit, but the issue of your Nixon pardon always lingers in the background.",
+      "sha256": "36b32e04afe2237a6a14e226a9bafa0bad8c3d68c1919afb367716ac4b59b6d5",
+      "zh": "这些攻击多少起了作用，但赦免尼克松的问题始终在背后挥之不去。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1118@77/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1118@75/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1118@70/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1118@73/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "This is probably the best strategy. A few attacks on legitimate issues, but not so many that your campaign looks petty and negative.",
+      "sha256": "fee52e2a10b04f01867cd4cfa4be262fefb4e0e3fd9e26526c82b08e8cbb9d4f",
+      "zh": "这大概是最好的策略。针对实际议题作一些攻击，但不要多到让竞选显得琐碎、负面。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1119@78/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1119@76/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1119@71/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1119@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Fair enough. This doesn't really hurt you, but you need things to break your way fast if you're going to catch up with Carter.",
+      "sha256": "ab8c4852127dd95858522f88ec9599e059dfc6524278f5cc2b58860c362e50c7",
+      "zh": "也有道理。这并不会真的伤害你，但如果想追上卡特，你需要局势迅速转向对你有利。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1120@79/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1120@77/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1120@72/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1120@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "This is a no-brainer. Just sit back and let Carter shoot himself in the foot.",
+      "sha256": "405c2e48756d5ede4c6bc3786e6c73d19ddf618726160c3e8a71e34f694c26a6",
+      "zh": "这不用动脑筋。坐着看卡特搬起石头砸自己的脚就行。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1121@80/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1121@78/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1121@73/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1121@76/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Voters are talking about Carter's poor judgment in doing a Playboy interview -- and about your weird, awkward attempt to pile on...",
+      "sha256": "c49bcf8fed3081617acce1b82836f0e117fda43c3d0d18530077f48f8bb6f83d",
+      "zh": "选民在议论卡特接受《花花公子》采访的糟糕判断，也在议论你趁机追打时那种奇怪、尴尬的表现……",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1122@81/answer_feedback",
+        "1976_Ford_Baker/answer_feedback_json/1122@79/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1122@74/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1122@77/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "Bob Dole is an unexpected choice for running mate, but it could work out well this fall.",
+      "sha256": "ccc70da802c3c9feb9b2a39f600f6e7939b775d808968dc968ed053f4910b34d",
+      "zh": "鲍勃·多尔是出人意料的搭档选择，但在秋季可能会有好效果。",
+      "keys": [
+        "1976_Ford_Dole/answer_feedback_json/1123@82/answer_feedback",
+        "1976_Ford_Dole/answer_feedback_json/1124@83/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "You have selected Howard Baker as your running mate. Can you speak a little more about that?",
+      "sha256": "8000b4061110be729b8cb3e53fe1a3a2069e099ff5d1794fe21969c5aa4ba663",
+      "zh": "你选择了霍华德·贝克作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Ford_Baker/questions_json/411@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "Howard Baker knows how to get things done in Washington, and he has always fought hard for the Republican agenda.",
+      "sha256": "57102a3ff2a162a23d4a7e4035a250e21733186b73f722e216645129af97804f",
+      "zh": "霍华德·贝克懂得如何在华盛顿把事情办成，也始终为共和党的议程奋力工作。",
+      "keys": [
+        "1976_Ford_Baker/answers_json/3576@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "Howard Baker has served his home state of Tennessee well, and he is the best man for the job.",
+      "sha256": "cf05e7e58e64a85c209887577dcbc2c57536307c552192f63f05fd40fd5a0d63",
+      "zh": "霍华德·贝克为家乡田纳西州尽心服务，是担任这个职位的最佳人选。",
+      "keys": [
+        "1976_Ford_Baker/answers_json/3577@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "Howard Baker is a good guy to have at your side.",
+      "sha256": "7357291431952ca74a4dc92fd9131173d63d56a274ec7b0edb6ba84ce18793b0",
+      "zh": "霍华德·贝克是个值得与你并肩的人。",
+      "keys": [
+        "1976_Ford_Baker/answer_feedback_json/1127@80/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "Howard Baker is a good guy to have at your side. Just don't expect him to help much in Tennessee against a guy like Carter.",
+      "sha256": "ba33d5b2c0f69dbe32e027842d58a7f7c1d7cf390a4ddbdb983ad09d1330de03",
+      "zh": "霍华德·贝克是个值得与你并肩的人。只是别指望面对卡特这样的对手，他能在田纳西州帮上太多。",
+      "keys": [
+        "1976_Ford_Baker/answer_feedback_json/1128@81/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "You have selected John Anderson as your running mate. Can you speak a little more about that?",
+      "sha256": "d3eec09a141b9b818ded71fa7fca2bbe727578912ac8382778a037c659cda392",
+      "zh": "你选择了约翰·安德森作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Ford_Anderson/questions_json/412@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "Ronald Reagan and some of his allies can't hide their disappointment in your running mate, and some of them are even saying Carter is better than a Ford-Anderson Administration. Do you have any comment?",
+      "sha256": "654dfa9ed153c7e3280f41346eb587ef97bcd1d656efb72f2bfc04747a616c6e",
+      "zh": "罗纳德·里根和他的一些盟友，掩饰不住对你搭档选择的失望，甚至有人说卡特也比福特—安德森政府更好。你有什么评论？",
+      "keys": [
+        "1976_Ford_Anderson/questions_json/413@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "Betty Ford is out there making some pretty bold statements about sexuality, marijuana, and other topics. Conservatives want to know if you can have a quiet chat with her to tone it down a bit.",
+      "sha256": "a7f23a4c9c774b18af2fb3deb6a9ac139c9d9c99a29622af49789865db44572b",
+      "zh": "贝蒂·福特正在公开谈论性、大麻等话题，言论颇为大胆。保守派想知道，你能否私下与她谈谈，让她收敛一点。",
+      "keys": [
+        "1976_Ford_Anderson/questions_json/405@18/description",
+        "1976_Ford_Connally/questions_json/405@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "I've tried to explain to her that we have an election coming up, and we don't need all this bad press, but she won't listen.",
+      "sha256": "b3553bdebe59e8c7df73fffb58c45420ea282b703e99699a55c618576739f7bf",
+      "zh": "我已经试着向她解释，大选临近，我们不需要这些负面报道，但她不肯听。",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3561@16/description",
+        "1976_Ford_Connally/answers_json/3561@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "What do you want me to say? She's my wife. Can't people find something better to worry about?",
+      "sha256": "38bcb1b55057704379626d4990397f87f314abde13ad99bb7ca309296ef38fe6",
+      "zh": "你们想让我说什么？她是我妻子。难道大家就找不到更值得担心的事吗？",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3562@17/description",
+        "1976_Ford_Connally/answers_json/3562@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "My wife's public approval rating is something like 75%. I wish I had her touch with the media.",
+      "sha256": "c7aca6f2fd69cd9970caf4dd02f331e1b585a95b5ea0d2862b7f75f47db5ea83",
+      "zh": "我妻子的公众支持率好像有75%。真希望我也有她应对媒体的本领。",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3563@18/description",
+        "1976_Ford_Connally/answers_json/3563@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "John Anderson always speaks his mind and fights for what he believes in. These are the kind of people we need in my next Administration.",
+      "sha256": "9c05032aa882fcd23f2a51546c6e4cdade6c3d5e519f2c9beb13a487e9c0d98d",
+      "zh": "约翰·安德森始终直言自己的想法，为信念而奋斗。我的下届政府正需要这样的人。",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3578@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "John Anderson has served his home state of Illinois well, and he is the best man for the job.",
+      "sha256": "ca06e2453379ebadf0aba3ce1e90bf1ef3c54fe6339165db59e91c65091f75fb",
+      "zh": "约翰·安德森为家乡伊利诺伊州尽心服务，是担任这个职位的最佳人选。",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3579@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "John Anderson is a lifelong Republican and he has the right views on all the important issues for our country. We need a guy like him if we hope to win the independent voters away from Jimmy Carter.",
+      "sha256": "d3bdd8b527a03554a8e0e1d15146198d1a9c1e28ebd05e7bf2142c4ae4f2e76b",
+      "zh": "约翰·安德森终身都是共和党人，对国家所有重要问题都有正确看法。如果我们希望从吉米·卡特那里争取独立选民，就需要他这样的人。",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3580@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "I think if Ronald Reagan hopes for a future in this party, he'd better toe the party line when it comes to our election this fall.",
+      "sha256": "96344b3b8d5807a7e00609ae3e1c05bb4295f591d051c3576a4d37d657944e1a",
+      "zh": "我认为，如果罗纳德·里根希望在本党有前途，就最好在今年秋季选举中遵守党的路线。",
+      "keys": [
+        "1976_Ford_Anderson/answers_json/3581@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "Anderson is an interesting choice. Let's see how it works out.",
+      "sha256": "aa850ef98a3ee7b93b681baa21885e466c7e4465056e3d58459126f09138248c",
+      "zh": "安德森是个有意思的选择。看看效果如何吧。",
+      "keys": [
+        "1976_Ford_Anderson/answer_feedback_json/1129@75/answer_feedback",
+        "1976_Ford_Anderson/answer_feedback_json/1130@76/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 60,
+      "source": "Your base is a bit deflated at the choice of Anderson. There's no other way to really put it. Let's hope you can win the Midwest this fall to compensate.",
+      "sha256": "f131e2dcbaacaf4fa034bc52312762acb917a3e460124cc704fe1b8e3695bdc0",
+      "zh": "选择安德森，让基本盘有些泄气。这实在没有别的说法。希望你秋季能赢下中西部，作为补偿。",
+      "keys": [
+        "1976_Ford_Anderson/answer_feedback_json/1131@77/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 61,
+      "source": "Reagan has a substantial following among Republicans, and you should probably be more diplomatic when you talk about him.",
+      "sha256": "a800ff246560d016e395fbb2a4316625420f89cc1f6025ffa851c4e68fb63fdb",
+      "zh": "里根在共和党人中有相当多的追随者，谈到他时，你或许应该更圆融一些。",
+      "keys": [
+        "1976_Ford_Anderson/answer_feedback_json/1132@78/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 62,
+      "source": "You have selected John Connally as your running mate. Can you speak a little more about that?",
+      "sha256": "4227a225c5dd94c0199b90eefe1121ce256d855f86820406fe1d05d116eaa7b2",
+      "zh": "你选择了约翰·康纳利作为竞选搭档。能再谈谈这项选择吗？",
+      "keys": [
+        "1976_Ford_Connally/questions_json/414@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 63,
+      "source": "John Connally has served his home state of Texas well, and he is the best man for the job.",
+      "sha256": "12af8fcafef9a85349ddba7dc1ba157c06fbe533433fda083dd597b00415c5ae",
+      "zh": "约翰·康纳利为家乡得克萨斯州尽心服务，是担任这个职位的最佳人选。",
+      "keys": [
+        "1976_Ford_Connally/answers_json/3583@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 64,
+      "source": "Connally was a loyal Democrat for many years, but anyone can see how their party has lurched away from the mainstream. I think he can remind Americans that Republicans are the sensible, governing party in this country.",
+      "sha256": "871e6e609704506f1a9aeed484acb27a87ef3a3ec11b92306926215392af4ac0",
+      "zh": "康纳利曾忠于民主党多年，但谁都看得出，民主党已经猛然偏离主流。我认为，他能提醒美国人：共和党才是这个国家理性、能够执政的政党。",
+      "keys": [
+        "1976_Ford_Connally/answers_json/3582@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 65,
+      "source": "Hopefully, Connally can help you win Texas. Even if he's conservative on some issues, he's also a big time insider and a long-time Democrat.",
+      "sha256": "439bb4d2ad93a6d9fb7c585b0ef629affcc3ee6bf8888a5b5a7cbcfbde9d7b88",
+      "zh": "希望康纳利能帮你赢下得克萨斯州。即使他在某些议题上保守，他也仍是个资深圈内人，并曾长期是民主党人。",
+      "keys": [
+        "1976_Ford_Connally/answer_feedback_json/1133@78/answer_feedback",
+        "1976_Ford_Connally/answer_feedback_json/1134@79/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

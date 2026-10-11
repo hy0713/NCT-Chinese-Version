@@ -1,0 +1,401 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2016a-g",
+  "uniqueSourcesReviewed": 31,
+  "recordPositions": 60,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 7,
+      "reason": "Bill wheelhouse idiom means alleged familiar behavior, not literal ship compartment; allegation not certified."
+    },
+    {
+      "index": 11,
+      "reason": "July-October China25%market decline is scripted hypothetical of March2016 scenario, not certified actual2016 Dow history."
+    },
+    {
+      "index": 13,
+      "reason": "Original17trillion amount retained, date/gross vs public debt distinction to research."
+    },
+    {
+      "index": 22,
+      "reason": "Deficit flow distinct from accumulated debt stock; original firstyear comparison retained."
+    },
+    {
+      "index": 25,
+      "reason": "Original as through read as as though, English unchanged."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "For all of the hype, pundits agree that nothing seemed to happen in these debates that will affect the race.",
+      "sha256": "f0cfa73170d53d8a97567d2da738b6656f6410bba1a2177b2776a0b160ff4c98",
+      "zh": "尽管大家炒得热火朝天，评论员一致认为，辩论中似乎没有发生会影响选情的事。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2161@50/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2161@41/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2161@48/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Unfortunately, Clinton seemed to get the best of you on a number of points during the debates.",
+      "sha256": "0d8446845200f91cec09624a51a8074925d8471ccea6c56838538b021cecfe7b",
+      "zh": "遗憾的是，在辩论的好几个问题上，克林顿似乎都胜过了你。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2162@51/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2162@42/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2162@49/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "After months of denials from liberal pundits, the Clinton email scandal does seem like it will have significant consequences on this election.",
+      "sha256": "b342e9c811433368cec580657e808a7655004c97e62c0a2f543f415ccb554a4f",
+      "zh": "自由派评论员否认了几个月之后，克林顿邮件丑闻看来确实会对这次选举造成重大影响。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2168@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "This seems remarkably hands-off for what appears to be a major scandal in the Clinton camp.",
+      "sha256": "00dcebaf18b1c3eadb4e1442aa2b0d34304b2555e5f4e6c26adc0a5e0f717b7e",
+      "zh": "克林顿阵营看起来出了重大丑闻，你竟然这么不愿插手，实在令人意外。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2169@53/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "If you're going to win, you need to make a few new friends ... or dampen enthusiasm for Hillary.",
+      "sha256": "b05e0668e98956aa4744d3f4d5250071f811600d54ed2010ac6a2a7579426df0",
+      "zh": "如果想赢，你就需要交几个新朋友，或者削弱大家对希拉里的热情……",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2224@68/answer_feedback",
+        "2016a_Trump_Brown/answer_feedback_json/2225@69/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2224@59/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2225@60/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2224@69/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2225@70/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "You're certainly raising eyebrows, but there's a grain of truth to what you're saying.",
+      "sha256": "b6b696eb8c88262ec1246ed580a71706dfe1038a7301b3c544e9b0cdb697747a",
+      "zh": "你确实让人侧目，但所说的也有一点道理。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2226@70/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2226@61/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2226@71/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Many voters, women in particular, are deeply offended by your unsubstantiated insinuations.",
+      "sha256": "1c82931af1b7f10bf83bf639d0b136fe033723b32cb8e2612bfde14a7f792070",
+      "zh": "许多选民，尤其女性，对你那些毫无根据的影射深感冒犯。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2233@71/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2233@62/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2233@72/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "You are specializing in gutter politics this year, although some have to uncomfortably admit that this might not be completely out of Bill's wheelhouse.",
+      "sha256": "5cfcd85180e32f5584ecd20f1a394000bca6e40430c1f2afc23eaff71385501a",
+      "zh": "你今年专攻低俗的政治攻击，不过有些人也不得不尴尬地承认，这种事或许并非完全超出比尔的惯常行为范围。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2234@72/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2234@63/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2234@73/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Sure enough, the mudslinging tone of your campaign continues.",
+      "sha256": "ab142ee2fa9a138f5398ecd1bcde9b9cfd724d18704ce056e64ed25a5ea442a3",
+      "zh": "果然，你的竞选继续保持着抹黑对手的论调。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2236@73/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2236@64/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2236@74/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "A few voters, women in particular, are offended by your insinuations. Others are just confused, or have learned to tune out your attacks.",
+      "sha256": "af342e43c474ee457b100cfc9665d603cde59fbb409704af48e76c4ab56c810a",
+      "zh": "一些选民，尤其女性，对你的影射感到冒犯。其他人只是困惑，或已经学会不理会你的攻击。",
+      "keys": [
+        "2016a_Trump_Brown/answer_feedback_json/2235@74/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2235@65/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2235@75/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "What was your rationale behind selecting Chris Christie as your running mate?",
+      "sha256": "9d9856b5f31033cc8787df34ff571b5f932659e425dbbc359fd373b762947d54",
+      "zh": "你选择克里斯·克里斯蒂作为竞选搭档，理由是什么？",
+      "keys": [
+        "2016_Trump_Christie/questions_json/1004@3/description",
+        "2016a_Trump_Christie/questions_json/776@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Beginning in July, the Dow Jones Industrial Average entered an extremely bearish stretch, based on news out of China, losing over 25% of its value by October. A recession seems likely. Will you address this as you campaign?",
+      "sha256": "27da817a2ac4a96f20beef003aea8cc5626caf7f0192e6223401aaac57f1c992",
+      "zh": "受中国传出的消息影响，道琼斯工业平均指数从七月开始进入极度看跌的阶段，到十月已损失超过25%的价值。经济似乎很可能衰退。你会在竞选中谈论这件事吗？",
+      "keys": [
+        "2016a_Trump_Christie/questions_json/781@4/description",
+        "2016a_Trump_Carson/questions_json/781@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Should Mitt Romney be given a speaking slot at the Republican Convention this year, given the tension between you two?",
+      "sha256": "13c21a8e59f22250ba53750185ac9224d61574511bec59fa773a9365bca9a653",
+      "zh": "考虑到你和米特·罗姆尼之间的紧张关系，今年共和党全国代表大会是否应该给他一个演讲时段？",
+      "keys": [
+        "2016_Trump_Carson/questions_json/1019@4/description",
+        "2016a_Trump_Christie/questions_json/766@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "How concerned are you about the $17 trillion debt that the United States currently owes?",
+      "sha256": "b5d2708fb0de7e7ea5cdc98eb8087a1aafa9e4ad84c9e214c3f2e5ae15ac4392",
+      "zh": "你对美国目前欠下的17万亿美元债务，有多担忧？",
+      "keys": [
+        "2016_Clinton_Brown/questions_json/1062@10/description",
+        "2016a_Trump_Christie/questions_json/826@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Absolutely not. I don't want him anywhere near the convention. He was a loser in 2012 and he'd lose again if we were crazy enough to give him the nomination.",
+      "sha256": "b305b77ff924cab63fe30b3846a05fdaf126c498a26e5e657f114e24ed128160",
+      "zh": "绝对不应该。我不想让他靠近大会。2012年他是个失败者，如果我们疯到再提名他，他还会再输。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4549@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "If Romney is willing to endorse me and give a speech supporting me, we can let him into the convention hall.",
+      "sha256": "8791859f3b0fb5c80746478e8d56605a41d90c6895f5e927374697a8e2bcd210",
+      "zh": "如果罗姆尼愿意支持我，并发表支持我的演说，我们可以让他进入大会会场。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4550@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Chris Christie has walked the walk as Governor of New Jersey. I'm going to work with the best people as President.",
+      "sha256": "7e9b3cd96f2916856046351103172105d1bbc352177f77afc9f838606fbcaf2f",
+      "zh": "克里斯·克里斯蒂担任新泽西州州长时，说到做到。我当上总统后，会与最优秀的人共事。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4573@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "America has been undermined for years now. I've been warning about trade with China this entire time, that Clinton and Obama have been signing off on. We have very stupid people in government.",
+      "sha256": "a66ebe22965a30fb6f4bf62d88e87e00f48176d3ecb0ceaed4c4146c13fb9ab0",
+      "zh": "美国这些年来不断被削弱。我一直警告，与中国的贸易有问题，而克林顿和奥巴马却一直同意放行。政府里有一些非常愚蠢的人。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4580@41/description",
+        "2016a_Trump_Carson/answers_json/4580@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "We're going to be having huge infrastructure projects to rebuild our country. We can't be dependent on China to power our economy or it will be a disaster.",
+      "sha256": "6763ca6c37e956df7aa78623cd953c463321d1f5b433d92ea3a8c1ed9b2ee72e",
+      "zh": "我们会开展大规模基础设施项目，重建国家。我们不能依赖中国来带动经济，否则将是一场灾难。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4581@42/description",
+        "2016a_Trump_Carson/answers_json/4581@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "This entire case is a farce from start to finish. It's a minor civil case.",
+      "sha256": "44fa65921e443ddba9cf1bc6b37af66de5f8a468a63364810f6cdf1827c0f97b",
+      "zh": "这整个案子从头到尾都是闹剧，不过是个小小民事案。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4586@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "I've apologized for my role in this university already, and I will again today.",
+      "sha256": "d9a5fd20f49239032ea68b073e54024d7bbc04e56804a031227fe96ead6ba84f",
+      "zh": "我已经为自己在这所大学中的角色道过歉，今天还会再道歉。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4587@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "This is absolutely obscene, and it's not going to keep growing when I am President.",
+      "sha256": "93421f30e7eccdab304ce1f8d07dce297fcfe37ce83d62d03103b1925945ff7f",
+      "zh": "这实在荒唐透顶。我当上总统后，它不会继续增长。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4696@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Barack Obama has reduced the deficit of this country by over half since his first year in office, and I will do anything I can to continue his policies.",
+      "sha256": "c1a0129b3fb725e03962c29d593e7247b3c01fcd812eef05bda03ac7855168a2",
+      "zh": "贝拉克·奥巴马把国家赤字从就职第一年的水平降低了一半以上，我会尽我所能，延续他的政策。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4697@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "I will increase taxes on wealthy Americans to stabilize the federal budget and reduce our debt.",
+      "sha256": "c478344d8c62f53075930f8fef0dd07dd344d7a8ba3f77579d74db9beeddbe3c",
+      "zh": "我会提高对富裕美国人的税收，以稳定联邦预算、减少债务。",
+      "keys": [
+        "2016a_Trump_Christie/answers_json/4698@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "This is factually true, although the deficit and debt remain very high.",
+      "sha256": "674fab6d2887d8dc0602fe1a705002d2da511704e59a5203724f97e70c7b6c52",
+      "zh": "这在事实上是对的，不过赤字与债务仍然很高。",
+      "keys": [
+        "2016a_Trump_Christie/answer_feedback_json/2070@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Now it looks as through you're shutting Romney out, which makes you look isolated, etc. and makes Mormons mad.",
+      "sha256": "0b3fa6ef4178f253d65fc4afaf1c3d13a14c285e50e0c0a0014626b375cb08f3",
+      "zh": "现在看来，你似乎在把罗姆尼拒之门外；这让你显得孤立无援等等，也让摩门教徒生气。",
+      "keys": [
+        "2016a_Trump_Christie/answer_feedback_json/2146@30/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "Probably best to avoid yet another controversy involving Romney.",
+      "sha256": "c5390ba68478e292c5b70e98a3ca40edeaaec764adfdb1ff74602915bb1340a0",
+      "zh": "大概最好别再引发一场与罗姆尼有关的争议。",
+      "keys": [
+        "2016a_Trump_Christie/answer_feedback_json/2147@31/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "People have been saying all along that a recession would make Clinton's chances harder, since Democrats would be somewhat incriminated.",
+      "sha256": "0b70e1760bfd22fca588ffd95d92434554d7e05257cbd6e2332060be746db45a",
+      "zh": "大家一直都在说，经济衰退会让克林顿更难取胜，因为民主党多少会受到牵连。",
+      "keys": [
+        "2016a_Trump_Christie/answer_feedback_json/2166@43/answer_feedback",
+        "2016a_Trump_Christie/answer_feedback_json/2167@44/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2166@50/answer_feedback",
+        "2016a_Trump_Carson/answer_feedback_json/2167@51/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "This is an unexpected area for you to praise Obama in.",
+      "sha256": "b48647d5fea29b757c15a59e522acb8c8bfef6c4cfa00c720159d2e01e0f0518",
+      "zh": "你竟然在这个领域赞扬奥巴马，令人意外。",
+      "keys": [
+        "2016a_Trump_Christie/answer_feedback_json/2205@52/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "What was your rationale behind selecting Ben Carson as your running mate?",
+      "sha256": "5dd5b0740c4407716abfddf20666c8d5470390c42827e816658af1ca291d50c8",
+      "zh": "你选择本·卡森作为竞选搭档，理由是什么？",
+      "keys": [
+        "2016_Trump_Carson/questions_json/1003@3/description",
+        "2016a_Trump_Carson/questions_json/775@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Ben Carson knows just how badly Clinton and Obama have failed the black community. Not to mention, he's a very patriotic, conservative figure who is more than qualified to be my Vice President.",
+      "sha256": "5cf0845e5e2aa42a468c9f9a94c942abad974e486fee6463912c9672fde475c1",
+      "zh": "本·卡森知道，克林顿和奥巴马把黑人社群辜负得有多严重。更不用说，他是一位非常爱国、保守的人物，担任我的副总统绰绰有余。",
+      "keys": [
+        "2016a_Trump_Carson/answers_json/4572@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

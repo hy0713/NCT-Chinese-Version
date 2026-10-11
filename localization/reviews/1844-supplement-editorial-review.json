@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-08",
+  "batch": "1844-supplement",
+  "uniqueSourcesReviewed": 2,
+  "recordPositions": 5,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "For better or worse, many view you as a protege of Andrew Jackson (some call you “Young Hickory”). Is it better to embrace this label, or to distance yourself from it?",
+      "sha256": "b1cda8f522e6006b8b07c43f7f690fd2211360db2b5267278e52de7665d508c4",
+      "zh": "不管是好是坏，许多人都把你视为安德鲁·杰克逊的门生，有人还称你为“小山核桃”。你应该接受这个称号，还是与它保持距离？",
+      "keys": [
+        "1844_Polk_Dallas/questions_json/616@13/description",
+        "1844_Polk_Woodbury/questions_json/616@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I will avoid any mention of Texas. The main focus of my acceptance will be an elucidation of my economic principles, including a national bank, a tariff, and internal improvemnets.",
+      "sha256": "d83b649dfebe342782f76632783080bde9dc9f53334a2efb67be8328b8755e95",
+      "zh": "我将完全不提得克萨斯。接受提名的信将主要阐明我的经济原则，包括国家银行、关税和国内公共工程。",
+      "keys": [
+        "1844_Clay_Frelinghuysen/answers_json/4158@5/description",
+        "1844_Clay_Sergeant/answers_json/4158@5/description",
+        "1844_Clay_Fillmore/answers_json/4158@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

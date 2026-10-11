@@ -1,0 +1,23 @@
+{
+ "results.closest_candidate_wins": ["Closest {candidate} Wins", "{candidate}获胜州：按竞争激烈程度"],
+ "results.highest_candidate_share": ["Highest {candidate} %", "{candidate}得票率：从高到低"],
+ "ui.switch_to_state_estimate": ["Switch to State Estimate", "查看州级民调"],
+ "menu.switch_to_english": ["English", "English"],
+ "menu.switch_to_chinese": ["简体中文", "简体中文"],
+ "ui.alphabetical": ["Alphabetical", "按英文州名排序"],
+ "ui.most_electoral_votes": ["Most Electoral Votes", "按选举人票排序"],
+ "ui.closest_states": ["Closest States", "按竞争激烈程度排序"],
+ "ui.default_winner_take_all": ["Default (Winner-Take-All)", "默认（胜者全得）"],
+ "ui.proportional": ["Proportional", "比例分配"],
+ "ui.sea_to_shining_sea": ["Sea to Shining Sea", "横跨两洋（竞选管理模式）"],
+ "ui.amount": ["Amount", "金额"],
+ "error.cheat_enabled": ["ARE YOU GETTING ALL THIS [Mike]!? I'M FINALLY\nI'M FINALLY GONNA BE A BIG SHOT!!!", "你都看到了吗，[迈克]！？我终于……\n我终于要成为大人物了！！！"],
+ "error.cheat_disabled": ["NOT COOL [Valued Player]! I'LL BE IN MY [Trailer]!", "不够酷，[尊贵的玩家]！我回[休息车]去了！"],
+ "error.cheat_permanent": ["HOLY [[Cungadero]] DO I FEEL GOOD ...", "天哪，我感觉好极了……永久辅助模式已开启。"],
+ "error.cheat_first_prompt": ["LOOKING FOR [Irresistible Cheat Codes] THAT WILL [Blow Your Mind!?]\nWELL [Shut Your Mouth] BECAUSE YOU ARE [A Redditor!]\nTRY A LITTLE [Friday Night Work Out]...\nTHEN I'LL SHOW YOU MY\nTHEN I'LL SHOW YOU MY\n1 LEFT.", "在找[让人无法抗拒的作弊码]吗？\n你这位[Reddit 用户]，先[闭上嘴]吧！\n来点[周五夜间锻炼]……\n然后我就给你看看……\n还差一次。"],
+ "error.cheat_second_prompt": ["DON'T WORRY! FOR OUR [No Time Back Guaranttee]\nTHIS IS [One Cheat Code] YOU WILL [Regret] FOR THE REST OF YOUR REDDIT POST!", "别担心！我们[不保证退还时间]。\n这是一个会让你在余下的 Reddit 帖子里都[后悔]的[作弊码]！"],
+ "error.cheat_heaven": ["[Heaven], are you WATCHING?", "[天堂]，你在看吗？"],
+ "effect.global": ["Global: Affects {affected} for {candidate} by {multiplier}", "全国效果：针对{candidate}，对{affected}的影响系数为{multiplier}"],
+ "effect.issue": ["Issue: Affects {issue} by {score} with a importance of {importance}", "议题效果：{issue}的立场分值为{score}，重要程度为{importance}"],
+ "effect.state": ["State: Affects {affected} for {candidate} in {state} by {multiplier}", "州级效果：针对{candidate}，对{affected}在{state}的影响系数为{multiplier}"]
+}

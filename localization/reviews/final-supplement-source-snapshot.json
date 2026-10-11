@@ -1,0 +1,442 @@
+[
+  {
+    "source": "<h3>It's a miracle! You have won the 2012 election.</h3> <p>Gary Johnson? Even the people who voted for you can't believe you won.</p> <p>You are the first third-party candidate to ever win the Presidency. Now go enact that Libertarian agenda!</p>",
+    "keys": [
+      "base/candidate_json/18@3/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry! You have lost the 2012 election.</h3> <p>But what did you expect? Your main goal was to get the Libertarian agenda out there and hope for a miracle.  The miracle never came.</p>",
+    "keys": [
+      "base/candidate_json/18@3/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry! You have lost the 2012 election.</h3> <p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. However, this  was entirely irrelevant to your chances as a third-party candidate.</p> <p>Better luck next time.</p>",
+    "keys": [
+      "base/candidate_json/18@3/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Wow! You have won the election.</h3><p>This has to rank as one of the biggest upsets in political history. Prepare to implement your radically progressive agenda in the United States of America!</p>",
+    "keys": [
+      "base/candidate_json/19@4/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry, you have lost.</h3><p>This was about what everyone expected. Good job. Good effort.</p>",
+    "keys": [
+      "base/candidate_json/19@4/electoral_loss_message",
+      "base/candidate_json/19@4/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations</h3>",
+    "keys": [
+      "base/candidate_json/27@5/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Better luck next time</h3>",
+    "keys": [
+      "base/candidate_json/27@5/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Interesting</h3>",
+    "keys": [
+      "base/candidate_json/27@5/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations!</h3>",
+    "keys": [
+      "base/candidate_json/29@6/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>oops</h3>",
+    "keys": [
+      "base/candidate_json/29@6/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>hmm</h3>",
+    "keys": [
+      "base/candidate_json/29@6/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "Congratulations!",
+    "keys": [
+      "base/candidate_json/22@37/electoral_victory_message",
+      "base/candidate_json/22@37/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "Better luck next time!",
+    "keys": [
+      "base/candidate_json/22@37/electoral_loss_message"
+    ]
+  },
+  {
+    "source": " electoral votes.",
+    "keys": [
+      "2020_Biden_Harris/ending/s0.l164.c87/text",
+      "2020_Biden_Rice/ending/s0.l164.c87/text",
+      "2020_Biden_Duckworth/ending/s0.l164.c87/text",
+      "2020_Biden_Demings/ending/s0.l164.c87/text",
+      "2020_Biden_Bass/ending/s0.l164.c87/text",
+      "2020_Biden_Whitmer/ending/s0.l164.c87/text",
+      "2020_Biden_Warren/ending/s0.l164.c87/text",
+      "2020_Trump_Pence/ending/s0.l164.c87/text",
+      "2020_Trump_Haley/ending/s0.l164.c87/text"
+    ]
+  },
+  {
+    "source": "Florida",
+    "keys": [
+      "2016a_Clinton_Booker/answers_json/4720@72/description",
+      "2016a_Clinton_Castro/answers_json/4720@64/description",
+      "2016a_Clinton_Warren/answers_json/4720@59/description",
+      "2016a_Clinton_Brown/answers_json/4720@62/description",
+      "2016a_Trump_Brown/answers_json/4720@65/description",
+      "2016a_Trump_Christie/answers_json/4720@60/description",
+      "2016a_Trump_Carson/answers_json/4720@62/description"
+    ]
+  },
+  {
+    "source": "California.",
+    "keys": [
+      "1988_Bush_Quayle/answers_json/4520@65/description",
+      "1988_Bush_Dole/answers_json/4520@67/description",
+      "1988_Bush_Kemp/answers_json/4520@68/description",
+      "1988_Dukakis_Bentsen/answers_json/4520@71/description",
+      "1988_Dukakis_Glenn/answers_json/4520@72/description",
+      "1988_Dukakis_Gore/answers_json/4520@72/description",
+      "1988_Dukakis_Jackson/answers_json/4520@71/description"
+    ]
+  },
+  {
+    "source": "'Barry Goldwater thinks we can.'",
+    "keys": [
+      "1964_Goldwater_Miller/answers_json/3239@53/description"
+    ]
+  },
+  {
+    "source": "Illinois",
+    "keys": [
+      "1860_Lincoln_Hamlin/answers_json/4026@57/description",
+      "1860_Lincoln_Clay/answers_json/4026@57/description",
+      "1860_Lincoln_Chase/answers_json/4026@57/description"
+    ]
+  },
+  {
+    "source": "New York",
+    "keys": [
+      "1860_Lincoln_Hamlin/answers_json/4027@58/description",
+      "1860_Lincoln_Clay/answers_json/4027@58/description",
+      "1860_Lincoln_Chase/answers_json/4027@58/description",
+      "1844_Polk_Dallas/answers_json/4233@67/description",
+      "1844_Polk_Woodbury/answers_json/4233@64/description",
+      "1844_Clay_Frelinghuysen/answers_json/4233@69/description",
+      "1844_Clay_Sergeant/answers_json/4233@67/description",
+      "1844_Clay_Fillmore/answers_json/4233@69/description"
+    ]
+  },
+  {
+    "source": "Ohio",
+    "keys": [
+      "1860_Lincoln_Hamlin/answers_json/4028@59/description",
+      "1860_Lincoln_Clay/answers_json/4028@59/description",
+      "1860_Lincoln_Chase/answers_json/4028@59/description",
+      "1844_Polk_Dallas/answers_json/4235@69/description",
+      "1844_Polk_Woodbury/answers_json/4235@66/description",
+      "1844_Clay_Frelinghuysen/answers_json/4235@71/description",
+      "1844_Clay_Sergeant/answers_json/4235@69/description",
+      "1844_Clay_Fillmore/answers_json/4235@71/description"
+    ]
+  },
+  {
+    "source": "Pennsylvania",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4234@68/description",
+      "1844_Polk_Woodbury/answers_json/4234@65/description",
+      "1844_Clay_Frelinghuysen/answers_json/4234@70/description",
+      "1844_Clay_Sergeant/answers_json/4234@68/description",
+      "1844_Clay_Fillmore/answers_json/4234@70/description"
+    ]
+  },
+  {
+    "source": "Virginia",
+    "keys": [
+      "1844_Polk_Dallas/answers_json/4236@71/description",
+      "1844_Polk_Woodbury/answers_json/4236@68/description",
+      "1844_Clay_Frelinghuysen/answers_json/4236@73/description",
+      "1844_Clay_Sergeant/answers_json/4236@71/description",
+      "1844_Clay_Fillmore/answers_json/4236@73/description"
+    ]
+  },
+  {
+    "source": "<p><em>Debate Coach</em>: Will highlight the best debate answer.</p><p>An attorney for the campaign and a White House Counsel for the Obama Administration who's willing to prep you for the debates against Donald Trump, which could be chaotic if you are unable to command the stage.</p>",
+    "keys": [
+      "staff.21.300/staff/6000@0/description"
+    ]
+  },
+  {
+    "source": "<p><em>Kingmaker</em>: Upon being hired your relationship with all lobbies with which you already have a positive relationship will be increased by 10.</p><p>A longtime advisor of yours, Ron Klain is eager to get into the White House, and will use his connections in Washington to get you there.</p>",
+    "keys": [
+      "staff.21.300/staff/6001@1/description"
+    ]
+  },
+  {
+    "source": "<p><em>Fundraiser</em>: Permanently increases the effectiveness of fundraising.</p><p>The former CEO of Dreamworks, Katzenberg has spent his whole life bringing dreams to life. You've always dreamed of the White House, haven't you?  With a little cash, he can help that dream come true.</p>",
+    "keys": [
+      "staff.21.300/staff/6002@2/description"
+    ]
+  },
+  {
+    "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>One of your chief rivals for the nomination, Pete Buttigieg dropped out before Super Tuesday to endorse your candidacy.  In return, he wants a job in the White House. Until then, he's willing to stump for you.</p>",
+    "keys": [
+      "staff.21.300/staff/6003@3/description"
+    ]
+  },
+  {
+    "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>The former spokeswoman and vice president of corporate communications at the Motion Picture Association of America, Kate Bedingfield knows the media biz better than anyone on your campaign, and could aid in your media strategy, especially in the midst of this national lockdown.</p>",
+    "keys": [
+      "staff.21.300/staff/6004@4/description"
+    ]
+  },
+  {
+    "source": "<p><em>Spin Doctor</em>: Opponent's visit effectiveness is cut in half.</p><p>A longtime ally of the Clintons, Dolan is a master of spin, and is interested in helping you take down Trump.</p>",
+    "keys": [
+      "staff.21.300/staff/6005@5/description"
+    ]
+  },
+  {
+    "source": "<p><em>Surrogate</em>: Provides a small boost in the state of Texas.</p><p>A popular congressman from San Antonio, Julián Castro would be willing to campaign throughout his home state of Texas in support of your candidacy.</p>",
+    "keys": [
+      "staff.21.300/staff/6006@6/description"
+    ]
+  },
+  {
+    "source": "<p><em>Surrogate</em>: Provides a small boost in the states of Michigan, Wisconsin, Ohio and Indiana.</p><p>The incumbent, popular governor of Michigan, Gretchen Whitmer is as much a darling of liberals as she is loathed by conservatives.  Still, she would be willing to campaign throughout Michigan and its neighboring states in support of your campaign.</p>",
+    "keys": [
+      "staff.21.300/staff/6007@7/description"
+    ]
+  },
+  {
+    "source": "A group created by allies of Bernie Sanders' 2016 primary campaign that seeks to promote progressive candidates and policies.",
+    "keys": [
+      "staff.21.300/lobby/7000@0/description"
+    ]
+  },
+  {
+    "source": "The American Federation of Labour and Congress of Industrial Organizations is the largest federation of trade unions in the United States.",
+    "keys": [
+      "staff.21.300/lobby/7001@1/description",
+      "staff.20.201/lobby/7003@3/description"
+    ]
+  },
+  {
+    "source": "Bolstered by Democratic fundraiser and philanthropist Karla M. Jurveston, Emily's List seeks to promote women's reproductive healthcare in the United States.",
+    "keys": [
+      "staff.21.300/lobby/7002@2/description",
+      "staff.20.201/lobby/7001@1/description"
+    ]
+  },
+  {
+    "source": "An advocacy group for Arab-American interests, the ADC has recently taken an interest in opposing support for the state of Israel.",
+    "keys": [
+      "staff.21.300/lobby/7003@3/description"
+    ]
+  },
+  {
+    "source": "Since its formation in 2013, Black Lives Matter has made its lot in Washington supporting social justice for African-Americans.",
+    "keys": [
+      "staff.21.300/lobby/7004@4/description"
+    ]
+  },
+  {
+    "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>The wife of your second son, Eric, Lara Trump was a former TV producer for Inside Edition, and could bolster the campaign's efforts blanketing the airwaves.</p>",
+    "keys": [
+      "staff.21.301/staff/6000@0/description"
+    ]
+  },
+  {
+    "source": "<p><em>Speechwriter</em>: Provides a small, permanent boost to all positive statewide effects.</p><p>Despite you and him having a rocky relationship, Sims is nonetheless a talented a talented speechwriter, and could strengthen your campaigning—as long as you stay on prompter.</p>",
+    "keys": [
+      "staff.21.301/staff/6001@1/description"
+    ]
+  },
+  {
+    "source": "<p><em>Debate Coach</em>: Will highlight the best debate answer.</p><p>Chris Christie is the former governor of New Jersey, and made a splash in the 2016 Primaries working on behalf of your first campaign.  While relations with him have grown cold since then, he's still the best debater in the business, and willing to coach you in preparation for your debates against Joe Biden.</p>",
+    "keys": [
+      "staff.21.301/staff/6002@2/description"
+    ]
+  },
+  {
+    "source": "<p><em>Workhorse</em>: Upon being hired, the Workhorse will max out your relationship with the lobby mentioned in his description.</p><p>The husband of your first daughter, Ivanka, Jared Kushner is a Jewish businessman who has served faithfully in the administration as your czar on Israel policy, most notably being the architect of the Abraham Accords.  Bringing him into the campaign would bolster relationship with Jewish voters, and the powerful AIPAC.</p>",
+    "keys": [
+      "staff.21.301/staff/6003@3/description"
+    ]
+  },
+  {
+    "source": "<p><em>Firebrand</em>: Provides a permanent increase to the effectiveness of visits.</p><p>The newly wed wife of your first son, Don Jr., Kimberly Guilfoyle is a passionate supporter of the campaign, and is sure to rile up the MAGA base.</p>",
+    "keys": [
+      "staff.21.301/staff/6004@4/description"
+    ]
+  },
+  {
+    "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>Your latest Press Secretary, Kayleigh McEnany has served in the role for nearly the entirety of the COVID Pandemic, but has mostly made her fame in spats with the press during questioning.</p>",
+    "keys": [
+      "staff.21.301/staff/6005@5/description"
+    ]
+  },
+  {
+    "source": "<p><em>Fundraiser</em>: Permanently increases the effectiveness of fundraising.</p><p>The chairman and CEO of Las Vegas Sands, Sheldon Adelson is a billionaire gambling tycoon.  Despite the economic hit on the gambling industry, Adelson is willing and ready to bankroll your campaign.</p>",
+    "keys": [
+      "staff.21.301/staff/6006@6/description"
+    ]
+  },
+  {
+    "source": "<p><em>Surrogate</em>: Provides a small, automatic boost in the state of Michigan.</p><p>Betsy DeVos is a scion of the powerful DeVos family of Michigan politics, and has served since 2017 as your controversial Secretary of Education. In hiring her, you'll be hoping you can use her influence to bring Michigan into your column a second time.</p>",
+    "keys": [
+      "staff.21.301/staff/6007@7/description"
+    ]
+  },
+  {
+    "source": "The most prominent organization for promoting the US-Israel alliance, AIPAC seeks to further the close relationship, and is the most important and well-funded group in doing so.",
+    "keys": [
+      "staff.21.301/lobby/7000@0/description",
+      "staff.20.200/lobby/7002@2/description",
+      "staff.20.201/lobby/7002@2/description"
+    ]
+  },
+  {
+    "source": "One of the most influential lobbies, 'big pharma' as it is derisevely known has been the most signficant roadblock against liberal attempts at reforming US healthcare policy.",
+    "keys": [
+      "staff.21.301/lobby/7001@1/description"
+    ]
+  },
+  {
+    "source": "<p><em>Spin Doctor</em>: Opponent's visiting effectiveness is cut in half.</p><p>A good friend of yours and a backer of Ted Cruz in the primaries, Kellyanne Conway is an ambitious strategist willing to work on behalf of the campaign as its manager and in backing 'alternative facts.'</p>",
+    "keys": [
+      "staff.20.200/staff/6000@0/description"
+    ]
+  },
+  {
+    "source": "<p><em>Firebrand</em>: Provides a permanent increase to the effectiveness of visits.</p><p>One of the founders of Breitbart News, Steve Bannon is a darling of the far-right, and has been a crucial ally of your's during the primary.  He's previously been accused of spouting racism and anti-semitism, but who cares?  They spread the same sort of stuff around about you, after all.</p>",
+    "keys": [
+      "staff.20.200/staff/6001@1/description"
+    ]
+  },
+  {
+    "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>Known simply by 'Omarosa,' Omarosa was a contestant on the first season of your hit, ratings-getting, award-winning reality TV show The Apprentice, and has been a friend of your's since.</p>",
+    "keys": [
+      "staff.20.200/staff/6002@2/description"
+    ]
+  },
+  {
+    "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>The former mayor of New York City who grew to national fame after 9/11, Rudy Giuliani is hoping to inject that same patriotic magic that's fueled his career since into your longshot campaign.</p>",
+    "keys": [
+      "staff.20.200/staff/6003@3/description"
+    ]
+  },
+  {
+    "source": "<p><em>Kingmaker</em>: Upon being hired your relationship with all lobbies with which you already have a positive relationship will be increased by 10.</p><p>A former lobbyist and a strong conservative, Corey Lewandowski is an experienced political operative, though his competency in front of the press has been put into doubt in the past.</p>",
+    "keys": [
+      "staff.20.200/staff/6004@4/description"
+    ]
+  },
+  {
+    "source": "<p><em>Debate Coach</em>: Will highlight the best debate answer.</p><p>Nigel Farage is a member of the European Parliament, founder of UKIP and was the architect of the UK's vote to leave the European Union last year, and is one of the few commentators who predict you've got a shot, and as something of a charismatic himself, is willing to fly in to coach you in the coming debate.</p>",
+    "keys": [
+      "staff.20.200/staff/6005@5/description"
+    ]
+  },
+  {
+    "source": "<p><em>Fundraiser</em>: Permanently increases the effectiveness of fundraising.</p><p>A Wall Street guy and a hedge fund manager, Steve Mnuchin is willing to bankroll your campaign. In return he'll want a job in a hypothetical Trump Administration, of course.</p>",
+    "keys": [
+      "staff.20.200/staff/6006@6/description"
+    ]
+  },
+  {
+    "source": "<p><em>Surrogate</em>: Provides a small, automatic boost in the states of Wisconsin, Minnesota and Michigan.</p><p>The incumbent governor of Wisconsin, Scott Walker was one of your rivals for the Republican nomination this year, and now is a hesitant supporter.  In bringing him on board, you're hoping he'll be able to swing the states of Wisconsin, Minnesota and Michigan.</p>",
+    "keys": [
+      "staff.20.200/staff/6007@7/description"
+    ]
+  },
+  {
+    "source": "NumbersUSA is a right-wing group of activists who oppose new immigration to the New United States, and have sought to bolster their influence with Republican policymaking with your candidacy.",
+    "keys": [
+      "staff.20.200/lobby/7000@0/description"
+    ]
+  },
+  {
+    "source": "The Club For Growth is a conservative PAC that supports open markets.",
+    "keys": [
+      "staff.20.200/lobby/7003@3/description"
+    ]
+  },
+  {
+    "source": "<p><em>Loyalist</em>: Upon being hired, the Loyalist provides a small, permanent boost to all positive global effects.</p><p>Your husband's former Chief of Staff, John Podesta is a competent bureaucrat and Democratic Party operative.</p>",
+    "keys": [
+      "staff.20.201/staff/6000@0/description"
+    ]
+  },
+  {
+    "source": "<p><em>Media Manager</em>: Increases the effectiveness of ad campaigns.</p><p>A top aide to Barack Obama in both his election campaigns, Jim Margolis is a top communications director, and would be sure to up your media game, which could be useful against an opponent like Donald Trump.</p>",
+    "keys": [
+      "staff.20.201/staff/6001@1/description"
+    ]
+  },
+  {
+    "source": "<p><em>Kingmaker</em>: Upon being hired your relationship with all lobbies with which you already have a positive relationship will be increased by 10.</p><p>The former acting chair of the DNC, Donna Brazile is a good friend of yours, and 'helped' in your primary win against democratic socalist upstart Bernie Sanders.</p>",
+    "keys": [
+      "staff.20.201/staff/6002@2/description"
+    ]
+  },
+  {
+    "source": "<p><em>Smooth Talker</em>: Permanently improves your RNG.</p><p>The 42nd president of the United States and your husband, Bill Clinton has had a... troubled relationship with you, but separation was never an option for you two; not considering who you both are.  Some of your advisors are urging you to bring Bill closer and make him a more instrumental part of the campaign. Willy's slickness could be of use.</p>",
+    "keys": [
+      "staff.20.201/staff/6003@3/description"
+    ]
+  },
+  {
+    "source": "<p><em>Speechwriter</em>: Provides a small, permanent boost to all positive statewide effects.</p><p>All the best leaders have great speechwriters, and Dan Schwerin is an up-and-coming talent in that field, and a great writer in his own right.  He helped you with writing your memoir, Hard Choices and is now willing to come back on board to help you win this election.</p>",
+    "keys": [
+      "staff.20.201/staff/6004@4/description"
+    ]
+  },
+  {
+    "source": "<p><em>Workhorse</em>: Upon being hired, the Workhorse will max out your relationship with the lobby mentioned in her description.</p><p>Debbie Wasserman Schultz is a good friend of yours, and also worked to 'help' in your victory against Bernie Sanders in the primaries.  As chair of the DNC, she could even further cement your relationship with the powerful campaign fund.</p>",
+    "keys": [
+      "staff.20.201/staff/6005@5/description"
+    ]
+  },
+  {
+    "source": "<p><em>Wonk</em>: How each answer will effect your relationship with lobbies will now be displayed.</p><p>An expert of matters of foreign policy, Jake Sullivan is a young operative ready to make his mark in Washington, and help with cementing your positions on the policies of the day.</p>",
+    "keys": [
+      "staff.20.201/staff/6006@6/description"
+    ]
+  },
+  {
+    "source": "<p><em>Surrogate</em>: Provides a small, automatic boost in the states of Colorado, New Mexico, Arizona, Utah and Nevada.</p><p>Ken Salazar is the former senator from Colorado, and once was Obama's Secretary of the Interior. He remains widely popular in his home state and in the Southwest generally, and is willing to campaign on your behalf in the region.</p>",
+    "keys": [
+      "staff.20.201/staff/6007@7/description"
+    ]
+  },
+  {
+    "source": "<p><em>Trojan Horse</em>: Upon hiring the Trojan Horse, Evan McMullin receives a large, automatic boost to his numbers in Utah at the expense of Donald Trump.</p><p>Evan McMullin is an independent candidate for president out of the state of Utah, and seeks to win enough center-right and independent voters in the state to snag its electoral votes and deadlock the election.  While nominally an independent, McMullin's and your goals could align, and some targeted funding (made discreetly, of course!) could go a long way to bolstering his candidacy.</p>",
+    "keys": [
+      "staff.20.201/staff/6008@8/description"
+    ]
+  },
+  {
+    "source": "A nascent PAC, the Immigrants' List is a bipartisan group seeking to protect immigration in the country.",
+    "keys": [
+      "staff.20.201/lobby/7000@0/description"
+    ]
+  }
+]

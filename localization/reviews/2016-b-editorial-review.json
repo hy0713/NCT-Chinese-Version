@@ -1,0 +1,879 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-b",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 236,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 0,
+      "reason": "Candidate allegations about campaign funding preserved; donations to campaign versus foundation versus fees require distinction, not certified by translation."
+    },
+    {
+      "index": 2,
+      "reason": "Original32000 and characterization crimes retained as candidate accusation, not judicial verdict."
+    },
+    {
+      "index": 20,
+      "reason": "Original dumping murders understood murderers in paired rapists passage; exclusionary rhetoric preserved, not endorsed."
+    },
+    {
+      "index": 28,
+      "reason": "Pro-life contextual opposition to abortion, not vague love of life; next life rhetorical answer preserves deliberate ambiguity."
+    },
+    {
+      "index": 47,
+      "reason": "Strong on Roe left as strong position, not insert support for abortion inconsistent with candidate stance."
+    },
+    {
+      "index": 55,
+      "reason": "Original guy that assassinated contextual guy who was assassinated; conspiracy allegation preserved and not certified as true. Requires offline note about unsupported inference."
+    },
+    {
+      "index": 56,
+      "reason": "Fix was in means rigged/prearranged, not technical repair."
+    },
+    {
+      "index": 57,
+      "reason": "Drain swamp political corruption metaphor, not environmental drainage policy."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "I am self-funding and independent from special interests. Hillary Clinton has taken money from Goldman Sachs, Saudi Arabia, Russia, and many large donors within the United States. Who do you trust?",
+      "sha256": "6a0902fe9928697149d2bc389f055078c0e21532dec2fff7101f22fd6616ae9f",
+      "zh": "我的竞选自己出钱，不受特殊利益集团左右。希拉里·克林顿拿过高盛、沙特阿拉伯、俄罗斯，以及美国许多大金主的钱。你信谁？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5023@15/description",
+        "2016_Trump_Christie/answers_json/5023@15/description",
+        "2016_Trump_Sessions/answers_json/5023@15/description",
+        "2016_Trump_Carson/answers_json/5023@15/description",
+        "2016_Trump_Palin/answers_json/5023@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "Evan who? Have you seen this guy? I'm not too worried!",
+      "sha256": "7a91c52635d9b3125face1f3b70bbe047b83a2a8feae4066766ac5b04c411560",
+      "zh": "埃文是谁？你见过这个人吗？我可不怎么担心！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5024@16/description",
+        "2016_Trump_Christie/answers_json/5024@16/description",
+        "2016_Trump_Sessions/answers_json/5024@16/description",
+        "2016_Trump_Carson/answers_json/5024@16/description",
+        "2016_Trump_Palin/answers_json/5024@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Hillary Clinton deleted 32,000 emails under House Subpoena, along with many other crimes. When people see that I'm the only one who can defeat Crooked Hillary, they will reject this nonsense.",
+      "sha256": "2bc4435e629df2705629b05224c143a8a6c42009928f9764db92460ccd323ac5",
+      "zh": "希拉里·克林顿在众议院发出传票的情况下删掉了32,000封电子邮件，还犯下许多其他罪行。人们一旦看清，只有我能击败“骗子希拉里”，就会拒绝这种胡闹。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5025@17/description",
+        "2016_Trump_Christie/answers_json/5025@17/description",
+        "2016_Trump_Sessions/answers_json/5025@17/description",
+        "2016_Trump_Carson/answers_json/5025@17/description",
+        "2016_Trump_Palin/answers_json/5025@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "We have some strong statements to make on foreign policy, on federal judges, on religious freedom and taxes, that I think are really gonna show people I'm serious.",
+      "sha256": "901a8c6aea1b223c54ce1d4e5ed9ece1f6156b5e76191037d576a6fbabf65aac",
+      "zh": "在外交政策、联邦法官、宗教自由和税收上，我们要发表一些强有力的声明。我想，这些话会让大家看出，我是认真的。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5026@18/description",
+        "2016_Trump_Christie/answers_json/5026@18/description",
+        "2016_Trump_Sessions/answers_json/5026@18/description",
+        "2016_Trump_Carson/answers_json/5026@18/description",
+        "2016_Trump_Palin/answers_json/5026@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "This is a minor civil case, pursued by a few disgruntled people for political purposes. Many many people were very satisfied with Trump University.",
+      "sha256": "92f6cf3c5e7758adedff617c4c31da785e335099d6bee2d7721b797445a841ee",
+      "zh": "这不过是一桩小小的民事案件，由几个心怀不满的人出于政治目的提起。很多很多人对特朗普大学都非常满意。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5027@19/description",
+        "2016_Trump_Christie/answers_json/5027@19/description",
+        "2016_Trump_Palin/answers_json/5027@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "Where is Hillary Clinton's apology for the email server, the war in Iraq, the dead ambassador in Benghazi, the Goldman Sachs speeches, and so many other issues of importance?",
+      "sha256": "7e10deb0b33244bb62bbf5715c24aa967f0f84d34f864d98155da8cd0efcc465",
+      "zh": "希拉里·克林顿对于邮件服务器、伊拉克战争、在班加西遇害的大使、高盛演说，以及那么多重要问题的道歉在哪里？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5028@20/description",
+        "2016_Trump_Christie/answers_json/5028@20/description",
+        "2016_Trump_Palin/answers_json/5028@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Some people under me put this scheme together, and when I found out, I fired them. It's as simple as that. This whole thing is the media trying to set up a false equivalency between myself and Crooked Hillary.",
+      "sha256": "a8d6512e55b7a8688c4f9d94f3ab3f649236f70860a2c49fcb2135b05d710585",
+      "zh": "我手下有些人搞出了这套做法，我发现以后就把他们开除了。就这么简单。整件事都是媒体想把我和“骗子希拉里”硬说成一路货色。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5029@21/description",
+        "2016_Trump_Christie/answers_json/5029@21/description",
+        "2016_Trump_Palin/answers_json/5029@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Another horrific attack, this time in Nice, France. Many dead and injured. When will we learn? It is only getting worse.",
+      "sha256": "fa38cef5bf3f8624c8c06fe7cf5c5e0bcd51c3e5a49ca3403c63f53190e6c3cb",
+      "zh": "又发生了一场可怕的袭击，这次是在法国尼斯。许多人死伤。我们什么时候才会吸取教训？情况只会越来越糟。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5030@22/description",
+        "2016_Trump_Christie/answers_json/5030@22/description",
+        "2016_Trump_Sessions/answers_json/5030@19/description",
+        "2016_Trump_Carson/answers_json/5030@19/description",
+        "2016_Trump_Palin/answers_json/5030@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "As President, in spite of what people in the liberal media say, I will work very closely with our foreign allies on issues of importance. Together we can unite against and defeat radical Islamic terror.",
+      "sha256": "9dd7ddb011f43fc5b9e52d85ffc7430844177d852de3b2bfde34ea2a4868b1fa",
+      "zh": "尽管自由派媒体有些人那样说，我担任总统后，会在重要问题上与外国盟友密切合作。我们可以团结起来，共同对抗并击败激进伊斯兰恐怖主义。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5031@23/description",
+        "2016_Trump_Christie/answers_json/5031@23/description",
+        "2016_Trump_Sessions/answers_json/5031@20/description",
+        "2016_Trump_Carson/answers_json/5031@20/description",
+        "2016_Trump_Palin/answers_json/5031@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "My heart goes out to the fantastic and resilient people of France, it's one of the most beautiful countries, as they deal with unspeakable tragedy.",
+      "sha256": "7429d08884faa609c1cf4217666daffe89a750c51394a9fc90da29807e8ca16c",
+      "zh": "法国是最美丽的国家之一。这个国家了不起而坚韧的人民正承受着无法言说的悲剧，我由衷地向他们表达慰问。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5032@24/description",
+        "2016_Trump_Christie/answers_json/5032@24/description",
+        "2016_Trump_Sessions/answers_json/5032@21/description",
+        "2016_Trump_Carson/answers_json/5032@21/description",
+        "2016_Trump_Palin/answers_json/5032@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "She went on television after this attack and she lied. All to cover up her own failures in security. And now she wants to be President?",
+      "sha256": "159d234c17265c7f04d8c8fa1c91b06945ad5099d098137692126f7b4cd363ea",
+      "zh": "那次袭击后，她上电视撒了谎，全是为了掩盖自己在安保上的失职。现在她还想当总统？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5033@25/description",
+        "2016_Trump_Sessions/answers_json/5033@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "I will do a much better job than the clueless Democrats when it comes our national security. Democrats couldn't even guard a single embassy, and they say they can defeat ISIS?",
+      "sha256": "fafcd29d9c0d4672c696087d17dfbf1d73ec5ef45ceb601b76425089a6e8506e",
+      "zh": "在国家安全方面，我会比那帮毫无头绪的民主党人做得好得多。民主党连一座使馆都保护不了，还说自己能打败“伊斯兰国”？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5034@26/description",
+        "2016_Trump_Sessions/answers_json/5034@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "There have been some interesting investigations into this that the American people should look into. But my focus now, we have the economy, China, and so many of these other issues.",
+      "sha256": "dc459faa973c4721de9908a9f9e82acca290c00878b599e7af25b2d39cbfdef8",
+      "zh": "这件事有一些值得关注的调查，美国人民应该看看。不过，我现在关注的是经济、中国，以及许多其他问题。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5035@27/description",
+        "2016_Trump_Sessions/answers_json/5035@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "You better believe under my Administration, we're going to be focusing on America first, and not on these idiotic wars and trade deals. Do you think Hillary Clinton feels the same way?",
+      "sha256": "c811e627328f17441237473393d387c4a7efb177750cf74ebd14c152b8ae0328",
+      "zh": "你尽管相信，在我执政期间，我们会把美国放在第一位，不再围着那些愚蠢的战争和贸易协议打转。你觉得希拉里·克林顿也这么想吗？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5041@29/description",
+        "2016_Trump_Sessions/answers_json/5041@30/description",
+        "2016_Trump_Carson/answers_json/5041@23/description",
+        "2016_Trump_Palin/answers_json/5041@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "Hillary Clinton keeps saying that I'm unqualified to serve as President, so what was going on her brain when she voted for the war in Iraq?",
+      "sha256": "22f8e83f49781625cf93ada17bc80191e464f7ba7b2fd5055f76dfc3e7d0abb1",
+      "zh": "希拉里·克林顿一直说我没有资格当总统。那她投票支持伊拉克战争时，脑子里到底在想什么？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5042@30/description",
+        "2016_Trump_Sessions/answers_json/5042@31/description",
+        "2016_Trump_Carson/answers_json/5042@24/description",
+        "2016_Trump_Palin/answers_json/5042@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "The political establishment on both sides got it dead wrong on Iraq. And now we have ISIS. I am the candidate who can destroy ISIS and radical Islamic terrorism!",
+      "sha256": "78014f0e5e42ff45b2927d16d493c01a3330f4eccd593309c0a1b942cb6e170e",
+      "zh": "两党的政治建制派在伊拉克问题上都错得离谱。现在我们又面对“伊斯兰国”。我才是能消灭“伊斯兰国”和激进伊斯兰恐怖主义的候选人！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5043@31/description",
+        "2016_Trump_Sessions/answers_json/5043@32/description",
+        "2016_Trump_Carson/answers_json/5043@25/description",
+        "2016_Trump_Palin/answers_json/5043@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Bill Clinton is a sick man and his people, including Hillary, have silenced a number of women over the years who tried to speak out.",
+      "sha256": "0da41dd23b50a3e6c675514890469c0454b4da8d5ef5f28cc8df1cf9031163de",
+      "zh": "比尔·克林顿是个病态的人。这些年来，他身边的人，包括希拉里在内，让不少试图发声的女性闭了嘴。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5052@32/description",
+        "2016_Trump_Palin/answers_json/5052@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "I am really hoping to keep this campaign focused on the issues, but if Hillary wants to use this \"war on women\" nonsense, I reserve the right to call her out on it, along with Bill.",
+      "sha256": "7da7b7f8cdb6b73b3f9d0b8bdcd0e1418e8b9050bddb90b850cbb0110047e3d2",
+      "zh": "我真的希望这场竞选能围绕具体议题展开。不过，如果希拉里要拿“向女性宣战”那套胡话做文章，我保留揭穿她和比尔的权利。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5053@33/description",
+        "2016_Trump_Palin/answers_json/5053@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "We need this campaign to focus on the substantive issues, like Obama's assault on religious freedom and free speech. There are plenty of people out there digging up dirt on the Clintons.",
+      "sha256": "fa6b1d32c5014ed1d06f960d7509ecb6067ce265d6e9e3bef4fa966e13a8314f",
+      "zh": "我们需要让竞选聚焦于实质问题，例如奥巴马对宗教自由和言论自由的攻击。外头已经有大把的人在挖克林顿夫妇的黑料。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5054@34/description",
+        "2016_Trump_Palin/answers_json/5054@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Over the years I've actually been tremendous friends with the Clintons. I really have. While they would be a disaster for the country, I don't want to get into that messy personal stuff.",
+      "sha256": "fdf13a8cd022351eb80c832ae5f5ebec4c9783387feebaa6d3aff7738ca0d036",
+      "zh": "这些年来，我和克林顿夫妇其实是非常要好的朋友，真的。虽然他们会给这个国家带来灾难，我却不想卷进那些乱七八糟的私事。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5055@35/description",
+        "2016_Trump_Palin/answers_json/5055@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Build the wall! Mexico has exploited our country for twenty years now, dumping murders, rapists, and worse onto our system and stealing our jobs with NAFTA. Believe me, that's not going to last.",
+      "sha256": "f50f1acba3eb7b2da05c1b6d82167d55ff9b16a93b19201db31045e643d66242",
+      "zh": "筑墙！墨西哥剥削我们国家二十年了，把杀人犯、强奸犯，甚至更糟的人塞进我们的社会，还靠《北美自由贸易协定》偷走我们的工作。相信我，这不会继续下去。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5056@36/description",
+        "2016_Trump_Sessions/answers_json/5056@41/description",
+        "2016_Trump_Carson/answers_json/5056@26/description",
+        "2016_Trump_Palin/answers_json/5056@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "I was using \"rapists\" as a figure of speech. But I will, you know, remind people that Hillary Clinton was saying she was \"adamantly against illegal immigrants\". What made her change her mind?",
+      "sha256": "6abd413ffed22f56bc9b7c8fd94daee5cd9a2ab9666799a159ecd189834354b7",
+      "zh": "我说“强奸犯”，只是一种修辞。不过，你知道，我要提醒大家，希拉里·克林顿以前说过自己“坚决反对非法移民”。是什么让她改变了主意？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5057@37/description",
+        "2016_Trump_Sessions/answers_json/5057@42/description",
+        "2016_Trump_Carson/answers_json/5057@27/description",
+        "2016_Trump_Palin/answers_json/5057@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Mexicans are beautiful, beautiful people. It's unfortunate how some people in the media tried to twist a couple of words around to make it sound like something completely different. But that's how they operate.",
+      "sha256": "2127108ac9ef8509ee67e9ce74e0707d94c3517560ee18f6286a3a9d01934cd2",
+      "zh": "墨西哥人是很美好、很美好的人民。有些媒体人把几个词歪曲成完全不同的意思，实在遗憾。但他们就是这样干事的。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5058@38/description",
+        "2016_Trump_Sessions/answers_json/5058@43/description",
+        "2016_Trump_Carson/answers_json/5058@28/description",
+        "2016_Trump_Palin/answers_json/5058@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "We almost had immigration reform. A beautiful deal, except that some radical Democrats wouldn't agree to the border security. But I think they'll see the light once they lose this fall.",
+      "sha256": "29119780bf8e614842df0bd6686fc13fcdd3657dc01b20b2f2971e27c068ad86",
+      "zh": "我们差点就通过移民改革了。那本来是一项很棒的协议，只可惜有些激进的民主党人不肯接受边境安全措施。不过，我想他们今年秋天输掉选举后就会醒悟了。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5059@39/description",
+        "2016_Trump_Sessions/answers_json/5059@44/description",
+        "2016_Trump_Carson/answers_json/5059@29/description",
+        "2016_Trump_Palin/answers_json/5059@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "We're going to end NAFTA and we're going to get a new deal with China when I'm President. What's happened with trade in the last twenty years is a disgrace.",
+      "sha256": "409410d46b2a2522261ef7d6123dcbce3ca54ba16aeba7c141695218765762f6",
+      "zh": "等我当上总统，我们要终止《北美自由贸易协定》，还要跟中国谈一份新协议。过去二十年贸易上发生的事，是个耻辱。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5063@40/description",
+        "2016_Trump_Christie/answers_json/5063@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "You better believe that TPP is dead, from day one of my Presidency. And we're going to be looking into some of these other deals too and we'll be very careful about the trade deficit.",
+      "sha256": "79f3b292f52e7a9af1a85fbf5005ef82616df8bbfb7d97bb51154dee985be9e4",
+      "zh": "你尽管相信，从我担任总统的第一天起，跨太平洋伙伴关系协定就完了。我们也会审视一些其他协议，并且非常认真地对待贸易逆差。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5064@41/description",
+        "2016_Trump_Christie/answers_json/5064@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "We've got a lot of issues to focus on and galvanize people. It seems like people respond a lot better, to be honest, they respond better when I'm talking about the corruption of the Clintons. About guns, you know, that kind of thing.",
+      "sha256": "1245f0ca32e3d5099d2cde4fac66797f3de780b413c13a9bc19cc89405ae2393",
+      "zh": "我们有很多议题可以聚焦，激发大家的热情。老实说，讲克林顿夫妇的腐败时，大家的反应似乎好得多。还有枪支，你知道，就是这类事情。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5065@42/description",
+        "2016_Trump_Christie/answers_json/5065@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "I love free trade. This is another case where the media has taken a couple of sentences in a three-hour speech and made up a totally phony story. All I am saying is we've got to look out for America first in these trade deals.",
+      "sha256": "4cceb35c6c3c28727cabe7d86738d4c370a729b5421d5274f0c748573cf833d5",
+      "zh": "我热爱自由贸易。媒体又从一场三小时的演说里抽出几句话，编出完全虚假的故事。我说的不过是，在这些贸易协议中，我们必须把美国放在第一位。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5066@43/description",
+        "2016_Trump_Christie/answers_json/5066@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "I'm probably the most pro-life individual, maybe ever. And you know, one of the big issues in this election is the judges. Very important issue.",
+      "sha256": "dff62bce63c5b626462f375116deef6b6d2f065b11a8e716ee089037aaa2547e",
+      "zh": "我大概是最反对堕胎的人，也许是有史以来最反对的。你知道，这次选举的一大议题就是法官。非常重要的议题。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5067@44/description",
+        "2016_Trump_Sessions/answers_json/5067@45/description",
+        "2016_Trump_Carson/answers_json/5067@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "I disagree with <em>Roe v. Wade</em>, deeply to my core. Now there might be a couple of exceptions we can talk about, but I am a very pro-life person.",
+      "sha256": "1f6601fb79b9102deedd839be3336de9c566169fedab1d14f9d9a2c17a7a8eac",
+      "zh": "我打心底里反对<em>罗诉韦德案</em>。当然，也许有几种例外可以讨论，但我是一个非常坚定的反堕胎人士。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5068@45/description",
+        "2016_Trump_Sessions/answers_json/5068@46/description",
+        "2016_Trump_Carson/answers_json/5068@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Life is one of those beautiful, beautiful things, it really is. And a lot of people, you know, it's always surprised me how many people have mixed feelings about life.",
+      "sha256": "cab69c27ae57f25d31cff542cbc97816da870b20f2e2004779a3ea331469c90f",
+      "zh": "生命是一种很美好、很美好的东西，真的。你知道，有那么多人对生命抱着矛盾的态度，一直让我很惊讶。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5069@46/description",
+        "2016_Trump_Sessions/answers_json/5069@47/description",
+        "2016_Trump_Carson/answers_json/5069@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "One thing we've really got to do is make the Republican Party more inclusive. We used to get so many votes, and there are a lot of people out there more concerned about their jobs, about this illegal immigration farce, and many other things.",
+      "sha256": "1178e24194df33d59b1b4d779df7bbeeb489343b10ef94dad7abdfeefd3fb1a8",
+      "zh": "我们确实必须做的一件事，就是让共和党更有包容性。我们过去能获得那么多选票。外头有很多人更关心工作、非法移民这场闹剧，以及许多其他事情。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5070@47/description",
+        "2016_Trump_Sessions/answers_json/5070@48/description",
+        "2016_Trump_Carson/answers_json/5070@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "ISIS and radical Islamic terrorism is the greatest threat to our wonderful nation. I will mercilessly combat radical Islam from my first day in office, including a Muslim ban.",
+      "sha256": "dbb61f8ae15549cbb4e1fd3a50312ec1cb0375329c2cf074c87f7f13533c48a5",
+      "zh": "“伊斯兰国”和激进伊斯兰恐怖主义，是我们这个伟大国家面临的最大威胁。从上任第一天起，我就会毫不留情地打击激进伊斯兰主义，包括实施穆斯林入境禁令。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5075@48/description",
+        "2016_Trump_Christie/answers_json/5075@41/description",
+        "2016_Trump_Carson/answers_json/5075@37/description",
+        "2016_Trump_Palin/answers_json/5075@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "We are going to have a team of fantastic individuals looking into this issue from the first day I am President. And I would hate for it... but we wouldn't take a Muslim ban off the table.",
+      "sha256": "d429f6ed6e382c1942f88d31cf284124f5b97641c12d8eac0b53260feb30f1fa",
+      "zh": "从我担任总统的第一天起，就会有一支出色的团队研究这个问题。我也不愿意走到那一步……但我们不会排除穆斯林入境禁令这个选项。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5076@49/description",
+        "2016_Trump_Christie/answers_json/5076@42/description",
+        "2016_Trump_Carson/answers_json/5076@38/description",
+        "2016_Trump_Palin/answers_json/5076@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "The media totally leaves out the part where I said the ban should be temporary, until we can figure out what's going on. But they want to paint me as some kind of bigot to further their liberal agenda for America.",
+      "sha256": "678916543f98afe097524fadea2713d7ac556114a06b7701d82c586080a74e6f",
+      "zh": "媒体完全不提我说过，禁令应该是暂时的，等我们弄清楚究竟发生了什么。但他们想把我描绘成某种偏执的歧视者，好推进他们在美国的自由派议程。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5077@50/description",
+        "2016_Trump_Christie/answers_json/5077@43/description",
+        "2016_Trump_Carson/answers_json/5077@39/description",
+        "2016_Trump_Palin/answers_json/5077@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Maybe I will. Maybe I won't. I'm sure the fake media will be very interested to find out when I win the election in November.",
+      "sha256": "cba60ce8c08360be289e1673546e12aafd1dcd272cd66ade5f778a2942809125",
+      "zh": "也许我会，也许我不会。我敢肯定，假媒体会非常想知道，等我十一月赢得选举后究竟会怎么做。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5078@51/description",
+        "2016_Trump_Christie/answers_json/5078@44/description",
+        "2016_Trump_Carson/answers_json/5078@40/description",
+        "2016_Trump_Palin/answers_json/5078@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "There are some very serious questions out there about her stamina. And another thing, her people lied about this whole incident until that video came out. Notice how Hillary has barely been campaigning at all the last few weeks?",
+      "sha256": "d569f00bc90c71c5bef596261312d1356f4b354bc121229737ad249b3e7f448e",
+      "zh": "外界对她的体力有一些非常严肃的疑问。还有，她的人一直在这件事上撒谎，直到视频曝光。注意到了吗，希拉里过去几周几乎都没怎么竞选？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5083@52/description",
+        "2016_Trump_Christie/answers_json/5083@45/description",
+        "2016_Trump_Sessions/answers_json/5083@53/description",
+        "2016_Trump_Carson/answers_json/5083@41/description",
+        "2016_Trump_Palin/answers_json/5083@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "The most important thing right now is to remember our heroes from 9/11. I will be making a number of campaign stops these next few days where I mention our veterans, and our other heroes.",
+      "sha256": "31408f52bfb85bc1a28fc3bf284c992f5e64525bbe8283de3d7e2f32753a6b61",
+      "zh": "现在最重要的是缅怀“9·11”中的英雄。未来几天，我会在若干场竞选活动中谈到我们的退伍军人，以及其他英雄。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5084@53/description",
+        "2016_Trump_Christie/answers_json/5084@46/description",
+        "2016_Trump_Sessions/answers_json/5084@54/description",
+        "2016_Trump_Carson/answers_json/5084@42/description",
+        "2016_Trump_Palin/answers_json/5084@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "In spite of everything, I hate to see something like this. You know, she was at my wedding. A lot of people forget that, but I never want to see her undergo physical harm. I wish Hillary a speedy recovery and I'm sending her my thoughts.",
+      "sha256": "2c3982878533180c5b4bc0ac5bc2bdcfc03a8612553032c3eb67785349a77295",
+      "zh": "尽管有这一切，我仍不愿看到这种事。你知道，她参加过我的婚礼。很多人忘了这一点，但我绝不想看到她身体受到伤害。我祝希拉里早日康复，也向她表达慰问。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5085@54/description",
+        "2016_Trump_Christie/answers_json/5085@47/description",
+        "2016_Trump_Sessions/answers_json/5085@55/description",
+        "2016_Trump_Carson/answers_json/5085@43/description",
+        "2016_Trump_Palin/answers_json/5085@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "These moderators ganged up on John McCain. They ganged up on Mitt Romney. I don't understand why Republicans keep going up there to let some hack from MSNBC browbeat them in front of 50 million people.",
+      "sha256": "4b64076d671d287ee6fe662d629e95ffc3ef2b9bde092b5bbd2574239edfbc3d",
+      "zh": "这些主持人围攻过约翰·麦凯恩，也围攻过米特·罗姆尼。我不明白，共和党人为什么还老是上台，让MSNBC某个蹩脚的主持人在五千万观众面前对他们横加训斥。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5086@55/description",
+        "2016_Trump_Christie/answers_json/5086@48/description",
+        "2016_Trump_Sessions/answers_json/5086@56/description",
+        "2016_Trump_Carson/answers_json/5086@44/description",
+        "2016_Trump_Palin/answers_json/5086@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Believe me, I can't wait to debate Hillary Clinton.",
+      "sha256": "278461377e47d940522acac84c4efbc55d0323ad1cb5241efe6bb4f3931cbd25",
+      "zh": "相信我，我已经等不及要跟希拉里·克林顿辩论了。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5087@56/description",
+        "2016_Trump_Pence/answers_json/5088@57/description",
+        "2016_Trump_Pence/answers_json/5089@58/description",
+        "2016_Trump_Christie/answers_json/5087@49/description",
+        "2016_Trump_Christie/answers_json/5088@50/description",
+        "2016_Trump_Christie/answers_json/5089@51/description",
+        "2016_Trump_Sessions/answers_json/5087@57/description",
+        "2016_Trump_Sessions/answers_json/5088@58/description",
+        "2016_Trump_Sessions/answers_json/5089@59/description",
+        "2016_Trump_Carson/answers_json/5087@45/description",
+        "2016_Trump_Carson/answers_json/5088@46/description",
+        "2016_Trump_Carson/answers_json/5089@47/description",
+        "2016_Trump_Palin/answers_json/5087@61/description",
+        "2016_Trump_Palin/answers_json/5088@62/description",
+        "2016_Trump_Palin/answers_json/5089@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Obamacare is one of the biggest disasters in the history of the United States. We're going to totally repeal this monstrosity and let free enterprise fix our health care system.",
+      "sha256": "6b23617445644ed52fa7b94cc87d153fc1a4ab4c85bebbeca7a0fcf8567be8b0",
+      "zh": "奥巴马医改是美国历史上最大的灾难之一。我们要彻底废除这个怪物，让自由企业来修复我们的医疗体系。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5103@59/description",
+        "2016_Trump_Christie/answers_json/5103@59/description",
+        "2016_Trump_Carson/answers_json/5103@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "We're going to repeal and replace Obamacare under my Administration. And under my new plan, people are going to get unbelievable health care like they've never seen before.",
+      "sha256": "686f2ba86e8bf358bd373d921b712c117ca60fd30caae1f99bbbc2c3dfad9a89",
+      "zh": "在我执政期间，我们要废除并取代奥巴马医改。按照我的新方案，大家会得到前所未见、好得难以置信的医疗保障。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5104@60/description",
+        "2016_Trump_Christie/answers_json/5104@60/description",
+        "2016_Trump_Carson/answers_json/5104@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "We need to be talking more about a massive infrastructure bill, and putting our factory workers and our coal miners back to work.",
+      "sha256": "013e4eb5b3d2fa440102e0d619221e34973f8350a03f6cc3b06728f83fe95a0a",
+      "zh": "我们需要更多地谈论一项大规模基础设施法案，让工厂工人和煤矿工人重新就业。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5105@61/description",
+        "2016_Trump_Christie/answers_json/5105@61/description",
+        "2016_Trump_Carson/answers_json/5105@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Obama's disastrous management has driven this program into the ground. We're going to stop the rate increases and the disaster stories of people being turned away from the health care they deserve.",
+      "sha256": "96690ef3c552b79161e3443118014625794977fce329fc67aaac5827a9ac8bc8",
+      "zh": "奥巴马灾难性的管理把这个项目搞垮了。我们要阻止费率上涨，不再让那些本应得到医疗服务的人遭到拒绝，酿成悲剧。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5106@62/description",
+        "2016_Trump_Christie/answers_json/5106@62/description",
+        "2016_Trump_Carson/answers_json/5106@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "This decision is a real perversion of the Constitution. I think a lot of people are really upset about this and I hear about it every day. And believe me, we're going to do something about it.",
+      "sha256": "aec915bd01a1ae7bea39db7ab6efbbf6a923158f60442a2280ea2de71ee41197",
+      "zh": "这个判决实在是歪曲宪法。我想，很多人对此非常愤怒，我每天都能听到他们的意见。相信我，我们会采取行动。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5107@63/description",
+        "2016_Trump_Christie/answers_json/5107@63/description",
+        "2016_Trump_Carson/answers_json/5107@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "What's wrong with letting New York decide this issue one way, and many other states can decide it the other way? I mean, am I nuts here?",
+      "sha256": "70b50def47d1f818ff34caf8bbddf601639e1253dff0a46f1960a6b77fd7648b",
+      "zh": "让纽约州按一种方式决定这个问题，其他许多州按另一种方式决定，有什么不对？难道是我疯了吗？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5108@64/description",
+        "2016_Trump_Christie/answers_json/5108@64/description",
+        "2016_Trump_Carson/answers_json/5108@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "I'm going to appoint judges who are extremely strong on the Second Amendment, and on <em>Roe v. Wade</em>. Very important issues.",
+      "sha256": "95e1ac03e8d4dd99ac2e999da4281151b3ecd788f747576a2ba6d8dc0b667b1b",
+      "zh": "我要任命在第二修正案和<em>罗诉韦德案</em>问题上立场极其坚定的法官。这些议题非常重要。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5109@65/description",
+        "2016_Trump_Christie/answers_json/5109@65/description",
+        "2016_Trump_Carson/answers_json/5109@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "I thought it was very interesting when this decision was handed down. And not all the judges agreed, but you know, what can I really say about it? These are extremely intelligent people, these judges.",
+      "sha256": "63cabb4f85bc16edf67b6b92d2af7260c91efcb8ee61daf88e1779a75489bfd1",
+      "zh": "这个判决公布时，我觉得很有意思。也不是所有法官都同意。不过，你知道，我又真能说什么呢？这些法官都是极其聪明的人。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5110@66/description",
+        "2016_Trump_Christie/answers_json/5110@66/description",
+        "2016_Trump_Carson/answers_json/5110@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "This outrage is an elitist conspiracy to undermine my chances in the final days of this race. NBC was sitting on this video for 11 years! It almost reminds you of what they did to Bush in 2000.",
+      "sha256": "ae06daee7e20f7e8585767b894d28a3ef64ac945f2d5d446f5b7d8627154538a",
+      "zh": "这桩丑闻，是精英们为了在竞选最后几天破坏我的胜选机会而策划的阴谋。NBC把这段视频压了十一年！几乎让人想起他们在2000年对布什干的事。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5111@67/description",
+        "2016_Trump_Christie/answers_json/5111@67/description",
+        "2016_Trump_Sessions/answers_json/5111@71/description",
+        "2016_Trump_Carson/answers_json/5111@61/description",
+        "2016_Trump_Palin/answers_json/5111@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "I said some things in a private conversation that I shouldn't have, but think about what's at stake in this election. And think about all the times that Hillary Clinton helped her husband abuse and silence women.",
+      "sha256": "d5cacad9ec76ec00dc30f327f8322680a1c518bf7ce8c251739d3036ea82144d",
+      "zh": "我在私下谈话中说过一些不该说的话，但想想这次选举牵涉的重大问题。再想想希拉里·克林顿多少次帮助丈夫虐待女性，压制她们的声音。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5112@68/description",
+        "2016_Trump_Christie/answers_json/5112@68/description",
+        "2016_Trump_Sessions/answers_json/5112@72/description",
+        "2016_Trump_Carson/answers_json/5112@62/description",
+        "2016_Trump_Palin/answers_json/5112@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "It's not often that I feel shame. People who know me can agree. But I am very sorry for the way I acted in this situation, and we can't allow one ill-advised conversation to derail the entire future of the United States.",
+      "sha256": "6850c703d3b24b411ebefde211f9a39c60b04c88e4dc3306357d1002d1161f1e",
+      "zh": "我不常感到羞愧，了解我的人都会同意。但对于自己在这件事中的表现，我非常抱歉。我们不能让一次欠考虑的谈话，毁掉美国的整个未来。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5113@69/description",
+        "2016_Trump_Christie/answers_json/5113@69/description",
+        "2016_Trump_Sessions/answers_json/5113@73/description",
+        "2016_Trump_Carson/answers_json/5113@63/description",
+        "2016_Trump_Palin/answers_json/5113@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "As usual, Hillary has been caught telling lies. For all we know, this is just the beginning. Do we really want a President, and then a month after they're elected we find out they're being blackmailed by Russia or China?",
+      "sha256": "22fba1dfb2df91d63bab40ad31d10205352c48db66e27987d80bd51bf9e18599",
+      "zh": "照例，希拉里又被抓到撒谎了。说不定，这还只是开始。我们真想选出一位总统，然后在当选一个月后才发现，此人正遭到俄罗斯或中国的勒索吗？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5114@70/description",
+        "2016_Trump_Christie/answers_json/5114@70/description",
+        "2016_Trump_Sessions/answers_json/5114@74/description",
+        "2016_Trump_Carson/answers_json/5114@64/description",
+        "2016_Trump_Palin/answers_json/5114@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "No wonder she was working so hard to cheat Bernie Sanders out of the nomination. She's the Goldman Sachs candidate, folks, plain and simple.",
+      "sha256": "e49582294e8cabddd0074b874650bf9af06437e968af6bcc9063a459bf35f37d",
+      "zh": "难怪她那么卖力地作弊，剥夺伯尼·桑德斯获得提名的机会。各位，她就是高盛的候选人，明明白白。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5115@71/description",
+        "2016_Trump_Christie/answers_json/5115@71/description",
+        "2016_Trump_Sessions/answers_json/5115@75/description",
+        "2016_Trump_Carson/answers_json/5115@65/description",
+        "2016_Trump_Palin/answers_json/5115@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "If it's really true that Russia collaborated to release this information about Hillary Clinton's private speeches to Goldman Sachs, then I totally disavow and denounce these illegal leaks.",
+      "sha256": "c1255881b5652b633951e7d9950e7e4ad04d4105907a29f7a92f9942b83807d2",
+      "zh": "如果真是俄罗斯参与泄露了希拉里·克林顿对高盛的私下演说，那么我完全与这种非法泄露行为划清界限，并予以谴责。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5116@72/description",
+        "2016_Trump_Christie/answers_json/5116@72/description",
+        "2016_Trump_Sessions/answers_json/5116@76/description",
+        "2016_Trump_Carson/answers_json/5116@66/description",
+        "2016_Trump_Palin/answers_json/5116@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "They keep saying \"Russia Russia Russia\". I've heard other people say this was an inside job from a DNC whistleblower. You know, the guy that assassinated or something like that. Strange!",
+      "sha256": "72ad3c17db241432b69d567c5c76c99160e0e2a8990b0a866ac1e13de3682b8d",
+      "zh": "他们不停地说“俄罗斯、俄罗斯、俄罗斯”。我听别人说，这是民主党全国委员会内部的举报人干的。你知道，就是那个遭暗杀之类的人。真奇怪！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5117@73/description",
+        "2016_Trump_Christie/answers_json/5117@73/description",
+        "2016_Trump_Sessions/answers_json/5117@77/description",
+        "2016_Trump_Carson/answers_json/5117@67/description",
+        "2016_Trump_Palin/answers_json/5117@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "If you're a Bernie supporter, you should be outraged by this manipulation of the democratic process. It looks like the fix was in for Crooked Hillary from the day she started running!",
+      "sha256": "ca4f7d426695682aaf64ac59b76812b4e21a9e7e364a21eb2f82190112ff538a",
+      "zh": "如果你支持伯尼，就该对这种操纵民主程序的行为感到愤怒。看来，从“骗子希拉里”开始参选那天起，就已经有人替她内定好了结果！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5118@74/description",
+        "2016_Trump_Christie/answers_json/5118@74/description",
+        "2016_Trump_Sessions/answers_json/5118@78/description",
+        "2016_Trump_Carson/answers_json/5118@68/description",
+        "2016_Trump_Palin/answers_json/5118@75/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "This just shows how terrified the DNC and the political establishment are of substantive change to the system. I am the outsider candidate who will fix Washington and drain the swamp.",
+      "sha256": "fedb6bc9d855f29dda109ba90e48e21fbcce47958c8c4f9c80cc8144659a9af4",
+      "zh": "这恰恰说明，民主党全国委员会和政治建制派有多害怕对体制作出实质改变。我是体制外的候选人，会整顿华盛顿，排干这片沼泽。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5119@75/description",
+        "2016_Trump_Christie/answers_json/5119@75/description",
+        "2016_Trump_Sessions/answers_json/5119@79/description",
+        "2016_Trump_Carson/answers_json/5119@69/description",
+        "2016_Trump_Palin/answers_json/5119@76/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "I am preparing a severe criticism of Russia as we speak, a very very strong criticism I think you'll agree. For seeking to divide us as a nation by releasing this information about Hillary Clinton and her political tricks.",
+      "sha256": "88d22839819a896c75f5c29df9ddfd6a91a32321ceb111aa0e0f9379a670efca",
+      "zh": "就在我们说话的此刻，我正在准备严厉批评俄罗斯，非常非常严厉的批评，我想你会同意。因为它试图通过泄露希拉里·克林顿及其政治伎俩的信息，分裂我们的国家。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5120@76/description",
+        "2016_Trump_Christie/answers_json/5120@76/description",
+        "2016_Trump_Sessions/answers_json/5120@80/description",
+        "2016_Trump_Carson/answers_json/5120@70/description",
+        "2016_Trump_Palin/answers_json/5120@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "From the start, it's incredible that Hillary Clinton was even allowed to run. We're just fortunate that this news came out before the election. Can you imagine?!",
+      "sha256": "a7d816d6486a2fe11e8140a739659ec8f6c1c3f478d21b31da20888e2f589777",
+      "zh": "从一开始就允许希拉里·克林顿参选，简直不可思议。幸好，这个消息在选举之前传了出来。你能想象吗？！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5121@77/description",
+        "2016_Trump_Christie/answers_json/5121@77/description",
+        "2016_Trump_Sessions/answers_json/5121@81/description",
+        "2016_Trump_Carson/answers_json/5121@71/description",
+        "2016_Trump_Palin/answers_json/5121@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

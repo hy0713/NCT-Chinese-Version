@@ -1,0 +1,907 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-f",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 248,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 16,
+      "reason": "Exhibit A rhetorical strongest/obvious example, not fabricated legal evidence filing."
+    },
+    {
+      "index": 21,
+      "reason": "Insanity definition attribution to Einstein not proven; preserve source attribution pending sourced note."
+    },
+    {
+      "index": 24,
+      "reason": "Lame duck denotes outgoing/no further electoral mandate status, not physical disability."
+    },
+    {
+      "index": 25,
+      "reason": "Open primary here nomination without incumbent blocking contest after one-term pledge, not technical party-registration open-primary law."
+    },
+    {
+      "index": 27,
+      "reason": "Living wage means wage covering living needs, distinguished from legal minimum wage amount."
+    },
+    {
+      "index": 32,
+      "reason": "Original ecnomic typo interpreted economic."
+    },
+    {
+      "index": 33,
+      "reason": "Green New Deal term retained without inserting2019resolution or later2018advocacy into2016."
+    },
+    {
+      "index": 38,
+      "reason": "Public option not universal single-payer, differentiated from previous universal healthcare answer."
+    },
+    {
+      "index": 43,
+      "reason": "White supremicist typo interpreted white supremacist; candidate allegation not translated judicial finding."
+    },
+    {
+      "index": 45,
+      "reason": "Original by health typo interpreted my health."
+    },
+    {
+      "index": 50,
+      "reason": "Original10thousand cap retained, distinction admissions target versus legal ceiling requires note."
+    },
+    {
+      "index": 58,
+      "reason": "In drag describes Giuliani costume, not claimant gender identity or actual sexual assault adjudication."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "Thoughts and prayers are not enough. Every American should be outraged that the assault rifles used in these attacks are freely available and affordable.",
+      "sha256": "92e125508ac10b5879a42be0793daaaa64b921b5997e1244fbd27e005c61f674",
+      "zh": "牵挂与祈祷还不够。这些袭击中使用的突击步枪可以轻易且廉价地买到，每个美国人都应该为此感到愤怒。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5148@9/description",
+        "2016_Clinton_Booker/answers_json/5148@9/description",
+        "2016_Clinton_Brown/answers_json/5148@9/description",
+        "2016_Clinton_Sanders/answers_json/5148@9/description",
+        "2016_Clinton_Warren/answers_json/5148@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "My heart goes out the victims of this shooting. I will be going to Orlando in the next couple of days to pay my respects to the victims.",
+      "sha256": "822bb8a1db25ac3609ad74004d7f06fe76ffba7cd0bd3682be1c55dbcca86213",
+      "zh": "我由衷地向这次枪击的受害者表达慰问。未来几天，我会去奥兰多，向受害者致意。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5149@10/description",
+        "2016_Clinton_Booker/answers_json/5149@10/description",
+        "2016_Clinton_Brown/answers_json/5149@10/description",
+        "2016_Clinton_Sanders/answers_json/5149@10/description",
+        "2016_Clinton_Warren/answers_json/5149@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "We don't know yet the exact motives behind this attack, but I condemn religious terrorism in the strongest terms if that is the motive. And my heart especially goes out to the Hispanic and LGBT communities that were affected by this terrible act of violence.",
+      "sha256": "3bc4bc0e8a9e2ab031ede083dee44ed7d3e9a302774d9b2c69071f3ad3664896",
+      "zh": "我们还不知道这次袭击的确切动机，但如果动机是宗教恐怖主义，我会以最强烈的措辞予以谴责。我尤其牵挂受到这场可怕暴力影响的西班牙裔和LGBT群体。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5150@11/description",
+        "2016_Clinton_Booker/answers_json/5150@11/description",
+        "2016_Clinton_Brown/answers_json/5150@11/description",
+        "2016_Clinton_Sanders/answers_json/5150@11/description",
+        "2016_Clinton_Warren/answers_json/5150@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "We need to do more for America. I have a plan to make college and health care affordable for every American, paid for by the 1%. The Republicans want to cut taxes for America's wealthiest citizens, so they can keep buying elections and asking Washington for bailouts and subsidies.",
+      "sha256": "35202b11183ae5eb20b6f3e117ec20b9b570b4178f5cea2175b84d0bc60940b7",
+      "zh": "我们需要为美国做得更多。我有一项计划，让每个美国人都能负担大学教育和医疗费用，由最富有的1%人群出钱。共和党却想给美国最富有的公民减税，好让他们继续花钱左右选举，向华盛顿索取救助和补贴。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5151@12/description",
+        "2016_Clinton_Booker/answers_json/5151@12/description",
+        "2016_Clinton_Brown/answers_json/5151@12/description",
+        "2016_Clinton_Sanders/answers_json/5151@12/description",
+        "2016_Clinton_Warren/answers_json/5151@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "We have a wonderful, diverse, and strong party in the Democratic Party. When I'm President, we're going to raise the minimum wage. We're going to further improve Obamacare. We're going to create millions of high paying, green jobs. And we're going to make college more affordable for the next generation!",
+      "sha256": "e0eecbb69a7bd52dbd2e3f9224d987ad8403f4c300b055d29ad077c90f4aab55",
+      "zh": "民主党是一个出色、多元而强大的政党。我当上总统后，我们要提高最低工资，进一步完善奥巴马医改，创造数百万个高薪绿色就业岗位，还要让下一代更能负担大学费用！",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5152@13/description",
+        "2016_Clinton_Booker/answers_json/5152@13/description",
+        "2016_Clinton_Brown/answers_json/5152@13/description",
+        "2016_Clinton_Sanders/answers_json/5152@13/description",
+        "2016_Clinton_Warren/answers_json/5152@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "There is only one choice in this election. Donald Trump is so unqualified, and vastly offensive to our ideals, that his election could be an existential disaster for the nation. I am the safe, responsible alternative who will take our country forward.",
+      "sha256": "ee9da1060a581a985f886e643db8c115fda7b352974dfdde74bf7f674c48f3bd",
+      "zh": "这次选举只有一个选择。唐纳德·特朗普如此缺乏资格，又如此严重地冒犯我们的理想，他的当选可能给国家带来生存层面的灾难。我是稳妥而负责任的另一选择，会带领国家前进。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5153@14/description",
+        "2016_Clinton_Booker/answers_json/5153@14/description",
+        "2016_Clinton_Brown/answers_json/5153@14/description",
+        "2016_Clinton_Sanders/answers_json/5153@14/description",
+        "2016_Clinton_Warren/answers_json/5153@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "I have the experience to grow our economy, strengthen our military, create millions of new, high-paying jobs, and much more. I will be a President for all Americans when I am in office.",
+      "sha256": "7482993be24d76f9d6c13a19c334db8bc825c9964338189d17530733b3c5ccfb",
+      "zh": "我有经验推动经济增长、增强军队实力，创造数百万个新的高薪工作岗位，以及做更多事情。执政后，我会做全体美国人的总统。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5154@15/description",
+        "2016_Clinton_Booker/answers_json/5154@15/description",
+        "2016_Clinton_Brown/answers_json/5154@15/description",
+        "2016_Clinton_Sanders/answers_json/5154@15/description",
+        "2016_Clinton_Warren/answers_json/5154@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Tim Kaine has fought for American workers and families for his entire career. He is amply qualified and ready to step in for our agenda at a moment's notice.",
+      "sha256": "fd8a6e3a6b1ecefc5afca6c87b59adbb95223a7cdcd667f3496a5893113773a1",
+      "zh": "蒂姆·凯恩在整个职业生涯中，一直为美国劳动者和家庭奋斗。他资格充分，随时准备挺身而出，推进我们的议程。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5155@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Tim Kaine has served his home state of Virginia with great energy and effectiveness as a Governor and Senator. He is a hard working and honest person who can appeal to Americans across the ideological spectrum.",
+      "sha256": "928902f5248362b9e0b54906ff1d94c0790ffcf3f0bd0b50234ede4a8711376e",
+      "zh": "蒂姆·凯恩担任州长和参议员期间，以充沛的精力和出色的成效服务于他的家乡弗吉尼亚州。他勤奋而诚实，能吸引持各种政治观点的美国人。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5156@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "When I'm thinking about a running-mate, I'm thinking about the person who will make the best President if, God forbid, they must step into that role. Tim Kaine has outstanding experience and judgment and I'm proud to make him my running mate.",
+      "sha256": "af12a263eb1a79e6c42fd7205ce49e40a54ba2e232a47060e128f09131243c5b",
+      "zh": "考虑竞选搭档时，我想的是：万一不得不接任总统——但愿永远不会发生——谁最能胜任？蒂姆·凯恩有出众的经验和判断力，我很自豪能请他做搭档。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5157@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "Absolutely. The differences between us are much smaller than the things that unite us. We both wake up every day and fight for average Americans -- for their health care, their housing and education costs, and their personal rights.",
+      "sha256": "8ec093cf84a0303e7de2604362be9b5f89c81920e01a5775152e1bb987786206",
+      "zh": "当然。我们之间的分歧，远远小于把我们团结起来的共同点。我们每天醒来，都为普通美国人奋斗，为他们的医疗、住房与教育费用，以及个人权利奋斗。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5170@19/description",
+        "2016_Clinton_Booker/answers_json/5170@19/description",
+        "2016_Clinton_Brown/answers_json/5170@19/description",
+        "2016_Clinton_Warren/answers_json/5170@19/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "We don't really have a choice. He has far too much support in our party for us to pretend like he doesn't exist. Let's make sure to do a couple of appearances together before this is all over.",
+      "sha256": "8a11a5b01362418d7c1bbbc197edff2fde22b95fa9c525e075e2b356ceeaa0e1",
+      "zh": "我们实在别无选择。他在党内的支持太多了，我们不能假装他不存在。在竞选结束前，务必安排几次共同亮相。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5171@20/description",
+        "2016_Clinton_Booker/answers_json/5171@20/description",
+        "2016_Clinton_Brown/answers_json/5171@20/description",
+        "2016_Clinton_Warren/answers_json/5171@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Donald Trump would be a disaster for the future of this country. We need to do everything we can to appeal to moderate voters who can be swayed by a qualified candidate. Bernie unfortunately complicates things on that front.",
+      "sha256": "d917eb6ebadeb07e367111a73335c53be792c2e705212ae770f2de87113b64c6",
+      "zh": "唐纳德·特朗普会给这个国家的未来带来灾难。我们要竭尽所能，争取那些可能被合格候选人说服的温和派选民。不幸的是，伯尼让这方面的事情更复杂了。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5172@21/description",
+        "2016_Clinton_Booker/answers_json/5172@21/description",
+        "2016_Clinton_Brown/answers_json/5172@21/description",
+        "2016_Clinton_Warren/answers_json/5172@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "My heart goes out to the victims of this terrible attack. I will give a speech in a few days about the importance of tolerance and diversity in our society.",
+      "sha256": "fd62942949c64e7c23f348fec1a8221c3dd67d9954bd3f030dd4eff63d2577f4",
+      "zh": "我由衷地向这场可怕袭击的受害者表达慰问。几天后，我会发表演说，强调宽容和多元在我们社会中的重要性。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5173@22/description",
+        "2016_Clinton_Booker/answers_json/5173@22/description",
+        "2016_Clinton_Brown/answers_json/5173@22/description",
+        "2016_Clinton_Sanders/answers_json/5173@19/description",
+        "2016_Clinton_Warren/answers_json/5173@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "My heart goes out to those affected by this terrible attack. My thoughts and prayers are with the great nation of France, and I will travel to France to pay my respects to the victims.",
+      "sha256": "51a89480fe5cdd1e05667d2ce9d8c485e204a2afe50669252a4e558a5eddcf3b",
+      "zh": "我由衷地向所有受这场可怕袭击影响的人表达慰问。我牵挂伟大的法国，为它祈祷，也会前往法国，向受害者致意。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5174@23/description",
+        "2016_Clinton_Booker/answers_json/5174@23/description",
+        "2016_Clinton_Brown/answers_json/5174@23/description",
+        "2016_Clinton_Sanders/answers_json/5174@20/description",
+        "2016_Clinton_Warren/answers_json/5174@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "My heart goes out to the victims of this terrible attack. I will give a speech in a few days about the importance of defeating ISIS and religious extremism in all of its forms.",
+      "sha256": "fc1c04227ace4424300ee6ace3b4f71458ffeab6f2f97b33205ee86c63821f44",
+      "zh": "我由衷地向这场可怕袭击的受害者表达慰问。几天后，我会发表演说，强调击败“伊斯兰国”和一切形式宗教极端主义的重要性。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5175@24/description",
+        "2016_Clinton_Booker/answers_json/5175@24/description",
+        "2016_Clinton_Brown/answers_json/5175@24/description",
+        "2016_Clinton_Sanders/answers_json/5175@21/description",
+        "2016_Clinton_Warren/answers_json/5175@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "Donald Trump is dangerously divisive and completely unqualified to serve as President. His constantly inflammatory rhetoric towards women, Muslims, Hispanics, and others is Exhibit A, and I plan to call this out repeatedly as I campaign.",
+      "sha256": "45d256b36a7a4b7d4b63e6a15d81fd2b75c3edd82fbd5150fae2f09625c9aa0a",
+      "zh": "唐纳德·特朗普危险地制造分裂，完全没有资格担任总统。他不断针对女性、穆斯林、西班牙裔等群体发表煽动性言论，就是最明显的证据。我打算在竞选中反复揭露这一点。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5176@25/description",
+        "2016_Clinton_Booker/answers_json/5176@25/description",
+        "2016_Clinton_Brown/answers_json/5176@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Donald Trump's actions and comments about women are reprehensible. It would be absurd of us not to bring that up as we campaign, along with other important issues.",
+      "sha256": "faf426e0e24ebf6c448874c97ab51e765e593d1e78c12fc11299bca936a334e8",
+      "zh": "唐纳德·特朗普针对女性的行为和言论应受谴责。竞选时，我们如果不把这件事与其他重要议题一起提出来，那就太荒谬了。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5177@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "This campaign is about our fight for hard working American families, regardless of their background. I'm not going to fall into the trap of making this election about Trump's behavior, instead of his disastrous policies.",
+      "sha256": "6db2b765ca058143a57097881ae20f8176ad3bc71267d5d8414b373ab403e1de",
+      "zh": "这场竞选，是我们为辛勤工作的美国家庭而进行的奋斗，无论他们有什么背景。我不会掉进那个陷阱，让选举围绕特朗普的行为，而非他灾难性的政策展开。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5178@27/description",
+        "2016_Clinton_Booker/answers_json/5178@27/description",
+        "2016_Clinton_Brown/answers_json/5178@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "This campaign is about my experience and ability to serve as President. We're going to focus primarily on those qualifications as I campaign. The fact that I'm a woman speaks for itself.",
+      "sha256": "5858240f742838f7516c5316a84eb55fe10ed5f0325f5c5c461f88dbe01700ff",
+      "zh": "这场竞选，关乎我担任总统的经验和能力。竞选时，我们要主要聚焦这些资格。我是女性这个事实，本身已经很清楚了。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5179@28/description",
+        "2016_Clinton_Booker/answers_json/5179@28/description",
+        "2016_Clinton_Brown/answers_json/5179@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "The Republican playbook is very simple. Their actual policies hurt the economy, favor the rich, and drive up our nation's deficits. Since they can't win the economic debate honestly, they've created a vast, right-wing outrage machine to obfuscate their objectives.",
+      "sha256": "f9253b935c79574461eee944cdf85f94fc85ab2492635dbca34440d9d96dbe61",
+      "zh": "共和党的策略很简单。他们的实际政策伤害经济，偏袒富人，并推高国家赤字。既然无法在经济辩论中堂堂正正地获胜，他们就建立了一个庞大的右翼煽愤机器，来掩饰自己的目标。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5180@29/description",
+        "2016_Clinton_Brown/answers_json/5180@29/description",
+        "2016_Clinton_Warren/answers_json/5180@25/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Donald Trump claims to be a different kind of politician, but he says he will double down on the failed tax cuts and policies of George Bush. What did Einstein say about the definition of insanity?",
+      "sha256": "78e7a1fd49e39efd85ef0c91a019fffb619d0d7a6881731b4382f5a2d60952e0",
+      "zh": "唐纳德·特朗普声称，自己是另一种政治人物，却说要加倍推行乔治·布什失败的减税和政策。爱因斯坦是怎么定义疯狂的来着？",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5181@30/description",
+        "2016_Clinton_Brown/answers_json/5181@30/description",
+        "2016_Clinton_Warren/answers_json/5181@26/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Donald Trump is dangerously uninformed and unqualified to serve as President. This campaign needs to focus on my experience and qualifications, in contrast to his utterly unserious credentials and statements.",
+      "sha256": "2a18ecec28cbae0ad5f330e130af336457ce6ef8b57e339698f840a20fc52c9c",
+      "zh": "唐纳德·特朗普对情况的无知令人担忧，也没有资格担任总统。这场竞选需要突出我的经验和资格，与他极不靠谱的资历和言论形成对照。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5182@31/description",
+        "2016_Clinton_Brown/answers_json/5182@31/description",
+        "2016_Clinton_Warren/answers_json/5182@27/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Donald Trump is a dangerously divisive and corrosive influence on our society. This campaign needs to focus on his attacks against veterans, women, Hispanics, and practically any other group that he can think of.",
+      "sha256": "7f3944c6df3dea2e4b35a7ccf0d4ac5a5ceebb7efa7fa9604726bc124b3744c5",
+      "zh": "唐纳德·特朗普给我们的社会带来危险的分裂与侵蚀。这场竞选需要聚焦他对退伍军人、女性、西班牙裔，以及几乎所有他能想到的群体的攻击。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5183@32/description",
+        "2016_Clinton_Brown/answers_json/5183@32/description",
+        "2016_Clinton_Warren/answers_json/5183@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I am opposed to this idea. Why should I turn myself into a lame duck and project weakness before the voting for my first term even starts?",
+      "sha256": "a4076a7c92e5ed44b4bb4cec86b2dcdae1cd5716caa5ce0cd901085590ccf0d3",
+      "zh": "我反对这个想法。连第一个任期的投票都还没开始，我为什么就要让自己变成跛脚鸭，表现出软弱？",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5184@33/description",
+        "2016_Clinton_Booker/answers_json/5184@29/description",
+        "2016_Clinton_Brown/answers_json/5184@33/description",
+        "2016_Clinton_Sanders/answers_json/5184@22/description",
+        "2016_Clinton_Warren/answers_json/5184@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "We must acknowledge the unique nature of this election, and of our opponent. This pledge might help reluctant moderates and far-left progressives support me for now, if they see an open primary coming in three years.",
+      "sha256": "c5246d86e0ee2f3194e42fa49a651c9b3e8db28fc38f57f9f3eb9b996e7f4d82",
+      "zh": "我们必须承认，这场选举和我们的对手都很特殊。如果犹豫的温和派和最左翼的进步派看到，三年后会有一场没有既定人选的初选，这项承诺也许能帮助他们暂时支持我。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5185@34/description",
+        "2016_Clinton_Booker/answers_json/5185@30/description",
+        "2016_Clinton_Brown/answers_json/5185@34/description",
+        "2016_Clinton_Sanders/answers_json/5185@23/description",
+        "2016_Clinton_Warren/answers_json/5185@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "We need a minimum wage of at least $12 an hour, and hopefully more. I'm proud to stand with my running mate and advocate for the American worker in their fight against the 1%.",
+      "sha256": "35e1cb0a002bd823c536f2f2f95abfce2774344d2e43ec996a6e9e5da081b39f",
+      "zh": "我们需要至少每小时12美元的最低工资，希望还能更高。我很自豪能与我的搭档站在一起，在美国劳动者对抗最富有的1%人群时为他们发声。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5189@35/description",
+        "2016_Clinton_Warren/answers_json/5189@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "The choice in this election is clear. I think every worker deserves to be paid a living wage, and Donald Trump doesn't. This issue is at the core of what the Democratic Party is fighting for.",
+      "sha256": "7ae6881b882c84a86f9dd380e8247d93c5aa7db604be0673f03f143113bdcff7",
+      "zh": "这次选举的选择很明确。我认为，每个劳动者都应获得足以维持生活的工资，唐纳德·特朗普却不这么想。这正是民主党奋斗目标的核心。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5190@36/description",
+        "2016_Clinton_Warren/answers_json/5190@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "The larger focus in this campaign is going to be my experience and my foreign policy credentials. And also on my dangerously unqualified opponent.",
+      "sha256": "712f85777634674321ecad63d7d4dd9d113374a3303954f4be02eb5271ce9fb8",
+      "zh": "这场竞选会更着重于我的经验和外交资历，也会突出我的对手缺乏资格，足以带来危险。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5191@37/description",
+        "2016_Clinton_Warren/answers_json/5191@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "Barack Obama has an approval rate right now of more than 50 percent. It seems obvious that we would want to utilize him early and often.",
+      "sha256": "668e800a846ba2551a0dde3686aadc86abc481afcbb721bb3bda2571ae0727e4",
+      "zh": "贝拉克·奥巴马目前的支持率超过50%。显而易见，我们希望尽早而频繁地发挥他的作用。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5196@38/description",
+        "2016_Clinton_Booker/answers_json/5196@35/description",
+        "2016_Clinton_Sanders/answers_json/5196@31/description",
+        "2016_Clinton_Warren/answers_json/5196@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "I want Barack Obama to be actively involved in our campaign. And more specifically, I want him to really campaign hard in places like Detroit, Milwaukee, Philadelphia, and others where we need high levels of African-American support.",
+      "sha256": "6eed1f68a20627b3d811c67af42f5c6b7d7fd8d5895046fadec190891de64ad2",
+      "zh": "我希望贝拉克·奥巴马积极参与我们的竞选。具体来说，我希望他在底特律、密尔沃基、费城等地大力助选，因为我们需要这些地方非裔美国人的高度支持。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5197@39/description",
+        "2016_Clinton_Booker/answers_json/5197@36/description",
+        "2016_Clinton_Sanders/answers_json/5197@32/description",
+        "2016_Clinton_Warren/answers_json/5197@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "We're going to appear with Barack and Michelle, but we need to be careful about running for the third term of Obama's Presidency. There are significant differences between us as well.",
+      "sha256": "e6d3c3410c702f086728ef6c335c85e7aa698cb6eaeefb232f05bd1e6cf06513",
+      "zh": "我们会与贝拉克和米歇尔共同亮相，但必须谨慎，不能把竞选变成争取奥巴马的第三个任期。我们之间也有重大差别。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5198@40/description",
+        "2016_Clinton_Booker/answers_json/5198@37/description",
+        "2016_Clinton_Sanders/answers_json/5198@33/description",
+        "2016_Clinton_Warren/answers_json/5198@40/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Part of my campaign is about moving beyond the legacy of Obama and fighting more assertively for systemic ecnomic change. My focus will be more on appearing with Elizabeth Warren, Bernie Sanders, and others.",
+      "sha256": "8eb950ad1604bf0eb51773f8f264bdee87b2faa1e5040af230e756a3f0e2e6db",
+      "zh": "我的竞选有一部分，就是超越奥巴马的政治遗产，更积极地争取系统性的经济变革。我会更着重于与伊丽莎白·沃伦、伯尼·桑德斯等人共同亮相。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5199@41/description",
+        "2016_Clinton_Booker/answers_json/5199@38/description",
+        "2016_Clinton_Sanders/answers_json/5199@34/description",
+        "2016_Clinton_Warren/answers_json/5199@41/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "We need a Green New Deal. Global warming is the great challenge of our era, and we need to make every investment we can to combat it. And furthermore, we need to make tough choices on our current economic and environmental regulations.",
+      "sha256": "d8aae42238f73f8f4799d8789fac1de1e59fcd0782a5373cad3aa79b5ca2c20e",
+      "zh": "我们需要一项绿色新政。全球变暖是我们时代的重大挑战，我们需要尽一切可能投资应对。除此之外，我们还必须对现有经济和环境监管作出艰难选择。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5204@42/description",
+        "2016_Clinton_Brown/answers_json/5204@43/description",
+        "2016_Clinton_Sanders/answers_json/5204@35/description",
+        "2016_Clinton_Warren/answers_json/5204@42/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "I will put significant effort into cutting emissions, working with our global partners, and in increasing the funding for our scientific institutions. Donald Trump, on the other hand, says this is all some conspiracy from China.",
+      "sha256": "7d9c2dd383b971d3b47bd058d51403686068781ef1c35775908dc4602dd7222e",
+      "zh": "我会大力推动减排，与全球伙伴合作，并增加对科研机构的资助。唐纳德·特朗普却说，这一切都是中国的某种阴谋。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5205@43/description",
+        "2016_Clinton_Brown/answers_json/5205@44/description",
+        "2016_Clinton_Sanders/answers_json/5205@36/description",
+        "2016_Clinton_Warren/answers_json/5205@43/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "The Republicans and Donald Trump want to pull us out of the Paris Accords, turn coal loose in the country, and take us back decades when it comes to environmental regulation. That won't happen when I am President.",
+      "sha256": "815cbda87c0ec5c2944daf1a1f616fa65548b347a23d42e5f2509f02496eed71",
+      "zh": "共和党和唐纳德·特朗普想让我们退出《巴黎协定》，在国内放任煤炭产业，并让环境监管倒退几十年。我当总统时，不会发生这种事。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5206@44/description",
+        "2016_Clinton_Brown/answers_json/5206@45/description",
+        "2016_Clinton_Sanders/answers_json/5206@37/description",
+        "2016_Clinton_Warren/answers_json/5206@44/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "The best way to combat global warming is through the effort of American enterprise. With the right incentives, I'm confident that we will find solutions to the problems of solar and wind energy, with minimal disruptions to existing jobs and businesses.",
+      "sha256": "935c5efe1bdd6806479f19928c66505c120be093a44aedb1ad8d90074632a650",
+      "zh": "应对全球变暖的最好办法，是依靠美国企业的努力。有了恰当的激励，我相信，我们会找到解决太阳能和风能问题的办法，同时尽量减少对现有工作岗位和企业的冲击。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5207@45/description",
+        "2016_Clinton_Brown/answers_json/5207@46/description",
+        "2016_Clinton_Sanders/answers_json/5207@38/description",
+        "2016_Clinton_Warren/answers_json/5207@45/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "Obamacare did not go far enough. We will fight very hard for universal health care when I am President, in whatever form that may take. This has been my fight for over 20 years now.",
+      "sha256": "f1a77a6baf088507b558b655f44973f357409ce555f573fc2afe42b9811c9dbc",
+      "zh": "奥巴马医改走得还不够远。我当上总统后，我们会全力争取全民医疗保障，不论最终采取哪种形式。这是我已经坚持二十多年的奋斗。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5220@46/description",
+        "2016_Clinton_Brown/answers_json/5220@55/description",
+        "2016_Clinton_Sanders/answers_json/5220@47/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "I was very sad when the public option was taken out of the Affordable Care Act. This is something we must fight for over the coming years, along with adequate funding and controls on prices.",
+      "sha256": "99e353b2f175188cfe25dd4c95f2f69556ae90efe19bc6aaad55ec0a3ab967e3",
+      "zh": "公共医保选项被从《平价医疗法案》中删除时，我非常难过。未来几年，我们必须争取恢复它，同时争取充分的资金和价格控制。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5221@47/description",
+        "2016_Clinton_Brown/answers_json/5221@56/description",
+        "2016_Clinton_Sanders/answers_json/5221@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Donald Trump is a uniquely unqualified and dangerous individual to occupy the White House. He has said over and over again that he will immediately repeal Obamacare if he is President, throwing millions off their health insurance.",
+      "sha256": "0fc67ead99963be6f2d710d6d76879f0f418c2b602c77397f78f4bf9c98a0346",
+      "zh": "唐纳德·特朗普是个格外缺乏资格、又危险的人，不应该入主白宫。他一再表示，当上总统就立刻废除奥巴马医改，让数百万人失去医疗保险。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5222@48/description",
+        "2016_Clinton_Brown/answers_json/5222@57/description",
+        "2016_Clinton_Sanders/answers_json/5222@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "I will fight hard to preserve the landmark Affordable Care Act when I am President. This program is one of Barack Obama's great legacies.",
+      "sha256": "958d17cd3c6852d49aa4114c1272d3fb47c4950210d3cc62a084d55bd6ddad13",
+      "zh": "我当上总统后，会全力维护具有里程碑意义的《平价医疗法案》。这个项目是贝拉克·奥巴马的一项重大政治遗产。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5223@49/description",
+        "2016_Clinton_Brown/answers_json/5223@58/description",
+        "2016_Clinton_Sanders/answers_json/5223@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "This was an ill-considered and insensitive comment on my part, and I apologize. While this is a real issue, saying it describes \"half\" of Trump's supporters is a definite exaggeration.",
+      "sha256": "5cedc0b22c7ec173eaeec41c228caa7a7ffb96b51ee5d4cfd2a572f5a00d0952",
+      "zh": "我这句话欠考虑，也不体谅人，我为此道歉。虽然这个问题确实存在，但说特朗普“一半”的支持者都如此，显然夸大了。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5224@50/description",
+        "2016_Clinton_Booker/answers_json/5224@47/description",
+        "2016_Clinton_Brown/answers_json/5224@59/description",
+        "2016_Clinton_Sanders/answers_json/5224@51/description",
+        "2016_Clinton_Warren/answers_json/5224@50/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "We should all be very concerned with the right-wing radicalism that Trump has enabled. It has no place in America, even if this particular remark could have been stated with more finesse.",
+      "sha256": "905f4ef104b5aaca929eff3dfc108c9fb9b183b767bbb7895e5feea26550ce4f",
+      "zh": "我们都应高度警惕特朗普助长的右翼激进主义。它在美国没有容身之地，尽管这句话本可以说得更讲究一些。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5225@51/description",
+        "2016_Clinton_Booker/answers_json/5225@48/description",
+        "2016_Clinton_Brown/answers_json/5225@60/description",
+        "2016_Clinton_Sanders/answers_json/5225@52/description",
+        "2016_Clinton_Warren/answers_json/5225@51/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "I will apologize for this remark when Trump apologizes for his \"rapist\" comments about Hispanics, his constant attacks on women, and his failure to condemn white supremicist supporters.",
+      "sha256": "361dd7aa7ef9a9ab69b086916a71486a48a845be50b1782922bfb827076beb25",
+      "zh": "等特朗普为把西班牙裔称作“强奸犯”、不断攻击女性，以及不肯谴责白人至上主义支持者而道歉时，我就会为这句话道歉。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5226@52/description",
+        "2016_Clinton_Booker/answers_json/5226@49/description",
+        "2016_Clinton_Brown/answers_json/5226@61/description",
+        "2016_Clinton_Sanders/answers_json/5226@53/description",
+        "2016_Clinton_Warren/answers_json/5226@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "After months of hard campaigning, what seemed to be a minor cough has turned into something more. Unfortunately it looks like I will need to take some days off from the campaign to rest and recuperate.",
+      "sha256": "99ae0830c2e25ee87a832bed5480c2ad07bccb2689f76ca622c169da0871b4ad",
+      "zh": "经过几个月艰苦竞选，原本看似轻微的咳嗽变得更严重了。不幸的是，看来我需要暂时离开竞选几天，休息恢复。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5227@53/description",
+        "2016_Clinton_Booker/answers_json/5227@50/description",
+        "2016_Clinton_Brown/answers_json/5227@62/description",
+        "2016_Clinton_Sanders/answers_json/5227@54/description",
+        "2016_Clinton_Warren/answers_json/5227@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "No comment really. It's unfortunate that the right-wing media is circulating numerous unfounded rumors about by health. The people will see these are lies as I campaign vigorously over the coming weeks.",
+      "sha256": "89f1bca4f69b00b915375a391d0398774f4275482401449225f454d5c887d07c",
+      "zh": "我实在没什么可评论的。右翼媒体传播大量关于我健康的无根据谣言，令人遗憾。未来几周，我会积极竞选，让大家看出这些是谎言。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5228@54/description",
+        "2016_Clinton_Kaine/answers_json/5229@55/description",
+        "2016_Clinton_Kaine/answers_json/5230@56/description",
+        "2016_Clinton_Booker/answers_json/5228@51/description",
+        "2016_Clinton_Booker/answers_json/5229@52/description",
+        "2016_Clinton_Booker/answers_json/5230@53/description",
+        "2016_Clinton_Brown/answers_json/5228@63/description",
+        "2016_Clinton_Brown/answers_json/5229@64/description",
+        "2016_Clinton_Brown/answers_json/5230@65/description",
+        "2016_Clinton_Sanders/answers_json/5228@55/description",
+        "2016_Clinton_Sanders/answers_json/5229@56/description",
+        "2016_Clinton_Sanders/answers_json/5230@57/description",
+        "2016_Clinton_Warren/answers_json/5228@54/description",
+        "2016_Clinton_Warren/answers_json/5229@55/description",
+        "2016_Clinton_Warren/answers_json/5230@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "This deal was one of Barack Obama's real achievements during his time in office that we will uphold and enforce. I fully support it.",
+      "sha256": "ca8f038ce4392b6e281d5e217e6c9e511b2c40ed82ae7433a3bcf2b23100d399",
+      "zh": "这项协议是贝拉克·奥巴马任内的一项实在成就，我们会维护并执行它。我完全支持。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5231@57/description",
+        "2016_Clinton_Booker/answers_json/5231@54/description",
+        "2016_Clinton_Sanders/answers_json/5231@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Like many people, I had some concerns with specific provisions in this deal. But overall, it is a worthwhile step in the right direction.",
+      "sha256": "aa84e0f7716990f1ed790d2bf44ab31b65acb746172a1526e36e8e551a911657",
+      "zh": "和许多人一样，我对协议的一些具体条款有所顾虑。但总的来说，这是朝正确方向迈出的一步，值得肯定。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5232@58/description",
+        "2016_Clinton_Booker/answers_json/5232@55/description",
+        "2016_Clinton_Sanders/answers_json/5232@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "This is definitely something that my team will approach with fresh eyes when I am President, but I can't say more than that right now.",
+      "sha256": "ec289104233ea6620932444ef0b471d3ea19aac0ddfcbecff2d3642a8fb26bce",
+      "zh": "我当上总统后，团队肯定会以新的眼光审视这件事，但现在不能说得更多。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5233@59/description",
+        "2016_Clinton_Booker/answers_json/5233@56/description",
+        "2016_Clinton_Sanders/answers_json/5233@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Donald Trump says he will tear this deal up, should he somehow win this election. That is dangerous and ill-conceived, and really shows how unfit he is to guide America's foreign policy.",
+      "sha256": "14df26c5d5dda90870b8ef29be7537acabbb9b8e8cf926541153604300e913f6",
+      "zh": "唐纳德·特朗普说，如果他真能赢得选举，就会撕毁这项协议。这既危险又欠考虑，恰恰说明他多么不适合领导美国外交。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5234@60/description",
+        "2016_Clinton_Booker/answers_json/5234@57/description",
+        "2016_Clinton_Sanders/answers_json/5234@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "We need to be vigilant in every case, but a cap of 10 thousand people is appalingly low from any humanitarian perspective. This conflict has displaced millions, including small children and infants.",
+      "sha256": "04eedf54faa89b00222969845875a00e9e86870383274c96eb3da32a9d81758c",
+      "zh": "我们必须在每一个个案上保持警惕，但不管从什么人道主义角度看，一万人的上限都低得令人震惊。这场冲突已经迫使数百万人流离失所，其中包括幼童和婴儿。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5235@61/description",
+        "2016_Clinton_Booker/answers_json/5235@58/description",
+        "2016_Clinton_Warren/answers_json/5235@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "We must balance the humanitarian impulse with what is practical and politically feasible. I would prefer to see us offer generous aid to Turkey, Jordan, and other affected countries as we protect people from the brutal Assad regime and defeat ISIS.",
+      "sha256": "559267d098d3c47c39182dc8cf73b932836454f25ba42e36ea7281dfb66560bc",
+      "zh": "我们必须在人道主义愿望与实际、政治可行性之间取得平衡。我更希望向土耳其、约旦及其他受影响国家提供慷慨援助，同时保护人民免受残暴的阿萨德政权迫害，并击败“伊斯兰国”。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5236@62/description",
+        "2016_Clinton_Booker/answers_json/5236@59/description",
+        "2016_Clinton_Warren/answers_json/5236@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "What's happening in Syria right now is obviously tragic. The last thing we need right now is the divisive and unstable leadership of Donald Trump to make things worse.",
+      "sha256": "a76bb331735ebdcf4734e321b6d833c293cb8370e8d48e4e0ca1a2dcf69708fb",
+      "zh": "叙利亚正在发生的事情，显然是一场悲剧。我们现在最不需要的，就是唐纳德·特朗普分裂而不稳定的领导，让事情变得更糟。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5237@63/description",
+        "2016_Clinton_Booker/answers_json/5237@60/description",
+        "2016_Clinton_Warren/answers_json/5237@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Donald Trump has already hinted that he won't accept the results of this election, and that any debate cannot be considered fair because of so-called moderator bias. I would prefer to take my case directly to the American people with 30-minute television spots.",
+      "sha256": "b7cb6e84f9fbb7335eebd387d1ca85bab86e73222304f77ba35673bb414cc695",
+      "zh": "唐纳德·特朗普已经暗示，他不会接受这次选举结果，还说由于所谓的主持人偏见，任何辩论都不能算公平。我更愿意用三十分钟的电视广告，直接向美国人民陈述自己的主张。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5242@64/description",
+        "2016_Clinton_Booker/answers_json/5242@65/description",
+        "2016_Clinton_Brown/answers_json/5242@66/description",
+        "2016_Clinton_Sanders/answers_json/5242@66/description",
+        "2016_Clinton_Warren/answers_json/5242@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "These debates will expose Donald Trump as woefully unprepared and unqualified to assume the position of President. I am eagerly looking forward to participating.",
+      "sha256": "092e941c9780187d9dff2ea1ff76650999b1be9960bc256e1a3e31219ad44515",
+      "zh": "这些辩论会暴露出，唐纳德·特朗普完全没有准备好，也没有资格担任总统。我热切期待参加。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5243@65/description",
+        "2016_Clinton_Kaine/answers_json/5244@66/description",
+        "2016_Clinton_Kaine/answers_json/5245@67/description",
+        "2016_Clinton_Booker/answers_json/5243@66/description",
+        "2016_Clinton_Booker/answers_json/5244@67/description",
+        "2016_Clinton_Booker/answers_json/5245@68/description",
+        "2016_Clinton_Brown/answers_json/5243@67/description",
+        "2016_Clinton_Brown/answers_json/5244@68/description",
+        "2016_Clinton_Brown/answers_json/5245@69/description",
+        "2016_Clinton_Sanders/answers_json/5243@67/description",
+        "2016_Clinton_Sanders/answers_json/5244@68/description",
+        "2016_Clinton_Sanders/answers_json/5245@69/description",
+        "2016_Clinton_Warren/answers_json/5243@65/description",
+        "2016_Clinton_Warren/answers_json/5244@66/description",
+        "2016_Clinton_Warren/answers_json/5245@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "Like many women, I was sickened and appalled to see Donald Trump bragging about assault in casual conversation. Are these the values that we stand for in America, and that we want to teach our children?",
+      "sha256": "a13928f08120f128395b23560f3ba0687f094a174f517b7c8de971eab3617a8f",
+      "zh": "和许多女性一样，看到唐纳德·特朗普在闲聊中吹嘘侵犯女性，让我恶心而震惊。这是我们在美国所坚持、想教给孩子的价值观吗？",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5246@68/description",
+        "2016_Clinton_Booker/answers_json/5246@69/description",
+        "2016_Clinton_Brown/answers_json/5246@70/description",
+        "2016_Clinton_Sanders/answers_json/5246@70/description",
+        "2016_Clinton_Warren/answers_json/5246@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "This video clip is just one more piece of evidence that Donald Trump is a fake conservative who doesn't share Christian values. And of course, it also shows yet again how grossly unqualified Trump is to serve as President.",
+      "sha256": "debfb46c621ad68be199c99afd1aae3c226b907dd05b0faf541e2e5f453931c1",
+      "zh": "这段视频又一次证明，唐纳德·特朗普是个不认同基督教价值观的假保守派。当然，它也再次说明，特朗普多么缺乏担任总统的资格。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5247@69/description",
+        "2016_Clinton_Booker/answers_json/5247@70/description",
+        "2016_Clinton_Brown/answers_json/5247@71/description",
+        "2016_Clinton_Sanders/answers_json/5247@71/description",
+        "2016_Clinton_Warren/answers_json/5247@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "This clip will show up all over the news and the internet for days. Let's continue to make our own case to the American people.",
+      "sha256": "c7b06cdb7d0ff1be45553801908c31b5e28d5c230316e3dc6dcdaba3d096f9f9",
+      "zh": "未来几天，这段视频会铺满新闻和互联网。让我们继续向美国人民陈述自己的主张。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5248@70/description",
+        "2016_Clinton_Booker/answers_json/5248@71/description",
+        "2016_Clinton_Brown/answers_json/5248@72/description",
+        "2016_Clinton_Sanders/answers_json/5248@72/description",
+        "2016_Clinton_Warren/answers_json/5248@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "As bad as it is, this clip is just part of an even larger pattern. His insinuations about Miss Universe contestants. His strange statements about his own daughter. There's a bizarre video where he fondles Rudy Giuliani, in drag.",
+      "sha256": "4d0a48cefe5d15a1b2ec00f19ea90d1d6e9f5d7a7901d4ed6b0228f5e3ac7e41",
+      "zh": "这段视频虽然恶劣，却只是一个更广泛的行为模式的一部分。他对环球小姐参赛者的影射，对自己女儿的奇怪言论，还有一段古怪视频，里面他抚摸着男扮女装的鲁迪·朱利安尼。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5249@71/description",
+        "2016_Clinton_Booker/answers_json/5249@72/description",
+        "2016_Clinton_Brown/answers_json/5249@73/description",
+        "2016_Clinton_Sanders/answers_json/5249@73/description",
+        "2016_Clinton_Warren/answers_json/5249@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "This is a gross misrepresentation of my statements. I was speaking hypothetically about the future 40 or 50 years from now. And I would remind you that these statements were most likely leaked by Russian intelligence.",
+      "sha256": "5d9221ac9c020cde5448ba75511b2d401b2872a33609eb377918fabb24033b27",
+      "zh": "这严重歪曲了我的话。我是在假设四五十年后的未来。还要提醒你，这些言论很可能是俄罗斯情报部门泄露的。",
+      "keys": [
+        "2016_Clinton_Kaine/answers_json/5250@72/description",
+        "2016_Clinton_Booker/answers_json/5250@73/description",
+        "2016_Clinton_Brown/answers_json/5250@74/description",
+        "2016_Clinton_Sanders/answers_json/5250@74/description",
+        "2016_Clinton_Warren/answers_json/5250@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

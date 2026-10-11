@@ -1,0 +1,782 @@
+[
+  {
+    "source": "This should hit the spot, given the riots and chaos this country has witnessed over the past three years.",
+    "zh": "考虑到这个国家在过去三年里经历的骚乱和混乱，这应该是切中要害的。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/657@5/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/657@5/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/657@5/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/657@5/answer_feedback"
+    ]
+  },
+  {
+    "source": "There are a lot of angles you can attack from, but for the most part people are happy with Johnson's programs. You'd do better targeting the Democrats on the war or the incessant rioting.",
+    "zh": "您可以从很多角度进行攻击，但大多数情况下人们对约翰逊的程序感到满意。你最好把矛头指向民主党，因为战争或持续不断的骚乱。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/658@6/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/658@6/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/658@6/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/658@6/answer_feedback"
+    ]
+  },
+  {
+    "source": "This stance may rankle some true believers, but it will definitely help you compete in the Midwest and Northeast.",
+    "zh": "这种立场可能会激怒一些真正的信徒，但它肯定会帮助你在中西部和东北部竞争。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/659@7/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/659@7/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/659@7/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/659@7/answer_feedback"
+    ]
+  },
+  {
+    "source": "Don't bring Goldwater's name into this. There are far better ways to attack the Democrats.",
+    "zh": "不要将戈德华特的名字带入其中。有更好的方法来攻击民主党。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/660@8/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/660@8/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/660@8/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/660@8/answer_feedback"
+    ]
+  },
+  {
+    "source": "A moderate stance like this will help you win a broad coalition of voters in the fall.",
+    "zh": "像这样的温和立场将帮助您在秋季赢得广泛的选民联盟。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/661@9/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/661@9/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/661@9/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/661@9/answer_feedback"
+    ]
+  },
+  {
+    "source": "Did you just promise to escalate the war in Vietnam? This might make you popular in certain quarters, but it won't help you win this fall.",
+    "zh": "你刚刚承诺要升级越南战争吗？这可能会让你在某些方面很受欢迎，但不会帮助你在今年秋天获胜。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/662@10/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/662@10/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/662@10/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/662@10/answer_feedback"
+    ]
+  },
+  {
+    "source": "You may be banging your head against a concrete wall trying to beat Wallace in states like Louisiana.",
+    "zh": "在路易斯安那州这样的州，你可能会用头撞混凝土墙，试图击败华莱士。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/663@11/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/663@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "You'd better take some big states in the North in order for this answer to pay off.",
+    "zh": "为了让这个答案得到回报，你最好选择北方的一些大州。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/664@12/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/664@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "Reagan may not be pleased with your perfunctory gestures, but he is also not that popular with the northern wing of the party. Everything is a trade off.",
+    "zh": "里根可能对你敷衍的姿态不满意，但他也不太受党内北翼的欢迎。一切都是权衡。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/665@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "As word of a possible peace deal breaks, Humphrey is surging in the final polls. Will you have the votes you need on election day? Sit down and watch the results come in.",
+    "zh": "随着可能达成和平协议的消息传出，汉弗莱在最终民意调查中的排名飙升。您能在选举日获得所需的选票吗？坐下来看看结果出来。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/666@14/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/666@13/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/666@11/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/666@11/answer_feedback"
+    ]
+  },
+  {
+    "source": "The peace talks collapsed on the final weekend before the election. Unfortunately, the news has also broken that you had something to do with it! Settle in to watch the returns, and pray that you can somehow pull this out...",
+    "zh": "和谈在选举前的最后一个周末破裂。不幸的是，有消息称你与这件事有关！安顿下来观看选举结果，并祈祷你能以某种方式解决这个问题......",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/667@15/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/667@14/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/667@12/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/667@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "Your gamble has paid off. Humphrey's momentum was halted when the peace talks collapsed, and there hasn't been a word in the news to suggest you had a part in it. The only thing left to do now is to watch the returns come in.",
+    "zh": "你的冒险奏效了。和谈破裂遏制了汉弗莱的势头，新闻里也没有任何迹象表明你参与其中。现在，只需静候计票结果。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/668@16/answer_feedback",
+      "1968_Nixon_Agnew/answer_feedback_json/669@17/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/668@15/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/669@16/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/668@13/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/669@14/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/668@13/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/669@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "Unfortunately, Humphrey absolutely trounced you in the debate you agreed to have. Your gamble did not pay off.",
+    "zh": "不幸的是，汉弗莱在你同意的辩论中彻底击败了你。你的赌博没有得到回报。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/670@18/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/670@17/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/670@15/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/670@15/answer_feedback"
+    ]
+  },
+  {
+    "source": "Observers agreed that Humphrey seemed to be the better debater, but you avoided any serious mistakes. Overall the impact will be minor.",
+    "zh": "观察者一致认为汉弗莱似乎是更好的辩手，但你避免了任何严重的错误。总体来说影响会很小。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/671@19/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/671@18/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/671@16/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/671@16/answer_feedback"
+    ]
+  },
+  {
+    "source": "Wow! You held Humphrey to a draw and seemed in command of yourself throughout. What a turnaround from 1960.",
+    "zh": "哇！你将汉弗莱打成了平局，并且似乎自始至终都能掌控自己。与 1960 年相比，情况发生了多么大的转变。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/672@20/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/672@19/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/672@17/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/672@17/answer_feedback"
+    ]
+  },
+  {
+    "source": "Humphrey will spend the rest of the campaign needling you on this issue. Of course, you've started out with such a lead that it hopefully won't matter in the end.",
+    "zh": "汉弗莱将在竞选活动的剩余时间里就这个问题对你进行针锋相对。当然，一开始你就处于领先地位，希望最终不会有什么影响。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/673@21/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/673@20/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/673@18/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/673@18/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is not what most Democrats want to hear you say when you talk about Medicare.",
+    "zh": "当您谈论联邦医疗保险时，这不是大多数民主党人想听到的。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/679@22/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/679@21/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/679@19/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/679@19/answer_feedback",
+      "1968_Humphrey_Muskie/answer_feedback_json/679@18/answer_feedback",
+      "1968_Humphrey_Kennedy/answer_feedback_json/679@18/answer_feedback",
+      "1968_Humphrey_Connally/answer_feedback_json/679@18/answer_feedback",
+      "1968_Humphrey_Harris/answer_feedback_json/679@18/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/679@12/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/679@12/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/679@12/answer_feedback"
+    ]
+  },
+  {
+    "source": "You are being cheered along by the liberal wing of the party, but overall you've probably lost votes with this position.",
+    "zh": "你受到了党内自由派的欢呼，但总的来说，你可能因这个立场而失去了选票。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/680@23/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/680@22/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/680@20/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/680@20/answer_feedback",
+      "1968_Humphrey_Muskie/answer_feedback_json/680@21/answer_feedback",
+      "1968_Humphrey_Kennedy/answer_feedback_json/680@21/answer_feedback",
+      "1968_Humphrey_Connally/answer_feedback_json/680@21/answer_feedback",
+      "1968_Humphrey_Harris/answer_feedback_json/680@21/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/680@13/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/680@13/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/680@13/answer_feedback"
+    ]
+  },
+  {
+    "source": "Managing the economy is one thing that the Democrats have done right. You should own this issue -- not be running from it.",
+    "zh": "管理经济是民主党做得对的一件事。你应该承认这个问题——而不是逃避它。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/681@24/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/681@23/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/681@21/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/681@21/answer_feedback",
+      "1968_Humphrey_Muskie/answer_feedback_json/681@22/answer_feedback",
+      "1968_Humphrey_Kennedy/answer_feedback_json/681@22/answer_feedback",
+      "1968_Humphrey_Connally/answer_feedback_json/681@22/answer_feedback",
+      "1968_Humphrey_Harris/answer_feedback_json/681@22/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/681@14/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/681@14/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/681@14/answer_feedback"
+    ]
+  },
+  {
+    "source": "This is the exact opposite of what you need to be saying.",
+    "zh": "这与您需要说的完全相反。",
+    "keys": [
+      "1968_Nixon_Agnew/answer_feedback_json/703@26/answer_feedback",
+      "1968_Nixon_Reagan/answer_feedback_json/703@25/answer_feedback",
+      "1968_Nixon_Rockefeller/answer_feedback_json/703@23/answer_feedback",
+      "1968_Nixon_Romney/answer_feedback_json/703@23/answer_feedback",
+      "1968_Wallace_LeMay/answer_feedback_json/703@22/answer_feedback",
+      "1968_Wallace_Thurmond/answer_feedback_json/703@22/answer_feedback",
+      "1968_Wallace_Chandler/answer_feedback_json/703@22/answer_feedback"
+    ]
+  },
+  {
+    "source": " What is more important for your campaign -- competing with Humphrey in the swing states, or winning over Wallace voters in the south?",
+    "zh": " 对于您的竞选活动来说，哪一个更重要——与摇摆州的汉弗莱竞争，还是赢得南部的华莱士选民？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/338@6/description"
+    ]
+  },
+  {
+    "source": "What do you think of programs that require schools to use busing to achieve racial balance?",
+    "zh": "您如何看待要求学校使用校车来实现种族平衡的计划？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/275@7/description",
+      "1968_Nixon_Rockefeller/questions_json/275@11/description",
+      "1968_Nixon_Romney/questions_json/275@7/description",
+      "1968_Humphrey_Muskie/questions_json/275@9/description",
+      "1968_Humphrey_Kennedy/questions_json/275@9/description",
+      "1968_Humphrey_Connally/questions_json/275@12/description",
+      "1968_Wallace_Thurmond/questions_json/275@22/description"
+    ]
+  },
+  {
+    "source": "What is the maximum number of troops that you would commit to Vietnam?",
+    "zh": "您最多可以向越南派遣多少部队？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/267@9/description",
+      "1968_Nixon_Rockefeller/questions_json/267@21/description",
+      "1968_Wallace_Chandler/questions_json/267@9/description"
+    ]
+  },
+  {
+    "source": "Some have proposed implementing an Environmental Protection Agency at the federal level to combat industrial pollution. Would you support this as President?",
+    "zh": "一些人提议在联邦一级设立环境保护局来应对工业污染。作为总统，您会支持这一做法吗？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/263@11/description",
+      "1968_Nixon_Rockefeller/questions_json/263@8/description",
+      "1968_Humphrey_Kennedy/questions_json/263@11/description",
+      "1968_Wallace_Thurmond/questions_json/263@10/description"
+    ]
+  },
+  {
+    "source": "Did the Supreme Court overstep its bounds in <em>Loving v. Virginia</em> by declaring state miscegenation statutes unconstitutional?",
+    "zh": "最高法院是否越界？ <em>爱诉弗吉尼亚州</em> 宣布州通婚法规违宪？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/274@13/description",
+      "1968_Nixon_Rockefeller/questions_json/274@23/description",
+      "1968_Nixon_Romney/questions_json/274@11/description",
+      "1968_Humphrey_Connally/questions_json/274@9/description",
+      "1968_Humphrey_Harris/questions_json/274@21/description"
+    ]
+  },
+  {
+    "source": "Would you consider a constitutional amendment to outlaw the birth control pill, given the Supreme Court's decisions on that issue?",
+    "zh": "鉴于最高法院对此问题的裁决，您是否会考虑修改宪法以取缔避孕药？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/289@14/description",
+      "1968_Humphrey_Connally/questions_json/289@17/description",
+      "1968_Humphrey_Harris/questions_json/289@10/description"
+    ]
+  },
+  {
+    "source": "Would you be willing to place increasing responsibility in the hands of South Vietnam for their own defense?",
+    "zh": "您愿意让南越承担越来越多的防御责任吗？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/266@15/description",
+      "1968_Nixon_Rockefeller/questions_json/266@16/description",
+      "1968_Humphrey_Muskie/questions_json/266@18/description"
+    ]
+  },
+  {
+    "source": "Do you support opening a new dialogue with our Communist adversaries, such as the Soviet Union and China?",
+    "zh": "您是否支持与我们的共产主义对手（例如苏联和中国）开展新的对话？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/268@16/description",
+      "1968_Nixon_Romney/questions_json/268@17/description",
+      "1968_Humphrey_Muskie/questions_json/268@21/description",
+      "1968_Wallace_Chandler/questions_json/268@15/description"
+    ]
+  },
+  {
+    "source": "Will you try to compete with Johnson and Humphrey's political machine in Texas?",
+    "zh": "你会尝试在得克萨斯州中与约翰逊和汉弗莱的政治机器竞争吗？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/337@17/description",
+      "1968_Nixon_Romney/questions_json/337@12/description"
+    ]
+  },
+  {
+    "source": "Did you support Lyndon Johnson's 1965 intervention in the Dominican Republic?",
+    "zh": "您支持林登·约翰逊 1965 年对多米尼加共和国的干预吗？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/282@18/description",
+      "1968_Nixon_Romney/questions_json/282@14/description",
+      "1968_Humphrey_Kennedy/questions_json/282@13/description",
+      "1968_Wallace_Thurmond/questions_json/282@16/description"
+    ]
+  },
+  {
+    "source": "What do you think of the late Dr. Martin Luther King?",
+    "zh": "您如何看待已故博士马丁·路德·金？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/283@19/description",
+      "1968_Humphrey_Muskie/questions_json/283@22/description",
+      "1968_Humphrey_Connally/questions_json/283@20/description",
+      "1968_Humphrey_Harris/questions_json/283@12/description"
+    ]
+  },
+  {
+    "source": "Do you hope to achieve an arms control agreement with the Soviet Union during your time in the Oval Office? What conditions would you agree to?",
+    "zh": "您在椭圆形办公室任职期间是否希望与苏联达成军控协议？什么条件你会同意？",
+    "keys": [
+      "1968_Nixon_Reagan/questions_json/288@21/description",
+      "1968_Nixon_Romney/questions_json/288@8/description",
+      "1968_Humphrey_Muskie/questions_json/288@20/description",
+      "1968_Humphrey_Harris/questions_json/288@22/description"
+    ]
+  },
+  {
+    "source": "We have achieved great strides on this issue in the past twenty years -- and let the record show that Hubert H. Humphrey was at the forefront of this movement as early as 1948. We still have a long way to go, however, before we can truly realize the dream of Martin Luther King.",
+    "zh": "过去二十年来，我们在这个问题上取得了巨大的进步——让记录表明，休伯特·H.·汉弗莱早在1948年就走在了这场运动的最前沿。然而，在我们真正实现马丁·路德·金的梦想之前，我们还有很长的路要走。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1671@10/description",
+      "1968_Nixon_Rockefeller/answers_json/1671@10/description",
+      "1968_Nixon_Romney/answers_json/1671@10/description",
+      "1968_Humphrey_Muskie/answers_json/1671@20/description",
+      "1968_Humphrey_Kennedy/answers_json/1671@20/description",
+      "1968_Humphrey_Connally/answers_json/1671@18/description",
+      "1968_Humphrey_Harris/answers_json/1671@18/description",
+      "1968_Wallace_LeMay/answers_json/1671@18/description",
+      "1968_Wallace_Thurmond/answers_json/1671@18/description",
+      "1968_Wallace_Chandler/answers_json/1671@20/description"
+    ]
+  },
+  {
+    "source": "This is one of the most dangerous ideas I can think of. A federal agency to combat pollution will hurt business, increase unemployment, and undermine the wages of our workers.",
+    "zh": "这是我能想到的最危险的想法之一。打击污染的联邦机构将损害企业、增加失业率并降低我们工人的工资。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1694@12/description",
+      "1968_Nixon_Rockefeller/answers_json/1694@23/description",
+      "1968_Humphrey_Kennedy/answers_json/1694@34/description",
+      "1968_Wallace_Thurmond/answers_json/1694@27/description"
+    ]
+  },
+  {
+    "source": "I believe that existing government agencies can handle the issues we have. It does upset any decent American to see rivers filled with black sludge and industrial waste.",
+    "zh": "我相信现有的政府机构可以处理我们遇到的问题。看到河流充满黑色污泥和工业废物，任何正派的美国人都会感到不安。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1695@13/description",
+      "1968_Nixon_Rockefeller/answers_json/1695@24/description",
+      "1968_Humphrey_Kennedy/answers_json/1695@35/description",
+      "1968_Wallace_Thurmond/answers_json/1695@28/description"
+    ]
+  },
+  {
+    "source": "This is something I whole-heartedly support. We have rivers that are unusable to humans, acid rain falling from the skies, and smog so thick in some cities that people can barely see.",
+    "zh": "这是我全心全意支持的事情。我们有人类无法使用的河流，从天而降的酸雨，以及一些城市浓重的雾霾，人们几乎看不见。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1696@14/description",
+      "1968_Nixon_Rockefeller/answers_json/1696@25/description",
+      "1968_Humphrey_Kennedy/answers_json/1696@36/description",
+      "1968_Wallace_Thurmond/answers_json/1696@29/description"
+    ]
+  },
+  {
+    "source": "Only if they proved themselves capable of repelling Communist aggression. The best thing we can do right now is escalate the war with more American troops.",
+    "zh": "只有他们证明自己有能力击退共产党的侵略。我们现在能做的最好的事情就是派遣更多的美国军队来升级战争。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1704@15/description",
+      "1968_Nixon_Rockefeller/answers_json/1704@26/description",
+      "1968_Humphrey_Muskie/answers_json/1704@28/description"
+    ]
+  },
+  {
+    "source": "This should be the primary goal of our policy in Vietnam. It's tragic how many American boys have died to defend a country that is not ready to defend itself.",
+    "zh": "这应该是我们越南政策的首要目标。可悲的是，有多少美国男孩为了保卫一个尚未准备好保卫自己的国家而牺牲。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1705@16/description",
+      "1968_Nixon_Rockefeller/answers_json/1705@27/description",
+      "1968_Humphrey_Muskie/answers_json/1705@29/description"
+    ]
+  },
+  {
+    "source": "My goal is President will be to negotiate a comprehensive peace treaty between North and South Vietnam and end this war. That is the only real solution.",
+    "zh": "我的目标是总统将在北越和南越之间谈判一项全面和平条约并结束这场战争。这是唯一真正的解决方案。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1706@17/description",
+      "1968_Nixon_Rockefeller/answers_json/1706@28/description",
+      "1968_Humphrey_Muskie/answers_json/1706@30/description"
+    ]
+  },
+  {
+    "source": "I will withdraw American troops from Vietnam as soon as possible. The South Vietnamese should be capable of defending their own borders if they are as afraid of the Communist menace as they say they are.",
+    "zh": "我将尽快从越南撤军。如果南越人像他们所说的那样害怕共产党的威胁，他们应该有能力保卫自己的边界。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1707@18/description",
+      "1968_Nixon_Rockefeller/answers_json/1707@29/description",
+      "1968_Humphrey_Muskie/answers_json/1707@31/description"
+    ]
+  },
+  {
+    "source": "I will provide as many troops as our generals say they need. One of the reasons we are losing this war right now is because we are not fully committed to it.",
+    "zh": "我将提供我们的将军们所需要的尽可能多的部队。我们现在输掉这场战争的原因之一是我们没有完全致力于它。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1708@19/description",
+      "1968_Nixon_Rockefeller/answers_json/1708@30/description",
+      "1968_Wallace_Chandler/answers_json/1708@42/description"
+    ]
+  },
+  {
+    "source": "I believe that the troop strength we have now is sufficient to hold the lines until we obtain a peace agreement.",
+    "zh": "我相信我们现在拥有的兵力足以坚守防线，直到我们达成和平协议。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1709@20/description",
+      "1968_Nixon_Rockefeller/answers_json/1709@31/description",
+      "1968_Wallace_Chandler/answers_json/1709@43/description"
+    ]
+  },
+  {
+    "source": "We need to reduce our troop strength to the minimum necessary level to prevent the downfall of South Vietnam while we work these issues out at the bargaining table.",
+    "zh": "当我们在谈判桌上解决这些问题时，我们需要将我们的兵力减少到必要的最低水平，以防止南越垮台。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1710@21/description",
+      "1968_Nixon_Rockefeller/answers_json/1710@32/description",
+      "1968_Wallace_Chandler/answers_json/1710@44/description"
+    ]
+  },
+  {
+    "source": "Is this question some kind of a joke? We need to withdraw all American troops from Vietnam.",
+    "zh": "这个问题是开玩笑吗？我们需要从越南撤出所有美军。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1711@22/description",
+      "1968_Nixon_Rockefeller/answers_json/1711@33/description",
+      "1968_Wallace_Chandler/answers_json/1711@45/description"
+    ]
+  },
+  {
+    "source": "You know, if some miracle occurred and these Communist adversaries were finally ready to explore a new system and allow democracy within their borders, we would be the first to welcome them to the free world.",
+    "zh": "你知道，如果出现奇迹，这些共产主义对手最终准备好探索新制度并在其境内实现民主，我们将是第一个欢迎他们来到自由世界的人。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1712@23/description",
+      "1968_Nixon_Romney/answers_json/1712@20/description",
+      "1968_Humphrey_Muskie/answers_json/1712@32/description",
+      "1968_Wallace_Chandler/answers_json/1712@46/description"
+    ]
+  },
+  {
+    "source": "We should always be looking for areas of agreement, however limited, between ourselves, the Soviet Union, and Red China. At the very least, we can implement arms treaties and avoid the threat of a nuclear war.",
+    "zh": "我们应该始终寻找我们、苏联和红色中国之间的一致意见，无论多么有限。至少，我们可以执行军备条约，避免核战争的威胁。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1713@24/description",
+      "1968_Nixon_Romney/answers_json/1713@21/description",
+      "1968_Humphrey_Muskie/answers_json/1713@33/description",
+      "1968_Wallace_Chandler/answers_json/1713@47/description"
+    ]
+  },
+  {
+    "source": "The best way to prevent future Communist aggression is not through the death of 25,000 American kids in Vietnam. I support a comprehensive summit aimed at codifying peace in the modern world.",
+    "zh": "防止未来共产主义侵略的最佳方法不是让 25,000 名美国儿童在越南死亡。我支持召开旨在将现代世界的和平编入法典的全面峰会。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1714@25/description",
+      "1968_Nixon_Romney/answers_json/1714@22/description",
+      "1968_Humphrey_Muskie/answers_json/1714@34/description",
+      "1968_Wallace_Chandler/answers_json/1714@48/description"
+    ]
+  },
+  {
+    "source": "I support a new era in U.S. - Communist relations. We have to be realistic and accept that Communism is here to stay, and work within that framework to find reasonable compromise in foreign affairs.",
+    "zh": "我支持美共关系的新时代。我们必须现实一点，承认共产主义将继续存在，并在这个框架内努力在外交事务上找到合理的妥协。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1715@26/description",
+      "1968_Nixon_Romney/answers_json/1715@23/description",
+      "1968_Humphrey_Muskie/answers_json/1715@35/description",
+      "1968_Wallace_Chandler/answers_json/1715@49/description"
+    ]
+  },
+  {
+    "source": "My God, someone has to step in and protect good order in this society. This is just another instance of federal judges taking control over an issue that's simply none of their business.",
+    "zh": "天哪，必须有人介入并维护这个社会的良好秩序。这只是联邦法官控制一个与他们无关的问题的又一个例子。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1735@27/description",
+      "1968_Nixon_Rockefeller/answers_json/1735@46/description",
+      "1968_Nixon_Romney/answers_json/1735@27/description",
+      "1968_Humphrey_Connally/answers_json/1735@34/description",
+      "1968_Humphrey_Harris/answers_json/1735@45/description"
+    ]
+  },
+  {
+    "source": "I'm not going to comment on a decision like this one. I certainly don't support miscegenation laws by any means, but I also think the Court has to be careful about overstepping the rights of the states.",
+    "zh": "我不会对这样的决定发表评论。我当然不以任何方式支持通婚法，但我也认为法院必须小心不要侵犯各州的权利。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1736@28/description",
+      "1968_Nixon_Rockefeller/answers_json/1736@47/description",
+      "1968_Nixon_Romney/answers_json/1736@28/description",
+      "1968_Humphrey_Connally/answers_json/1736@35/description",
+      "1968_Humphrey_Harris/answers_json/1736@46/description"
+    ]
+  },
+  {
+    "source": "I fully support the Supreme Court in this decision. I don't know how someone in 1968 can stand up and fight against two peoples' right to marry each other.",
+    "zh": "我完全支持最高法院的这一决定。我不知道1968年的人怎么能站出来反对两国人民结婚的权利。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1737@29/description",
+      "1968_Nixon_Rockefeller/answers_json/1737@48/description",
+      "1968_Nixon_Romney/answers_json/1737@29/description",
+      "1968_Humphrey_Connally/answers_json/1737@36/description",
+      "1968_Humphrey_Harris/answers_json/1737@47/description"
+    ]
+  },
+  {
+    "source": "Busing is nothing but another conspiracy to mongrelize the races of this country. First it was the Brown decision. Now it's some policy that some academic came up with to send children to school thirty miles from their house as part of some social engineering scheme.",
+    "zh": "巴士只不过是另一个使这个国家的种族混杂的阴谋。首先是布朗的决定。现在，一些学者提出了一些政策，将孩子们送到离家三十英里的地方上学，作为社会工程计划的一部分。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1738@30/description",
+      "1968_Nixon_Rockefeller/answers_json/1738@49/description",
+      "1968_Nixon_Romney/answers_json/1738@30/description",
+      "1968_Humphrey_Muskie/answers_json/1738@40/description",
+      "1968_Humphrey_Kennedy/answers_json/1738@49/description",
+      "1968_Humphrey_Connally/answers_json/1738@37/description",
+      "1968_Wallace_Thurmond/answers_json/1738@49/description"
+    ]
+  },
+  {
+    "source": "I stand opposed to the legal segregation of our schools. Legal segregation promotes inferior education. I also think that busing promotes inferior education. My goal is to see every child in this country get a good education.",
+    "zh": "我反对我们学校的合法隔离。合法的隔离促进了低劣的教育。我还认为乘公交车促进了低劣的教育。我的目标是看到这个国家的每个孩子都受到良好的教育。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1739@31/description",
+      "1968_Nixon_Rockefeller/answers_json/1739@50/description",
+      "1968_Nixon_Romney/answers_json/1739@31/description",
+      "1968_Humphrey_Muskie/answers_json/1739@41/description",
+      "1968_Humphrey_Kennedy/answers_json/1739@50/description",
+      "1968_Humphrey_Connally/answers_json/1739@38/description",
+      "1968_Wallace_Thurmond/answers_json/1739@50/description"
+    ]
+  },
+  {
+    "source": "I do agree with the idea that education is a local matter. I'm not especially opposed to busing where local authorities deem it necessary, but I would only use the federal government in extraordinary circumstances.",
+    "zh": "我确实同意教育是地方事务的观点。我并不是特别反对地方当局认为有必要的地方乘坐公交车，但我只会在特殊情况下使用联邦政府。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1740@32/description",
+      "1968_Nixon_Rockefeller/answers_json/1740@51/description",
+      "1968_Nixon_Romney/answers_json/1740@32/description",
+      "1968_Humphrey_Muskie/answers_json/1740@42/description",
+      "1968_Humphrey_Kennedy/answers_json/1740@51/description",
+      "1968_Humphrey_Connally/answers_json/1740@39/description",
+      "1968_Wallace_Thurmond/answers_json/1740@51/description"
+    ]
+  },
+  {
+    "source": "What good is a Court decision banning segregation if we don't actually do something to integrate our schools? People oppose busing because they oppose school integration, pure and simple.",
+    "zh": "如果我们不实际采取措施使我们的学校融合，那么法院禁止种族隔离的决定有什么好处呢？人们反对校车纯粹是因为他们反对学校整合。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1741@33/description",
+      "1968_Nixon_Rockefeller/answers_json/1741@52/description",
+      "1968_Nixon_Romney/answers_json/1741@33/description",
+      "1968_Humphrey_Muskie/answers_json/1741@43/description",
+      "1968_Humphrey_Kennedy/answers_json/1741@52/description",
+      "1968_Humphrey_Connally/answers_json/1741@40/description",
+      "1968_Wallace_Thurmond/answers_json/1741@52/description"
+    ]
+  },
+  {
+    "source": "I wish we would have had the guts to intervene in Cuba the way we did in the Dominican Republic. I will do anything I can as President to prevent a Communist insurgency in Latin America.",
+    "zh": "我希望我们有勇气像干预多米尼加共和国那样干预古巴。作为总统，我将尽我所能阻止拉丁美洲的共产主义叛乱。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1764@45/description",
+      "1968_Nixon_Romney/answers_json/1764@49/description",
+      "1968_Humphrey_Kennedy/answers_json/1764@60/description",
+      "1968_Wallace_Thurmond/answers_json/1764@61/description"
+    ]
+  },
+  {
+    "source": "With minimal cost and minimal loss of life, President Johnson was able to prevent a Communist uprising in the Dominican Republic. I fully support his actions in that area.",
+    "zh": "总统约翰逊以最小的成本和最小的生命损失阻止了多米尼加共和国的共产主义起义。我完全支持他在该领域的行动。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1765@46/description",
+      "1968_Nixon_Romney/answers_json/1765@50/description",
+      "1968_Humphrey_Kennedy/answers_json/1765@61/description",
+      "1968_Wallace_Thurmond/answers_json/1765@62/description"
+    ]
+  },
+  {
+    "source": "I do support the intervention. We also need to reexamine our policies in general towards Latin America to ensure higher economic growth and more political freedom there.",
+    "zh": "我确实支持干预。我们还需要重新审视我们对拉丁美洲的总体政策，以确保那里更高的经济增长和更多的政治自由。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1766@47/description",
+      "1968_Nixon_Romney/answers_json/1766@51/description",
+      "1968_Humphrey_Kennedy/answers_json/1766@62/description",
+      "1968_Wallace_Thurmond/answers_json/1766@63/description"
+    ]
+  },
+  {
+    "source": "We have long supported right-wing government in the Dominican Republic, and we've now propped it up against the will of the people. We can't credibly claim to fight for democracy when we do things like this.",
+    "zh": "我们长期以来一直支持多米尼加共和国的右翼政府，但现在我们却违背人民的意愿来支持它。当我们做这样的事情时，我们不能可信地声称为民主而战。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1767@48/description",
+      "1968_Nixon_Romney/answers_json/1767@52/description",
+      "1968_Humphrey_Kennedy/answers_json/1767@63/description",
+      "1968_Wallace_Thurmond/answers_json/1767@64/description"
+    ]
+  },
+  {
+    "source": "Dr. King bamboozled a lot of decent Americans with his rhetoric. I don't condone what happened to him, but most people fail to realize that he was a radical redistributionist and a borderline Communist.",
+    "zh": "金博士用他的言论迷惑了很多正派的美国人。我不会宽恕发生在他身上的事情，但大多数人没有意识到他是一个激进的再分配主义者和一个边缘共产主义者。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1768@49/description",
+      "1968_Humphrey_Muskie/answers_json/1768@48/description",
+      "1968_Humphrey_Connally/answers_json/1768@55/description",
+      "1968_Humphrey_Harris/answers_json/1768@48/description"
+    ]
+  },
+  {
+    "source": "Dr. King is an American hero. I'm proud of his efforts to desegregate the southern schools and businesses, and I was deeply affected by his tragic demise this year.",
+    "zh": "金博士是美国英雄。我为他为废除南方学校和企业种族隔离所做的努力感到自豪，今年他的悲惨去世也让我深受影响。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1769@50/description",
+      "1968_Humphrey_Muskie/answers_json/1769@49/description",
+      "1968_Humphrey_Connally/answers_json/1769@56/description",
+      "1968_Humphrey_Harris/answers_json/1769@49/description"
+    ]
+  },
+  {
+    "source": "We need to continue to fight for the legacy of Dr. King. The continuing poverty of the blacks in our cities and in the South is a sobering reminder of how much work is left to be done. ",
+    "zh": "我们需要继续为金博士的遗产而奋斗。我们城市和南方黑人的持续贫困清醒地提醒我们还有多少工作要做。 ",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1770@51/description",
+      "1968_Humphrey_Muskie/answers_json/1770@50/description",
+      "1968_Humphrey_Connally/answers_json/1770@57/description",
+      "1968_Humphrey_Harris/answers_json/1770@50/description"
+    ]
+  },
+  {
+    "source": "An arms control agreement with the Soviet Union isn't worth the paper that it's signed on. I won't participate in that kind of a charade.",
+    "zh": "与苏联签署的军备控制协议不值一文。我不会参加那种猜谜游戏。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1782@55/description",
+      "1968_Nixon_Romney/answers_json/1782@61/description",
+      "1968_Humphrey_Muskie/answers_json/1782@54/description",
+      "1968_Humphrey_Harris/answers_json/1782@57/description"
+    ]
+  },
+  {
+    "source": "I would be open-minded about this issue. Without a clear statement of good faith, backed by concrete action, I have a hard time believing that the Soviet Union will come around to arms control.",
+    "zh": "我对这个问题持开放态度。如果没有明确的善意声明和具体行动的支持，我很难相信苏联会改变军备控制立场。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1783@56/description",
+      "1968_Nixon_Romney/answers_json/1783@62/description",
+      "1968_Humphrey_Muskie/answers_json/1783@55/description",
+      "1968_Humphrey_Harris/answers_json/1783@58/description"
+    ]
+  },
+  {
+    "source": "I will definitely work towards the control of nuclear weapons as President. I sincerely hope that we can work out a reasonable agreement on this issue.",
+    "zh": "作为总统，我一定会为控制核武器而努力。我真诚地希望我们能够就这个问题达成一个合理的协议。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1784@57/description",
+      "1968_Nixon_Romney/answers_json/1784@63/description",
+      "1968_Humphrey_Muskie/answers_json/1784@56/description",
+      "1968_Humphrey_Harris/answers_json/1784@59/description"
+    ]
+  },
+  {
+    "source": "My goal is a world without nuclear weapons. While being mindful of reality, I hope to negotiate an expansive agreement that can put an end to the arms race.",
+    "zh": "我的目标是一个没有核武器的世界。在考虑现实的同时，我希望通过谈判达成一项能够结束军备竞赛的广泛协议。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1785@58/description",
+      "1968_Nixon_Romney/answers_json/1785@64/description",
+      "1968_Humphrey_Muskie/answers_json/1785@57/description",
+      "1968_Humphrey_Harris/answers_json/1785@60/description"
+    ]
+  },
+  {
+    "source": "The Pill does not augur well for the social health of this nation. If we could get the support I'd love to see an Amendment that settles this issue once and for all.",
+    "zh": "避孕药对于这个国家的社会健康来说并不是一个好兆头。如果我们能得到支持，我希望看到一项修正案能够一劳永逸地解决这个问题。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1786@59/description",
+      "1968_Humphrey_Connally/answers_json/1786@58/description",
+      "1968_Humphrey_Harris/answers_json/1786@61/description"
+    ]
+  },
+  {
+    "source": "We have bigger priorities to deal with right now in America. I don't think that most Americans support or expect this kind of an initiative.",
+    "zh": "我们现在在美国有更重要的优先事项要处理。我认为大多数美国人并不支持或期望这种举措。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/1787@60/description",
+      "1968_Humphrey_Connally/answers_json/1787@59/description",
+      "1968_Humphrey_Harris/answers_json/1787@62/description"
+    ]
+  },
+  {
+    "source": "My internal polling shows we have a real shot at Texas. Why wouldn't I campaign there?",
+    "zh": "我的内部民意调查显示我们确实有机会获得得克萨斯州。我为什么不去那里竞选呢？",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/3289@85/description",
+      "1968_Nixon_Romney/answers_json/3289@84/description"
+    ]
+  },
+  {
+    "source": "We need to focus our efforts in the most efficient manner. I don't think spending a lot of time in Texas is really the thing to do for us.",
+    "zh": "我们需要以最有效的方式集中精力。我不认为在得克萨斯州上花费大量时间对我们来说确实是值得做的事情。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/3290@86/description",
+      "1968_Nixon_Romney/answers_json/3290@85/description",
+      "1968_Wallace_LeMay/answers_json/3290@80/description",
+      "1968_Wallace_Chandler/answers_json/3290@84/description"
+    ]
+  },
+  {
+    "source": "I'm more worried about keeping the rest of the South from going to Wallace. I'm less concerned about Humphrey's chances in Texas.",
+    "zh": "我更担心阻止南方其他人去华莱士。我不太关心汉弗莱在得克萨斯州中的机会。",
+    "keys": [
+      "1968_Nixon_Reagan/answers_json/3291@87/description",
+      "1968_Nixon_Romney/answers_json/3291@86/description"
+    ]
+  },
+  {
+    "source": "With all of the new programs that have implemented over the past five years, do you still believe there is room for the federal government to expand its responsibilities?",
+    "zh": "过去五年来实施了所有新计划，您仍然认为联邦政府还有扩大其职责的空间吗？",
+    "keys": [
+      "1968_Nixon_Rockefeller/questions_json/259@7/description",
+      "1968_Nixon_Romney/questions_json/259@16/description",
+      "1968_Humphrey_Muskie/questions_json/259@23/description",
+      "1968_Humphrey_Kennedy/questions_json/259@20/description",
+      "1968_Humphrey_Harris/questions_json/259@16/description",
+      "1968_Wallace_LeMay/questions_json/259@12/description",
+      "1968_Wallace_Chandler/questions_json/259@7/description"
+    ]
+  },
+  {
+    "source": "Do you believe that the newly implemented federal welfare programs will be effective?",
+    "zh": "您认为新实施的联邦福利计划会有效吗？",
+    "keys": [
+      "1968_Nixon_Rockefeller/questions_json/262@13/description",
+      "1968_Humphrey_Kennedy/questions_json/262@23/description",
+      "1968_Wallace_LeMay/questions_json/262@9/description",
+      "1968_Wallace_Chandler/questions_json/262@14/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on the legality of abortion? Would you attempt to legalize or prohibit this practice at the federal level?",
+    "zh": "您对堕胎的合法性有何看法？您会尝试在联邦层面合法化或禁止这种做法吗？",
+    "keys": [
+      "1968_Nixon_Rockefeller/questions_json/272@20/description",
+      "1968_Humphrey_Kennedy/questions_json/272@14/description",
+      "1968_Humphrey_Connally/questions_json/272@13/description",
+      "1968_Wallace_Thurmond/questions_json/272@11/description"
+    ]
+  },
+  {
+    "source": "My God, this is a truly frightening question. Responsibilities of government need to be turned over to the states, and the federal government needs to be drastically reduced in size.",
+    "zh": "天哪，这真是一个可怕的问题。政府的职责需要移交给各州，联邦政府的规模需要大幅缩减。",
+    "keys": [
+      "1968_Nixon_Rockefeller/answers_json/1681@16/description",
+      "1968_Nixon_Romney/answers_json/1681@12/description",
+      "1968_Humphrey_Muskie/answers_json/1681@24/description",
+      "1968_Humphrey_Kennedy/answers_json/1681@24/description",
+      "1968_Humphrey_Harris/answers_json/1681@24/description",
+      "1968_Wallace_LeMay/answers_json/1681@24/description",
+      "1968_Wallace_Chandler/answers_json/1681@28/description"
+    ]
+  }
+]

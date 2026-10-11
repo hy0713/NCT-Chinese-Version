@@ -1,0 +1,1363 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2000-a",
+  "uniqueSourcesReviewed": 75,
+  "recordPositions": 554,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 7,
+      "reason": "Green is political party label, rendered Green Party."
+    },
+    {
+      "index": 12,
+      "reason": "Original malformed trailing p tags preserved exactly; future-agency preparedness hint not asserted as confirmed authorial reference."
+    },
+    {
+      "index": 17,
+      "reason": "Original Many it really IS interpreted contextually as Maybe it really IS; English unchanged."
+    },
+    {
+      "index": 24,
+      "reason": "Original many Democrats are very angry has stray are; natural Chinese syntax without modifying English."
+    },
+    {
+      "index": 28,
+      "reason": "Original will be Republican hands understood as will be in Republican hands; 1994 chronological shorthand retained."
+    },
+    {
+      "index": 37,
+      "reason": "Original guarantee of federal matching funds after winning DC retained as fictional ending; national percentage eligibility is separate."
+    },
+    {
+      "index": 38,
+      "reason": "Winning a state does not guarantee federal funding threshold; original prediction retained and annotated."
+    },
+    {
+      "index": 39,
+      "reason": "H.R.5411,81-19,74th veto and shouted veto are fictional supplied text; original numbers and strings remain unchanged, note contrasts actual 106-398 and constitutional procedure."
+    },
+    {
+      "index": 41,
+      "reason": "Ending is split around runtime vote interpolation; preserve both segments and HTML, do not insert a fabricated vote number."
+    },
+    {
+      "index": 58,
+      "reason": "Original Alaska National Wildlife Refuge retained; related ANWR answer identifies Arctic National Wildlife Refuge, to be explained separately."
+    },
+    {
+      "index": 59,
+      "reason": "Original Eastern European missile defense proposal retained as simulation, not certified as implemented in 2000."
+    },
+    {
+      "index": 64,
+      "reason": "Original qualifications for to be read as qualifications to be; English unchanged."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>George W. Bush attempts to chart a new direction for the U.S., while Al Gore tries to win election as the sitting Vice President. Ralph Nader is a leftist third-party candidate. The economy has been booming, until quite recently, but President Clinton has been through an embarrassing scandal.</p><p>Candidates will debate what to do with a $200 billion budget surplus, among other things. In the real world, Florida was decided by 537 votes after 36 days and a Supreme Court decision.</p>",
+      "sha256": "e52969f26e7e5b09380518c6456dae4f93c12e1b468dee39328e552db5b2cacb",
+      "zh": "<p>乔治·W.布什试图为美国开辟新的方向，阿尔·戈尔则以现任副总统的身份争取当选。拉尔夫·纳德是左翼第三党候选人。直到最近，经济一直繁荣，但克林顿总统经历了一场令人难堪的丑闻。</p><p>候选人将就如何处理2000亿美元的预算盈余等问题展开辩论。在现实中，经过36天争执和最高法院的一项判决，佛罗里达州的胜负以537票之差决定。</p>",
+      "keys": [
+        "base/election_json/9@4/summary"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<h3>Congratulations! You have won the 2000 election.</h3><p>Confounding the predictions of many experts, you were able to turn the tables on Al Gore, in spite of the economy and Clinton's popularity.</p><p>On the political front, you can push for tax cuts to spur the economy and return the budget surplus to the American people. You might also pursue education and immigration reform, individual Social Security accounts, and new laws to defend the family and the sanctity of life.</p>",
+      "sha256": "77446c52f81d1b848ca613d6cbc3a51e0a8f92b8c5517325108b7951b828521a",
+      "zh": "<h3>恭喜！你赢得了2000年大选。</h3><p>尽管经济形势良好，克林顿也颇受欢迎，你仍然逆转了与阿尔·戈尔的竞争，让许多专家的预测落空。</p><p>在政策方面，你可以推动减税，刺激经济，并把预算盈余还给美国人民。你也可以推进教育和移民改革、社会保障个人账户，以及捍卫家庭和生命神圣性的新法律。</p>",
+      "keys": [
+        "base/candidate_json/77@59/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry! You have lost the 2000 election.</h3><p>Perhaps it was always a long-shot, with the Democrats in such a commanding position after eight years of Bill Clinton. In any case, at least you are still the Governor of Texas.</p><p>Expect Al Gore to unleash a new round of government programs and environmental regulations. You are still youngish, however. If the election was close this time, perhaps you can run again in 2004, or work on behalf your brother Jeb.</p>",
+      "sha256": "87a73d8e3358e8c288a7eeaf30847e3be20c9b6d8b372a68ea4c26f3d59bd3ef",
+      "zh": "<h3>很遗憾！你输掉了2000年大选。</h3><p>比尔·克林顿执政八年后，民主党处于如此有利的地位，也许你从一开始胜算就不大。无论如何，至少你仍是得克萨斯州州长。</p><p>预计阿尔·戈尔会推出新一轮政府项目和环保法规。不过，你还算年轻。如果这次选举结果接近，也许你可以在2004年再次参选，或为你的弟弟杰布助阵。</p>",
+      "keys": [
+        "base/candidate_json/77@59/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "<h3>Wow! You have won in a squeaker.</h3><p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. Fortunately for you, the majority of U.S. states have Republican controlled congressional delegations, and they will cast their votes accordingly.</p><p>Given the incredibly close nature of the election, you will surely be expected to govern as a moderate, conciliatory President. Right??</p>",
+      "sha256": "4fe33acdc53e0dd2d1240d3a4c22cb4a169dcdc3f243d851f2fc4bf291ea6ecf",
+      "zh": "<h3>哇！你险胜了。</h3><p>没有候选人取得选举人票过半数，这是1824年以来的第一次。对你而言幸运的是，多数州的国会代表团由共和党控制，他们会相应地投票。</p><p>选举如此接近，人们肯定会期待你作为一位温和、愿意和解的总统来执政。是吧？？</p>",
+      "keys": [
+        "base/candidate_json/77@59/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "<h3>Congratulations! You have won the 2000 election.</h3><p>Though it was perhaps expected, you could have easily faltered at a number of points. Credit to you for pulling through.</p><p>On the political front, you can continue the Clinton legacy and strengthen Social Security for generations to come. Perhaps you can succeed on health care where Clinton came up short? Or maybe you can create a future of renewable energy for America. Just be wary of a (George or Jeb?) Bush challenge in 2004.</p>",
+      "sha256": "e7057e9a5387e4e8799a62ea2ad01f6c6e667fdedbd452927ac5381897d86008",
+      "zh": "<h3>恭喜！你赢得了2000年大选。</h3><p>尽管这或许在预料之中，你还是可能在多个环节功亏一篑。你坚持到了最后，功劳应当归于你。</p><p>在政策方面，你可以延续克林顿的政绩，让社会保障制度在未来几代人中更加稳固。也许你能在医疗改革上实现克林顿未能做到的事？或者为美国创造一个依靠可再生能源的未来。只是要提防2004年布什家的挑战——是乔治，还是杰布？</p>",
+      "keys": [
+        "base/candidate_json/78@60/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "<h3>Sorry! You have lost the 2000 election.</h3><p>Surely the second-guessing will be intense, but if things were close you could probably run again in 2004.</p><p>It seems that with George W. Bush and a Republican majority, the United States can expect some conservative policy-making over the next four years. Hopefully Bush comes through on his promise to govern in a bipartisan, conciliatory manner. A lot should depend on the margin of his victory, and whether it was large or small.</p>",
+      "sha256": "ded97a18741f91a1941c670b04eb301126f47504e9f9d320d305d0c6627a343d",
+      "zh": "<h3>很遗憾！你输掉了2000年大选。</h3><p>事后反思肯定会十分激烈，但如果结果接近，你大概可以在2004年再次参选。</p><p>看来，随着乔治·W.布什当选、共和党占据多数，美国未来四年将迎来一些保守派政策。但愿布什兑现承诺，以两党合作、愿意和解的方式执政。很大程度上，这应当取决于他的胜选优势究竟有多大。</p>",
+      "keys": [
+        "base/candidate_json/78@60/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "<h3>Sorry! You have lost in a squeaker.</h3><p>No candidate achieved a majority of the electoral votes, for the first time since 1824. Unfortunately for you, a majority of states have Republican controlled congressional delegations.</p><p>It seems that with George W. Bush and a Republican majority, the United States can expect some conservative policy-making over the next four years. Hopefully Bush comes through on his promise to govern in a bipartisan, conciliatory manner.</p>",
+      "sha256": "f4a4aeb1491bbf54df08b03faf55b534d313bc6c1ca025fe2fd4eb5e2374edf6",
+      "zh": "<h3>很遗憾！你以微弱差距落败。</h3><p>没有候选人取得选举人票过半数，这是1824年以来的第一次。对你而言不幸的是，多数州的国会代表团由共和党控制。</p><p>看来，随着乔治·W.布什当选、共和党占据多数，美国未来四年将迎来一些保守派政策。但愿布什兑现承诺，以两党合作、愿意和解的方式执政。</p>",
+      "keys": [
+        "base/candidate_json/78@60/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "Green",
+      "sha256": "d486dfbd5fb578340bccbdd0a662527eab38550648d5f44517e5ac71b8824703",
+      "zh": "绿党",
+      "keys": [
+        "base/candidate_json/19@4/party",
+        "base/candidate_json/39@14/party",
+        "base/candidate_json/79@61/party",
+        "base/candidate_json/89@71/party",
+        "base/candidate_json/168@148/party",
+        "base/candidate_json/178@158/party",
+        "base/candidate_json/203@162/party",
+        "base/candidate_json/215@174/party",
+        "base/candidate_json/303@178/party",
+        "base/candidate_json/312@187/party"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "<h3>Congratulations! You have won the 2000 election.</h3><p>This was definitely not supposed to happen. Good luck!</p>",
+      "sha256": "47fb33d4c8b861274d1e373a4a5eb1db02ecd5241f646d537fa669aea1ad0235",
+      "zh": "<h3>恭喜！你赢得了2000年大选。</h3><p>这事根本不该发生。祝你好运！</p>",
+      "keys": [
+        "base/candidate_json/79@61/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "<h3>As expected, you have lost the 2000 election.</h3><p>The legacy of this campaign depends on a couple of factors. First of all, did you receive 5% of the popular vote? If so, congratulations! You will enable the Green Party to run a vigorous campaign in 2004 and present a true choice to the American people. Also, the Democrats were a little peeved that you \"stole\" votes from them in this election. Hopefully that doesn't lead to a backlash.</p>",
+      "sha256": "5a418e58c70d712e83ec9940021cffaa45b661c9cb7334f53128bfbad9343aef",
+      "zh": "<h3>不出所料，你输掉了2000年大选。</h3><p>这次竞选留下什么成果，取决于几个因素。首先，你获得了5%的普选票吗？如果是，恭喜！你将让绿党能够在2004年开展有力的竞选，为美国人民提供真正的选择。另外，民主党人有些恼火，觉得你在这次选举中“偷走”了他们的选票。但愿这不会招来反噬。</p>",
+      "keys": [
+        "base/candidate_json/79@61/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "<h3>Wow! No candidate received 270 electoral votes, but the House will elect George W. Bush as President.</h3><p>Did you receive 5% of the popular vote? If so, congratulations! You will enable the Green Party to run a vigorous campaign in 2004 and present a true choice to the American people. Also, the Democrats were a little peeved that you \"stole\" votes from them in this election. Hopefully that doesn't lead to a backlash, especially since they will lose the vote in the House.</p>",
+      "sha256": "c4848aed95bd50139379de0f0884ebe7738c7b56611ffba84227327003ba06f2",
+      "zh": "<h3>哇！没有候选人获得270张选举人票，但众议院将选举乔治·W.布什为总统。</h3><p>你获得了5%的普选票吗？如果是，恭喜！你将让绿党能够在2004年开展有力的竞选，为美国人民提供真正的选择。另外，民主党人有些恼火，觉得你在这次选举中“偷走”了他们的选票。但愿这不会招来反噬，尤其是他们还将输掉众议院的投票。</p>",
+      "keys": [
+        "base/candidate_json/79@61/no_electoral_majority_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "How the fuck did Florida tie are you fucking kidding me",
+      "sha256": "0bdfd26eb75568cd6ce1be2663f10c89fdc1fd63fe08571df65e8e08aacc6c01",
+      "zh": "佛罗里达他妈的怎么会打平，你他妈在逗我吗",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l62.c11/text",
+        "2000_Bush_Danforth/ending/s0.l62.c11/text",
+        "2000_Bush_Ridge/ending/s0.l62.c11/text",
+        "2000_Bush_Powell/ending/s0.l62.c11/text",
+        "2000_Gore_Lieberman/ending/s0.l62.c11/text",
+        "2000_Gore_Graham/ending/s0.l62.c11/text",
+        "2000_Gore_Kerry/ending/s0.l62.c11/text",
+        "2000_Gore_Bayh/ending/s0.l62.c11/text",
+        "2000_Nader_LaDuke/ending/s0.l62.c11/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "<h3>“Too close to call!”</h3><p>The state of Florida has a margin of victory under half a percent, and with the election hinging on its result, the recounts in the state are going to decide it. Every court option and legal procedure will be investigated by you and your opponent, so be ready for the long haul. Let’s hope this delay in fundamental democracy doesn't result in the unpreparedness of any critical governmental agencies. That would be truly terrible!<p><p>",
+      "sha256": "b1e5cbae663ee11d000174379395254f046f723a75c3e06613205a70ad4828e5",
+      "zh": "<h3>“差距太小，无法判定胜负！”</h3><p>佛罗里达州的胜负差距不到半个百分点，而整个大选又取决于该州的结果，因此州内重新计票将决定胜负。你和对手都会穷尽各类法院途径和法律程序，做好打持久战的准备吧。但愿这场民主根本程序的拖延，不会让任何关键政府机构准备不足。那可就真的糟了！<p><p>",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l77.c7/text",
+        "2000_Bush_Danforth/ending/s0.l77.c7/text",
+        "2000_Bush_Ridge/ending/s0.l77.c7/text",
+        "2000_Bush_Powell/ending/s0.l77.c7/text",
+        "2000_Gore_Lieberman/ending/s0.l77.c7/text",
+        "2000_Gore_Graham/ending/s0.l77.c7/text",
+        "2000_Gore_Kerry/ending/s0.l77.c7/text",
+        "2000_Gore_Bayh/ending/s0.l77.c7/text",
+        "2000_Nader_LaDuke/ending/s0.l77.c7/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": " Sorry, you've lost the 2000 election",
+      "sha256": "dd8b0b7440157c66a77bae75a3d3d512815f45a8d6372f2efe6cbef0e5103408",
+      "zh": " 很遗憾，你输掉了2000年大选",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l99.c23/text",
+        "2000_Bush_Danforth/ending/s0.l99.c23/text",
+        "2000_Bush_Ridge/ending/s0.l99.c23/text",
+        "2000_Bush_Powell/ending/s0.l99.c23/text",
+        "2000_Gore_Lieberman/ending/s0.l99.c23/text",
+        "2000_Gore_Graham/ending/s0.l99.c23/text",
+        "2000_Gore_Kerry/ending/s0.l99.c23/text",
+        "2000_Gore_Bayh/ending/s0.l99.c23/text",
+        "2000_Nader_LaDuke/ending/s0.l99.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "You still have many options for your political career as of now. You are still popular in your party and Texas, so there is no doubt you can still influence the next candidate. Perhaps it will be you, or your brother. Maybe the American public will get sick of the Bush family and choose someone else entirely. Whatever the case, let’s hope the Republicans can recover as the Democrats did 8 years ago.",
+      "sha256": "a58583f9ec892f98e423f53dd41f05e77076db0de5212bd745bd5ff907d6c12e",
+      "zh": "眼下，你的政治生涯仍有许多选择。你在党内和得克萨斯州依然受欢迎，因此毫无疑问，你仍能影响下一位候选人。也许那个人就是你，或者你的弟弟。也许美国公众会厌倦布什家族，转而选择完全不同的人。无论如何，但愿共和党能像八年前的民主党那样重新振作。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l100.c28/text",
+        "2000_Bush_Danforth/ending/s0.l100.c28/text",
+        "2000_Bush_Ridge/ending/s0.l100.c28/text",
+        "2000_Bush_Powell/ending/s0.l100.c28/text",
+        "2000_Gore_Lieberman/ending/s0.l100.c28/text",
+        "2000_Gore_Graham/ending/s0.l100.c28/text",
+        "2000_Gore_Kerry/ending/s0.l100.c28/text",
+        "2000_Gore_Bayh/ending/s0.l100.c28/text",
+        "2000_Nader_LaDuke/ending/s0.l100.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": " Despite your best efforts, Al Gore will succeed Clinton in the presidency. Many Republicans are disappointed with your loss, seeing the Monica Lewinsky scandal, among others a real opening for them to return to the White House. The closeness of the election will likely inspire Gore to be a bit more moderate and bipartisan in his decision-making. With the close Senate, it will certainly be needed.",
+      "sha256": "f5969eee34d63295e7b8c3d0fa0f4471f3ea36c65b16af8f0e32a49f90ec0132",
+      "zh": " 尽管你竭尽全力，阿尔·戈尔还是将接替克林顿担任总统。许多共和党人对你的落败感到失望，他们原本认为莱温斯基丑闻等事件，给了他们重返白宫的绝佳机会。选举如此接近，可能促使戈尔作决策时更加温和，更注重两党合作。参议院席位接近，这一点肯定很有必要。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l103.c31/text",
+        "2000_Bush_Danforth/ending/s0.l103.c31/text",
+        "2000_Bush_Ridge/ending/s0.l103.c31/text",
+        "2000_Bush_Powell/ending/s0.l103.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l103.c31/text",
+        "2000_Gore_Graham/ending/s0.l103.c31/text",
+        "2000_Gore_Kerry/ending/s0.l103.c31/text",
+        "2000_Gore_Bayh/ending/s0.l103.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l103.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": " Despite your best efforts, Al Gore will succeed Clinton in the presidency. Many Republicans are disappointed with your loss, seeing the Monica Lewinsky scandal, among others a real opening for them to return to the White House. Gore flipping the House and Senate will give him some breathing room, but with the slim margins, he will have his work cut out for him.",
+      "sha256": "e44198482285c6bc5e6dfd1ba3183aeb5472a38b9c41f92f04c117804dd8cc5e",
+      "zh": " 尽管你竭尽全力，阿尔·戈尔还是将接替克林顿担任总统。许多共和党人对你的落败感到失望，他们原本认为莱温斯基丑闻等事件，给了他们重返白宫的绝佳机会。戈尔夺回众参两院，将给他一些施展空间；不过多数优势微弱，他还有不少难关要过。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l106.c31/text",
+        "2000_Bush_Danforth/ending/s0.l106.c31/text",
+        "2000_Bush_Ridge/ending/s0.l106.c31/text",
+        "2000_Bush_Powell/ending/s0.l106.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l106.c31/text",
+        "2000_Gore_Graham/ending/s0.l106.c31/text",
+        "2000_Gore_Kerry/ending/s0.l106.c31/text",
+        "2000_Gore_Bayh/ending/s0.l106.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l106.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": " Despite your best efforts, Al Gore will succeed Clinton in the presidency. Many Republicans are disappointed with your loss, seeing the Monica Lewinsky scandal, among others a real opening for them to return to the White House. Many are shocked at the margin you lost by, seeing the Lewinsky scandal as giving a lot of socially conservative states the impetus to vote for you. Many it really IS just the economy that matters.",
+      "sha256": "86b46f5d4d46891c113210333c91b6c4ad4d57d869bea7c0a5d623eb6f86e4be",
+      "zh": " 尽管你竭尽全力，阿尔·戈尔还是将接替克林顿担任总统。许多共和党人对你的落败感到失望，他们原本认为莱温斯基丑闻等事件，给了他们重返白宫的绝佳机会。许多人对你落败的幅度感到震惊，他们认为莱温斯基丑闻会推动许多社会观念保守的州投票支持你。也许真的是经济决定一切。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l109.c31/text",
+        "2000_Bush_Danforth/ending/s0.l109.c31/text",
+        "2000_Bush_Ridge/ending/s0.l109.c31/text",
+        "2000_Bush_Powell/ending/s0.l109.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l109.c31/text",
+        "2000_Gore_Graham/ending/s0.l109.c31/text",
+        "2000_Gore_Kerry/ending/s0.l109.c31/text",
+        "2000_Gore_Bayh/ending/s0.l109.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l109.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": " For the first time since 1888, the loser of the popular vote has won the election! This has many Republicans enraged, especially due to the fact this is the 3rd Democrat in a row winning with less than 50% of the popular vote. Maybe a run in 4 years IS in the books for you...",
+      "sha256": "7f90a9d812193e719fc96cc180b0562327f720a2a9468c00fea16e6b72160e09",
+      "zh": " 这是1888年以来，首次出现普选票落后者赢得大选！许多共和党人十分愤怒，尤其是民主党已连续三次在普选票未过半的情况下获胜。也许四年后再次参选，真值得考虑……",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l113.c28/text",
+        "2000_Bush_Danforth/ending/s0.l113.c28/text",
+        "2000_Bush_Ridge/ending/s0.l113.c28/text",
+        "2000_Bush_Powell/ending/s0.l113.c28/text",
+        "2000_Gore_Lieberman/ending/s0.l113.c28/text",
+        "2000_Gore_Graham/ending/s0.l113.c28/text",
+        "2000_Gore_Kerry/ending/s0.l113.c28/text",
+        "2000_Gore_Bayh/ending/s0.l113.c28/text",
+        "2000_Nader_LaDuke/ending/s0.l113.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Congratulations! You won the 2000 election",
+      "sha256": "d0fe54cce0725ee34e32a70f83fb4befff248da34a7ef77dceba1d06d788935e",
+      "zh": "恭喜！你赢得了2000年大选",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l116.c23/text",
+        "2000_Bush_Cheney/ending/s0.l154.c23/text",
+        "2000_Bush_Danforth/ending/s0.l116.c23/text",
+        "2000_Bush_Danforth/ending/s0.l154.c23/text",
+        "2000_Bush_Ridge/ending/s0.l116.c23/text",
+        "2000_Bush_Ridge/ending/s0.l154.c23/text",
+        "2000_Bush_Powell/ending/s0.l116.c23/text",
+        "2000_Bush_Powell/ending/s0.l154.c23/text",
+        "2000_Gore_Lieberman/ending/s0.l116.c23/text",
+        "2000_Gore_Lieberman/ending/s0.l154.c23/text",
+        "2000_Gore_Graham/ending/s0.l116.c23/text",
+        "2000_Gore_Graham/ending/s0.l154.c23/text",
+        "2000_Gore_Kerry/ending/s0.l116.c23/text",
+        "2000_Gore_Kerry/ending/s0.l154.c23/text",
+        "2000_Gore_Bayh/ending/s0.l116.c23/text",
+        "2000_Gore_Bayh/ending/s0.l154.c23/text",
+        "2000_Nader_LaDuke/ending/s0.l116.c23/text",
+        "2000_Nader_LaDuke/ending/s0.l154.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "What will happen next is up to you, although most people have some expectations. Tax cuts will certainly be going into effect, and some bills related to gay marriage or homosexual people in the military will as well. Just keep an eye out for 2004, and don't make the same mistakes as your dad.",
+      "sha256": "fa69a876c7224f734ae57731eeb0ef407bcf781f964ffca7e14388ee7e8871c8",
+      "zh": "接下来会发生什么，取决于你，尽管多数人已经有所预期。减税肯定会实施，一些涉及同性婚姻或同性恋者在军中服役的法案也会出台。只是要留心2004年，别重蹈你父亲的覆辙。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l117.c28/text",
+        "2000_Bush_Danforth/ending/s0.l117.c28/text",
+        "2000_Bush_Ridge/ending/s0.l117.c28/text",
+        "2000_Bush_Powell/ending/s0.l117.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "Well done! You've prevented another term of Democrats and succeeded your father as the next Republican president. Your impressive margin allows the Senate and House to stay in Republican hands, with a Republican president for the first time since Dwight Eisenhower!",
+      "sha256": "1e9efa58a9f076defa825482ea51975d1ec0cbc4f8ddfcf69e465a2ce0fbd38e",
+      "zh": "干得好！你阻止了民主党再次执政，继你父亲之后成为下一位共和党总统。你取得了令人印象深刻的优势，使众参两院继续掌握在共和党手中，这是德怀特·艾森豪威尔以来首次由共和党同时掌握总统职位和两院！",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l120.c31/text",
+        "2000_Bush_Danforth/ending/s0.l120.c31/text",
+        "2000_Bush_Ridge/ending/s0.l120.c31/text",
+        "2000_Bush_Powell/ending/s0.l120.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l120.c31/text",
+        "2000_Gore_Graham/ending/s0.l120.c31/text",
+        "2000_Gore_Kerry/ending/s0.l120.c31/text",
+        "2000_Gore_Bayh/ending/s0.l120.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l120.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Well done! You've prevented another term of Democrats and succeeded your father as the next Republican president. You've managed to flip a few seats in the house and Senate, but it's best you act quickly on your promises or the midterms could take that all away.",
+      "sha256": "900bc8784f166be72906e3c13b00c948ba70600ef5b98c206c0fd4cd9f53f912",
+      "zh": "干得好！你阻止了民主党再次执政，继你父亲之后成为下一位共和党总统。你设法夺下了众参两院的一些席位，但最好尽快兑现承诺，否则中期选举可能把这一切夺走。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l124.c31/text",
+        "2000_Bush_Danforth/ending/s0.l124.c31/text",
+        "2000_Bush_Ridge/ending/s0.l124.c31/text",
+        "2000_Bush_Powell/ending/s0.l124.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l124.c31/text",
+        "2000_Gore_Graham/ending/s0.l124.c31/text",
+        "2000_Gore_Kerry/ending/s0.l124.c31/text",
+        "2000_Gore_Bayh/ending/s0.l124.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l124.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Well done! You've prevented another term of Democrats and succeeded your father as the next Republican president. You barely won, however, so let’s hope your bipartisanship and compassionate conservativism resonate with many Americans.",
+      "sha256": "f009fac3c44a5b1ddfe979ce474a7b1874db1d1c8e595e6085c47fcce4df3938",
+      "zh": "干得好！你阻止了民主党再次执政，继你父亲之后成为下一位共和党总统。不过你只是险胜，所以但愿你的两党合作与富有同情心的保守主义，能引起许多美国人的共鸣。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l128.c31/text",
+        "2000_Bush_Danforth/ending/s0.l128.c31/text",
+        "2000_Bush_Ridge/ending/s0.l128.c31/text",
+        "2000_Bush_Powell/ending/s0.l128.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l128.c31/text",
+        "2000_Gore_Graham/ending/s0.l128.c31/text",
+        "2000_Gore_Kerry/ending/s0.l128.c31/text",
+        "2000_Gore_Bayh/ending/s0.l128.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l128.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "For the first time since 1888, the loser of the popular vote has won the election! This has many Democrats are very angry, especially at Ralph Nader for \"spoiling\" the election.",
+      "sha256": "60be38abd007a0080ff45dfb627e4505ce7666bdccda7bd28859ed87cca27e11",
+      "zh": "这是1888年以来，首次出现普选票落后者赢得大选！许多民主党人非常愤怒，尤其迁怒于拉尔夫·纳德，怪他“搅局”。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l132.c29/text",
+        "2000_Bush_Danforth/ending/s0.l132.c29/text",
+        "2000_Bush_Ridge/ending/s0.l132.c29/text",
+        "2000_Bush_Powell/ending/s0.l132.c29/text",
+        "2000_Gore_Lieberman/ending/s0.l132.c29/text",
+        "2000_Gore_Graham/ending/s0.l132.c29/text",
+        "2000_Gore_Kerry/ending/s0.l132.c29/text",
+        "2000_Gore_Bayh/ending/s0.l132.c29/text",
+        "2000_Nader_LaDuke/ending/s0.l132.c29/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "Sorry, you've lost the 2000 election",
+      "sha256": "8340e35daae6d46e7063d3a57e4a59f86c283cb0894c991917748a99cd8a7ccb",
+      "zh": "很遗憾，你输掉了2000年大选",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l140.c23/text",
+        "2000_Bush_Danforth/ending/s0.l140.c23/text",
+        "2000_Bush_Ridge/ending/s0.l140.c23/text",
+        "2000_Bush_Powell/ending/s0.l140.c23/text",
+        "2000_Gore_Lieberman/ending/s0.l140.c23/text",
+        "2000_Gore_Graham/ending/s0.l140.c23/text",
+        "2000_Gore_Kerry/ending/s0.l140.c23/text",
+        "2000_Gore_Bayh/ending/s0.l140.c23/text",
+        "2000_Nader_LaDuke/ending/s0.l140.c23/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "It's up to you what you want to do next. A run in 4 years isn't totally out of the question, but after your decades in politics, you might be burnt out. In any case, let’s hope Bush can continue the economic prosperity and tone down the foreign policy intervention, such as in Somalia. Anything more like that would be a disaster...",
+      "sha256": "4b6add4d594d50577899a826b2c22bfc675d3b534a9edd16d621c06a5f7527f5",
+      "zh": "接下来想做什么，由你自己决定。四年后再选，并非完全不可能，但从政几十年后，你可能已经心力交瘁。无论如何，但愿布什延续经济繁荣，并减少索马里那样的对外干预。再来这样的事情，可就会酿成灾难……",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l141.c28/text",
+        "2000_Bush_Danforth/ending/s0.l141.c28/text",
+        "2000_Bush_Ridge/ending/s0.l141.c28/text",
+        "2000_Bush_Powell/ending/s0.l141.c28/text",
+        "2000_Gore_Lieberman/ending/s0.l141.c28/text",
+        "2000_Gore_Graham/ending/s0.l141.c28/text",
+        "2000_Gore_Kerry/ending/s0.l141.c28/text",
+        "2000_Gore_Bayh/ending/s0.l141.c28/text",
+        "2000_Nader_LaDuke/ending/s0.l141.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "It just seems all the little things affecting your campaign were too much to handle. Maybe you should have emphasized your relation to Clinton more. Maybe you should have moved politically left to catch some votes from Nader. Maybe you should have moved politically RIGHT to appeal to the south. Whatever it is, George Bush will be the next president. At least with the close margin, Bush's bipartisanship will have to be on full display.",
+      "sha256": "80311976b46369cc1efeeb9f9f242e175288cb3e090dd26ee69f61b25b33ceca",
+      "zh": "看来，影响竞选的种种小事加在一起，终究让你无力应付。也许你应该更强调自己与克林顿的关系；也许你应该向左靠拢，争取纳德的一些选票；也许你应该向右靠拢，吸引南方选民。无论如何，乔治·布什将成为下一任总统。至少，胜负差距如此接近，布什将不得不充分展示两党合作的态度。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l143.c31/text",
+        "2000_Bush_Danforth/ending/s0.l143.c31/text",
+        "2000_Bush_Ridge/ending/s0.l143.c31/text",
+        "2000_Bush_Powell/ending/s0.l143.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l143.c31/text",
+        "2000_Gore_Graham/ending/s0.l143.c31/text",
+        "2000_Gore_Kerry/ending/s0.l143.c31/text",
+        "2000_Gore_Bayh/ending/s0.l143.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l143.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "It just seems all the little things affecting your campaign were too much to handle. Maybe you should have emphasized your relation to Clinton more. Maybe you should have moved politically left to catch some votes from Nader. Maybe you should have moved politically RIGHT to appeal to the south. Whatever it is, George Bush will be the next president. As it has since 94, the House and Senate will be Republican hands firmly, as they made some small gains.",
+      "sha256": "38c2b93eb4e96a45564353f43331ce7f76bdb9f9db6aaf4fc4a35ca6b6550083",
+      "zh": "看来，影响竞选的种种小事加在一起，终究让你无力应付。也许你应该更强调自己与克林顿的关系；也许你应该向左靠拢，争取纳德的一些选票；也许你应该向右靠拢，吸引南方选民。无论如何，乔治·布什将成为下一任总统。共和党又取得了一些小幅进展，众参两院将像1994年以来一样，牢牢掌握在他们手中。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l145.c31/text",
+        "2000_Bush_Danforth/ending/s0.l145.c31/text",
+        "2000_Bush_Ridge/ending/s0.l145.c31/text",
+        "2000_Bush_Powell/ending/s0.l145.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l145.c31/text",
+        "2000_Gore_Graham/ending/s0.l145.c31/text",
+        "2000_Gore_Kerry/ending/s0.l145.c31/text",
+        "2000_Gore_Bayh/ending/s0.l145.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l145.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "It just seems all the little things affecting your campaign were too much to handle. Maybe you should have emphasized your relation to Clinton more. Maybe you should have moved politically left to catch some votes from Nader. Maybe you should have moved politically RIGHT to appeal to the south. Whatever it is, George Bush will be the next president. Bush won by a larger than expected amount, and as such, the Senate and House will favour him heavily. I guess his bipartisanship won't be needed for the next two years...",
+      "sha256": "51523627b894bf4db638e7b541eeb137cd199f367bf9e7a82ea20ce5aa73f1c7",
+      "zh": "看来，影响竞选的种种小事加在一起，终究让你无力应付。也许你应该更强调自己与克林顿的关系；也许你应该向左靠拢，争取纳德的一些选票；也许你应该向右靠拢，吸引南方选民。无论如何，乔治·布什将成为下一任总统。布什的胜选幅度大于预期，因此众参两院都会大力支持他。我想，接下来两年，大概也用不着他的两党合作了……",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l147.c31/text",
+        "2000_Bush_Danforth/ending/s0.l147.c31/text",
+        "2000_Bush_Ridge/ending/s0.l147.c31/text",
+        "2000_Bush_Powell/ending/s0.l147.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l147.c31/text",
+        "2000_Gore_Graham/ending/s0.l147.c31/text",
+        "2000_Gore_Kerry/ending/s0.l147.c31/text",
+        "2000_Gore_Bayh/ending/s0.l147.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l147.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "For the first time in over a century, the loser of the popular vote has won the election! Your fellow Democrats are already having flashbacks of 1888, and are blaming Ralph Nader for it.",
+      "sha256": "1c09c1c08fff1b321a55e34d8f3db8efe50ecb3d0448f6ccc2285f8d6b99189a",
+      "zh": "有一个多世纪以来，首次出现普选票落后者赢得大选！你的民主党同僚已经回想起1888年，并为此责怪拉尔夫·纳德。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l151.c29/text",
+        "2000_Bush_Danforth/ending/s0.l151.c29/text",
+        "2000_Bush_Ridge/ending/s0.l151.c29/text",
+        "2000_Bush_Powell/ending/s0.l151.c29/text",
+        "2000_Gore_Lieberman/ending/s0.l151.c29/text",
+        "2000_Gore_Graham/ending/s0.l151.c29/text",
+        "2000_Gore_Kerry/ending/s0.l151.c29/text",
+        "2000_Gore_Bayh/ending/s0.l151.c29/text",
+        "2000_Nader_LaDuke/ending/s0.l151.c29/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "You'll no doubt be continuing the economic policies of Clinton, but with your own, Al Gore twist. The environment, healthcare for all, and technology will be your 3 goals of the next term, and if you are successful as Clinton in your achievements, 2004 will be a cakewalk.",
+      "sha256": "67c06d3d52427f2002ceb943826d1a6f80f17fc19d8403baa5cbbb1e55f8ae53",
+      "zh": "毫无疑问，你将延续克林顿的经济政策，但融入你阿尔·戈尔自己的特色。环保、全民医疗和科技，将成为下一届任期的三大目标。如果你能像克林顿一样取得成就，2004年就能轻松过关。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l155.c28/text",
+        "2000_Bush_Danforth/ending/s0.l155.c28/text",
+        "2000_Bush_Ridge/ending/s0.l155.c28/text",
+        "2000_Bush_Powell/ending/s0.l155.c28/text",
+        "2000_Gore_Lieberman/ending/s0.l155.c28/text",
+        "2000_Gore_Graham/ending/s0.l155.c28/text",
+        "2000_Gore_Kerry/ending/s0.l155.c28/text",
+        "2000_Gore_Bayh/ending/s0.l155.c28/text",
+        "2000_Nader_LaDuke/ending/s0.l155.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "Despite another challenge being thrown at you, you've cast aside George Bush and flipped the script on the Republicans, allowing Democrats to win their own 3 presidential elections in a row. Another commanding win for the Democrats as well, and with this, you have flipped both chambers back. Who cares about 1994, anyways?",
+      "sha256": "8c1d762a419c2f887d68b184694d6d78c7c9eb8a480b9280beaa758a9b0d2d8e",
+      "zh": "尽管又一场挑战摆在面前，你还是击退了乔治·布什，逆转了共和党人的如意算盘，让民主党自己也连续赢得三次总统大选。这又是民主党一次压倒性的胜利，你也因此夺回了两院。现在谁还在乎1994年呢？",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l157.c31/text",
+        "2000_Bush_Danforth/ending/s0.l157.c31/text",
+        "2000_Bush_Ridge/ending/s0.l157.c31/text",
+        "2000_Bush_Powell/ending/s0.l157.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l157.c31/text",
+        "2000_Gore_Graham/ending/s0.l157.c31/text",
+        "2000_Gore_Kerry/ending/s0.l157.c31/text",
+        "2000_Gore_Bayh/ending/s0.l157.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l157.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Despite another challenge being thrown at you, you've cast aside George Bush and flipped the script on the Republicans, allowing Democrats to win their own 3 presidential elections in a row. The house and Senate have tightened up in your favour, but you will still have to appeal to moderate Democrats to pass legislation.",
+      "sha256": "999efd985293a9fa78dd51b98639c19a8ab7647bbd16b71ce4dbbe69f4b7b657",
+      "zh": "尽管又一场挑战摆在面前，你还是击退了乔治·布什，逆转了共和党人的如意算盘，让民主党自己也连续赢得三次总统大选。众参两院的席位变化对你有利，不过你仍须争取温和派民主党人，才能通过立法。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l159.c31/text",
+        "2000_Bush_Danforth/ending/s0.l159.c31/text",
+        "2000_Bush_Ridge/ending/s0.l159.c31/text",
+        "2000_Bush_Powell/ending/s0.l159.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l159.c31/text",
+        "2000_Gore_Graham/ending/s0.l159.c31/text",
+        "2000_Gore_Kerry/ending/s0.l159.c31/text",
+        "2000_Gore_Bayh/ending/s0.l159.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l159.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "Despite another challenge being thrown at you, you've cast aside George Bush and flipped the script on the Republicans, allowing Democrats to win their own 3 presidential elections in a row. Unfortunately, your win was nowhere near as big as Clinton's, so the chambers are in the Republicans favour for now.",
+      "sha256": "df14739afbbf49537cb4d26bf46e1ab766364404d96e460cc9872df9b89d5f59",
+      "zh": "尽管又一场挑战摆在面前，你还是击退了乔治·布什，逆转了共和党人的如意算盘，让民主党自己也连续赢得三次总统大选。可惜，你的胜选优势远不及克林顿，因此两院目前仍对共和党有利。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l162.c31/text",
+        "2000_Bush_Danforth/ending/s0.l162.c31/text",
+        "2000_Bush_Ridge/ending/s0.l162.c31/text",
+        "2000_Bush_Powell/ending/s0.l162.c31/text",
+        "2000_Gore_Lieberman/ending/s0.l162.c31/text",
+        "2000_Gore_Graham/ending/s0.l162.c31/text",
+        "2000_Gore_Kerry/ending/s0.l162.c31/text",
+        "2000_Gore_Bayh/ending/s0.l162.c31/text",
+        "2000_Nader_LaDuke/ending/s0.l162.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Interestingly enough, you've lost the popular vote despite winning overall, for the first time since 1888. Republicans aren't too happy about losing 3 elections in a row to someone who won less than 50% of the popular vote.",
+      "sha256": "315771ab408cca94fb184ca0c5f2b21bfb6da9aff3e8fcfec5fd3b4e11e1eddf",
+      "zh": "有趣的是，你虽然赢得了大选，却输掉了普选票。这是1888年以来的第一次。共和党人对连续三次输给普选票未过半的候选人，十分不满。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l166.c28/text",
+        "2000_Bush_Danforth/ending/s0.l166.c28/text",
+        "2000_Bush_Ridge/ending/s0.l166.c28/text",
+        "2000_Bush_Powell/ending/s0.l166.c28/text",
+        "2000_Gore_Lieberman/ending/s0.l166.c28/text",
+        "2000_Gore_Graham/ending/s0.l166.c28/text",
+        "2000_Gore_Kerry/ending/s0.l166.c28/text",
+        "2000_Gore_Bayh/ending/s0.l166.c28/text",
+        "2000_Nader_LaDuke/ending/s0.l166.c28/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "<h3>”As expected, you've lost the 2000 election.”</h3><p>Congratulations! You received 5% of the popular vote! You will enable the Green Party to run a vigorous campaign in 2004 and present a true choice to the American people. You’ve run a great campaign these last few months, and you should have no problem getting renominated in 4 years.<p><p>But for now, sit back and relax, you’ve earned it. Who knows? Maybe next election you’ll even win a state or two.",
+      "sha256": "5919b0b9b413af1eb11cdc486e299f081888d6309984482ab6d74c0f8861e9c8",
+      "zh": "<h3>”不出所料，你输掉了2000年大选。”</h3><p>恭喜！你获得了5%的普选票！你将让绿党能够在2004年开展有力的竞选，为美国人民提供真正的选择。过去几个月，你打了一场漂亮的竞选战，四年后再次获得提名，应当不成问题。<p><p>不过现在，坐下来放松一下吧，这是你应得的。谁知道呢？也许下次选举，你甚至能赢下一两个州。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l174.c12/text",
+        "2000_Bush_Danforth/ending/s0.l174.c12/text",
+        "2000_Bush_Ridge/ending/s0.l174.c12/text",
+        "2000_Bush_Powell/ending/s0.l174.c12/text",
+        "2000_Gore_Lieberman/ending/s0.l174.c12/text",
+        "2000_Gore_Graham/ending/s0.l174.c12/text",
+        "2000_Gore_Kerry/ending/s0.l174.c12/text",
+        "2000_Gore_Bayh/ending/s0.l174.c12/text",
+        "2000_Nader_LaDuke/ending/s0.l174.c12/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "<h3>”Congratulations! You’ve won D.C.!”</h3><p>What a campaign! You’ve managed to surpass expectations and net yourself some electoral votes! You should have no trouble gaining federal matching funds next election, and you can take solace in the fact that the people of D.C. chose the only capable man this election.<p><p>Democrats are sure to be miffed, especially so if they lost, but you couldn’t care less at this moment. Good luck in 2004!",
+      "sha256": "ef378a0da83e972c4ebd725cf9e048778d3e184842f2b71656597d7ec21cfce4",
+      "zh": "<h3>”恭喜！你赢得了哥伦比亚特区！”</h3><p>好一场竞选！你超出了人们的预期，拿到了一些选举人票！下次选举，你应当不难取得联邦配套资助；哥伦比亚特区的人民选择了本次选举中唯一有能力的人，这也能让你感到欣慰。<p><p>民主党人肯定恼火，尤其是他们输掉大选的时候，但你此刻根本不在乎。祝你2004年好运！",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l178.c12/text",
+        "2000_Bush_Danforth/ending/s0.l178.c12/text",
+        "2000_Bush_Ridge/ending/s0.l178.c12/text",
+        "2000_Bush_Powell/ending/s0.l178.c12/text",
+        "2000_Gore_Lieberman/ending/s0.l178.c12/text",
+        "2000_Gore_Graham/ending/s0.l178.c12/text",
+        "2000_Gore_Kerry/ending/s0.l178.c12/text",
+        "2000_Gore_Bayh/ending/s0.l178.c12/text",
+        "2000_Nader_LaDuke/ending/s0.l178.c12/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "<h3>”Holy Cow! You won a state!”</h3><p>Everyone thought it impossible, but you’ve pulled it off! You’re the first third-party candidate in over 30 years to win a state, and both you and your supporters are ecstatic. Federal matching funds in 2004 are all but guaranteed, and you’ve established the green party as a force to be reckoned with.<p><p>Let’s hope you’re more than just a flash in the pan and can run a similar campaign in 2004. The Green party may even find itself in the White House someday - and it’s all thanks to you.",
+      "sha256": "499fa79ab141f383e356b32a58c560695dfd1f6d9b4b100a1f0c65c06c56e76f",
+      "zh": "<h3>”天哪！你赢下了一个州！”</h3><p>所有人都认为不可能，但你做到了！你是三十多年来首位赢下一个州的第三党候选人，你和支持者都欣喜若狂。2004年的联邦配套资助几乎已经有了保障，你也让绿党成为一股不容忽视的力量。<p><p>但愿你不只是昙花一现，2004年还能打出同样的竞选成绩。绿党甚至有一天可能入主白宫——这一切都要归功于你。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l182.c9/text",
+        "2000_Bush_Danforth/ending/s0.l182.c9/text",
+        "2000_Bush_Ridge/ending/s0.l182.c9/text",
+        "2000_Bush_Powell/ending/s0.l182.c9/text",
+        "2000_Gore_Lieberman/ending/s0.l182.c9/text",
+        "2000_Gore_Graham/ending/s0.l182.c9/text",
+        "2000_Gore_Kerry/ending/s0.l182.c9/text",
+        "2000_Gore_Bayh/ending/s0.l182.c9/text",
+        "2000_Nader_LaDuke/ending/s0.l182.c9/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "<h3>”The Senate will now vote on H.R. 5411, the National Defense Authorization Act for Fiscal Year 2001.”</h3><p> Those were the words of the clerk in the US Senate. They went through each Senator by state, asking for a voice vote from each of them. After all, was said and done, the tally was 81-19 in favour of the motion. the clerk said 'The motion passes. The bill will now be presented to the president for signing.' He stood up and turned around, only to see president Ralph Nader standing 2 inches behind him, which causes the Clerk to stumble back. 'Oh, h-hello there President Nader. I was just going to pres-' He gets interrupted by the loudest yell he had ever heard, when president Nader bellowed at him:<p><p>VETOED!!!!!!!!!!!!!!!!!!!!!<p><p> president Nader then had his 74th veto overridden that congress just 5 minutes later.",
+      "sha256": "3355c083f51074285e380202e6903fe3f60340f980dc5e482c39d5dd93d9d4be",
+      "zh": "<h3>”参议院现在将对H.R. 5411号法案，即《2001财年国防授权法》进行表决。”</h3><p> 这是美国参议院书记员的话。他们按州逐一询问参议员，请每个人口头投票。全部结束后，结果为81票赞成、19票反对。书记员说：“议案通过。法案现在将提交总统签署。”他站起身转过头，却发现拉尔夫·纳德总统就在身后两英寸处，吓得他踉跄后退。“啊，您、您好，纳德总统。我正要呈——”他的话被一声生平听过最响的吼叫打断，纳德总统冲他咆哮：<p><p>否决!!!!!!!!!!!!!!!!!!!!!<p><p> 仅仅五分钟后，纳德总统在本届国会期间的第74次否决，就被国会推翻了。",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l186.c12/text",
+        "2000_Bush_Danforth/ending/s0.l186.c12/text",
+        "2000_Bush_Ridge/ending/s0.l186.c12/text",
+        "2000_Bush_Powell/ending/s0.l186.c12/text",
+        "2000_Gore_Lieberman/ending/s0.l186.c12/text",
+        "2000_Gore_Graham/ending/s0.l186.c12/text",
+        "2000_Gore_Kerry/ending/s0.l186.c12/text",
+        "2000_Gore_Bayh/ending/s0.l186.c12/text",
+        "2000_Nader_LaDuke/ending/s0.l186.c12/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "<h3>”Good lord! You’ve won the 2000 election!”</h3><p>Everyone thought it impossible, that at best you would get 5%, but you’ve proved everybody wrong! This is the biggest political upset in American history, beating out Truman over 50 years ago. An impromptu party has been arranged at the Green Party headquarters in DC, your answering machine is clogged with congratulatory calls from your supporters, and every news station in the country has been clamouring to get to you for an interview<p><p>What you've achieved tonight is a stellar victory that will be studied for the rest of American history. From Nader’s Raiders to the White House in 30 years, let’s hope your surprise victory has also netted the Green Party some senate seats, or you’ll have to compromise big in the coming years, considering your stiff opposition from both parties. This definitely wasn’t supposed to happen - Good luck!",
+      "sha256": "ff23b308962dbb45f8a3b29344e7a1ccbcf189a86822b97d6c04fd3d546f2e63",
+      "zh": "<h3>”老天！你赢得了2000年大选！”</h3><p>所有人都认为这不可能，觉得你顶多拿到5%，但你证明他们全都错了！这是美国历史上最大的政治冷门，超过了五十多年前杜鲁门的胜选。绿党在哥伦比亚特区的总部临时举办了庆祝聚会，你的电话答录机塞满了支持者的祝贺来电，全国每家新闻台都争着采访你<p><p>你今晚取得的是辉煌的胜利，美国历史研究将永远关注它。三十年间，从“纳德突击队”走到白宫，但愿你意外胜选的同时，也为绿党赢得了一些参议院席位；否则，面对两党强烈反对，你在未来几年就不得不作出很大妥协。这根本不该发生——祝你好运！",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l190.c12/text",
+        "2000_Bush_Danforth/ending/s0.l190.c12/text",
+        "2000_Bush_Ridge/ending/s0.l190.c12/text",
+        "2000_Bush_Powell/ending/s0.l190.c12/text",
+        "2000_Gore_Lieberman/ending/s0.l190.c12/text",
+        "2000_Gore_Graham/ending/s0.l190.c12/text",
+        "2000_Gore_Kerry/ending/s0.l190.c12/text",
+        "2000_Gore_Bayh/ending/s0.l190.c12/text",
+        "2000_Nader_LaDuke/ending/s0.l190.c12/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "<h3>\"It is Over\"</h3><p>The results are coming in, and the phone is ringing. You reach slowly into your drawer and pull out something you never thought you would use. The TV announcer drawls, \"The biggest loser of tonight is Ralph Nader! Nader appears to have only received ",
+      "sha256": "d18bebe8626c011da1a66a1e77223e617f3ac434e1cea341b8fa57761b693842",
+      "zh": "<h3>\"结束了\"</h3><p>结果陆续传来，电话响起。你慢慢把手伸进抽屉，拿出一件从没想过会用到的东西。电视播音员拖着腔调说：“今晚最大的输家是拉尔夫·纳德！纳德看来在全国只获得了",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l194.c10/text",
+        "2000_Bush_Danforth/ending/s0.l194.c10/text",
+        "2000_Bush_Ridge/ending/s0.l194.c10/text",
+        "2000_Bush_Powell/ending/s0.l194.c10/text",
+        "2000_Gore_Lieberman/ending/s0.l194.c10/text",
+        "2000_Gore_Graham/ending/s0.l194.c10/text",
+        "2000_Gore_Kerry/ending/s0.l194.c10/text",
+        "2000_Gore_Bayh/ending/s0.l194.c10/text",
+        "2000_Nader_LaDuke/ending/s0.l194.c10/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": " votes nationwide.\" You pull the gun to your head, and slowly press on the trigger... and then there was nothing.</p><p>A noise suddenly grabs your attention, but your vision is still fuzzy.</p><p>\"Ralph, cmon!\"</p><p>The voice seems strained. Your vision suddenly clears. You are in a white room. As your eyes trail sluggishly around the room, you notice something strange. There are a series of glass pods lining the sides of the room. In each pod, there is a person inside each, with every person having some form of cap on their head.</p><p>\"Get out of the simulator, Ralph! We have some shopping to do,\" and then finally, you remembered.</p>",
+      "sha256": "f71447577f6289675a95a4da3bc2ceb52c6365fce4a2cd1d89c6fd75c3465649",
+      "zh": " 票。”你把枪举到头边，慢慢扣下扳机……然后，一切归于虚无。</p><p>一个声音突然引起了你的注意，但你的视线仍然模糊。</p><p>“拉尔夫，快点！”</p><p>声音似乎有些吃力。你的视线突然清晰起来。你在一间白色的房间里。目光迟缓地扫过房间，你发现了一件怪事：房间两侧排列着一系列玻璃舱。每个舱里都有一个人，每个人头上都戴着某种帽子。</p><p>“快从模拟器里出来，拉尔夫！我们还得去买东西呢。”终于，你想起来了。</p>",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l194.c305/text",
+        "2000_Bush_Danforth/ending/s0.l194.c305/text",
+        "2000_Bush_Ridge/ending/s0.l194.c305/text",
+        "2000_Bush_Powell/ending/s0.l194.c305/text",
+        "2000_Gore_Lieberman/ending/s0.l194.c305/text",
+        "2000_Gore_Graham/ending/s0.l194.c305/text",
+        "2000_Gore_Kerry/ending/s0.l194.c305/text",
+        "2000_Gore_Bayh/ending/s0.l194.c305/text",
+        "2000_Nader_LaDuke/ending/s0.l194.c305/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "<h3>”As expected, you've lost the 2000 election.”</h3><p>This was hardly a surprise, considering the stranglehold that the two-party system holds on American politics. To make matters worse, you didn’t even get 5% of the popular vote, so the Green Party will have to do without federal matching funds. <p><p>Still, you’ve run a decent campaign, and your campaign has tried the best it could. You have a chance to cross that 5% threshold in the next election at least, considering you’ve been a perennial candidate for 8 years now. Good luck in 2004!",
+      "sha256": "b071a7358a95d8f4ab8217304a7058fe757f3bb0a1ee53c910d1321c80bde65f",
+      "zh": "<h3>”不出所料，你输掉了2000年大选。”</h3><p>考虑到两党制牢牢控制着美国政治，这几乎毫不意外。更糟的是，你连5%的普选票都没拿到，绿党也就得不到联邦配套资助。<p><p>尽管如此，你还是打了一场像样的竞选战，竞选团队也尽了全力。至少下次选举，你还有机会越过5%的门槛，毕竟你已连续参选八年了。祝你2004年好运！",
+      "keys": [
+        "2000_Bush_Cheney/ending/s0.l198.c12/text",
+        "2000_Bush_Danforth/ending/s0.l198.c12/text",
+        "2000_Bush_Ridge/ending/s0.l198.c12/text",
+        "2000_Bush_Powell/ending/s0.l198.c12/text",
+        "2000_Gore_Lieberman/ending/s0.l198.c12/text",
+        "2000_Gore_Graham/ending/s0.l198.c12/text",
+        "2000_Gore_Kerry/ending/s0.l198.c12/text",
+        "2000_Gore_Bayh/ending/s0.l198.c12/text",
+        "2000_Nader_LaDuke/ending/s0.l198.c12/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Today you have announced the selection of Dick Cheney as running mate. Can you speak more about him?",
+      "sha256": "e7b7a9a4c6b8f38d9bce63f236d11857001f47415a88e1b79fa10bff3f7f5987",
+      "zh": "今天，你宣布选择迪克·切尼作为竞选搭档。你能多谈谈他吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/393@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "What key points will you emphasize as you accept your party's nomination for President of the United States?",
+      "sha256": "bd25bc8b7b1bee4f1f71c6aa835131f674e0ecadfcc7948a2cd3e2bf7a5bb8d9",
+      "zh": "接受本党美国总统候选人提名时，你将强调哪些要点？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/366@1/description",
+        "2000_Bush_Danforth/questions_json/366@2/description",
+        "2000_Bush_Ridge/questions_json/366@2/description",
+        "2000_Bush_Powell/questions_json/366@2/description",
+        "2000_Gore_Lieberman/questions_json/367@2/description",
+        "2000_Gore_Graham/questions_json/367@2/description",
+        "2000_Gore_Kerry/questions_json/367@1/description",
+        "2000_Gore_Bayh/questions_json/367@1/description",
+        "2000_Nader_LaDuke/questions_json/368@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "What is your overall strategy for the 2000 campaign?",
+      "sha256": "ff88628950581beb72c6f8d5257ce9ed8fd7d5380ee433394e90671e8394b48d",
+      "zh": "你在2000年竞选中的总体策略是什么？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/369@2/description",
+        "2000_Bush_Danforth/questions_json/369@1/description",
+        "2000_Bush_Ridge/questions_json/369@1/description",
+        "2000_Bush_Powell/questions_json/369@1/description",
+        "2000_Gore_Lieberman/questions_json/370@1/description",
+        "2000_Gore_Graham/questions_json/370@1/description",
+        "2000_Gore_Kerry/questions_json/370@2/description",
+        "2000_Gore_Bayh/questions_json/370@2/description",
+        "2000_Nader_LaDuke/questions_json/371@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "Do you have any plans to change American tax policy?",
+      "sha256": "6c5a006e44e448b7679d4598c62d5b93e6064ed899ce038b16199e44143f552a",
+      "zh": "你打算改变美国的税收政策吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/350@3/description",
+        "2000_Bush_Danforth/questions_json/350@9/description",
+        "2000_Bush_Ridge/questions_json/350@9/description",
+        "2000_Bush_Powell/questions_json/350@7/description",
+        "2000_Gore_Lieberman/questions_json/350@5/description",
+        "2000_Gore_Graham/questions_json/350@10/description",
+        "2000_Gore_Kerry/questions_json/350@4/description",
+        "2000_Gore_Bayh/questions_json/350@11/description",
+        "2000_Nader_LaDuke/questions_json/350@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Which of the following best describes your position on the $200 billion surplus that is projected for this year?",
+      "sha256": "db4cab4b19bdc53a191dcbfbccb426d54102d0a5a667c8b62d5a2f9fd80f7f2d",
+      "zh": "以下哪项最能描述你对今年预计2000亿美元预算盈余的立场？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/343@4/description",
+        "2000_Bush_Danforth/questions_json/343@3/description",
+        "2000_Bush_Ridge/questions_json/343@10/description",
+        "2000_Bush_Powell/questions_json/343@3/description",
+        "2000_Gore_Lieberman/questions_json/343@6/description",
+        "2000_Gore_Graham/questions_json/343@7/description",
+        "2000_Gore_Kerry/questions_json/343@9/description",
+        "2000_Gore_Bayh/questions_json/343@6/description",
+        "2000_Nader_LaDuke/questions_json/343@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Do you believe that Elian Gonzalez should have been returned to Cuba?",
+      "sha256": "3ca9125a4d40f9612c5140753997ee8f9e711efce32fea61c8b7c6a2c93f44ad",
+      "zh": "你认为埃利安·冈萨雷斯当时应当被送回古巴吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/348@5/description",
+        "2000_Bush_Danforth/questions_json/348@11/description",
+        "2000_Bush_Ridge/questions_json/348@8/description",
+        "2000_Bush_Powell/questions_json/348@10/description",
+        "2000_Gore_Lieberman/questions_json/348@11/description",
+        "2000_Gore_Graham/questions_json/348@5/description",
+        "2000_Gore_Kerry/questions_json/348@11/description",
+        "2000_Gore_Bayh/questions_json/348@5/description",
+        "2000_Nader_LaDuke/questions_json/348@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Do you have any thoughts on the Bill Clinton scandal that you would like to share?",
+      "sha256": "038badfea9b9ef1786331f25aa335649fb892107bee431dcf1ef852a73cf2b16",
+      "zh": "关于比尔·克林顿的丑闻，你有什么想说的吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/347@6/description",
+        "2000_Bush_Danforth/questions_json/347@7/description",
+        "2000_Bush_Ridge/questions_json/347@7/description",
+        "2000_Bush_Powell/questions_json/347@5/description",
+        "2000_Gore_Lieberman/questions_json/347@8/description",
+        "2000_Gore_Graham/questions_json/347@11/description",
+        "2000_Gore_Kerry/questions_json/347@6/description",
+        "2000_Gore_Bayh/questions_json/347@3/description",
+        "2000_Nader_LaDuke/questions_json/347@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "Which of the following best describes your position on education?",
+      "sha256": "e8fbea371b2db7a4fc38e5ef0531894a25139ccf8cb8b1d1dedc086040163db1",
+      "zh": "以下哪项最能描述你的教育立场？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/344@7/description",
+        "2000_Bush_Danforth/questions_json/344@6/description",
+        "2000_Bush_Ridge/questions_json/344@11/description",
+        "2000_Bush_Powell/questions_json/344@6/description",
+        "2000_Gore_Lieberman/questions_json/344@9/description",
+        "2000_Gore_Graham/questions_json/344@4/description",
+        "2000_Gore_Kerry/questions_json/344@5/description",
+        "2000_Gore_Bayh/questions_json/344@4/description",
+        "2000_Nader_LaDuke/questions_json/344@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Which of the following best describes your position on Social Security?",
+      "sha256": "92594c06bd2d920393e380728b49f82071533f07db859bcda3915b57ea8a6ef9",
+      "zh": "以下哪项最能描述你对社会保障制度的立场？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/345@8/description",
+        "2000_Bush_Danforth/questions_json/345@5/description",
+        "2000_Bush_Ridge/questions_json/345@5/description",
+        "2000_Bush_Powell/questions_json/345@11/description",
+        "2000_Gore_Lieberman/questions_json/345@10/description",
+        "2000_Gore_Graham/questions_json/345@3/description",
+        "2000_Gore_Kerry/questions_json/345@10/description",
+        "2000_Gore_Bayh/questions_json/345@7/description",
+        "2000_Nader_LaDuke/questions_json/345@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Did you support Bill Clinton's actions leading to the bombing of Serbia?",
+      "sha256": "2b02db83a7e943dc7b599e0151b97d32d6a1dadc428b0d6223286596104ed309",
+      "zh": "你支持比尔·克林顿采取导致轰炸塞尔维亚的那些行动吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/349@9/description",
+        "2000_Bush_Danforth/questions_json/349@10/description",
+        "2000_Bush_Ridge/questions_json/349@6/description",
+        "2000_Bush_Powell/questions_json/349@9/description",
+        "2000_Gore_Lieberman/questions_json/349@3/description",
+        "2000_Gore_Graham/questions_json/349@6/description",
+        "2000_Gore_Kerry/questions_json/349@8/description",
+        "2000_Gore_Bayh/questions_json/349@10/description",
+        "2000_Nader_LaDuke/questions_json/349@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "What are your thoughts on the USS Cole bombing, which has killed 17 American sailors. How should we prevent such incidents of terrorism in the future?",
+      "sha256": "bfe50aef6b1584c6619a199e47ed1da531b5acf500800605b3739453304c84e1",
+      "zh": "“科尔”号驱逐舰遭到炸弹袭击，17名美国水兵遇难。对此你有什么看法？我们应如何防止今后再发生这样的恐怖袭击？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/351@10/description",
+        "2000_Bush_Danforth/questions_json/351@4/description",
+        "2000_Bush_Ridge/questions_json/351@4/description",
+        "2000_Bush_Powell/questions_json/351@4/description",
+        "2000_Gore_Lieberman/questions_json/351@7/description",
+        "2000_Gore_Graham/questions_json/351@9/description",
+        "2000_Gore_Kerry/questions_json/351@7/description",
+        "2000_Gore_Bayh/questions_json/351@9/description",
+        "2000_Nader_LaDuke/questions_json/351@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "What is your vision for the foreign policy of this country?",
+      "sha256": "52ef059a55c2715e3589324238d89ed1614182f451cbc2f549b5241bfe9f92b6",
+      "zh": "你对美国外交政策有什么愿景？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/346@11/description",
+        "2000_Bush_Danforth/questions_json/346@8/description",
+        "2000_Bush_Ridge/questions_json/346@3/description",
+        "2000_Bush_Powell/questions_json/346@8/description",
+        "2000_Gore_Lieberman/questions_json/346@4/description",
+        "2000_Gore_Graham/questions_json/346@8/description",
+        "2000_Gore_Kerry/questions_json/346@3/description",
+        "2000_Gore_Bayh/questions_json/346@8/description",
+        "2000_Nader_LaDuke/questions_json/346@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Do you have anything to say about your alleged drug use in the 1970s?",
+      "sha256": "561da9f63918dad3c13378ca0e914768dc0abb886bff6d7e2480acf4608c232f",
+      "zh": "对于有人指称你在20世纪70年代吸过毒，你有什么要说的？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/388@12/description",
+        "2000_Bush_Danforth/questions_json/388@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "Another day, another rally on the campaign trail. What do you prefer to talk about today?",
+      "sha256": "aaf27a15081354b27e06fe29f6541ee1f916d24db2c742a4adebc0215542359b",
+      "zh": "竞选途中，又是一天，又是一场集会。你今天想谈些什么？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/374@13/description",
+        "2000_Bush_Cheney/questions_json/372@18/description",
+        "2000_Bush_Danforth/questions_json/372@13/description",
+        "2000_Bush_Ridge/questions_json/372@13/description",
+        "2000_Bush_Ridge/questions_json/374@22/description",
+        "2000_Bush_Powell/questions_json/374@17/description",
+        "2000_Bush_Powell/questions_json/372@19/description",
+        "2000_Gore_Lieberman/questions_json/375@18/description",
+        "2000_Gore_Lieberman/questions_json/377@22/description",
+        "2000_Gore_Graham/questions_json/375@14/description",
+        "2000_Gore_Graham/questions_json/376@19/description",
+        "2000_Gore_Graham/questions_json/377@21/description",
+        "2000_Gore_Kerry/questions_json/375@22/description",
+        "2000_Gore_Bayh/questions_json/375@20/description",
+        "2000_Nader_LaDuke/questions_json/378@16/description",
+        "2000_Nader_LaDuke/questions_json/379@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "Do you support proposals to expand oil drilling in Alaska, and specifically in the Alaska National Wildlife Refuge?",
+      "sha256": "e97193d5fa522cc153b1230acb531e619a2cc0d2d2355b56289d4ae2d6592802",
+      "zh": "你支持扩大阿拉斯加石油钻探范围、特别是在阿拉斯加国家野生动物保护区钻探的提议吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/362@14/description",
+        "2000_Bush_Powell/questions_json/362@13/description",
+        "2000_Gore_Graham/questions_json/362@20/description",
+        "2000_Gore_Kerry/questions_json/362@16/description",
+        "2000_Gore_Bayh/questions_json/362@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "What do you think of proposals to build a sophisticated missile defense system in Eastern Europe?",
+      "sha256": "276681c0f6df1a14b8e28c842880876f2dee9794ad7a2cfe7a1b7269832db46e",
+      "zh": "你如何看待在东欧建立先进导弹防御系统的提议？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/365@15/description",
+        "2000_Bush_Danforth/questions_json/365@22/description",
+        "2000_Bush_Ridge/questions_json/365@19/description",
+        "2000_Gore_Lieberman/questions_json/365@13/description",
+        "2000_Gore_Kerry/questions_json/365@20/description",
+        "2000_Nader_LaDuke/questions_json/365@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 60,
+      "source": "What is your position on abortion?",
+      "sha256": "6325485518affd54215b5d0710c85121e80102af3880de65c51f89bfdf09b79f",
+      "zh": "你对堕胎持什么立场？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/359@16/description",
+        "2000_Bush_Danforth/questions_json/359@14/description",
+        "2000_Bush_Powell/questions_json/359@16/description",
+        "2000_Gore_Graham/questions_json/359@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 61,
+      "source": "Do you have any plans to address or change immigration policy if elected President?",
+      "sha256": "cc71e0d5069ceceb58fbb2f71af4dd76a7de79a3cfb287b7404a2b47a0dc6ff3",
+      "zh": "如果当选总统，你打算处理移民问题或改变移民政策吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/358@17/description",
+        "2000_Bush_Danforth/questions_json/358@15/description",
+        "2000_Gore_Lieberman/questions_json/358@12/description",
+        "2000_Nader_LaDuke/questions_json/358@17/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 62,
+      "source": "The Kyoto Protocol would commit the United States (along with many other countries) to reduce greenhouse gas emissions. Would you support this plan as President?",
+      "sha256": "8f9e600771b18cf2a9ba72852ab7d933d8831d7495a0fd4eedf3dcd4d980cefc",
+      "zh": "《京都议定书》将要求美国和许多其他国家减少温室气体排放。作为总统，你会支持这项计划吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/355@19/description",
+        "2000_Bush_Danforth/questions_json/355@12/description",
+        "2000_Bush_Powell/questions_json/355@22/description",
+        "2000_Gore_Lieberman/questions_json/355@17/description",
+        "2000_Gore_Kerry/questions_json/355@14/description",
+        "2000_Gore_Bayh/questions_json/355@18/description",
+        "2000_Nader_LaDuke/questions_json/355@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 63,
+      "source": "Do you think that new regulations from Bill Clinton have unfairly hurt coal-producing states?",
+      "sha256": "da52328a394bb7dba149a4ba0f85bc39ab4d4a53be7a801f9ea095ba90176bce",
+      "zh": "你认为比尔·克林顿出台的新法规，不公平地损害了产煤州吗？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/364@20/description",
+        "2000_Bush_Danforth/questions_json/364@19/description",
+        "2000_Bush_Ridge/questions_json/364@16/description",
+        "2000_Bush_Powell/questions_json/364@18/description",
+        "2000_Gore_Graham/questions_json/364@18/description",
+        "2000_Gore_Kerry/questions_json/364@13/description",
+        "2000_Gore_Bayh/questions_json/364@17/description",
+        "2000_Nader_LaDuke/questions_json/364@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 64,
+      "source": "Some suggest you lack the experience and qualifications for to be President. What do you say?",
+      "sha256": "33cd3553475030f0317a6c68df71ebaa039d56de861fbc5b78544c150b2cc888",
+      "zh": "有人认为，你缺乏担任总统的经验和资格。你怎么回应？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/389@21/description",
+        "2000_Bush_Powell/questions_json/389@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 65,
+      "source": "In Texas, a man named James Byrd was brutally murdered in what many call a hate crime. What is your opinion of federal hate crime legislation?",
+      "sha256": "9973ce35356405f676619e495ad8165a3ae7de7970effbf5fbad9bed1f9e5a73",
+      "zh": "在得克萨斯州，一位名叫詹姆斯·伯德的男子遭到残忍杀害，许多人称之为仇恨犯罪。你对联邦仇恨犯罪立法有什么看法？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/352@22/description",
+        "2000_Gore_Lieberman/questions_json/352@14/description",
+        "2000_Gore_Graham/questions_json/352@12/description",
+        "2000_Gore_Kerry/questions_json/352@12/description",
+        "2000_Gore_Bayh/questions_json/352@21/description",
+        "2000_Nader_LaDuke/questions_json/352@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 66,
+      "source": "It is November 2nd, only five days before the voting. News has just broken that you were arrested for drunken driving in 1976. What is your response?",
+      "sha256": "4ba3f49d621f4aefae4e8d1e3dee57c4425ce4312f374563cea033ba3f6d4417",
+      "zh": "现在是11月2日，距投票只有五天。你在1976年因酒后驾车被捕的消息刚刚曝光。你会怎样回应？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/384@23/description",
+        "2000_Bush_Danforth/questions_json/384@23/description",
+        "2000_Bush_Ridge/questions_json/384@23/description",
+        "2000_Bush_Powell/questions_json/384@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 67,
+      "source": "Where will you make the final stop(s) of your campaign before the voting begins?",
+      "sha256": "5b001bfbd47867892cd28ae487289ff41351e5d8c9bc206d73314c71ac2e0823",
+      "zh": "投票开始前，你将在哪里进行最后一站或几站竞选活动？",
+      "keys": [
+        "2000_Bush_Cheney/questions_json/381@24/description",
+        "2000_Bush_Danforth/questions_json/381@24/description",
+        "2000_Bush_Ridge/questions_json/381@24/description",
+        "2000_Bush_Powell/questions_json/381@24/description",
+        "2000_Gore_Lieberman/questions_json/382@24/description",
+        "2000_Gore_Graham/questions_json/382@24/description",
+        "2000_Gore_Kerry/questions_json/382@24/description",
+        "2000_Gore_Bayh/questions_json/382@24/description",
+        "2000_Nader_LaDuke/questions_json/383@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 68,
+      "source": "We need to expand benefits for Social Security, Medicare, and Medicaid. We can use the surplus as well as defense cuts to balance these increases.",
+      "sha256": "f74b3a77d0b8cf18118f181e82060f53e512407948f0a8035bc85f2c16929d0d",
+      "zh": "我们需要扩大社会保障、老年医疗保险和医疗补助的福利。我们可以利用预算盈余和削减国防开支，来抵补增加的支出。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3312@0/description",
+        "2000_Bush_Danforth/answers_json/3312@0/description",
+        "2000_Bush_Ridge/answers_json/3312@0/description",
+        "2000_Bush_Powell/answers_json/3312@0/description",
+        "2000_Gore_Lieberman/answers_json/3312@0/description",
+        "2000_Gore_Graham/answers_json/3312@0/description",
+        "2000_Gore_Kerry/answers_json/3312@0/description",
+        "2000_Gore_Bayh/answers_json/3312@0/description",
+        "2000_Nader_LaDuke/answers_json/3312@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 69,
+      "source": "I can certainly see the need for some legislation, but it should be addressed at the state level.",
+      "sha256": "cdfcedcd2d4ed15b5e2dd37222ab5bc6b1dafe180c86f3b822712e17db67d866",
+      "zh": "我当然能理解有必要制定一些法律，但应当在州一级处理。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3345@1/description",
+        "2000_Gore_Lieberman/answers_json/3345@1/description",
+        "2000_Gore_Graham/answers_json/3345@1/description",
+        "2000_Gore_Kerry/answers_json/3345@1/description",
+        "2000_Gore_Bayh/answers_json/3345@1/description",
+        "2000_Nader_LaDuke/answers_json/3345@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 70,
+      "source": "We should enact tax cuts to return this money to the American people. My plan will reduce the burden for all Americans who currently pay income tax.",
+      "sha256": "5a21b6896b85a41449f00252dd0dcc094b0a6331290e7bba7cacd6adde935a78",
+      "zh": "我们应当减税，把这笔钱还给美国人民。我的方案将减轻所有目前缴纳所得税的美国人的负担。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3310@2/description",
+        "2000_Bush_Danforth/answers_json/3310@1/description",
+        "2000_Bush_Ridge/answers_json/3310@1/description",
+        "2000_Bush_Powell/answers_json/3310@1/description",
+        "2000_Gore_Lieberman/answers_json/3310@2/description",
+        "2000_Gore_Graham/answers_json/3310@2/description",
+        "2000_Gore_Kerry/answers_json/3310@2/description",
+        "2000_Gore_Bayh/answers_json/3310@2/description",
+        "2000_Nader_LaDuke/answers_json/3310@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 71,
+      "source": "We should try to keep things as they are. The economy has been unusually good the past few years, and we already have a large federal debt to pay down.",
+      "sha256": "fa380ca99bcca1b9b1485686f28db1bcf876f65bb98f4f4b0dba79b37187b20e",
+      "zh": "我们应当尽量维持现状。过去几年经济异常良好，而且我们已经有大笔联邦债务需要偿还。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3311@3/description",
+        "2000_Bush_Danforth/answers_json/3311@2/description",
+        "2000_Bush_Ridge/answers_json/3311@2/description",
+        "2000_Bush_Powell/answers_json/3311@2/description",
+        "2000_Gore_Lieberman/answers_json/3311@3/description",
+        "2000_Gore_Graham/answers_json/3311@3/description",
+        "2000_Gore_Kerry/answers_json/3311@3/description",
+        "2000_Gore_Bayh/answers_json/3311@3/description",
+        "2000_Nader_LaDuke/answers_json/3311@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 72,
+      "source": "I would prefer to see us allocate this money to new and existing government programs so that all Americans can share in our prosperity.",
+      "sha256": "a0912bd244a1d22f6c6159120a6abc51b80cf7947e95e7d2ca1c5da9db5e6b76",
+      "zh": "我更愿意把这笔钱拨给新建和现有的政府项目，让所有美国人都能分享我们的繁荣。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3313@4/description",
+        "2000_Bush_Danforth/answers_json/3313@3/description",
+        "2000_Bush_Ridge/answers_json/3313@3/description",
+        "2000_Bush_Powell/answers_json/3313@3/description",
+        "2000_Gore_Lieberman/answers_json/3313@4/description",
+        "2000_Gore_Graham/answers_json/3313@4/description",
+        "2000_Gore_Kerry/answers_json/3313@4/description",
+        "2000_Gore_Bayh/answers_json/3313@4/description",
+        "2000_Nader_LaDuke/answers_json/3313@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 73,
+      "source": "I believe that we need to return control of education to the states and to the people. I would end the Department of Education as President.",
+      "sha256": "29dfad64063d5932f61f674e855eaaebdca9692c9a6ad0771c1857702f4d52b6",
+      "zh": "我认为，应当把教育的控制权还给各州和人民。作为总统，我会撤销教育部。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3314@5/description",
+        "2000_Bush_Danforth/answers_json/3314@4/description",
+        "2000_Bush_Ridge/answers_json/3314@4/description",
+        "2000_Bush_Powell/answers_json/3314@4/description",
+        "2000_Gore_Lieberman/answers_json/3314@5/description",
+        "2000_Gore_Graham/answers_json/3314@5/description",
+        "2000_Gore_Kerry/answers_json/3314@5/description",
+        "2000_Gore_Bayh/answers_json/3314@5/description",
+        "2000_Nader_LaDuke/answers_json/3314@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 74,
+      "source": "Many schools are squandering the resources of the federal government. I support providing school vouchers directly to parents, so that they can choose where their child goes.",
+      "sha256": "7bc47540c22f7d3c46c86943c2e51976fc434569537df1d907638143cf2c52d5",
+      "zh": "许多学校正在浪费联邦政府的资源。我支持直接向家长发放教育券，让他们选择孩子去哪所学校。",
+      "keys": [
+        "2000_Bush_Cheney/answers_json/3315@6/description",
+        "2000_Bush_Danforth/answers_json/3315@5/description",
+        "2000_Bush_Ridge/answers_json/3315@5/description",
+        "2000_Bush_Powell/answers_json/3315@5/description",
+        "2000_Gore_Lieberman/answers_json/3315@6/description",
+        "2000_Gore_Graham/answers_json/3315@6/description",
+        "2000_Gore_Kerry/answers_json/3315@6/description",
+        "2000_Gore_Bayh/answers_json/3315@6/description",
+        "2000_Nader_LaDuke/answers_json/3315@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

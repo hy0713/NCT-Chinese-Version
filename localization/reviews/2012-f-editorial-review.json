@@ -1,0 +1,772 @@
+{
+  "checkedAt": "2026-10-09",
+  "batch": "2012-f",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 121,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 7,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 11,
+      "reason": "Split ending retained around candidate interpolation."
+    },
+    {
+      "index": 12,
+      "reason": "Split ending retained without writing candidate name."
+    },
+    {
+      "index": 21,
+      "reason": "Original over2m jobs estimate retained, not independently certified causal forecast."
+    },
+    {
+      "index": 22,
+      "reason": "Original preserve to Euro read as preserve the Euro; English unchanged."
+    },
+    {
+      "index": 28,
+      "reason": "Separate inherently unequal civil-rights rhetorical analogy preserved, not literal physical separation requirement."
+    },
+    {
+      "index": 37,
+      "reason": "Original2033 net payout wording retained as argument, not silently corrected to reserve depletion. Trustees report comparison pending."
+    },
+    {
+      "index": 39,
+      "reason": "Original100trillion unfunded liabilities claim preserved, valuation horizon not certified."
+    },
+    {
+      "index": 42,
+      "reason": "Robbing Peter to pay Paul rendered equivalent idiom; no religious payment mechanism implied."
+    },
+    {
+      "index": 50,
+      "reason": "Original1-2% unemployment rate reduction rendered percentage points in comparative rate context, estimate not independently verified."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "That is not what your voting base wants to hear on this issue.",
+      "sha256": "7bc7e5404336bfbf1e6b3212e01b53384731a0863c326f8f6047da19a0d422c8",
+      "zh": "在这个问题上，这可不是你的选民基本盘想听的话。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/358@0/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 1,
+      "source": "Your party is supposed to be making appeals to the Hispanic voting block -- not alienating them.",
+      "sha256": "726c682ecb630307896069cdca776d22d8bd60e7b3513b7135329d2bc7bd292f",
+      "zh": "你的党本该争取拉美裔选民，而不是把他们推开。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/359@1/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/359@0/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/359@1/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 2,
+      "source": "Umm... you remember the time you personally visited Solyndra, right? Pundits are immediately interpreting this response as an admission that your previous policies have failed.",
+      "sha256": "b60de8ac5ef548c69ef65c3e6fd875fa7b7561ae630d2a6bb2e16e14647ae3f7",
+      "zh": "呃……你记得自己亲自参观索林德拉公司的事吧？评论员立刻把这番回答解读为，你承认此前的政策失败了。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/364@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 3,
+      "source": "It's hard to get elected with the opposition of both the agribusiness and oil interests.",
+      "sha256": "95675eddfa333595cd2c182f605dcf998d1a4590b57f0ecfee5d5508e12935dc",
+      "zh": "同时遭到农业企业和石油利益集团反对，很难当选。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/365@6/answer_feedback",
+        "2012_Obama_Clinton/answer_feedback_json/427@34/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 4,
+      "source": "You've lost the support of so many groups with that response that I don't know where to begin.",
+      "sha256": "bb3b5c27ff7b72d2b54bdb53d9ac41d3af266f016f20397481e99402b575d6d1",
+      "zh": "这番回答让你失去了太多团体的支持，我都不知道该从哪儿说起。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/390@15/answer_feedback",
+        "2012_Obama_Clinton/answer_feedback_json/452@43/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 5,
+      "source": "Your supporters and contributors do NOT support abstinence-only education. Try to keep that in mind next time.",
+      "sha256": "8fbbc3b6284d45a2cb77c8d5f193deb7f6d7c28d1b0768890e2bc015fc428d06",
+      "zh": "你的支持者和捐款人可不支持只讲禁欲的性教育。下次请记住。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/396@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 6,
+      "source": "Most Republicans do not support widespread bailout programs.",
+      "sha256": "8b2baa657885777d8ecd04d64940db0a94e79a22133fae6813f86b5a1006a509",
+      "zh": "多数共和党人不支持大范围的救助计划。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/421@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 7,
+      "source": "This is what many of your supporters call “amnesty”. Many of them are upset with this response.",
+      "sha256": "9b42b3d8e73c2950c9ec6cdf5196d01522b0c8fc41364a4f6366fb4c3d1f92a0",
+      "zh": "你的许多支持者把这称为“特赦”。他们当中很多人对这番回答很不满。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/423@31/answer_feedback",
+        "2012_Romney_Portman/answer_feedback_json/423@22/answer_feedback",
+        "2012_Romney_Rubio/answer_feedback_json/423@29/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "Speaking out for solar power won't help you much this fall.",
+      "sha256": "e45fbf0df1185033a9b41c096130d3377cd3d17ce4254db2d025ba49bc4b505e",
+      "zh": "今年秋天，公开支持太阳能对你没多大帮助。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/426@33/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 9,
+      "source": "Statements like these are exactly what you need to fire up your base this fall.",
+      "sha256": "fcfeb51d69b314c0c3427dd1fd910c8f5dc7f482f8d13d68be5f56aa575b1f82",
+      "zh": "今年秋天，你正需要这种表态来点燃基本盘的热情。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/453@44/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 10,
+      "source": "Did you just say that we should be giving condoms to twelve year olds? Because that's what a lot of your supporters heard, and they can't believe their ears.",
+      "sha256": "42b5e6e77c948761fbcf06c6abc8bc478f9cd110ab7de3134c9616c1438fb8d5",
+      "zh": "你刚才说，要给十二岁的孩子发避孕套？你的许多支持者听到的就是这个意思，他们简直不敢相信自己的耳朵。",
+      "keys": [
+        "2012_Obama_Clinton/answer_feedback_json/461@45/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 11,
+      "source": "It just seems that America didn't think your first term was impactful enough. The sluggish economy, as well as your promises not meeting your ambitious 2008 rhetoric likely led to this. Democrats are despondent that after 8 years of George Bush, you weren't able to revitalize the country in time. The house has also stayed Republican and the senate is eerily close to being in their hands as well. ",
+      "sha256": "3bedcfb38bbdd7f4d0e2e006492f5d6f338fa7325c1d686a9dfc7cdbb7ee6142",
+      "zh": "看来，美国人认为你的第一个任期成效不够显著。经济复苏乏力，你的承诺也没能兑现2008年豪言壮语的雄心，这大概就是原因。经历了乔治·布什的八年执政，你仍未能及时让国家重振旗鼓，民主党人心灰意冷。众议院仍由共和党掌控，参议院也几乎落入他们手中，形势令人不安。",
+      "keys": [
+        "2012_Romney_Ryan/ending/s0.l54.c40/text",
+        "2012_Romney_Portman/ending/s0.l54.c40/text",
+        "2012_Romney_Rubio/ending/s0.l54.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 12,
+      "source": " might be casting a lot of tie-breaking votes. Let’s hope Romney's business experience can guide America to a prosperous economy.",
+      "sha256": "98344dce5b5fe5750d2817f3d15f46933683714bc2ac9f657428ad181bfbca47",
+      "zh": "可能要多次投出打破平票的关键一票。希望罗姆尼的经商经验能带领美国走向经济繁荣。",
+      "keys": [
+        "2012_Romney_Ryan/ending/s0.l54.c488/text",
+        "2012_Romney_Portman/ending/s0.l54.c488/text",
+        "2012_Romney_Rubio/ending/s0.l54.c488/text"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 13,
+      "source": "In the most general terms, what will be your overall campaign strategy against Obama?",
+      "sha256": "a0ceef12735e0bfb0d913e33136c005daacc58ca7ceafa98c7b5b7112adf187f",
+      "zh": "概括来说，你对阵奥巴马的总体竞选策略是什么？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/131@0/description",
+        "2012_Romney_Portman/questions_json/131@1/description",
+        "2012_Romney_Rubio/questions_json/131@0/description",
+        "2012_Romney_Pawlenty/questions_json/131@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 14,
+      "source": "What will be the overriding theme of your nomination speech at the Republican Convention?",
+      "sha256": "1858d996f59b7e60664c31dcae330d9f58455e23545bea9221d95ec81be692c7",
+      "zh": "你在共和党全国代表大会上的提名演说，将以什么作为贯穿全篇的主题？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/113@1/description",
+        "2012_Romney_Portman/questions_json/113@0/description",
+        "2012_Romney_Rubio/questions_json/113@1/description",
+        "2012_Romney_Pawlenty/questions_json/113@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 15,
+      "source": "Do you think the Death with Dignity Act in Oregon could be a model for broader federal legislation on the issue?",
+      "sha256": "93cf8a1308eb6f9d4b94ef45d39e7237ee5a00054cc8d9383110b1f44d4d24cb",
+      "zh": "你认为，俄勒冈州《尊严死亡法》能否成为联邦在这一问题上扩大立法的范本？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/45@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 16,
+      "source": "What do you think we should do next in regards to Social Security?",
+      "sha256": "15aebcc637410550393c9eb6ccf4be2402736ec81f3e61fd97ef7fb869283a14",
+      "zh": "你认为，社会保障下一步应该怎么走？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/31@8/description",
+        "2012_Romney_Portman/questions_json/31@13/description",
+        "2012_Romney_Rubio/questions_json/31@16/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 17,
+      "source": "Do you support continued subsidies for the production of ethanol fuel?",
+      "sha256": "4b57c55ccb6b948cabcd3002ccbaa1a830dd587e9d6cde42b887849764bb1fae",
+      "zh": "你是否支持继续补贴乙醇燃料生产？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/27@9/description",
+        "2012_Romney_Rubio/questions_json/27@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 18,
+      "source": "The maximum duration of unemployment insurance, with all extensions factored in, has been reduced from 99 weeks. Do you think this is appropriate in the current economic climate?",
+      "sha256": "54973c09f21142abcac6b959aec3f68374b66c83eadb2b01913e7f63ef3d9b4a",
+      "zh": "即使计入所有延长期限，失业保险的最长期限也已经从99周缩短。你认为，在目前的经济环境下，这样做合适吗？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/46@11/description",
+        "2012_Romney_Rubio/questions_json/46@11/description",
+        "2012_Romney_Pawlenty/questions_json/46@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 19,
+      "source": "Michigan was one of the hardest hit states in the recent recession. Do you support higher taxes on foreign vehicles while that auto industry regroups in that state?",
+      "sha256": "3342da9cf7364b942b960baf2da058253efb924f1b8b353a973a1c174c45f34c",
+      "zh": "密歇根州是近期衰退中受创最重的州之一。在该州汽车业重振旗鼓期间，你是否支持提高对外国汽车征收的税？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/34@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 20,
+      "source": "Some theorists have suggested that the government create guaranteed jobs at the federal minimum wage, to help support the labor market. Is this something that you would consider?",
+      "sha256": "0df05c0e83fb19bc5a4cd3d5eaa3f4d202a161b6ca197016ae309f8c8a1102a8",
+      "zh": "一些理论研究者建议，政府按照联邦最低工资标准提供有保证的工作岗位，以支撑劳动力市场。你会考虑这种做法吗？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/76@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 21,
+      "source": "Are you satisfied with the provisions within the 2012 Federal Highway Bill that could salvage over two million jobs in the construction industry?",
+      "sha256": "f0e87a7018f2aaae179bd9ad630e677b0dd8bfe770a0ba7b4b21ca5731d55e27",
+      "zh": "2012年联邦公路法案中的规定可能保住建筑业逾200万个工作岗位，你对此是否满意？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/61@16/description",
+        "2012_Romney_Portman/questions_json/61@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 22,
+      "source": "Should Angela Merkel be doing more to preserve to Euro as the European Union's common currency?",
+      "sha256": "d546393178dc997289eda95d230ee611842c2bfa271bfac4231d2cb420772d36",
+      "zh": "安格拉·默克尔是否应该采取更多措施，维持欧元作为欧盟共同货币的地位？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/51@17/description",
+        "2012_Romney_Pawlenty/questions_json/51@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 23,
+      "source": "Do you support increased restrictions on handgun ownership?",
+      "sha256": "08d4086e71b35109c06431f8a59d2a718517e391648fb34168cf99d959a92eb0",
+      "zh": "你是否支持进一步限制手枪持有？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/36@18/description",
+        "2012_Romney_Rubio/questions_json/36@15/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 24,
+      "source": "Should military women serve in combat roles?",
+      "sha256": "cf369d28d83807264e55e60954ebcddbb2c649081dfb79378c9adcfefdb8a983",
+      "zh": "军中女性是否应该担任作战岗位？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/23@20/description",
+        "2012_Romney_Portman/questions_json/23@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 25,
+      "source": "Be perfectly honest. How do you like Barack Obama as a person?",
+      "sha256": "519f20e86eb5f4dabac9d94edc71a942a4f411f629fd5f1d56c7b73f11a1de45",
+      "zh": "请完全坦诚地回答。就个人而言，你觉得贝拉克·奥巴马这个人怎么样？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/118@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 26,
+      "source": "During your tenure, Bain Capital laid off thousands of workers at various companies that it purchased. Are you proud of your work at that company?",
+      "sha256": "5324053a73f7f0b71362e00b6375ea71871cbb524910505acc12423deefde84e",
+      "zh": "在你任职期间，贝恩资本收购的多家公司裁员数千人。你为自己在那家公司的工作感到自豪吗？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/106@22/description",
+        "2012_Romney_Portman/questions_json/106@21/description",
+        "2012_Romney_Rubio/questions_json/106@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 27,
+      "source": "Is there too much regulation of the American logging industry?",
+      "sha256": "14fc0137b1bba5f1ea5e59120a6648e9bc30b4bf96b326425dc0dcc78678ea31",
+      "zh": "美国伐木业受到的监管是否过多？",
+      "keys": [
+        "2012_Romney_Ryan/questions_json/78@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 28,
+      "source": "Separate is inherently unequal. There is nothing preventing women from serving in combat roles.",
+      "sha256": "04c6b955a50f717d882a06796ca2abc8cea74129685f07cb09ef570da68a93b6",
+      "zh": "隔离本身就是不平等。没有什么理由阻止女性担任作战岗位。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/89@16/description",
+        "2012_Romney_Portman/answers_json/89@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 29,
+      "source": "I will defer to military brass on this question. They should do whatever best protects American interests and the safety of our troops.",
+      "sha256": "9e762065ceef5ca976f7a7e81e218ab4245694f648d7d9b3d9ecbf1f11ace8d1",
+      "zh": "在这个问题上，我会尊重军方高层的判断。他们应该采取最能维护美国利益与我军安全的做法。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/90@17/description",
+        "2012_Romney_Portman/answers_json/90@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 30,
+      "source": "What we have now is a good compromise. I don't see any need to change current military policy.",
+      "sha256": "d2d6deba43ca35efe833d31103c9578c3e723043f2d596e6b4b3478206de7c65",
+      "zh": "现行制度是一种不错的折中。我看不出有什么必要改变目前的军事政策。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/91@18/description",
+        "2012_Romney_Portman/answers_json/91@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 31,
+      "source": "That's a very bad idea. Women in combat roles will not pull their weight, and will undermine unit morale.",
+      "sha256": "84ad20b7c041e6ac02becc15c012a76150173776fd695019b1fed91898f8a1e8",
+      "zh": "这是个很糟糕的主意。女性在作战岗位上无法尽到应有的职责，还会损害部队士气。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/92@19/description",
+        "2012_Romney_Portman/answers_json/92@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 32,
+      "source": "Ethanol has the potential to radically change our energy equation, and to provide a clean source of renewables. We should continue these subsidies.",
+      "sha256": "cf080e5393422e76070c53a9d3e8c16cf50eb0ca7b97d49cb1c4623331c45aac",
+      "zh": "乙醇有潜力从根本上改变我们的能源格局，提供清洁的可再生能源。我们应该继续这些补贴。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/105@24/description",
+        "2012_Romney_Rubio/answers_json/105@28/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 33,
+      "source": "Hmm... I think we need more research to really know how this program is performing. Our Administration will make this a high priority.",
+      "sha256": "8027e0cf5618eac3c3cb915d0ecb21ec19f740eb5609a2dfc93741324d6fa8d8",
+      "zh": "嗯……我认为，我们需要更多研究，才能真正了解这项计划的效果。我们的政府会把这列为优先事项。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/106@25/description",
+        "2012_Romney_Rubio/answers_json/106@29/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 34,
+      "source": "These subsidies were well-intentioned, but I think that solar and wind have more long-term potential.",
+      "sha256": "87b43af730088dbd2b24648ca3b60ad42867c068e605da32d3e38d31204dd424",
+      "zh": "这些补贴出于好意，但我认为，太阳能和风能的长期潜力更大。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/107@26/description",
+        "2012_Romney_Rubio/answers_json/107@30/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 35,
+      "source": "This program has proven itself to be a disaster. The sooner we forget about it the better.",
+      "sha256": "15bb34bb9511d153b2672b26d542f3237e126250b1589b2b3f268725ffecfb2e",
+      "zh": "事实证明，这项计划是一场灾难。越早把它抛到脑后越好。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/108@27/description",
+        "2012_Romney_Rubio/answers_json/108@31/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 36,
+      "source": "Talking about a bankrupt Social Security program is a right wing scare tactic. We could afford to increase benefits if we really wanted to.",
+      "sha256": "ce5daed1a38d4f760cdd77ace33784abbe78cbbfee9c5f42b8cc078b969d52f1",
+      "zh": "说社会保障计划已经破产，是右翼吓唬人的手段。只要我们真想做，完全负担得起提高待遇。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/121@28/description",
+        "2012_Romney_Portman/answers_json/121@32/description",
+        "2012_Romney_Rubio/answers_json/121@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 37,
+      "source": "You know, the projected shortfall that people talk of, we're not even talking about the Trust Fund making a net payout until 2033. Maybe there are some tweaks we can make to the program, but it is fundamentally sound.",
+      "sha256": "8f72eb875ebb960ebab388da59edfb44e136a9d2fd417dc23a90fdec1ba5e373",
+      "zh": "你知道，大家所说的预计缺口，按那种说法，信托基金到2033年才会开始净支出。也许我们可以对这项计划作些微调，但它在根本上是健全的。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/122@29/description",
+        "2012_Romney_Portman/answers_json/122@33/description",
+        "2012_Romney_Rubio/answers_json/122@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 38,
+      "source": "With minor changes like an increase to the retirement age and means testing after a certain benefit level, we can ensure the solvency of this program long into the future.",
+      "sha256": "2740f8202d2aefe131508030105e3d1278080e6d81e0bd14d15dad0d2d0dc613",
+      "zh": "只需小幅调整，例如提高退休年龄，以及在待遇达到一定水平后按经济状况审核资格，我们就能确保这项计划在很长时间内有能力履行支付义务。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/123@30/description",
+        "2012_Romney_Portman/answers_json/123@34/description",
+        "2012_Romney_Rubio/answers_json/123@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 39,
+      "source": "The Social Security program has unfunded liabilities of over $100 trillion. It's time for us to admit that the Social Security program is bankrupt before it drags the rest of the federal government down with it.",
+      "sha256": "cfac4c50850e98236ae317101ff3aad174624590d40cfe4476ae894358c0f391",
+      "zh": "社会保障计划尚无资金覆盖的负债超过100万亿美元。我们是时候承认它已经破产了，免得把整个联邦政府也拖垮。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/124@31/description",
+        "2012_Romney_Portman/answers_json/124@35/description",
+        "2012_Romney_Rubio/answers_json/124@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 40,
+      "source": "Absolutely. We need to create an environment where American products can compete fairly with foreign imports.",
+      "sha256": "f1e81a766c2c1ba1a63a4d1dd0a06f01f1c02adb918753a442f4f2b5786b588a",
+      "zh": "当然。我们需要创造一种环境，让美国产品能够与外国进口商品公平竞争。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/133@32/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 41,
+      "source": "I think that's a little extreme. I do support measures to assist displaced workers in Michigan as they seek other jobs and education.",
+      "sha256": "1172252b4a0d96ba2df43e04858b3a98238e1a08e0096cad0aa2cf3f0922125a",
+      "zh": "我认为，这有点过头了。不过，我支持帮助密歇根州失业工人寻找其他工作、接受教育的措施。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/134@33/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 42,
+      "source": "Most foreign companies also build their cars in the United States and employ thousands of Americans. This policy would be like robbing Peter to pay Paul.",
+      "sha256": "39907ea663416c0245e79f6e89c767f2de50ada769c401c7eda69a40fb663e6a",
+      "zh": "多数外国公司也在美国制造汽车，雇用数千名美国人。这种政策无异于拆东墙补西墙。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/135@34/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 43,
+      "source": "I am a firm believer in free trade. This would not help anybody and it would further distort our economy.",
+      "sha256": "50e66b3d3fd224e0a50a732fecd07afdff0624f4b6fae640fde4b1a02a9cfd84",
+      "zh": "我坚信自由贸易。这帮不了任何人，只会进一步扭曲我们的经济。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/136@35/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 44,
+      "source": "Handgun ownership should be severely restricted. Any other system makes it too easy for guns to be smuggled to Mexico and to urban gangs within the U.S.",
+      "sha256": "9764d55613a1c22ca7c9bc6d45959412c2007176c9d3e90f93dec37ffe2eb0bd",
+      "zh": "应该严格限制手枪持有。其他任何制度都太容易让枪支被走私到墨西哥，以及美国城市中的帮派手里。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/141@36/description",
+        "2012_Romney_Rubio/answers_json/141@36/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 45,
+      "source": "There should be increased safety requirements, and greater measures against illegal ownership by criminals. Sportsmen should be allowed to own handguns for personal use.",
+      "sha256": "02d19e4d43b3ce66db5ceac4df256c9c42fd126bb05b6325bd84c6134e1c7c1e",
+      "zh": "应该提高安全要求，并加强打击犯罪分子非法持枪的措施。射击运动爱好者应该可以持有手枪供个人使用。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/142@37/description",
+        "2012_Romney_Rubio/answers_json/142@37/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 46,
+      "source": "Some limited, sensible regulation is prudent. Overall, the right to own a gun should be protected.",
+      "sha256": "5e9226b106db5efbc48e13f664c398539add3436c42fe10b473085876a2dcc6c",
+      "zh": "适度、合理的监管是审慎之举。总体而言，持枪权应该得到保护。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/143@38/description",
+        "2012_Romney_Rubio/answers_json/143@38/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 47,
+      "source": "Gun rights are protected by the Second Amendment. Furthermore, an armed citizenry is our best defense against crime and government tyranny.",
+      "sha256": "2b0f5a2161743c28ce0c5f25c3391696f902e26fa4fad0f39c1e66c4f853f934",
+      "zh": "第二修正案保护持枪权。此外，武装起来的公民，是我们抵御犯罪和政府暴政的最佳防线。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/144@39/description",
+        "2012_Romney_Rubio/answers_json/144@39/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 48,
+      "source": "That's ridiculous. Of course not.",
+      "sha256": "95e00a75f40ca5bd0d772f0e7275580e69e10ba039c03e139307a9f17580c9d0",
+      "zh": "那太荒唐了。当然不支持。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/177@48/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 49,
+      "source": "A huge portion of our health care costs are accrued in the final few days of life. We need to overcome our prejudices and bring a more open mind to this issue.",
+      "sha256": "2582cfefca48386fa1d67d451a7dd233908ac0bff3a2e010b9484ff95f40b958",
+      "zh": "我们的医疗成本中，有很大一部分发生在人生的最后几天。我们需要克服偏见，以更开放的态度看待这个问题。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/178@49/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 50,
+      "source": "Some economists estimate that the unemployment rate would be 1-2% lower if unemployment benefits were not so long in duration.",
+      "sha256": "808ac2a0b10e7aa8b5245bbf151b174e965196cca8f921dfe0d274668380c2e0",
+      "zh": "一些经济学家估计，如果失业待遇的领取期限没这么长，失业率会降低1至2个百分点。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/179@50/description",
+        "2012_Romney_Rubio/answers_json/179@52/description",
+        "2012_Romney_Pawlenty/answers_json/179@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 51,
+      "source": "That is nearly two years. We need unemployment benefits but these extensions were clearly out of control.",
+      "sha256": "74ddc4ef04fbb6c671dd5d718616f50e04f820aeeba29fa130c048aec3f25d9f",
+      "zh": "那可是将近两年。我们需要失业待遇，但这些延长期限显然已经失控。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/180@51/description",
+        "2012_Romney_Rubio/answers_json/180@53/description",
+        "2012_Romney_Pawlenty/answers_json/180@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 52,
+      "source": "This is entirely appropriate for an economy recovering from the worst recession since the 1930s. Additionally, there have been repeated jobs proposals in Congress, all of which have been sabotaged by Republican obstructionism.",
+      "sha256": "4b66178f06b6db381855d7fc4cfe4d9ff1c3acc50b5ff3ecf728ba7945466899",
+      "zh": "对于一个正在从1930年代以来最严重衰退中复苏的经济体，这完全合适。此外，国会一再提出就业提案，全都遭到共和党的阻挠破坏。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/181@52/description",
+        "2012_Romney_Rubio/answers_json/181@54/description",
+        "2012_Romney_Pawlenty/answers_json/181@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 53,
+      "source": "There shouldn't be limits on the duration of unemployment insurance. This program is the only thing supporting many displaced workers, and the economic benefits of unemployment insurance are also beyond dispute.",
+      "sha256": "01bca4c37833f48588e798818d4c9c9973a77bd56a0dbe8bb20b721df634ec52",
+      "zh": "失业保险的领取期限不应该设上限。许多失业工人全靠这项计划维持生活，而且失业保险的经济效益也无可争辩。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/182@53/description",
+        "2012_Romney_Rubio/answers_json/182@55/description",
+        "2012_Romney_Pawlenty/answers_json/182@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 54,
+      "source": "The Euro is destined to fail. I can hardly blame Germany for losing patience with its less fiscally scrupulous neighbors.",
+      "sha256": "921e102a596a6e19d7854c690399303f0f4d1f750bcde1d3ec2c4aade2dea306",
+      "zh": "欧元注定失败。我很难责怪德国对那些在财政上不够谨慎的邻国失去耐心。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/196@54/description",
+        "2012_Romney_Pawlenty/answers_json/196@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 55,
+      "source": "If Merkel fails in this mission, we all will be affected negatively. I have the utmost faith that she realizes this and will act accordingly.",
+      "sha256": "900c516bbfa0d37b212c8d15ed29b5868f63c94e7888fdd7a395dded4dad4aa3",
+      "zh": "如果默克尔没能完成这个任务，我们所有人都会受到不利影响。我完全相信，她明白这一点，也会据此行动。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/197@55/description",
+        "2012_Romney_Pawlenty/answers_json/197@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 56,
+      "source": "What's happening now in Europe is criminal. The working class is being punished to fulfill the avarice of huge, multinational banks. Germany should be doing much more to assist Greece, Italy, and Spain before it is too late.",
+      "sha256": "214f507c8d61e2bab87a1c0fcd65d4edb96f39df55086062c53b5b3b7b8daa64",
+      "zh": "欧洲如今的情况简直是犯罪。劳动阶级受到惩罚，只为满足庞大跨国银行的贪欲。德国应该趁还来得及，为希腊、意大利和西班牙提供更多帮助。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/198@56/description",
+        "2012_Romney_Pawlenty/answers_json/198@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 57,
+      "source": "We should monitor these expenditures very closely to make sure that they are being allocated properly. There is always the chance of cronyism and misappropriation when there is spending of this magnitude.",
+      "sha256": "0e65aeebde4fd94a7c03e78d51f7bb59ae7ecdddd80da926dda613bf4027b96d",
+      "zh": "我们应该非常密切地监督这些支出，确保资金分配妥当。如此大规模的支出，总存在裙带关系和资金挪用的风险。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/226@57/description",
+        "2012_Romney_Portman/answers_json/226@52/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 58,
+      "source": "Maybe we had our disagreements over the exact size and nature of this spending, but nobody seriously thinks that we should stop funding our highways.",
+      "sha256": "cfb262ffd741f62fbecc1719d02d868a594faea8aedbb904c9f3540de6fb7e3a",
+      "zh": "也许我们对这笔支出的具体规模与性质有过分歧，但没人会认真主张，停止为公路提供资金。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/227@58/description",
+        "2012_Romney_Portman/answers_json/227@53/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    },
+    {
+      "index": 59,
+      "source": "Ideally we should be spending much more on our infrastructure. Doing so would increase overall employment and pave the way for future prosperity.",
+      "sha256": "172d821b67f37c6554957f006e411d9fe37403ece1302f53f84c9b7ae7105caa",
+      "zh": "理想情况下，我们应该在基础设施上投入更多。这样会增加整体就业，为未来繁荣铺平道路。",
+      "keys": [
+        "2012_Romney_Ryan/answers_json/228@59/description",
+        "2012_Romney_Portman/answers_json/228@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": false
+    }
+  ]
+}

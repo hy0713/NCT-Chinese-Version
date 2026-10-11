@@ -1,0 +1,117 @@
+[
+  {
+    "source": "<h3>As expected, you've lost the 1964 Election.</h3></p><p>Despite your best efforts, perhaps it was always an impossible task to beat an incumbent as strong as Johnson from the position you began in. You were certainly never favored, so this comes as no surprise to anyone.</p><p>Despite your failure, however, the door has been opened for your followers, like Ronald Reagan, to enter Republican politics as mainstream candidates. On another note, the Southern Strategy appears to have worked in full, and Republican strategists are already taking notes on how to exploit the now wide-open South. Though your chapter may be closed, a new chapter of the Republican Party may just be beginning. In any case, your popularity in Arizona remains. Perhaps another term in the Senate is in your future?",
+    "zh": "<h3>正如预期的那样，您在 1964 年选举中失败了。</h3></p><p>尽管你尽了最大努力，但从你开始的位置上击败像约翰逊这样强大的现任者也许始终是一项不可能的任务。你当然从未受到青睐，所以这对任何人来说都不足为奇。</p><p>然而，尽管你失败了，但你的追随者（例如罗纳德·里根）作为主流候选人进入共和党政治的大门已经打开。另一方面，南方战略似乎已经完全发挥作用，共和党战略家已经在记录如何利用现在完全开放的南方。尽管您的章节可能已经结束，但共和党的新章节可能才刚刚开始。无论如何，你在亚利桑那州中的受欢迎程度仍然存在。也许你的未来会再连任参议院一届？",
+    "keys": [
+      "base/candidate_json/6969@99/electoral_loss_message"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "You have vindicated leftist critics, along with outraging your base. Dixiecrats are ecstatic, believing the Democratic party has bowed after many years, but they aren’t abandoning Wallace.",
+    "zh": "你为左派批评者辩护，同时激怒了你的基础。迪克西民主党人欣喜若狂，相信多年后民主党已经屈服，但他们并没有放弃华莱士。",
+    "keys": [
+      "1968_Humphrey_Muskie/answer_feedback_json/2004@26/answer_feedback",
+      "1968_Humphrey_Kennedy/answer_feedback_json/2004@26/answer_feedback",
+      "1968_Humphrey_Connally/answer_feedback_json/2004@26/answer_feedback",
+      "1968_Humphrey_Harris/answer_feedback_json/2004@26/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Nice try, but you’re attempting to appeal to those who distrust you and are firmly in Nixon’s camp. Worse, the black community has taken your choice of words as a racist dog whistle.",
+    "zh": "不错的尝试，但你试图吸引那些不信任你并坚定地站在尼克松阵营的人。更糟糕的是，黑人社区将你的选择视为种族主义的狗哨。",
+    "keys": [
+      "1968_Humphrey_Muskie/answer_feedback_json/2017@43/answer_feedback",
+      "1968_Humphrey_Kennedy/answer_feedback_json/2017@43/answer_feedback",
+      "1968_Humphrey_Connally/answer_feedback_json/2017@43/answer_feedback",
+      "1968_Humphrey_Harris/answer_feedback_json/2017@43/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Today, famous South Carolinian and 1948 Dixiecrat candidate Strom Thurmond has officially switched his party affiliation from Democratic to Republican, an expected move after his endorsement of Barry Goldwater for President.",
+    "zh": "今天，著名的 1948 年南卡罗来纳州迪克西民主党人候选人斯特罗姆·瑟蒙德正式将其党派从民主党转为共和党，这是他支持巴里·戈德华特竞选总统后的预期举措。",
+    "keys": [
+      "1964_Johnson_Humphrey/questions_json/269@18/description",
+      "1964_Goldwater_Miller/questions_json/269@18/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I won’t be the one to lose the Solid South. With enough subtle hints, under-the-table deals, and backpedaling on earlier promises and policies we’ve made, we’ll reel the South back in yet.",
+    "zh": "我不会成为失去稳固南方的人。只要有足够多的微妙暗示、私下交易以及对我们之前做出的承诺和政策的倒退，我们就能把南方卷土重来。",
+    "keys": [
+      "1964_Johnson_Humphrey/answers_json/1669@5/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Your rebuke only worsens the fracture in the party, but Humphrey is pleased by your steadfast support- as are liberals nationwide. You may have broken the Solid South, but the rest of the country might just make up for it.",
+    "zh": "你的斥责只会加剧党内的分裂，但汉弗莱对你的坚定支持感到高兴 - 全国自由主义者也是如此。您可能破坏了稳固南方，但该国其他地区可能会弥补这一点。",
+    "keys": [
+      "1964_Johnson_Humphrey/answer_feedback_json/30011@11/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We can support the idea of popular sovereignty, but that must include an acknowledgement that Kansas clearly desires to enter the Union as a free state.",
+    "zh": "我们可以支持人民主权原则的想法，但这必须包括承认堪萨斯州明确希望作为自由州加入联邦。",
+    "keys": [
+      "1860_Lincoln_Hamlin/answers_json/3305@3/description",
+      "1860_Lincoln_Clay/answers_json/3305@3/description",
+      "1860_Lincoln_Chase/answers_json/3305@3/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Douglas and his party are running on the failed, dishonest policy of popular sovereignty. I want the Republicans to point this out at every opportunity.",
+    "zh": "道格拉斯和他的政党正在执行人民主权原则失败的、不诚实的政策。我希望共和党人抓住一切机会指出这一点。",
+    "keys": [
+      "1860_Lincoln_Hamlin/answers_json/3967@8/description",
+      "1860_Lincoln_Clay/answers_json/3967@8/description",
+      "1860_Lincoln_Chase/answers_json/3967@8/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We need to acknowledge the Know-Nothing point of view. Otherwise, they will bolt to this so-called Constitutional Union party.",
+    "zh": "我们需要承认“一无所知”的观点。否则，他们就会奔赴这个所谓的宪法联邦党。",
+    "keys": [
+      "1860_Lincoln_Hamlin/answers_json/3991@32/description",
+      "1860_Lincoln_Clay/answers_json/3991@32/description",
+      "1860_Lincoln_Chase/answers_json/3991@32/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "Better to keep the German vote in line -- A few Know-Nothings (in the North) may vote for Bell, but they are more likely to despise Stephen A. Douglas, and vote for the man who can beat him.",
+    "zh": "最好让德国人的投票保持一致——一些一无所知的人（在北方）可能会投票给贝尔，但他们更有可能鄙视斯蒂芬·A.·道格拉斯，并投票给能够击败他的人。",
+    "keys": [
+      "1860_Lincoln_Hamlin/answer_feedback_json/1534@25/answer_feedback",
+      "1860_Lincoln_Clay/answer_feedback_json/1534@25/answer_feedback",
+      "1860_Lincoln_Chase/answer_feedback_json/1534@26/answer_feedback"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "I had hoped that popular sovereignty would resolve the slavery issue, but the intransigence of the Southern bolters has convinced me otherwise. I now believe that slavery must not be permitted in any new state or territory.",
+    "zh": "我曾希望人民主权原则能够解决奴隶制问题，但南方爆弹手的不妥协让我相信事实并非如此。我现在认为任何新的州或领地都不允许奴隶制。",
+    "keys": [
+      "1860_Douglas_Johnson/answers_json/3306@1/description",
+      "1860_Douglas_Guthrie/answers_json/3306@1/description",
+      "1860_Douglas_Seymour/answers_json/3306@1/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  },
+  {
+    "source": "We will attack the Republican embrace of immigration as opportunistic and disingenuous. It doesn't take a genius to figure out which party the Know Nothings joined.",
+    "zh": "我们将攻击共和党对移民的拥抱，认为这是机会主义和不诚实的。不需要天才就能弄清楚“一无所知”加入了哪个政党。",
+    "keys": [
+      "1860_Douglas_Johnson/answers_json/4069@38/description",
+      "1860_Douglas_Guthrie/answers_json/4069@38/description",
+      "1860_Douglas_Seymour/answers_json/4069@39/description"
+    ],
+    "reason": "Development-time machine draft, not fully historically proofread."
+  }
+]

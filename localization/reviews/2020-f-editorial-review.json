@@ -1,0 +1,783 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2020-f",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 128,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 4,
+      "reason": "Chinese title bracket required typo caught proofreading after draft; original has noHTML."
+    },
+    {
+      "index": 9,
+      "reason": "Xi Jingping typo rendered通行习近平; CommunistChineseParty rendered中国共产党, not newly invented party."
+    },
+    {
+      "index": 14,
+      "reason": "Original Lagoa years onFloridaSC retained; actual Jan2019-Dec2019short tenure requires note, not years invented by translator."
+    },
+    {
+      "index": 15,
+      "reason": "AmulThapar translatedexistingglossary to verify; courtappointment order original retained."
+    },
+    {
+      "index": 16,
+      "reason": "OriginalJanuary21notinaugurationJan20 preserved exactly."
+    },
+    {
+      "index": 20,
+      "reason": "Harris wouldn'ttake vaccine candidate claim lacks expert/Trump distinction, mustnote, not current medical guidance."
+    },
+    {
+      "index": 22,
+      "reason": "Original year after after read year after year."
+    },
+    {
+      "index": 25,
+      "reason": "Original3-4days retained as character choice, not medical recommendation."
+    },
+    {
+      "index": 29,
+      "reason": "Paper audit trail voting evidence not financial audit; voterID distinct immigrantID."
+    },
+    {
+      "index": 32,
+      "reason": "October surprise latecampaign revelation concept not necessarily orchestrated intentional conspiracy; originalFacebookclaim requires distinctiondownrankingvsblocking."
+    },
+    {
+      "index": 45,
+      "reason": "OldestPresident understood at2020context not overridinglaterofficeholders."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "I've supported gun regulations when and where they actually make sense. But the leftist media just wants to make me look like an extremist, regardless of the facts.",
+      "sha256": "eebec3204d6c5c04fb43261b077af2de9e64f2a816667277bfbba51f1d355636",
+      "zh": "在枪支管制确实合理的情况下，我支持过这些措施。但左翼媒体就是想把我描绘成极端分子，根本不管事实。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6167@54/description",
+        "2020_Trump_Haley/answers_json/6167@54/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "I don't know how they come up with these stories, but I can assure you they are all lies. You'd better believe there will be some libel suits coming!",
+      "sha256": "4fe7c492f7c9bf7e08d5394452a406d268ee94904e77c30cf47b7ef5ef7b99fd",
+      "zh": "我不知道他们怎么编出这些故事，但可以向你保证，都是谎言。你最好相信，诽谤诉讼马上就要来了！",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6168@55/description",
+        "2020_Trump_Haley/answers_json/6168@55/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "Any normal businessman -- Bill Gates, Michael Bloomberg, whoever -- they try to pay as little in taxes as legally possible. It's funny how they never go after these people as long as they fund and support the left.",
+      "sha256": "2b8ab322f6cd7cd220fa4b8096eef4667e140aa4e4a06783fcdfd4ccbf5378b3",
+      "zh": "任何正常的商人，比尔·盖茨、迈克尔·布隆伯格，谁都一样，都会尽量在合法范围内少缴税。有意思的是，只要这些人出钱支持左翼，媒体就从不追究他们。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6169@56/description",
+        "2020_Trump_Haley/answers_json/6169@56/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": "How is Nancy Pelosi worth $100 million? I'm not saying that I've never made a single mistake in my 50 year business career, but I earned my money fair and square.",
+      "sha256": "f358726b29631893ced44473e6a9b677e32fd8135fb23690f933d7ab94e3baec",
+      "zh": "南希·佩洛西怎么会身家一亿美元？我不是说，自己五十年商业生涯里一次错误都没犯过，但我的钱赚得堂堂正正。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6170@57/description",
+        "2020_Trump_Haley/answers_json/6170@57/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": "Do I even need to stoop down to the level of CNN and the New York Times? The most important thing is my agenda for American security, liberty, and prosperity.",
+      "sha256": "07644ad2d9d41f21788c4613f6a3814a745cb722b679942bed56d11e65d754fb",
+      "zh": "我有必要自降身份，跟CNN和《纽约时报》纠缠吗？最重要的是，我保障美国安全、自由和繁荣的议程。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6171@58/description",
+        "2020_Trump_Haley/answers_json/6171@58/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "What controversy? Three seats opened up, and I filled those seats. Now Democrats want to destroy the very foundation of judicial independence that our entire democracy rests upon.",
+      "sha256": "a1aae618cdcca34584bebf6e95cc7fb839d3e7c6fb7f84ef071a8cbdd5916bd0",
+      "zh": "什么争议？空出了三个席位，我补上了。现在，民主党却想摧毁我们整个民主赖以存在的司法独立基础。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6172@59/description",
+        "2020_Trump_Haley/answers_json/6172@59/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "Who cares what I think about this issue? Go ask Joe Biden about it -- he's the one who will have no qualms about signing off on this insane plan if he's elected President.",
+      "sha256": "3c09af9d872f45abc3d10e6d29220962fcbc04670b61f86dc31dc86f597587e4",
+      "zh": "谁在乎我怎么看这个问题？去问乔·拜登吧——他要是当选总统，签下这种疯狂方案时，可不会有半点顾虑。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6173@60/description",
+        "2020_Trump_Haley/answers_json/6173@60/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "What do you want me to say? That I'd be happy if Sleepy Joe nominated four leftist judges to the Supreme Court in some hare-brained court-packing scheme? I'm sure if he does that, we'll be more than happy to retaliate when the voters put us back in charge.",
+      "sha256": "1df2a84015c884970a3d680cb56530236715de6734d634227b81febbe21fd003",
+      "zh": "你想让我说什么？说我会高兴地看着瞌睡乔，按某种荒唐的扩充法院方案，提名四位左翼大法官？我确信，要是他这么干，等选民让我们重新掌权，我们会很乐意反击。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6174@61/description",
+        "2020_Trump_Haley/answers_json/6174@61/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "I hate how politicized the Democrats have made the Court, but there are better ways of dealing with it than court-packing. Maybe we can all sit together and come up with some term limits, as long as it's fair for everyone.",
+      "sha256": "ecfa8ae5a1a80054a39b450907526d5445c38b5b122c9e374179e07d4acd9b17",
+      "zh": "我讨厌民主党把法院搞得如此政治化，但解决它有比扩充法院更好的办法。也许大家可以坐下来，想想任期限制，只要对所有人公平。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6175@62/description",
+        "2020_Trump_Haley/answers_json/6175@62/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Is this even a real issue, or just some propoganda being put out there by Xi Jingping and the Communist Chinese Party?",
+      "sha256": "7726066f7165337bf93d06c67ff6db07a896f29d1acb9bbdcba92a9a86b04b6b",
+      "zh": "这到底是真问题，还是习近平和中国共产党散布的宣传？",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6176@63/description",
+        "2020_Trump_Haley/answers_json/6176@63/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "It's funny how a lot of these supposed hate crimes are taking place in New York and San Francisco. I'm sure they're very inspired by me!",
+      "sha256": "9bd492bd566d31df2643b120e50dc52fb169524932af1ff1958347ba08a2f138",
+      "zh": "有意思的是，许多所谓的仇恨犯罪都发生在纽约和旧金山。他们肯定是受到我的鼓舞了！",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6177@64/description",
+        "2020_Trump_Haley/answers_json/6177@64/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "A lot of these attacks, unfortunately, are occuring in Democrat-run cities that want to cut policing even further. Who is the real enemy of the Asian-American community?",
+      "sha256": "5b269f96d1b3dd165dff05b23b43de74e287b7d7fc0982489d69d58cc28bb98a",
+      "zh": "不幸的是，许多袭击发生在民主党管理、还想进一步削减警务的城市。谁才是亚裔美国人群体真正的敌人？",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6178@65/description",
+        "2020_Trump_Haley/answers_json/6178@65/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Asian-American hate is wrong. I'd call on it to stop immediately, and I'm sure any intelligent person understands the difference between holding China accountable, and calling for hate domestically.",
+      "sha256": "db6026afd4ad2af64478a184b70c2a14ad6f182860dddde5a254fc8da32b1140",
+      "zh": "针对亚裔美国人的仇恨是错的。我呼吁立即停止。我相信，任何明智的人都明白，要求中国负责，与在国内煽动仇恨，是两回事。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6179@66/description",
+        "2020_Trump_Haley/answers_json/6179@66/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "I like Amy Coney Barrett. She's a staunch conservative, a true Catholic thinker, and widely praised across the conservative spectrum.",
+      "sha256": "d0f37130ea3e0982f0f49b1362212a337f1e2016135ce3406aba2e1d24f2dac0",
+      "zh": "我喜欢艾米·科尼·巴雷特。她是坚定的保守派，真正的天主教思想者，在各路保守派中广受赞誉。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6180@67/description",
+        "2020_Trump_Haley/answers_json/6180@67/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": "I'm going to go with Barbara Lagoa. She's done a terrific job on the Florida Supreme Court for a number of years, and they are really raving about her down there.",
+      "sha256": "35b7fe79e68e62867819d6e2622f607c7af2f7be4a237aeb0e51220acc7fa3aa",
+      "zh": "我要选芭芭拉·拉戈阿。她多年来在佛罗里达州最高法院做得很出色，那边的人对她赞不绝口。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6181@68/description",
+        "2020_Trump_Haley/answers_json/6181@68/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "I'm really impressed with Amul Thapar. You know he was one of my first federal appointments, which they don't talk about very much, a really great guy.",
+      "sha256": "b0f0d95ba63d5ac6b3d199f86e3a9bad2abc3ec3b4e2136ab2fbe7472326bb23",
+      "zh": "阿穆尔·塔帕尔给我留下了深刻印象。你知道，他是我最早任命的一批联邦法官之一，媒体很少提这一点。他真是个很棒的人。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6182@69/description",
+        "2020_Trump_Haley/answers_json/6182@69/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "I'll agree to wait until January 21st to make my new nominee, if the Democrats will agree to build the wall, pass my stalled stimulus bill, and pass our infrastructure bill.",
+      "sha256": "198cb85d071a7a3f794b04c02fab123598831c2259fd1d59fe7945ac18e26597",
+      "zh": "如果民主党同意筑墙，通过我搁置的经济刺激法案和基础设施法案，我就同意等到1月21日，再提出新的人选。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6183@70/description",
+        "2020_Trump_Haley/answers_json/6183@70/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Right now we're incredibly close, I expect to have a major announcement about the vaccine any day now. Under my leadership we've developed one of the most effective vaccines in human history.",
+      "sha256": "a7e326d08af06beff794a9818690ef7b56c2ae0bdd268cb0b31613a7112f095f",
+      "zh": "我们现在已经非常接近成功，我预计随时会有疫苗的重大消息。在我的领导下，我们开发出了人类历史上最有效的疫苗之一。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6184@71/description",
+        "2020_Trump_Haley/answers_json/6184@71/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "It's going to happen when it happens, I'm hoping by the end of the year. And shortly thereafter we can finally put an end to the destructive liberal lockdowns that have done so much to damage our country.",
+      "sha256": "8015c064ce892f9eb3ac8c98120aabd94f731e2c6581c87fa072a5b46ee591fa",
+      "zh": "该成功时就会成功，我希望是在年底之前。随后不久，我们就终于能结束破坏性的自由派封锁，它们给国家造成了太多损害。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6185@72/description",
+        "2020_Trump_Haley/answers_json/6185@72/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "We're going to release the vaccine when it's safe to do so, as soon as we can. We have the best researchers and the best drug companies in the world, and what they've accomplished in this short period of time is astounding.",
+      "sha256": "1ccd630ad5711c53db1fd1c5dfc2d07d576399a846f968c56da24a2beeb6aebc",
+      "zh": "我们会在安全时，尽快推出疫苗。我们有世界上最好的研究人员和制药公司，他们在这么短时间内取得的成绩，令人惊叹。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6186@73/description",
+        "2020_Trump_Haley/answers_json/6186@73/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "People on the left continue to spread lies and misinformation about our attempts to develop a vaccine. No less than Kamala Harris just said she wouldn't take it. That's the biggest threat to recovery during my second term.",
+      "sha256": "4861c074ee11c0e3f48f334088343039fcb3b19da30ce3e157529b411f3ba2ed",
+      "zh": "左翼继续对我们开发疫苗的努力散布谎言和虚假信息。连卡玛拉·哈里斯都刚说，她不会接种。这才是我第二任期经济复苏的最大威胁。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6187@74/description",
+        "2020_Trump_Haley/answers_json/6187@74/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "For seven months now, Sleepy Joe Biden has barely left the basement of his house. That ends now, and I'm pretty confident the American people won't like what they see from him.",
+      "sha256": "dd09a24632c50d0cfcd4f066a4c9489f4e1a9609e6a176422d12172232c33e23",
+      "zh": "七个月以来，瞌睡乔·拜登几乎没离开过自家地下室。现在该结束了。我很有信心，美国人民不会喜欢他们看到的样子。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6188@75/description",
+        "2020_Trump_Pence/answers_json/6189@76/description",
+        "2020_Trump_Pence/answers_json/6190@77/description",
+        "2020_Trump_Haley/answers_json/6188@75/description",
+        "2020_Trump_Haley/answers_json/6189@76/description",
+        "2020_Trump_Haley/answers_json/6190@77/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Year after after, Republicans subject themselves to sham debates with slanted questions and one-sided moderators. Why should we force the voters to watch that charade again?",
+      "sha256": "759ed32ddc0fd9f88049de86a98832bb35e034d6c01dca3a4acdd1c674280811",
+      "zh": "年复一年，共和党都去参加虚假的辩论，问题偏颇，主持人偏袒一方。为什么还要逼选民再看一次这种闹剧？",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6191@78/description",
+        "2020_Trump_Haley/answers_json/6191@78/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Sleepy Joe couldn't get 100 people to show up to his rallies if he tried -- so he's using COVID as an excuse. It almost makes you wonder if anyone's even voting for him.",
+      "sha256": "05c35b8249f97edac8b25ce99ae647c9b81449bd0de247100579b7a99fcba126",
+      "zh": "瞌睡乔就算努力，也凑不出一百人参加集会，所以他才拿新冠当借口。几乎让人怀疑，到底有没有人投票给他。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6192@79/description",
+        "2020_Trump_Haley/answers_json/6192@79/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "I'm feeling great now. I was a little sick, and now I'm not. I'm looking forward to closing this campaign out strong with some huge Keep America Great rallies.",
+      "sha256": "109a0a8f54610fbd808d0015131586c6f1059c09ec6fd6bc8dba8b3ca0d850b7",
+      "zh": "我现在感觉很好。之前有点不舒服，现在好了。我期待着强势完成竞选，办几场大型“让美国保持伟大”集会。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6193@80/description",
+        "2020_Trump_Haley/answers_json/6193@80/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "They say you might be contagious for a little bit, or maybe not, but it's best if we take 3-4 days off before we get back out there.",
+      "sha256": "52fee2004ee378033d686ac82f311caca551822dcfae94e4499908f5e620ca8b",
+      "zh": "他们说，可能还会有一点时间具有传染性，也可能没有，但最好先休息三到四天，再出去竞选。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6194@81/description",
+        "2020_Trump_Haley/answers_json/6194@81/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": "We should all take this moment to appreciate the importance of social distancing and other precautions. It won't be long until we roll out one of the best vaccines in history and defeat this pandemic.",
+      "sha256": "308bea7716479071916bd1c47768e8b17f1397b74120b0a4f2f446f81608e7e3",
+      "zh": "我们都应该借此机会，认识保持社交距离和其他预防措施的重要性。再过不久，我们就会推出史上最好的疫苗之一，击败这场疫情。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6195@82/description",
+        "2020_Trump_Haley/answers_json/6195@82/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "We know that there's an unbelievable amount of election fraud going on right now, and Democrats are making it even worse in 2020. Of course they want me to just lay back and take it!",
+      "sha256": "5e6c0b9f927efb91912e66072a00c28d5432867ff3192a4a0c8f7e77541e76fd",
+      "zh": "我们知道，现在正在发生数量惊人的选举舞弊，民主党在2020年还让它更严重。当然，他们想让我躺着忍受这一切！",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6196@83/description",
+        "2020_Trump_Haley/answers_json/6196@83/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "We just don't know yet -- I've heard some scary things but we need to see here in a few weeks, it's something we'll be checking very closely.",
+      "sha256": "a502850fd50f9858595799627e4afbffdb011809d31706aff0ffdfbd8cc50e6e",
+      "zh": "我们还不知道。我听过一些可怕的消息，但需要过几周再看看。这件事，我们会非常仔细地检查。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6197@84/description",
+        "2020_Trump_Haley/answers_json/6197@84/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "If Democrats would join us in supporting a more robust election system with a complete paper audit trail, voter ID, and other common sense measures, then there wouldn't be these questions floating around.",
+      "sha256": "952f284852f2b9b886de21e9ded83ab9ba6792fae829278e35cfc3fe1f60dfa7",
+      "zh": "如果民主党与我们一起，支持一个更健全的选举制度，配备完整的纸质审计记录、选民身份证明，以及其他合乎常识的措施，就不会有这些疑问了。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6198@85/description",
+        "2020_Trump_Haley/answers_json/6198@85/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "Sleepy Joe Biden and I have an incredible difference of opinion on what is best for this country, but ultimately whatever the voters say about it, that's the last word.",
+      "sha256": "ca4e0553b0ed7a1e66ddf095d9d51b93261c6c690a1df7f0b06b4ed5e26c3e89",
+      "zh": "对于什么最有利于国家，瞌睡乔·拜登和我有极大的分歧，但归根结底，无论选民怎么说，他们的决定就是最终结论。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6199@86/description",
+        "2020_Trump_Haley/answers_json/6199@86/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "We know he's a drug addict and totally corrupt. The FBI needs to be looking into this immediately, and the media needs to be covering the story.",
+      "sha256": "259aebaf8b4bf109072ee51a6c7122b545d9b7059be96812abd4b7b45643a9ef",
+      "zh": "我们知道，他吸毒成瘾，而且完全腐败。联邦调查局需要立即调查，媒体需要报道这个故事。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6200@87/description",
+        "2020_Trump_Haley/answers_json/6200@87/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "They talk about October surprises -- this is one the biggest ones ever. And people are trying to post the story and Facebook won't even let them post it. If that's not an assault on democracy, what is?",
+      "sha256": "dfb20be960d501bffec6c5ae37d2a17e5ef5b546da38eed1cb1107ba76c70313",
+      "zh": "大家都谈十月惊奇，这次就是有史以来最大的一次之一。人们想发这个故事，Facebook却连发布都不让。如果这不算攻击民主，什么才算？",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6201@88/description",
+        "2020_Trump_Haley/answers_json/6201@88/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "Look, when it comes down to it, my policies will Keep America Great, and Joe Biden's will bring socialism and decay back to our great and wonderful country. That's more important than any corruption or scandals that his son is involved in.",
+      "sha256": "e0621e2283cdb969c21aec2460dad024e05f68933c9b21e33424c6c3cf990a37",
+      "zh": "说到底，我的政策会让美国保持伟大，乔·拜登的政策却会让社会主义和衰败重返这个伟大而美好的国家。这比他儿子涉及的任何腐败和丑闻都更重要。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6203@90/description",
+        "2020_Trump_Haley/answers_json/6203@90/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "We're going to campaign hard in Michigan, Wisconsin, and Minnesota on this final day of the campaign.",
+      "sha256": "171d9aca390cb656b334f0182cd3bd8230e39e1a9e0f538a1cb654d4da255320",
+      "zh": "竞选最后一天，我们会在密歇根州、威斯康星州和明尼苏达州大力竞选。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6205@92/description",
+        "2020_Trump_Haley/answers_json/6205@92/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "We're going to head out west and do some rallies in Arizona and Nevada. I think we'll win both of those states and really surprise a lot of people.",
+      "sha256": "6d6f34e4bde689cb46caa89d9e9ef8fd602ceb6548813edd4f1bac2181fcbdf7",
+      "zh": "我们会向西，去亚利桑那州和内华达州办几场集会。我认为，两州我们都会赢下，让很多人真正大吃一惊。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6206@93/description",
+        "2020_Trump_Haley/answers_json/6206@93/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "I'm proud to call Mike Pence one of my closest friends. He's done a terrific job as Vice President and will be great over the next four years.",
+      "sha256": "06086e482a3b3665308df89be521598e71b198029dac4a0a235acd502cff05a8",
+      "zh": "我很自豪能把迈克·彭斯称作最亲近的朋友之一。他作为副总统做得很出色，未来四年也会很棒。",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6208@95/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "This is another fake news story that's basically a lie. The media is always trying to stir up drama between us, but Mike has been great!",
+      "sha256": "b9a612af80d2f301c99b019eb5acf6ded2b8c72e81d591285ecd54813c08ad87",
+      "zh": "这又是一个基本属于谎言的假新闻故事。媒体总想在我们之间挑起事端，但迈克一直很出色！",
+      "keys": [
+        "2020_Trump_Pence/answers_json/6209@96/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "Based on some early results, it appears that many polls significantly overestimated Biden's support. This may be close after all.",
+      "sha256": "8f9e795c3171bf70bf459d86833e2b58b68cb2d63951adbb2940da77144673f1",
+      "zh": "根据一些初步结果，许多民调似乎严重高估了拜登的支持率。这场选举可能终究还是很接近。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3004@0/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3005@1/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3006@2/answer_feedback",
+        "2020_Trump_Pence/answer_feedback_json/3007@3/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3004@0/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3005@1/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3006@2/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3007@3/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "Until you threw in the China comment, this sounded like a relatively restrained opening statement for you.",
+      "sha256": "eeb503fc8e932d2d5809e80300fae475cd3059a1ec9305e76671a6e0bbabe576",
+      "zh": "在你加上那句关于中国的话之前，这听起来还算是你相对克制的开场声明。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3058@4/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3058@4/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "Your core supporters believe every word of this, but does it have enough appeal to swing voters?",
+      "sha256": "6a6990a3eef4bfb50cc4927fddc319ce8d4162c55a2bddda75f99e2494dbc0db",
+      "zh": "你的核心支持者相信这里的每个字，但它对摇摆选民有足够吸引力吗？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3059@5/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3059@5/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "Lord knows you've gone on aggrieved attack mode plenty of times over the past four years. But is it enough to get you over the hump for a second term?",
+      "sha256": "b7ba1a5e1219e9cb5869a52bd3b5d084054b9080c58150495ad71381259f334c",
+      "zh": "天知道，过去四年你有多少次摆出受害者姿态，发动愤怒攻击。不过，这足以帮你跨过门槛，赢得第二个任期吗？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3060@6/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3060@6/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "This seems like a confident, assertive, but well-grounded theme to base your campaign on.",
+      "sha256": "0f2fcd346bd2494a51836edb076e2ebd096965abef2b8522aaaa5fd2ac3cb620",
+      "zh": "这似乎是一个自信、坚定，却又有充分依据的竞选主题。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3061@7/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3061@7/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "It's good to mix things up and hit Democrats where they're vulnerable, especially in areas where your criticism might catch on with independent voters.",
+      "sha256": "d80aa62db56e86aa45ea1c24c4d48b06413e1a3a9f61783cce6a5e49fcdc0ca5",
+      "zh": "换换打法，攻击民主党的弱点，是好事，尤其是在可能引起独立选民共鸣的方面。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3062@8/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3062@8/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "You are the incumbent President with four years of accomplishments to run on. You're playing into everyone's worst caricature of you when you focus on petty insults like this.",
+      "sha256": "e42a59ff0857934b21a23aea649ce54be650be3a98e4b77395e9d4228103c87d",
+      "zh": "你是现任总统，可以凭四年政绩竞选。把注意力放在这种琐碎辱骂上，恰恰是在迎合大家对你最糟糕的刻板印象。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3063@9/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3063@9/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "You have your own way of stating it, but Biden would be the oldest President in history. Is it really a bad idea to point that out, loudly and repeatedly?",
+      "sha256": "4d2c67bf638a086987b63d2939150833dc78538771b04fdcea08c0c9ce6e70b5",
+      "zh": "你有自己的表达方式，但拜登会是史上年龄最大的总统。高声、反复指出这一点，真的算坏主意吗？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3064@10/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3064@10/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "Your statements on COVID and China are quite inflammatory here. Of course, that may not matter to your supporters this November.",
+      "sha256": "ccf0559d3994082cd7fc1a0619e1dd194b23943ae3c6a00bb291cff81fe7b3b1",
+      "zh": "你在这里对新冠和中国的言论，很有煽动性。当然，今年十一月，你的支持者也许并不在乎。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3065@11/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3065@11/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "The trick with COVID is to strike a sensible compromise between slowing the spread of the disease, and protecting the health of the economy.",
+      "sha256": "717abe07f60aec648faf83733ae2b1aa43bdc108cba14f1473874507a4a2f019",
+      "zh": "应对新冠的关键，是在减缓传播与保护经济健康之间，作出合理的折中。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3066@12/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3066@12/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "There are certainly rumblings of discontent with the scientific establishment, but your best path to reelection probably consists in handling COVID well.",
+      "sha256": "bef89b5833eaa06778fd6a4453c766c71459b27bfb82e0307e4709676528ea7d",
+      "zh": "确实有人对科学界表达不满，但你连任的最佳路径，大概还是妥善处理疫情。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3067@13/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3067@13/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "Joe Biden is definitely more popular with independents than the progressive left is. One way to hit at Biden is to suggest that he's not the one really calling the shots in the modern Democratic Party.",
+      "sha256": "93e7f41c29d68cba8b1026647a4f906f10a65d5bd8c2be81b18c3fd41c6f9a78",
+      "zh": "乔·拜登在独立选民中，肯定比进步派左翼更受欢迎。一种攻击他的办法，是暗示在今天的民主党里，真正作决定的不是他。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3068@14/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3068@14/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "Trying to drive a wedge between the two wings of the Democratic Party might not be a bad idea. Then again, they hate you far more than they hate each other.",
+      "sha256": "81607236ec2b79a7500678a80fb6121e71234a8a43574f66eda7767ad9d4229c",
+      "zh": "试图离间民主党两派，也许不是坏主意。不过，他们对你的恨，远远超过彼此之间的怨恨。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3069@15/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3069@15/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "In part due to statements like this, America is rapidly becoming polarized on the question of COVID precautions. Will that help you in November?",
+      "sha256": "3c49d5f1f61fbd6eb8932d8f56033925a77356dd8b04b879b3159b96247f9d0c",
+      "zh": "部分由于这类言论，美国在新冠防护问题上正迅速走向对立。这会在十一月帮助你吗？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3070@16/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3070@16/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "Health authorities express concern about your refusal to wear a mask at some large events, but will your supporters care?",
+      "sha256": "4a46b57773bbe8872b4782001c69998cb66086e8c2d0e19f8e7e00973f852c05",
+      "zh": "卫生部门对你在一些大型活动中拒绝戴口罩表示担忧，但你的支持者会在乎吗？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3071@17/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3071@17/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "You seem to be gambling that your voters will reluctantly follow your lead on this issue. And who knows, if COVID goes away sooner, it can only help you.",
+      "sha256": "f7d7ea7ad23e61bda863e877d9c34e4548e9bc9415039b69c393beeaa22662d9",
+      "zh": "你似乎在赌，自己的选民会不情愿地跟随你在这个问题上的引导。谁知道呢，如果疫情早点消退，只会对你有利。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3072@18/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3072@18/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Commentators have noticed a remarkably restrained public persona over the last few weeks.",
+      "sha256": "f6e41e5157c4cc1dce2b2ee286971b7d6b62729d266a86fbf95430c931bce770",
+      "zh": "评论人士注意到，过去几周，你的公众形象异常克制。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3073@19/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3073@19/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "It has been a raucous and emotional couple of weeks in America, and you are certainly doing your part to keep it that way.",
+      "sha256": "56034bd205a7abd6e9fae7acb001bbabbb551e9fdcc068c726a5d4f34b62bc42",
+      "zh": "美国这几周喧闹而情绪激动，你显然也在尽自己的力，让这种局面继续。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3074@20/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3074@20/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "Democrats like to portray themselves as stronger on racial justice issues. Maybe your best strategy is, indeed, to turn the tables on them. When is the last time Republicans ran anything in Minneapolis?",
+      "sha256": "722d0f9f95e2660e450e8834ed9882729852546294d3c7136082ca13827be5f1",
+      "zh": "民主党喜欢把自己描绘成更坚定支持种族公正的一方。也许，你最好的策略确实是反过来攻击他们。共和党上次在明尼阿波利斯掌管什么，是什么时候？",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3075@21/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3075@21/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "It's hard to make Hunter Biden stay in the mainstream news, but your supporters are certainly keeping up with his story.",
+      "sha256": "e0fda1326c2eb3ba12baf6ea9cedc6142619b0d0407f1fda1dc4008295fbc564",
+      "zh": "让亨特·拜登持续留在主流新闻里很难，但你的支持者确实一直在关注他的故事。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3076@22/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3076@22/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "It might not be traditional Republican policy, but no one can deny that these are unusual and exceptional times.",
+      "sha256": "d0597b88a7d681592375e2755c7d4988925f4b7c36ae85a7870a03196b9104de",
+      "zh": "这也许不是传统共和党政策，但没人能否认，我们处在不同寻常、特殊的时代。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3077@23/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3077@23/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "You might not win this battle, but maybe you can shame Nancy Pelosi as much as possible while it's taking place.",
+      "sha256": "7adfedab0b0236f868f7a64c17b7d31bc0da7a1b2267b2187e7d72991f15dba0",
+      "zh": "你也许赢不了这场斗争，但也许可以在过程中，尽可能让南希·佩洛西难堪。",
+      "keys": [
+        "2020_Trump_Pence/answer_feedback_json/3078@24/answer_feedback",
+        "2020_Trump_Haley/answer_feedback_json/3078@24/answer_feedback"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

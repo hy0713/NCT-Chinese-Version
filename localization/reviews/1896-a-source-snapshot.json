@@ -1,0 +1,781 @@
+[
+  {
+    "source": "<p>William McKinley runs as the establishment Republican while William Jennings Bryan brings a radically different agenda to the race. The bad economy and the coinage of silver dominate discussion.</p><ul><li>McKinley will make the case for traditional Republican policies, including a strong defense of the gold standard.</li><li>Bryan will state that there can be no relief for debtors or the larger economy without inflation, which he hopes to bring about via \"free silver\".</li></ul>",
+    "zh": "<p>威廉·麦金莱代表共和党建制派参选，威廉·詹宁斯·布赖恩则提出截然不同的激进纲领。低迷的经济与银币铸造问题，主导着竞选讨论。</p><ul><li>麦金莱将捍卫传统共和党政策，尤其是坚定维护金本位制。</li><li>布赖恩将主张，若没有通货膨胀，债务人乃至整个经济就无法得到纾困；他希望通过“自由铸银”推动通胀。</li></ul>",
+    "keys": [
+      "base/election_json/5@12/summary",
+      "base/election_json/5@16/summary"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1896 election.</h3><p>In spite of a real scare from Mr. Bryan, you have done your part to preserve good order in the United States.</p><p>None of that changes the fact that the country is facing a depression with millions out of work. Are you the man to lead the nation back into greatness?</p><p>Your first order of business will be tariff increases to stimulate industry, as well as a new commitment to the gold standard.</p>",
+    "zh": "<h3>恭喜！你赢得了 1896 年的选举。</h3><p>尽管布赖恩先生确实吓坏了您，但您已经尽了自己的努力来维护美国的良好秩序。</p><p>所有这些都没有改变这样一个事实：该国正面临着数百万人失业的萧条。你是带领国家走向伟大的人吗？</p><p>您的首要任务将是提高关税以刺激行业，以及对金本位制的新承诺。</p>",
+    "keys": [
+      "base/candidate_json/20@35/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry! You have lost the 1896 election.</h3><p>The titans of American industry were counting on you to put down this nonsense idea of free silver, and to protect them from the other whims of the populist Democrats. Your defeat will go down as one of the most ignominous in the history of American politics.</p><p>Bryan's victory stings all the more because after the inept Cleveland Administration, this election shouldn't have been close. Needless to say, your political career is over.</p>",
+    "zh": "<h3>抱歉！你输掉了 1896 年的选举。</h3><p>美国工业巨头指望你能放下自由铸银这个无稽之谈的想法，并保护他们免受民粹主义民主党的其他异想天开的影响。你的失败将成为美国政治史上最耻辱的失败之一。</p><p>布赖恩的胜利更加刺痛，因为在无能的克利夫兰政府之后，这次选举本来不应该是势均力敌的。不用说，你的政治生涯已经结束了。</p>",
+    "keys": [
+      "base/candidate_json/20@35/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Wow! You have won a true nail-biter.</h3><p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. Fortunately for you, the majority of U.S. states have Republican controlled congressional delegations, and they will cast their votes for you accordingly.</p><p>The important thing is that you won. Go about implementing your agenda accordingly, and pay no attention to Democrats and agitators who call for 'compromise' and 'conciliation'.</p>",
+    "zh": "<h3>哇！您赢得了真正的胜利。</h3><p>没有候选人获得多数选举人票，这是自 1824 年以来第一次出现这种情况。对您来说幸运的是，美国大多数州都有共和党控制的国会代表团，他们会相应地为您投票。</p><p>重要的是你赢了。相应地执行你的议程，不要理会那些呼吁“妥协”和“和解”的民主党人和煽动者。</p>",
+    "keys": [
+      "base/candidate_json/20@35/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "<h3>Congratulations! You have won the 1896 election.</h3><p>\"The Great Commoner\" will soon be President of the United States! Nobody with your political views has ever sniffed the Presidency, let alone won it, and with that in mind your supporters are rioting frenziedly in the streets. The sweetest speech of all will be your victory speech tomorrow in Lincoln, Nebraska. Prepare to enact your reform agenda and most importantly the free coinage of silver.</p>",
+    "zh": "<h3>恭喜！你赢得了 1896 年的选举。</h3><p>“伟大的平民”即将成为美国总统！从未有持你这种政治观点的人接近总统宝座，更不用说赢得大选。因此，你的支持者正在街头狂欢。最令人振奋的演说，将是你明天在内布拉斯加州林肯市发表的胜选演说。准备推行你的改革议程吧，尤其是自由铸造银币。</p>",
+    "keys": [
+      "base/candidate_json/21@36/electoral_victory_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry! You have lost the 1896 election.</h3><p>With all of the maneuvering, chicanery, and propoganda that the Republicans threw at you, it's amazing that you even had a chance.</p><p>Regardless of the outcome this time, you have built a legion of devoted followers who will support anything you do. If you play your cards right, you just might get another shot against McKinley in four years...</p>",
+    "zh": "<h3>抱歉！你输掉了 1896 年的选举。</h3><p>尽管共和党对你进行了各种诡计、欺骗和宣传，但你居然还有机会，真是太神奇了。</p><p>无论这次结果如何，你已经建立了一批忠实的追随者，他们会支持你所做的任何事情。如果你的牌打对了，你可能会在四年内再次对抗麦金莱……</p>",
+    "keys": [
+      "base/candidate_json/21@36/electoral_loss_message"
+    ]
+  },
+  {
+    "source": "<h3>Sorry! You have lost in a squeaker.</h3><p>No candidate achieved a majority of the electoral votes, marking the first time this has happened since 1824. Unfortunately  for you, the majority of U.S. states have Republican controlled congressional delegations, and they will cast their votes for William McKinley.</p><p>Given the incredibly close nature of the election, you can certainly set your sights on a political comeback in 1900, if that is what you desire.</p>",
+    "zh": "<h3>抱歉！你已经输给了吱吱声。</h3><p>没有候选人获得多数选举人票，这是自 1824 年以来第一次发生这种情况。对您来说不幸的是，美国大多数州都有共和党控制的国会代表团，他们将投票给威廉·麦金莱。</p><p>鉴于选举结果极其接近，您当然可以将目光投向 1900 年的政治东山再起，如果您愿意的话。</p>",
+    "keys": [
+      "base/candidate_json/21@36/no_electoral_majority_message"
+    ]
+  },
+  {
+    "source": "Which of the following will be your primary campaign message?",
+    "zh": "以下哪一项将是您的主要竞选信息？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/165@0/description",
+      "1896_McKinley_Reed/questions_json/165@1/description",
+      "1896_McKinley_Quay/questions_json/165@1/description",
+      "1896_McKinley_Gage/questions_json/165@1/description"
+    ]
+  },
+  {
+    "source": "What points do you wish to touch upon as you accept the Republican nomination? A written transcript will be transmitted to voters across the country.",
+    "zh": "当您接受共和党提名时，您希望谈及哪些要点？书面记录将发送给全国各地的选民。",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/166@1/description",
+      "1896_McKinley_Reed/questions_json/166@0/description",
+      "1896_McKinley_Quay/questions_json/166@0/description",
+      "1896_McKinley_Gage/questions_json/166@0/description"
+    ]
+  },
+  {
+    "source": "You have the support of the important newspapers, and they are willing to accept your guidance on the proper campaign message. What do you want them to print?",
+    "zh": "你得到了重要报纸的支持，他们愿意接受你对正确竞选信息的指导。您希望他们打印什么？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/170@2/description",
+      "1896_McKinley_Reed/questions_json/170@5/description",
+      "1896_McKinley_Quay/questions_json/170@3/description",
+      "1896_McKinley_Gage/questions_json/170@5/description"
+    ]
+  },
+  {
+    "source": "What is your opinion on measures that would aim to restrict the sale or production of alcohol?",
+    "zh": "您对旨在限制酒精销售或生产的措施有何看法？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/197@3/description",
+      "1896_McKinley_Reed/questions_json/197@10/description",
+      "1896_McKinley_Quay/questions_json/197@4/description",
+      "1896_McKinley_Gage/questions_json/197@6/description",
+      "1896_Bryan_Sewall/questions_json/197@8/description",
+      "1896_Bryan_Stevenson/questions_json/197@3/description",
+      "1896_Bryan_Matthews/questions_json/197@6/description",
+      "1896_Bryan_Boies/questions_json/197@6/description",
+      "1896_Bryan_Teller/questions_json/197@1/description"
+    ]
+  },
+  {
+    "source": "Some of the border states (Virginia, Maryland, Kentucky) are very close this year. Do you have a strategy to make these states jump to the Republican side?",
+    "zh": "一些边境州（弗吉尼亚州、马里兰州、肯塔基州）今年的情况非常接近。你有策略让这些州跳到共和党一边吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/182@4/description",
+      "1896_McKinley_Reed/questions_json/182@6/description",
+      "1896_McKinley_Quay/questions_json/182@5/description",
+      "1896_McKinley_Gage/questions_json/182@10/description"
+    ]
+  },
+  {
+    "source": "The West Coast is a very competitive region. Can you make the case for Republican policies there, particularly in those places such as San Francisco which rely on foreign trade?",
+    "zh": "西海岸是一个竞争非常激烈的地区。您能否阐述共和党在那里的政策，特别是在旧金山等依赖外贸的地方？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/179@5/description",
+      "1896_McKinley_Reed/questions_json/179@11/description",
+      "1896_McKinley_Quay/questions_json/179@9/description",
+      "1896_McKinley_Gage/questions_json/179@2/description"
+    ]
+  },
+  {
+    "source": "What is your definitive position on the tariff issue?",
+    "zh": "您在关税问题上的明确立场是什么？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/194@6/description",
+      "1896_McKinley_Reed/questions_json/194@7/description",
+      "1896_McKinley_Quay/questions_json/194@6/description",
+      "1896_McKinley_Gage/questions_json/194@7/description",
+      "1896_Bryan_Sewall/questions_json/194@7/description",
+      "1896_Bryan_Stevenson/questions_json/194@5/description",
+      "1896_Bryan_Matthews/questions_json/194@3/description",
+      "1896_Bryan_Boies/questions_json/194@1/description",
+      "1896_Bryan_Teller/questions_json/194@5/description"
+    ]
+  },
+  {
+    "source": "Can you state your definitive position on the American monetary system?",
+    "zh": "您能阐明您对美国货币体系的明确立场吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/193@7/description",
+      "1896_McKinley_Reed/questions_json/193@9/description",
+      "1896_McKinley_Quay/questions_json/193@8/description",
+      "1896_McKinley_Gage/questions_json/193@4/description",
+      "1896_Bryan_Sewall/questions_json/193@3/description",
+      "1896_Bryan_Stevenson/questions_json/193@1/description",
+      "1896_Bryan_Matthews/questions_json/193@5/description",
+      "1896_Bryan_Boies/questions_json/193@9/description",
+      "1896_Bryan_Teller/questions_json/193@6/description"
+    ]
+  },
+  {
+    "source": "Will you send campaigners to Nebraska, in an attempt to deliver an embarrassing defeat to Bryan, or should those resources be focused on South Dakota, Wyoming, and Iowa?",
+    "zh": "您会派活动人员前往内布拉斯加州，试图给布赖恩带来一场尴尬的失败，还是应该将这些资源集中在南达科他州、怀俄明州和艾奥瓦州上？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/184@8/description",
+      "1896_McKinley_Reed/questions_json/184@2/description",
+      "1896_McKinley_Quay/questions_json/184@11/description",
+      "1896_McKinley_Gage/questions_json/184@8/description"
+    ]
+  },
+  {
+    "source": "Bryan's nomination has electrified the western voter, and he is now planning to campaign on the rails, six days a week. Will you break precedent as well and make a speaking tour of the nation?",
+    "zh": "布赖恩的提名让西方选民兴奋不已，他现在正计划每周六天的竞选活动。您是否也会打破先例，进行全国巡回演讲？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/167@9/description",
+      "1896_McKinley_Reed/questions_json/167@3/description",
+      "1896_McKinley_Quay/questions_json/167@10/description",
+      "1896_McKinley_Gage/questions_json/167@11/description"
+    ]
+  },
+  {
+    "source": "The United States is in the midst of a financial calamity, with masses of unemployed men on the streets. What will you do to revive business in this country?",
+    "zh": "美国正处于金融灾难之中，大量失业人员流落街头。您将采取什么措施来重振这个国家的商业？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/195@10/description",
+      "1896_McKinley_Reed/questions_json/195@4/description",
+      "1896_McKinley_Quay/questions_json/195@2/description",
+      "1896_McKinley_Gage/questions_json/195@9/description",
+      "1896_Bryan_Sewall/questions_json/195@10/description",
+      "1896_Bryan_Stevenson/questions_json/195@9/description",
+      "1896_Bryan_Matthews/questions_json/195@1/description",
+      "1896_Bryan_Boies/questions_json/195@8/description",
+      "1896_Bryan_Teller/questions_json/195@3/description"
+    ]
+  },
+  {
+    "source": "Grover Cleveland sent federal troops to Illinois to end the Pullman Strike without the request of Governor Altgeld. Was this an overreach on his part?",
+    "zh": "格罗弗·克利夫兰在未经阿尔特盖德州长请求的情况下派遣联邦军队前往伊利诺伊州结束普尔曼罢工。这是他的越权行为吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/196@11/description",
+      "1896_McKinley_Reed/questions_json/196@8/description",
+      "1896_McKinley_Quay/questions_json/196@7/description",
+      "1896_McKinley_Gage/questions_json/196@3/description",
+      "1896_Bryan_Sewall/questions_json/196@4/description",
+      "1896_Bryan_Stevenson/questions_json/196@7/description",
+      "1896_Bryan_Matthews/questions_json/196@8/description",
+      "1896_Bryan_Boies/questions_json/196@5/description",
+      "1896_Bryan_Teller/questions_json/196@7/description"
+    ]
+  },
+  {
+    "source": "Some people have suggested implementing a minimum wage, under which people may not be employed. Do you think this would help increase wages or would it simply put more men out of work?",
+    "zh": "有些人建议实施最低工资，低于该工资标准的人可能无法就业。您认为这会有助于提高工资还是只会让更多的男性失业？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/223@12/description",
+      "1896_Bryan_Matthews/questions_json/223@19/description",
+      "1896_Bryan_Boies/questions_json/223@12/description"
+    ]
+  },
+  {
+    "source": "Do you have any comments to make about the candidacy of John Palmer, a Gold Democrat and splinter candidate who is currently campaigning?",
+    "zh": "您对目前正在竞选的金民主党和分裂候选人约翰·帕尔默的候选资格有什么评论吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/153@13/description",
+      "1896_McKinley_Quay/questions_json/153@22/description",
+      "1896_McKinley_Gage/questions_json/153@13/description",
+      "1896_Bryan_Matthews/questions_json/153@23/description",
+      "1896_Bryan_Boies/questions_json/153@20/description"
+    ]
+  },
+  {
+    "source": "You have received checks for $250,000 from J.P. Morgan and from Standard Oil, not to mention innumerable contributions from other concerned businessmen. How will you exploit this immense advantage in funding that you have?",
+    "zh": "您已从摩根大通和标准石油公司收到了 250,000 美元的支票，更不用说其他相关商人的无数捐款了。您将如何利用您拥有的这一巨大的资金优势？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/168@14/description"
+    ]
+  },
+  {
+    "source": "Are you prepared to reaffirm our commitment to the Monroe Doctrine, should any new territories in Latin America gain independence from Spain?",
+    "zh": "如果拉丁美洲的任何新领土从西班牙手中获得独立，您是否准备好重申我们对门罗主义的承诺？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/239@15/description",
+      "1896_Bryan_Sewall/questions_json/239@23/description",
+      "1896_Bryan_Matthews/questions_json/239@21/description"
+    ]
+  },
+  {
+    "source": "Do you believe that the federal government has any right to issue interest-bearing bonds, such as those sold to J.P. Morgan in 1895?",
+    "zh": "您认为联邦政府有权发行有息债券，例如 1895 年出售给摩根大通的债券吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/242@16/description"
+    ]
+  },
+  {
+    "source": "Do you think that local jurisdictions should be allowed to use hanging or other forms of capital punishment for crimes?",
+    "zh": "您认为地方司法管辖区是否应该允许对犯罪行为使用绞刑或其他形式的死刑？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/241@17/description",
+      "1896_McKinley_Reed/questions_json/241@13/description",
+      "1896_Bryan_Sewall/questions_json/241@20/description"
+    ]
+  },
+  {
+    "source": "Was it an appropriate intervention of the federal government to attach U.S. mail cars to Pullman trains during the strike in 1894? (Thereby making it a federal crime to interfere with the passage of these cars)",
+    "zh": "1894 年罢工期间，联邦政府将美国邮车附在普尔曼火车上是否是适当的干预？ （从而使干扰这些汽车的通行成为联邦犯罪）",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/222@18/description",
+      "1896_Bryan_Matthews/questions_json/222@11/description"
+    ]
+  },
+  {
+    "source": "It has been alleged that opportunistic young women have married Union Army veterans for the sole purpose of exploiting the pension system. Do you consider this to be a form of corruption? Would you implement some standards that widows must meet before they can inherit these pensions?",
+    "zh": "据称，机会主义的年轻女性与联邦军退伍军人结婚的唯一目的是利用养老金制度。您认为这是一种腐败吗？您会执行寡妇在继承这些养老金之前必须满足的一些标准吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/212@19/description",
+      "1896_McKinley_Quay/questions_json/212@20/description"
+    ]
+  },
+  {
+    "source": "Should Confederate veterans be included in the federal Civil War pension system?",
+    "zh": "南部邦联退伍军人是否应该纳入联邦南北战争养老金体系？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/211@20/description",
+      "1896_McKinley_Gage/questions_json/211@22/description"
+    ]
+  },
+  {
+    "source": "Should there be greater regulation or even price controls on railroad shipping rates?",
+    "zh": "是否应该对铁路运费进行更严格的监管甚至价格控制？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/207@21/description",
+      "1896_McKinley_Reed/questions_json/207@23/description"
+    ]
+  },
+  {
+    "source": "Will you work towards international agreements to create a monetary system based on \"bimetallism\", i.e. a combination of gold and silver?",
+    "zh": "您会致力于达成国际协议，以创建基于“复本位制”（即黄金和白银的组合）的货币体系吗？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/236@22/description",
+      "1896_Bryan_Stevenson/questions_json/236@14/description",
+      "1896_Bryan_Boies/questions_json/236@15/description"
+    ]
+  },
+  {
+    "source": "Do you believe that immigrant labor is undermining the American worker? Should there be some restrictions put into place on immigration?",
+    "zh": "您认为移民劳工正在损害美国工人吗？是否应该对移民施加一些限制？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/225@23/description",
+      "1896_Bryan_Sewall/questions_json/225@12/description"
+    ]
+  },
+  {
+    "source": "There is one week left until election day. Every state is important, but where will you give an extra push with what is left of your financial resources to educate the American voters?",
+    "zh": "距离选举日还剩一周。每个州都很重要，但你将用剩下的财政资源在哪里额外推动教育美国选民呢？",
+    "keys": [
+      "1896_McKinley_Hobart/questions_json/192@24/description",
+      "1896_McKinley_Reed/questions_json/192@24/description",
+      "1896_McKinley_Quay/questions_json/192@24/description",
+      "1896_McKinley_Gage/questions_json/192@24/description"
+    ]
+  },
+  {
+    "source": "I am a proud \"wet\" in the alcohol debate. What a man drinks is no one's business but his own.",
+    "zh": "我是酒精辩论中自豪的“湿”者。一个人喝什么不关别人的事，只关他自己的事。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1479@0/description",
+      "1896_McKinley_Reed/answers_json/1479@0/description",
+      "1896_McKinley_Quay/answers_json/1479@0/description",
+      "1896_McKinley_Gage/answers_json/1479@0/description",
+      "1896_Bryan_Sewall/answers_json/1479@0/description",
+      "1896_Bryan_Stevenson/answers_json/1479@0/description",
+      "1896_Bryan_Matthews/answers_json/1479@0/description",
+      "1896_Bryan_Boies/answers_json/1479@0/description",
+      "1896_Bryan_Teller/answers_json/1479@0/description"
+    ]
+  },
+  {
+    "source": "It's a shame that Grover Cleveland allowed his supporters to bolt the party the moment it became clear their faction had lost this year's nomination.",
+    "zh": "令人遗憾的是，格罗弗·克利夫兰在他们的派别明显失去今年的提名后就允许他的支持者退出该党。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1026@1/description",
+      "1896_McKinley_Quay/answers_json/1026@2/description",
+      "1896_McKinley_Gage/answers_json/1026@2/description",
+      "1896_Bryan_Matthews/answers_json/1026@23/description",
+      "1896_Bryan_Boies/answers_json/1026@23/description"
+    ]
+  },
+  {
+    "source": "Good riddance. On the issue of silver coinage, you are either with us or you're with the industrialists. Palmer has shown his cards.",
+    "zh": "摆脱了。在银币问题上，你要么支持我们，要么支持实业家。帕尔默已经亮出了底牌。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1027@2/description",
+      "1896_McKinley_Quay/answers_json/1027@3/description",
+      "1896_McKinley_Gage/answers_json/1027@3/description",
+      "1896_Bryan_Matthews/answers_json/1027@24/description",
+      "1896_Bryan_Boies/answers_json/1027@24/description"
+    ]
+  },
+  {
+    "source": "I don't know how this man could live with four years of William McKinley just to save the face of his friend Grover Cleveland. No true Democrat would vote for him.",
+    "zh": "我不知道这个人如何能够忍受四年的威廉·麦金莱只是为了挽回他朋友格罗弗·克利夫兰的面子。没有一个真正的民主党人会投票给他。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1028@3/description",
+      "1896_McKinley_Quay/answers_json/1028@4/description",
+      "1896_McKinley_Gage/answers_json/1028@4/description",
+      "1896_Bryan_Matthews/answers_json/1028@25/description",
+      "1896_Bryan_Boies/answers_json/1028@25/description"
+    ]
+  },
+  {
+    "source": "I'm very concerned about John Palmer. If he is gaining support maybe it means there is a valid criticism we must face up to.",
+    "zh": "我非常关心约翰·帕尔默。如果他获得支持，也许意味着我们必须面对合理的批评。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1029@4/description",
+      "1896_McKinley_Quay/answers_json/1029@5/description",
+      "1896_McKinley_Gage/answers_json/1029@5/description",
+      "1896_Bryan_Matthews/answers_json/1029@26/description",
+      "1896_Bryan_Boies/answers_json/1029@26/description"
+    ]
+  },
+  {
+    "source": "My opponent's ideas are almost as dangerous to the survival of the United States as the Democratic traitors were in the 1860s.",
+    "zh": "我对手的想法对于美国的生存来说几乎和 1860 年代的民主党叛徒一样危险。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1352@5/description",
+      "1896_McKinley_Reed/answers_json/1352@1/description",
+      "1896_McKinley_Quay/answers_json/1352@6/description",
+      "1896_McKinley_Gage/answers_json/1352@6/description"
+    ]
+  },
+  {
+    "source": "I am the candidate who brings the reasonable, tested ideas of sound money, protection, and prosperity. Bryan on the other hand will usher in radicalism and instability.",
+    "zh": "我是带来稳健货币、保护和繁荣的合理且经过检验的想法的候选人。布赖恩另一方面将迎来激进主义和不稳定。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1353@6/description",
+      "1896_McKinley_Reed/answers_json/1353@2/description",
+      "1896_McKinley_Quay/answers_json/1353@7/description",
+      "1896_McKinley_Gage/answers_json/1353@7/description"
+    ]
+  },
+  {
+    "source": "My campaign will reach out to workers across the American spectrum, while Bryan's policies will leave them defenseless against foreign competition and will debase their wages.",
+    "zh": "我的竞选活动将覆盖美国各个阶层的工人，而布赖恩的政策将使他们在面对外国竞争时毫无防御能力，并会降低他们的工资。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1354@7/description",
+      "1896_McKinley_Reed/answers_json/1354@3/description",
+      "1896_McKinley_Quay/answers_json/1354@8/description",
+      "1896_McKinley_Gage/answers_json/1354@8/description"
+    ]
+  },
+  {
+    "source": "My administration will bring back the era of the budget surplus, and will work towards the professionalization of the federal government. We will continue to phase out the 'spoils system' in accordance with the Pendleton Act.",
+    "zh": "我的政府将带回预算盈余时代，并将致力于联邦政府的专业化。我们将根据彭德尔顿法案继续逐步淘汰“政党分赃制”。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1355@8/description",
+      "1896_McKinley_Reed/answers_json/1355@4/description",
+      "1896_McKinley_Quay/answers_json/1355@9/description",
+      "1896_McKinley_Gage/answers_json/1355@9/description"
+    ]
+  },
+  {
+    "source": "I appreciate the faith of the American people and consult always with the Lord before I make my decisions. I will run a moderate, sensible agenda that appeals to the broad majority.",
+    "zh": "我欣赏美国人民的信仰，并在我做出决定之前始终咨询主。我将制定一个温和、合理的议程，以吸引大多数人。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1356@9/description",
+      "1896_McKinley_Reed/answers_json/1356@5/description",
+      "1896_McKinley_Quay/answers_json/1356@10/description",
+      "1896_McKinley_Gage/answers_json/1356@10/description"
+    ]
+  },
+  {
+    "source": "Labor agitators and agrarian radicals are threatening to overthrow our system of government. They have put forward a preposterous array of Constitutional Amendments and confiscatory welfare programs.",
+    "zh": "劳工煽动者和农业激进分子威胁要推翻我们的政府制度。他们提出了一系列荒谬的宪法修正案和没收福利计划。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1357@10/description",
+      "1896_McKinley_Reed/answers_json/1357@6/description",
+      "1896_McKinley_Quay/answers_json/1357@11/description",
+      "1896_McKinley_Gage/answers_json/1357@11/description"
+    ]
+  },
+  {
+    "source": "Democrats who believe in the gold standard are welcome in our party. We will increase tariffs, to be sure, but in a moderate way that addresses their concerns.",
+    "zh": "我们党欢迎相信金本位制的民主党人。当然，我们会提高关税，但会以温和的方式来解决他们的担忧。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1358@11/description",
+      "1896_McKinley_Reed/answers_json/1358@7/description",
+      "1896_McKinley_Quay/answers_json/1358@12/description",
+      "1896_McKinley_Gage/answers_json/1358@12/description"
+    ]
+  },
+  {
+    "source": "William Jennings Bryan makes an eloquent appeal to the heart. It's important for voters to realize that his solutions will not help our country.",
+    "zh": "威廉·詹宁斯·布赖恩雄辩地诉诸内心。选民必须认识到他的解决方案对我们的国家没有帮助，这一点很重要。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1359@12/description",
+      "1896_McKinley_Reed/answers_json/1359@8/description",
+      "1896_McKinley_Quay/answers_json/1359@13/description",
+      "1896_McKinley_Gage/answers_json/1359@13/description"
+    ]
+  },
+  {
+    "source": "Bryan's naked ambition knows no bounds. It is unbecoming of a candidate to make campaign appearances on his own behalf.",
+    "zh": "布赖恩赤裸裸的野心是没有界限的。候选人以自己的名义参加竞选活动是不合适的。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1360@13/description",
+      "1896_McKinley_Reed/answers_json/1360@9/description",
+      "1896_McKinley_Quay/answers_json/1360@14/description",
+      "1896_McKinley_Gage/answers_json/1360@14/description"
+    ]
+  },
+  {
+    "source": "There's no way I can compete with Bryan's oratorical talents. Instead, I will receive groups of visitors at my home in Canton, Ohio. We have the financing to pay for these visits, and anyone who shows up will receive a free sandwich while I deliver a speech.",
+    "zh": "我无法与布赖恩的演讲天赋竞争。相反，我将在我位于广州的家中接待成群的访客，俄亥俄州。我们有资金支付这些访问的费用，在我发表演讲时，任何到场的人都会收到一份免费三明治。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1361@14/description",
+      "1896_McKinley_Reed/answers_json/1361@10/description",
+      "1896_McKinley_Quay/answers_json/1361@15/description",
+      "1896_McKinley_Gage/answers_json/1361@15/description"
+    ]
+  },
+  {
+    "source": "I will return these checks. It is not appropriate for politics to be infused with this kind of money.",
+    "zh": "我将退还这些支票。向政治注入这种金钱是不合适的。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1363@15/description"
+    ]
+  },
+  {
+    "source": "We will print and mail campaign material in massive quantities. We will hire speakers to blanket the four corners of the nation. We will print ads every day in every major paper. Bryan cannot compete with us on money.",
+    "zh": "我们将大量印刷、邮寄竞选材料。我们将聘请演说者，走遍全国各地。我们每天都会在每一份主要报纸上刊登广告。在资金上，布赖恩根本无法与我们竞争。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1364@16/description"
+    ]
+  },
+  {
+    "source": "I can't attack Bryan like the papers can without losing some of my luster. Let them publish the defamatory cartoons and opinion pieces.",
+    "zh": "我无法像论文那样攻击布赖恩，同时又不会失去一些光彩。让他们发表诽谤性的漫画和观点文章。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1369@17/description",
+      "1896_McKinley_Reed/answers_json/1369@15/description",
+      "1896_McKinley_Quay/answers_json/1369@16/description",
+      "1896_McKinley_Gage/answers_json/1369@16/description"
+    ]
+  },
+  {
+    "source": "The big newspapers should remind the voters that I represent a return to prosperity after the Democratic disaster of the previous four years. They should be paying as little attention to Bryan as possible.",
+    "zh": "大报纸应该提醒选民，我代表着在过去四年的民主党灾难之后恢复繁荣。他们应该尽可能少地关注布赖恩。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1370@18/description",
+      "1896_McKinley_Reed/answers_json/1370@16/description",
+      "1896_McKinley_Quay/answers_json/1370@17/description",
+      "1896_McKinley_Gage/answers_json/1370@17/description"
+    ]
+  },
+  {
+    "source": "I'm not comfortable coordinating my message with the press. I trust that they will find the right way to present a contrast between me and my opponent.",
+    "zh": "我不太愿意与媒体协调我的信息。我相信他们会找到正确的方式来呈现我和我的对手之间的对比。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1371@19/description",
+      "1896_McKinley_Reed/answers_json/1371@17/description",
+      "1896_McKinley_Quay/answers_json/1371@18/description",
+      "1896_McKinley_Gage/answers_json/1371@18/description"
+    ]
+  },
+  {
+    "source": "Bryan would drive the important railroads of this region, such as Union Pacific, into bankruptcy by reneging on agreed-upon financing arrangements.",
+    "zh": "布赖恩将因违背商定的融资安排而导致该地区的重要铁路公司（例如联合太平洋铁路公司）破产。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1399@20/description",
+      "1896_McKinley_Reed/answers_json/1399@22/description",
+      "1896_McKinley_Quay/answers_json/1399@23/description",
+      "1896_McKinley_Gage/answers_json/1399@28/description"
+    ]
+  },
+  {
+    "source": "Bryan is the type of do-gooder politician who would attempt to impose his own morality on this independent region.",
+    "zh": "布赖恩是那种试图将自己的道德强加给这个独立地区的行善政治家。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1400@21/description",
+      "1896_McKinley_Reed/answers_json/1400@23/description",
+      "1896_McKinley_Quay/answers_json/1400@24/description",
+      "1896_McKinley_Gage/answers_json/1400@29/description"
+    ]
+  },
+  {
+    "source": "One of my highest priorities in office will be a canal through Nicaragua, which will greatly enhance our national trade. Democrats lack the ambition for such far-reaching projects.",
+    "zh": "我任职期间最优先考虑的事项之一是修建一条穿过尼加拉瓜的运河，这将极大地促进我们的国家贸易。民主党人缺乏实施此类影响深远的项目的雄心。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1401@22/description",
+      "1896_McKinley_Reed/answers_json/1401@24/description",
+      "1896_McKinley_Quay/answers_json/1401@25/description",
+      "1896_McKinley_Gage/answers_json/1401@30/description"
+    ]
+  },
+  {
+    "source": "Much of California's livelihood comes from gold mining. I reject any call to undermine gold through the free coinage of silver.",
+    "zh": "加利福尼亚州的大部分生计来自金矿开采。我拒绝任何通过自由铸造白银来破坏黄金的呼吁。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1402@23/description",
+      "1896_McKinley_Reed/answers_json/1402@25/description",
+      "1896_McKinley_Quay/answers_json/1402@26/description",
+      "1896_McKinley_Gage/answers_json/1402@31/description"
+    ]
+  },
+  {
+    "source": "There is a certain element of conservatism in the southern states. I don't think that their temperament aligns with that of Bryan. I will simply repeat the message that he is a radical.",
+    "zh": "南部各州存在一定的保守主义成分。我不认为他们的气质与布赖恩相符。我只想重复一下他是激进分子的信息。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1408@24/description",
+      "1896_McKinley_Reed/answers_json/1408@26/description",
+      "1896_McKinley_Quay/answers_json/1408@30/description",
+      "1896_McKinley_Gage/answers_json/1408@32/description"
+    ]
+  },
+  {
+    "source": "As a Civil War veteran, I am uniquely positioned to preach a message of sectional unity and Americanism. These states must know that we have allowed bygones to be bygones.",
+    "zh": "作为一名南北战争退伍军人，我具有独特的地位来宣扬部门团结和美国主义的信息。这些国家必须知道我们已经让过去的事情成为过去。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1409@25/description",
+      "1896_McKinley_Reed/answers_json/1409@27/description",
+      "1896_McKinley_Quay/answers_json/1409@31/description",
+      "1896_McKinley_Gage/answers_json/1409@33/description"
+    ]
+  },
+  {
+    "source": "There is a burgeoning textile industry in the Upper South. Their success depends on cheap cotton, protection, and an absence of destabilizing labor issues.",
+    "zh": "上南部纺织业蓬勃发展。它们的成功取决于廉价棉花、保护以及不存在破坏稳定的劳工问题。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1410@26/description",
+      "1896_McKinley_Reed/answers_json/1410@28/description",
+      "1896_McKinley_Quay/answers_json/1410@32/description",
+      "1896_McKinley_Gage/answers_json/1410@34/description"
+    ]
+  },
+  {
+    "source": "I will remind them that we support Cuban independence.",
+    "zh": "我会提醒他们，我们支持古巴独立。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1411@27/description",
+      "1896_McKinley_Reed/answers_json/1411@29/description",
+      "1896_McKinley_Quay/answers_json/1411@33/description",
+      "1896_McKinley_Gage/answers_json/1411@35/description"
+    ]
+  },
+  {
+    "source": "We are running a 45-state strategy. I want our victory and repudiation of the silver Democrats to be as large as possible.",
+    "zh": "我们正在实施 45 个州的战略。我希望我们的胜利和对白银民主党的否定尽可能大。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1415@28/description",
+      "1896_McKinley_Reed/answers_json/1415@30/description",
+      "1896_McKinley_Quay/answers_json/1415@34/description",
+      "1896_McKinley_Gage/answers_json/1415@36/description"
+    ]
+  },
+  {
+    "source": "That's not a good idea. Let's be realistic and devote our efforts to the states that matter.",
+    "zh": "这不是一个好主意。让我们现实一点，为重要的州奉献我们的努力。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1416@29/description",
+      "1896_McKinley_Reed/answers_json/1416@31/description",
+      "1896_McKinley_Quay/answers_json/1416@35/description",
+      "1896_McKinley_Gage/answers_json/1416@37/description"
+    ]
+  },
+  {
+    "source": "Our speakers should converge on Illinois from all directions. We need to blanket this state with advertising and with political parades.",
+    "zh": "我们的演讲者应该从各个方向汇聚到伊利诺伊州。我们需要用广告和政治游行来覆盖这个国家。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1455@30/description",
+      "1896_McKinley_Reed/answers_json/1455@32/description",
+      "1896_McKinley_Quay/answers_json/1455@48/description",
+      "1896_McKinley_Gage/answers_json/1455@43/description"
+    ]
+  },
+  {
+    "source": "Let's take the fight to Bryan. I want us to be campaigning the hardest in Missouri, Nebraska, Kansas, and Iowa. Our extra cash will ensure a landslide on election night.",
+    "zh": "让我们战斗到布赖恩。我希望我们在密苏里州、内布拉斯加州、堪萨斯州和艾奥瓦州中进行最努力的竞选活动。我们的额外现金将确保选举之夜获得压倒性胜利。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1456@31/description",
+      "1896_McKinley_Reed/answers_json/1456@33/description",
+      "1896_McKinley_Quay/answers_json/1456@49/description",
+      "1896_McKinley_Gage/answers_json/1456@44/description"
+    ]
+  },
+  {
+    "source": "Let's continue to focus on the Midwest. Ohio, Illinois, Indiana, Michigan, etc.",
+    "zh": "让我们继续关注中西部。俄亥俄州、伊利诺伊州、印第安纳州、密歇根州等",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1457@32/description",
+      "1896_McKinley_Reed/answers_json/1457@34/description",
+      "1896_McKinley_Quay/answers_json/1457@50/description",
+      "1896_McKinley_Gage/answers_json/1457@45/description"
+    ]
+  },
+  {
+    "source": "I want us to put all of our spare resources into Iowa and Minnesota.",
+    "zh": "我希望我们将所有的闲置资源投入到艾奥瓦州和明尼苏达州中。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1458@33/description",
+      "1896_McKinley_Reed/answers_json/1458@35/description",
+      "1896_McKinley_Quay/answers_json/1458@51/description",
+      "1896_McKinley_Gage/answers_json/1458@46/description"
+    ]
+  },
+  {
+    "source": "We need to shore up our base. Let's make sure we win in Pennsylvania and New York, where the stakes are highest.",
+    "zh": "我们需要巩固我们的基地。让我们确保我们在赌注最高的宾夕法尼亚州和纽约州中获胜。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1459@34/description",
+      "1896_McKinley_Reed/answers_json/1459@36/description",
+      "1896_McKinley_Quay/answers_json/1459@52/description",
+      "1896_McKinley_Gage/answers_json/1459@47/description"
+    ]
+  },
+  {
+    "source": "I support a strict adherence to the gold standard, which is fundamental to American prosperity.",
+    "zh": "我支持严格遵守金本位制，这是美国繁荣的基础。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1460@35/description",
+      "1896_McKinley_Reed/answers_json/1460@37/description",
+      "1896_McKinley_Quay/answers_json/1460@53/description",
+      "1896_McKinley_Gage/answers_json/1460@48/description",
+      "1896_Bryan_Sewall/answers_json/1460@31/description",
+      "1896_Bryan_Stevenson/answers_json/1460@31/description",
+      "1896_Bryan_Matthews/answers_json/1460@29/description",
+      "1896_Bryan_Boies/answers_json/1460@27/description",
+      "1896_Bryan_Teller/answers_json/1460@42/description"
+    ]
+  },
+  {
+    "source": "Limited silver coinage is a good compromise. I support a program like that of Bland-Allison where the government purchases around $2 million of silver each month.",
+    "zh": "有限的银币是一个很好的妥协。我支持像 Bland-Allison 这样的计划，政府每月购买大约 200 万美元的白银。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1461@36/description",
+      "1896_McKinley_Reed/answers_json/1461@38/description",
+      "1896_McKinley_Quay/answers_json/1461@54/description",
+      "1896_McKinley_Gage/answers_json/1461@49/description",
+      "1896_Bryan_Sewall/answers_json/1461@32/description",
+      "1896_Bryan_Stevenson/answers_json/1461@32/description",
+      "1896_Bryan_Matthews/answers_json/1461@30/description",
+      "1896_Bryan_Boies/answers_json/1461@28/description",
+      "1896_Bryan_Teller/answers_json/1461@43/description"
+    ]
+  },
+  {
+    "source": "I support the free, unlimited coinage of silver at the current market price of 30-to-1 against gold. This ratio should be frequently adjusted to match actual prices in order to avoid another run on the Treasury's gold supply.",
+    "zh": "我支持以当前市场价格与黄金 30 比 1 的比例免费、无限地铸造白银。应经常调整该比率以匹配实际价格，以避免财政部黄金供应再次出现挤兑。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1462@37/description",
+      "1896_McKinley_Reed/answers_json/1462@39/description",
+      "1896_McKinley_Quay/answers_json/1462@55/description",
+      "1896_McKinley_Gage/answers_json/1462@50/description",
+      "1896_Bryan_Sewall/answers_json/1462@33/description",
+      "1896_Bryan_Stevenson/answers_json/1462@33/description",
+      "1896_Bryan_Matthews/answers_json/1462@31/description",
+      "1896_Bryan_Boies/answers_json/1462@29/description",
+      "1896_Bryan_Teller/answers_json/1462@44/description"
+    ]
+  },
+  {
+    "source": "I support the free, unlimited coinage of silver at a fixed price ratio of 16-to-1 against gold.",
+    "zh": "我支持以与黄金 16 比 1 的固定价格比率免费、无限地铸造白银。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1463@38/description",
+      "1896_McKinley_Reed/answers_json/1463@40/description",
+      "1896_McKinley_Quay/answers_json/1463@56/description",
+      "1896_McKinley_Gage/answers_json/1463@51/description",
+      "1896_Bryan_Sewall/answers_json/1463@34/description",
+      "1896_Bryan_Stevenson/answers_json/1463@34/description",
+      "1896_Bryan_Matthews/answers_json/1463@32/description",
+      "1896_Bryan_Boies/answers_json/1463@30/description",
+      "1896_Bryan_Teller/answers_json/1463@45/description"
+    ]
+  },
+  {
+    "source": "Tariffs should be limited to the minimum amount necessary to raise sufficient revenue for the federal government.",
+    "zh": "关税应限制在为联邦政府筹集足够收入所需的最低金额。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1464@39/description",
+      "1896_McKinley_Reed/answers_json/1464@41/description",
+      "1896_McKinley_Quay/answers_json/1464@57/description",
+      "1896_McKinley_Gage/answers_json/1464@52/description",
+      "1896_Bryan_Sewall/answers_json/1464@35/description",
+      "1896_Bryan_Stevenson/answers_json/1464@35/description",
+      "1896_Bryan_Matthews/answers_json/1464@33/description",
+      "1896_Bryan_Boies/answers_json/1464@31/description",
+      "1896_Bryan_Teller/answers_json/1464@46/description"
+    ]
+  },
+  {
+    "source": "In limited areas where we have new industries forming, tariffs can be higher. They should be low on most products.",
+    "zh": "在新产业形成的有限地区，关税可能会更高。大多数产品的价格应该很低。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1465@40/description",
+      "1896_McKinley_Reed/answers_json/1465@42/description",
+      "1896_McKinley_Quay/answers_json/1465@58/description",
+      "1896_McKinley_Gage/answers_json/1465@53/description",
+      "1896_Bryan_Sewall/answers_json/1465@36/description",
+      "1896_Bryan_Stevenson/answers_json/1465@36/description",
+      "1896_Bryan_Matthews/answers_json/1465@34/description",
+      "1896_Bryan_Boies/answers_json/1465@32/description",
+      "1896_Bryan_Teller/answers_json/1465@47/description"
+    ]
+  },
+  {
+    "source": "Where we have mature, stable industries, tariffs can be lower. They should be high on most products.",
+    "zh": "我们有成熟、稳定的产业，关税可以更低。大多数产品的含量都应该很高。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1466@41/description",
+      "1896_McKinley_Reed/answers_json/1466@43/description",
+      "1896_McKinley_Quay/answers_json/1466@59/description",
+      "1896_McKinley_Gage/answers_json/1466@54/description",
+      "1896_Bryan_Sewall/answers_json/1466@37/description",
+      "1896_Bryan_Stevenson/answers_json/1466@37/description",
+      "1896_Bryan_Matthews/answers_json/1466@35/description",
+      "1896_Bryan_Boies/answers_json/1466@33/description",
+      "1896_Bryan_Teller/answers_json/1466@48/description"
+    ]
+  },
+  {
+    "source": "We need high tariffs on a variety of products and commodities to stimulate American manufacturing.",
+    "zh": "我们需要对各种产品和商品征收高关税来刺激美国制造业。",
+    "keys": [
+      "1896_McKinley_Hobart/answers_json/1467@42/description",
+      "1896_McKinley_Reed/answers_json/1467@44/description",
+      "1896_McKinley_Quay/answers_json/1467@60/description",
+      "1896_McKinley_Gage/answers_json/1467@55/description",
+      "1896_Bryan_Sewall/answers_json/1467@38/description",
+      "1896_Bryan_Stevenson/answers_json/1467@38/description",
+      "1896_Bryan_Matthews/answers_json/1467@36/description",
+      "1896_Bryan_Boies/answers_json/1467@34/description",
+      "1896_Bryan_Teller/answers_json/1467@49/description"
+    ]
+  }
+]

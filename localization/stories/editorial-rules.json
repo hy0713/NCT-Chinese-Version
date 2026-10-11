@@ -1,0 +1,12 @@
+[
+  {"source": "\\btickets?\\b", "except": "tickets?\\s+to\\s", "replacements": {"门票": "竞选组合"}, "reason": "总统竞选搭档组合，与入场票区分"},
+  {"source": "\\braces?\\b", "except": "space race|race relations|race riots|horse|NASCAR|Olympic", "replacements": {"比赛": "竞选"}, "reason": "选举竞争的语境"},
+  {"source": "\\bplatforms?\\b", "except": "social|digital|online|advertising|speaking|stage|wood", "replacements": {"平台": "政治纲领"}, "reason": "政党纲领的语境"},
+  {"source": "running[- ]mates?", "replacements": {"竞选伙伴": "竞选搭档", "竞选搭档伙伴": "竞选搭档"}, "reason": "统一 Running Mate 术语"},
+  {"source": "decriminaliz", "except": "legaliz", "replacements": {"合法化": "去刑罪化"}, "reason": "不将去除刑事处罚误译为全面合法化"},
+  {"source": "libertarian", "except": "liberal", "replacements": {"自由主义者": "自由意志主义者", "自由主义党": "自由意志党"}, "reason": "区分自由意志主义与自由派"},
+  {"source": "\\bstump", "except": "tree|forest", "replacements": {"树桩演讲": "竞选演说", "树桩演说": "竞选演说"}, "reason": "stump speech 是巡回竞选演说"},
+  {"source": "\\bsurrogates?\\b", "except": "mother|pregnan", "replacements": {"代孕者": "助选代理人", "代孕人": "助选代理人", "代孕": "助选代理人"}, "reason": "竞选助选人语境"},
+  {"source": "\\bplanks?\\b", "except": "wood", "replacements": {"木板": "政纲条款"}, "reason": "政纲组成部分"},
+  {"source": "\\bunderdogs?\\b", "replacements": {"严重的失败者": "极不被看好的候选人", "重度失败者": "极不被看好的候选人"}, "reason": "赛前劣势不代表已经败选"}
+]

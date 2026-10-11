@@ -1,0 +1,31 @@
+/* Retain the upstream geometry, colours and controls. Accommodate Chinese glyphs. */
+.base { font-family: Arial, "Microsoft YaHei", "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+button, select, input { font-family: inherit; }
+button { white-space: normal; line-height: 1.25; overflow-wrap: break-word; }
+select { max-width: 100%; }
+#language-controls { width: 100%; text-align: right; margin: 4px 0; }
+#language-toggle { padding: 5px 14px; min-width: 95px; }
+.overlay_window { max-height: 85vh; overflow-y: auto; }
+.overlay_window_content { height: auto; min-height: 140px; }
+#map_footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 4px; }
+#map_footer button.final_menu_button { margin: 2px; height: auto; min-height: 32px; }
+#overall_details_container, #results_container { overflow-x: auto; }
+#inner_window_1 li { line-height: 1.5; }
+#inner_window_1 h3 { margin-top: 35px; }
+#dialogue, .ui-dialog { font-family: Arial, "Microsoft YaHei", sans-serif; }
+.bottom-right-text:after { content: none !important; }
+.bottom-right-text { position: absolute; bottom: .8em; right: 1em; font-style: italic; }
+.nct-story { display: contents; }
+.nct-note-trigger { font: inherit; font-size: 12px; padding: 1px 5px; margin: 1px 2px; color: #514226; background: #f2ecd9; border: 1px solid #978969; border-radius: 2px; cursor: pointer; white-space: nowrap; vertical-align: baseline; }
+.nct-note-trigger:focus-visible { outline: 2px solid #395e97; outline-offset: 2px; }
+/* Upstream shrinks/bolds labels on hover, moving a note button away from the
+   pointer. Keep geometry stable only for labels that contain a note control. */
+#question_form label:has(.nct-note-trigger):hover { font-size: inherit; font-weight: inherit; }
+.nct-note-panel { position: fixed; z-index: 100000; box-sizing: border-box; max-height: calc(100vh - 24px); overflow: auto; padding: 12px 16px; color: #222; background: #f5f0df; border: 2px solid #76664b; box-shadow: 0 4px 15px #0005; font: 14px/1.65 "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; text-align: left; }
+.nct-note-panel h4 { margin: 3px 55px 4px 0; font-size: 16px; }
+.nct-note-panel p { margin: 9px 0; }
+.nct-note-panel small { color: #625a4c; }
+.nct-note-panel section + section { border-top: 1px solid #baad93; margin-top: 14px; padding-top: 10px; }
+.nct-note-panel ul { margin: 8px 0 12px; padding-left: 20px; }
+.nct-note-panel a { color: #234d80; overflow-wrap: anywhere; }
+.nct-note-close { float: right; font: inherit; cursor: pointer; padding: 1px 7px; }

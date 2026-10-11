@@ -1,0 +1,1071 @@
+{
+  "checkedAt": "2026-10-10",
+  "batch": "2016-a",
+  "uniqueSourcesReviewed": 60,
+  "recordPositions": 416,
+  "method": "Full-field editorial translation with era-specific historical research; not an independent scholarly certification.",
+  "sourceExceptions": [
+    {
+      "index": 1,
+      "reason": "Original in uncertain read as is uncertain; bully pulpit translated as presidential public platform, not bullying."
+    },
+    {
+      "index": 4,
+      "reason": "World is your oyster means many opportunities; running for politics contextual seeking office, no invented office."
+    },
+    {
+      "index": 19,
+      "reason": "They making gains interpreted Republicans from contrast Democrats midterms; original pronoun unchanged."
+    },
+    {
+      "index": 25,
+      "reason": "Original assertion Bill and Hillary never above50 popular vote retained, not extrapolated to primary contests."
+    },
+    {
+      "index": 26,
+      "reason": "Former running mate ending retained without modifying conditional Sarah Palin relationship."
+    },
+    {
+      "index": 30,
+      "reason": "Original50 deaths retained; actual49 victims plus gunman distinction requires sourced note, not numeric rewrite."
+    },
+    {
+      "index": 34,
+      "reason": "Original almost100 deaths retained; event date and changing contemporary casualty count to verify separately."
+    },
+    {
+      "index": 35,
+      "reason": "Pence Rule media timing and dinner rule scope to verify; do not extend to all contact with women."
+    },
+    {
+      "index": 40,
+      "reason": "Vulgar original sexual statement and allegations retained; not rewritten as judicial conviction."
+    },
+    {
+      "index": 41,
+      "reason": "Original leaked transcript claim retained; separate debate question leaks from DNC primary coordination, requires note."
+    },
+    {
+      "index": 56,
+      "reason": "Original last right contextual typo last night; English unchanged."
+    }
+  ],
+  "revisions": [
+    {
+      "index": 0,
+      "source": "<p>Donald Trump and Hillary Clinton face off in the 2016 election. While he is well-known among the American public, Trump has never served in elected office. Clinton has served as First Lady, Senator, and Secretary of State. Clinton was the presumptive nominee from start to finish, while Trump has shocked the political world.</p><p>How will their campaign play out? Can Trump pull off an upset? Can Clinton continue the legacy of Obama?</p>",
+      "sha256": "79d64b79fa46332e1d2fa8cd00fc924fcaf2d4a62fee1ddc7f6dfe24b1f74607",
+      "zh": "<p>唐纳德·特朗普与希拉里·克林顿在2016年大选中正面对决。特朗普在美国公众中知名度很高，却从未担任过民选公职。克林顿则曾任第一夫人、参议员和国务卿。从头到尾，克林顿一直被视为最有希望获得提名的人选，而特朗普的崛起震动了整个政坛。</p><p>两人的竞选会如何展开？特朗普能否爆冷获胜？克林顿能否延续奥巴马的政治遗产？</p>",
+      "keys": [
+        "base/election_json/20@1/summary"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 1,
+      "source": "<h3>Congratulations! You have won the 2016 election.</h3><p>In spite of a hard-fought challenge from Hillary Clinton, you have shocked the world with your election victory.</p><p>On the political front, you have the bully pulpit in your favor, but support in Congress in uncertain. Will you govern as a more traditional conservative, or will you make a break from orthodoxy?</p>",
+      "sha256": "a133ab6794defe985e7d3d5a97a2dcd9a18a58d292517bc0f14f654d39af3079",
+      "zh": "<h3>恭喜！你赢得了2016年大选。</h3><p>尽管希拉里·克林顿奋力挑战，你仍赢得了选举，令世界震惊。</p><p>在政治上，你掌握了总统这一强大的发声平台，但国会是否支持你仍不确定。你会按较传统的保守派路线执政，还是打破既有正统？</p>",
+      "keys": [
+        "base/candidate_json/200@159/electoral_victory_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 2,
+      "source": "<h3>Sorry! You have lost the 2016 election.</h3><p>Many of your supporters are despondent that you have faltered to the likes of Hillary Clinton. Republicans in general believe this was a very winnable election, and are enraged that you came in to blow it. Luckily, there are any number of ways for you to take advantage of your newfound exposure. One rumor even has you founding a television station to profit from the aggrieved sensibilities of your followers. The future is in your hands.</p>",
+      "sha256": "d840fa43456873595383c6d0e62ef23c39f55f8abd604190bb5bc5a9552536be",
+      "zh": "<h3>很遗憾！你输掉了2016年大选。</h3><p>许多支持者因你败给希拉里·克林顿这样的人而沮丧。共和党人普遍认为，这场选举本来大有胜算，却被你搞砸了，因而怒不可遏。好在，你可以用各种方式利用自己新获得的关注。甚至有传闻说，你将创办一家电视台，从追随者的愤懑情绪中获利。未来掌握在你手中。</p>",
+      "keys": [
+        "base/candidate_json/200@159/electoral_loss_message"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 3,
+      "source": " Sorry, you lost the 2016 election",
+      "sha256": "610e14aa38ee36bb8bfa631845b00ac3016cad6cebc35df92c170cff1eea490d",
+      "zh": " 很遗憾，你输掉了2016年大选",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l38.c31/text",
+        "2016_Trump_Christie/ending/s0.l38.c31/text",
+        "2016_Trump_Sessions/ending/s0.l38.c31/text",
+        "2016_Trump_Carson/ending/s0.l38.c31/text",
+        "2016_Trump_Palin/ending/s0.l38.c31/text",
+        "2016_Clinton_Kaine/ending/s0.l38.c31/text",
+        "2016_Clinton_Booker/ending/s0.l38.c31/text",
+        "2016_Clinton_Brown/ending/s0.l38.c31/text",
+        "2016_Clinton_Sanders/ending/s0.l38.c31/text",
+        "2016_Clinton_Warren/ending/s0.l38.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 4,
+      "source": " Where you go from here is up to you. If you are still interested in holding office, you can run for a Senate position or perhaps a governorship. Maybe you can run for president again in 4 years? You could also go the other way and abandon running for politics, maybe taking up a job offer at a TV station. The world is your oyster.",
+      "sha256": "de374ec84927f4fbf46639c0d2e43a8e6fcf454aec62df98962716e26acc7780",
+      "zh": " 接下来何去何从，由你自己决定。如果你仍想担任公职，可以竞选参议员，或是州长。也许四年后再竞选一次总统？你也可以走另一条路，放弃参政竞选，或许接受电视台的工作邀约。未来有无限可能。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l39.c37/text",
+        "2016_Trump_Christie/ending/s0.l39.c37/text",
+        "2016_Trump_Sessions/ending/s0.l39.c37/text",
+        "2016_Trump_Carson/ending/s0.l39.c37/text",
+        "2016_Trump_Palin/ending/s0.l39.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l39.c37/text",
+        "2016_Clinton_Booker/ending/s0.l39.c37/text",
+        "2016_Clinton_Brown/ending/s0.l39.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l39.c37/text",
+        "2016_Clinton_Warren/ending/s0.l39.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 5,
+      "source": "This was the expected outcome, as it seemed your new brand of politics just didn't sit well with the American public. Obama's legacy will be continued by Clinton through fighting climate change, trying to add a public option to Obamacare, and continuing with his economic prosperity. At least it was fairly close, it could have been much worse. Establishment Republicans are angry at you for losing, swatting aside many of their candidates only to lose to the likes of Clinton.",
+      "sha256": "ceb96cde75c4bedfa4fcd3089979d3a2876611d407f1c6ef96d6309f08b69713",
+      "zh": "这个结果在意料之中：看来你的新式政治路线并不合美国公众的胃口。克林顿将延续奥巴马的政治遗产，应对气候变化，尝试为奥巴马医改增加公共医保选项，并继续维持他任内的经济繁荣。至少票数还算接近，本来可能输得更惨。建制派共和党人对你的失败很愤怒：你把他们的诸多候选人扫到一旁，结果却败给克林顿这样的人。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l41.c40/text",
+        "2016_Trump_Christie/ending/s0.l41.c40/text",
+        "2016_Trump_Sessions/ending/s0.l41.c40/text",
+        "2016_Trump_Carson/ending/s0.l41.c40/text",
+        "2016_Trump_Palin/ending/s0.l41.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l41.c40/text",
+        "2016_Clinton_Booker/ending/s0.l41.c40/text",
+        "2016_Clinton_Brown/ending/s0.l41.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l41.c40/text",
+        "2016_Clinton_Warren/ending/s0.l41.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 6,
+      "source": "This was the expected outcome, as it seemed your new brand of politics just didn't sit well with the American public. Obama's legacy will be continued by Clinton through fighting climate change, trying to add a public option to Obamacare, and continuing with his economic prosperity, as well as possibly regaining both chambers of congress. Establishment Republicans are incredibly angry that you lost, thinking that 8 years of Obama was their chance to come back to the White House, only for you to come in and stop that. ",
+      "sha256": "e14c4c30d88dec2afff68087ea2d641e19ec3ef46eac95b3061df2a30b14c5b0",
+      "zh": "这个结果在意料之中：看来你的新式政治路线并不合美国公众的胃口。克林顿将延续奥巴马的政治遗产，应对气候变化，尝试为奥巴马医改增加公共医保选项，并继续维持他任内的经济繁荣，民主党甚至可能夺回国会两院。建制派共和党人对你的失败极为愤怒：他们认为，经历奥巴马执政的八年后，这次正是重返白宫的机会，却被你给葬送了。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l43.c40/text",
+        "2016_Trump_Christie/ending/s0.l43.c40/text",
+        "2016_Trump_Sessions/ending/s0.l43.c40/text",
+        "2016_Trump_Carson/ending/s0.l43.c40/text",
+        "2016_Trump_Palin/ending/s0.l43.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l43.c40/text",
+        "2016_Clinton_Booker/ending/s0.l43.c40/text",
+        "2016_Clinton_Brown/ending/s0.l43.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l43.c40/text",
+        "2016_Clinton_Warren/ending/s0.l43.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 7,
+      "source": "This was the expected outcome, as it seemed your new brand of politics really didn't sit well with the American public. Obama's legacy will be continued by Clinton through fighting climate change, trying to add a public option to Obamacare, and continuing with his economic prosperity. With their margin of victory, you can assume that Republicans will not be able to stop much of it. Your entire party is incredibly angry about how you threw away a very winnable election, dooming them for the next few years",
+      "sha256": "5700f568efdbe1be267541d6549361f48fd48a327543fad947a2f1caa461176e",
+      "zh": "这个结果在意料之中：看来你的新式政治路线确实很不合美国公众的胃口。克林顿将延续奥巴马的政治遗产，应对气候变化，尝试为奥巴马医改增加公共医保选项，并继续维持他任内的经济繁荣。鉴于民主党的胜选优势，你可以预料，共和党人很难阻止其中多少议程。全党都因你白白丢掉一场大有胜算的选举而怒不可遏，未来几年他们都得为此受苦。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l45.c40/text",
+        "2016_Trump_Christie/ending/s0.l45.c40/text",
+        "2016_Trump_Sessions/ending/s0.l45.c40/text",
+        "2016_Trump_Carson/ending/s0.l45.c40/text",
+        "2016_Trump_Palin/ending/s0.l45.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l45.c40/text",
+        "2016_Clinton_Booker/ending/s0.l45.c40/text",
+        "2016_Clinton_Brown/ending/s0.l45.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l45.c40/text",
+        "2016_Clinton_Warren/ending/s0.l45.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 8,
+      "source": "However, in one of the most bizzarre situations that could have unfolded this election, you actually WON the popular vote, despite losing the election! Maybe their will be bipartisan support for removal of the electoral college now...",
+      "sha256": "2b99ec03120f9ff729179c1228c125cd7927eea438f8e4172d97f197a58922d2",
+      "zh": "然而，这场选举竟出现了一个极其离奇的局面：尽管输掉选举，你却赢得了普选票！也许现在两党都能支持废除选举人团了……",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l48.c37/text",
+        "2016_Trump_Christie/ending/s0.l48.c37/text",
+        "2016_Trump_Sessions/ending/s0.l48.c37/text",
+        "2016_Trump_Carson/ending/s0.l48.c37/text",
+        "2016_Trump_Palin/ending/s0.l48.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l48.c37/text",
+        "2016_Clinton_Booker/ending/s0.l48.c37/text",
+        "2016_Clinton_Brown/ending/s0.l48.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l48.c37/text",
+        "2016_Clinton_Warren/ending/s0.l48.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 9,
+      "source": "Congratulations! You won the 2016 election",
+      "sha256": "9914329e790ff959afd492482b29deeb1355d65bdb5f27f3bf81b1b914ff6b79",
+      "zh": "恭喜！你赢得了2016年大选",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l51.c31/text",
+        "2016_Trump_Pence/ending/s0.l80.c31/text",
+        "2016_Trump_Christie/ending/s0.l51.c31/text",
+        "2016_Trump_Christie/ending/s0.l80.c31/text",
+        "2016_Trump_Sessions/ending/s0.l51.c31/text",
+        "2016_Trump_Sessions/ending/s0.l80.c31/text",
+        "2016_Trump_Carson/ending/s0.l51.c31/text",
+        "2016_Trump_Carson/ending/s0.l80.c31/text",
+        "2016_Trump_Palin/ending/s0.l51.c31/text",
+        "2016_Trump_Palin/ending/s0.l80.c31/text",
+        "2016_Clinton_Kaine/ending/s0.l51.c31/text",
+        "2016_Clinton_Kaine/ending/s0.l80.c31/text",
+        "2016_Clinton_Booker/ending/s0.l51.c31/text",
+        "2016_Clinton_Booker/ending/s0.l80.c31/text",
+        "2016_Clinton_Brown/ending/s0.l51.c31/text",
+        "2016_Clinton_Brown/ending/s0.l80.c31/text",
+        "2016_Clinton_Sanders/ending/s0.l51.c31/text",
+        "2016_Clinton_Sanders/ending/s0.l80.c31/text",
+        "2016_Clinton_Warren/ending/s0.l51.c31/text",
+        "2016_Clinton_Warren/ending/s0.l80.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 10,
+      "source": "It's now up to you what you do as president. Maybe you go full-on populist, as you did in the campaign, or appeal to the establishment with some more orthodox Republican policy. Either way, you will be making history by this win.",
+      "sha256": "3b6a69cee8837786464eb6f48e012933c590d3527847c06375849489ff96af2f",
+      "zh": "接下来如何担任总统，就由你决定了。你也许会像竞选时那样，彻底走民粹主义路线；也许会采用更符合共和党正统的政策，争取建制派。不论如何，这场胜利都会让你载入史册。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l52.c37/text",
+        "2016_Trump_Christie/ending/s0.l52.c37/text",
+        "2016_Trump_Sessions/ending/s0.l52.c37/text",
+        "2016_Trump_Carson/ending/s0.l52.c37/text",
+        "2016_Trump_Palin/ending/s0.l52.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l52.c37/text",
+        "2016_Clinton_Booker/ending/s0.l52.c37/text",
+        "2016_Clinton_Brown/ending/s0.l52.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l52.c37/text",
+        "2016_Clinton_Warren/ending/s0.l52.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 11,
+      "source": "Wow! You outperformed nearly every expectation out there, and have taken the US political landscape by storm. Clinton calls to concede and congratulate you, and the Senate and House majorities grow to healthy proportions in the wake of your victory. You give a victory speech to a roaring crowd of thousands in New York City, while the rest of the world is silent with shock.",
+      "sha256": "eaae18678a6bc92bf07e5a912ef8c2a7e2bc7555137dd79507c20c5cc371826f",
+      "zh": "哇！你的表现超出了几乎所有人的预期，席卷了美国政坛。克林顿打来电话认输，并向你祝贺。随着你的胜利，共和党在参众两院的多数席位也扩大到了稳固的规模。你在纽约市向欢呼的数千名观众发表胜选演说，世界其他地方则因震惊而陷入沉默。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l54.c40/text",
+        "2016_Trump_Christie/ending/s0.l54.c40/text",
+        "2016_Trump_Sessions/ending/s0.l54.c40/text",
+        "2016_Trump_Carson/ending/s0.l54.c40/text",
+        "2016_Trump_Palin/ending/s0.l54.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l54.c40/text",
+        "2016_Clinton_Booker/ending/s0.l54.c40/text",
+        "2016_Clinton_Brown/ending/s0.l54.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l54.c40/text",
+        "2016_Clinton_Warren/ending/s0.l54.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 12,
+      "source": "Wow! You outperformed the expectations of many, and have taken the US political landscape by storm. Clinton calls to concede and congratulate you, and the Senate and House remain relatively stable. You give a victory speech to a roaring crowd of thousands in New York City, while the rest of the world tries to figure out what happened.",
+      "sha256": "730283efd660992cd7c03c1a5cd75170a4f71c2522ea5fe2347d5f62f6d60062",
+      "zh": "哇！你的表现超出了许多人的预期，席卷了美国政坛。克林顿打来电话认输，并向你祝贺。参众两院的席位格局则相对稳定。你在纽约市向欢呼的数千名观众发表胜选演说，世界其他地方仍在琢磨究竟发生了什么。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l56.c40/text",
+        "2016_Trump_Christie/ending/s0.l56.c40/text",
+        "2016_Trump_Sessions/ending/s0.l56.c40/text",
+        "2016_Trump_Carson/ending/s0.l56.c40/text",
+        "2016_Trump_Palin/ending/s0.l56.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l56.c40/text",
+        "2016_Clinton_Booker/ending/s0.l56.c40/text",
+        "2016_Clinton_Brown/ending/s0.l56.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l56.c40/text",
+        "2016_Clinton_Warren/ending/s0.l56.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 13,
+      "source": "Wow! You outperformed most polls, and have taken the US political landscape by storm. Clinton calls to concede and congratulate you, and the Senate and House stay in the Republicans' hands. You give a victory speech to a roaring crowd of thousands in New York City, while the Democrats give a muffled congratulations.",
+      "sha256": "ef6eacf68f4c2f59947d8a1cb74cd03bad3335e0038cc7f95bbbdd7804d76483",
+      "zh": "哇！你的表现超出了大多数民调的预期，席卷了美国政坛。克林顿打来电话认输，并向你祝贺。参众两院仍由共和党掌控。你在纽约市向欢呼的数千名观众发表胜选演说，民主党人则低声表达祝贺。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l58.c40/text",
+        "2016_Trump_Christie/ending/s0.l58.c40/text",
+        "2016_Trump_Sessions/ending/s0.l58.c40/text",
+        "2016_Trump_Carson/ending/s0.l58.c40/text",
+        "2016_Trump_Palin/ending/s0.l58.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l58.c40/text",
+        "2016_Clinton_Booker/ending/s0.l58.c40/text",
+        "2016_Clinton_Brown/ending/s0.l58.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l58.c40/text",
+        "2016_Clinton_Warren/ending/s0.l58.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 14,
+      "source": " In yet another situation that is sure to anger Democrats, you have lost the popular vote, despite winning the election. You can bet the electoral college is going to be discussed a lot over the next 4 years, but you're not going to let anything happen to it, will you?",
+      "sha256": "3864d5ccfcd765f53ce0398b9df8230b5bae9a0db65a1293171806ec78020cc4",
+      "zh": " 又出现了一个必定让民主党人恼火的局面：尽管赢得选举，你却输掉了普选票。你可以肯定，未来四年选举人团会受到广泛讨论。不过，你不会让它被改动的，对吧？",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l61.c37/text",
+        "2016_Trump_Christie/ending/s0.l61.c37/text",
+        "2016_Trump_Sessions/ending/s0.l61.c37/text",
+        "2016_Trump_Carson/ending/s0.l61.c37/text",
+        "2016_Trump_Palin/ending/s0.l61.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l61.c37/text",
+        "2016_Clinton_Booker/ending/s0.l61.c37/text",
+        "2016_Clinton_Brown/ending/s0.l61.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l61.c37/text",
+        "2016_Clinton_Warren/ending/s0.l61.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 15,
+      "source": "Sorry, you lose the 2016 election",
+      "sha256": "c8d856336c632f31db9835d61c79d7f7865e0f6aba3888e5e02338205c85dd6d",
+      "zh": "很遗憾，你输掉了2016年大选",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l67.c31/text",
+        "2016_Trump_Christie/ending/s0.l67.c31/text",
+        "2016_Trump_Sessions/ending/s0.l67.c31/text",
+        "2016_Trump_Carson/ending/s0.l67.c31/text",
+        "2016_Trump_Palin/ending/s0.l67.c31/text",
+        "2016_Clinton_Kaine/ending/s0.l67.c31/text",
+        "2016_Clinton_Booker/ending/s0.l67.c31/text",
+        "2016_Clinton_Brown/ending/s0.l67.c31/text",
+        "2016_Clinton_Sanders/ending/s0.l67.c31/text",
+        "2016_Clinton_Warren/ending/s0.l67.c31/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 16,
+      "source": "For you, it seems your political career is over. Bernie Sanders's supporters are angered that you cast their candidate aside, only to lose to a populist like Trump. Whatever happens, your legacy as a politician will be most certainly historical",
+      "sha256": "6951ff457f6a7de07d7b9d01532668102495412f9627e95dc47ce7f465bf7f11",
+      "zh": "对你而言，政治生涯似乎已经结束。伯尼·桑德斯的支持者愤怒不已：你排挤了他们的候选人，最后却输给了特朗普这样的民粹主义者。不论此后发生什么，你作为政治人物留下的遗产都必将载入历史。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l68.c37/text",
+        "2016_Trump_Christie/ending/s0.l68.c37/text",
+        "2016_Trump_Sessions/ending/s0.l68.c37/text",
+        "2016_Trump_Carson/ending/s0.l68.c37/text",
+        "2016_Trump_Palin/ending/s0.l68.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l68.c37/text",
+        "2016_Clinton_Booker/ending/s0.l68.c37/text",
+        "2016_Clinton_Brown/ending/s0.l68.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l68.c37/text",
+        "2016_Clinton_Warren/ending/s0.l68.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 17,
+      "source": "Despite the seemingly endless confidence everyone around the world had in you winning, you just weren't able to pull through. It seems the endless barrage of right-wing attacks was just too much for you to handle. Time will tell what Trump does in office, although with gains in both chambers for Democrats, he will certainly have to tone down some of his promises.",
+      "sha256": "2e32238d2051a020b973807db490dc5405665a284419bd2aa918385a806095e2",
+      "zh": "尽管世界各地的人似乎都坚信你会获胜，你还是没能坚持到最后。看来右翼无休止的攻击实在让你难以招架。时间会告诉我们特朗普执政后会做什么。不过，民主党在两院都有斩获，他肯定得收敛一些竞选承诺。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l70.c40/text",
+        "2016_Trump_Christie/ending/s0.l70.c40/text",
+        "2016_Trump_Sessions/ending/s0.l70.c40/text",
+        "2016_Trump_Carson/ending/s0.l70.c40/text",
+        "2016_Trump_Palin/ending/s0.l70.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l70.c40/text",
+        "2016_Clinton_Booker/ending/s0.l70.c40/text",
+        "2016_Clinton_Brown/ending/s0.l70.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l70.c40/text",
+        "2016_Clinton_Warren/ending/s0.l70.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 18,
+      "source": "Despite the seemingly endless confidence everyone around the world had in you winning, you just weren't able to pull through. It seems the endless barrage of right-wing attacks was just too much for you to handle. Time will tell what Trump does in office, although with similar margins in the House and Senate to 2014, he will have not too much resistance.",
+      "sha256": "ead592c6039dfcaf2f8d5cc1ae0492fcb036540531d0d6fdcd74b34ff6bb7908",
+      "zh": "尽管世界各地的人似乎都坚信你会获胜，你还是没能坚持到最后。看来右翼无休止的攻击实在让你难以招架。时间会告诉我们特朗普执政后会做什么。不过，参众两院的席位差距与2014年相近，他不会遇到太多阻力。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l72.c40/text",
+        "2016_Trump_Christie/ending/s0.l72.c40/text",
+        "2016_Trump_Sessions/ending/s0.l72.c40/text",
+        "2016_Trump_Carson/ending/s0.l72.c40/text",
+        "2016_Trump_Palin/ending/s0.l72.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l72.c40/text",
+        "2016_Clinton_Booker/ending/s0.l72.c40/text",
+        "2016_Clinton_Brown/ending/s0.l72.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l72.c40/text",
+        "2016_Clinton_Warren/ending/s0.l72.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 19,
+      "source": "Despite the seemingly endless confidence everyone around the world had in you winning, you just weren't able to pull through. It seems the endless barrage of right-wing attacks was just too much for you to handle. Time will tell what Trump does in office, although with the gains they make in each chamber, the only respite the Democrats will have is the midterms.",
+      "sha256": "7a9f84b72c104ade84ddc1bbd377341981b708f2b84f276eaf1e62485692240c",
+      "zh": "尽管世界各地的人似乎都坚信你会获胜，你还是没能坚持到最后。看来右翼无休止的攻击实在让你难以招架。时间会告诉我们特朗普执政后会做什么。不过，共和党在两院都扩大了优势，民主党唯一能指望喘口气的机会就是中期选举。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l74.c40/text",
+        "2016_Trump_Christie/ending/s0.l74.c40/text",
+        "2016_Trump_Sessions/ending/s0.l74.c40/text",
+        "2016_Trump_Carson/ending/s0.l74.c40/text",
+        "2016_Trump_Palin/ending/s0.l74.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l74.c40/text",
+        "2016_Clinton_Booker/ending/s0.l74.c40/text",
+        "2016_Clinton_Brown/ending/s0.l74.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l74.c40/text",
+        "2016_Clinton_Warren/ending/s0.l74.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 20,
+      "source": "Possibly most agonizing of all is the fact that you won the popular vote despite losing the election. You and your fellow Democrats are sure to be discussing the electoral college again for a while, but don't expect a Trump presidency to do anything about it...",
+      "sha256": "1f61f310f2be33afd75784cd402653000fb4d55d9229aa24acfd0ee7c30bc093",
+      "zh": "也许最令人痛苦的是，你明明赢得了普选票，却输掉了选举。你和民主党同僚肯定又会讨论选举人团一阵子，但别指望特朗普执政后会对此采取什么行动……",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l77.c37/text",
+        "2016_Trump_Christie/ending/s0.l77.c37/text",
+        "2016_Trump_Sessions/ending/s0.l77.c37/text",
+        "2016_Trump_Carson/ending/s0.l77.c37/text",
+        "2016_Trump_Palin/ending/s0.l77.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l77.c37/text",
+        "2016_Clinton_Booker/ending/s0.l77.c37/text",
+        "2016_Clinton_Brown/ending/s0.l77.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l77.c37/text",
+        "2016_Clinton_Warren/ending/s0.l77.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 21,
+      "source": "The options you have for policy are quite open. Will you extend an olive branch to the Sanders supporters and pivot left, or will you stick to your centrist views and be a bipartisan president? Either way, you'll be very polarizing, so let’s hope you can calm down America after this campaign season.",
+      "sha256": "281c748799e58eaafe03a8f03322c55b8a1be0fdd77c686044aa6e45f991e783",
+      "zh": "你在政策上有相当大的选择空间。你会向桑德斯的支持者伸出橄榄枝，转向左翼，还是坚持自己的中间派观点，做一位谋求两党合作的总统？无论怎样，你都会引发强烈的政治分歧。希望你能在这个竞选季之后，让美国平静下来。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l81.c37/text",
+        "2016_Trump_Christie/ending/s0.l81.c37/text",
+        "2016_Trump_Sessions/ending/s0.l81.c37/text",
+        "2016_Trump_Carson/ending/s0.l81.c37/text",
+        "2016_Trump_Palin/ending/s0.l81.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l81.c37/text",
+        "2016_Clinton_Booker/ending/s0.l81.c37/text",
+        "2016_Clinton_Brown/ending/s0.l81.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l81.c37/text",
+        "2016_Clinton_Warren/ending/s0.l81.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 22,
+      "source": "Congratulations! Despite an intense and vicious battle cast by the Republicans, you have become the first female president and fought off Donald Trump. With your impressively large victory, you also managed to win a number of victories down-ballot, thus making things easier for you.",
+      "sha256": "a8a9e5bbc7091e3f7491d5d5c4549b4bbafef33b9080d291d2c06aaa9c6c267e",
+      "zh": "恭喜！尽管共和党发动了激烈而恶毒的攻势，你仍击败唐纳德·特朗普，成为第一位女总统。凭借令人瞩目的大胜，你还带动本党赢得了同次选举中的若干其他职位，让自己今后更容易施政。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l83.c40/text",
+        "2016_Trump_Christie/ending/s0.l83.c40/text",
+        "2016_Trump_Sessions/ending/s0.l83.c40/text",
+        "2016_Trump_Carson/ending/s0.l83.c40/text",
+        "2016_Trump_Palin/ending/s0.l83.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l83.c40/text",
+        "2016_Clinton_Booker/ending/s0.l83.c40/text",
+        "2016_Clinton_Brown/ending/s0.l83.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l83.c40/text",
+        "2016_Clinton_Warren/ending/s0.l83.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 23,
+      "source": "Congratulations! Despite an intense and vicious battle cast by the Republicans, you have become the first female president and fought off Donald Trump. Your victory margin gives you some breathing room in the chambers, so make sure you act on your promises or the 2018 midterms will be brutal.",
+      "sha256": "c69692670964ba5d18d1d4772e15a0592b2f6e79d4c66a65ed3a408b28ed9993",
+      "zh": "恭喜！尽管共和党发动了激烈而恶毒的攻势，你仍击败唐纳德·特朗普，成为第一位女总统。你的胜选优势为你在国会两院留下了一些余地，所以一定要兑现承诺，否则2018年中期选举会相当惨烈。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l85.c40/text",
+        "2016_Trump_Christie/ending/s0.l85.c40/text",
+        "2016_Trump_Sessions/ending/s0.l85.c40/text",
+        "2016_Trump_Carson/ending/s0.l85.c40/text",
+        "2016_Trump_Palin/ending/s0.l85.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l85.c40/text",
+        "2016_Clinton_Booker/ending/s0.l85.c40/text",
+        "2016_Clinton_Brown/ending/s0.l85.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l85.c40/text",
+        "2016_Clinton_Warren/ending/s0.l85.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 24,
+      "source": "Congratulations! Despite an intense and vicious battle cast by the Republicans, you have become the first female president and fought off Donald Trump. Your victory margin, as small as it is, will force you to be a bit bipartisan, but your years in the government prepared you for this.",
+      "sha256": "73f08c51d80e2ba9905f26cd00a9be6e6adf2ee0090a06b278617fb4f9dd8f32",
+      "zh": "恭喜！尽管共和党发动了激烈而恶毒的攻势，你仍击败唐纳德·特朗普，成为第一位女总统。你的胜选优势很小，会迫使你在一定程度上谋求两党合作，不过多年政府工作已让你为此做好准备。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l87.c40/text",
+        "2016_Trump_Christie/ending/s0.l87.c40/text",
+        "2016_Trump_Sessions/ending/s0.l87.c40/text",
+        "2016_Trump_Carson/ending/s0.l87.c40/text",
+        "2016_Trump_Palin/ending/s0.l87.c40/text",
+        "2016_Clinton_Kaine/ending/s0.l87.c40/text",
+        "2016_Clinton_Booker/ending/s0.l87.c40/text",
+        "2016_Clinton_Brown/ending/s0.l87.c40/text",
+        "2016_Clinton_Sanders/ending/s0.l87.c40/text",
+        "2016_Clinton_Warren/ending/s0.l87.c40/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 25,
+      "source": "In one of the strangest events that took place during this campaign, you didn't end up winning the popular vote, despite winning the electoral vote! Republicans are quite angry about this, and you can't help but crack a smile, and wonder why you and Bill could never surpass 50% of the popular vote. Maybe in 2020?",
+      "sha256": "04f007536f7e0048e860cd3549f63e269f0fb164ab57f0116ed26d83ec5adf4f",
+      "zh": "这场竞选出现了一件极其奇怪的事：尽管赢得了选举人票，你却没能赢得普选票！共和党人对此很愤怒，你忍不住微微一笑，心想，怎么你和比尔就从来没能拿到超过50%的普选票呢？也许2020年能做到？",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l90.c37/text",
+        "2016_Trump_Christie/ending/s0.l90.c37/text",
+        "2016_Trump_Sessions/ending/s0.l90.c37/text",
+        "2016_Trump_Carson/ending/s0.l90.c37/text",
+        "2016_Trump_Palin/ending/s0.l90.c37/text",
+        "2016_Clinton_Kaine/ending/s0.l90.c37/text",
+        "2016_Clinton_Booker/ending/s0.l90.c37/text",
+        "2016_Clinton_Brown/ending/s0.l90.c37/text",
+        "2016_Clinton_Sanders/ending/s0.l90.c37/text",
+        "2016_Clinton_Warren/ending/s0.l90.c37/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 26,
+      "source": " John McCain is certainly not all too happy about you winning, however, especially with his former running mate...",
+      "sha256": "7f40679559d8bd5330e48885e4fac93e1312e507124aebff7e69b19e83ca0195",
+      "zh": " 不过，约翰·麦凯恩对你获胜肯定不怎么高兴，尤其是你还选了他从前的竞选搭档……",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l95.c34/text",
+        "2016_Trump_Christie/ending/s0.l95.c34/text",
+        "2016_Trump_Sessions/ending/s0.l95.c34/text",
+        "2016_Trump_Carson/ending/s0.l95.c34/text",
+        "2016_Trump_Palin/ending/s0.l95.c34/text",
+        "2016_Clinton_Kaine/ending/s0.l95.c34/text",
+        "2016_Clinton_Booker/ending/s0.l95.c34/text",
+        "2016_Clinton_Brown/ending/s0.l95.c34/text",
+        "2016_Clinton_Sanders/ending/s0.l95.c34/text",
+        "2016_Clinton_Warren/ending/s0.l95.c34/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 27,
+      "source": "The options you have for policy are quite open. With your choice of Sanders as a running mate, you have sent a message about what you want to do during your term, so many expect some action on climate change and workers rights to come quickly, and with efficacy. Whatever you do, you'll be very polarizing, so let’s hope you can calm down America after this campaign season.",
+      "sha256": "4b5d889ef25753d9e2c0065cfbe26f167aeb84360dccf195d063a456b026f92f",
+      "zh": "你在政策上有相当大的选择空间。选择桑德斯做搭档，已经传达了你在任期内想做什么的信号，因此许多人期待你迅速而有效地推进应对气候变化与保障劳动者权利的措施。不论你做什么，都会引发强烈的政治分歧。希望你能在这个竞选季之后，让美国平静下来。",
+      "keys": [
+        "2016_Trump_Pence/ending/s0.l98.c33/text",
+        "2016_Trump_Christie/ending/s0.l98.c33/text",
+        "2016_Trump_Sessions/ending/s0.l98.c33/text",
+        "2016_Trump_Carson/ending/s0.l98.c33/text",
+        "2016_Trump_Palin/ending/s0.l98.c33/text",
+        "2016_Clinton_Kaine/ending/s0.l98.c33/text",
+        "2016_Clinton_Booker/ending/s0.l98.c33/text",
+        "2016_Clinton_Brown/ending/s0.l98.c33/text",
+        "2016_Clinton_Sanders/ending/s0.l98.c33/text",
+        "2016_Clinton_Warren/ending/s0.l98.c33/text"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 28,
+      "source": "Your use of Twitter has garnered outsized attention in your run for the Republican nomination, but some advisors are leery of your erratic tendnecies on that site. How will you proceed?",
+      "sha256": "eecba2a1c95cbd11d52e6c7509074882561f3138875787d14fb0ad9a86b7fb8c",
+      "zh": "在争取共和党提名的过程中，你在推特上的发言获得了格外多的关注，但一些顾问对你在这个平台上反复无常的表现有所顾虑。你接下来会怎么做？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1000@0/description",
+        "2016_Trump_Christie/questions_json/1000@0/description",
+        "2016_Trump_Sessions/questions_json/1000@0/description",
+        "2016_Trump_Carson/questions_json/1000@0/description",
+        "2016_Trump_Palin/questions_json/1000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 29,
+      "source": "The FBI director has handed down a severe criticism of Clinton's email practices while Secretary of State, though he declined to recommend any indictments. Do you have any comment?",
+      "sha256": "7adb905546c87322e5291309c2adc6abe0cb86a9df3254727737975c51064e46",
+      "zh": "联邦调查局局长严厉批评了克林顿担任国务卿期间使用电子邮件的做法，但没有建议提起任何刑事指控。你有什么评论？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1006@1/description",
+        "2016_Trump_Christie/questions_json/1006@1/description",
+        "2016_Trump_Sessions/questions_json/1006@1/description",
+        "2016_Trump_Carson/questions_json/1006@2/description",
+        "2016_Trump_Palin/questions_json/1006@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 30,
+      "source": "There was a mass shooting at a gay nightclub in Orlando overnight, perpetrated by a Muslim, resulting in 50 people killed. What is your reaction?",
+      "sha256": "67d1278c018056f9960756f0d64876ed1c79b6ae1a6d6e71eb6a15292a4fd6fa",
+      "zh": "昨夜，奥兰多一家同性恋夜总会发生大规模枪击案，凶手是一名穆斯林，造成50人死亡。你有什么反应？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1007@2/description",
+        "2016_Trump_Christie/questions_json/1007@2/description",
+        "2016_Trump_Sessions/questions_json/1007@2/description",
+        "2016_Trump_Carson/questions_json/1007@1/description",
+        "2016_Trump_Palin/questions_json/1007@1/description",
+        "2016_Clinton_Kaine/questions_json/1044@1/description",
+        "2016_Clinton_Booker/questions_json/1044@2/description",
+        "2016_Clinton_Brown/questions_json/1044@1/description",
+        "2016_Clinton_Sanders/questions_json/1044@2/description",
+        "2016_Clinton_Warren/questions_json/1044@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 31,
+      "source": "What was your rationale behind selecting Mike Pence as your running mate?",
+      "sha256": "3f1e04a64dde9f9da7cdbcbb6ddc8012127d447f30a52d3026d61f82db17fad4",
+      "zh": "你选择迈克·彭斯作为竞选搭档的理由是什么？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1001@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 32,
+      "source": "What will your message be as you accept the Republican nomination for President on national television?",
+      "sha256": "31908661d6f8bddadd24e6d2d6f5e6a970e5ddd6b9ec81f5df1bd4872c6204c9",
+      "zh": "你将在全国电视直播中接受共和党总统候选人提名，届时会传达什么信息？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1008@4/description",
+        "2016_Trump_Christie/questions_json/1008@4/description",
+        "2016_Trump_Sessions/questions_json/1008@4/description",
+        "2016_Trump_Carson/questions_json/1008@5/description",
+        "2016_Trump_Palin/questions_json/1008@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 33,
+      "source": "In the wake of your nomination, a few anti-Trump conservatives are organizing to cast votes for Evan McMullin as a protest, with an emphasis on the Western states. What are your thoughts?",
+      "sha256": "7c8a533195fe410177d90a8c5bab040355044bd368c771790d2ffae405f710ad",
+      "zh": "你获得提名后，一些反对特朗普的保守派正组织选民以投票给埃文·麦克马林的方式表达抗议，尤其着眼于西部各州。你对此有什么看法？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1009@5/description",
+        "2016_Trump_Christie/questions_json/1009@6/description",
+        "2016_Trump_Sessions/questions_json/1009@6/description",
+        "2016_Trump_Carson/questions_json/1009@6/description",
+        "2016_Trump_Palin/questions_json/1009@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 34,
+      "source": "There has been a violent terrorist attack in Nice today, resulting in the deaths of almost 100 people. How will you address this?",
+      "sha256": "8c91084ae28342404100ab9bba1fb9b705fd90250dbc7ff39e0d435e6df91236",
+      "zh": "今天，尼斯发生了一起暴力恐怖袭击，造成近100人死亡。你会如何回应？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1011@6/description",
+        "2016_Trump_Christie/questions_json/1011@5/description",
+        "2016_Trump_Sessions/questions_json/1011@5/description",
+        "2016_Trump_Carson/questions_json/1011@7/description",
+        "2016_Trump_Palin/questions_json/1011@5/description",
+        "2016_Clinton_Kaine/questions_json/1052@7/description",
+        "2016_Clinton_Booker/questions_json/1052@6/description",
+        "2016_Clinton_Brown/questions_json/1052@8/description",
+        "2016_Clinton_Sanders/questions_json/1052@6/description",
+        "2016_Clinton_Warren/questions_json/1052@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 35,
+      "source": "Pundits have started questioning the so-called Pence Rule, based on your running-mate's refusal to dine alone with a woman. What are your thoughts?",
+      "sha256": "fd6ebcc14d10ef8fd4b118c7764b6cb582fee3662b6b366e8e375a686db4a5a3",
+      "zh": "评论人士开始质疑所谓的“彭斯规则”，也就是你的搭档拒绝单独与女性共进晚餐的做法。你对此有什么看法？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1038@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 36,
+      "source": "Do you have plans to attack the Supreme Court for their ruling on gay marriage in 2015?",
+      "sha256": "80f55ecdbb7b013e721d1cee26f394f7365f5102ce6df61309695f7684331d22",
+      "zh": "你是否打算就最高法院2015年的同性婚姻判决攻击法院？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1032@8/description",
+        "2016_Trump_Christie/questions_json/1032@12/description",
+        "2016_Trump_Carson/questions_json/1032@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 37,
+      "source": "How do you plan to address Obamacare as you campaign?",
+      "sha256": "9228aa926c60cf0b41f64b2289660b97724d05d688131a0f27970fa4fb0a54c9",
+      "zh": "你打算在竞选中如何谈论奥巴马医改？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1031@10/description",
+        "2016_Trump_Christie/questions_json/1031@15/description",
+        "2016_Trump_Carson/questions_json/1031@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 38,
+      "source": "In a hearing today, a New York judge has set the trial date for the Trump University lawsuit to December of this year. Do you have any comment?",
+      "sha256": "103a9447c1ad53c245e851ce8d7a687753b1e2c99b1540639a3551f74ab77568",
+      "zh": "在今天的听证中，一名纽约法官将特朗普大学诉讼的开庭日期定在了今年12月。你有什么评论？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1010@15/description",
+        "2016_Trump_Christie/questions_json/1010@17/description",
+        "2016_Trump_Palin/questions_json/1010@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 39,
+      "source": "While attending a 9/11 memorial event today, Hillary Clinton was caught on video going limp and being carried into a van, apparently for medical attention. Do you have any comment?",
+      "sha256": "48b6c5d0646f8fe1fbc243a2e94435ba5825758538badf7a19ccda85334c6f7e",
+      "zh": "今天参加“9·11”纪念活动时，有视频拍到希拉里·克林顿身体瘫软，被人抬进一辆厢式车，显然是为了接受医疗照护。你有什么评论？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1025@18/description",
+        "2016_Trump_Christie/questions_json/1025@18/description",
+        "2016_Trump_Sessions/questions_json/1025@18/description",
+        "2016_Trump_Carson/questions_json/1025@18/description",
+        "2016_Trump_Palin/questions_json/1025@18/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 40,
+      "source": "A video surfaced of you describing how you tried to seduce a married woman, and how you can generally kiss women or \"grab them by the pussy\". 14 women have also stepped forward to accuse you of assault. What is your response?",
+      "sha256": "4c6814810d6f5c9510fc4d12b9a3cd3909ad006f53049ab61e383a4260e7b50e",
+      "zh": "一段视频曝光，你在其中讲述自己如何试图引诱一名已婚女性，还说一般可以亲吻女性，或是“抓她们的阴部”。另有14名女性出面指控你侵犯她们。你会如何回应？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1033@20/description",
+        "2016_Trump_Christie/questions_json/1033@20/description",
+        "2016_Trump_Sessions/questions_json/1033@20/description",
+        "2016_Trump_Carson/questions_json/1033@20/description",
+        "2016_Trump_Palin/questions_json/1033@20/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 41,
+      "source": "A leaked transcript from Wikileaks shows the Clinton campaign working with members of the DNC to collaborate against the campaign of Bernie Sanders in subtle but definite ways, such as the sharing of some debate questions before a primary debate. How do you respond?",
+      "sha256": "676912eaa4e24b6150bd13333a08fdcb428d6d67933ec3bcfd0ef1647de06167",
+      "zh": "维基解密泄露的一份记录显示，克林顿竞选团队与民主党全国委员会的一些成员合作，以隐蔽但明确的方式联手对付伯尼·桑德斯的竞选，例如在一场初选辩论前分享部分辩论问题。你会如何回应？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1035@21/description",
+        "2016_Trump_Christie/questions_json/1035@21/description",
+        "2016_Trump_Sessions/questions_json/1035@22/description",
+        "2016_Trump_Carson/questions_json/1035@22/description",
+        "2016_Trump_Palin/questions_json/1035@22/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 42,
+      "source": "A leaked transcript from Wikileaks shows Hillary Clinton saying in a closed-door speech at Goldman Sachs that she is \"center-left, center-right\" and that she supports \"open trade and open borders\". How do you respond?",
+      "sha256": "d814a166f403b3b0c78d95a31bd925df150a33012efc372e1498da000cfde5f2",
+      "zh": "维基解密泄露的一份记录显示，希拉里·克林顿在高盛的一次闭门演说中表示，自己“中间偏左，也中间偏右”，并支持“开放贸易和开放边界”。你会如何回应？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1034@22/description",
+        "2016_Trump_Christie/questions_json/1034@22/description",
+        "2016_Trump_Sessions/questions_json/1034@21/description",
+        "2016_Trump_Carson/questions_json/1034@21/description",
+        "2016_Trump_Palin/questions_json/1034@21/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 43,
+      "source": "James Comey, FBI Director, has made a late announcement that additional emails have surfaced in Hillary Clinton's case, thanks to an investigation into Anthony Weiner. What are your thoughts?",
+      "sha256": "0720d38c94ceff6be3d5122149d1e9d5c7da2c75feb290963c5e12b0254e0299",
+      "zh": "联邦调查局局长詹姆斯·科米在竞选末期宣布，由于对安东尼·韦纳的调查，克林顿案中又出现了更多电子邮件。你对此有什么看法？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1036@23/description",
+        "2016_Trump_Christie/questions_json/1036@23/description",
+        "2016_Trump_Sessions/questions_json/1036@23/description",
+        "2016_Trump_Carson/questions_json/1036@23/description",
+        "2016_Trump_Palin/questions_json/1036@23/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 44,
+      "source": "Where will you spend the final day of your campaign?",
+      "sha256": "83bb2d4d926718b2860e5b114ccc4d003324917f8095a87f042f7dda33e69b4f",
+      "zh": "你会在哪里度过竞选的最后一天？",
+      "keys": [
+        "2016_Trump_Pence/questions_json/1037@24/description",
+        "2016_Trump_Christie/questions_json/1037@24/description",
+        "2016_Trump_Sessions/questions_json/1037@24/description",
+        "2016_Trump_Carson/questions_json/1037@24/description",
+        "2016_Trump_Palin/questions_json/1037@24/description",
+        "2016_Clinton_Kaine/questions_json/1076@24/description",
+        "2016_Clinton_Booker/questions_json/1076@24/description",
+        "2016_Clinton_Brown/questions_json/1076@24/description",
+        "2016_Clinton_Sanders/questions_json/1076@24/description",
+        "2016_Clinton_Warren/questions_json/1076@24/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 45,
+      "source": "These are the same people who said my campaign was hopeless and gave me terrible advice for the last year and a half. Not too smart!",
+      "sha256": "ad7c790386e618e4d39dffa6d30ff2413e61d79a4df8db285f9609b1b7297bed",
+      "zh": "就是这帮人，过去一年半一直说我的竞选没希望，还给我出馊主意。真不怎么聪明！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5000@0/description",
+        "2016_Trump_Christie/answers_json/5000@0/description",
+        "2016_Trump_Sessions/answers_json/5000@0/description",
+        "2016_Trump_Carson/answers_json/5000@0/description",
+        "2016_Trump_Palin/answers_json/5000@0/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 46,
+      "source": "In this day and age you gotta use social media. You gotta. Now I think we can all agree that a general election is different from a primary so I might tone it down a little on some things, but you gotta use social media.",
+      "sha256": "6a0b47851579c3e4246eb51cff9edfc16fe51cec688e60a4b1cc780f1722ac1a",
+      "zh": "在这个时代，你得用社交媒体。非用不可。大家应该都同意，大选跟初选不一样，所以有些事情上我也许会收敛一点，但社交媒体非用不可。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5001@1/description",
+        "2016_Trump_Christie/answers_json/5001@1/description",
+        "2016_Trump_Sessions/answers_json/5001@1/description",
+        "2016_Trump_Carson/answers_json/5001@1/description",
+        "2016_Trump_Palin/answers_json/5001@1/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 47,
+      "source": "I'm the best thing that's happened to CNN since the Gulf War. If I stop tweeting for a couple of weeks, they'll run a story about me every hour asking why!",
+      "sha256": "49fd216dc0c851d9c4c565cc96d4d82732cca431994d87276f4203411a8add0f",
+      "zh": "我是海湾战争以来CNN遇上的最大福星。要是我有几周不发推文，他们就会每个小时做一次报道，追问我为什么不发！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5002@2/description",
+        "2016_Trump_Christie/answers_json/5002@2/description",
+        "2016_Trump_Sessions/answers_json/5002@2/description",
+        "2016_Trump_Carson/answers_json/5002@2/description",
+        "2016_Trump_Palin/answers_json/5002@2/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 48,
+      "source": "Mike Pence is an incredible, incredible human being. He's been in there for many years, fighting for religious liberty, tax cuts, and a strong military.",
+      "sha256": "939bae6e2a12a38e891418f142f45151106bb67bce886fc424bc9525ab9dd1ba",
+      "zh": "迈克·彭斯是个了不起、了不起的人。这些年来，他一直在为宗教自由、减税和强大的军队奋斗。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5003@3/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 49,
+      "source": "This is a guy with a terrific record in state government, really terrific as Governor of Indiana. A wonderful Congressman you might have heard. And we need experience. Experience is very important.",
+      "sha256": "bf63069d11102a215efae83edad7bed2e14fa4040f0a9be06e432dd0353319e1",
+      "zh": "这个人在州政府里政绩出色，当印第安纳州州长时真是出色。你们可能听说过，他还是一位很棒的国会议员。我们需要经验，经验非常重要。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5004@4/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 50,
+      "source": "This investigation by our so-called FBI was a farce from start to finish. How can someone destroy massive amounts of evidence in the midst of a federal investigation and not be charged?",
+      "sha256": "a0e83a0a0db0e2108058a9ce128cc4d94aa40d986f0961bd88e570c3d657b8c3",
+      "zh": "我们所谓的联邦调查局，这次调查从头到尾就是一场闹剧。一个人怎么能在联邦调查期间销毁大量证据，却不被起诉？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5013@5/description",
+        "2016_Trump_Christie/answers_json/5013@5/description",
+        "2016_Trump_Sessions/answers_json/5013@5/description",
+        "2016_Trump_Carson/answers_json/5013@5/description",
+        "2016_Trump_Palin/answers_json/5013@5/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 51,
+      "source": "I'm deeply concerned about this whole episode. We don't know yet whether there was a crime or not, but you can be sure that a Trump Administration will be looking into this some more.",
+      "sha256": "006f8fd0c39b81e428abec7e674027b14e6710666b2d0954ce603661027c17fc",
+      "zh": "我对整件事深感忧虑。我们还不知道究竟有没有犯罪，但可以肯定，特朗普政府会继续深入调查。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5014@6/description",
+        "2016_Trump_Christie/answers_json/5014@6/description",
+        "2016_Trump_Sessions/answers_json/5014@6/description",
+        "2016_Trump_Carson/answers_json/5014@6/description",
+        "2016_Trump_Palin/answers_json/5014@6/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 52,
+      "source": "I have the utmost respect for James Comey and our terrific agents in the FBI. It seems like Hillary may have gotten lucky on this one.",
+      "sha256": "005bbf9c6c4a37d2c15925271f214e6d73523f2bd19debb51598f293bc82b8db",
+      "zh": "我极其尊重詹姆斯·科米和联邦调查局那些出色的探员。看来希拉里这回可能走运了。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5015@7/description",
+        "2016_Trump_Christie/answers_json/5015@7/description",
+        "2016_Trump_Sessions/answers_json/5015@7/description",
+        "2016_Trump_Carson/answers_json/5015@7/description",
+        "2016_Trump_Palin/answers_json/5015@7/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 53,
+      "source": "Around the world we have Islamic terror striking at innocent lives, while the Democrats do nothing. If this attack on the LGBT community, this vicious attack, isn't enough to make them wake up, then what is?",
+      "sha256": "9a194f0ef017604103beadd735e6255864273168b53c3f9ce8e2cf77ae49b6bc",
+      "zh": "世界各地都有伊斯兰恐怖分子袭击无辜者，民主党却什么也不做。如果这次针对LGBT群体的袭击，这种恶毒的袭击，还不足以让他们醒悟，那还有什么能让他们醒悟？",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5016@8/description",
+        "2016_Trump_Christie/answers_json/5016@8/description",
+        "2016_Trump_Sessions/answers_json/5016@8/description",
+        "2016_Trump_Carson/answers_json/5016@8/description",
+        "2016_Trump_Palin/answers_json/5016@8/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 54,
+      "source": "Appreciate the congrats for being right on radical Islamic terrorism, I don't want congrats, I want toughness & vigilance. We must be smart!",
+      "sha256": "22f23daa007cc6c119ffed67cca2c05f3ab536733b67173459e22f8a73cac639",
+      "zh": "谢谢大家祝贺我对激进伊斯兰恐怖主义的判断是对的。我不要祝贺，我要强硬和警惕。我们必须聪明起来！",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5017@9/description",
+        "2016_Trump_Christie/answers_json/5017@9/description",
+        "2016_Trump_Sessions/answers_json/5017@9/description",
+        "2016_Trump_Carson/answers_json/5017@9/description",
+        "2016_Trump_Palin/answers_json/5017@9/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 55,
+      "source": "First of all, our hearts and prayers really go out to everyone affected by this shooting, and particularly the victims. But it would be a real tragedy if we used this incident as an excuse to restrict our constitutional rights.",
+      "sha256": "0028d67816d94c927b6b2306913555d0caf3d480286cb27bb2053ddf022d2c64",
+      "zh": "首先，我们由衷地慰问所有受这次枪击影响的人，为他们祈祷，尤其是受害者。但如果我们借这件事来限制宪法保障的权利，那才真是悲剧。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5018@10/description",
+        "2016_Trump_Christie/answers_json/5018@10/description",
+        "2016_Trump_Sessions/answers_json/5018@10/description",
+        "2016_Trump_Carson/answers_json/5018@10/description",
+        "2016_Trump_Palin/answers_json/5018@10/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 56,
+      "source": "What happened in Orlando last right was a terrible tragedy, and our thoughts and prayers go out to everyone affected.",
+      "sha256": "c8baae0baef66544a4fe15f9b92270ca9ae53a433f8571af09b4263f049051b9",
+      "zh": "昨夜在奥兰多发生的事是一场可怕的悲剧。我们牵挂所有受影响的人，为他们祈祷。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5019@11/description",
+        "2016_Trump_Christie/answers_json/5019@11/description",
+        "2016_Trump_Sessions/answers_json/5019@11/description",
+        "2016_Trump_Carson/answers_json/5019@11/description",
+        "2016_Trump_Palin/answers_json/5019@11/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 57,
+      "source": "I am the true conservative when it comes to gun rights, abortion, taxes, and many other issues. It would be terrible if we let the left-wing media divide us in the face of Hillary Clinton.",
+      "sha256": "a76388fbf9c9420646dfcaccc7365b698eb5dfcc36be870db129e39495856d25",
+      "zh": "在拥枪权、堕胎、税收和许多其他问题上，我才是真正的保守派。面对希拉里·克林顿，如果我们让左翼媒体把我们分裂开，那就太糟糕了。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5020@12/description",
+        "2016_Trump_Christie/answers_json/5020@12/description",
+        "2016_Trump_Sessions/answers_json/5020@12/description",
+        "2016_Trump_Carson/answers_json/5020@12/description",
+        "2016_Trump_Palin/answers_json/5020@12/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 58,
+      "source": "The leadership of this country has been a disaster, and because of this many lies have been spread about me. I am the one who can fix our problems with trade, with ISIS, with Obamacare, and with many other issues.",
+      "sha256": "0b2d4ce71cf1d1bd36c3a661402bdf3fbff2e20e82e062b66b9ca16eafba4bf5",
+      "zh": "这个国家的领导层简直是一场灾难，也正因如此，关于我的谎言到处流传。只有我能解决贸易、“伊斯兰国”、奥巴马医改，以及许多其他方面的问题。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5021@13/description",
+        "2016_Trump_Christie/answers_json/5021@13/description",
+        "2016_Trump_Sessions/answers_json/5021@13/description",
+        "2016_Trump_Carson/answers_json/5021@13/description",
+        "2016_Trump_Palin/answers_json/5021@13/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    },
+    {
+      "index": 59,
+      "source": "I will compare and contrast my stellar business record with the corruption and incompetence of Hillary Clinton, and remind voters of my views on Obamacare, tax cuts, and immigration. We're going to Make America Great Again.",
+      "sha256": "220331305879b344f235550aeccee24710023cba9b9f3f410f29eaada79fe2a0",
+      "zh": "我要把自己辉煌的商业成绩，与希拉里·克林顿的腐败和无能作比较，也要提醒选民我在奥巴马医改、减税和移民上的立场。我们要让美国再次伟大。",
+      "keys": [
+        "2016_Trump_Pence/answers_json/5022@14/description",
+        "2016_Trump_Christie/answers_json/5022@14/description",
+        "2016_Trump_Sessions/answers_json/5022@14/description",
+        "2016_Trump_Carson/answers_json/5022@14/description",
+        "2016_Trump_Palin/answers_json/5022@14/description"
+      ],
+      "method": "human-full-field",
+      "changed": true
+    }
+  ]
+}

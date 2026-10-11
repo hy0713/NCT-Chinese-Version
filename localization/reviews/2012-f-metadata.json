@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-09",
+  "research": "2012-RESEARCH_PENDING_ZH.md",
+  "sourceExceptions": [
+    {
+      "index": 7,
+      "reason": "Corrupted original punctuation interpreted from sentence context and restored in Chinese only. English bytes, HTML, placeholders and numerical content untouched; no missing prose invented."
+    },
+    {
+      "index": 11,
+      "reason": "Split ending retained around candidate interpolation."
+    },
+    {
+      "index": 12,
+      "reason": "Split ending retained without writing candidate name."
+    },
+    {
+      "index": 21,
+      "reason": "Original over2m jobs estimate retained, not independently certified causal forecast."
+    },
+    {
+      "index": 22,
+      "reason": "Original preserve to Euro read as preserve the Euro; English unchanged."
+    },
+    {
+      "index": 28,
+      "reason": "Separate inherently unequal civil-rights rhetorical analogy preserved, not literal physical separation requirement."
+    },
+    {
+      "index": 37,
+      "reason": "Original2033 net payout wording retained as argument, not silently corrected to reserve depletion. Trustees report comparison pending."
+    },
+    {
+      "index": 39,
+      "reason": "Original100trillion unfunded liabilities claim preserved, valuation horizon not certified."
+    },
+    {
+      "index": 42,
+      "reason": "Robbing Peter to pay Paul rendered equivalent idiom; no religious payment mechanism implied."
+    },
+    {
+      "index": 50,
+      "reason": "Original1-2% unemployment rate reduction rendered percentage points in comparative rate context, estimate not independently verified."
+    }
+  ]
+}
