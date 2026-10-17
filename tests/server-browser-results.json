@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-17T11:07:40.551Z",
+  "status": "passed",
+  "port": 18080,
+  "errors": [],
+  "checks": [
+    "Game loads from actual selected port",
+    "Native scenario starts and first answer advances",
+    "Saved port file cannot be fetched over HTTP",
+    "No JavaScript errors"
+  ]
+}

@@ -856,3 +856,7 @@
 - `tools/write-changes.py`
 
 社区 MOD、抓取日志与权限未确认的额外缓存媒体不在公开包中。详见 README。
+
+## 2026-10-17 启动端口修复
+
+更新server.py为自动选择并记忆可用端口，更新忽略规则和运行说明。新增 tests/server_start.py、tests/server-browser.cjs、tests/server-browser-results.json、STARTUP_TEST_REPORT_ZH.md；不改变原游戏数据。

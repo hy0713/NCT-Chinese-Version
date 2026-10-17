@@ -5,7 +5,9 @@
 ## 下载与启动
 
 点击 **Code → Download ZIP** 并解压，安装 Python 3，然后双击 `start.bat`。
-浏览器打开 http://localhost:8000/campaign-trail/index.html 。也可运行 `python server.py --open`。
+启动程序会自动打开实际游戏地址：优先8000端口，不可用时自动选择其他端口，并在本机 `.nct-port` 记住它。也可运行 `python server.py --open`。
+
+浏览器按地址及端口区分成就与偏好；换端口不会删除旧地址数据。详见 [启动修复与验证](STARTUP_TEST_REPORT_ZH.md)。
 
 ## 内容
 
