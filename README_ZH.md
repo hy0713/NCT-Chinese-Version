@@ -180,3 +180,8 @@ node tests/stories-integrity.cjs
 ## 10. 公开版差异
 
 上面的全量验收记录对应原始本地交付。公开版独立移除攻略，并保留语言按钮的键盘隔离。未包含社区 MOD 和额外缓存的授权未确认音乐／图片；这些展示资源映射到已有黑色图片、生成静音等本地替代，详见 `localization/public-media-fallbacks.json`。原版剧本数据、计算函数、中文正文和旁注不变。公开版新增验证见 `PUBLICATION_TEST_REPORT_ZH.md`。
+
+
+## 2026-10-19 阅读体验调整
+
+“典故”卡片默认显示简明解释，补充背景和资料来源可展开查看。精简了107条说明中的重复校订用语，保留全部288条说明及其出处；修改前后对照在 localization/annotations/style-review-2026-10-19.json。独立 [NCT-Guide](https://github.com/hy0713/NCT-Guide) 同步更新了精简面板与后台推演。

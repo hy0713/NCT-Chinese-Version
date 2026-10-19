@@ -40,7 +40,7 @@ runtime={'schema':1,'checkedAt':data['checkedAt'],'notes':{n['id']:{k:v for k,v 
 (ROOT/'localization/annotations/index.json').write_text(json.dumps(runtime,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
 report={'checkedAt':data['checkedAt'],'notes':len(ids),'boundFields':len(bindings),'boundHeaderKeys':len(uiBindings),'headerKeysWithoutNotes':[k for k in ui if k.startswith('quote.') and k not in uiBindings],'noteBindings':sum(counts.values()),'byNote':counts,'keysByNote':hits,'scenarioScopes':sorted({k.split('/')[0] for k in bindings})}
 (ROOT/'localization/annotations/coverage.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-lines=['# 历史典故与网络梗校注','','查证日期：'+data['checkedAt']+'。解释随项目离线提供；来源网页仅在主动点击链接时访问。','',f'共{len(ids)}条说明，绑定{len(bindings)}个剧本原文位置与{len(uiBindings)}个页眉语录键（复用剧本会重复计数）。通过稳定键及原文匹配；原文变化时不套用旧注释。','', '不提供答案评分、选项效果或隐藏结局触发条件。用典推断明确标记；架空对白不当作史料。','']
+lines=['# 历史典故与网络梗校注','','查证日期：'+data['checkedAt']+'。解释随项目离线提供；来源网页仅在主动点击链接时访问。','',f'共{len(ids)}条说明，绑定{len(bindings)}个剧本原文位置与{len(uiBindings)}个页眉语录键（复用剧本会重复计数）。通过稳定键及原文匹配；原文变化时不套用旧注释。','', '按剧本中的人物、制度、典故和竞选口号整理，条目附资料出处。','']
 for n in data['notes']:
     lines+=['## '+n['title'],'',n['category'],'']
     lines+=n['body']+['']

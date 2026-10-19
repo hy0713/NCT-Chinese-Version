@@ -31,11 +31,12 @@
   const dismiss=document.createElement('button');dismiss.type='button';dismiss.className='nct-note-close';dismiss.textContent='关闭';dismiss.addEventListener('click',()=>close(true));panel.append(dismiss);
   for(const note of notes){
    const section=document.createElement('section'),heading=document.createElement('h4'),category=document.createElement('small');heading.textContent=note.title;category.textContent=note.category;section.append(heading,category);
-   for(const text of note.body){const p=document.createElement('p');p.textContent=text;section.append(p);}
+   const intro=document.createElement('p');intro.textContent=note.body[0];section.append(intro);
+   if(note.body.length>1){const more=document.createElement('details'),summary=document.createElement('summary');summary.textContent='补充背景';more.append(summary);for(const text of note.body.slice(1)){const p=document.createElement('p');p.textContent=text;more.append(p);}section.append(more);}
    const list=document.createElement('ul');list.setAttribute('aria-label','查证来源');
-   for(const source of note.sources){const li=document.createElement('li'),link=document.createElement('a');link.textContent=source.title;link.href=source.url;link.target='_blank';link.rel='noopener noreferrer';li.append(link);list.append(li);}section.append(list);panel.append(section);
+   for(const source of note.sources){const li=document.createElement('li'),link=document.createElement('a');link.textContent=source.title;link.href=source.url;link.target='_blank';link.rel='noopener noreferrer';li.append(link);list.append(li);}const sources=document.createElement('details'),summary=document.createElement('summary');summary.textContent='资料来源';sources.append(summary,list);section.append(sources);panel.append(section);
   }
-  const footer=document.createElement('small');footer.textContent='说明已保存在本地。仅点击来源链接时联网。查证：'+data.checkedAt;panel.append(footer);document.body.append(panel);place();dismiss.focus();
+  document.body.append(panel);panel.addEventListener('toggle',place,true);place();dismiss.focus();
  }
  document.addEventListener('click',event=>{
   const target=event.target.closest?.('.nct-note-trigger');

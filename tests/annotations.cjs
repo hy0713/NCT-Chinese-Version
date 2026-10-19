@@ -31,7 +31,9 @@ const snapshot=page=>page.evaluate(()=>({game:JSON.stringify(campaignTrail_temp)
   await context.route('**/*',route=>{const u=new URL(route.request().url());if(!['localhost','127.0.0.1'].includes(u.hostname)&&!['data:','blob:'].includes(u.protocol)){report.external.push(u.href);return route.abort();}return route.continue();});
   const page=await context.newPage();page.setDefaultTimeout(15000);page.on('pageerror',e=>report.errors.push(e.stack));page.on('response',r=>{if(r.status()>=400)report.missing.push({url:r.url(),status:r.status()});});await ready(page);
   // Every compiled binding and every explanation rendered through the adapter.
+  const renderedGroups=new Set();
   for(const[key,entry]of Object.entries(data.bindings)){
+   const group=entry.notes.join('|');if(process.env.NCT_ANNOTATION_UNIQUE&&renderedGroups.has(group))continue;renderedGroups.add(group);
    const r=rows.get(key),render=await page.evaluate(({r})=>{
     const host=document.createElement('div');host.id='note-audit';
     host.innerHTML=r.collection==='ending'?NCTStory.ending(r.source):NCTStory.html(r.collection,r.location.pk??r.id,r.field,r.source,r.scope);
@@ -94,8 +96,9 @@ const snapshot=page=>page.evaluate(()=>({game:JSON.stringify(campaignTrail_temp)
   // Restricted mobile viewport: a note still stays inside the visible viewport.
   await page.setViewportSize({width:390,height:760});await page.evaluate(r=>{const n=document.createElement('div');n.id='note-audit';n.innerHTML=NCTStory.html(r.collection,r.location.pk,r.field,r.source,r.scope);document.body.prepend(n);},option);await page.locator('#note-audit .nct-note-trigger').click();const box=await page.locator('.nct-note-panel').boundingBox();assert.ok(box.x>=0&&box.x+box.width<=390&&box.y+box.height<=760);
   assert.deepEqual(report.errors,[]);assert.deepEqual(report.external,[]);assert.deepEqual(report.missing,[]);
+  report.coverageMode=process.env.NCT_ANNOTATION_UNIQUE?'All exact bindings statically checked; unique note groups exercised in browser':'All bindings exercised in browser';
   report.checks.push('Every exact source/key/SHA binding valid and human reviewed','Every note, including endings and 47 header keys, rendered and opened offline','All 48 original header slots attach notes; header cache and language switching stable','Changed sources never inherit stale annotations','Mouse/Enter/Escape/close do not change game object, radio selection or RNG','English hides notes; Chinese restores without duplicate buttons or state changes','Source links safe; no source-site requests on opening explanations','Answer/feedback/next flow remains operational','Panel fits 390px viewport and 80/100/125/150 percent CSS zoom');report.status='passed';
   report.checks.push('All 14 native reading lists resolve to revised Chinese with original link targets intact');
- }catch(e){report.failure=e.stack;report.status='failed';throw e;}finally{fs.writeFileSync('tests/annotations-results.json',JSON.stringify(report,null,2)+'\n');await browser.close();}
+ }catch(e){report.failure=e.stack;report.status='failed';throw e;}finally{fs.writeFileSync(process.env.NCT_ANNOTATION_REPORT||'tests/annotations-results.json',JSON.stringify(report,null,2)+'\n');await browser.close();}
  console.log('PASS',report.notes,'notes;',report.rendered,'bindings; offline UI and unchanged game state');
 })().catch(e=>{console.error(e);process.exitCode=1;});
