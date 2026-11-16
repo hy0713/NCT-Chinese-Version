@@ -5,10 +5,18 @@ const reviewed=read('localization/annotations/editorial-review.json'),rows=new M
 const historical=fs.readdirSync('localization/reviews').filter(n=>n.endsWith('-editorial-review.json')).flatMap(n=>read('localization/reviews/'+n).revisions);
 const reviewedSources=new Set([...reviewed.revisions,...historical].map(r=>r.source));
 const framework=read('localization/en-US.json'),headers=read('localization/annotations/header-editorial-review.json');
+const beginner=read('localization/annotations/beginner-notes.zh-CN.json');
+const originalNotes=[...read('localization/annotations/notes.zh-CN.json').notes,...read('localization/annotations/header-notes.zh-CN.json').notes];
+assert.deepEqual(Object.keys(beginner.notes).sort(),Object.keys(data.notes).sort());
+for(const note of originalNotes){
+ const rendered=data.notes[note.id];assert.equal(rendered.body[0],beginner.notes[note.id]);
+ assert.deepEqual(rendered.body.slice(1),note.body);assert.deepEqual(rendered.sources,note.sources);assert.equal(rendered.title,note.title);
+}
 const readingReview=read('localization/annotations/reading-editorial-review.json');
 const sha=s=>crypto.createHash('sha256').update(s).digest('hex');
 const report={date:new Date().toISOString(),notes:Object.keys(data.notes).length,bindings:Object.keys(data.bindings).length,humanReviewed:reviewedSources.size,browser:'',checks:[],errors:[],external:[],missing:[],rendered:0};
 report.headerBindings=Object.keys(data.uiBindings).length;report.headerSlotsReviewed=headers.slotsReviewed;report.headersRendered=0;
+report.beginnerNotes=Object.keys(beginner.notes).length;const beginnerRendered=new Set();
 report.humanReviewedRecordPositions=cat.records.filter(r=>reviewedSources.has(r.source)).length;
 report.readingListsReviewed=readingReview.uniqueSourcesReviewed;report.readingListPositions=readingReview.recordPositions;report.readingListsRendered=0;
 for(const[key,entry]of Object.entries(data.bindings)){
@@ -41,6 +49,7 @@ const snapshot=page=>page.evaluate(()=>({game:JSON.stringify(campaignTrail_temp)
     document.body.append(host);return host.querySelector('.nct-note-trigger')?.dataset.nctNotes.split(' ')||[];
    },{r});assert.deepEqual(render,entry.notes,key);report.rendered++;
    await page.locator('#note-audit .nct-note-trigger').click();
+   assert.deepEqual(await page.locator('.nct-note-panel section > p').allTextContents(),entry.notes.map(id=>beginner.notes[id]));entry.notes.forEach(id=>beginnerRendered.add(id));
    for(const id of entry.notes)assert.ok((await page.locator('.nct-note-panel').textContent()).includes(data.notes[id].title));
    assert.equal(await page.locator('.nct-note-panel a').count(),entry.notes.reduce((n,id)=>n+data.notes[id].sources.length,0));
    await page.keyboard.press('Escape');await page.locator('#note-audit').evaluate(n=>n.remove());
@@ -50,6 +59,7 @@ const snapshot=page=>page.evaluate(()=>({game:JSON.stringify(campaignTrail_temp)
    const rendered=await page.evaluate(({key,source})=>{const host=document.createElement('div');host.id='note-audit';host.innerHTML=NCTI18n.html(key);document.body.prepend(host);return {ids:host.querySelector('.nct-note-trigger')?.dataset.nctNotes.split(' ')||[],stale:NCTNotes.ui(key,source+' changed')};},{key,source:entry.source});
    assert.deepEqual(rendered.ids,entry.notes,key);assert.equal(rendered.stale,'');
    await page.locator('#note-audit .nct-note-trigger').click();for(const id of entry.notes)assert.ok((await page.locator('.nct-note-panel').textContent()).includes(data.notes[id].title));
+   assert.deepEqual(await page.locator('.nct-note-panel section > p').allTextContents(),entry.notes.map(id=>beginner.notes[id]));entry.notes.forEach(id=>beginnerRendered.add(id));
    await page.keyboard.press('Escape');await page.locator('#note-audit').evaluate(n=>n.remove());report.headersRendered++;
   }
   for(const row of headers.records){assert.ok(await page.evaluate(s=>NCTI18n.literal(s).includes('nct-note-trigger'),row.source),'Original header slot lacks note: '+row.index);}
@@ -97,6 +107,8 @@ const snapshot=page=>page.evaluate(()=>({game:JSON.stringify(campaignTrail_temp)
   await page.setViewportSize({width:390,height:760});await page.evaluate(r=>{const n=document.createElement('div');n.id='note-audit';n.innerHTML=NCTStory.html(r.collection,r.location.pk,r.field,r.source,r.scope);document.body.prepend(n);},option);await page.locator('#note-audit .nct-note-trigger').click();const box=await page.locator('.nct-note-panel').boundingBox();assert.ok(box.x>=0&&box.x+box.width<=390&&box.y+box.height<=760);
   assert.deepEqual(report.errors,[]);assert.deepEqual(report.external,[]);assert.deepEqual(report.missing,[]);
   report.coverageMode=process.env.NCT_ANNOTATION_UNIQUE?'All exact bindings statically checked; unique note groups exercised in browser':'All bindings exercised in browser';
+  report.beginnerNotesRendered=beginnerRendered.size;assert.equal(beginnerRendered.size,Object.keys(beginner.notes).length);
+  report.checks.push('All 288 beginner introductions are the visible first paragraph; original background and sources retained');
   report.checks.push('Every exact source/key/SHA binding valid and human reviewed','Every note, including endings and 47 header keys, rendered and opened offline','All 48 original header slots attach notes; header cache and language switching stable','Changed sources never inherit stale annotations','Mouse/Enter/Escape/close do not change game object, radio selection or RNG','English hides notes; Chinese restores without duplicate buttons or state changes','Source links safe; no source-site requests on opening explanations','Answer/feedback/next flow remains operational','Panel fits 390px viewport and 80/100/125/150 percent CSS zoom');report.status='passed';
   report.checks.push('All 14 native reading lists resolve to revised Chinese with original link targets intact');
  }catch(e){report.failure=e.stack;report.status='failed';throw e;}finally{fs.writeFileSync(process.env.NCT_ANNOTATION_REPORT||'tests/annotations-results.json',JSON.stringify(report,null,2)+'\n');await browser.close();}

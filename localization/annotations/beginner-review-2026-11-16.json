@@ -1,0 +1,2631 @@
+{
+  "editedAt": "2026-11-16",
+  "method": "AI逐条读取既有典故正文，按稳定ID分别撰写零基础主说明；并非重新完成所有史料的独立学术考证。",
+  "scope": "288条默认主说明；原正文作为可展开补充背景保留。",
+  "notes": 288,
+  "bindingsUnchanged": 5916,
+  "sourceURLsUnchanged": true,
+  "originalNoteDetailsUnchanged": true,
+  "gameDataModified": false,
+  "referenceChecks": [
+    {
+      "url": "https://www.archives.gov/electoral-college/faq",
+      "topic": "选举人票多数、众议院按州选总统、参议院另选副总统",
+      "read": "官方FAQ正文"
+    },
+    {
+      "url": "https://www.senate.gov/senators/FeaturedBios/Featured_Bio_Thurmond.htm",
+      "topic": "迪克西民主党人与瑟蒙德1964年转党",
+      "read": "参议院传记正文"
+    },
+    {
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1129129",
+      "topic": "1896年自由铸银与金银制度",
+      "read": "史密森尼馆藏搜索摘要；全文请求超时"
+    },
+    {
+      "url": "https://www.cms.gov/about-cms/who-we-are/history",
+      "topic": "1965年老年医疗保险立法背景",
+      "read": "CMS历史页面"
+    },
+    {
+      "url": "https://www.archives.gov/education/lessons/watergate-constitution/chronology.html",
+      "topic": "水门事件、尼克松辞职、福特赦免的先后",
+      "read": "国家档案馆时间线"
+    }
+  ],
+  "records": [
+    {
+      "id": "biden.no-malarkey",
+      "title": "No Malarkey：别来虚的",
+      "previousOpening": "Malarkey是老派口语中的“胡扯、瞎话”。拜登在2019年的艾奥瓦州巴士巡回竞选中使用No Malarkey口号，带着“别来虚的”的语气。游戏把它夸张成法案，并配上冰淇淋与飞行员墨镜，延续这一形象的恶搞。",
+      "beginnerOpening": "拜登是2020年的民主党总统候选人。No Malarkey大致是“别整那些虚的”，是一句有点老派的竞选口号，用来塑造他说话实在的形象。游戏把这句口号编成一部法案，又加上冰淇淋和墨镜，是把他的个人形象夸张成了笑话。",
+      "originalDetailsSHA256": "a78376a113c7e907749f857179d7ceb50764c7979e40e389378bd5610bd6a7fe",
+      "beginnerSHA256": "eb092af1c4da566da253e8433b88a2fd30cf6f678078e1b1d7349417edcdd36c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "internet.amogus",
+      "title": "Amogus与sus",
+      "previousOpening": "Amogus是Among Us的故意错拼，sus是suspicious的缩写，意思是“可疑、有内鬼嫌疑”。叙述者用它调侃悬殊的选举结果。",
+      "beginnerOpening": "这不是美国政治术语，而是游戏《Among Us》的网络梗：玩家要找出混在人群里的内鬼，sus就是“可疑”，Amogus是游戏名的故意错拼。这里拿它调侃选举结果离谱，意思接近“这票数看着有内鬼”。",
+      "originalDetailsSHA256": "683131fc9366012f5dd82cc5ab0d7e93524b96ce3515b153cfe198c20149ae36",
+      "beginnerSHA256": "544b5e42ca358ad010e14583bc6576d15eb4afcb5514efeee7a610eeed1673a7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "internet.big-shot",
+      "title": "[Big Shot]：大人物",
+      "previousOpening": "Big shot本义是“大人物”。这里的方括号和夸张标点很像《Deltarune》第二章角色Spamton的[BIG SHOT]口头禅，可能是在借梗。相关章节发布于2021年，形成了跨年代的笑点。",
+      "beginnerOpening": "Big shot就是“大人物、大佬”。这种方括号加大喊大叫的写法，很像游戏《Deltarune》中商人角色Spamton的台词。这里可能借那个梗，把政治人物想飞黄腾达的心态写成滑稽的推销腔；它不是当年的历史口号。",
+      "originalDetailsSHA256": "305bb964f91e21f759761c51f06bd1a2e0df26bc0cd90643cd74cc9117b5da81",
+      "beginnerSHA256": "e6b046b0766320af670460d4e9725f623cd6dab7db2e5164c9dcbd209a55fecf",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "bush.read-my-lips",
+      "title": "Read my lips：听清楚了",
+      "previousOpening": "老布什在1988年共和党提名演说中以“听清楚了：不增加新税”作出承诺。Read my lips强调“我把话说死了”。2016剧本把同一句式改成反对新增枪支管制立法。",
+      "beginnerOpening": "1988年参选的老布什曾放话：“听清楚了，不增加新税。”Read my lips就是强调“我把话说死了”。所以游戏在别的年份拿这句话谈枪支管制，是借用一个美国选民熟悉的强硬承诺句式，并不是在说真的看嘴唇。",
+      "originalDetailsSHA256": "c5bcb0c5f08e9475f22ad1d8032e4ba18faecb7f1bfc4128c494b9b7185ed88c",
+      "beginnerSHA256": "e381e0bde85b261898f374370a76cb892d94e5c83f6986f4e2d2c04f3bf8f002",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "dukakis.tank",
+      "title": "杜卡基斯的坦克宣传照",
+      "previousOpening": "1988年杜卡基斯乘坦克拍摄宣传照，试图展现国防领导能力，戴头盔的画面却招来嘲笑，并被对手用于攻击广告。TANK YOU VERY MUCH把Thank换成Tank，拿这张照片作双关。",
+      "beginnerOpening": "1988年的民主党候选人杜卡基斯想证明自己也能领导军队，便坐上坦克拍宣传照。结果头盔和动作显得不太威风，反被对手做成嘲笑他的广告。TANK YOU把“谢谢”的Thank换成“坦克”的Tank，笑的是一次想显得强硬却出了丑的宣传。",
+      "originalDetailsSHA256": "349ae7e19dd441d11c98454f6b76bf6ad628e7ffd8e69efc2b4285ff0a21f439",
+      "beginnerSHA256": "3d9dfc352149dc60247f566c9818ee2761648454ea209fe2c711440c16d1999e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "horton.source-error",
+      "title": "霍顿案：原文混淆了两起犯罪",
+      "previousOpening": "霍顿因谋杀罪服刑，离监休假后在马里兰州犯下强奸和袭击案。1988年共和党借此攻击马萨诸塞州的离监休假制度。游戏部分题目将两起案件混为一谈，误写成他休假期间“再次杀人”。",
+      "beginnerOpening": "霍顿是服刑期间获准暂时离开监狱、随后又犯下重罪的犯人。1988年，杜卡基斯的对手用这件事指责他当州长时对罪犯太宽松，借选民对治安的恐惧拉票。原作把他先前的谋杀罪和后来休假时的强奸、袭击混在了一起。",
+      "originalDetailsSHA256": "415982996cf90eea6369ba14ee3b5f701333e0c80444bdfe58d2e9099861145a",
+      "beginnerSHA256": "b459e8af22f7e72c044d3b62e5012a452be6d225cfd92d96c47f62602b3d8efe",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "bentsen.kennedy",
+      "title": "‘你不是杰克·肯尼迪’",
+      "previousOpening": "1988年副总统辩论中，奎尔把自己的国会资历与肯尼迪参选时相比。本特森以自己认识并与肯尼迪共事的经历回应：“你不是杰克·肯尼迪。”奎尔随即说这番话实在没必要。这段交锋成为著名的政治反击，页眉也引用了奎尔的回应。",
+      "beginnerOpening": "1988年副总统辩论中，年轻的共和党候选人奎尔把自己的资历比作已故总统肯尼迪。民主党的本特森认识肯尼迪，便当面回击：“你不是杰克·肯尼迪。”笑点是奎尔想借名人的光给自己抬身价，却被真正认识那位名人的对手拆台。",
+      "originalDetailsSHA256": "31d7b026a87d602ab74e5f37bb08177cd87e66d87c0a7fd253bd34c623405ca6",
+      "beginnerSHA256": "660f10335ac618da7b182ba659769a40ecc3a94999015f0a8655d18984103bb7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "goldwater.extremism",
+      "title": "戈德华特的‘极端主义’名言",
+      "previousOpening": "出自戈德华特1964年共和党提名演说。他以捍卫自由为激烈立场辩护，紧接着又说，追求正义时的温和并非美德。这两句共同构成了他鲜明的保守派宣言。",
+      "beginnerOpening": "戈德华特是1964年的共和党总统候选人，政治立场很保守。他说，为保卫自由而采取极端立场并不可耻，是在回应别人指责他太激进。支持者听见的是“不向原则妥协”，反对者担心的却是“这个人会不会把国家带进危险”。",
+      "originalDetailsSHA256": "c8df07d7f0c3d05c66c5d50e0cc098a11cfecd6d4e0d37ce5bbab1fbb6e00892",
+      "beginnerSHA256": "f2e17231ae4e3e6878b04a67de85024236e932e6f4ca92b0e7d61ca428f42b7a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "johnson.daisy",
+      "title": "‘雏菊’广告",
+      "previousOpening": "1964年约翰逊阵营的“雏菊”广告先展示小女孩数花瓣，随后切入核爆倒计时与爆炸意象，以核战争恐惧将总统选择与生存危险联系起来。",
+      "beginnerOpening": "1964年，民主党的总统约翰逊想让选民担心对手戈德华特会引发核战争。“雏菊”广告先拍小女孩数花瓣，再突然转入核爆画面。它没有靠长篇政策辩论说服人，而是让观众产生“选错总统，孩子可能活不下来”的恐惧。",
+      "originalDetailsSHA256": "0551797e352d07d2cf57656914e489ad299f7b0be7dc86098cbfb985be9b494a",
+      "beginnerSHA256": "003edda1e2b93dd600e4ecb367104398683210dbc37b4d25b5ca56476ff16eba",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "nixon.kick-around",
+      "title": "‘再也没有尼克松给你们出气了’",
+      "previousOpening": "尼克松在1962年输掉加利福尼亚州长选举后，向记者抱怨他们再也不能拿他出气，并称那是自己的最后一次记者会。Kick around在这里是反复攻击、奚落，不是‘到处闲逛’。",
+      "beginnerOpening": "尼克松在1962年又输掉一场选举，愤怒地告诉记者：你们再也不能拿我当出气筒了，我不干了。后来他却重新参选并当上总统。所以游戏无论写他彻底失败还是卷土重来，都能拿这句“退出宣言”来制造反讽。",
+      "originalDetailsSHA256": "a3e89bb2c484a13d316eb487ab7f94c2cada194f7bb29c63833a126f3c0cb0dd",
+      "beginnerSHA256": "55797412205547620aab70715dc1d9ecc7c50319b2cbd0746519b7c01999d894",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "nixon.silent-majority",
+      "title": "‘沉默的大多数’",
+      "previousOpening": "尼克松在1969年11月3日的越战电视演说中向“沉默的大多数”请求支持，以此回应声势浩大的反战抗议。1968剧本的结局提前借用了这句后来广为人知的政治修辞。",
+      "beginnerOpening": "越战期间，反战者举行了很显眼的示威。尼克松声称，还有一大批不去街头抗议、却支持政府的人，这就是他口中的“沉默的大多数”。这句话是在争夺“谁代表普通美国人”的解释权，不是一次已经数清人数的民意调查。",
+      "originalDetailsSHA256": "aca48e896cc4a262e25e4cf23660e35baf9a07df2d548f43b47824b62e2df7ec",
+      "beginnerSHA256": "935c04200f9686d926d1c812b1928846a5da1d52cad10e3502c540290f6756b3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "humphrey.happy-warrior",
+      "title": "汉弗莱：‘快乐斗士’",
+      "previousOpening": "“快乐斗士”是汉弗莱的著名绰号，突出他的乐观、热情和政治斗志。Warrior在这里带有“政治斗士”的意味。",
+      "beginnerOpening": "汉弗莱是一位以热情、乐观和积极演说著称的民主党政治家，1968年竞选总统。“快乐斗士”是在说他面对政治斗争仍很有冲劲，不是说他是上过战场的快乐士兵。结局借这个绰号，突出他的性格和成败之间的反差。",
+      "originalDetailsSHA256": "7c0a028b045d679f858b490ed3ff252116465a60a71f1a09e39c0b33dc874280",
+      "beginnerSHA256": "229fa0f4165b889af382727c8a3db9af1b00cd96af3c85bce2c7305669337617",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "wallace.inverted-speech",
+      "title": "华莱士种族隔离演说的反向改写",
+      "previousOpening": "华莱士在1963年阿拉巴马州长就职演说中以“今天隔离、明天隔离、永远隔离”维护种族隔离。游戏反转句式，让架空结局中的汉弗莱宣告永远废除种族隔离。",
+      "beginnerOpening": "乔治·华莱士曾是坚持种族隔离的南方州长；种族隔离就是强迫黑人和白人在学校等场所分开、待遇也不平等。他的口号是“今天隔离、明天隔离、永远隔离”。游戏让反隔离的汉弗莱把这套句式倒过来说，等于用他的招牌话宣布他的政治主张失败。",
+      "originalDetailsSHA256": "10b87a3d28182d88e80ffe3dc9a189e9cc7ddb29b5cd237fda16ee630153eff9",
+      "beginnerSHA256": "deee78bb94fc431355e75de977dfb731d189ed415235370302c2f9763ce5b7b6",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "nixon.checkers",
+      "title": "Checkers演说：一只狗的名字",
+      "previousOpening": "1952年，尼克松为回应竞选资金争议发表广播电视演说，谈到家中获赠的可卡犬Checkers，并说孩子们喜欢它，他不会把狗退回去。演说因此得名。游戏将这个早年的形象与1970年代的水门事件并置。",
+      "beginnerOpening": "尼克松1952年卷入竞选资金争议时，在电视上谈到别人送给家人的狗Checkers，并说孩子们喜欢它，他不会退回去。这是在用普通家庭生活争取观众同情。游戏再把它和他后来因水门丑闻失势的经历放在一起，形成“亲切形象与政治丑闻”的反差。",
+      "originalDetailsSHA256": "28fce4b7caecdc165f30548ee6409998d7fc5799ece47b875a6aff5116e9d1bd",
+      "beginnerSHA256": "b7681cc1bc843f7ded14a62e5861b2ed21232205c5874dbdf50b520c52937a14",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "wilson.kept-out-war",
+      "title": "‘他让我们免于战争’",
+      "previousOpening": "1916年威尔逊争取连任时的口号，强调他此前使美国置身欧洲大战之外。美国随后在1917年4月对德宣战，也让这句口号成为回顾那次大选时最醒目的反差。",
+      "beginnerOpening": "1916年欧洲正在打第一次世界大战，美国当时还没有参战。威尔逊争取连任时，支持者用“他让我们免于战争”宣传他的成绩。美国次年却参战了，因此今天回头看，这句口号带有很强的历史反差。",
+      "originalDetailsSHA256": "ce1219e9bda8163c79cd9ae00f8559225ac8e223bd8e1ae0b2439a91a5f5203f",
+      "beginnerSHA256": "cd0ff773c8c7435dccbfcb5bb941b1dcb492bd5a744444190a73d23a4ef4eb6c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "bryan.cross-gold",
+      "title": "‘黄金十字架’与自由铸银",
+      "previousOpening": "布赖恩在1896年民主党大会演说中，用受难的十字架意象指责金本位使普通劳动者承受沉重负担。标题不是指真的金制宗教器物。",
+      "beginnerOpening": "1896年，许多负债农民希望多发行货币，让农产品价格回升、债务负担变轻；金本位支持者则重视币值稳定。布赖恩用“别把人类钉在黄金十字架上”指责金本位让普通人受苦。这是宗教式的强烈比喻，不是在争论要不要制作黄金十字架。",
+      "originalDetailsSHA256": "b7f01b8ac0bbff07a87b8ef754666145d3ba7e443e16d71a82191e1cf4d13f01",
+      "beginnerSHA256": "7d3f416901dd3f256c975224463ddf138c9e93370f3bf2897f196e8a6a6bbea5",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "mckinley.front-porch",
+      "title": "麦金莱的‘前廊竞选’",
+      "previousOpening": "1896年麦金莱主要在俄亥俄州坎顿的家中接待代表团、发表演说，形成“前廊竞选”，与布赖恩的巡回演说形成对照。这里的Canton指俄亥俄州坎顿。",
+      "beginnerOpening": "1896年的共和党候选人麦金莱主要在自己家门前接待一批批选民代表、发表演说，所以叫“前廊竞选”。对手布赖恩则到各地巡回拉票。两人都在认真竞选，只是一个让选民来见自己，一个亲自去找选民。",
+      "originalDetailsSHA256": "d4a7f412f3d6f3b1e6e5593873242a42de87d5e52387c02d2a84ea7260834d71",
+      "beginnerSHA256": "69a8dcd8055cbc158503086faf5eadd3159dbce6fbc332943a7ffcbde641e649",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "clay.corrupt-bargain",
+      "title": "‘腐败交易’：1824—1825年的指控",
+      "previousOpening": "1824年无人取得选举人票多数，众议院选出约翰·昆西·亚当斯；他随后任命克莱为国务卿。杰克逊阵营将此指为“腐败交易”，到1844年仍用这个指控攻击克莱。",
+      "beginnerOpening": "1824年没人拿到过半数选举人票，最后由众议院选总统。克莱支持亚当斯，亚当斯当选后又任命克莱为国务卿，杰克逊的支持者因此骂这是拿官职换总统的“腐败交易”。游戏到1844年仍提它，是在用一桩老争议攻击克莱的品行。",
+      "originalDetailsSHA256": "43a3cb2b547a6a7348be058075ea46ee0703564af8ea0f971579fa7531d3593c",
+      "beginnerSHA256": "1c01901cabde35878d36ce8b0412c00c04c1457a50ba711299d45e41b211cafb",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "oregon.fifty-four-forty",
+      "title": "‘北纬54度40分，否则开战’",
+      "previousOpening": "这个口号要求美国在俄勒冈边界争议中坚持更北的领土主张，以战争威胁英国。数字是纬度，不是票数、金额或时间。",
+      "beginnerOpening": "19世纪美国和英国争夺西北部的俄勒冈地区。“54度40分，否则开战”是在喊：边界必须按美国最强硬的要求划，否则就打仗。数字是地图上的纬度。这种口号能讨好扩张派，却也意味着可能为了土地与英国开战。",
+      "originalDetailsSHA256": "a3cfc14c410a598b48bb681c3f2c10fd9d39aa5c0cca80d7534a5f8438238555",
+      "beginnerSHA256": "5766cbd23cf9e3a15807bb41a9f2e4f44f3d7d8a1af1916dd0ef8ea8a143f1d8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "gore.lockbox",
+      "title": "社保‘保险箱’",
+      "previousOpening": "2000年辩论中，戈尔用lockbox比喻保护社保和医疗保障资金、专款专用。游戏也将这一广为人知的政策意象写进其他候选人的选项。",
+      "beginnerOpening": "美国社会保障制度会向退休者等群体发钱，资金要靠长期筹集。2000年，戈尔说要把这笔钱放进“保险箱”，意思是专款专用，别拿去填其他财政窟窿。它是保护退休保障的比喻，不是真的造一个存放全部社保现金的大箱子。",
+      "originalDetailsSHA256": "4d830d5426b4b174abb47425be901fba5decd1902ea062def6a91f548e5eadd0",
+      "beginnerSHA256": "ff29d31037c2efd0f5ecf64d6d417c34e77b189d38a8496d0dc0014a77dea1eb",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "clinton.deplorables",
+      "title": "‘一帮可鄙之人’",
+      "previousOpening": "希拉里·克林顿在2016年筹款活动中，用这个说法批评一部分特朗普支持者的种族主义等偏见；她随后表示，对把比例说成‘一半’感到遗憾。",
+      "beginnerOpening": "2016年，希拉里用“可鄙之人”批评一部分特朗普支持者的种族主义等偏见，惹怒了被她这样归类的人。争议不仅在于她批评了什么，还在于选民觉得候选人在鄙视自己。这里的deplorable是“可鄙”，不是值得同情的“可怜”。",
+      "originalDetailsSHA256": "0ad664d1a0971876edc1604f597c0915c479bac1bfee19fe8c8ab38d169e06da",
+      "beginnerSHA256": "5f96799408bd78a3fb334d9a5c7119c4554473956271e95531c3133b19dd09c4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "trump.small-loan",
+      "title": "‘一百万美元的小额贷款’",
+      "previousOpening": "特朗普在2015年的电视问答中，将父亲给他的一百万美元贷款称为‘小额’。这种‘小额’与普通人经济处境之间的反差，使这句话广为传播。",
+      "beginnerOpening": "特朗普讲自己的创业经历时，说父亲给过他一笔“一百万美元的小额贷款”。对普通人来说，一百万美元已经是巨款，因此“小额”两个字显得很脱离日常生活。游戏借的就是“富人觉得自己白手起家，普通人听了却想笑”的反差。",
+      "originalDetailsSHA256": "9ecc6abeb8cc48897ff0d6de48bf8a8b511925c01f4cff2b68723ea21d59fd17",
+      "beginnerSHA256": "b1901a7c670cca4bcf8b2102664221dafbb4d9031dbb0150717edd2b6ef6d372",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "lincoln.wide-awakes",
+      "title": "Wide Awakes：‘觉醒者’竞选社团",
+      "previousOpening": "1860年，支持共和党的年轻人组织“觉醒者”社团，以制服、斗篷、提灯和整齐夜游队列造势。他们支持林肯、反对奴隶制扩张并维护联邦；名字强调的是政治上的警醒。",
+      "beginnerOpening": "1860年，支持林肯的年轻人组织了“觉醒者”社团，穿统一服装、提灯夜游，替共和党造势。他们有点像当时的竞选志愿者队伍，强调反对奴隶制向新地区扩张、维护联邦。“觉醒”在这里是政治警醒，不是现代某个网络阵营的名称。",
+      "originalDetailsSHA256": "b048f42a4e646c570aefbacf1c57323391cfe1451c8dede0a2f7b12dee16e288",
+      "beginnerSHA256": "1bfe7c24b983e318386a9e1a3441df727fe9a6988f3e1ad73c44111046a76727",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "truman.do-nothing",
+      "title": "‘无所作为的国会’",
+      "previousOpening": "杜鲁门把共和党控制的第80届国会称为‘无所作为的国会’，借此把竞选矛头从杜威本人扩大到共和党的执政记录。",
+      "beginnerOpening": "杜鲁门1948年竞选连任时，对手共和党控制着国会。杜鲁门把这个国会骂成“无所作为”，意思是它阻挠了自己认为重要的改革。他是在告诉选民：问题不只在于谁当总统，也在于谁控制制定法律、批准预算的国会。",
+      "originalDetailsSHA256": "91166df4117028ded2f98abaae8496b50762728eb76234655b5099a554dde762",
+      "beginnerSHA256": "47d543fe06d5943d7c696f88daf6da543a28dd5a6aec0bac8cc41b34f5401f7b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "kennedy.televised-debate",
+      "title": "1960年肯尼迪与尼克松电视辩论",
+      "previousOpening": "1960年9月26日，肯尼迪与尼克松举行首场总统候选人电视辩论。荧屏形象与表达方式由此成为竞选传播的重要议题。游戏也以不同的辩论结果呈现这种影响。",
+      "beginnerOpening": "1960年肯尼迪和尼克松参加总统候选人电视辩论。过去选民更多听广播、读报纸，现在还能直接看候选人的神态、身体状态和表达。因此这道题既考政策，也考你能否让电视观众相信自己有当总统的样子。",
+      "originalDetailsSHA256": "838c061273cf15e2a5ddc093ce3e96b519da74d8b7bbcc422df6a0e11196e55e",
+      "beginnerSHA256": "c2f610f127bea6f7f0fe457a8885607246862ed07540df1d242b103f05317520",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "smith.presidential-campaign",
+      "title": "约瑟夫·斯密的1844年总统竞选",
+      "previousOpening": "后期圣徒运动创始人约瑟夫·斯密曾在1844年竞选总统，同年6月27日在伊利诺伊州迦太基监狱遇害。2012剧本用这个先例衬托罗姆尼的宗教背景，并展开罗姆尼胜选后的架空故事。",
+      "beginnerOpening": "罗姆尼信奉的宗教来自后期圣徒运动，常被称为摩门教。这个运动的创始人约瑟夫·斯密也曾在1844年竞选总统，但当年就遇害了。2012年的游戏提起他，是把罗姆尼的宗教身份和更早的一段参选历史联系起来。",
+      "originalDetailsSHA256": "7d0533f808eb41405e5bf3f3ec5f67c7458e4a954225148234e405cbecc58dca",
+      "beginnerSHA256": "4589d48c1bf40e6e858e9a52723e520173eb66014ab760f0ed1c383967e3f395",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "trump.ymca",
+      "title": "YMCA与特朗普的竞选集会",
+      "previousOpening": "特朗普在2020年集会末尾随Village People的《YMCA》跳舞，画面广为传播。游戏借熟悉的集会音乐，反衬架空结局中败选者的绝望。",
+      "beginnerOpening": "《YMCA》是一首节奏欢快、常被用来带动现场气氛的流行歌，特朗普在2020年竞选集会中曾伴着它跳舞。如果游戏把这首歌放进惨败或绝望的结局，笑点就是：外面还在播放欢乐的竞选音乐，人物的处境却已经完全相反。",
+      "originalDetailsSHA256": "2022d400cc43ffc6919f5e20788a2091b42e0aa5ef5e97a43e006720f35103ef",
+      "beginnerSHA256": "92c35d11c1c7ca048585d3fd1992dda471a03d17f5421ac5718c99ff03552f43",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "thompson.fear-loathing",
+      "title": "Fear and Loathing：书名改写",
+      "previousOpening": "标题很可能化用了亨特·S.·汤普森的《拉斯维加斯的恐惧与厌恶》，换成“特朗普酒店里的恐惧与厌恶”，借来荒诞、失控的气氛。",
+      "beginnerOpening": "《拉斯维加斯的恐惧与厌恶》以荒诞、混乱的叙事闻名。游戏把书名中的地点换成特朗普酒店，很可能是在借它形容人物惊恐、厌恶、失去控制的状态。这里先把它理解成一个带文学味的黑色幽默标题就够了。",
+      "originalDetailsSHA256": "3cd335a8c52d6efd8d7bf19bb0181b4c77e387e996cf16d614eb75af1806bb9d",
+      "beginnerSHA256": "b668e59e3f972c8204cb6f60f6821ac88352e67ef1193e6b3e05e2d7de8116a1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.american-system",
+      "title": "国内公共工程与克莱的“美国体系”",
+      "previousOpening": "这里的internal improvements指运河、道路等交通与公共工程，不是泛指改善内政。克莱的“美国体系”把保护性关税、国家银行和联邦资助的公共工程结合起来，主张通过交通和市场联系促进各地区经济。",
+      "beginnerOpening": "1844年的克莱主张由全国政府支持修路、开运河，再用关税保护本国工业、用国家银行支持经济，这套主张叫“美国体系”。问题背后的分歧是：国家要不要积极花钱把各地连成统一市场，还是应把更多事情交给地方和私人去办。",
+      "originalDetailsSHA256": "e8a29cc281ea3ba627fc60fe4751c3701999dfbe6b8e787b6d7cdbaac8c7a695",
+      "beginnerSHA256": "70aaf3dcd051008ff50f85e29b1cca6bcb06eab53ed72fa42fc113ef532c2369",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.bank-war",
+      "title": "国家银行、银行战争与独立国库",
+      "previousOpening": "1844年语境中的national bank，是围绕是否恢复类似美国第二银行的全国性银行而展开的争论。第二银行的联邦特许期限于1836年届满；“已撤销”指其全国性特许地位，并非说其当时立即停止一切州级业务。杰克逊1832年否决续约，是“银行战争”的关键事件。",
+      "beginnerOpening": "当时美国还没有今天的美联储。政客争论的是：要不要有一家获得全国政府支持、影响全国信贷的国家银行。杰克逊反对它，担心金融权力集中；支持者认为它能稳定经济。“独立国库”则是让政府自己管公款，是另一种方案。",
+      "originalDetailsSHA256": "2266e5a3d8c000cceb4416788dbdbb35e1f2d3d18e94e4453cec5bf0b5393346",
+      "beginnerSHA256": "eddc34f3539c3ed4f1f48b41af22f966b998024a02df4bc67d668d21c28b296b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.nativist-riots",
+      "title": "本土主义与1844年费城暴乱",
+      "previousOpening": "此处nativism指反移民、反天主教的本土主义或排外主义，与美国原住民无关。许多爱尔兰移民信奉天主教，这使宗教与移民冲突相互交织。1844年费城发生暴乱，天主教教堂遭焚毁。",
+      "beginnerOpening": "这里的“本土主义者”指反对移民、尤其敌视天主教移民的人，不是美国原住民。许多爱尔兰移民信天主教，1844年费城的冲突甚至发展到焚烧教堂。候选人的表态会影响排外选民和移民选民，含糊地说“反对暴力”也可能被两边追问站哪一边。",
+      "originalDetailsSHA256": "c87f8ec8ade4a595dad94d8f008422772a11a236dc96c1383126df334759a202",
+      "beginnerSHA256": "d5e793d46af3d078b60b068b7fe916f11c5f307c322fd8e388d508e56d8c18e1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.gag-rule",
+      "title": "禁议规则：不是普通的维持议事秩序",
+      "previousOpening": "众议院1836年开始采用禁议规则，把涉及奴隶制的请愿自动搁置，不予进一步处理。约翰·昆西·亚当斯反对它，认为它侵害请愿权；规则最终在1844年12月3日被废除。",
+      "beginnerOpening": "奴隶制允许把人当财产买卖。反对者向众议院请愿，南方议员却用“禁议规则”把这些请愿搁置，不让讨论。支持废除这条规则，首先是在要求允许讨论奴隶制；支持保留它，则是在帮助把这个会撕裂南北的议题压下去。",
+      "originalDetailsSHA256": "00bdf0eaae1494a2d06bbc7edc938bfbac6d2b142a660ec66693981fc6817332",
+      "beginnerSHA256": "00e4c746bd2052c76049ff8af18174467425d7b66b6db8388aed687ef44c39f4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.manifest-destiny-date",
+      "title": "“天定命运”的年代问题",
+      "previousOpening": "“天定命运”以天意和民族使命为领土扩张辩护。约翰·L.·奥沙利文在1845年的《吞并》文章中使用了这一著名措辞。",
+      "beginnerOpening": "“天定命运”大致是说：美国向西扩张领土，是上天安排的国家使命。这个观念把夺取土地包装成崇高事业，能吸引扩张派，却把当地居民和邻国的权利放到一边。这个固定说法在1845年才出现，游戏提前放进了1844年的讨论。",
+      "originalDetailsSHA256": "7400411c78e695716f1655c6c38ebb3a23f166114a71e5790df1279d3b7b3ebe",
+      "beginnerSHA256": "b5de4b3c284f1f35bb5b0baa8fe97a615f9df460580f02e14988084e6a4d4c25",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.calhoun-pakenham",
+      "title": "卡尔霍恩致帕肯纳姆信",
+      "previousOpening": "卡尔霍恩在1844年4月18日致英国驻美公使理查德·帕肯纳姆的信中为奴隶制辩护，将吞并得克萨斯与保护奴隶制联系起来。“积极的福祉”正是这种辩护的措辞。",
+      "beginnerOpening": "卡尔霍恩是维护南方奴隶制的重要政治人物。他在信里把吞并得克萨斯和保护奴隶制联系起来。因此候选人回应这封信，不只是谈要不要扩大版图，也是在表态：扩张是否应当为奴隶主服务，以及是否接受这种公开维护奴隶制的理由。",
+      "originalDetailsSHA256": "0886fa838c4c86471c6c3ab4f6b00e3194f9bcfc205adf0fc06e19c8c59e5fef",
+      "beginnerSHA256": "6df15fbe8f03170ea888d7186cdced860149e59f644422599713f9ab62074d27",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.princeton",
+      "title": "普林斯顿号事故与国务卿更替",
+      "previousOpening": "1844年2月28日，普林斯顿号在波托马克河试航时，“和平缔造者”舰炮爆炸，国务卿阿贝尔·厄普舒尔、海军部长托马斯·吉尔默等人遇难。这里说的是军舰事故，不是普林斯顿大学发生爆炸。",
+      "beginnerOpening": "普林斯顿号是一艘美国军舰。1844年它进行展示航行时，一门舰炮爆炸，造成包括国务卿在内的多人死亡。这里提它，是因为一场事故突然改变了政府高层的人事安排；它和今天常听到的普林斯顿大学不是一回事。",
+      "originalDetailsSHA256": "aacc93b18599119dc54522ec78e513431e5a44f8a2f6244ad0cb6d539b5b8934",
+      "beginnerSHA256": "a0bd948e31ff3a44f58ff8038a5efaee524f2e3124151afe37b683b880e37091",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.birney-name",
+      "title": "伯尼：原作的人名误写",
+      "previousOpening": "1844年自由党的总统候选人是废奴主义者詹姆斯·吉莱斯皮·伯尼（James G. Birney）。游戏攻击选项写成Thomas Birney，人名有误；“民主党的傀儡”“把大选送给波尔克”则是围绕第三党分票的竞选攻击。",
+      "beginnerOpening": "1844年的自由党是一支反对奴隶制的小党，候选人伯尼也在竞选总统。大党的支持者担心，小党会分走与自己立场相近选民的票，反而让最不喜欢的对手赢。因此“把选举送给波尔克”是在指责分票；原作还把伯尼的名字写错了。",
+      "originalDetailsSHA256": "0e5c2392d520febd46db67c2660955ee6cf35cabaecc3bebcc32dd62fb1179da",
+      "beginnerSHA256": "47ea408cc264c9b20c87962d4422733099d5e17fb4dffe00d02fb90dd3fd29c5",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.sectional-source",
+      "title": "地域偏见：原句可能漏了否定词",
+      "previousOpening": "Sectional指美国各地区的利益分歧。原句说反对扩张“确实源于地域偏见”，随后却把得克萨斯、俄勒冈等地都列入反对范围，前后不太协调，疑似漏了not。",
+      "beginnerOpening": "当时美国的不同地区，尤其北方和南方，对奴隶制和领土扩张有很深的利益冲突。“地域偏见”是在指责对方只替某个地区说话、不替全国考虑。这句话的前后文还有疑似漏词的问题，别因为读着矛盾就以为自己漏懂了一段历史。",
+      "originalDetailsSHA256": "f0485b96b1910dd3cfb2e93b591e490b9e04a0a47c5aa520e1a972906dc3c122",
+      "beginnerSHA256": "1557773ae25f7a50c0f3f522e9b49e7982e9286b15d28572c94368f6f3877338",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.oregon-source",
+      "title": "俄勒冈边界与原文语病",
+      "previousOpening": "这里的俄勒冈领地是美英争议地区，范围不能等同于今天的俄勒冈州。1846年条约主要沿北纬49度划界，并保留温哥华岛归英国。哥伦比亚河曾是谈判中的另一种边界构想。",
+      "beginnerOpening": "1844年谈的“俄勒冈”是一大片美英争议土地，比今天的俄勒冈州大得多。把边界往北推，美国就能拿到更多土地，但与英国冲突的危险也更高。所以候选人在强硬扩张和接受妥协之间选，不是在决定今天某个州是否改名。",
+      "originalDetailsSHA256": "fc0c81a08393daee0424a0fdc3b2b2a924f54c2752ddc8be27444b1b64214d26",
+      "beginnerSHA256": "a9bf03c8790ce074090ed8752da9ea003b2ec91da9a444e31b8ed9ffadf5e6e3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.african-colonization",
+      "title": "非洲殖民安置与附条件废奴",
+      "previousOpening": "这里的recolonized to Africa指把获释黑人送往非洲建立殖民定居点，不能译成一般的国内再安置。美国殖民协会推动自由黑人迁往非洲，亨利·克莱是其中的重要人物。",
+      "beginnerOpening": "有些当年的政治家同意结束奴隶制，却不愿让获释黑人平等地留在美国，主张把他们迁往非洲。这类方案还可能要求赔偿奴隶主。它与“立刻释放所有奴隶，让他们作为平等公民生活”差别很大，这正是几个看似都支持废奴的答案之间的关键区别。",
+      "originalDetailsSHA256": "35eb14b3536cbc4efbe389622a01933c1c657e2a4d9a039fc493d5c5ca269d87",
+      "beginnerSHA256": "f025bd00782783a9c9451f6c90ba818d119ab87374800372e3350e69732f487a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.contingent-election",
+      "title": "众议院选总统：按州投票，不是按议员人数",
+      "previousOpening": "如果没有总统候选人获得已任命选举人票的过半数，宪法第十二修正案规定，由众议院从选举人票最多的至多三名候选人中选出总统。每个州的代表团只有一票；副总统另由参议院按相应规则选出。",
+      "beginnerOpening": "美国总统不是全国总票数最多就自动当选。候选人要取得过半数选举人票；若没人达到，众议院才从领先者中选总统，而且每州代表团只有一票。大党在全院议员多，不一定就控制更多州，所以结局里的政治交易还有这一层计算。",
+      "originalDetailsSHA256": "8c32d0d73dbd34302c742adbaf696145f1210ab65aa18df4b224460bddb9c6d0",
+      "beginnerSHA256": "daddf9809523b4816f87fc7ba6e52a2ac52313f304ae9ff96a01c34fec4d0e35",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1844.young-hickory",
+      "title": "“小山核桃”：杰克逊的政治传人",
+      "previousOpening": "杰克逊被称为“老山核桃”（Old Hickory）；波尔克因支持杰克逊的政策而获得“小山核桃”（Young Hickory）的称号。这里的“年轻”强调政治传承，不是在谈一种树的树龄。",
+      "beginnerOpening": "杰克逊是影响很大的前总统，绰号“老山核桃”；波尔克因继承他的政治路线，被称作“小山核桃”。问题相当于在问：要借前辈的人气把自己包装成接班人，还是强调独立能力，以免选民觉得自己只是听命于前辈的门生。",
+      "originalDetailsSHA256": "51dfc5824d93ed0db1b9d0852d4a4dbcbeb38bc88c1c5706cbac96e8df2d3635",
+      "beginnerSHA256": "39bd1f5f63bb26b7f70871bc8bfd0030dcad7afe48da6518f776b1c76fcbf793",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.know-nothing",
+      "title": "一无所知党：这是党名，不是在骂人无知",
+      "previousOpening": "Know-Nothings指一无所知党人，与排外、反天主教的美国党运动有关。成员受到有关组织活动的询问时，常以“我对此一无所知”作答，因而得名。",
+      "beginnerOpening": "“一无所知党”是一个真实的党派称呼：成员被问到组织活动时，会说自己什么也不知道。这个政治运动主要排斥移民和天主教徒。拉拢他们可能得到排外选民的支持，却会疏远移民；它不是一句泛指对手没文化的骂人话。",
+      "originalDetailsSHA256": "6bc566b57887e32aee1a475b705edd845a48c5d02c222605eacae58de949960b",
+      "beginnerSHA256": "e239ecbf53c370b3c602ffb239364a122f1dc4078df2f60eef061a6f1218e57f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.popular-sovereignty",
+      "title": "人民主权：由领地居民决定奴隶制",
+      "previousOpening": "在这段美国内战前的争论中，popular sovereignty主要指由领地居民决定是否允许奴隶制，而不是泛泛宣称一切权力属于人民。道格拉斯推动的1854年《堪萨斯—内布拉斯加法》，将这一原则用于新领地，并废除了密苏里妥协的地域限制。",
+      "beginnerOpening": "美国西部许多地方当时还是“领地”，尚未成为正式的州。道格拉斯主张让当地居民投票决定是否允许奴隶制，这叫此处的“人民主权”。他想把决定权交给地方，但反奴隶制者不愿承认奴隶制可以靠投票合法化，南方支持者又担心当地多数反对自己。",
+      "originalDetailsSHA256": "eeec4f60e06ece6d795c17e919f392602091806dec5f50ad28f01234ef657772",
+      "beginnerSHA256": "ef8a770fcb2e5684ae7dc6bb66ae0e5c3cd78c546eedbbdead555338be1a44ad",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.dixiecrat",
+      "title": "迪克西民主党人与瑟蒙德转党",
+      "previousOpening": "Dixie是美国南方的传统称呼。Dixiecrats在这里指1948年反对民主党民权路线、支持种族隔离的州权民主党人。瑟蒙德曾以该党总统候选人身份参选，并于1964年9月加入共和党。",
+      "beginnerOpening": "不要把今天两党的形象直接套到过去。1948年，一批维护种族隔离的南方民主党人反对本党支持黑人平等权利，另外推出瑟蒙德参选，这批人被称作迪克西民主党人。瑟蒙德1964年又加入共和党，因此游戏很在意他们会把南方选票带给谁。",
+      "originalDetailsSHA256": "21006f4a6e64a2126c4f36cb7870e012106403555fca01f79b0ac118988c793a",
+      "beginnerSHA256": "b283f14b47a14b52f64e778d1abe29bdb40a2891dc2313c378b03fb68e9c236f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.dog-whistle",
+      "title": "政治“狗哨”：带有隐含指向的措辞",
+      "previousOpening": "政治“狗哨”指表面上可以作普通解释、同时向特定群体传递另一层意思的措辞。这里的顾问反馈说，黑人选民将候选人的用词理解成了种族主义暗示。",
+      "beginnerOpening": "狗哨能让狗听到、人却未必听到；政治里借它指“一句话对不同人暗示不同东西”。例如表面讲治安，特定选民却听出针对黑人的意思。这条反馈是在说，黑人选民听出了话中的种族暗示，候选人不能只靠“我没明说”摆脱政治后果。",
+      "originalDetailsSHA256": "3b1d1ea827f636b6e3f02dcf03c07abdf4ce5388ba2d1398a6d20848c08d32f3",
+      "beginnerSHA256": "bce1db631309f29525134163f7b21ab0d554b2e74b38b3978dac49d623dc572c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.solid-south",
+      "title": "“稳固南方”与南方战略",
+      "previousOpening": "Solid South在这里指传统上稳定支持民主党的南方票仓，也常称“南方基地”。“稳固”说的是党派选票格局，不是南方社会不存在冲突。南方战略则是共和党争取这批原民主党选民的竞选策略，两者不能混为同一个概念。",
+      "beginnerOpening": "美国南方曾长期是民主党的稳定票仓，但其中不少白人选民反对黑人平等权利。民主党政府推进民权改革后，共和党有机会争取这些不满者，这就是南方战略的重要背景。这里说的不是今天固定的红蓝地图，而是一张正在改变的党派地图。",
+      "originalDetailsSHA256": "1b9df525cc31422528629ec150193aad9311ca2b0f42bbbe5d6037e24e318526",
+      "beginnerSHA256": "cdc3324ce774cc2375f15c9e230d0d9da22c2407c88a856b5429ae148a51ad30",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.dred-scott",
+      "title": "德雷德·斯科特案：公民身份与领地奴隶制",
+      "previousOpening": "1857年的德雷德·斯科特诉桑福德案，否认被作为奴隶带入美国的非洲人后裔享有判决所说的联邦公民身份，并认定国会不得在联邦领地禁止奴隶制。这里的领地不能随意译成已加入联邦的州。",
+      "beginnerOpening": "德雷德·斯科特是一名被奴役者，曾以自己到过自由地区为由争取自由。1857年最高法院不但否定了他的诉求，还限制国会禁止领地奴隶制的权力。游戏问是否接受判决，实际上是在问：要服从维护奴隶制的法院解释，还是公开挑战它。",
+      "originalDetailsSHA256": "e8cf68a4e625c1e72e54b40835be3d9e4d44d89dbca64d73736b1da03928df36",
+      "beginnerSHA256": "2fc662799b8feea747ae750e3318162547672a710a3b296aa418cd7b0008173f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.lemmon",
+      "title": "莱蒙案：经过自由州，不等于逃奴案件",
+      "previousOpening": "莱蒙案涉及奴隶主从弗吉尼亚前往得克萨斯、途经纽约时带入的八名被奴役者。纽约法院判他们自由；纽约州上诉法院于1860年维持该结果。它与逃亡奴隶遭追捕的问题不同。",
+      "beginnerOpening": "奴隶主把八名被奴役者带过纽约，纽约法院判他们自由。背后的争论是：在允许奴隶制的州被当作财产的人，来到禁止奴隶制的州后，还能不能继续被主人控制。游戏担心最高法院推翻纽约的决定，把南方的奴隶制度强加给自由州。",
+      "originalDetailsSHA256": "3f48e9b293c2debe0f4a2793d858e82cae9eafe75e4af003f4441332feffd342",
+      "beginnerSHA256": "c8a4382829c864664e7cc9c264c856834307d440e22eea3bd59447d9b900537d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.personal-liberty",
+      "title": "个人自由法与《逃奴法》",
+      "previousOpening": "1850年《逃奴法》加强了联邦追捕、遣返逃亡奴隶的机制。北方一些州的个人自由法则提供州级程序保障，或限制州官员、监狱协助执行。它们不是泛指保障所有个人自由的法律。",
+      "beginnerOpening": "《逃奴法》要求帮助追捕逃到自由地区的奴隶，北方一些州则用“个人自由法”限制当地官员协助、增加程序保障。这些法律是在争：一个州是否必须帮助另一个州维持奴隶制。支持它们不只是泛泛说“我赞成个人自由”，而是在南北冲突中选边。",
+      "originalDetailsSHA256": "74ff7dd98d67158121f0a8beab6483e2bf5f420a0c8ddf00b43f5cbf0f4876c2",
+      "beginnerSHA256": "1de854390c1cfffdbba689c6c16201ed63b853a51b4eaee621a5d51e2a65f840",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.land-grant-source",
+      "title": "赠地大学与“中等教育”的原文疑点",
+      "previousOpening": "赠地大学通过联邦赠予公共土地等方式支持办学。1862年《莫里尔法》资助以农业和机械技艺为重点的学院，属于高等教育。",
+      "beginnerOpening": "当时的“赠地大学”构想，是政府拿公共土地支持学校，让更多人学习农业、工程等实用知识。它讨论的是大学教育和政府该出多少钱。原作却把大学和中等教育混在一起写；你只需抓住“是否用公共资源扩大教育机会”这一争议。",
+      "originalDetailsSHA256": "cc0cd2fb703b23939a4524d8707df6443b389a65774f81d8f8881d899a2aadca",
+      "beginnerSHA256": "0ba0e9934139e33d4b1e76d2a1d5310f643e2c184f7e9ddd97f6474f04fa4bce",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.homestead",
+      "title": "宅地法：土地分配与1860年否决",
+      "previousOpening": "宅地政策讨论以公共土地支持定居与耕作，不能直接套用中国宅基地制度。1860年国会曾通过宅地法案，但布坎南总统否决了它。著名的《宅地法》直到1862年5月20日才由林肯签署。",
+      "beginnerOpening": "宅地政策是让定居者取得西部公共土地、在那里生活耕作。普通农民希望有机会拥有自己的地，大种植园利益和政府卖地收入则会受到影响。1860年这还是在争取通过的政策，著名的《宅地法》要到1862年才签署。",
+      "originalDetailsSHA256": "39e606d880c16d9d9a5b2fecf364238c6368f2e98fe4c8b75a91bb607c5cf6a8",
+      "beginnerSHA256": "2e2007b215de9ebd5ab6f91235cd1905e3f5dcd5c9baec26de65b2aacde58c9d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.black-republicans",
+      "title": "“黑色共和党”：种族化的竞选攻击",
+      "previousOpening": "“Black Republicans”是当时对共和党的种族化贬称，用来攻击其反对奴隶制扩张的政策、煽动对白人与黑人关系改变的恐惧。这里不能译成单纯表示族裔身份的“黑人共和党人”。",
+      "beginnerOpening": "这里的“黑色共和党”不是说共和党成员都是黑人，而是对手用来煽动白人恐惧的贬称：暗示共和党会让黑人获得更多权利。1860年的核心争论是奴隶制能否继续扩张。因此这是一句带种族敌意的竞选攻击，不是普通的党派颜色标记。",
+      "originalDetailsSHA256": "04e275c801106f1b5223f1667968fd1091c7afec88255031a952fb77a14d59b7",
+      "beginnerSHA256": "d339bc90d52a85737f0138a8fd49af167a5cfe31da7d244eded83c8e2f9533ed",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.john-brown",
+      "title": "约翰·布朗突袭与1859年恐慌",
+      "previousOpening": "1859年10月16日，约翰·布朗及其追随者突袭哈珀斯费里的联邦军械库，试图推动反奴隶制起义。事件激化了南北恐惧与相互指责。",
+      "beginnerOpening": "约翰·布朗反对奴隶制，1859年带人袭击军械库，想发动反奴隶制起义。南方奴隶主因此害怕更大规模的暴动，北方人也争论他的行动是否正当。候选人既要回应奴隶制的残酷，又要回答是否容许用暴力解决，所以很难用一句好话讨好所有人。",
+      "originalDetailsSHA256": "5963605f42fd00e3ee3b0255f2a9e2f4708f778fc5e4f8ca2049abf0f7efbc18",
+      "beginnerSHA256": "50275fdb160bf627ea81c62638f9ea69c8bb32f02344434c3f303b522ff9be65",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.freeport-doctrine",
+      "title": "自由港学说：地方立法如何影响奴隶制",
+      "previousOpening": "1858年自由港辩论中，道格拉斯主张：即使最高法院承认将奴隶带入领地的权利，领地居民仍可通过不提供支持奴隶制的地方立法，使它难以维持。这个回答后来被称为自由港学说。",
+      "beginnerOpening": "最高法院说国会不能在领地禁止奴隶制，道格拉斯却仍想让当地居民作主。他提出：地方如果不制定保护奴隶主的规则，奴隶制就难以运作。这是在法律夹缝里找办法，既不直接否认法院判决，又试图保住自己的“居民决定”路线。",
+      "originalDetailsSHA256": "ca3124eac410999e0b2e8dbe26ddd9cfb4df965db4aad8f40f6cccff335bd4fb",
+      "beginnerSHA256": "6d1aa7703c44b4087f5ee3040f5a3b3d63c08bdaee88925bc067cb0d62c93bae",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.corwin-background",
+      "title": "永久保护奴隶制的修宪主张",
+      "previousOpening": "危机中的妥协方案可能保护既有蓄奴州的制度，同时限制其扩张。1861年提出的科温修正案，试图禁止未来修宪赋予国会干预州内奴隶制的权力，但没有获得所需批准、成为宪法。",
+      "beginnerOpening": "1860年前后，美国担心南方因奴隶制问题脱离联邦。一种妥协思路是：保证联邦政府以后也不能干预现有州的奴隶制，换取南方留下。支持这种主张是在拿奴隶制问题换国家暂时不分裂；相关修宪方案后来没有成为宪法。",
+      "originalDetailsSHA256": "2733dfc7857da7295fe4a4c79e8206a15fda48ff3c7d1ffa6dacdac79658a98d",
+      "beginnerSHA256": "aa2da633740a16c7ace5ebec2da53a4fcb7b350076da1127519eacd13888a8c8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.atlantic-slave-trade",
+      "title": "禁止进口奴隶，不等于废除奴隶制",
+      "previousOpening": "美国禁止从海外输入奴隶的联邦法律于1808年1月1日生效，但奴隶制与美国境内的奴隶买卖继续存在。游戏讨论“重启跨大西洋奴隶贸易”，针对的是海外输入这一禁令。",
+      "beginnerOpening": "美国1808年禁止的是从海外输入奴隶，却没有同时取消境内奴隶制；奴隶仍能在国内被买卖。因此题目中的“重启奴隶贸易”，主要是在问要不要重新从非洲等地运人来卖。反对重启，并不自动等于同意释放美国境内已有的奴隶。",
+      "originalDetailsSHA256": "0ad098bf83e101749beabc0d9f1732c089b1e6ede95095c60a0110a6c26497ab",
+      "beginnerSHA256": "3f099e3626ecaed3eb4943530884badf07decbc4c5920a396475c8bed298b190",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.naturalization-source",
+      "title": "移民与入籍：nationalization的语境疑点",
+      "previousOpening": "题目讨论外国移民的入籍问题：naturalization指取得公民身份。原问题误写成了常表示“国有化”的nationalization，选项中的naturalization laws则明确指入籍法。",
+      "beginnerOpening": "移民来到美国和成为美国公民，是两个不同步骤；“入籍”说的是后者。当时的争议是移民要等多久、满足什么条件才能成为公民。原作误用了一个常指“国有化”的英文词，但这里没有在谈没收企业，而是在谈移民取得公民身份。",
+      "originalDetailsSHA256": "e66d1c43bdbfad6c5762df58ab5748bb01b203e501237f2a0fa1d16e0af792fd",
+      "beginnerSHA256": "f4623de699776fc991cfafe083aeaaf7eafe289a673feb3d3a997afa269d4ee2",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.fire-eaters",
+      "title": "“喷火派”：激进的南方分离主义者",
+      "previousOpening": "Fire-Eaters不是表演吞火的人，而是内战前激进维护奴隶制、鼓吹蓄奴州脱离联邦的一批南方人物。他们也有人要求恢复跨大西洋奴隶贸易。",
+      "beginnerOpening": "“喷火派”是内战前鼓吹南方脱离美国的一批强硬派。他们维护奴隶制，认为留在联邦会威胁南方的制度。反对他们，可能只是认为国家不该分裂，并不必然意味着反对奴隶制；游戏里同属南方的人，也会在是否脱离联邦上发生分歧。",
+      "originalDetailsSHA256": "35917eef76e199856a0e9d4b850c4f45d1a30d3b66522e1df790f2d0e0de5c00",
+      "beginnerSHA256": "df487fcfc057e3ddae68d21f9ff13b87d321766dfc80ee49f7f4a52f9ed7ba67",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.hunkers",
+      "title": "Hunkers与“烧谷仓派”",
+      "previousOpening": "Hunkers是纽约民主党内部较保守的派系；与之相对的Barnburners，更反对奴隶制向新领地扩张。",
+      "beginnerOpening": "纽约民主党内部也分派系：一派较保守，另一派更反对奴隶制向西部扩张。后者被叫作“烧谷仓派”，借的是“为除老鼠把整座谷仓烧掉”的故事，讽刺他们改革太猛。这里在讲同一个党内的斗争，不是在说一群真的纵火犯。",
+      "originalDetailsSHA256": "50032a35f420538ae5f0143d9714866ee11461669889ef221348036b88363b30",
+      "beginnerSHA256": "5ca77b3a18eef56a737671f0584a75d61efc9c3a6a9479ccb76c7364b707fefb",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.fusion-electors",
+      "title": "联合选票：不只是总统与副总统搭档",
+      "previousOpening": "1860年的fusion ticket在这些问题里，指反林肯阵营联合推出选举人名单，以减少分散选票；不是把不同总统候选人简单组成总统、副总统搭档。联合名单中的选举人可以支持不同的总统人选。",
+      "beginnerOpening": "如果几个反对林肯的党各推一套选举人，就可能互相分票，让林肯更容易赢州。“联合选票”是让这些阵营合作推出选举人名单，先合力阻止他。它不一定意味着各党同意同一个总统人选，也不只是给总统换一位副总统搭档。",
+      "originalDetailsSHA256": "f9bdb3f8cfdee20dc1e1b7b5cea83c1e728bd9236bfd1b4c46751008dc0cd921",
+      "beginnerSHA256": "c1581c0e09a4c3db2d7cfeaed93bc899ba2b6a80501153c52e941c5759dfe28e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1860.contingent-election",
+      "title": "“国会选择”：总统实际由众议院选出",
+      "previousOpening": "依据宪法第十二修正案，无人获得已任命选举人票的过半数时，总统由众议院从选举人票最多的至多三名候选人中选出。每个州代表团只有一票；副总统另由参议院按规则选出。",
+      "beginnerOpening": "1860年有好几位主要候选人。若谁都拿不到过半数选举人票，最后就由众议院选总统，而且每州只有一票。有的阵营因此不必先争全国第一，而想先阻止林肯过半，再去谈交易；只是阻止他获胜，并不等于自己就能当总统。",
+      "originalDetailsSHA256": "1c757630b5b1c1d232a0eb7fa8b2187b8a176f9129187e0cfb2244902ad395ad",
+      "beginnerSHA256": "9f93779d37e19f375c6195dae293ba4ad6c739b63f9ab792d3bd27b7daa6b353",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.silver-system",
+      "title": "自由铸银、有限购银与金银比价",
+      "previousOpening": "自由铸银主张开放白银铸币、取消数量限制，以扩大货币供应。金银复本位以两种金属为本位；16∶1是法定重量比价，即一份黄金对应十六份白银，区别于随供求变动的市场价格。",
+      "beginnerOpening": "当时争论的不只是用哪种金属做硬币，而是全国有多少钱可用。布赖恩一方希望开放白银铸币、增加货币，让农民更容易卖出高价、减轻债务；另一方担心钱贬值。“16比1”是金银的法定重量比，和市场上两种金属实际值多少钱未必一致。",
+      "originalDetailsSHA256": "b60628e2f675dd1a9a2b10499ef35a3a4d6263e20a947d5c179772fc0eabca23",
+      "beginnerSHA256": "a3dca9af5e29ecd4ec72036566efe3817bbfffd3caf231bed08a867d64a37e70",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.front-porch",
+      "title": "前廊竞选：候选人为何在家接待选民？",
+      "previousOpening": "麦金莱在俄亥俄州坎顿的家中接待各地代表团，发表准备好的演说；布赖恩则乘火车巡回演说。这是两种竞选组织方式的对照，不是麦金莱退出竞选。",
+      "beginnerOpening": "当时有人觉得总统候选人应当庄重地等民众推举，不该像推销员一样到处吆喝。麦金莱便在家接待代表团，布赖恩则乘火车巡回演说。这道题是在选择竞选形象和接触选民的方法，而不是在问要不要放弃拉票。",
+      "originalDetailsSHA256": "35ff711c6fd4969ea998ac53cab8af7dfa7ee3811f6327cfa1d281626897dc6f",
+      "beginnerSHA256": "d5d0d7c89ee98be62cc486f5afd9909bd154e2e5b3bce209f8e464c973475a67",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.bryan-nicknames",
+      "title": "“伟大的平民”与“普拉特河的少年演说家”",
+      "previousOpening": "这些是布赖恩的政治绰号。“伟大的平民”强调他作为普通民众代言人的形象；“普拉特河的少年演说家”突出年轻与口才，并联系他的内布拉斯加背景。并非说他竞选时还是未成年少年。",
+      "beginnerOpening": "布赖恩以年轻、能演说、替普通人争利益的形象出名，所以有“伟大的平民”等绰号。如果游戏让听众在这些赞美声后反而嘘他，就是说他这次说的话让自己的支持者失望了。“普拉特河”是他所在地区的河名，与古希腊哲学家柏拉图无关。",
+      "originalDetailsSHA256": "229264d8e81f68187ba3ade29cf10d717551e2d0c1a7707d3df2269b30af2c52",
+      "beginnerSHA256": "5af9c3a3fbe9acf5ef331bc39666e77a8288daac5129e5454476c8a2d766885f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.wet-dry",
+      "title": "Wet／Dry：反禁酒派与禁酒派",
+      "previousOpening": "禁酒政治中的wet通常指反禁酒或支持合法饮酒的一方，dry指支持禁酒的一方；不能直译成“湿的人”或“干的人”。节制饮酒、星期日限售与全面禁酒，也不是同一政策。",
+      "beginnerOpening": "这里的wet和dry不是天气，而是酒类政策的阵营：wet通常反对禁酒，dry通常支持禁酒。禁酒派认为酒精破坏家庭和社会，反对派则强调个人选择及商户生计。少喝一点、星期日不卖酒、全国彻底禁酒，是程度不同的主张。",
+      "originalDetailsSHA256": "5b0cc5128351db10a9e5d13130dedeedceed32d3f782349d1e05b54e3547cbc7",
+      "beginnerSHA256": "3762a957e92f1caf4584aebb6cb921e7ef84ecb27d5f69fbd605e76d7042c49b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.pendleton-patronage",
+      "title": "政党分赃制与官职酬庸",
+      "previousOpening": "政党分赃制指胜选后以官职报偿党内支持者，不是战场分赃。官职酬庸是分配职位的政治关系；也不意味着所有联邦职位都可由总统任意分给私人。",
+      "beginnerOpening": "过去政党赢了选举，常把政府职位分给替自己出力的人，像是用公职奖励政治支持。文官改革则希望用考试、能力选人，减少这种分配。游戏里的取舍是：坚持改革可能得罪党内帮忙拉票的人，继续分官又会让选民觉得政府腐败。",
+      "originalDetailsSHA256": "001e40143a57435e56f299f5273f35561f121308af63435c191693a902b5e056",
+      "beginnerSHA256": "f944cc5c0f4448536dcbe9128ee209d96c0e0420e5f746f4e1f0201f95c2a6ac",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.pullman-intervention",
+      "title": "普尔曼罢工：邮件、禁令与联邦介入",
+      "previousOpening": "1894年普尔曼罢工及抵制普尔曼车厢，使铁路运输和邮政受到影响。法院禁令、州长与联邦政府的冲突、德布斯因违抗禁令被追究，属于相关但不同的问题。法院禁令不是工会自己发布的命令。",
+      "beginnerOpening": "普尔曼公司的工人罢工后，铁路工人也拒绝处理它的车厢，影响了运输和邮件。政府和法院随后介入。候选人要回答：这是必须恢复秩序的全国危机，还是政府在帮助企业压制工人？所以表态会牵动工会、雇主和担心生活受阻的选民。",
+      "originalDetailsSHA256": "457a45b49c6b75152695a641eec9a73afb7599d593d1dfa66f838fd719743f6a",
+      "beginnerSHA256": "e1efd771de0781e96cb28a4fabeadc4593617b8bf6820a028194b5a23486f230",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.silver-repeal-date",
+      "title": "《谢尔曼白银购买法》：原作1894年有误",
+      "previousOpening": "《谢尔曼白银购买法》属于1890年的货币立法，与同年的《谢尔曼反托拉斯法》不是同一部法律。支持铸银与反对企业垄断不能因名称相近而混为一谈。",
+      "beginnerOpening": "政府买白银，会支持银价，也关系到能发行多少货币。克利夫兰总统推动取消一项购银要求，支持白银的农民、矿业地区和政客便很不满。这里讨论的是货币政策；同样带“谢尔曼”名字的反垄断法是另一件事，原作的年份也写错了。",
+      "originalDetailsSHA256": "fa2f571d0745a31ef83d40a1ed2e7c668e55e43ecd81f4453040fc38aac14f0c",
+      "beginnerSHA256": "f185b11a95fa95d93acdf52fa318c2b32a7d60e052049e9eaf0bc9f164a29fc1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.coxey-army",
+      "title": "考克西“军队”：失业者进军华盛顿",
+      "previousOpening": "1894年，雅各布·考克西带领失业者赴华盛顿，要求通过公共工程创造工作。所谓“军队”是抗议队伍的政治称呼，不是联邦军队，也不是由将军指挥的军事单位。",
+      "beginnerOpening": "经济困难时，考克西带着失业者去华盛顿，要求政府出钱修路等，以工程创造工作。报纸称他们是“军队”，其实他们是请愿者。这道题问的是：经济萧条时政府是否该主动雇人做公共工程，而不是要不要镇压一支造反的正规军。",
+      "originalDetailsSHA256": "5555fe9169b2d97b5fd4ff2ecaa257e4fd35ccd574e1a2096bb4f3f4d958e480",
+      "beginnerSHA256": "45e29b02a767b1a92f00ebc004b9d5fc119a0feb9eadb827c6b5fff635b243b1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.pitchfork-tillman",
+      "title": "“干草叉”本·蒂尔曼与南方州权话语",
+      "previousOpening": "蒂尔曼的绰号与他扬言用干草叉戳克利夫兰、迫其改变经济政策的攻击性修辞有关；不是他真的带着干草叉参加游戏中的会谈。",
+      "beginnerOpening": "蒂尔曼是一位言辞激烈的南方政治家，“干草叉”是形容他攻击对手的凶猛风格。在种族问题上，他维护白人统治。因此同他合作不只是争取一位地方大佬，也可能让你被看作向种族主义妥协；“尊重州权”在这里有很具体的政治含义。",
+      "originalDetailsSHA256": "463bfbb9988e8f6f081dc929ab89e61f36f543fe660d096e19ebad5541ae0d10",
+      "beginnerSHA256": "1a93f3bb61d8ee6bb13292924e4313808eed8e0b6d07057f39389f8f42fc9523",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.women-idaho-date",
+      "title": "爱达荷妇女选举权：同年不等于已参与当届总统投票",
+      "previousOpening": "科罗拉多、犹他、爱达荷和怀俄明的妇女选举权，形成于不同的立法、建州与公投过程，不能都说成全国宪法修正案带来的权利。",
+      "beginnerOpening": "1896年，美国妇女并非全国都能投总统票，各州规定不同。有些西部州较早允许妇女投票，因此候选人需要把她们当作真正的选民来争取。原作把爱达荷也算作当届已经能投票的州，时间上不准确：当地是在那年投票日才批准这项权利。",
+      "originalDetailsSHA256": "1307e4930cb2bdc60e8023ae7f765f31ecf46bd9aed60965655878d1c744fa90",
+      "beginnerSHA256": "8e35db243f9c6ad804cb71f9051fd9919e2fdd8a56391ce094a71449c13c323a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.blue-laws",
+      "title": "“蓝色法”：星期日营业与休息规定",
+      "previousOpening": "蓝色法通常指限制星期日营业、劳动或某些娱乐活动的法律，历史上与基督教的休息、礼拜观念相联系；名称不是说法律使用蓝色字体。",
+      "beginnerOpening": "“蓝色法”常要求星期日关店、停止某些工作或娱乐，源于基督教礼拜和休息的传统。支持者认为它能维护家庭与道德，反对者可能觉得政府不该按某种宗教习惯管所有人。它与全面禁酒有关联，但两者不是同一项政策。",
+      "originalDetailsSHA256": "db3a51ef934d575c4872b29df88472fbc6f93affd78a519d19eca4044895a66e",
+      "beginnerSHA256": "259571c9e52a86326dc017f1755eed20b2ef0d5e02eff079b42a2e6fe3832287",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.rural-mail",
+      "title": "农村免费投递：把邮件送到住处",
+      "previousOpening": "农村免费投递指居民无需专程去邮局领取邮件，开始获得上门投递服务；“免费”不是所有寄信都免邮资。",
+      "beginnerOpening": "城市居民能等邮差上门，一些农村居民却得自己跑去邮局取信。“农村免费投递”就是把送信服务扩展到乡下，不是寄任何信都不用贴邮票。它会改善农民的日常生活，但要花政府的钱，因此也能成为争取农村选票的议题。",
+      "originalDetailsSHA256": "2ee75be9c13d5ab3cf7710716cc1cbd1968cf53a17055086104e628e0da76666",
+      "beginnerSHA256": "873952333fd3047a5010b70b499c9688fc12b609e5401668ffefa72229610db2",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.rail-funding-date",
+      "title": "太平洋铁路融资法案：疑似提前引用1897年表决",
+      "previousOpening": "国会记录中，可识别的H.R. 8189太平洋铁路融资法案，涉及既有铁路债务和联邦债权的清偿，并不只是拨款新建一条铁路。1897年1月11日，它在众议院推进至三读的表决中遭到否决。",
+      "beginnerOpening": "19世纪修大铁路经常涉及政府贷款、土地和私人公司利益。这里的融资争议主要是怎样处理既有铁路欠政府的债，不是简单地问要不要修铁路。候选人支持某个安排，可能被说成保护交通命脉，也可能被骂成替有钱公司免除负担。",
+      "originalDetailsSHA256": "ccfee8f48bd4d9191e3675964c20be328672e1fbeb8222054b3c53457679b6fb",
+      "beginnerSHA256": "384cbdac085a11ab542282330ebe08445617865098d5437120ec2a4ba330ee51",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.effluence-source",
+      "title": "effluence：原作措辞不协调",
+      "previousOpening": "原句with effluence通常指“流出、排放”，放在鼓励南方竞选的句子里显得突兀。结合上下文，这里采用“放开手脚去干”的意思；原作者想用的具体词语已难确定。",
+      "beginnerOpening": "这段话是在鼓励候选人去南方积极争取选民。英文原作却用了一个通常表示“流出、排放”的词，放在这里很不自然。中文按上下文处理为“放开手脚去干”；如果你觉得这个表达奇怪，原因在原作措辞，不需要寻找一个冷门历史典故。",
+      "originalDetailsSHA256": "067328a81b54500cfbba5b0c793673d5c1147d95611e22ab1b565d9e57574ae9",
+      "beginnerSHA256": "343b05741bb06e98bd35bd9f63d946533331df17ea97d5147bd8807361eace6e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.contingent-election",
+      "title": "胶着选举与众议院按州选总统",
+      "previousOpening": "nail-biter与squeaker都在这里形容结果极其接近的选举，并非咬指甲的比赛或“输给吱吱声”。胜负标题与缺少选举人票多数的叙述应结合阅读。",
+      "beginnerOpening": "票数接近，和没有人取得选举人票多数，是两件事。后者会把总统选择交给众议院，由每州代表团各投一票。结局里讨论谁控制哪些州的议员，就是在估计这场第二轮政治较量；不是把全国普通选民的票再数一遍。",
+      "originalDetailsSHA256": "a75ae781fb709b0200468a95299002e03be62ad435956f0d922a056c6260c6b3",
+      "beginnerSHA256": "a55c1dfe57ee1b5318e68a57d1ab9fdaa13ccc4a510b25a6cad15a195df5a8cd",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.darwin-context",
+      "title": "进化论、社会达尔文主义与后来“猴子审判”",
+      "previousOpening": "这里涉及三种不同观念：解释生物演变的进化论、将竞争套用到社会关系的社会达尔文主义，以及以宗教解释生命起源的创造论。不同选项借它们表达候选人的宗教与社会立场。",
+      "beginnerOpening": "生物进化论讨论物种如何变化；“社会达尔文主义”却把竞争套到人类社会，常用来解释强者成功、弱者受苦。题目把科学、宗教和社会观念放在一起，让候选人表态。布赖恩后来还参与过反对学校教进化论的著名案件，但那是1925年的事。",
+      "originalDetailsSHA256": "7a804d99f057095577c34d6d103c719d579690b6bc08142e3403af87b53a2636",
+      "beginnerSHA256": "4f6c07de74e12771a1c6086e6398c5aa87abff890b1bd3c0db22c801779d14f3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1896.hawaii",
+      "title": "推翻夏威夷君主制与美国吞并是两件事",
+      "previousOpening": "夏威夷君主制于1893年被推翻；美国于1898年吞并夏威夷。1896年讨论是否吞并，不是在讨论一个已经成为美国州的地方。多尔指政治人物桑福德·多尔，也不是水果本身。",
+      "beginnerOpening": "1896年的夏威夷还不是美国的州。当地君主制已被推翻，美国政客正争论是否把这些岛屿吞并。支持者看重贸易、种植园或战略位置，反对者则质疑美国有没有权力接管别人的国家。因此“给当地带去秩序”是一种扩张理由，不是当地人一致同意的结论。",
+      "originalDetailsSHA256": "bc620491e25eb715c1bfca15f6a23b80753c07c43dc9f5b335e25e1302ae95c6",
+      "beginnerSHA256": "0f04314b214bdbc69d758911c01e23c227359ddabd1fc02e41cf1b43bc34ece4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.hyphenated",
+      "title": "“带连字符的美国人”：族裔身份与忠诚争论",
+      "previousOpening": "英文中的族裔称呼常用连字符连接，例如German-American。“带连字符的美国人”在战争时期的争论中，被用来质疑移民及其后裔的忠诚，并不是一个法律上的国籍类别。",
+      "beginnerOpening": "德裔美国人、爱尔兰裔美国人这类英文称呼，常用连字符连接。第一次世界大战期间，有人拿这种双重身份质疑移民后代是否忠于美国。候选人说“你首先得是美国人”，可能让一部分人觉得爱国，也可能让另一些选民觉得自己的出身被当成罪过。",
+      "originalDetailsSHA256": "e001fad100b246c5c6922eb63540765c8fc4719c31bc5581add365bbc5f6fc49",
+      "beginnerSHA256": "c1c7c6a35e9194c88fbea77d83732b8c6ec67b4280fa03beb2632635439cdab6",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.revenue-date",
+      "title": "1916年税法与“超额利润税”的时间差",
+      "previousOpening": "美国税务局1918年的报告记载，1916年收入法对军火制造净所得征税，第一项一般性超额利润税则来自1917年3月3日的法律。游戏把1916年的遗产税与超额利润税并列，混合了两次立法。",
+      "beginnerOpening": "第一次世界大战使军火企业获得大量生意，政府于是讨论向相关利润征税。“超额利润税”想多收企业异常高的利润，“遗产税”则在财富继承时征收。支持者希望让富人、获利企业多承担开支，反对者担心伤害投资；原作还混合了不同年份的税法。",
+      "originalDetailsSHA256": "3603da428a05c6aaddcb4c9da82533d5c33e73cc7ee08828ac350ff28306611e",
+      "beginnerSHA256": "140d885d7c8cd0f7ba20d30379813b1b0c59b9a26d7ace8978a87321134ddbd8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.literacy",
+      "title": "移民识字测试：不是只准考英语",
+      "previousOpening": "移民识字测试在1916年仍处于立法争论中。1917年实际生效的条款允许用某种语言或方言阅读，并设有豁免；游戏将它概括为英语识字测试，范围更窄。",
+      "beginnerOpening": "识字测试是用能否读懂文字来筛选移民。支持者把它说成提高移民素质，反对者认为它会挡住贫穷却有工作能力的人。游戏说的是英语测试，但后来实际法律允许用其他语言阅读。它争的是入境门槛，不是所有移民都要参加一场统一英语考试。",
+      "originalDetailsSHA256": "6c7b3a45155f75f87f1af0f569f5fa15f2fa09d35d48980fdc0ec3a49bf9b5ce",
+      "beginnerSHA256": "bc6469d0aeebda306af9bc9a6e6ebc472bd1fd43f0f21c2be4e27251a88a837d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.child-labor",
+      "title": "《基廷—欧文法》：州际贸易限制与后来的判决",
+      "previousOpening": "1916年的《基廷—欧文法》借联邦监管州际贸易的权限，限制使用某些童工的工厂、矿场等产品流通；不是联邦已经永久、全面禁止所有未成年人工作的法律。",
+      "beginnerOpening": "当时一些工厂和矿场使用童工，社会争论政府是否该保护儿童、限制这种劳动。1916年的法律试图通过限制产品跨州销售来管制部分童工。争议既在于保护孩子，也在于全国政府是否有权干预地方企业；并不是所有童工问题从此就解决了。",
+      "originalDetailsSHA256": "23bfd4e8c0a547014234c8e57525a4f4a465a12a12e31ee2f8f9987e614ba3d9",
+      "beginnerSHA256": "55b5e15829ceda7be7f3c6cb1ce4d3d3369548aae1df649a6d057ff0723053b3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.brandeis",
+      "title": "布兰代斯提名：进步主义与犹太身份争论",
+      "previousOpening": "威尔逊1916年提名布兰代斯，引发强烈争议和长时间公开听证。他成为最高法院第一位犹太裔大法官，进步主义立场和职业经历也卷入提名争论。",
+      "beginnerOpening": "美国最高法院能决定法律是否违反宪法，所以任命大法官很重要。威尔逊提名的布兰代斯支持改革，还将成为第一位犹太裔大法官。围绕他的争论，既有真实的政策分歧，也夹杂宗教偏见，候选人的表态会向不同群体传递信号。",
+      "originalDetailsSHA256": "d4d3c6c501a13904f6914386525646263e0225c65b4ff99708b1553984489c18",
+      "beginnerSHA256": "122aee8a8f1358822250757a3fc2da0a6f236c15c1aad51d30ec87de4694b7b0",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.jones-philippines",
+      "title": "1916年的《琼斯法》：菲律宾自治与独立承诺",
+      "previousOpening": "此处指1916年菲律宾自治立法，扩大民选政府并表达未来独立的方向；不是1920年美国沿海航运中也俗称《琼斯法》的法律。",
+      "beginnerOpening": "菲律宾当时在美国统治之下，尚未独立。这部法律给菲律宾更大的自治空间，并表达未来独立的方向。游戏让你选择立刻放手、逐步放手或继续控制，实际是在争论美国应不应该拥有海外殖民地，以及如何结束这种统治。",
+      "originalDetailsSHA256": "77ce56e5de67ff5e0c43f169d031b75d70342bd0aee6d9b6638638380994e4c2",
+      "beginnerSHA256": "37d42c3f7dc342e5731c2003d3f8fca98679b435f3ede7a934a01754db55bdf1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.villa-expedition",
+      "title": "潘兴远征：抓捕比利亚与墨西哥主权",
+      "previousOpening": "潘乔·比利亚的部队1916年袭击新墨西哥州哥伦布镇后，美国派潘兴率军进入墨西哥追捕。比利亚并不等于卡兰萨政府，美军与该政府之间也有主权和军事行动的冲突。",
+      "beginnerOpening": "墨西哥武装领袖比利亚的部队袭击美国边境城镇后，美军进入墨西哥追捕他。继续追可以显得强硬，却也可能侵犯墨西哥主权、引发更大战争。比利亚和墨西哥政府又不是同一方，所以“打击袭击者”不等于可以把整个邻国都当作敌人。",
+      "originalDetailsSHA256": "e960b92479f595c485e69eab8acf3a32cd0f1905b071c3d86e8cf61da6cae6c6",
+      "beginnerSHA256": "903f8f73632fb2e8f32e9ca8968f8e93dfac92b0940302646980ff1831cac5e8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.easter-rising",
+      "title": "复活节起义：爱尔兰问题与美国竞选",
+      "previousOpening": "1916年4月24日至29日，爱尔兰独立派在都柏林发动起义，随后面临拘押、军事审判及处决。它不是宗教节庆活动引发的小规模纠纷。",
+      "beginnerOpening": "1916年，爱尔兰独立派在都柏林反抗英国统治，失败后有人遭处决。美国有大量爱尔兰裔选民，他们会关心此事；美国政府又需要考虑与英国的关系。题目让候选人在声援独立、要求宽大和避免干涉之间选，不是在讨论怎样庆祝复活节。",
+      "originalDetailsSHA256": "584af63919d88bf3842f554db22b44a2cc16c5b4554d89a62ae99ff7d36866bc",
+      "beginnerSHA256": "b35e628d0e323989884175e6fa074a5a95a2bf0481b9045326f3b0214c2ffc9c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.california-snub",
+      "title": "休斯与约翰逊：“怠慢”传闻不等于唯一败因",
+      "previousOpening": "休斯与州长海勒姆·约翰逊的“怠慢”风波，反映加州共和党传统派与进步派的裂痕。同期报刊既有怠慢之说，也有否认的辩解。加州最终投给威尔逊，13张选举人票使这段插曲格外引人注目。",
+      "beginnerOpening": "休斯是1916年的共和党总统候选人，海勒姆·约翰逊则是加州有影响力的共和党州长。两人之间的“怠慢”传闻，暴露了党内关系不和。加州最终以很小差距支持对手，所以游戏特别在意这次人际失误；它代表的是得罪地方盟友可能损失选票。",
+      "originalDetailsSHA256": "b33c66651b8fb93135601f64551fe7fb91b72cc71c6fcefaafedd47f75943405",
+      "beginnerSHA256": "3d7643a9094bf2bb9018789daa1f1fb745872060d45a47d2038045f6b8034a55",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.hughes-court",
+      "title": "休斯离开最高法院：失去席位并非终身无法返回",
+      "previousOpening": "休斯在1916年离开最高法院参加总统竞选，落选后没有自动恢复原来的大法官席位。原作结局讨论这次选择的代价。",
+      "beginnerOpening": "休斯原本是最高法院大法官，任职很稳定，却辞职去竞选总统。输了以后，他不能自动坐回原来的位置。因此这个结局是在感叹一次豪赌的代价：总统没当成，还失去原来的重要工作。不过他在真实历史中后来又重返了最高法院。",
+      "originalDetailsSHA256": "10776a3b7d5c1a4ec75c0f8e23d9a80851e9d6ab02309f4142e2547221364c3e",
+      "beginnerSHA256": "5cbc3c3aadd5e1114ceda7dbdc5ea059338e8033225b868485fee9ee1a3624b0",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.burkett-name",
+      "title": "伯克特人名：原作的Haskett与档案不符",
+      "previousOpening": "这个搭档分支的问题写Elmer Haskett，后续选项却写Burkett。人物档案中的内布拉斯加州前参议员是埃尔默·雅各布·伯克特。1916年共和党的实际搭档是费尔班克斯，伯克特是游戏提供的另一种组合。",
+      "beginnerOpening": "副总统候选人相当于总统候选人的竞选搭档，要一起争取选票。1916年休斯真实选择的是费尔班克斯，游戏也允许另选伯克特。这个分支却把伯克特写成了Haskett，属于人名混乱，不代表历史上还有一位需要你另外记住的关键人物。",
+      "originalDetailsSHA256": "dec76572c89ad2eb10c26faef8d7bdd45ae1bcbb9885595cd7f629a22b001938",
+      "beginnerSHA256": "761728ea9b4519eb83a6398d03291472b0592a766ced8eb83de7107f60fb325a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.early-succession",
+      "title": "威尔逊提前交权：不是胜选者自动继任",
+      "previousOpening": "国务卿罗伯特·兰辛在回忆录中记述：威尔逊考虑过，如果休斯胜选，就先任命休斯为国务卿，再由总统和副总统马歇尔辞职，借当时的继任安排提前交权。这是一项未实施的预案。",
+      "beginnerOpening": "美国总统选举结束和新总统正式上任，中间还有一段等待期。威尔逊曾考虑，如果自己输了，就利用当时的继任规则，让休斯提前接手，免得国家在大战期间领导不稳。这是没有实行的特殊预案，不是赢得选举后总能要求现任总统马上让位。",
+      "originalDetailsSHA256": "12e4cf8bbfd7762eff8d5b47ac5280789f7a979b4990b5c3283073a64d43b417",
+      "beginnerSHA256": "baa0d1ca2c53a44df5a615611c4d49e46942165d7e69f552e8a4eb04882bba5b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.peace-slogan",
+      "title": "“他让我们置身战争之外”：1916年的竞选口号",
+      "previousOpening": "“他让我们置身战争之外”是1916年民主党的重要口号，以威尔逊此前维持中立的执政记录争取选民。它所强调的是过去四年的表现。",
+      "beginnerOpening": "1916年选民知道欧洲大战很惨烈，很多人希望美国继续不参战。民主党用“他让我们置身战争之外”夸威尔逊，说他的外交避免了灾难。共和党则可以质疑这种和平是否可靠。这里争的是谁更能保障安全，不是候选人在签一份永远不参战的合同。",
+      "originalDetailsSHA256": "c1483ccffb75ff33f7863c76d6d2d231d86ff0248d578b758b4a2ac3114f1007",
+      "beginnerSHA256": "1bb05cb231a118ccc9cadbb050c372cbf1cde634ef3b64b0deb8b5735fd4cbc9",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.workers-compensation",
+      "title": "工伤赔偿：联邦雇员与危险行业的范围差别",
+      "previousOpening": "工伤赔偿针对因工作受伤或职业病等情形提供补偿，不是普遍加薪。1916年《联邦雇员赔偿法》扩展了联邦文职雇员的保护。",
+      "beginnerOpening": "工伤赔偿是工人在工作中受伤后，能获得医疗或收入方面的补偿。题目不同答案的差别，在于只保障给联邦政府工作的人，还是把更多危险行业工人也纳入。支持范围越广，帮助的人越多，但涉及政府花钱和干预企业的争议也越大。",
+      "originalDetailsSHA256": "a7b31c9d9e9919799fa863e0b25053aaf264ff794fadf1600970f5f9188dee73",
+      "beginnerSHA256": "2a6a070dfbabf1c4d2399fdb96fa221f8e0a94c3d745d43f4f81b3b7512ac52a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1916.league-future",
+      "title": "国际联盟：1916年仍是未来设想",
+      "previousOpening": "1916年已有关于战后国际组织的倡议，但国际联盟正式开始活动是在1920年1月10日。游戏所说“若战后成立”，讨论的是未来设想，不是1916年已存在的组织。",
+      "beginnerOpening": "第一次世界大战还在打，有人希望战后成立国际组织，让各国合作避免下一场大战。支持者觉得集体行动能保和平，反对者担心美国会被欧洲纠纷拖进去。这里说的是后来国际联盟的设想，不是联合国，也不是1916年已经运转的机构。",
+      "originalDetailsSHA256": "fea1cfdcaa01aa83e6a322181e97388dcdde3ad237778533dc68d4489648532d",
+      "beginnerSHA256": "d4ae07030aecf9f9da706c4091419d6f962e3fb6f7e3e66a61ce596c267b2427",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.buck-stops",
+      "title": "“责任到我这里为止”：不是一美元停在桌上",
+      "previousOpening": "杜鲁门桌上的名牌写着“The Buck Stops Here”，意为责任到此为止，不能再推给别人。这里的buck不是通常所说的一美元。",
+      "beginnerOpening": "杜鲁门桌上有一句名言：“责任到我这里为止。”意思是出了问题，总统不能永远往下推，最后必须由自己负责。游戏借它表现承担责任的姿态；buck在这里不是“一美元”，也不是总统桌上真的有一个不能再移动的东西。",
+      "originalDetailsSHA256": "3c8a993187ba4be292fa6ed4279bf18c86762bbc348364e3904f0049ccc48541",
+      "beginnerSHA256": "d5a7a7e556778c6237c583899696f64aca5b27ca52dbe02549f65e246e35d284",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.turnip-day",
+      "title": "“无所作为的国会”与“萝卜日”特别会期",
+      "previousOpening": "杜鲁门在1948年接受提名演说中，宣布召集国会于7月26日开特别会期，要求共和党议员用实际行动兑现本党党纲。他称国会无所作为，是竞选攻击，并非字面上指国会没有通过任何法律。",
+      "beginnerOpening": "杜鲁门在1948年让国会回来开特别会议，相当于对共和党议员说：你们既然在竞选中承诺改革，现在就来表决、拿行动证明。这样无论对方做不做，都可能被他拿来拉票。“萝卜日”是借家乡的种植俗语给会议起的外号。",
+      "originalDetailsSHA256": "38f6128d11469d02cb13f4bec0ab8a51f4a39728096f9db063e9d69c6c8c7bb8",
+      "beginnerSHA256": "1daaf6f73e26812478135afca58e58211d51838de110846c6b1a448b32716a18",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.whistle-stop",
+      "title": "Whistle-stop：乘火车沿途停车演说",
+      "previousOpening": "这里指候选人乘火车旅行，沿途停车，在车厢后部平台向群众演说的竞选方式。不能译成吹哨举报，也不是停止吹口哨。",
+      "beginnerOpening": "那时飞机和电视竞选还不如后来普遍，候选人会坐火车跑各地，每到一站便下车或站在车尾演讲。Whistle-stop指这种沿途拉票方式。它有利于接触小城镇选民、制造亲民形象，和今天说的“吹哨举报”没有关系。",
+      "originalDetailsSHA256": "2028f7c58bb27df0ae38a3fe14774a420e029514f09d545c011215a6fb62fc21",
+      "beginnerSHA256": "704efefd181d90aa4451c680e9856c14ca05d63cb4b4404c13038910accce210",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.dewey-headline",
+      "title": "“杜威击败杜鲁门”：著名的错误头条",
+      "previousOpening": "1948年《芝加哥论坛报》提前刊出“杜威击败杜鲁门”，实际胜者却是杜鲁门。他笑着举起错误头条的照片，成为选举预测失准的经典画面。游戏也会围绕不同胜者改写这一场景。",
+      "beginnerOpening": "1948年很多人以为共和党的杜威肯定赢，报纸赶着印刷，提前写了“杜威击败杜鲁门”。结果杜鲁门才是胜者，还笑着举起这张报纸拍照。这张照片成了“所有专家都猜错”的象征，游戏会根据实际胜负重新玩这个梗。",
+      "originalDetailsSHA256": "d3ef2147b389ca17054c4918bb70a20a2125a77bd8098005871237416f2c4a51",
+      "beginnerSHA256": "2e0edb9a75a82c07261dfba69671316f6f10f116d7c9957ffdba892b8f8bf498",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.israel-date",
+      "title": "以色列：宣布独立、托管终止与美国承认的日期",
+      "previousOpening": "原问题把宣布独立写为5月15日。杜鲁门图书馆的详细时间线区分：本·古里安在当地5月14日宣读宣言，英国托管于当地5月15日零时终止；美国在华盛顿时间5月14日傍晚给予事实上的承认。时差和不同事件不能混成同一个时间。",
+      "beginnerOpening": "1948年以色列建国，美国要决定是否承认这个新国家。“承认”是正式接受它作为外交交往对象，并不自动等于承诺派兵保护它。这个决定牵动犹太人处境、阿拉伯国家关系和美国国内选票；原作还把独立与承认的日期写得过于简单。",
+      "originalDetailsSHA256": "5c856eeddf1a3004a030fa986ce9109a49cc82c62b740c6283b2da9583b95f76",
+      "beginnerSHA256": "56e30d120c2887734ca955bd46583d958206eb4c66c0d51060421ca184a5d398",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.taft-hartley",
+      "title": "《塔夫脱—哈特利法》：否决不等于没有生效",
+      "previousOpening": "这项限制工会权力的法律是在1947年通过的。杜鲁门否决后，国会推翻否决，使其生效。游戏中的“支持否决”和“法律已经通过”，因此并不互相矛盾。",
+      "beginnerOpening": "工会代表工人与雇主谈工资、条件，也能组织罢工。这部法律限制工会的一些做法，企业往往支持，许多工会则反对。杜鲁门曾否决它，但国会推翻了否决，因此法律仍生效。支持杜鲁门当年的否决，不等于声称这部法律从未通过。",
+      "originalDetailsSHA256": "c0b80e02912b099c58d496d79a3b1f92afadcd4d3f75a6f70d82685e692e0296",
+      "beginnerSHA256": "1d047f260a6f8ff3bc79b092cc5050b1179c0b3f8684661c33762f8567968f87",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.civil-rights",
+      "title": "民权条款、迪克西民主党人与军队种族隔离",
+      "previousOpening": "汉弗莱1948年推动民主党民权条款时，尚是明尼阿波利斯市长和参议员候选人；不是已经在任的联邦参议员。民权争论引发南方种族隔离派的反抗，瑟蒙德成为另一个总统候选人。",
+      "beginnerOpening": "1948年的民主党内部，一边要求保障黑人平等权利，一边是反对取消种族隔离的南方势力。推动民权能争取黑人和改革派，也可能逼走南方白人支持者。杜鲁门同时推进军队平等待遇，因此这不是一句抽象的“支持人权”，而是会改变选票联盟的具体决定。",
+      "originalDetailsSHA256": "e240adebcff182ba6486b5d0fef3e7933e7f7af794e57f20694f06b43903757e",
+      "beginnerSHA256": "e187b5ac9f4c69ced60a72c4f4f2565d9dab8fc0f47a3e832e1f11f59b4ff86d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.berlin-zones",
+      "title": "柏林封锁：占领区、飞地与空中走廊",
+      "previousOpening": "西柏林位于苏联占领区之内，由西方盟国控制。1948年的封锁主要切断铁路、公路和水路；西方随后利用仍开放的空中走廊组织补给，形成柏林空运。",
+      "beginnerOpening": "二战后德国被战胜国分区占领，柏林也被分区；西方控制的西柏林却在苏联占领区里面。苏联封锁陆路、水路，西方便靠飞机运生活物资。这道题考的是：顶住苏联压力、冒更大战争风险，还是退让并承担抛弃西柏林的政治代价。",
+      "originalDetailsSHA256": "e31191cdf24af38e35b1a834250763ba598f0ea792d8df90167b72dbd58f806a",
+      "beginnerSHA256": "9a551d76beff05bed8470a0390cc4ae1fbbb384ed0ae8d7561826e8c7cab7ade",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.loyalty-huac",
+      "title": "忠诚审查、非美活动委员会与麦卡锡的区别",
+      "previousOpening": "1947年第9835号行政命令规定行政部门雇员的忠诚审查程序；众议院非美活动调查委员会则属于国会。联邦调查局、行政机关和众议院委员会不是同一个机构。",
+      "beginnerOpening": "冷战刚开始，美国担心苏联间谍和共产党影响。政府审查雇员，国会委员会也进行调查；支持者说这是保安全，批评者担心无辜者因政治观点被迫害。调查机构不都属于同一部门，1948年的这些事件也不能全叫作后来那种“麦卡锡主义”。",
+      "originalDetailsSHA256": "a891b4f650fe9c67fd2849c5ddb40c4f40cedb58ca10cf5a62ac30314e250a21",
+      "beginnerSHA256": "2df2dc2636b67f8f64ac225fe8c841639fb128fa1ff90978c04b96c86a6c4051",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.dewey-stassen",
+      "title": "杜威—史塔森辩论：反共与禁党不是同一立场",
+      "previousOpening": "两人1948年5月17日在俄勒冈州通过广播辩论，核心问题是是否取缔美国共产党。史塔森赞成取缔，杜威反对用禁党解决问题。",
+      "beginnerOpening": "杜威和史塔森都是共和党人，但对是否取缔美国共产党有分歧：史塔森赞成禁党，杜威认为不能靠禁止一种政治组织解决问题。反对禁党并不等于支持共产党。题目在区分“反共要用什么手段”，不是简单问谁更亲近苏联。",
+      "originalDetailsSHA256": "a8d2c098c5ce72a1bb833795ad3e9adbec974269eaac4e867a48c4af69e81b29",
+      "beginnerSHA256": "c9b79ad1b8964a676edd741469ae73df727c50badceca7023bac9a699376bfd9",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.henry-wallace",
+      "title": "1948年的华莱士与进步党",
+      "previousOpening": "这里是富兰克林·罗斯福的前副总统亨利·华莱士，代表1948年的进步党参选；不是1968年的乔治·华莱士，也不能与1912年的罗斯福进步党简单视为同一个组织。",
+      "beginnerOpening": "这里的亨利·华莱士是罗斯福的前副总统，1948年从左侧挑战杜鲁门，批评对苏联过于强硬并支持民权改革。他和1968年主张种族隔离的乔治·华莱士，是完全不同的人。杜鲁门阵营担心的是：原本会投给自己的选民被他分走。",
+      "originalDetailsSHA256": "97005eada663c4cf24ca6cc8e7a3291b1c991a9b5fe648c71fa65aebf1567cd6",
+      "beginnerSHA256": "a05fdd61ad89cc987d896bf861b29d104b6f11e09c3d7f6d45e4d4b686b1b730",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.two-terms",
+      "title": "两届惯例、第二十二修正案与麦金莱的情况",
+      "previousOpening": "1948年，总统两届任期限制仍是拟议修宪问题；第二十二修正案在1951年才获批准，而且对当时在任总统有例外。惯例、获选次数和完整任职年数不能混为一谈。",
+      "beginnerOpening": "总统通常一届四年，连赢两次就可能连任八年。1948年，限制当选次数的宪法修正案还没有正式生效，所以政治家讨论的既有惯例，也有将来的规则。游戏关于谁能成为某位前总统以来首个连任者的说法，还涉及“赢两次”与“做满两届”的区别。",
+      "originalDetailsSHA256": "7931dee297f663ac4ccb0aff8d383e422d51321d5b2d88fa2a5047d0eb34b155",
+      "beginnerSHA256": "5855ddec05d22f0a38ec966371982f28d46783031cddcab2b294831bbed7c90f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.nuclear-control",
+      "title": "联合国核管制：不是已经签成的核裁军条约",
+      "previousOpening": "1946年的艾奇逊—利林撒尔报告与巴鲁克计划，提出国际管制原子能、防止核扩散的安排。不同国家对机构权限、核武器处置与实施顺序存在分歧，并没有由此实现统一的国际核管制。",
+      "beginnerOpening": "美国在二战末使用原子弹后，各国开始担心核战争。有人想把核技术、核武器放到国际机构监管之下，但谁先交出什么、谁来检查，都很难谈拢。支持国际核管制是在押注合作能减少危险，反对者则担心别国不守约，美国反而失去保障。",
+      "originalDetailsSHA256": "5daddb04529fcf5c865331a3a3725bc12a79b8c32cf6c9b28322b6fe894cbd24",
+      "beginnerSHA256": "43ecf1711b32d3d6876bbcff39f208f7c4c37ab392686829d9d61fd326983507",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.aid-distinction",
+      "title": "杜鲁门主义与马歇尔计划：两种援助背景",
+      "previousOpening": "杜鲁门主义以1947年援助希腊和土耳其的政策为重要起点，涉及军事与经济援助；马歇尔计划则以欧洲战后经济复兴为核心，1947年提出、1948年立法。",
+      "beginnerOpening": "美国战后担心贫困和动荡让共产主义影响扩大。“杜鲁门主义”以援助希腊、土耳其等政策为起点，“马歇尔计划”重点帮助欧洲经济重建。两者都涉及出钱帮助外国；候选人要解释，这些钱是在维护美国安全，还是给美国增加不该承担的负担。",
+      "originalDetailsSHA256": "a9d95129e1d64448144daaaa3ac075259326b059d4b1368049c8c6ba95dd8d8a",
+      "beginnerSHA256": "90e47cf91970ef17372dbf167981331deb10c4b40cd6a13dae582aa974f27f80",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1948.contingent",
+      "title": "众议院选总统、参议院选副总统",
+      "previousOpening": "无人获得过半数选举人票时，宪法规定众议院从总统得票前三名中选总统，州代表团各一票；参议院从副总统得票前两名中选副总统。不是由众议院同时选出一整套搭档。",
+      "beginnerOpening": "没人取得过半数选举人票时，总统和副总统并不是由同一个机构打包选出：众议院选总统，参议院选副总统。因此结局里各方谈“让你当我的副总统”，只是政治协商的愿望，还必须面对两套不同的投票程序。",
+      "originalDetailsSHA256": "291bfe0d5678e5559706ab70bbd6214a10d15268b2a434b7237181a724289536",
+      "beginnerSHA256": "2ac5bd6d1edfaf9058eef1c2bbd00e322545168e3cbb12ec382798aaf509e486",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.religion",
+      "title": "天主教候选人与休斯敦演说",
+      "previousOpening": "肯尼迪在1960年9月12日对大休斯敦牧师协会发表演说，明确主张政教分离，总统不接受教会对公共政策的指令。这里的Catholic是天主教，新教牧师与天主教神职人员不能混成一个教派。",
+      "beginnerOpening": "肯尼迪信天主教，而美国当时存在很强的反天主教偏见。反对者担心他当总统后会听命于教宗，他则强调政府与宗教分开、公共决定由总统自己负责。因此宗教题既关系到个人信仰，也关系到选民是否相信他会独立执政。",
+      "originalDetailsSHA256": "27b2b05bc7e03941111dc4a7335bf74299b31d894bb8963c227493291057aae0",
+      "beginnerSHA256": "f9510346d4d4472651d2d492b7409e0cdeb7ff5132d5f49a422026f6cbcfae93",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.king-call",
+      "title": "金博士被捕：旧交通案、缓刑与慰问电话",
+      "previousOpening": "1960年10月，金博士在亚特兰大参加静坐后被捕。静坐指控撤销后，他仍因此前交通案的缓刑问题被转押；题目将这几步概括成了一次入狱事件。",
+      "beginnerOpening": "马丁·路德·金是争取黑人平等权利的领袖，1960年在抗议期间被捕，又因旧案的缓刑问题被继续关押。肯尼迪给他的妻子打电话表达关切，弟弟也联系了司法官员。一次电话因此成了政治信号：这位候选人是否愿意为黑人处境出面。",
+      "originalDetailsSHA256": "4dff0d4e281685bbdc7e84a3e1711819096aaf8e1fecfe89399319c154465589",
+      "beginnerSHA256": "e226874f5c34901bb14d17f7b0ef7a8327be10ccbd7b93b6c6fde0beb43b7b71",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.quemoy-matsu",
+      "title": "Quemoy、Matsu、Formosa：金门、马祖与台湾",
+      "previousOpening": "Quemoy与Matsu分别指金门、马祖，Formosa是当时英语对台湾的称呼。争论焦点在于美国对台湾的防卫承诺，是否以及如何延伸到更靠近大陆的外岛。",
+      "beginnerOpening": "金门、马祖是靠近中国大陆、当时由台湾方面控制的岛屿。冷战中，美国已承诺协防台湾，但是否也为这些外岛冒与中国作战的风险，仍有争议。题目其实在问：美国的防卫承诺画到哪里，强硬会不会让一场局部危机变成大战。",
+      "originalDetailsSHA256": "1377d8e1e6858c0b4f7288c07d75bcee20e1b014f77d6665107030a9289ff3d6",
+      "beginnerSHA256": "d5f81937ad0185a120c3c0912c7bde3f40af38902d65d5cebc460be74a454ed1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.missile-gap",
+      "title": "“导弹差距”：竞选指控与后来情报",
+      "previousOpening": "“导弹差距”在这里指美国被认为落后于苏联的战略导弹能力，不是两枚导弹之间的距离。这个说法是冷战焦虑与1960年竞选争论的一部分。",
+      "beginnerOpening": "美国和苏联都拥有核武器，选民担心本国导弹不如对手，就可能在大战中处于劣势。“导弹差距”是说两国战略力量的差距。1960年竞选时有人用它攻击现政府软弱，但后来的情报又纠正了不少对苏联实力的高估。",
+      "originalDetailsSHA256": "a0214b2246ada29ef99a367a5bbe4f8476fc0a68152161bc46cec89ddb89ccad",
+      "beginnerSHA256": "5b2c87edc357c7a1120c99554e253151916ad9c6875adacaa09474674f22a87d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.u2",
+      "title": "U-2事件：遗憾、道歉与侦察政策",
+      "previousOpening": "1960年5月1日，美军情报体系使用的U-2侦察机在苏联领空被击落，飞行员鲍尔斯被捕。美国最初的气象飞行解释遭到证据反驳，随后承认侦察活动。",
+      "beginnerOpening": "1960年，一架美国U-2侦察机在苏联上空被击落，美国最初否认侦察任务，苏联却拿出了飞行员和证据。候选人要回应的是：承认错误、正式道歉，还是坚持间谍侦察有必要。这既关系到国家面子，也可能决定双方还能不能继续谈判。",
+      "originalDetailsSHA256": "861be6e659ab80394b412a7e1add9ea2c13029e63862df9edb9e607f51c39ae2",
+      "beginnerSHA256": "4a98871f75d5129c6f71d2cafdbd60e0125c06fa4a3531ac680522bdce3ba855",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.little-rock",
+      "title": "小石城：执行法院裁决与联邦用兵",
+      "previousOpening": "1957年9月，艾森豪威尔将阿肯色州国民警卫队置于联邦指挥之下，并派遣第101空降师，保护黑人学生进入小石城中央高中，执行取消学校种族隔离的法院裁决。",
+      "beginnerOpening": "1957年，九名黑人学生试图进入原来实行种族隔离的小石城中央高中，遭到阻挠。总统艾森豪威尔派联邦军队保护他们入学。问题不只是“赞不赞成平等”，还在问：当地方拒绝执行法院裁决时，全国政府是否应该动用力量介入。",
+      "originalDetailsSHA256": "166fb1f6b2e8174d8a84cb84fd5821359a9cf7c9cda9ac53199d099cceae8c2f",
+      "beginnerSHA256": "3c915d54a52218133c62ac0ce05655d1e229d8c689f309ea27d4f1af48853ec3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.health",
+      "title": "老年医疗：保险方案失败不等于所有援助失败",
+      "previousOpening": "社会保障署1960年时间线说明：8月23日，参议院否决肯尼迪—安德森的医疗保险修正案，同时通过经修改的克尔—米尔斯方案；9月签署的法律向州提供符合条件的老年人医疗援助。",
+      "beginnerOpening": "当时许多老年人负担不起医疗费用，但政府该怎样帮忙仍有争议：为老人建立保险，还是只补助经济困难者？1960年有保险提案被否决，也有另一种援助方案通过。别把不同答案都理解成同一套“医保”，它们出钱和受益的方式不同。",
+      "originalDetailsSHA256": "13618af23967175e9a7e78daae1ea1da14e0f4ce57102625ce48df376f088bb1",
+      "beginnerSHA256": "d58618fb889083e2aeb0a63197af2dde3c6441fba7291264dcfa3ddc45e14ac8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.right-to-work",
+      "title": "“工作权法”：不是政府保证人人有工作",
+      "previousOpening": "美国劳资争论中的right-to-work，涉及就业能否以加入或支持工会为条件，并不是赋予每个人由政府提供工作的权利。原选项要求全国性法律，比现有州层面的限制更进一步。",
+      "beginnerOpening": "“工作权法”听起来像保证人人有工作，实际主要是在限制雇佣合同要求工人加入或支持工会。企业和部分工人支持个人选择，工会则担心集体谈判力量被削弱。所以题目是在争劳资力量如何分配，不是政府是否应给失业者安排工作。",
+      "originalDetailsSHA256": "25a95b697afea2df242aaefaef28114099ebe6f95e62a7548c5903f57451ebec",
+      "beginnerSHA256": "6d57aef1fc550f430f21f9d0034d340cc8f760c2b404ec7b42dc31b74a8c211b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.union-inquiries",
+      "title": "霍法与工会调查：反腐不等于反对所有工人组织",
+      "previousOpening": "这里的霍法是卡车司机工会领导人吉米·霍法。参议院1957年成立调查劳资不当行为的特别委员会，由麦克莱伦主持，罗伯特·肯尼迪担任首席法律顾问，调查工会及劳资领域腐败和犯罪影响。",
+      "beginnerOpening": "吉米·霍法是卡车司机工会的领导人，因工会腐败等问题受到国会调查，罗伯特·肯尼迪参与调查工作。候选人既想表明自己反腐，又可能需要工会帮助拉票。这道题的难点是：谴责某位工会领袖，和否定所有工人的组织权利，政治效果并不相同。",
+      "originalDetailsSHA256": "c165c6c626098cdb5f83579acb4af6429dfac1a38b3c22b5874c526c44a7c61a",
+      "beginnerSHA256": "7feaa57641debf0f60661b00df576e69c5b0ee926f6bfd028b43a54f0903c293",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.congress",
+      "title": "国会党派与未承诺选举人",
+      "previousOpening": "1959—1961年的第86届众议院由民主党占多数。这个医疗方案反馈中的Republican Congress，结合上下文指国会中的共和党人。",
+      "beginnerOpening": "“未承诺选举人”是说某些选举人没有预先答应支持哪位总统候选人，不是普通选民还没想好投谁。他们可能在最后另投一个人。游戏因此会出现选举人交易和国会选总统的情节；这与全国总票数谁领先，是不同层面的计算。",
+      "originalDetailsSHA256": "1a7ae913a8cbb2f5f456fc739aeeb67d444b1b9c2b385c8c21a67264b1cc78e7",
+      "beginnerSHA256": "a3e60570290b7076eaa002bec2515b3a6a6b0014305dd0a8832ff9807875eb19",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.tv",
+      "title": "“上镜”与1960年电视辩论",
+      "previousOpening": "telegenic指在电视镜头前形象、表达效果良好，不是拥有电视技术。1960年9月26日的首场总统候选人电视辩论，使两人的镜头表现成为广受关注的竞选因素。",
+      "beginnerOpening": "“上镜”就是让电视观众看起来觉得自然、自信、有精神。1960年的肯尼迪和尼克松辩论，让这种外在表现变得格外重要。游戏说你辩论赢了，通常是在评价观众印象和宣传效果，不是有裁判按规则给了一个正式冠军。",
+      "originalDetailsSHA256": "627d17189d62efc6880ce7ba249a0e6ac2c90ba32acba93f87afaf366b440dda",
+      "beginnerSHA256": "a62a0d6124e2e4766a22a3cae8217636b163eb096a10f4bb6e54c075b8de27d0",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.dixie",
+      "title": "《迪克西》：歌曲与南方政治暗示",
+      "previousOpening": "这里的Dixie是歌曲《迪克西》，不是1948年迪克西民主党人的党名。歌曲有黑脸滑稽歌舞演出背景，后来与南部邦联及南方白人身份产生强烈联系。",
+      "beginnerOpening": "《迪克西》是一首与美国南方、尤其南部邦联形象联系很深的歌。南部邦联是内战中维护奴隶制并脱离美国的一方。竞选场合播放它，可能向南方白人示好，却让黑人选民听出支持旧种族秩序的暗示，所以选歌也会成为政治表态。",
+      "originalDetailsSHA256": "bc2f4ffdc94a26ad82eb5cc25b1bd32c1de8da38e9642210be882566daea3275",
+      "beginnerSHA256": "8b85b13c4f4ba64e760d3b228624757426c3e2c1f5818e1e343ebe6c11f13d08",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.nixon-future",
+      "title": "尼克松落选结局：当时的预判与真实后来",
+      "previousOpening": "原作落选结局认为尼克松当总统的机会已经过去，这是剧情在1960年的预判，并非真实历史的最终结论。",
+      "beginnerOpening": "尼克松1960年输了总统选举，1962年又输了州长选举，许多人因此以为他的前途结束了。但他1968年重新参选并当上总统。这个结局说他“再无机会”，是站在当时的处境作判断；懂得他后来东山再起，就能看出其中的反讽。",
+      "originalDetailsSHA256": "90f431b534f6096d1052425a63e811bc14cc04402a490b32b8c5371f48ab8f66",
+      "beginnerSHA256": "43aef9e76fe6851cde71363f44ee103ac3f45314988b6efda4b8f47731d3dee9",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.dallas",
+      "title": "达拉斯抗议与伯德夫人的称呼",
+      "previousOpening": "Lady Bird是克劳迪娅·约翰逊的昵称，译作伯德夫人；不是在讲一种鸟。第六层博物馆保存的1960年11月4日达拉斯竞选照片，记录约翰逊夫妇遭遇支持者与反对者人群，进入阿道弗斯酒店会场。",
+      "beginnerOpening": "约翰逊是肯尼迪1960年的副总统搭档，伯德夫人是约翰逊的妻子，“Lady Bird”是她的昵称。两人在达拉斯竞选时遇到激烈抗议。题目让你决定是否借此反击对手：一次被围堵的难堪，也可能被竞选团队转化为争取同情的宣传。",
+      "originalDetailsSHA256": "a11dbaa37649643974c38c6a4476d37f6c9c928840af219b7d66816a54339a9e",
+      "beginnerSHA256": "f5a19aaccf99160c75f43ec711219dfc99618eb48fee3ec6006c55d1effc5f17",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1960.economic-terms",
+      "title": "紧缩货币、整笔拨款与最高边际税率",
+      "previousOpening": "这里的hard money指紧缩货币政策，与降低利率、刺激就业的主张相对。1960年美国陷入衰退，货币政策及艾森豪威尔政府的经济表现因此成为竞选争论的焦点。",
+      "beginnerOpening": "经济不好时，政府会争论要不要让借钱更容易、增加支出，以刺激就业；担心通胀的人则可能主张更紧的货币政策。这里的“整笔拨款”是让地方按较宽泛用途花钱，“最高边际税率”只针对最高那一档收入，不是把所有人的全部工资扣掉91%。",
+      "originalDetailsSHA256": "5f687c9c2b513d52d7a8243a95493a4279b807b9f55ce5ad42fbed46a8308817",
+      "beginnerSHA256": "e252428c00e8e1d4be16066fe1d5277e7238358946d4c1d57b6d51be05f69dee",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.economic-dates",
+      "title": "1964年的通胀与失业：原文数值有疑点",
+      "previousOpening": "原作问题写通胀超过4%，一个选项又写失业率3%。总统经济报告的历史统计表显示，1964年CPI-U年度平均涨幅为1.3%，民间失业率年度平均为5.2%；12月同比CPI涨幅为1.0%。这些并不支持原文作为1964年全国通常指标的概括。",
+      "beginnerOpening": "通胀是物价整体上涨，失业率是想工作却找不到工作的人所占比例。两者常被用来评价政府经济成绩。但1964年这道题给出的部分数字与官方年度统计不符；你可以理解候选人在争经济责任，不必为了让原文自洽而记住那些有疑点的数字。",
+      "originalDetailsSHA256": "2b3cd0aaf2a95df8fc5d165777ccd487fd484330d92f3c846b523e38511d8545",
+      "beginnerSHA256": "1b9cb464ca30197f4921959e4808484606ee4ba2d87f1d57607561f891ee1a50",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.great-society",
+      "title": "伟大社会与Medicare：承诺、倡导与实施的区别",
+      "previousOpening": "伟大社会是约翰逊的改革议程，涉及减贫、教育、医疗等领域；并不是所有项目在1964年竞选时就已经立法或实施。Medicare的1965年法律于7月30日签署，主要制度在1966年开始运行。",
+      "beginnerOpening": "“伟大社会”是约翰逊提出的一整套改革目标，想用政府项目减少贫困、改善教育和医疗。Medicare则主要是面向老年人的医疗保险。1964年不少内容还在争取立法，因此题目说支持它们，更多是在表明未来想做什么，不是所有制度已经建好。",
+      "originalDetailsSHA256": "5117ca7bfcf14673b96c6b6b9b7a19848696a9a49580772c7f619aed7424122d",
+      "beginnerSHA256": "f36e62076e6aa3c3a2aa35b7fc956f1a69adc7593bc1dd42d8e16c666eed1616",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.school-prayer",
+      "title": "学校祷告案：官方组织与个人信仰",
+      "previousOpening": "1962年恩格尔诉维塔莱案涉及纽约公立学校采用官方制定的祷文。最高法院认为，政府组织的这种宗教活动违反第一修正案的政教分离原则，即便祷文声称不属于某一教派、学生可以不参加，也不能消除问题。",
+      "beginnerOpening": "美国公立学校由政府举办，最高法院认为政府不该替学生安排官方祷告，以免偏向某种宗教。有人把这看成保护信仰自由，有人却觉得传统道德受到打击。这里争的是学校能否组织祷告，不是说孩子不能有信仰、不能自己祈祷。",
+      "originalDetailsSHA256": "83e4b25009ec2eb40080ecc489081705f7192e0f82cca1a698ccdd864648b15e",
+      "beginnerSHA256": "cab85cc4ace5a6b306552333b98cb31ddfc6505dcb28d03853c308e056baac48",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.soviet-offices",
+      "title": "赫鲁晓夫下台：党领导人与总理分由两人接任",
+      "previousOpening": "1964年10月赫鲁晓夫下台后，勃列日涅夫接任苏共中央第一书记，柯西金接任部长会议主席，即总理。党与政府的最高职务由两人分别担任。",
+      "beginnerOpening": "苏联是美国在冷战中的主要对手。1964年赫鲁晓夫被撤换后，勃列日涅夫接管党的领导职位，柯西金接任政府总理。美国候选人要解释这会怎样影响安全：是该更强硬，还是保持稳定。它不是简单地由一个新“总统”接替旧总统。",
+      "originalDetailsSHA256": "f50d7609efd57abb1ee985eff66530f37a8f67e556365e5970dfc9fa3b9b3d1c",
+      "beginnerSHA256": "6e6770be8f53e7ecae05eb3004d9c168c07d14c44529d70cf0d6ff245e0b74db",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.reagan-speech",
+      "title": "《抉择的时刻》：里根为戈德华特助选",
+      "previousOpening": "里根1964年10月27日的电视演说，后来通常以《抉择的时刻》闻名，支持戈德华特，阐述减小政府、个人自由、强硬反共和自由与集权对立的政治主张。此时他是演员和政治演说者，还不是总统。",
+      "beginnerOpening": "1964年的里根还不是总统，而是演员出身的政治演说者。他上电视支持戈德华特，讲少一些政府干预、强硬对抗共产主义等主张。游戏里说“他该继续拍电影”，是在嘲笑演员谈政治；知道里根后来当了总统，就能听出额外的反讽。",
+      "originalDetailsSHA256": "ee35e5f93b114562abe22fa0377ebe184f1b37e729c1bfd9fb5bf97c01cbdfe9",
+      "beginnerSHA256": "53db57aca57cfc02dc0aabf4a39afcc946ac5b74f171414055a66e02d01e8d36",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.baker",
+      "title": "博比·贝克：国会调查不等于刑事审判",
+      "previousOpening": "博比·贝克曾担任参议院多数党秘书，1963年辞职后受到调查。参议院规则与行政委员会在1963至1964年举行听证，调查利益冲突与财务不当行为。",
+      "beginnerOpening": "博比·贝克是曾在参议院担任重要职务的人，因利益和财务问题接受调查。共和党可以借他与民主党高层的关系，攻击约翰逊阵营腐败。关键区别是：国会调查一个人，与法院判他有罪不是同一件事，也不能只凭相识就认定总统参与了全部问题。",
+      "originalDetailsSHA256": "3fb9207d854b9310093ec7cd263ade1b12f262058fe399bd02e8b15b4b5fdd2b",
+      "beginnerSHA256": "fe8f1045a5d571c27d72f27626403c1098f9d5c1494691da4e59f6b26314c6fd",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.confessions-ad",
+      "title": "《一个共和党人的自白》：竞选广告的角色发言",
+      "previousOpening": "这是约翰逊阵营1964年的电视广告，画面中的共和党选民角色表达对戈德华特的担忧，并表示宁愿投民主党候选人。广告用跨党派选民的叙述争取温和派，不是司法意义的认罪自白。",
+      "beginnerOpening": "这是一则约翰逊阵营的竞选广告：画面中的人自称共和党选民，却说自己担心戈德华特，宁愿投民主党。它想让温和共和党人觉得“背离本党并不丢人，别人也这么想”。“自白”指坦白政治想法，不是有人在警察面前认罪。",
+      "originalDetailsSHA256": "e74755ddfe33b4bdbd9d2a95290c353def3c82f322940fd92b32b45fbd326a2e",
+      "beginnerSHA256": "8c1365dd8b081e08c6d292911de4cf668b70691c83264d2cb8d78d888f197fd1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.klan",
+      "title": "三K党背书与候选人立场：不是会员身份的同义词",
+      "previousOpening": "阿拉巴马州三K党领导人支持戈德华特，成为1964年竞选攻击的重要素材。但某个极端团体的支持，并不自动证明候选人是该团体成员；是否谴责、是否接受支持、是否赞同其主张也是不同问题。",
+      "beginnerOpening": "三K党是以白人至上和恐吓黑人等群体著称的极端组织。如果它支持某位候选人，对手就会追问：你愿不愿意公开拒绝这种支持？谴责它可能得罪某些白人选民，沉默又可能吓跑温和派。获得背书、接受背书和自己是成员，是三件不同的事。",
+      "originalDetailsSHA256": "6ebbd4e45dd166aaeb280a284dadc541661d78abda2c86cb4de596aec14314ab",
+      "beginnerSHA256": "c2c4dfb570ac81e70613dc85cb3197e66a032743373d16ab738747d8f39dfd26",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.civil-rights-act",
+      "title": "1964年民权法：民权、州权与执行现行法律",
+      "previousOpening": "1964年《民权法案》针对公共设施、就业等领域的歧视，并扩展联邦执行权。它不等于当年已经通过1965年《投票权法》，也不能概括成一签字便解决所有种族隔离与投票障碍。",
+      "beginnerOpening": "1964年《民权法案》要减少黑人等群体在公共场所、就业等方面受到的歧视，并让全国政府有更多执行手段。反对者常说这侵犯各州和私人的自主权。题目因此不只是问“是否喜欢一部法律”，还在问联邦政府该为平等走多远。",
+      "originalDetailsSHA256": "3a9cbd100244e1ba2b4956f10787b12f112ca0046fab073bf95ea1cdbdbfc2b5",
+      "beginnerSHA256": "6a85318eb36a46d7268baf99aec546818adcb38136482e38ba153dc9f95ed2ce",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.southern-geography",
+      "title": "南方重组与“边界州”：原文地理概括",
+      "previousOpening": "原背景说自重建以来首次让南方转向共和党，若理解为任何南方州首次投共和党，则不准确：1928年胡佛已赢得德克萨斯、佛罗里达、弗吉尼亚等南方州。戈德华特在深南部的突破，与整个南方同时转党不是一回事。",
+      "beginnerOpening": "南方各州并不是一整块态度相同的票仓。1964年，民权争论让部分深南部白人选民转投共和党，但不意味着整个南方一夜之间都转了党。游戏把某些州叫作“边界州”，有时只是宽泛的竞选分区，别把它当成严格的内战历史分类。",
+      "originalDetailsSHA256": "7c81e72a24878e2add7cb7aa76056a39c02e2af7d0d3d9fab9df30a484685f3d",
+      "beginnerSHA256": "d97d20fc6dd8cc2ed03ec65d590b028805daec2a47f20955a6d017057230040c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1964.ending-rhetoric",
+      "title": "结局的夸张、杜威典故与连任资格",
+      "previousOpening": "“最好读读杜威的经历”借1948年民调看好杜威却最终败选的逆转，讽刺玩家丢掉巨大优势；不是说1964年真实历史也发生了戈德华特获胜。1948年真实败者与模拟胜者分别看待。",
+      "beginnerOpening": "杜威1948年被普遍看好却输掉大选，所以结局叫你“读读杜威的经历”，就是嘲笑你把大好局面打输了。约翰逊则是在肯尼迪遇刺后继任、再参加1964年大选。因为继任时间较短，他当选后仍可能再竞选一届，这和普通连任的计算略有不同。",
+      "originalDetailsSHA256": "f70d2d0dc2c0efb650b59cc6a1326b01132dad03cea61c4efac3d31e72a45028",
+      "beginnerSHA256": "04c4792c2edfa81f57faea864fdcc8144d59ac277e88db0df18cf7ab382e4e0c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.chennault",
+      "title": "陈香梅事件：秘密联络与游戏分支",
+      "previousOpening": "约翰逊1968年10月31日宣布停止轰炸北越，推动和平谈判。约翰逊图书馆说明，尼克松竞选阵营中的一些人与南越政府秘密联络，劝其延缓谈判，并暗示尼克松当选后会提供更好的条件；重要中间人陈香梅是陈纳德的遗孀。",
+      "beginnerOpening": "1968年美国深陷越战，和平谈判若取得进展，可能帮助执政的民主党。尼克松阵营的一些人与南越秘密联系、劝其延缓谈判，陈香梅是重要中间人。因此这道题不只是外交技巧，还涉及是否为了赢选举干扰结束战争的努力，以及是否公开对手的秘密行动。",
+      "originalDetailsSHA256": "5e80aebeb2d2f3297f9f7d855e4d64793326561d8750fb204a7098e15e4ede45",
+      "beginnerSHA256": "f60a86403285a7e6800b6252906d27973c44faa6f89184e0328efa1c4f6ce629",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.debates",
+      "title": "1968辩论是架空选择，1964比较另有疑点",
+      "previousOpening": "真实历史中，1960年肯尼迪与尼克松辩论后，1964、1968和1972年均未举行主要总统候选人之间的大选辩论。游戏允许尼克松与汉弗莱辩论，是玩家可改变历史的分支，胜负评价也属于模拟。",
+      "beginnerOpening": "1968年真实历史中，尼克松与汉弗莱没有举行大选辩论；游戏却允许你安排一场，让历史走另一条路。接受辩论能展示能力，也可能重演尼克松1960年在电视前吃亏的经历。因此反馈里的胜败，是这场模拟竞选的结果。",
+      "originalDetailsSHA256": "08be21fb57abc5852fa2183722b7abab1a6044d558c39a73df5503f3eee91816",
+      "beginnerSHA256": "78a91e076123c1fdb0bf5dcdb5edfa50261bcb460fc4466f922af6d8fd901c0f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.six-day",
+      "title": "六日战争与以土地换和平",
+      "previousOpening": "1967年6月以色列击败埃及、约旦和叙利亚，占领西奈半岛、加沙、约旦河西岸、东耶路撒冷和戈兰高地。战前有封锁蒂朗海峡、撤出联合国部队及军事集结等危机；不能只凭选项“四面受敌”就认定战争的开火顺序。",
+      "beginnerOpening": "1967年的六日战争后，以色列控制了原由周边阿拉伯国家掌握的一些地区。之后争论“以土地换和平”，就是拿撤出占领地区和对方承认、安全承诺交换。题目让美国候选人决定怎样支持盟友、怎样促成和平；不是单纯问谁在战争中打赢了。",
+      "originalDetailsSHA256": "2be2de1ba7d3a740e0980d79aad489547934f3e172512b3fca0666e4ba61d1b5",
+      "beginnerSHA256": "8353ab5bfd8ff56fea2507764b8b7239fe8afcff40e6f74c730f0bc7cf3f2c36",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.columbia",
+      "title": "哥伦比亚大学：越战、国防研究与社区争议",
+      "previousOpening": "1968年春的校园占领不只是抽象的学生不满。抗议涉及学校与国防分析研究所的关系，以及晨边公园体育馆项目对哈莱姆社区的影响；建筑入口安排引发种族不平等的批评。",
+      "beginnerOpening": "1968年哥伦比亚大学学生占领校舍，抗议学校参与国防研究，也反对一个被批评对附近黑人社区不公平的建设项目。警察清场又引发暴力争议。候选人可以强调秩序，也可以支持学生诉求；把所有学生都说成暴徒，是一种政治攻击。",
+      "originalDetailsSHA256": "e8db378b86ef9d84a973ae18a8156160b89775bbc23b571835daff0d384ee4a8",
+      "beginnerSHA256": "7c351fcf1ec3a2645e2af25e4ebddafdbb594cf8bc3d332e24bfe34a259f67d3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.summer",
+      "title": "漫长炎热的夏季：1967年城市骚乱",
+      "previousOpening": "这里的漫长炎热夏季指1967年的城市骚乱，纽瓦克和底特律尤其突出。1968年金博士遇刺后又发生了另一波骚乱，二者不能混成同一事件。",
+      "beginnerOpening": "1967年，一些美国城市爆发严重骚乱，背后牵涉黑人遭受的歧视、贫困、居住隔离和警民冲突。保守派常强调治安与惩罚，改革派则强调解决积累的不平等。游戏问谁该负责，就是把这些不同解释放在选民面前。",
+      "originalDetailsSHA256": "cc5b8f7a6f93689bfd9b3075ebf89b5df8d21d631eb1eb363192f55cbda7a7ca",
+      "beginnerSHA256": "35fc844024e3b257c49884850615d8311828cfb0ff9eab9360d80dab7be8e9f9",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.court-rights",
+      "title": "沃伦法院：律师权、讯问权与婚姻自由",
+      "previousOpening": "吉迪恩案1963年确立贫困重罪被告获得指定律师的保障；米兰达案1966年涉及羁押讯问时的权利告知与程序保障，不是法院一概禁止执法。",
+      "beginnerOpening": "沃伦担任首席大法官期间，最高法院加强了被告获得律师、接受讯问时知晓权利等保障，也否定了跨种族婚姻禁令。支持者说这是保护普通人免受政府滥权，反对者觉得法院过于积极、妨碍执法。因此“攻击法院”也在表达你想怎样治理社会。",
+      "originalDetailsSHA256": "5e3d48280881e4b091a954eb95d0434fff02148bfcf65a0cd0c0cd22ac80019d",
+      "beginnerSHA256": "2db0ef844b06299db7e3c49f7f3b7aab1e70e94763749d1ccc278dee89e8591a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.nixon-1957",
+      "title": "尼克松1957年的角色：副总统与参议员不同",
+      "previousOpening": "尼克松1950—1953年担任参议员，1953—1961年任副总统，并依法兼任参议院议长。题目谈1957年参议院立法时，他的身份是副总统。",
+      "beginnerOpening": "1957年尼克松是副总统，不是普通参议员；副总统又兼任参议院议长，因此也能参与相关政治工作。约翰逊当时则是参议院民主党领袖。题目里双方都想争取推动民权法案的功劳，你需要分清他们当年的身份，而不是把所有功劳合成一个人的。",
+      "originalDetailsSHA256": "e64281ab6611e49abf84c513136245e8d6bb0c00ba532ed7f5f0bdbf8efb8262",
+      "beginnerSHA256": "acd1cefe5b0d932d24a77d1923409e77fdf87969a49603d445a3fc08601ac4e5",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.immigration",
+      "title": "1965年移民改革：取消歧视性来源配额",
+      "previousOpening": "1965年改革废除旧的国籍来源配额体系，改以家庭联系、技能等因素安排优先次序。取消旧配额不等于取消一切人数限制，更不等于任何人都可以无条件入境。",
+      "beginnerOpening": "旧移民制度按国籍来源分配名额，偏爱某些欧洲国家。1965年改革减少这种歧视，改用家庭联系、技能等标准安排优先次序。支持改革是在争公平，反对者可能担心人口与文化变化；取消旧配额并不等于从此谁都可以无限制入境。",
+      "originalDetailsSHA256": "66c6a7793c0d805ed14e294bf45190b8ae3201e421df54eeb487181ffd5763a1",
+      "beginnerSHA256": "a22abf68734251ec688b4262e4eefbaf601bace7dbe6fee344f0c6d76729d2ce",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.affirmative",
+      "title": "平权行动不等于强制雇用不合格者",
+      "previousOpening": "1965年第11246号行政命令要求联邦承包商反歧视、采取积极措施促进平等就业。题目中“要求雇用不合格者”是反对者用来攻击这项政策的说法。",
+      "beginnerOpening": "平权行动是要求招聘等制度更积极地纠正长期排斥，让以前被挡在门外的群体有机会。支持者重视补救歧视，反对者则可能说这是对其他人不公平。题目中“硬要雇不合格的人”是批评者的说法，不是这项政策的直接定义。",
+      "originalDetailsSHA256": "210dca42128acb1a698d4d5f6d3a0b4c76f7f894ebee0556c6304f26ff801030",
+      "beginnerSHA256": "e5067c7730f8d030fc12cf6d2625cda8b6905a92ba857a66908fe90ba7d5d207",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.head-start",
+      "title": "启蒙计划：学前教育与减贫",
+      "previousOpening": "启蒙计划是伟大社会减贫议程中的儿童发展项目，1965年从八周示范项目起步，结合学前教育、健康与家庭支持。它不是小学课程的另一个名称，也不是大学提前录取。",
+      "beginnerOpening": "“启蒙计划”是为贫困家庭儿童提供学前教育、健康和家庭支持的项目，希望孩子上学前就不落后太多。赞成者相信早期帮助能减少贫困，反对者担心政府花钱低效。因此这里争的是减贫应不应该从帮助儿童起步，不是大学提前录取。",
+      "originalDetailsSHA256": "83515c9385711dc444ae9f02204e21503b5824c3e808fc2625088189415f31d9",
+      "beginnerSHA256": "ef4c56d62450141c473da06324c1be7905aa0b35743a17560069a556cd1e39bb",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.environment",
+      "title": "环保署尚未成立：1968年的政策提议",
+      "previousOpening": "环境保护署1970年才正式成立。1968年问题问的是是否支持建立这个联邦机构，不能写成扩建已存在的环保署。1963年《清洁空气法》与1970年强化后的法律，也不能混为同一个版本。",
+      "beginnerOpening": "污染跨越州界，一州自己管，可能仍受邻州工厂影响。支持成立联邦环保机构的人，想让全国统一协调；反对者可能担心增加官僚和企业负担。1968年环保署还没成立，这道题是在问是否支持建立它，而不是评价它已经做得怎样。",
+      "originalDetailsSHA256": "a47704702112b7799acee99fb9c0180058a90f352f009d6d0193758316ba61b5",
+      "beginnerSHA256": "ded9ef40e878dda78992f847f3891e0aa378a95495c8d22621577bf3d6588f19",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.gold",
+      "title": "1968年的黄金危机：不同于19世纪金币本位",
+      "previousOpening": "此时的美元与黄金联系属于布雷顿森林国际货币体系，不能按19世纪公众日常持有纸币兑换金币的金本位理解。1968年3月黄金总库危机后，官方黄金交易和私人市场形成两层市场。",
+      "beginnerOpening": "当时一些外国官方机构能按固定价格把美元换成黄金，因此美国的黄金储备和外界对美元的信心很重要。1968年发生黄金危机，政客争论怎样维持币值又不伤害就业。这里和1896年农民要求铸银的争论有关联，但已经不是同一套日常货币制度。",
+      "originalDetailsSHA256": "63ed07ab1d2a3d039760d52ba3d2d4aa08a212d9ba2bda87b6d355156367556f",
+      "beginnerSHA256": "cce3dd467a23afcb5439a18fe3178b162f26d85329f59fc23ef928bd8dc9a2c7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.tet",
+      "title": "春节攻势：战场结果与政治影响并非一回事",
+      "previousOpening": "1968年春节攻势未达到北越与越共预期的普遍起义和军事目标，但严重冲击了美国公众对战争进展及政府乐观表态的信任。说其军事上失利，不等于说美国国内政治也因此毫发无损。",
+      "beginnerOpening": "1968年越南春节期间，北越与越共发动大规模攻势。虽然没有实现预想的军事目标，它却让很多美国人怀疑：政府一直说战争快赢了，为什么敌方还能这样进攻？所以“战场上挡住攻击”与“国内公众更不相信战争政策”，可以同时发生。",
+      "originalDetailsSHA256": "f9f2a2cae4adcb75de63952b4782be6a15b1cf1c7d3e0094f71daf5669587a00",
+      "beginnerSHA256": "74c6fe29e2fec0339d9dfb7eb58cea9a7448ab62f938f1853c0beb4c69d67190",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.dominican",
+      "title": "1965年多米尼加干预：反共理由与争议",
+      "previousOpening": "多米尼加内战中，争取恢复被推翻的博什政府的力量与其对手交战。约翰逊政府以保护人员、担忧共产主义势力掌权等理由出兵，但恢复宪政的阵营不能全部等同于共产党。",
+      "beginnerOpening": "1965年多米尼加内战中，美国派兵介入，理由包括保护人员、防止共产党掌权。支持者说这是避免出现另一个敌对政权，批评者则认为美国借反共干涉别国政治。候选人怎样评价它，会反映自己愿意在多大程度上使用武力干预外国。",
+      "originalDetailsSHA256": "e47f842d1f07db3525abec99c972c77ca1123fcc19ad2bef0a9513f060f2b95f",
+      "beginnerSHA256": "be33c5cd7fd8ee4ff88d835709be9f5f412c85599e840c540a9822595f6c791b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.kennedy-round",
+      "title": "肯尼迪回合：贸易谈判与授权之争",
+      "previousOpening": "肯尼迪回合是关贸总协定框架下的多边贸易谈判，由肯尼迪时期的1962年《贸易扩展法》授权推动，后来在约翰逊任内完成。它不是肯尼迪本人在1967年主持的会议，也不是已经成立世界贸易组织。",
+      "beginnerOpening": "“肯尼迪回合”是一轮多国降低贸易壁垒的谈判，不是肯尼迪又参加了一轮选举。降低关税可能让出口、消费受益，也可能让受外国竞争的工人和企业担心失业。题目因此是在选择怎样开放贸易、谁来承担调整代价。",
+      "originalDetailsSHA256": "8babbdd862351fb3b0cb8969e051077c02cc06ad42e051707f6bc9fa4a532750",
+      "beginnerSHA256": "daaed38e29eaec1fab944e23a4b5eabc8a0d77e89a79b098443ae0a2d5b6f0a7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.hump",
+      "title": "Dump the Hump：拒绝汉弗莱的押韵口号",
+      "previousOpening": "反对汉弗莱的押韵口号，用Humphrey的前半截Hump与dump凑出顺口的拒投宣言。它曾被不同反对者使用，语气带有嘲弄。",
+      "beginnerOpening": "汉弗莱的英文姓是Humphrey，反对者截出Hump，再和dump凑押韵口号，意思就是“甩掉汉弗莱、别投他”。它更像一句顺口的竞选骂语，重点是好记、好喊，不需要按字面寻找某个叫“驼峰”的政治事件。",
+      "originalDetailsSHA256": "cf9ab596173a31641540bf0ace8d8dd80abcd57f332cbeebc38054bc1a705a10",
+      "beginnerSHA256": "9b20b9aab55adb099c5b5b17cd7bfc1da20cc17de2003d683ec24701b30ffcd2",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.jumbo",
+      "title": "Jumbo：把约翰逊变成粗俗网络绰号",
+      "previousOpening": "Jumbo意为“巨无霸”，是围绕约翰逊身体与粗豪作风流传的绰号。游戏借它开带性暗示的玩笑。相关细节多见于后来的轶事叙述。",
+      "beginnerOpening": "这里用的是围绕总统林登·约翰逊流传的粗俗绰号，Jumbo意为“巨无霸”，带有指向其生殖器的性暗示。游戏借它夸张他的豪横、粗放形象。这是成人笑话和政治轶事，不是他的一项政策，也不是另一位政治人物。",
+      "originalDetailsSHA256": "75bb4a22c4b0d64a78a22c7f872478bb530cdadca603d3fbb743586032e4d906",
+      "beginnerSHA256": "6964842f3c8f27947e8598d61dc348038492575d8d8f3cb6baebf9dd2bdb2a06",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.pointy-heads",
+      "title": "尖脑袋知识分子：华莱士的反精英修辞",
+      "previousOpening": "尖脑袋是把学者与官僚讥为只会纸上谈兵、脱离普通人生活的政治称呼，不能误译成某种生理疾病。1970年国会记录收录的采访，直接问华莱士此前贬低北方记者与知识分子的言论。",
+      "beginnerOpening": "华莱士把学者、记者或官僚骂作“尖脑袋”，意思近似“自以为聪明、却不懂普通人生活的精英”。再说两党差别连一角钱都不值，是把自己包装成既不属于共和党也不属于民主党、能替被忽视的人出头的选择。",
+      "originalDetailsSHA256": "05b8e091fd896fa48cc161c511c5b0ffdba9d42b29ab51dd3dcbdb894671b371",
+      "beginnerSHA256": "f6f981ccb0f5156f744b5647b75ad2bf86010744a078a1d082d570e5686f4427",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.deadlock-fiction",
+      "title": "未决选举与隐藏结局：游戏叙事不是历史判决",
+      "previousOpening": "没有候选人取得选举人票过半数时，众议院从总统得票前三名中选总统，按州代表团一州一票；参议院另从副总统得票前两名中选副总统。全院民主党席位多，不自动等于每个州代表团会投汉弗莱。",
+      "beginnerOpening": "华莱士的设想之一，是让谁都拿不到过半数选举人票，再靠自己手中的政治筹码讨价还价。游戏还写了夸张庭审等隐藏结局，那些属于恶搞。理解这些情节，先抓住两点就够了：选举人票可能让选举僵住，人物随后会争权谈条件。",
+      "originalDetailsSHA256": "b0267fe3096a66df2c1e0347e8c97f62487c06dfa00a84a9711bb9cfb32badba",
+      "beginnerSHA256": "a0b7f6a688afb48e44fd2214180d6ae46af799dc1c58d5e45e66d509eeef2611",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.nutrition",
+      "title": "儿童营养法：试点早餐与牛奶项目分别理解",
+      "previousOpening": "1966年《儿童营养法》第3节授权特殊牛奶项目，第4节授权学校早餐试点。早餐资助由州教育机构分配，优先考虑经济困难地区及学生通学距离较远的学校；不能理解成1966年所有学生已经普遍享有免费早餐。",
+      "beginnerOpening": "有些孩子到学校时没有吃早餐，或家里负担不起足够营养。儿童营养政策用政府资金支持牛奶、早餐等项目，让他们能吃饱再学习。候选人要决定是否为此花钱；它不是说当时全国所有学校都已经免费给所有孩子供餐。",
+      "originalDetailsSHA256": "4027e9f27a408f759f3aeb6cb058e3f555934d0fad7e5d0dc4a609879b27488c",
+      "beginnerSHA256": "42148e1b1a622b929282bc413082ef50b22780e8d9ca9193d21c881928ce9344",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.privacy",
+      "title": "避孕与堕胎：1968年不能倒套后来的判例",
+      "previousOpening": "1965年格里斯沃尔德诉康涅狄格州案涉及向已婚夫妇提供避孕建议和手段，法院从宪法保障中阐释婚姻隐私。它不是已经判决所有人的堕胎权，也不是1968年已经发生了1973年的罗诉韦德案。",
+      "beginnerOpening": "1960年代，避孕和堕胎都涉及政府能否干预私人生活，但法律进展并不同步。最高法院已保护部分婚姻隐私与避孕决定，著名的堕胎判例则是1973年的事。游戏里在1968年要求候选人表态，是在争将来该怎样立法，不能把后来结果直接倒填回去。",
+      "originalDetailsSHA256": "2b919f80e497766bad93f4ffb757dbd83c5f54a412507c0d2d37e30fb85d4d3a",
+      "beginnerSHA256": "6361cedb28ff6f64d74267c03944029daf616b6979692ca03dd8958ec488737a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.treason",
+      "title": "叛国：宪法限定与政治指控",
+      "previousOpening": "美国宪法第三条将叛国限于对美国发动战争，或依附其敌人并给予援助；定罪还设有明确证据要求。仅仅具有激进观点或加入某个政治组织，不等于已经构成宪法意义的叛国。",
+      "beginnerOpening": "政治家骂对手“叛国”，往往是在说对方不忠于国家，法律上的叛国罪却有更严格的定义和证据要求。题目如果主张把激进组织成员关起来甚至处决，是非常强硬的治国立场，不能因为说得斩钉截铁，就当成这些人已经被法院认定有罪。",
+      "originalDetailsSHA256": "0b86cdc64c068fec679ec16c5ebf36f0e8fa852246165e2312f440a95a328d9a",
+      "beginnerSHA256": "b2bdc60d728dd47cb8ee52a64189cbcc86033d372fd3546245a61144078837ff",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1968.chicago",
+      "title": "芝加哥大会：警察制造的暴乱与调查报告",
+      "previousOpening": "1968年民主党大会期间，芝加哥街头警察与示威者发生严重冲突。沃克调查报告承认挑衅与示威者的暴力，也记录警察对和平示威者、记者和旁观者使用无差别及过度武力，并用警察制造的暴乱概括某些警察行动。",
+      "beginnerOpening": "1968年民主党大会在芝加哥举行，场外反战示威与警察清场爆发严重暴力。把它说成“警察制造的暴乱”，是在指责警察过度用力，而不是说警察平定了一场暴乱。候选人要决定支持强力维持秩序，还是谴责执法方式伤害公民权利。",
+      "originalDetailsSHA256": "b956701c1b6b27db3639954d9caf359d4f15de831acb3683d9a45cc59095308d",
+      "beginnerSHA256": "2a51c6f5f752046e414d3e142aa462b1c84efd3e2f366985310468ff9fdb1289",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.playboy",
+      "title": "心里犯奸淫：宗教自省与竞选风波",
+      "previousOpening": "卡特在《花花公子》访谈中谈基督教的谦卑、欲念与不应自以为比别人优越。“心里犯奸淫”援引耶稣关于欲念的教导，不是承认实际婚外情。“干”和“姘居”保留原文口语的粗俗程度，不能改成他真的干过这些事。",
+      "beginnerOpening": "卡特以虔诚基督徒形象参选，却接受了成人杂志《花花公子》的采访，还说自己在心里有过不正当欲念。他本想表达“人人都会有罪，别自以为比别人高尚”，却被抓住其中最刺激的话大做文章。它不等于承认实际发生过婚外情。",
+      "originalDetailsSHA256": "b0f3fef524618bf8db36a18a5d28998a58d19162114a0302f437d1dd8a904fea",
+      "beginnerSHA256": "87cd68cc2128516a20b6203b633ee28d466135972e7bec1086393f412f7d3c94",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.ford-offices",
+      "title": "福特未经选举进入白宫，不是从未当选公职",
+      "previousOpening": "福特曾多次当选联邦众议员。1973年按第二十五修正案程序获任命并经国会确认出任副总统，1974年尼克松辞职后继任总统；他没有在全国大选中当选总统或副总统。",
+      "beginnerOpening": "福特不是靠全国大选成为副总统或总统的：副总统空缺时，他获任命；尼克松辞职后，他又按继任规则成为总统。所以1976年参选，是让全国选民第一次决定是否让他继续当总统。但他以前做众议员时，多次赢过地方选举。",
+      "originalDetailsSHA256": "5d0b94d0fa73c401653063b4ad35222df09eeb6dea659a2d4ba8f2ea93695247",
+      "beginnerSHA256": "d02e26adc101d03389eb3963c729d192a7a1c8926a603f14380fd872ed120a6e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.last-term",
+      "title": "福特最后一届任期与未决选举",
+      "previousOpening": "福特继任后至1977年1月已任职超过两年。第二十二修正案规定，若在他人当选的任期内任职超过两年，之后只能再当选总统一次；因此1976年赢得选举将开启他的最后一届，而非还可以赢下1980年。",
+      "beginnerOpening": "美国总统通常一届四年，还有当选次数限制；半路继任别人剩下的任期，也会影响怎么算。福特已替尼克松做了超过两年，因此1976年如果当选，接下来将是他最后能获选的一届。结局里的“最后任期”，不是暗示他马上要去世。",
+      "originalDetailsSHA256": "3b686c5e4a764d18c6ce534d413f99140cdcb7ed0b26715923eff0a095529ae9",
+      "beginnerSHA256": "21c7d6e3327f587cccceb186b2950b20c1e653880cdb46dc04b46af1194a360e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.utopia",
+      "title": "卡特乌托邦：花生、果酱与873票",
+      "previousOpening": "这个结局夸张地写出873张选举人票，而当年实际总数为538。超出总票数的数字，正是架空大胜结局的荒诞笑点。",
+      "beginnerOpening": "卡特曾经营花生农场，所以游戏常用花生等乡土意象开他的玩笑。这个结局还给出873张选举人票，但1976年全国实际只有538张。超出票数上限就是作者故意写的夸张大团圆：你的胜利已经好得像一个不可能的童话。",
+      "originalDetailsSHA256": "11ab60d766939faf65d8bfe1cc7cd3f7b6560b26b111584db47ce9f94f50c400",
+      "beginnerSHA256": "c0d55510bc095ce8be7643b4cb5ee6fcbd19ffdfa6d1cdf0e173e899ee852000",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.rose-garden",
+      "title": "玫瑰园战略：利用现任总统身份",
+      "previousOpening": "玫瑰园战略指福特更多留在白宫履行公务，突出总统的经验与可靠形象，由多尔外出竞选，也节省差旅预算。它不是园艺政策，也不意味着总统从不外出。",
+      "beginnerOpening": "现任总统不必总像挑战者那样到处跑，他可以在白宫处理公务，让新闻不断报道自己正在领导国家。这就叫“玫瑰园战略”。它能显得稳重、有经验，却也可能让人觉得候选人不愿亲近选民；这里不是在讲白宫该种什么花。",
+      "originalDetailsSHA256": "8e73809355dc527ecc6b84917dd60ad99de209ef06c83d27f8d3cbbdb0fb321a",
+      "beginnerSHA256": "85750be924a1482ea9ad7de273e5650872953336ecd89db6b4fd73814bbd9777",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.europe-gaffe",
+      "title": "东欧口误：辩论中的冷战措辞",
+      "previousOpening": "福特在第二场总统辩论中否认苏联主宰东欧，引发争议。这里并不是东欧国家已经摆脱苏联影响；他的后续解释强调当地人民追求自由。",
+      "beginnerOpening": "冷战时东欧许多国家受到苏联强大控制和影响。福特在辩论中却说苏联并未主宰东欧，听众便觉得他连重大国际现实都说错了。他后来想表达的是当地人民仍渴望自由，但候选人一旦说错关键话，解释往往赶不上第一印象。",
+      "originalDetailsSHA256": "5320c287944cd681934943c562016c511fcc32dc7c83423389353b75019cf290",
+      "beginnerSHA256": "2b340463cee8bd72b38cc52134bd8cdcecf1b26dfb14473065e8428933a586d4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.grain",
+      "title": "对苏粮食贸易：1972年已签大额协议",
+      "previousOpening": "国务院《美国对外关系文件》记录，美国与苏联于1972年7月8日签署三年粮食采购协议。",
+      "beginnerOpening": "美国是农业大国，苏联向美国买粮食，会让美国农民多一个大客户。但苏联又是冷战对手，粮价和供应也影响国内消费者。因此卖粮问题同时牵涉农民收入、物价和外交：对某一群体有利的贸易，不一定让所有选民都高兴。",
+      "originalDetailsSHA256": "389cda66ecf0134478fef4694a34c3bb68a0d6f9378420b6346f3e47dd7059db",
+      "beginnerSHA256": "fc3d585a63e056af169f3d33fbc767185fb6d166e8852e45e0df3de5d1107685",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.humphrey-hawkins",
+      "title": "充分就业：1976年提案与1978年法律不同",
+      "previousOpening": "1976年争论的是汉弗莱—霍金斯就业立法提议，不能写成当时已生效的1978年法律。充分就业并非绝对零失业。",
+      "beginnerOpening": "“充分就业”大致是希望愿意工作的人能比较容易找到工作，并非现实中绝对没人失业。汉弗莱—霍金斯提案想让政府更主动追求这个目标。支持者重视就业保障，反对者则担心增加开支、推高物价；几个看似美好的目标也可能互相牵制。",
+      "originalDetailsSHA256": "83d95a340e0e336a76f684b6e7d34d61de635a4c0273761d4e2aaa9b57911373",
+      "beginnerSHA256": "1feea4ff6004f672969c97e65d5c726502a851999d51f5b5746a398c9bda1e94",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.draft",
+      "title": "逃避征兵者与军中逃兵不同",
+      "previousOpening": "逃避征兵者指没有按征兵要求服役的人，军中逃兵则是入伍后擅离职守者。卡特1976年支持普遍赦免前者，并将后者另作区分。",
+      "beginnerOpening": "越战时，有些人拒绝按征兵要求入伍，有些人则是入伍后擅离部队，这两类人不一样。战争结束后，社会争论是否应赦免他们。反战者强调结束分裂，服役者或军人家庭可能觉得不公平，因此候选人需要决定宽恕到什么程度。",
+      "originalDetailsSHA256": "cf5dcaa20750af364d1d834189df765b3cb521a205b921e4e8365a42971e4abb",
+      "beginnerSHA256": "a3d6b2609bf4e19d97bfb0489b5781bb649f79726b5b809ed8dd6b3f6650c1b1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.era",
+      "title": "ERA是宪法修正案；贝蒂的沙发是玩笑",
+      "previousOpening": "平等权利修正案由国会于1972年提出，尚须足够州批准才能成为宪法的一部分。1976年的支持与反对不能译成国会准备首次通过一项普通法律；工会对妇女保护立法与平等待遇也并非始终有同一立场。",
+      "beginnerOpening": "平等权利修正案想把不因性别而剥夺平等权利写进宪法。它需要足够多的州批准，不是总统签个字就能生效。福特的妻子贝蒂公开支持它，所以顾问说反对后“只能睡沙发”，是在拿夫妻意见不合开玩笑，不是白宫真实住宿记录。",
+      "originalDetailsSHA256": "e76c8f4dcd465b4b2ede83c937571cf5d218ffa087fdbcb151b91ec3370a90de",
+      "beginnerSHA256": "f5f378a377a865b824170fdf9af55336d0d7526a3a3ebfc725b6fd614ce05441",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.betty",
+      "title": "贝蒂的坦率：不等于替丈夫宣布政纲",
+      "previousOpening": "贝蒂1975年《60分钟》访谈涉及堕胎、年轻人的性关系及尝试大麻，引来赞成与反对。她表达自己的观点，也强调与丈夫可以有政治分歧。",
+      "beginnerOpening": "贝蒂·福特是总统福特的妻子，她在电视采访中坦率谈堕胎、年轻人的性行为和大麻，既有人欣赏，也有人反感。候选人要决定如何面对配偶与自己意见不同：维护她的独立表达，还是为了保守选票要求她少说。她的发言不等于丈夫正式宣布政策。",
+      "originalDetailsSHA256": "53f0abe9d0f61285931824848c2c1344dc672b301dec4c70c5a5a5a57374050d",
+      "beginnerSHA256": "76554dcebf5a30f877859b9701858c37677c28112ad497e66a97b9805348ca9b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.work",
+      "title": "工作权法：工会保障协议，而非政府保证就业",
+      "previousOpening": "这里的工作权法涉及州是否禁止把缴纳工会费用等工会保障安排作为就业条件。它不是国家保证人人获得工作的权利，也不能与充分就业法案混为一谈。",
+      "beginnerOpening": "这里的“工作权法”主要影响工会能否通过合同要求相关工人缴费或加入组织。支持它的人强调不该被强迫，工会则担心有人享受谈判成果却不分担成本。它与“政府应保证人人有工作”的充分就业主张，是不同议题。",
+      "originalDetailsSHA256": "a487fbfec1b067020db77b7677f416a61eb09f8f30c0a8ec4863bc29ba0b3ad9",
+      "beginnerSHA256": "0c91a8ed68f13336ec18f2081a70ade49e7a7ad0bc1d08b4ca24355627120753",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.oil",
+      "title": "石油禁运：阿拉伯产油国与以色列政策",
+      "previousOpening": "1973年阿拉伯—以色列战争期间，阿拉伯产油国针对支持以色列的国家实施禁运、削减产量。禁运延续到1974年3月，成为此后美国能源政策争论的重要背景。",
+      "beginnerOpening": "1973年中东战争后，部分阿拉伯产油国限制向支持以色列的国家供油，美国因此感到能源受制于人。到1976年，选民仍在意油价、供应和外交。强硬支持盟友、维持产油国关系、增加国内生产与节约能源，往往不能轻松兼顾。",
+      "originalDetailsSHA256": "2ba811c483d387cfa04d5882ac93e07541601abae0b7dcfbc9cac1cb610d0f69",
+      "beginnerSHA256": "355a0289fc3d11a2e3a0cbfd4d701c88e2e6e169be96ea2679c292bdec4fe709",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.panama",
+      "title": "巴拿马运河：1976年谈判并未完成移交",
+      "previousOpening": "福特时期已在谈判新的运河安排；1977年卡特与托里霍斯签署两个条约，1978年参议院批准。运河区于1979年10月停止存在，运河本身到1999年12月才移交巴拿马。",
+      "beginnerOpening": "巴拿马运河连接大西洋和太平洋，是重要航运通道，美国当时掌握运河控制权。巴拿马要求更大主权，双方在谈新安排。支持移交的人强调公平与合作，反对者觉得美国在失去战略资产；1976年讨论的是以后怎么做，并不是已经交出运河。",
+      "originalDetailsSHA256": "8c891a2bf24b6ab2d05d24cde32aff5bf81df6b981f7d331aa76ddfcf592bfcf",
+      "beginnerSHA256": "2d0e7c2f363b9d22a2b5b3369a75c862ea2b6686428659e8e178b3ee68be2cc8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.church-committee",
+      "title": "彻奇委员会：情报监督，不是教会委员会",
+      "previousOpening": "Church在这里是参议员弗兰克·彻奇的姓。1975年成立的调查委员会查究情报机关的非法、不当或不道德行动，1976年4月提出最终报告；并不是调查宗教组织的委员会。",
+      "beginnerOpening": "彻奇是美国参议员的姓，不是“教会”。他的调查委员会审查情报机关秘密行动和侵权行为。支持调查的人希望限制滥权，反对者担心揭露秘密会削弱安全。因此这道题是在争国家安全机构该受到多少监督，不是在讨论宗教。",
+      "originalDetailsSHA256": "dc5768014bd6bb6bc8050462df4765af3ce28381c543c223094ff80cbb38136d",
+      "beginnerSHA256": "04560cfe66f3b9c5eb3ef1b2b6ef5b747fcead743789b95c01eac5ceed9f2dd2",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.scoop",
+      "title": "斯库普·杰克逊：绰号与鹰派民主党人",
+      "previousOpening": "斯库普是亨利·杰克逊的绰号，参议院简介记述他年幼卖报时获得这个称呼。不是名字叫“独家新闻”的另一个人，也不是安德鲁·杰克逊。",
+      "beginnerOpening": "斯库普是参议员亨利·杰克逊的绰号，不是另一个姓斯库普的人。他在国内政策上可以支持劳工和政府项目，在外交国防上却很强硬。这说明美国政治人物不一定“所有问题都左”或“所有问题都右”，选他做搭档会改变不同选民对你的印象。",
+      "originalDetailsSHA256": "12fff9bb4f68c165c80176486741dad734c4bc71d5a27558c7008d141d96c47a",
+      "beginnerSHA256": "9fed61f591044c696365eb27d67d0fc835cd4a5110a56c8fb6805d28d5888cea",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.butz",
+      "title": "巴茨辞职：真实事件与可选应对",
+      "previousOpening": "农业部长厄尔·巴茨在1976年因粗俗、带种族主义的笑话引发争议并辞职。题目以此考验候选人如何处理党内人物的丑闻。",
+      "beginnerOpening": "巴茨是福特政府的农业部长，因粗俗、带种族主义的笑话引发丑闻并辞职。候选人要决定怎样与他划清界限、是否追究责任。维护党内自己人可能讨好某些支持者，却也会让其他人觉得，你把政治关系看得比基本尊重更重要。",
+      "originalDetailsSHA256": "94fa71ce777da0a7d226cce4da34ea9efc1f22b8042a2c7a164aad0b4c158e92",
+      "beginnerSHA256": "7d7cfffeb52e2a95faf4bc6abc8a83e726335783224e5c1ab72cc832421b52fb",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.scrooge",
+      "title": "斯克鲁奇：吝啬冷酷的文学比喻",
+      "previousOpening": "斯克鲁奇是狄更斯《圣诞颂歌》中的人物，成为吝啬、缺乏同情心的代称。这里说反对政策时不要显得像他，是顾问对竞选形象的讥讽，不是美国政客的姓名。",
+      "beginnerOpening": "斯克鲁奇是小说《圣诞颂歌》中著名的吝啬鬼，开始时对穷人冷酷、只顾金钱。顾问说“别像斯克鲁奇”，就是提醒你：反对一项补助时，也要让选民觉得你关心受苦的人。它是文学比喻，不是某位美国官员的名字。",
+      "originalDetailsSHA256": "cd55cf551385c469f48b8f344ba002f57d7bf00f768a2f43e09c5b76a7c7f5f9",
+      "beginnerSHA256": "63cba0144577bb77ae981eacb365abee85a490f2839b0f6db3d134ee6eb8dc06",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.nyc",
+      "title": "纽约救助：贷款、条件与政治形象",
+      "previousOpening": "问题所称23亿美元救助涉及联邦贷款，不是无偿向城市赠送同额资金。福特最初反对为避免违约而进行联邦救助，后来在纽约州、市及相关机构采取措施后支持贷款方案。",
+      "beginnerOpening": "纽约市一度财政困难，面临还不起债的危险。联邦政府要决定是否贷款帮助它、又该附加什么条件。支持者担心城市失控会牵连普通人和经济，反对者怕奖励管理不善、让全国替一座城市买单；“救助”在这里也不全是无偿送钱。",
+      "originalDetailsSHA256": "03bdb96f78a6f7b2d92e2bf25ded0c3aa1bd6c0a823697468b729e85fb99ec67",
+      "beginnerSHA256": "08ef3e5458b919c27af3336b87e3d624a24cda9633ecfe60060f4a2cc82844d4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.test-ban",
+      "title": "有限禁试与全面禁试不是同一政策",
+      "previousOpening": "1963年《部分禁止核试验条约》禁止大气层、外层空间和水下核试验，没有禁止地下核试验。1976年再讨论全面禁试并不意味着过去从未有过禁试安排。",
+      "beginnerOpening": "核试验用来研发、检验核武器，却带来辐射和军备竞赛风险。此前条约只禁止部分环境下的核试验，地下试验仍可进行。因此1976年讨论“全面禁试”，是在问是否进一步限制核武器发展，不是第一次有人想到限制试验。",
+      "originalDetailsSHA256": "4ae179ccff50005ee6a82c07ec24705531820c5e0f86eab45a249338718d706d",
+      "beginnerSHA256": "889e98de99f27f232a1bd015bca7b1071765e6fe72d65a7edf14b5f1a0016b84",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.brown",
+      "title": "布朗的以色列负担论：军事供给与外交争议",
+      "previousOpening": "这里是参谋长联席会议主席乔治·布朗，不是副总统候选人或地方议员。1976年同期报道记录，福特回应有关布朗“军事负担”的说法，解释1973年战争援助曾动用美国在欧洲的军备储备，并强调已补足、美国支持以色列安全。",
+      "beginnerOpening": "乔治·布朗是美国军方高层，曾谈到援助以色列对美国军事资源的负担。候选人回应时，既要谈盟友安全，也要面对成本和国内选民情感。批评一项援助安排与敌视犹太人并不相同，但竞选中的说法很容易被对手利用、放大。",
+      "originalDetailsSHA256": "922f171ed2de971a38c3202480da32dda1d138ee91066d2b5238b5a6b3027fbe",
+      "beginnerSHA256": "40a6bcbe50e49bf09f9bbfba7881e0aa8c3d22b45e931e0c346d50325dc74ef1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.church-race",
+      "title": "普莱恩斯教会与克伦农·金：礼拜不等于会籍",
+      "previousOpening": "克伦农·金是一名黑人牧师和民权活动人士，不是已于1968年遇刺的马丁·路德·金。同期美联社报道记载，卡特家乡教会后来以120比66表决向所有愿意参加礼拜的人开放。",
+      "beginnerOpening": "卡特以基督徒身份参选，家乡教会若把黑人拒之门外，就会让选民追问：他的平等承诺和日常生活是否一致。来访者克伦农·金也是黑人牧师，但不是马丁·路德·金。题目让你处理的是宗教自由、种族平等与个人责任之间的冲突。",
+      "originalDetailsSHA256": "20360302fb9d501367fbcd314311abac03926baabe30e054705c8899d5f91b7c",
+      "beginnerSHA256": "bf1bbecb8fbd5d0236d600ac41f630556b9041f1b4e2fff88f8b2b34265d2d12",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.ford-falls",
+      "title": "福特摔倒梗：电视讽刺中的笨拙总统",
+      "previousOpening": "福特在奥地利走下飞机舷梯时摔倒，切维·切斯又在《周六夜现场》反复模仿笨拙的福特。游戏让玩家想象这段画面的动图，借用了当时的电视喜剧形象。",
+      "beginnerOpening": "福特曾在飞机舷梯等场合摔倒，电视喜剧又反复模仿他笨手笨脚的样子，逐渐把“总摔跤的总统”变成公众印象。游戏借这个形象开玩笑。这里的重点是一个反复播放的片段怎样塑造人物，而不是对他执政能力作医学判断。",
+      "originalDetailsSHA256": "1009dd71bbd9cce55440e323b4574107bcdfa27a8f1fa8db85b639b7844531de",
+      "beginnerSHA256": "902fb2b45d3f363a85c4afb181d17bc07fff49a1e1c9bece347632b637750e4a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.bayh-celler",
+      "title": "贝赫—塞勒：全国直选的宪法改革提议",
+      "previousOpening": "贝赫—塞勒提议以总统全国直选取代选举人团。1969年众议院通过相关修宪方案，但它未完成参议院和州批准程序，并未成为宪法。",
+      "beginnerOpening": "美国可能出现“全国拿票更多，却因州票分布输了总统”的结果。贝赫—塞勒方案想改成全国选民直接比总票数，取代选举人团。支持者觉得更直观公平，反对者担心削弱小州影响。它是没能完成批准的修宪提议，不是后来已经采用的新选法。",
+      "originalDetailsSHA256": "1dfff5c1f1fd612fbee9bf2d017e3e4ab055c200a3ac829662a72a77e8aa4cf8",
+      "beginnerSHA256": "273b231ac1cc86ea6297a2550adfa7b1976a7a12948ab8339ed413611eaf9ebf",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1976.gregg",
+      "title": "格雷格案：有程序限制的死刑合宪",
+      "previousOpening": "1976年格雷格诉佐治亚州案认可了该案中约束判刑裁量的死刑程序，确立死刑并非一概违宪。判决讨论的重点包括适用标准与程序保障。",
+      "beginnerOpening": "美国法律不只问一个人是否有罪，也问国家该用什么刑罚、程序是否公平。1976年，最高法院认可了一套带有程序限制的死刑制度。竞选时支持死刑能表现强硬，反对者则可能担心误判和不公平；判决并不意味着政府可以任意判人死刑。",
+      "originalDetailsSHA256": "ff08de91d4eae1d0504270dede50d6e8e28caff381c3e4c133d21b02e98c14e8",
+      "beginnerSHA256": "2844baee87d8136a7af6bae635b8336437ddd5969858cf4833c97158cdd1a9d3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.pledge",
+      "title": "效忠誓词：反对强制，不等于反对国旗",
+      "previousOpening": "巴内特案1943年保护学生不被强迫敬旗和宣读誓词。杜卡基斯任州长时另向州最高法院咨询1977年法案，要求每位教师每天带领班级宣读。法院多数意见认为侵犯教师的第一修正案权利，明确把巴内特理由延伸到教师；不同意见对法案是否构成强制有不同解释。",
+      "beginnerOpening": "美国学校常宣读向国旗效忠的誓词。杜卡基斯反对强制教师带领宣读，涉及政府能否逼人表达信念。对手却可以把它说成“连爱国宣誓都反对”。这就是法律原则与竞选形象的冲突：保护不被强迫的权利，很容易被剪成不爱国的标签。",
+      "originalDetailsSHA256": "e92e4476b3b36a0c32c8dda63154e203f4f77be1e51db4811a022f5545b96630",
+      "beginnerSHA256": "84881a2ba981a2c7a872b6acc6dfc32f40cdfa126cc6d1b757b98e5b58050737",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.kinder-taxes",
+      "title": "更加仁厚温和与读我的唇：真实口号及反常选项",
+      "previousOpening": "布什在1988年8月18日接受提名演说中希望国家更加仁厚温和，并许诺不加新税；“读我的唇”是强调自己绝不加税的说法。",
+      "beginnerOpening": "1988年参选的是老布什。他一面说要让国家更仁厚温和，一面以“不加新税”争取保守派，这两句都是招牌口号。游戏若让他改口赞成加税，就是让玩家偏离著名路线；你需要同时考虑财政需求、对选民的承诺和个人可信度。",
+      "originalDetailsSHA256": "321c1751ba28c5832b305ecd1f4e14ce342ad7059c53c53ee19caa1c72530214",
+      "beginnerSHA256": "982022eab573400579975e1474d1cabc78f3066cd1967d7d734fb6615d3a1d9a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.invalid",
+      "title": "病人嘲讽：里根的话不是医学诊断",
+      "previousOpening": "1988年8月3日记者问杜卡基斯是否应公开医疗记录，并提到精神科诊治传闻，里根用invalid作嘲讽性回答。这里译为病人，不是无效的人；也不能据总统这句话确认候选人有精神疾病。",
+      "beginnerOpening": "里根是1988年即将卸任的共和党总统，杜卡基斯是民主党候选人。当记者提到杜卡基斯的健康传闻，里根拿“病人”开了个刻薄玩笑。游戏问你是否与这句话切割，是在看你愿不愿为本党领袖的不当言论收拾残局，不是在确认对手的病历。",
+      "originalDetailsSHA256": "fab4742da4943c230a294ca7978c690bcf0ffffe086de0dc0b1d9a4aa5d9fa27",
+      "beginnerSHA256": "b3ce0d3dcdffe6d1df02cfd8e6998501d5ca88cdca3ad99fba378ee6db9ba945",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.inf",
+      "title": "中导条约：消除一类导弹，不是全面核裁军",
+      "previousOpening": "里根与戈尔巴乔夫于1987年12月8日签署《中程核力量条约》。里根在签署讲话中说明将销毁有关陆基中程导弹，强调现场检查及“信任，但要核查”。1988年6月1日在莫斯科交换批准书后生效。",
+      "beginnerOpening": "冷战中，美苏部署的核导弹让双方都担心突然遭到毁灭性攻击。中导条约约定销毁一类陆基导弹，并安排核查。支持它是在肯定谈判能降低危险，怀疑者则怕对手作弊。它不等于双方已经交出所有核武器、从此没有核战争风险。",
+      "originalDetailsSHA256": "8d01a0e97cbf13479cedc19c8d371160d25b8b5144734c4ecdd29f6155feb107",
+      "beginnerSHA256": "3ab518010c080d25096fbfbf0337105e0ff85b26f38ba027b82565e2c73a2cfa",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.noriega-defense",
+      "title": "诺列加与七届政府：竞选辩护的出处",
+      "previousOpening": "1988年9月25日首场总统辩论中，杜卡基斯批评美国与诺列加的关系，布什则说七届政府都与他打过交道，并以里根—布什政府提出起诉作为辩护。剧本选项沿用了这套论辩。",
+      "beginnerOpening": "诺列加是巴拿马强人，曾与美国有合作关系，后来又因贩毒等问题成为美国的麻烦。老布什做过情报部门负责人，又是副总统，对手便追问他为何曾与这种人打交道。说“以前几届政府也这样”，是一种分散责任的辩护，不是自动洗清所有争议。",
+      "originalDetailsSHA256": "6bd2336f90a2d742e97121c54095e4e0757732c0a235f8c5ec5b26251f7ea6c7",
+      "beginnerSHA256": "e95885ec7f0823260c3c86c64dccb16532a0f2299e9fa359baff68bfcff32b72",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.classroom-prayer",
+      "title": "课堂祈祷：学校主持与个人宗教活动的区别",
+      "previousOpening": "1962年恩格尔诉维塔莱案针对公立学校主持的祈祷。法院多数意见认为，即使不限定教派、允许学生退出，也不能消除政府介入宗教的问题。",
+      "beginnerOpening": "公立学校由政府办，如果老师带全班祷告，学生可能感到必须跟随某种宗教。支持学校祷告的人强调传统信仰，反对者则强调政府不能替大家选择宗教。题目讨论的是学校主持的宗教活动，与学生个人在课余祈祷是不同情况。",
+      "originalDetailsSHA256": "31931abcee9decdec333bd307e873a49bf6a23cddb24af7140f1b1d68fef279e",
+      "beginnerSHA256": "2b5a85cd898bc24ed3dc8f74bff3100e228ffb454900e3ea58476f14c1c050a2",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.north-american-trade",
+      "title": "三国自由贸易区：1988年仍是政策设想",
+      "previousOpening": "本题问的是是否支持涵盖墨西哥、美国和加拿大的自由贸易区。不能在1988年的问题里把它直接写成已经生效的《北美自由贸易协定》。",
+      "beginnerOpening": "自由贸易区想让美国、加拿大、墨西哥之间的商品更容易流通。企业和消费者可能获益，受进口竞争或工厂外迁影响的工人却会担忧。1988年这还是政策设想；后来正式生效的北美自贸协定，不能当成当时已经发生的结果。",
+      "originalDetailsSHA256": "219cf1d471b82f634c1116a976265e32ddcb18ffcd2e1686b61ebcdf38dcbab9",
+      "beginnerSHA256": "accbe3abaf5ee3e17c49c280e0dd58326da3a1d93b88409a61b0298b16bcd34e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.drug-czar",
+      "title": "禁毒主管：沙皇比喻及机构时点",
+      "previousOpening": "Drug Czar用“沙皇”比喻集中协调禁毒政策的负责人，即国家禁毒主管。",
+      "beginnerOpening": "Drug Czar就是统筹全国禁毒政策的高级负责人，用“沙皇”比喻权力集中。候选人主张加强这个职位，是想显示政府会严厉处理毒品问题。它也会引出预算、执法和权力集中等争议，不是美国真的打算设立君主。",
+      "originalDetailsSHA256": "7a411ec0f85d3d393d2baeba914e5cb8f1ffe282a742b59bbc8733dce0bd394e",
+      "beginnerSHA256": "b986b11ca9f698bc7907789ebb99a6ff5ef5657eb09d83c41c5d1a42c1319e7c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.silver-foot",
+      "title": "含着银脚出生：富家子与失言的双关",
+      "previousOpening": "“含着银脚出生”把“含着银匙出生”的富家子弟意象，与“把脚塞进嘴里”的失言习语拼在一起，同时讥讽老布什的家世和口误。这句攻击最初来自安·理查兹，游戏让杜卡基斯也可以选用。",
+      "beginnerOpening": "英语说“含着银匙出生”，相当于家境优越；“把脚塞进嘴里”则是说错话。把两者拼成“含着银脚出生”，就同时嘲笑老布什是富家子弟、又常失言。中文按字面看很怪，原文好笑的地方正是两个熟悉说法被硬拼到一起。",
+      "originalDetailsSHA256": "d1870f6c2283e80c61e62236c55fe555fa24a3ec41cdd75cb6e2e49f4cc043f3",
+      "beginnerSHA256": "7ce872b77a2653fcd21e12c95d1c42f4ead53b6fc0e840287f283cda12d4cfb3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.dukakis-birth",
+      "title": "希腊移民之子：原作一处人物经历错误",
+      "previousOpening": "东北大学保存的杜卡基斯总统竞选档案说明，他于1933年11月3日出生在马萨诸塞州布鲁克莱恩，父母为希腊移民。本人不是出生在希腊后移居美国的移民。",
+      "beginnerOpening": "杜卡基斯的父母来自希腊，但他本人出生在美国马萨诸塞州。原作有个答案却把他也称作希腊移民。这里重点是他想用家庭移民经历说明自己理解新移民；不用从那个错误说法推断他没有资格竞选总统。",
+      "originalDetailsSHA256": "9c142d25e25286e121a8f0bc9eeaa4b1e32fc1f78e79bd69d43d9549286962a3",
+      "beginnerSHA256": "274b1d07bebe9ad6e59004cb39f0abf2b87098d521b964d607dac4818bdfd913",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "1988.sdi",
+      "title": "星球大战：战略防御倡议的绰号",
+      "previousOpening": "战略防御倡议试图研究拦截战略弹道导弹的防御技术。“星球大战”是该计划的流行绰号，不能理解成电影项目或当时已经部署成功的太空武器系统。",
+      "beginnerOpening": "里根提出研究拦截核导弹的防御技术，希望美国不只靠威胁报复保护自己。媒体把这个计划叫“星球大战”，借的是科幻片的名字。支持者觉得值得研究，批评者担心花钱太多、技术做不到；当时它不是一套已经可靠运转的太空护盾。",
+      "originalDetailsSHA256": "6fd0ff10e4e953b3ad4cff7285110cff37ccb5bfcedae98896a734b6201ec5b1",
+      "beginnerSHA256": "8c6dcdf9137fbba650bda3259ef0f79b1c09f25079d0cff5fbcedb4b066425fa",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.florida",
+      "title": "佛州537票：计票与诉讼不是同一道程序",
+      "previousOpening": "众议院书记员公布的2000年选举统计中，佛州共和党总统选举人得票2912790，民主党2912253，相差537票。这个数字来自认证计票结果，不是最高法院亲自数出的票数。",
+      "beginnerOpening": "2000年，佛罗里达最终认证的结果只相差537票，而赢州就能拿走该州整包选举人票，决定全国总统归属。于是怎么重数、哪些选票算有效，都变得异常重要。法院处理的是计票争议，不是法官亲自拿着选票把总统选出来。",
+      "originalDetailsSHA256": "358f2a3d6f559d706f0b84cf244ece7bdac3997672fdf29bbe45e9932767b14f",
+      "beginnerSHA256": "5b1d866bb53d112ea9f0de128a564b2b83de0e9c975516ea1c8063654a03e950",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.funding",
+      "title": "纳德的5%目标与公共资助",
+      "previousOpening": "联邦选举委员会2000年年报区分初选配套资助和大选公共资助：小党依据上次总统选举的全国普选票比例取得部分大选资助；新党候选人达到5%可取得选后部分资助。",
+      "beginnerOpening": "纳德不是两大党的候选人，很难直接赢总统，所以也会追求提高小党的长期实力。全国普选票达到一定比例，可能帮助政党取得公共竞选资助。这里的5%因此是一个制度门槛；赢一个州和全国达到5%，不一定是同一回事。",
+      "originalDetailsSHA256": "132f76bff40e6b6d85f17583e23531f9af5d24ceaa6838eb29c032374ecb9bb1",
+      "beginnerSHA256": "2f11aa70d0c32146e8b2ef618cba1d115e2bd7df9b54e4cd105368a3f7256391",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.veto-comedy",
+      "title": "纳德喊否决：架空喜剧与真实程序",
+      "previousOpening": "这一结局是纳德当总统的架空喜剧。总统不是靠在参议院书记员身后大喊一声，就完成法定否决；宪法规定将法案连同反对理由退回原提出的院，推翻否决须两院各有三分之二赞成。",
+      "beginnerOpening": "总统可以否决国会通过的法案，但要依照程序把法案和反对理由送回。纳德结局却把这写成跑到人身后大喊一声就解决，是故意夸张他的反对精神。笑点像是把复杂政治程序拍成一场闹剧，而不是在教你真实政府怎样办事。",
+      "originalDetailsSHA256": "520ff86ef289d015a44f1cb3bdb2cec5dbdb0f723a3369908b215a84d917e0a1",
+      "beginnerSHA256": "2cba83b5e2f02df49be1c55dd5ce9cc42d386648a220d7cf5879461d4f47908d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.internet",
+      "title": "戈尔发明互联网：缩略转述形成的政治梗",
+      "previousOpening": "戈尔曾谈到自己在国会推动互联网发展，后来被攻击者概括成“自称发明互联网”。游戏将这一流行攻击与关于研究、经费支持的辩护放在同一题中。",
+      "beginnerOpening": "戈尔曾说自己在国会推动互联网发展，对手把它缩成“戈尔说互联网是他发明的”，借此嘲笑他爱揽功。区别在于：支持法律、经费和基础设施，与亲自设计出互联网，并不是同一件事。游戏让你回应的是一个传播很广的政治标签。",
+      "originalDetailsSHA256": "ebb3ae904139ec0bbdd384db9b5d1e61f6298e73e187ac74ca6f407e7d5608d2",
+      "beginnerSHA256": "eedf7585b4afe6119d2574456a9719499d853373c470894d87a6c9f623b72320",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.kyoto-vote",
+      "title": "克里与京都：决议不等于条约批准票",
+      "previousOpening": "1997年7月25日，参议院以95票赞成通过伯德—黑格尔决议，克里投赞成票。决议反对不同时要求发展中国家承担指定减排承诺、或严重损害美国经济的协定。这不是对后来《京都议定书》的批准表决。",
+      "beginnerOpening": "《京都议定书》要一些国家承担减排目标，美国政客争论它是否公平、会不会伤害本国经济。克里曾支持一项对条约提出条件的参议院决议，但那并不是批准条约本身。题目借这段经历追问他是否前后矛盾，你要先分清当时到底在投什么票。",
+      "originalDetailsSHA256": "4fbdb0abd3713ddedffe9f664f746f909c615a7999c7ccbfc8cabfa6421ef4e3",
+      "beginnerSHA256": "32b91b86ba1261ee354bde24f423cca118e1eb2f1a1360fcf2d3f60ca385ba39",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.milosevic",
+      "title": "米洛舍维奇下台与移交法庭的时间",
+      "previousOpening": "前南刑庭的案件历史记载，1999年发出逮捕令，2000年9月选举及10月群众抗议使米洛舍维奇下台；实际移交海牙是在2001年6月。",
+      "beginnerOpening": "米洛舍维奇是南斯拉夫领导人，与战争和国际刑事指控联系在一起。对他发动空袭、他失去政权、被移交国际法庭，是前后不同的步骤。游戏里赞扬“让他接受制裁”的话，把过程压缩了；候选人要谈的重点是军事干预是否有效、是否值得。",
+      "originalDetailsSHA256": "a50a7dedb80fa0f88041a0b02bf50b52d9ecfa2aa1d1ea625ece1c035b52da61",
+      "beginnerSHA256": "c9d78d936db8fbce5808548f1f46d9cd9989994b211ac13aecae4b63ec052a17",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.cole",
+      "title": "科尔号袭击：当时疑问与后来的调查",
+      "previousOpening": "2000年10月12日，科尔号驱逐舰在也门亚丁港补给燃料时遭载有炸药的小艇袭击，17名美国水兵遇难。FBI后来确认基地组织策划并实施袭击。",
+      "beginnerOpening": "2000年，美国军舰科尔号在也门港口补给时遭爆炸袭击，17名水兵死亡。选举临近，候选人必须表态：立刻强硬报复，还是先查清谁策划、谁包庇。犹豫可能被说成软弱，贸然动武又可能打错对象，因此几个答案代表不同的风险选择。",
+      "originalDetailsSHA256": "7d2fe2681916ac1fadfc26a6f9a3e85388e8c61c86bcf8e3a31524ac26f12f42",
+      "beginnerSHA256": "0c78cf85e0b4416a40d3485eed98f8b6e24ba1646c41ea078622343e9a3285fa",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.elian",
+      "title": "埃利安：监护与移民争议",
+      "previousOpening": "埃利安·冈萨雷斯案涉及古巴男孩在美国亲属与古巴父亲之间的监护、移民和庇护申请争议。克林顿图书馆档案说明，联邦人员于2000年4月22日接走男孩，同年6月28日他与父亲返回古巴。",
+      "beginnerOpening": "埃利安是一个来自古巴的小男孩，美国亲属想让他留美，父亲则希望他回古巴。由于美国与古巴长期敌对，一起家庭监护争议变成了全国政治事件。支持父亲的监护要求、反对古巴政权，以及怎样对待移民，并不能简单合成一个立场。",
+      "originalDetailsSHA256": "8c364200414180f69e2656e88dcb714678c5b874f1befcb304337007db9cfb5d",
+      "beginnerSHA256": "6b7d39624f16bd3b23a3261e074b00fc1d6c0a08dcfbc829bd049d231cfca743",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.anwr",
+      "title": "ANWR：北极保护区的名称",
+      "previousOpening": "ANWR指位于阿拉斯加的北极国家野生动物保护区。鱼类与野生动物管理局说明，其前身建立于1960年，1980年扩大并改称现名。",
+      "beginnerOpening": "ANWR是阿拉斯加的北极国家野生动物保护区。支持钻油的人看重能源供应和工作，反对者担心破坏珍贵栖息地。题目把一个遥远地方变成全国能源与环保的取舍：想降低对外国石油的依赖，要不要接受这里的环境代价？",
+      "originalDetailsSHA256": "da03e790d1b58a899ee992806f63f20f2899f14b7c007c5ce162f6e7d3557cb3",
+      "beginnerSHA256": "bffdea1c34bb4a7fd26560e546127b2820dbedcc909284dd8cbfc4d6535d3479",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.petroleum",
+      "title": "战略石油储备：2000年交换放油",
+      "previousOpening": "克林顿在2000年9月23日讲话中宣布，前一日指示能源部长在30天内交换3000万桶战略储备原油，理由是取暖油库存不足、原油昂贵，尤其影响东海岸与新英格兰。",
+      "beginnerOpening": "战略石油储备像国家为紧急情况准备的原油库存。政府可以在供应紧张时释放一部分，缓解价格或取暖压力；反对者可能觉得这会削弱应急能力、干预市场。2000年的具体安排是以后需要归还的交换，不是把储备永久免费送掉。",
+      "originalDetailsSHA256": "be68a8a7af63e2a09130d3b20f431010cd48145aad0b1f7346cd85e6a094140a",
+      "beginnerSHA256": "c42feca60fc5b36d78709dde441adf3a9c8a76dedb505991a042b2c1c042926c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.impeachment",
+      "title": "弹劾不等于免职",
+      "previousOpening": "众议院在1998年12月19日弹劾克林顿，参议院于1999年2月12日审判后作无罪裁决，他并未因此被免职。弹劾是提出正式指控，免职还涉及审判定罪，不能互译。",
+      "beginnerOpening": "弹劾更像国会正式提出指控，离“被赶下台”还差后续审判。克林顿1998年被众议院弹劾，参议院后来没有将他定罪免职。因此戈尔既可以肯定他的政策，又可能为他的个人行为划清界限；支持弹劾不等于说历史上他已经被免职。",
+      "originalDetailsSHA256": "a3dddf238118d24bea6a2196b818b7c1622ed3350181a2b366f3e8fa0295bea1",
+      "beginnerSHA256": "7b950d96683f357a3636bf27e2a183df2eefb8301ba248d3b806574675dee8ef",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.raiders",
+      "title": "纳德突击队：消费者权益研究者",
+      "previousOpening": "纳德在自己的回顾文章中记述，第一批年轻研究者于1969年调查并推动改革联邦贸易委员会，后续团队调查公司与政府机构。这就是Nader’s Raiders称号的背景。",
+      "beginnerOpening": "纳德因维护消费者权益出名，他手下的年轻研究者会调查企业和监管机构问题，被称作“纳德突击队”。这个名字强调追查问题的冲劲，实际不是武装部队。游戏让纳德当总统，是把一个长期挑战大企业的人写成终于进入权力中心的架空故事。",
+      "originalDetailsSHA256": "b1c719cd62b3e599c4c7db873b98bc7f2d8dfd25f756714ef4ada19c749eb775",
+      "beginnerSHA256": "84ac5f7c8f990ab6df80c77cd09cd455ba1bd52ed57b74d3079146c41738d602",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2000.danforth-terms",
+      "title": "丹福思的四届：补缺与完整任期",
+      "previousOpening": "参议院手册记载，丹福思于1976年12月27日就任，任至1995年1月2日；脚注说明，他先当选1977年1月3日开始的任期，随后获州长任命补完此前任期的最后几天。",
+      "beginnerOpening": "联邦参议员通常一届六年，有时也会先获任命，替别人补完很短的剩余任期。丹福思的“四届”可能把短暂补缺也算了进去。理解人物资历时，不要机械地用“四乘六等于二十四年”；题目是在介绍竞选搭档的经验和形象。",
+      "originalDetailsSHA256": "457a3518ea38a2770771a3b97e81d1869fa91e0d4b8cd384440ab4b2c88b4c5c",
+      "beginnerSHA256": "bf2a48f25768a93242df75ebf70d9623e356f08fd5097982b2646913f5df64cf",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.arizona",
+      "title": "亚利桑那移民法：保留一条不等于全法获认可",
+      "previousOpening": "2012年6月25日的判决认定，SB1070的第3、5(C)、6条被联邦法排除；对执法过程中核查移民身份的第2(B)条，则认为在州法院解释及实际实施之前，不宜先行禁止。",
+      "beginnerOpening": "亚利桑那想更严厉查处非法移民，联邦政府却认为有些条款侵入了全国统一管理移民的权限。最高法院否定部分条款、暂未阻止另一条实施，因此双方都能挑一部分说自己赢了。候选人还要回应：执法会不会让合法居民也因外貌被怀疑。",
+      "originalDetailsSHA256": "863bf4b037cffb96c445e2f7a93f330a9543d6682b59d9ae1078bc4489848558",
+      "beginnerSHA256": "59cf2fc985ccc3653469ef998aaca758040dfdcfe688bc659dab6fe5a7e4fe26",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.citizens-united",
+      "title": "联合公民案：独立支出与直接捐款",
+      "previousOpening": "联邦选举委员会2010年说明，判决撤销了禁止公司及工会以自身资金支付独立支出和竞选传播的限制，但广告的付款声明、披露要求，以及公司和工会直接向候选人捐款的禁令仍然存在。",
+      "beginnerOpening": "联合公民案影响的是企业、工会等用自己的钱独立发布竞选宣传的空间。支持者强调政治表达自由，反对者怕有钱者买走影响力。“独立做广告”和“直接把钱交给候选人”仍有区别，所以不能把它理解成此后任何政治捐款都毫无限制。",
+      "originalDetailsSHA256": "92898bb8ad860328b87595fd01aaf7a126a4e37b0d17a45639c2b36f42c74f87",
+      "beginnerSHA256": "729e741c122638335513c5977c543b4aafb411f93c601cf4c042b798cfcccacf",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.aca",
+      "title": "奥巴马医改：保费、自付额与强制投保",
+      "previousOpening": "2010年公法111-148区分保费与费用分担，规定年度费用分担上限，并禁止既往病史排除；个人投保义务也有豁免，条款分阶段生效。原作“每个美国人”和“年度保费上限”的概括不等于完整法律条文。",
+      "beginnerOpening": "奥巴马医改试图让更多人获得医疗保险，并限制保险公司因既往病史拒保等做法。争议在于政府该管多深、费用由谁承担。保费是买保险要交的钱，看病时自己分担的费用又是另一笔；支持增加公共保险选择，也不必然等于取消所有私人保险。",
+      "originalDetailsSHA256": "c1a42eac0e662c761b763548fc5c7960a9566a2dbb9f4a12aa34828e74a2febc",
+      "beginnerSHA256": "556c449d358793314f21a58ecfb4b9cf7cb6f7c052885bd1c84cfb15476618d0",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.social-security",
+      "title": "2033年预测：储备耗尽不是开始支付",
+      "previousOpening": "社会保障署2012年公告预测，合并信托基金资产将在2033年耗尽，并明确记载：不含利息的收入在2010年已低于支出；2011年计入利息后的总收入仍高于支出。",
+      "beginnerOpening": "美国社会保障制度靠持续收入和储备基金支付退休等福利。预测某年储备会耗尽，是说存下的钱可能用完，不是说那一年才开始花钱，也不等于以后完全收不到任何钱。题目在问怎样让制度长期付得起：改待遇、改筹资，还是采取别的改革。",
+      "originalDetailsSHA256": "1549241c0c225a42652aa39a72d5ac6cf57238b11598a67350b2773a17bee28d",
+      "beginnerSHA256": "8e2bca635088fcf5dfcdbafc36125983c4fdf007d5909832b64a6b5ee8189254",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.fast-furious",
+      "title": "速度与激情：放枪追踪的执法丑闻",
+      "previousOpening": "司法部监察长2012年报告说明，ATF为追查贩枪网络高层，推迟逮捕代购者和扣押枪支；这些枪后来出现在墨西哥及美国犯罪现场，其中包括边境执法人员布赖恩·特里遇害案的相关现场。",
+      "beginnerOpening": "“速度与激情”这里是美国一次追查贩枪网络的执法行动名称。执法人员让可疑枪支继续转手，想追到大人物，结果枪支失控、出现在犯罪现场。争议就在于为破大案采用高风险手法，反而可能危及无辜者，候选人该怎样追责。",
+      "originalDetailsSHA256": "de2a13c6659aff414f9b8de4ac8d3558907dc09d3737d4faecd19a2df9229c68",
+      "beginnerSHA256": "749d30f602e8a6e7decb96df19d4fd0c36e52ca5eb520d8e3dae055813c7257c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.faith-speech",
+      "title": "信仰演说的年份",
+      "previousOpening": "罗姆尼竞选团队保存的新闻稿记载，他在乔治·布什总统图书馆发表“美国的信仰”演说的日期是2007年12月6日，谈的是宗教自由。",
+      "beginnerOpening": "罗姆尼信奉后期圣徒教会，常称摩门教，有些选民因此怀疑他能否独立执政。他曾发表演说强调宗教自由、解释信仰与总统职责的关系。游戏提起它，是在问能否消除宗教偏见，而不是所有人都需要认可他的信仰才可以投给他。",
+      "originalDetailsSHA256": "61f1a2b006ae19ecba66dca803b0e487758ca7c2d21f8464601e295164159625",
+      "beginnerSHA256": "148bbd998e7f7de9771f5aae726661002519338bd11495af1b9028f75c5f36f6",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.unemployment",
+      "title": "近百年最高失业率：竞选攻击与数据",
+      "previousOpening": "劳工统计局年度表列出的失业率为：1982年9.7%、2010年9.6%、2012年8.1%。这些数字也说明，题目所称奥巴马任内失业率为近百年最高，是夸大的竞选攻击。",
+      "beginnerOpening": "失业率反映想工作却找不到工作的人占多大比例，是选民评判经济的重要指标。2012年经济困难给奥巴马带来压力，但“近百年最高”是夸张攻击，与历史数据不符。候选人可以批评经济表现，却仍要面对数字是否说得过头的问题。",
+      "originalDetailsSHA256": "3cf0c8b71d22de7d3b0256d5c41b9fb97631f146ee0e8ec443f97114e04ac45a",
+      "beginnerSHA256": "c84f2a9d613f06a59be2cf0a2fcbe123f2f84597a06ac218adf2f1458333c4b3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.warren",
+      "title": "沃伦与消费者金融保护局",
+      "previousOpening": "2011年9月6日，理查德·科德雷在参议院作证时以消费者金融保护局局长提名人身份发言，并感谢伊丽莎白·沃伦将这个机构从构想变为现实。",
+      "beginnerOpening": "消费者金融保护局负责盯银行、贷款等金融服务怎样对待普通消费者。沃伦推动筹建这个机构，因此常被改革派视为对抗金融业利益的人。讨论该不该让她领导它，既关乎专业能力，也在表达政府应该多严格约束金融公司的立场。",
+      "originalDetailsSHA256": "1b6f6f1a5941c7daf93d4c10d4e6952f193fa53b418b77b41599f566a96145aa",
+      "beginnerSHA256": "505674864a63333b1e48735d55830386df4690e3da615c9929117c49ed864ac4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.federal-unions",
+      "title": "联邦雇员并非一律没有集体谈判权",
+      "previousOpening": "美国法典第5编第7102条列明，符合该章规定的联邦雇员可以通过其选出的代表就雇用条件进行集体谈判；此条源自1978年立法。",
+      "beginnerOpening": "集体谈判就是员工通过代表，与雇主商量工作条件；联邦雇员的雇主是政府。争论是公务人员应有哪些谈判权、政府管理能不能保持效率。已有权利、能谈的范围和是否可以罢工又各不相同，不能简单理解为所有公务员都没有工会权利。",
+      "originalDetailsSHA256": "af50a1ab80f264d9ca4652c164989edc3e13ac869266a7950db8d719ff2a2d83",
+      "beginnerSHA256": "6731741f35672bd6fd526854567a756e2b803ccc8735a206908ed69e77d6755e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.ten-thousand",
+      "title": "一万美元打赌：不要与赛马混为一事",
+      "previousOpening": "2011年12月10日共和党初选辩论中，罗姆尼就佩里对其医保立场的说法提出一万美元赌约；保存的逐字稿可见双方争论及赌约。",
+      "beginnerOpening": "罗姆尼在辩论中提出拿一万美元打赌，想证明对手说错了。但普通选民可能觉得，随口拿这么多钱打赌的人离自己的生活太远。它容易强化“富有、不了解普通人”的形象；这件真实的辩论插曲，与真的去赛马下注不是一回事。",
+      "originalDetailsSHA256": "2690e7ac5968063915f6f8672e1bb5b6138d61d29b3bfd41eacfb83f27950c18",
+      "beginnerSHA256": "87644c0e79ab94f29de2e91deb9828fe501f957b351c767538dbd40048bc81d3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2012.pell",
+      "title": "佩尔助学金：受助者、年份与分母",
+      "previousOpening": "国会预算办公室2013年报告说明，佩尔助学金帮助低收入学生接受中学后的教育，包括大学、社区学院与职业培训；2011至2012学年约940万人获336亿美元。",
+      "beginnerOpening": "佩尔助学金主要帮助低收入学生接受高中之后的教育，通常不像学生贷款那样要按贷款偿还。支持扩大补助能吸引学生和家庭，反对者会追问预算和学费上涨。题目有些统计和教育阶段用词不准确，但你要理解的政策核心是政府怎样帮助付不起学费的人。",
+      "originalDetailsSHA256": "89f675aeede59d2c4a87bf86a175a8a46e33c8f77433aec4d282341020ae91c1",
+      "beginnerSHA256": "f41bc43ff15eb20624bdb7741c548b877dace82e7bf6b003208b2c1e05ad42f7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.garland",
+      "title": "加兰：提名并不等于就任",
+      "previousOpening": "奥巴马在2016年3月16日宣布提名梅里克·加兰接替斯卡利亚。白宫保存的当天讲话明确使用提名人的身份；总统提名与参议院确认，是不同的程序。",
+      "beginnerOpening": "最高法院大法官出现空缺后，总统提出人选，还要由参议院确认，加兰当时只是被提名的人。共和党参议员不愿在大选年让奥巴马填补席位，希望等下一任总统。争议因此既是“这个人是否合适”，也是“谁能决定法院今后的政治方向”。",
+      "originalDetailsSHA256": "bc0237c76f0a953151ee0c0da12baa36f8314e4936113715414d698b9950943e",
+      "beginnerSHA256": "1357ea456b48b8b9f4c34648716eb203cf309e18beb0451037638be2f7e39901",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.marriage",
+      "title": "同性婚姻判决：许可与跨州承认",
+      "previousOpening": "2015年6月26日奥伯格费尔诉霍奇斯案判决要求各州准许同性伴侣结婚，并承认在其他州依法缔结的同性婚姻，依据是第十四修正案的正当程序与平等保护。",
+      "beginnerOpening": "2015年最高法院判决各州应允许同性伴侣结婚，并承认其他州依法缔结的同性婚姻。支持者把它看作平等权利，反对者可能强调传统宗教或各州自主。2016年候选人谈这件事，就是在向不同价值观的选民表明自己站在哪一边。",
+      "originalDetailsSHA256": "80d80867736dbddf3a73e3eb0250f925a0cae7110fa58485dc825ff2070840be",
+      "beginnerSHA256": "09d7e0845f83a61c91c4f124e4228c3a94c98350a9d9fddc2a73b8a314458fc0",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.iran-assets",
+      "title": "伊朗解冻资产不是美国赠款",
+      "previousOpening": "美国财政部2015年证词估计，伊朗央行全球外汇资产总额为1000亿至1250亿美元，解除制裁后可用流动资产为略多于500亿美元，其余许多资产无法迅速变现。",
+      "beginnerOpening": "制裁会让一个国家存在海外的钱不能自由使用，解除制裁后，这些资产可能重新可用。围绕伊朗的争论因此不只是钱的数字，还在于缓和关系会不会增强对方实力。解冻伊朗原有资产，与美国纳税人额外送钱，是两种不同情况。",
+      "originalDetailsSHA256": "1bb21319f634eb6c4df0389bf55c1675755e34fac3fc720aa8aa544e94bb587d",
+      "beginnerSHA256": "2790eec2eac48767a7b039b19b73d1031bc5a66eca175315a952af6e13148af1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.bully-pulpit",
+      "title": "bully pulpit：总统的公共发声平台",
+      "previousOpening": "国家公园管理局的西奥多·罗斯福历史教材，说明他把总统职位视为可以向公众倡议政策的强大发声平台。这里的bully不是在说欺凌，pulpit也不要求理解为真的教堂讲坛。",
+      "beginnerOpening": "总统讲话很容易登上新闻，能把某个问题变成全国都在讨论的事，这就是这里的“公共讲坛”。例如即使国会不肯马上立法，总统也能公开动员选民向议员施压。它是一种影响舆论的优势，不等于总统可以靠讲话单方面通过所有法律。",
+      "originalDetailsSHA256": "a254c0eecbc7a4feefc0b3dc31fb4437c069bd3bc1b9a059ee358449fcb99037",
+      "beginnerSHA256": "1640ddc4e1b6343197053517a0daca041986e6b48a6f2e7a548f688fc01d2455",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.email-hypothetical",
+      "title": "三月版的起诉情节是架空分支",
+      "previousOpening": "这个剧本以2016年3月为视角，设想邮件调查可能走向起诉，是在当时未定局势上展开的架空分支。",
+      "beginnerOpening": "希拉里当国务卿时使用私人邮件系统，引发信息安全和保密方面的调查。这个2016年3月视角的剧本，设想她可能遭起诉，从而打乱竞选。那是游戏可走出的分支；现实中同年7月，司法部决定不就这次调查提出刑事指控。",
+      "originalDetailsSHA256": "d914b6189ddc2fcb9edbf95ca450e87501865c270ebbdc111cd4de07a5b64cac",
+      "beginnerSHA256": "ec76f3408756fbaa462523e287eeeef112b27103b3b58a06bebf615e2cda2add",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.college-unit",
+      "title": "大学方案：原作350的单位疑点",
+      "previousOpening": "《时代》2015年8月10日报道，克林顿拟提出的大学负担能力方案，竞选团队估计十年成本约3500亿美元。",
+      "beginnerOpening": "希拉里提出帮助家庭负担大学费用的方案，要用较长期的政府支出来换更多人上得起大学。支持者重视教育机会，反对者会问钱从哪里来、学校会不会继续涨价。原作成本数字的单位有疑点，不能只凭界面里那个数字判断方案实际上多便宜。",
+      "originalDetailsSHA256": "1cb41fddf61292f4856406db33b2fa78d9b9f7e250f83fdd10670dc2c5ef2cc3",
+      "beginnerSHA256": "68a49990e61932ac1054f9dd1ae7cf4a3237d00b9af5ce0447a0b6e56883b5b8",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016.pulse",
+      "title": "奥兰多枪击：受害者与枪手分开计数",
+      "previousOpening": "联邦调查局记录，2016年6月12日奥兰多Pulse夜总会袭击造成49名受害者死亡；警察随后击毙枪手。原作的50人与49名遇害者并不是同一种计数口径。",
+      "beginnerOpening": "2016年奥兰多Pulse夜总会遭袭，49名受害者死亡。夜总会与同性恋等群体的社群生活有关，因此事件同时牵动反恐、枪支管制和性少数群体安全。候选人突出哪个角度，会让不同选民觉得自己的恐惧和处境有没有受到重视。",
+      "originalDetailsSHA256": "ac9661dab80837da858ac5d21427afad5c8b04b8ab388d1edff9f5f7be773d03",
+      "beginnerSHA256": "150a0ed6dec4c1be6661e0a460baf8f61aba9eadbab7e8ad0b5a2cc0c4c2cb2f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016.nice",
+      "title": "尼斯袭击：当时消息与事后统计",
+      "previousOpening": "法国国家警察的纪念资料记载，2016年7月14日尼斯恐怖袭击造成86人死亡，400余人受伤。",
+      "beginnerOpening": "2016年法国尼斯国庆活动中发生卡车冲撞人群的恐怖袭击。美国候选人回应外国恐袭，往往借机说明自己会怎样保障安全：加强防范、合作反恐，或采取更强硬政策。不同表态也会影响移民、宗教群体怎样看待自己被谈论的方式。",
+      "originalDetailsSHA256": "78d5e1c9cfea1b3b31c86d81a9625471a1b3a508a2cb3a94cba11dcf08d5529a",
+      "beginnerSHA256": "255eb7cca12da5c4521fb0a28518914778d411818e9e07af0c776d9622c8f2ee",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016.hack-allegations",
+      "title": "泄密归因：竞选话术与正式指控",
+      "previousOpening": "联邦调查局公开资料记载，2018年7月13日大陪审团起诉12名俄罗斯军事情报人员，涉及2016年非法进入相关电脑系统、盗取材料并安排公开等指控。起诉是正式法律指控，不等同于已经定罪。",
+      "beginnerOpening": "民主党资料被窃取并公开后，谁干的、是否有人想影响选举，成为争议。候选人可能把它解释为外国干预，也可能提出内部泄密等说法。游戏让角色讲出一种猜测，不表示猜测已被证实；政治指控、正式起诉和法院定罪，是不同层次的证据。",
+      "originalDetailsSHA256": "4bd28596b9ceff2681ee5b8d49d5f9e048ca3dc7972f12d45c533d2dec113913",
+      "beginnerSHA256": "b4b58de2a910e00176c5c85dcf6f58c662cb0ef9d11ce36d6f70fb2eabe66faf",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016.university-civil",
+      "title": "特朗普大学：民事和解不是刑事定罪",
+      "previousOpening": "第九巡回上诉法院2018年判词回顾，相关案件于2016年12月19日达成和解，向集体诉讼成员支付2100万美元，另向纽约州司法部长支付400万美元；被告没有承认不当行为。",
+      "beginnerOpening": "“特朗普大学”是与特朗普有关的培训商业项目，并非通常那种授予正规学位的大学。诉讼围绕它的经营和宣传展开，选民会借此判断特朗普是否可信。后来双方达成民事和解；赔钱了不等于刑事定罪，也不等于所有质疑都已被法院驳回。",
+      "originalDetailsSHA256": "1f28528eb4423a9bdb3949b02f6de9958719046dddcfb2cb9d8c81ccd56a64d0",
+      "beginnerSHA256": "4a94613edb1f9ad808a4bf5cf1f3dbf8ce7801598f1029b5024a8b146087689e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016.email-no-charges",
+      "title": "严厉批评、刑事起诉与后来发现邮件",
+      "previousOpening": "司法部长林奇2016年7月6日声明，接受调查人员与检察官一致建议，结束调查，不对调查范围内任何人提起刑事指控。对处理邮件方式的批评，并不等于正式刑事起诉。",
+      "beginnerOpening": "希拉里的邮件问题既有法律层面，也有诚信和信息安全的政治层面。司法部决定不提出刑事指控，不代表选民必须停止批评；对手继续批评，也不等于她已经被判有罪。题目考的是她怎样回应一个即使没有起诉、仍会损害信任的争议。",
+      "originalDetailsSHA256": "7dd9904b18649b47cd66a75574a06ec8f4c4b795f1a5d87c813aa60e59ed0334",
+      "beginnerSHA256": "ad250cb912ba843b859ac8c5e6a4c96c8c2e725bf243ed781ebf1192603c55ba",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.reversed-election",
+      "title": "“阻止偷窃”与角色互换的架空结局",
+      "previousOpening": "国家档案馆记录，真实2020年选举人票为拜登306票、特朗普232票，538票中的获胜多数为270票。国会计票因国会大厦内外的暴力骚乱而延迟，到2021年1月7日凌晨3时44分才完成确认。",
+      "beginnerOpening": "真实2020年是拜登获胜、特朗普指称选举被偷，之后发生国会大厦骚乱。游戏有些结局故意交换角色，让败选拜登说出类似的话、筹备类似集会。笑点在于把现实中熟悉的行为套到另一人身上，不是在记录拜登真实做过这些事。",
+      "originalDetailsSHA256": "331daaf70d2be2e3bc819c07de76a975d7b6a9ab83f081f838efde23ac13c153",
+      "beginnerSHA256": "c18291b1bf148c5d6de9746fa777bca09a587f46048c44055c2884f0b7322541",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.impeachment-timeline",
+      "title": "众议院弹劾与参议院审判跨两个年份",
+      "previousOpening": "众议院历史办公室记载，特朗普首次被弹劾是在2019年12月18日，指控为滥用职权和妨碍国会；参议院审判在2020年1月16日至2月5日进行，结果为无罪。",
+      "beginnerOpening": "特朗普第一次弹劾涉及滥用职权和妨碍国会等指控：众议院在2019年提出弹劾，参议院2020年审判后未将他定罪免职。2020年候选人谈它，是在争这究竟是必要监督还是党派攻击。被弹劾和被免职不是同一个结果。",
+      "originalDetailsSHA256": "d8952a61d5e61ec8730fb5a05051cb677826435b958c58f5a6321b1667c35b97",
+      "beginnerSHA256": "f0bfce191ca2a33ecde8be5fe8e64864c4afd31ac1d2a3ed0ca4208f711bc7ca",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.historical-masks",
+      "title": "2020年的口罩建议与竞选台词",
+      "previousOpening": "CDC保存的2020年4月3日说明建议，在其他社交距离措施难以维持的公共场所，特别是社区传播显著的地区，使用布制面部覆盖物；同时仍强调保持六英尺距离。该说明把布制覆盖物与供医疗人员使用的外科口罩、N95区分。",
+      "beginnerOpening": "2020年新冠疫情期间，口罩和保持距离等防疫措施也卷入了党派争论。候选人怎样谈这些措施，会影响选民对他的判断：他是否重视疫情，是否相信公共卫生专家，又是否愿意限制日常生活。原本属于公共卫生的问题，因此也成了竞选中的身份和立场信号。",
+      "originalDetailsSHA256": "a287cd54648a0d5f3318747ec0aab824c77f228e62ef063b60a26f32d94e36dd",
+      "beginnerSHA256": "7db8a7f12fa2523eb1597d501a87337faa0d439d3d97ac1cc2088176d803f61c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.court-expansion",
+      "title": "扩充最高法院与法官任命",
+      "previousOpening": "最高法院的官方说明指出，国会通过法律确定大法官人数；1869年法律确定为九人。总统提名填补空缺的人选，参议院表决确认。",
+      "beginnerOpening": "最高法院席位少、法官任职又很长，一次任命可能影响多年法律走向。有人因此提议增加席位，改变法院的力量对比；反对者担心以后两党轮流加人、破坏制度。总统不能自己宣布增加法定席位，还要经过国会立法。",
+      "originalDetailsSHA256": "c9cba8b86cd3f48cae77cf00c7dd8105d3a7cb4b755551896de4124fcb968414",
+      "beginnerSHA256": "f7542640985395f7428c3307b6f89e28508d76fece3a8bdf5567cf52f3a067d4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.ghosts-past",
+      "title": "败选幽灵与《圣诞颂歌》",
+      "previousOpening": "“过去、现在、未来”的幽灵结构，很像狄更斯《圣诞颂歌》中的三位幽灵。游戏把这一文学框架移到特朗普身上，展开夸张的架空结局。",
+      "beginnerOpening": "小说《圣诞颂歌》中，幽灵让主角回看过去、面对现在并看见可能的未来，促使他反省。游戏把这个框架用在特朗普的架空结局里，让政治成败变成一场荒诞的自我审视。理解这几个幽灵的作用，比记住某个美国历史人物更重要。",
+      "originalDetailsSHA256": "cef65c6e7e35f18e207e99cc9debd3b75a9e889949c52758fb0f63f35b46bbfb",
+      "beginnerSHA256": "ae4bc1891373c2837d610fc949a996bd4d42cd4700d6fa818573590087d3f7be",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.lagoa-service",
+      "title": "州最高法院与州上诉法院不能混为一谈",
+      "previousOpening": "联邦司法中心传记列出，拉戈阿在佛罗里达州第三地区上诉法院任职为2006—2019年，州最高法院任职为2019年；2019年12月6日收到联邦第十一巡回上诉法院任命状。",
+      "beginnerOpening": "美国既有各州自己的法院，也有全国层面的联邦法院。拉戈阿曾在不同法院任职，原作把她在州最高法院的时间说得过长了。题目把履历写进最高法院人选讨论，是想帮助选民判断资历；这几个机构的任职年数不能直接混着算。",
+      "originalDetailsSHA256": "816e2a18a07b80a081a7b8b3a0892b2a71aded5cc3547f7b9f7e727cb9b463c1",
+      "beginnerSHA256": "29ad4e8204754da38b62e7a99f5c9d989ba8fdb2e6a02712a8673302c0f3c3cf",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.harris-vaccine",
+      "title": "哈里斯疫苗回答的前后条件",
+      "previousOpening": "2020年10月7日副总统辩论的PBS节目存档字幕中，哈里斯先表示，公共卫生专业人员、福奇或医生建议接种时，她会首先排队接种；随后表示不会仅因特朗普叫她接种而接种。",
+      "beginnerOpening": "哈里斯在2020年辩论中区分了两种情况：公共卫生专家建议接种，她愿意；只有特朗普政治上要求，她不会仅凭这一点接种。她想表达的是相信专业判断、怀疑总统干预。截去前半句，就容易把一个有条件的回答变成“她反对所有疫苗”。",
+      "originalDetailsSHA256": "5f0fcaad8df6f0a377e19d6c12e7bd4aef6702eb16022f4a3f40aeee4e4ca3ec",
+      "beginnerSHA256": "2c168229a482e8874f5db031f1782914e4a09b830435be1cf785ed7d6aba69a1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2020.kung-flu",
+      "title": "Kung-flu：带族裔指向的谐音攻击语",
+      "previousOpening": "Kung-flu把kung fu（功夫）与flu（流感）拼成谐音，借与中国的文化联系称呼疫情；它是带族裔指向的攻击语，不是正式疾病名称。译为“功夫流感”，保留角色措辞及题干对煽动性言论的批评。",
+      "beginnerOpening": "这个词把“功夫”的英文和“流感”拼在一起，用中国文化意象给疫情起外号。它听起来像玩笑，却可能让华裔、亚裔觉得自己被连同病毒一起指责。题目因此在问候选人是否接受这种带族裔暗示的语言，而不是介绍正式病名。",
+      "originalDetailsSHA256": "cc6bd9d12879dfc3f5f2c8ea730ba5fc25cda1babe0decfcc63fd4c55027dfa0",
+      "beginnerSHA256": "712dfcbddb5e3a0b77a0c7002be1e63774936600701ef165037af9a98a44cf0c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.castro-twins",
+      "title": "朱利安与华金·卡斯特罗的职务",
+      "previousOpening": "朱利安·卡斯特罗曾任圣安东尼奥市长和住房与城市发展部长；他的双胞胎兄弟华金·卡斯特罗是联邦众议员。游戏这段介绍把兄弟俩的职务混在了一起。",
+      "beginnerOpening": "美国有一对从政的卡斯特罗双胞胎：朱利安做过市长和住房部长，华金则是联邦众议员。原作把两人的职务混在一起了。看到这一段不必以为自己漏记了履历；游戏只是用这些经历来表现团队成员的经验、人脉和形象。",
+      "originalDetailsSHA256": "07db7fced538a3dbf2de8c6c58fe985031e1695005939fb886bb6eeda1453840",
+      "beginnerSHA256": "402608f472377c8d989f240dcf6a684ff00ed5200ccd5a74673bafd5ca63f48b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.bauer-spelling",
+      "title": "Bob Baur与白宫法律顾问",
+      "previousOpening": "白宫2011年6月2日公告把奥巴马的白宫法律顾问写作Bob Bauer，并说明他返回私人执业后为总统连任竞选和民主党全国委员会担任法律顾问。",
+      "beginnerOpening": "白宫法律顾问主要帮助总统处理法律问题，不是替候选人包办所有政策的普通顾问。这里的人是鲍勃·鲍尔，原作英文姓氏少了字母。理解他的作用，可以把他看作熟悉法律与总统团队运作的人，而不用把误拼当成另一位人物。",
+      "originalDetailsSHA256": "7f62584c391d0d38b45f1fbf5ee043c5a67067d22419bbb1fc2b3f84cfc0eedb",
+      "beginnerSHA256": "4902e7ee67dde63ca6124c1bb84d9bb97e0869f198b7b7daed38654f00add1d0",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.adc-name",
+      "title": "ADC的正式名称与游戏概称",
+      "previousOpening": "ADC的自述名称为American-Arab Anti-Discrimination Committee，即美国阿拉伯裔反歧视委员会，1980年创立；不是把Committee改成League后的另一组织。",
+      "beginnerOpening": "这个缩写指美国阿拉伯裔反歧视委员会，关注阿拉伯裔群体遭受的不公平待遇。谈到中东政策时，团队里是否有这类群体的声音，会影响候选人怎样被相关选民理解。原作把组织名称写得不准确，但并不是另有一个完全不同的团体。",
+      "originalDetailsSHA256": "0507e8d938fc1243b6f542216bf399762e01463aea05727b3715b10465e17b07",
+      "beginnerSHA256": "74c670d7be3cf96cdb4cb2e19a0a7d99a9b2bd9f1932c8e0f988052ecebdea85",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.mcenany-date",
+      "title": "麦克纳尼任命与疫情时间指代",
+      "previousOpening": "白宫2020年4月8日公告宣布，原竞选团队全国新闻秘书麦克纳尼将出任白宫新闻秘书。两种新闻秘书职务与任职起点应区别。",
+      "beginnerOpening": "麦克纳尼曾替特朗普竞选团队面对媒体，后来担任白宫新闻秘书。前一种身份是在替候选人助选，后一种则代表总统政府向公众发布信息。原作把疫情期间的经历概括在一起，读履历时分清两种岗位就能理解她为什么被写成媒体应对能手。",
+      "originalDetailsSHA256": "6a2274debd3a77ac40cf151cd514d773269ebdd405f0a3790b8fbd13843d21c1",
+      "beginnerSHA256": "7a2ff2c889d01ca4aea7778373d9228f73548fee070e4c481425b0d99d1714dc",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.alternative-facts",
+      "title": "“另类事实”与2016年叙事的时间错位",
+      "previousOpening": "“另类事实”源于康韦在2017年为就职典礼人数争议辩护时的说法，后来成为调侃政治话术的流行语。游戏将它写进竞选团队技能，保留讽刺意味。",
+      "beginnerOpening": "特朗普就职典礼人数引发争议后，顾问康韦用“另类事实”为政府说法辩护。这句话后来成了讽刺政治话术的梗：明明在争事实，却好像可以另挑一套事实。游戏把它写成团队技能，笑的是公关怎样替尴尬的说法找包装。",
+      "originalDetailsSHA256": "59ac3c2625ef22d0c2206c2543b3f91a8ac18d7a6b1e33d6e2c2a3d71456bfc8",
+      "beginnerSHA256": "80b65e825f261e488ad8a8ee1b077e7dbb28b7ed2c97adc52ee8cdf7e07768b4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.brexit-year",
+      "title": "“去年脱欧公投”与2016年竞选背景",
+      "previousOpening": "英国选举委员会2016年报告记载，英国与直布罗陀的欧盟成员资格公投在2016年6月23日举行，离开欧盟一方获51.9%。",
+      "beginnerOpening": "英国2016年举行公投，多数投票者选择退出欧盟。法拉奇以推动脱欧运动闻名，因此游戏拿他代表民粹式动员和反建制政治。公投选择离开与后来正式退出是不同时间；2016年剧本说它发生在“去年”，属于原作的时间错位。",
+      "originalDetailsSHA256": "12f879f0b84b695c6e08ffbdc0a5422aae8acc29fd6fd7a0bb9deb2af17f17bb",
+      "beginnerSHA256": "09a3d77975b0506d2e303b7ef3080ced048f41f268c4551b24af729a4d903ea1",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "staff.guilfoyle-relationship",
+      "title": "女友与“新婚妻子”的原作差异",
+      "previousOpening": "政府印刷局保存的白宫2021年1月公告摘要，在一月四日及二十日行程中都称金伯莉·吉尔福伊尔为小唐纳德·特朗普的女友。",
+      "beginnerOpening": "吉尔福伊尔与小唐纳德·特朗普的关系，会让她被视作与特朗普家庭关系紧密的政治盟友。原作2020年简介称她是“新婚妻子”，与当时资料把她称作女友不符。这里不需要补一段复杂家谱，只要知道游戏把这段私人关系写得不准确。",
+      "originalDetailsSHA256": "4cc86923ed1c38523a5a2d6134aaa48e95fabf8c9beb639394528abf9ce51ebd",
+      "beginnerSHA256": "c2ce8cfb7ea115a11c751c0aaa7cf176a91bbb947132142947fdd4e19a28abde",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.spoonful-sugar",
+      "title": "一勺糖与苦药：文学比喻和出处推断",
+      "previousOpening": "《欢乐满人间》的歌曲《一勺糖》由理查德与罗伯特·谢尔曼创作，朱莉·安德鲁斯演唱。把糖与吞下苦药相连，用于暗示先用讨喜的主张吸引选民，再让他们接受不喜欢的政策。",
+      "beginnerOpening": "《欢乐满人间》中有用一勺糖帮助吞下苦药的歌曲。放到政治里，就是先给选民喜欢听的承诺，再让他们接受不舒服的政策。这里可能在借这个比喻，提醒你一套主张常把“甜头”和“苦头”包装在一起，而不是在谈真正的医疗处方。",
+      "originalDetailsSHA256": "110e46bf326cdc15116fb9e910a658dc161fd9361299bbf344227b1d85ace012",
+      "beginnerSHA256": "efeea2d39815baf1cf300eb5d7956d26afcd00ec03f62285e7d8c62a8fc95566",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "2016a.iraq-authorization",
+      "title": "2002年授权使用武力与2003年入侵",
+      "previousOpening": "参议院记录显示，2002年10月11日以77票对23票通过H.J.Res.114，授权对伊拉克使用武力；希拉里·克林顿投赞成票。",
+      "beginnerOpening": "希拉里在参议院时，2002年投票支持授权对伊拉克使用武力；美国实际入侵是在2003年。这让她后来受到反战选民质疑。候选人可以为当年的判断辩护，也可以承认错误，但“授权投票”和“战争已经开打”的年份要分开。",
+      "originalDetailsSHA256": "09a258332bf11690788a03ccb3702929268532fb88c3dbb0c90447ae0baac752",
+      "beginnerSHA256": "fc905008afe1227a1d6c5123e1cfee462eb5ed679ea32b922923eaa8cfebc01e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "jefferson.equality",
+      "title": "‘人人生而平等’",
+      "previousOpening": "“人人生而平等”出自1776年《独立宣言》，杰斐逊是主要起草者。它提出了关于权利与政府合法性的原则，与当时社会实际存在的奴隶制形成深刻矛盾。",
+      "beginnerOpening": "1776年，美国殖民地宣布脱离英国统治，《独立宣言》用“人人生而平等”说明人应有基本权利，政府的权力也需要正当来源。杰斐逊是主要起草者。讽刺而重要的一点是：说出这套原则的社会，当时仍允许把黑人当作奴隶。",
+      "originalDetailsSHA256": "3366040a1e6d9a11a998fb148b61ed377794cdcec5e5e92d51d41ab39d2abb47",
+      "beginnerSHA256": "777c7a99562c096ba5c8f45c9d7140bb07225b3a036aedf5879b15f7e3730f94",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "johnson.all-the-way",
+      "title": "LBJ一路到底",
+      "previousOpening": "LBJ是林登·贝恩斯·约翰逊的姓名缩写。1964年口号中的Way与J押韵，以“一路到底”的语气号召选民支持他。",
+      "beginnerOpening": "LBJ是林登·贝恩斯·约翰逊的姓名缩写，也就是1964年参选的民主党总统。“All the way with LBJ”末尾押韵，意思接近“跟着约翰逊一路到底”。它主要是方便群众喊、方便记住的助选口号，没有藏着另一套复杂政策。",
+      "originalDetailsSHA256": "595dbab2efdc9296d07066e4c93752a5872f8e1cd90f840c69d9fb00c804b361",
+      "beginnerSHA256": "47d1ec889c0d3a1f15b32627a798281ad4d19c46ab6df352d969378a59386e8b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "kennedy.peaceful-revolution",
+      "title": "‘和平革命’的原始语境",
+      "previousOpening": "肯尼迪在1962年纪念‘争取进步联盟’一周年时，要求拉丁美洲有财富和权力的人支持社会改革。他用这句话警告：堵死和平改革的途径，可能使暴力革命不可避免。它不是一般性赞美暴力的口号。",
+      "beginnerOpening": "肯尼迪在谈拉丁美洲改革时，警告当地有财富和权力的人：如果连和平改变不公平的路都堵死，愤怒的人就可能转向暴力。这里的“革命”可以先理解为深刻社会改革。它是在劝既得利益者允许改变，而不是总统在普遍赞美打仗。",
+      "originalDetailsSHA256": "1781db8205041a3c6084e760a46e8db9d76690e2f285c2a8ddd6113c2bf6b683",
+      "beginnerSHA256": "0330aa5bb1f0d523da0daa857bd353c73b3b5ec945aa02ae1b08886fdfb16264",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "bush.fool-me",
+      "title": "小布什说岔了的谚语",
+      "previousOpening": "原谚语的意思是：第一次骗我，错在你；第二次还上当，错在我。小布什在2002年纳什维尔讲话中说到一半卡住，最后改成‘不能再上当了’。中文刻意保留停顿和接不上后半句的效果。",
+      "beginnerOpening": "小布什原本想引用一句谚语：第一次被骗是骗子的问题，第二次还被骗就该反省自己。但他讲到一半接不上，最后临时改成“不能再被骗了”。游戏保留停顿和磕绊，笑的是总统在公开演讲中把人人熟悉的说法讲坏了。",
+      "originalDetailsSHA256": "dcf95ca4b41df01d48ed74daa20ef9876249e3d6554527be62638e4e583de68c",
+      "beginnerSHA256": "b90f64cf0f35fc0e27ed929d795ad5257ac2260d0254edb12140e1e35f3021d3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "reagan.youth",
+      "title": "把年龄问题反过来开玩笑",
+      "previousOpening": "1984年辩论中，里根被问到年龄和精力是否影响履职。他回答自己不会利用对手的‘年轻和缺乏经验’，把针对自己年老的质疑翻转成一个笑话。这里的对手是蒙代尔。",
+      "beginnerOpening": "里根1984年竞选连任时，别人担心他年纪大、精力不够。他却回答：我不会利用对手年轻、缺乏经验来占便宜。笑点在于把“你太老”突然翻成“对方太嫩”，用一句自嘲式反击化解了针对自己的弱点。",
+      "originalDetailsSHA256": "bf7b2566fdd2ad95907f35deeaaa92804d896e9cfb3cb1e4813fb01f2667d7e9",
+      "beginnerSHA256": "d3f7842c172a73e03eec9843d51ed3ce2d1ae1a20c6be3c7fba11875401bf0af",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "romney.binders",
+      "title": "‘满满几文件夹的女性’",
+      "previousOpening": "2012年辩论中，罗姆尼谈到招募女性进入州政府高层，说有人送来装满女性人选资料的文件夹。原话把‘女性资料’缩略成‘女性’，听起来像把人装进文件夹，因此成为网络笑点。",
+      "beginnerOpening": "罗姆尼想说自己找了很多女性人才资料，以便让更多女性进入政府高层，却把话缩成“满满几文件夹的女性”。听起来像把人装进文件夹，所以成了网络笑点。原意是谈招聘与性别代表性，尴尬的是措辞让人像一堆被归档的物品。",
+      "originalDetailsSHA256": "e36dad881d541762f31fed8df7de303631789b7d8d196ecdaaba4bbb00b2adb6",
+      "beginnerSHA256": "c910df8209f513346fba6004459e8c39f9ce029732ed9b0c77faa01c75d4c3d4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "stockdale.who-am-i",
+      "title": "‘我是谁？我为什么在这里？’",
+      "previousOpening": "罗斯·佩罗的竞选搭档斯托克代尔在1992年副总统辩论开场时这样自我介绍，随后解释自己的经历和参选理由。截去后文会让它听起来像迷茫的自问；这里不据此推断他的精神或健康状况。",
+      "beginnerOpening": "斯托克代尔是1992年独立候选人佩罗的副总统搭档，很多观众不熟悉他。他用“我是谁？我为什么在这里？”开场，原本是准备介绍自己的经历和参选理由。截出来单听，却像站上辩论台后突然忘了自己是谁，这就是后来传播的笑点。",
+      "originalDetailsSHA256": "c4b59a6874d517971b497771a69da02b964cecd3397a81e5b4e83d1c36a75b5e",
+      "beginnerSHA256": "4c8f5555e21e26a341c4ac19fadb80bc6fab8f28a6a18cd1576812629e691568",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "adams.jefferson-lives",
+      "title": "亚当斯与杰斐逊同日去世",
+      "previousOpening": "亚当斯与杰斐逊都在1826年7月4日、独立宣言五十周年当天去世。白宫历史传记记述亚当斯临终说杰斐逊仍活着；实际上杰斐逊已先去世。游戏把这种不知情带来的历史反讽放在页眉里。",
+      "beginnerOpening": "亚当斯与杰斐逊都是美国早期总统，两人都在《独立宣言》发表五十周年那天去世。亚当斯临终还说杰斐逊活着，却不知道对方已先去世。页眉引用这句话，借的是人物不知道、后来的读者却知道的历史反讽。",
+      "originalDetailsSHA256": "dd3c61d708024811307724ff68d50bf4aaf810032cb75f8e8ea2c16a15377244",
+      "beginnerSHA256": "ca8e88ef855c39ca38f4da6c8c5f27946ece99bb58a0d29a1a1a3e57b34b8645",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "harrison.tippecanoe",
+      "title": "‘蒂皮卡努，还有泰勒’",
+      "previousOpening": "1840年辉格党把哈里森在蒂皮卡努战役中的声望，与副总统候选人泰勒的姓名拼成押韵口号和歌曲。蒂皮卡努在这里代指哈里森。",
+      "beginnerOpening": "哈里森曾指挥蒂皮卡努战役，竞选团队便拿这个地名代表他的军事声望，再加上搭档泰勒的名字，编成顺口口号。听起来有点像“英雄哈里森，还有泰勒”。它的作用是让选民记住一整组候选人，不是在介绍两个叫蒂皮卡努和泰勒的人。",
+      "originalDetailsSHA256": "54d84c461e2ad44af4ff5726245a086afed71b93e11c05f0fc03af5e8c70260e",
+      "beginnerSHA256": "617e1e183e645651ebbce442c5073001d27cb072dbfcc0b6b88fb478295c7c94",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "ford.eastern-europe",
+      "title": "福特的‘苏联没有控制东欧’",
+      "previousOpening": "1976年辩论中，福特在讨论赫尔辛基协议时说苏联没有支配东欧，主持人随即追问，卡特也批评这一说法。后续回答谈到这些国家的自主与独立，但这句概括仍招来强烈质疑。它不是冷战东欧局势的可靠总结。",
+      "beginnerOpening": "冷战时期，波兰等东欧国家受到苏联强大影响，福特却在1976年辩论中说苏联没有主宰东欧。对手抓住它质疑他的外交判断。它后来成了著名口误：本想强调当地人民渴望自主，却说得像是否认选民都知道的现实。",
+      "originalDetailsSHA256": "1dec2ad99a7be4a248e7ac9f7fff7017ed21cd4e2606ab060ffdde7bd8201bfd",
+      "beginnerSHA256": "670272f84b84c6b7c9e81d179eb9a005076f9f40f5c71222c481ab0ad9908fe4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "truman.dewey-headline",
+      "title": "‘杜威击败杜鲁门’：报纸报错了",
+      "previousOpening": "1948年《芝加哥每日论坛报》提前宣布杜威获胜，实际当选的却是杜鲁门。杜鲁门笑着举起这份错报的照片，成为选举预测失准的经典画面。页眉这句话是在引用错误标题，不是在陈述真实选举结果。",
+      "beginnerOpening": "1948年报纸以为杜威会赢，赶着印出“杜威击败杜鲁门”，结果真正获胜的是杜鲁门。杜鲁门举着这张错报拍照，让它成了预测翻车的经典画面。所以页眉是在引用一个出了名的错误，而不是告诉你1948年的真实胜者是杜威。",
+      "originalDetailsSHA256": "19fc566461b2943dfe4edc685fa8176e5b5997dc0f875e5b1160f3b0e556c49d",
+      "beginnerSHA256": "8f25d6e3d0316ea94604ff9d1fd36eb1bc28fb012188267d9fea92556063d1a7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "lincoln.house-divided",
+      "title": "‘分裂之家’与奴隶制",
+      "previousOpening": "林肯在1858年演说中用‘分裂之家’比喻美国，指出政府不能永远半奴隶、半自由地维持下去。House在这里不是众议院，也不是普通家庭争吵；游戏页眉是对原句的简写。",
+      "beginnerOpening": "内战前，美国一部分州允许奴隶制，一部分州禁止，政治上越来越难相处。林肯把国家比作内部撕裂的房子，认为这种“半奴隶、半自由”的状态不能永远维持。这里的house是比喻整个国家，不是专指国会众议院或某一家人的争吵。",
+      "originalDetailsSHA256": "25d2dff7a0feaaa00b525f72185998b48e896a40d33ef69dbca09edd0b8d3a34",
+      "beginnerSHA256": "f6ad24007742943616dd16753bdd0e2b35d976c4f1842b80ff05cab41195eb74",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "kennedy.ask-not",
+      "title": "肯尼迪的公民责任号召",
+      "previousOpening": "这句话来自肯尼迪1961年就职演说，以对称句式号召美国人承担公共责任。它与随后对世界公民的号召相连；不是游戏对玩家提出的操作要求。",
+      "beginnerOpening": "肯尼迪1961年上任时，号召公民不要只问国家能给自己什么，也要想自己能为公共生活做什么。这是一句强调共同责任、服务精神的就职演说名言。游戏拿它营造政治理想的气氛，不是在要求玩家替政府额外完成某个操作。",
+      "originalDetailsSHA256": "0985a8f011dd17475232426c321b8ecffee4b3d5b4d058fa378c31eb8153b649",
+      "beginnerSHA256": "f52495f47c44e79c0d422d0adb32830342b5fcf81eb86cad83ec9d6a44386c6c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "mcgovern.three-as",
+      "title": "赦免、迷幻药与堕胎",
+      "previousOpening": "1972年麦戈文的保守派对手用三个A开头的词攻击他：Amnesty指越战逃避兵役者的赦免，acid指LSD迷幻药，abortion指堕胎。三个词将反战与反文化形象压缩成了顺口的攻击标签。",
+      "beginnerOpening": "麦戈文是1972年的民主党总统候选人，对手把赦免拒服兵役者、LSD迷幻药、堕胎这三个英文以A开头的词凑在一起攻击他。它把反战、年轻人的反文化和性观念争议压成一个标签，想让保守选民觉得他会破坏传统秩序。",
+      "originalDetailsSHA256": "74a867b609b71f4ccc9d6569079ac64e7d90503cd9209c660171c89e9800b77e",
+      "beginnerSHA256": "f7b69bdbc99b0413143c9b4ce674078b9ce26c6599eb7560db1d40d0cb80e863",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "reagan.bomb-joke",
+      "title": "‘五分钟后开始轰炸’不是战争命令",
+      "previousOpening": "1984年里根准备录制广播讲话时，在试音中开了这个针对苏联的玩笑。录音传出后引起争议。它不是正式签署的法律，也不是实际下达的轰炸命令。原文使用Russia，中文保留‘俄罗斯’，旁注说明当时的苏联背景。",
+      "beginnerOpening": "1984年里根录广播前试音，开玩笑说已宣布取缔苏联，五分钟后开始轰炸。美苏当时都有大量核武器，所以一位总统拿战争开玩笑，会让人觉得既荒唐又危险。它是泄露出来的试音笑话，不是实际战争命令。",
+      "originalDetailsSHA256": "591f795e5b76a72560fdba7ea43a0288a1cc958f42ff6c12323bcd6ce5988e23",
+      "beginnerSHA256": "7cd578328a0afde63813e1482f318f029c631f6abfa0fd73cec74a96b4b47f0e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "roosevelt.fear",
+      "title": "大萧条中的‘恐惧本身’",
+      "previousOpening": "富兰克林·罗斯福在1933年首次就职演说中，用这句话面对大萧条带来的信心崩溃。他强调无名、无理的恐慌会使必要的行动瘫痪，不是说现实中完全没有经济困难。",
+      "beginnerOpening": "1933年富兰克林·罗斯福上任时，美国正陷在大萧条中，失业、银行倒闭和恐慌让人不敢行动。他说最该害怕的是恐惧本身，是想先恢复信心，让社会愿意一起应对危机；并不是说贫困和失业只是大家想多了。",
+      "originalDetailsSHA256": "71f73754159245bfda4f372b5364bce4e997fe58021e3edc73ddba3f1ae08345",
+      "beginnerSHA256": "e08359710a0d3747667a7489c8678ef9c1725ddf8d65a61c68eaefa21aa216f7",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "clinton.pokemon-polls",
+      "title": "Pokémon GO与Go to the polls",
+      "previousOpening": "2016年希拉里借当时流行的Pokémon GO，把游戏名里的GO与‘去投票’连成一句话，试图吸引年轻选民。笑点是游戏名与动员投票的生硬拼接，后来受到模仿和嘲弄。",
+      "beginnerOpening": "《Pokémon GO》当时很流行，希拉里想借游戏名里的GO，接到“去投票”上，吸引年轻人。笑点是政治人物努力用年轻人的热门话题拉票，却显得接得有些生硬。你不用熟悉宝可梦剧情，只要知道她在用游戏名硬凑投票口号。",
+      "originalDetailsSHA256": "b84fcfd1658e16c419bc1ebc20100aa8735256163e4fb662d62c841b0e09df19",
+      "beginnerSHA256": "844b16317d55c78cda71b846a94f0ef094d9104bda83e9aaeef2901ad811caeb",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "lincoln.axe-attribution",
+      "title": "‘磨斧头’：林肯署名缺乏依据",
+      "previousOpening": "这则“磨斧头”的话常被归于林肯，但Quote Investigator的出处追踪未找到可靠的林肯原话记录；目前发现的相近版本出现在他去世很久之后。",
+      "beginnerOpening": "这句话想说的是：做大事之前先准备工具、打好基础，可能比一上来猛干更有效。它常被署名给林肯，但目前找不到可靠记录证明是他原话。读这里时可以理解这个比喻，同时把“很有名的道理”和“真实可靠的历史引语”分开。",
+      "originalDetailsSHA256": "1e4b5f46023fd762cce0b997f074e848b1fafb2561b3c37f6af07f8012e68c58",
+      "beginnerSHA256": "1fa34fc3659f7c5c4420840737fefc028dea7a6cc90d90bcd047fe7fd1d55f87",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "reagan.berlin-wall",
+      "title": "‘拆掉这堵墙’指柏林墙",
+      "previousOpening": "里根在1987年6月12日的柏林勃兰登堡门演说中，向戈尔巴乔夫发出这个呼吁。这里指的是分隔柏林的墙，不是后来美国边境建墙的争论。",
+      "beginnerOpening": "冷战时柏林被分成两部分，柏林墙隔开东西，也阻止许多居民自由来往。里根1987年到柏林演说，要求苏联领导人戈尔巴乔夫“拆掉这堵墙”，是在挑战欧洲分裂与苏联阵营的控制。这不是后来美国与墨西哥边境墙的话题。",
+      "originalDetailsSHA256": "fd78cb27e7c56284d5b12c3ec6a45658ca34eeba554f7448f6fc8e0e00f8877d",
+      "beginnerSHA256": "19b5107b3d011e20952aed187aef0c31df202aa893ffac495a48ccb71df9b854",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "ford.snl",
+      "title": "福特回应《周六夜现场》",
+      "previousOpening": "切维·蔡斯在《周六夜现场》中模仿福特，也以“我是切维·蔡斯，你不是”作为开场白。1976年福特借用句式回应这位模仿者，随后还以预录片段参与节目。笑点是被模仿的人反过来模仿喜剧演员。",
+      "beginnerOpening": "喜剧演员切维·蔡斯在《周六夜现场》经常模仿福特，自己还有一句“我是切维·蔡斯，你不是”的开场白。福特反过来借用这句话回敬他。笑点是：被演员取笑的总统，拿演员最熟悉的招牌句子来取笑演员。",
+      "originalDetailsSHA256": "0959a8c047672ab0aaa1dc2cf478b666ad4d23b73e2bbde7e6e41eb7925af97d",
+      "beginnerSHA256": "d8d8995a6c227928fa186454a11e88ff110eb588084e23b1f771549ef14a6cbc",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "carville.economy",
+      "title": "“笨蛋，问题是经济”",
+      "previousOpening": "1992年克林顿团队的策略师詹姆斯·卡维尔用这句话提醒团队把注意力放在经济上。Stupid是对自己团队的粗直提醒，不是指称选民愚蠢；它也不应自动署名为克林顿本人在演说中说的原话。",
+      "beginnerOpening": "1992年克林顿竞选团队想提醒自己：选民最在乎工作、收入等经济问题，别总被其他话题带走。策略师卡维尔便用了这句很直白的提醒。它原本是对团队说“别忘了重点”，不是把普通选民骂成笨蛋。",
+      "originalDetailsSHA256": "bd4eb1c29190a4f99d3e7d2215dbe48e22032371b0b67baecb006c5f931819ba",
+      "beginnerSHA256": "c04969287a1d5d1c79c319826bff8eb24036cd636b38bb9128f87ac35bea1bed",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "machiavelli.attribution",
+      "title": "马基雅维利署名尚未核实",
+      "previousOpening": "游戏把“政治与道德无关”署名为马基雅维利。本次没有在所查《君主论》英译全文中定位到这句逐字表述，不能仅凭名言网站确认出处。",
+      "beginnerOpening": "马基雅维利是研究权力和统治的政治思想家，人们常用他的名字代表重实际效果、少谈道德姿态的政治手法。页眉借这种印象谈政治与道德。不过“这句话很像他的风格”和“他真的逐字写过”仍不同，游戏的具体署名尚缺可靠定位。",
+      "originalDetailsSHA256": "ab4c3234f8ee903d546a648350d6791837e9683a2fa72d26516979b5a19bfe5a",
+      "beginnerSHA256": "9ec4fd2dd1487722c580ea6b0c9f29e03181beeb0880b189a2463f1d395a7c8b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "bush.iraq-wmd",
+      "title": "伊拉克大规模杀伤性武器说法",
+      "previousOpening": "这是小布什政府发动伊拉克战争时的主要论点之一。2005年美国总统委员会报告认定，战前情报对伊拉克大规模杀伤性武器的判断几乎全错，构成了这句话后来广受讽刺的背景。",
+      "beginnerOpening": "小布什政府以伊拉克拥有大规模杀伤性武器等理由支持战争，后来战前情报判断受到严厉否定。因此这句当年很自信的说法，后来听来格外讽刺：政府要求公众相信的关键依据，出了重大问题。这里的布什是2000年参选的小布什。",
+      "originalDetailsSHA256": "63a253cdcf9dd17140cdf4b7a569de5c10166e185fb0f9a4caf71252d3952163",
+      "beginnerSHA256": "c677a8d365a5bab4da4ef89116fbe9907074df1f5deae32d9db478c36f291995",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "grant.judgment",
+      "title": "“判断失误，并非蓄意”",
+      "previousOpening": "格兰特在1876年最后一份年度咨文中承认自己任职经验不足，并用“判断上的错误”与“意图上的错误”作区分，为任期内的决定辩解。",
+      "beginnerOpening": "格兰特是内战中的联邦名将，后来当总统。他承认自己任内有错误，却强调是经验和判断不足，并非存心做坏事。放在政治语境中，这是一种辩护：承认结果不好，同时要求选民把失误与恶意、腐败区分开。",
+      "originalDetailsSHA256": "dd8934b40b985ce032d4a927419bd48b02765d4dd2d1b1ebf0e152cad024011f",
+      "beginnerSHA256": "28d14d944e75dbc3170c7fa1f67aac10a43d672bfb2f0ba45a477d9970a9d090",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "nixon.frost",
+      "title": "尼克松与弗罗斯特访谈",
+      "previousOpening": "尼克松在1977年弗罗斯特访谈中说出这句话，当时讨论的是1970年“休斯顿计划”与总统权限。后来影视作品常把它与水门事件并置，使它成为总统权力争论中的名句。",
+      "beginnerOpening": "尼克松辞职后接受访谈，说出总统做某件事就不算违法的强硬表述。争议在于：总统是否也必须受到普通法律限制，还是能拿国家安全当理由越过它。它后来成了讨论权力傲慢的名句，而不是美国法律真的承认总统想做什么都合法。",
+      "originalDetailsSHA256": "c904c42027f67f6acf0900cc0aac8f19cdef51fe4fd3e0e2e199b735d2d56323",
+      "beginnerSHA256": "9975951e717dbd0c235fa4436176d1a2a96a8f47b97433fb3baffbd63139579e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "lincoln.law-lecture",
+      "title": "林肯谈律师的勤勉",
+      "previousOpening": "这句劝人不要拖延的话可追溯到约1850年的法律讲课笔记，处于对律师勤勉工作的劝告中。它与另一个署名林肯的“磨斧头”故事不同，所查资料给出了明确的文献归属。",
+      "beginnerOpening": "林肯当总统之前做过律师。这句话来自他谈法律工作的笔记，大意是遇到该做的事，就认真、及时去做，别总拖到明天。它不是一条暗藏某次选举内幕的口号，而是一句有文献出处的职业经验劝告。",
+      "originalDetailsSHA256": "d523bd5221b6f54a824b32e6b9b4a4fa9ea7433694eff1e59666964b6ebe28a0",
+      "beginnerSHA256": "2a566405d80a31bface5dadc208fad1247483a12df0e785950ea4d26c38f285f",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "king.birmingham",
+      "title": "《伯明翰狱中书简》",
+      "previousOpening": "马丁·路德·金在1963年的《伯明翰狱中书简》中用这句话说明不同地方的正义相互关联，并回应把民权行动者视作“外来煽动者”的指责。它强调共同责任，不能缩成对某一地方的孤立评论。",
+      "beginnerOpening": "马丁·路德·金因民权抗议被关在伯明翰时，回应了“你是外地人，别来管这里”的批评。他强调一个地方的不公会影响其他人，正义不是各管各的事。它是在解释为什么应当声援别处遭歧视的人，而不只是为自己的城市争利益。",
+      "originalDetailsSHA256": "553098cd72c44e84ba97530914103812830571f067398b906403efa8febd282d",
+      "beginnerSHA256": "b1e69294de69a747559b20491eff15804b8775912c2389a6f1f5db6d3f180710",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "kennedy.dream",
+      "title": "“梦想永不消逝”",
+      "previousOpening": "爱德华（泰德）·肯尼迪在1980年民主党全国大会上，经历提名之争失败后发表这篇演说。结束语强调，自己的竞选告一段落，但关心社会与经济正义的事业仍应继续。",
+      "beginnerOpening": "这里的肯尼迪是泰德·肯尼迪，不是1963年遇刺的约翰·肯尼迪。泰德1980年争取总统提名失败后，仍说理想不会消逝，意思是竞选可以结束，帮助弱势者、追求社会改革的事业还要继续。这是一种败而不馁的告别。",
+      "originalDetailsSHA256": "00fa31adc2a3861d1c75de512b86dba4f40c43726f0e814ecb1e992a7d9134fc",
+      "beginnerSHA256": "6a30a6caef27afe506b8df88116bfcacae4fa55ef613c6a07b49598b6fc6598a",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "eisenhower.principle",
+      "title": "有原则的改变与混乱",
+      "previousOpening": "艾森豪威尔在1956年接受共和党提名的演说中，用这对句子区分有原则的进步与没有原则的反复变动。它强调他对稳定和改革的理解，不是宣称任何改变都会造成混乱。",
+      "beginnerOpening": "艾森豪威尔强调，改革可以进行，但要有稳定的原则指引；如果只是不停换方向，就会变成混乱。这符合他想塑造的稳健领导者形象。读这句话时，重点是“怎样改变才可靠”，不是理解成他反对所有新政策。",
+      "originalDetailsSHA256": "642588019b51c2674781b976a3267f4fef19aa8db4b8bc4fdf852b4fcd9c4e46",
+      "beginnerSHA256": "f16498c63da5c6b1707b54e6eccf7cc0c0eadc1cdd68f246b89e3568fc38da68",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "reagan.freedom",
+      "title": "自由不能自动传给下一代",
+      "previousOpening": "里根在多个场合重复这个表述，强调自由需要每一代人维护，而不是自动继承。这里“一代人”是修辞警告，并非经过计算得出的消亡期限；1983年纪念马丁·路德·金时，他也用过同一句话。",
+      "beginnerOpening": "里根想说，自由不会像家产一样自动传给下一代，每一代都可能因为不警惕、不维护而失去它。它是一种动员公民的修辞，给人紧迫感。所谓“只隔一代人”不是精确的历史倒计时，也不代表游戏里过一回合就会失去自由。",
+      "originalDetailsSHA256": "cb59448615d3abac10cf54354ea695ac5459b6a4a944ddac2b513153f8536d68",
+      "beginnerSHA256": "0ec78c428f67d71db6863ff7e416c326ed78b877b9468aec69331d31268bce70",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "roosevelt.bull-moose-shot",
+      "title": "西奥多·罗斯福中枪后演说",
+      "previousOpening": "1912年10月14日，正在以进步党候选人身份竞选的西奥多·罗斯福在密尔沃基遭枪击，仍坚持演说。他开头告诉听众自己刚中枪，接着借“公麋鹿”形象逞强；这是实际枪击后的话，不是比喻性抱怨。",
+      "beginnerOpening": "1912年，西奥多·罗斯福竞选时遭枪击，却仍坚持演说，用“公麋鹿没那么容易倒下”表现强悍。公麋鹿也是他政治形象的一部分。这里是较早的西奥多·罗斯福，不是后来推行新政的富兰克林·罗斯福；这次中枪是真实事件。",
+      "originalDetailsSHA256": "157a0b0842c71fa212b511ecd624d227f5f9f17315154989bfff66102a98304b",
+      "beginnerSHA256": "af1217942c3730ff6f1db1fcb8815fa56cb480ba52284fb8bf0ceec7004969e3",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "vietnam.wont-go",
+      "title": "“我们不去”：拒绝征兵",
+      "previousOpening": "这是越战时期反征兵、反战示威的著名喊话。“不去”指拒绝被征召参与战争，并非拒绝去投票。",
+      "beginnerOpening": "越战时期，美国会征召年轻男性服兵役，一些人拒绝参战，示威时便高喊“我们不去”。这句口号表达的是反战、反对被征召去打仗。它不等于拒绝去投票，也不代表所有反战者采取完全一样的抗议办法。",
+      "originalDetailsSHA256": "f2da259596cc70dd7a4a7640e38d9c01a2532bcce90c97fb1426da3d60b658e1",
+      "beginnerSHA256": "901ec8824a4c5cb1b6a1ec73702a7e311d2e29d4c305add3a537f6fea4cd451d",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "vietnam.hey-lbj",
+      "title": "“LBJ，你今天害死了多少孩子？”",
+      "previousOpening": "LBJ指林登·约翰逊。越战反战示威者用押韵、重复的质问，把战争造成的死亡直接指向总统，形成强烈的抗议节奏。",
+      "beginnerOpening": "LBJ就是总统林登·约翰逊，他任内扩大了美国在越南的战争投入。反战者喊“你今天害死多少孩子”，用尖锐、押韵的质问把战争伤亡直接算到总统头上。它是愤怒的抗议口号，不是在陈述一份当天已经核实的伤亡统计。",
+      "originalDetailsSHA256": "5d968cd22dbc08510706f4699a8d2c83c875dd6468d7e2513ab2fe93a8fecca0",
+      "beginnerSHA256": "781e9893b3e62e8455853e4c9db2fd0883a793ceabd41a4a138039935f60741b",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "edwards.crook",
+      "title": "“投给贪腐的家伙”为什么还很重要？",
+      "previousOpening": "1991年路易斯安那州州长决选中，埃德温·爱德华兹面对曾任三K党头目的戴维·杜克。反对杜克的人用这个非正式口号，承认对爱德华兹廉洁声誉的疑虑，同时认为阻止杜克更为迫切。",
+      "beginnerOpening": "1991年路易斯安那州的一场州长选举，一方廉洁名声不好，另一方却曾是三K党头目。反对后者的人喊“投给贪腐的家伙也很重要”，意思是两个人都不理想，仍要阻止自己认为更危险的一方。笑话尖刻之处，在于连支持口号都没打算替候选人洗白。",
+      "originalDetailsSHA256": "c7bc65bc17dc3cb57c18f83633bae42595196cf8729cfd851d794e36df68f72a",
+      "beginnerSHA256": "2771de8e69a47a117e8c25c21097016afa8475ba78d4c34f7dee4c6c098976bc",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "long.every-man-king",
+      "title": "人人为王，但无人戴王冠",
+      "previousOpening": "“人人为王”与休伊·朗的“分享财富”运动相连。1934年的广播演说提出限制巨额财富、保障家庭基本生活，King在这里表示普通人也应拥有生活尊严，不是倡议人人建立君主制。",
+      "beginnerOpening": "休伊·朗主张限制过度集中的财富、保障普通家庭的基本生活。“人人为王”是说每个人都该活得有尊严、不要被穷困压垮，并不是人人都该建立一个王国。它用很夸张又好记的形象，表达财富不该只让极少数人享有。",
+      "originalDetailsSHA256": "2883995c607005c2f0c9b48ebd499be4fd615e164e7de130316dfcd0f669e87d",
+      "beginnerSHA256": "f3edafb088b3b082e76f92afd357a457f2a3dc50c62061b92d043f45fbe5cf9c",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "coolidge.keep-cool",
+      "title": "Cool与Coolidge的双关",
+      "previousOpening": "1924年口号把Keep cool（保持冷静）的Cool与Coolidge的姓氏拼在一起，呼应柯立芝沉着寡言的形象。“柯立芝，让你沉得住气”的效果，来自这个同音双关。",
+      "beginnerOpening": "柯立芝的英文姓是Coolidge，开头和cool接近，而keep cool就是保持冷静。口号把姓名和这句话拼在一起，像在说“跟着柯立芝，稳得住”。它借他寡言、沉着的形象拉票，笑点主要在声音和双关，不在复杂历史事件。",
+      "originalDetailsSHA256": "716efeffb3b6624b6391b0d4a68af5f5433e598d07e7b5107b278b6af66c4b7e",
+      "beginnerSHA256": "fd3ec8b134655bc4ef95475446ff99429129190830510100528a8747b4c2cf81",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "lincoln.swap-horses",
+      "title": "渡河中途不要换马",
+      "previousOpening": "林肯在1864年回应支持提名的代表时引用过这个渡河比喻，表达战争尚未结束时不宜更换领导者。游戏采用口号形式；Horses指承担重任的政治领导人，不是游戏中的骑马行动。",
+      "beginnerOpening": "林肯1864年争取连任时，内战还没结束。“过河到一半别换马”是在说：国家正在完成危险任务，别在关键时刻换领导人。它把总统比作渡河时依靠的马，是现任者争取继续执政的比喻，不是游戏里的骑马建议。",
+      "originalDetailsSHA256": "a69625c9b6c807f2570eda2f71175c7c208dc968aefcef71d4319521e8966733",
+      "beginnerSHA256": "2dd387d1079d183e065a6bcb93f2a9258fa6a96cff901808cb0018aac74eb1e4",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "kennedy.dare-fail",
+      "title": "敢于失败，才可能成就大事",
+      "previousOpening": "罗伯特·肯尼迪在1966年开普敦大学演说中谈到面对危险坚持理想的勇气，随后说敢于承受重大失败才可能取得重大成就。游戏的courage版本改写了原句的dare，意思接近，但不是逐字引用。",
+      "beginnerOpening": "这里的肯尼迪是约翰·肯尼迪的弟弟罗伯特。他在谈社会改变与个人责任时，鼓励人们冒着失败的风险坚持理想。意思是没有勇气承担失败，也很难做成大事。它是在谈行动的勇气，不是在保证冒险竞选一定能赢。",
+      "originalDetailsSHA256": "755c6e5c4ef0664a6c8debdf07577b36763d6170ccd49a0abdd22a5060ec3145",
+      "beginnerSHA256": "6684c9e7e925de77c38066e24435f914ddd4d49975f8e33f3cdf566fb24ee8d2",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "goldwater.heart",
+      "title": "“内心深处，你知道他是对的”",
+      "previousOpening": "这是戈德华特1964年竞选使用的口号，可见于当年的竞选徽章。Right既可指“正确”，也容易让人联想到他的右翼立场；它是争取认同的动员语，不是游戏对他的政策作出的客观判定。",
+      "beginnerOpening": "戈德华特1964年的口号说“你心里知道他是对的”，是在劝选民别被批评吓住、相信他的保守路线。Right既能表示正确，也能让人想到政治上的右派。页眉复用了这个竞选双关，并不是游戏作者在替他的所有政策作结论。",
+      "originalDetailsSHA256": "d1fe6f44de89461916e81698dcbf417fdc115142ba1d9ef382a9412a833df68e",
+      "beginnerSHA256": "3afd3d25b029cd5c34200ee308d96fc086a90e6834c5225c357257742bfabb5e",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "henry.liberty-death",
+      "title": "“不自由，毋宁死”的文本来源",
+      "previousOpening": "帕特里克·亨利1775年的演说与弗吉尼亚准备对抗英国有关；这句成为美国革命的经典号召。它没有留下当场逐字稿，今天通行的全文由威廉·沃特在1817年传记中根据回忆重构。",
+      "beginnerOpening": "美国独立战争前，弗吉尼亚人争论是否准备武力对抗英国，帕特里克·亨利用“不自由，毋宁死”表达宁可付出生命也不接受统治的决心。这是革命动员的强烈语言；今天常见的整篇演说文字，是后来根据回忆整理流传的。",
+      "originalDetailsSHA256": "0a05035e8fb458ef592254669b522f971b1e2c03dff8dcde3cffe7d6f3dbdf98",
+      "beginnerSHA256": "9ddc29464096f492235a17673899f5b67ec5bdb75bbec00c37c605c90a9d3a27",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "taft.bryan-again",
+      "title": "布赖恩怎么“哪次都能投”？",
+      "previousOpening": "笑点是布赖恩反复获得民主党总统提名：1896、1900年失利后，1908年又与塔夫脱竞争。意思是“这次先投塔夫脱，布赖恩往后还会再来”，不是投票规则允许随时投票。",
+      "beginnerOpening": "布赖恩在1896、1900年两次参选失利，1908年又来参选。支持塔夫脱的人便拿他的反复出现开玩笑：“这次先投塔夫脱，布赖恩以后有的是机会。”笑点是把一个严肃的总统候选人说得像每届都会重播的节目，不是投票时间真的可以随便选。",
+      "originalDetailsSHA256": "57af8d7676d71e8118c2ddbfc31c55e66ab1a5cf332fa136e5be4687bfebde57",
+      "beginnerSHA256": "7220a3168808b6a08712329aea45aa6a4cb366f4d4104a311570fe358dd9edec",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "blaine.continental-liar",
+      "title": "“举国大骗子”：反布莱恩顺口溜",
+      "previousOpening": "1884年针对共和党候选人詹姆斯·G.·布莱恩的顺口溜，把Blaine与Maine押韵。Continental强调全美国范围，不是在说他来自欧洲大陆；译为“举国大骗子”保留夸张的辱骂力度。",
+      "beginnerOpening": "布莱恩是1884年的共和党总统候选人，对手把他的姓和家乡缅因州的英文押韵，编成骂他是大骗子的顺口溜。Continent在这里强调全美国范围，重点是把攻击喊得响亮、容易记住。它是竞选阵营的辱骂，不是一个叫“大陆骗子”的正式历史称号。",
+      "originalDetailsSHA256": "f01f916592ef7366852c0727b5012173f4702d56ed87b222e325e293f183b338",
+      "beginnerSHA256": "539983a40f8ad4b44331b1c869c30335f126fd6b4585a8eaba2fb976e4ee4d94",
+      "originalSourceURLsRetained": true
+    },
+    {
+      "id": "eisenhower.like-ike",
+      "title": "I Like Ike：简短又押韵",
+      "previousOpening": "Ike是艾森豪威尔的昵称。1952年“我喜欢艾克”口号借Like与Ike押韵，广泛用于徽章、海报和歌曲；核心是把战时将领的亲切形象转化为对候选人的支持。",
+      "beginnerOpening": "艾森豪威尔是二战中很有名的美军将领，Ike是他的昵称。“I Like Ike”像“我喜欢艾克”，短、押韵、容易唱，能把对战争英雄的亲近感转成选票。它刻意不用复杂政策术语，是最典型的把人物形象做成大众竞选口号。",
+      "originalDetailsSHA256": "75fafb3c7168ca5002758a2410b5d84af06a6857d8cedd9579bc82e0214521ab",
+      "beginnerSHA256": "5587b45dcdb1db44f4b6d291f5c4ac15c5c47905265d29ea1c897c39ab4f0084",
+      "originalSourceURLsRetained": true
+    }
+  ]
+}

@@ -5,6 +5,12 @@ ROOT=Path(__file__).resolve().parents[1]
 read=lambda p:json.loads(p.read_text(encoding='utf-8'))
 data=read(ROOT/'localization/annotations/notes.zh-CN.json')
 data['notes']+=read(ROOT/'localization/annotations/header-notes.zh-CN.json')['notes']
+beginner=read(ROOT/'localization/annotations/beginner-notes.zh-CN.json')
+assert set(beginner['notes'])=={note['id'] for note in data['notes']},'Beginner explanations must cover every note exactly'
+for note in data['notes']:
+    intro=beginner['notes'][note['id']]
+    assert isinstance(intro,str) and intro.strip() and '<' not in intro
+    note['body']=[intro,*note['body']]
 cat=read(ROOT/'localization/stories/catalogue.json')
 ui=read(ROOT/'localization/en-US.json')
 ids=set();bindings={};endings={};uiBindings={};counts={};hits={}
@@ -36,14 +42,15 @@ for key,entry in uiBindings.items():
         if row['key']==key:
             variants.add(row['source']);variants.add(re.sub(r'\s+',' ',row['source']).strip())
     entry['sourceVariants']=[{'source':s,'sha256':hashlib.sha256(s.encode()).hexdigest()} for s in sorted(variants)]
-runtime={'schema':1,'checkedAt':data['checkedAt'],'notes':{n['id']:{k:v for k,v in n.items() if k!='contains'} for n in data['notes']},'bindings':bindings,'uiBindings':uiBindings,'endings':{s:sorted(set(keys)) for s,keys in endings.items()}}
+runtime={'schema':1,'checkedAt':data['checkedAt'],'readingEdition':beginner['editedAt'],'notes':{n['id']:{k:v for k,v in n.items() if k!='contains'} for n in data['notes']},'bindings':bindings,'uiBindings':uiBindings,'endings':{s:sorted(set(keys)) for s,keys in endings.items()}}
 (ROOT/'localization/annotations/index.json').write_text(json.dumps(runtime,ensure_ascii=False,separators=(',',':'))+'\n',encoding='utf-8')
-report={'checkedAt':data['checkedAt'],'notes':len(ids),'boundFields':len(bindings),'boundHeaderKeys':len(uiBindings),'headerKeysWithoutNotes':[k for k in ui if k.startswith('quote.') and k not in uiBindings],'noteBindings':sum(counts.values()),'byNote':counts,'keysByNote':hits,'scenarioScopes':sorted({k.split('/')[0] for k in bindings})}
+report={'checkedAt':data['checkedAt'],'readingEdition':beginner['editedAt'],'beginnerNotes':len(beginner['notes']),'notes':len(ids),'boundFields':len(bindings),'boundHeaderKeys':len(uiBindings),'headerKeysWithoutNotes':[k for k in ui if k.startswith('quote.') and k not in uiBindings],'noteBindings':sum(counts.values()),'byNote':counts,'keysByNote':hits,'scenarioScopes':sorted({k.split('/')[0] for k in bindings})}
 (ROOT/'localization/annotations/coverage.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 lines=['# 历史典故与网络梗校注','','查证日期：'+data['checkedAt']+'。解释随项目离线提供；来源网页仅在主动点击链接时访问。','',f'共{len(ids)}条说明，绑定{len(bindings)}个剧本原文位置与{len(uiBindings)}个页眉语录键（复用剧本会重复计数）。通过稳定键及原文匹配；原文变化时不套用旧注释。','', '按剧本中的人物、制度、典故和竞选口号整理，条目附资料出处。','']
+lines[3:3]=['零基础说明改写：'+beginner['editedAt']+'。每条先解释人物、事件与政治争议；原有考据放在补充区。','']
 for n in data['notes']:
     lines+=['## '+n['title'],'',n['category'],'']
-    lines+=n['body']+['']
+    lines+=[n['body'][0],'','<details>','<summary>补充背景与原文考据</summary>','',*n['body'][1:],'','</details>','']
     lines+=['来源：'+ '；'.join('['+s['title']+']('+s['url']+')' for s in n['sources']), '']
 (ROOT/'localization/annotations/NOTES_ZH.md').write_text('\n'.join(lines),encoding='utf-8')
 print(json.dumps({k:report[k] for k in ['notes','boundFields','noteBindings']},ensure_ascii=False))

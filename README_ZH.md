@@ -32,6 +32,8 @@ python server.py --open
 
 ### 历史典故与网络梗旁注
 
+288条典故现已提供零基础主说明：先交代人物、事件和争议，再解释它为什么影响选票、台词或笑点。默认不要求读者预先了解美国史；原有史料细节和来源仍放在可展开的补充区。改写记录见[零基础说明校订](localization/annotations/beginner-review-2026-11-16.json)，实际验证见[本轮测试](localization/annotations/BEGINNER_TEST_REPORT_ZH.md)。
+
 中文模式中，已校注的句子和页眉语录旁有 **“典故”** 按钮。点击后在对应文字旁展开解释；可点“关闭”或按 `Esc` 收起。按钮不会替你选择回答，回车、空格和方向键操作旁注时也不会触发游戏快捷键。
 
 最终提供 **288条有来源的离线解释**，绑定5916个剧本文本字段及全部页眉语录位置。现实事件、角色攻击、原作错误、架空情节与典故推断分别说明；只有主动点击来源链接才联网。
@@ -165,7 +167,7 @@ node tests/stories-integrity.cjs
 
 历史校订批次的固定英文快照为 `localization/reviews/批次-source-snapshot.json`，逐行中文为 `批次-revised.txt`。执行 `python tools/apply-historical-review.py 批次`，会核对原文键、SHA、HTML和占位符，然后写入独立完整字段语言包并记录来源。批次涵盖1844至2020全部年份及final-supplement，清单与数量见historical-review-report.json。短术语和专名复核分别见final-terms-review.json、final-names-review.json。可选 `批次-metadata.json` 记录日期及原作疑点；默认日期按香港时区生成。离线重建后运行 `python tools/report-historical-reviews.py` 更新覆盖报告；各时代术语定义和禁用误译见 `localization/reviews/glossary-context.zh-CN.json`，通过noteId关联带来源的解释。持续全项目校订的接续说明见 `localization/reviews/PROGRESS_ZH.md`。
 
-旁注维护输入为 `localization/annotations/notes.zh-CN.json` 与 `header-notes.zh-CN.json`。按稳定ID编写中文解释与HTTPS来源；`contains`只在构建时筛选提取目录，运行时按稳定键及完整原文精确匹配。页眉原文中的空白／标点变体单独记录并校验，原文变化不会套用旧旁注。修改后运行 `python tools/build-annotations.py` 和 `npm run test:annotations`。英文模式不显示中文旁注。
+旁注维护输入为 `localization/annotations/notes.zh-CN.json`、`header-notes.zh-CN.json` 及 `beginner-notes.zh-CN.json`。前两份保留详细背景与来源，最后一份维护按稳定ID对应的零基础主说明，须覆盖全部288条。按稳定ID编写中文解释与HTTPS来源；`contains`只在构建时筛选提取目录，运行时按稳定键及完整原文精确匹配。页眉原文中的空白／标点变体单独记录并校验，原文变化不会套用旧旁注。修改后运行 `python tools/build-annotations.py` 和 `npm run test:annotations`。英文模式不显示中文旁注。
 
 本轮修订编写工具为 `review-annotations-texts.py`、`review-header-quotes.py`、`add-header-context.py`、`review-reading-lists.py`，记录最初批次；一般维护直接修改对应JSON，不必重新执行这些编写工具，以免覆盖后续人工调整。页眉中文输入在 `tools/quotes-zh.json`，修改后执行 `python tools/make-packs.py`，保持英文数组不变。
 
