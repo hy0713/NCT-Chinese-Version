@@ -2,7 +2,7 @@
 import argparse, errno, importlib.util, tempfile, unittest
 from pathlib import Path
 from types import SimpleNamespace
-from unittest.mock import patch
+from unittest.mock import patch, Mock
 
 ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('nct_server',ROOT/'server.py')
@@ -45,5 +45,22 @@ class Startup(unittest.TestCase):
         self.assertEqual(module.port_number('0'),0)
         with patch.object(module,'ThreadingHTTPServer',return_value=SimpleNamespace(server_port=49123)):
             self.assertEqual(module.create_server(0).server_port,49123)
+
+    def test_browser_never_connects_stops_with_failure_instead_of_orphaning(self):
+        session=module.BrowserSession(startup_timeout=0)
+        server=SimpleNamespace(shutdown=Mock())
+        session.watch(server)
+        server.shutdown.assert_called_once()
+        self.assertEqual(session.exit_code,1)
+        self.assertFalse(session.join())
+
+    def test_last_disconnected_browser_stops_successfully(self):
+        session=module.BrowserSession(close_delay=0)
+        self.assertTrue(session.join())
+        session.leave()
+        server=SimpleNamespace(shutdown=Mock())
+        session.watch(server)
+        server.shutdown.assert_called_once()
+        self.assertEqual(session.exit_code,0)
 
 if __name__=='__main__':unittest.main()

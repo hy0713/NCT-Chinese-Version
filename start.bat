@@ -3,7 +3,7 @@ setlocal
 cd /d "%~dp0"
 where py >nul 2>nul
 if not errorlevel 1 (
-    py -3 server.py --open %*
+    py -3 server.py --open --auto-close %*
 ) else (
     where python >nul 2>nul
     if errorlevel 1 (
@@ -11,6 +11,6 @@ if not errorlevel 1 (
         pause
         exit /b 1
     )
-    python server.py --open %*
+    python server.py --open --auto-close %*
 )
 if errorlevel 1 pause

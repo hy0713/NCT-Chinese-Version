@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-16T13:26:43.540Z",
+  "status": "passed",
+  "checks": [
+    "Both batch entrypoints run from another directory, including Chinese/spaced paths, and forward port/open/auto-close flags",
+    "Two real game tabs connect; reload retains the service and same-origin preferences",
+    "Background/frozen page remains attached; closing one tab preserves the remaining game tab",
+    "Native election setup, answer, feedback and next question work; idle connection does not change game state or RNG call count",
+    "Last tab closure exits only its owned Python server successfully and leaves an independent server running",
+    "Restart on the same port preserves browser storage and language; new session token works"
+  ],
+  "errors": [],
+  "external": [],
+  "missing": [],
+  "closeToExitMs": 5000
+}

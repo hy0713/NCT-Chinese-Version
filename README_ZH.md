@@ -10,17 +10,19 @@ Windows限制8000端口时自动选择其他可用端口，并在本地 .nct-por
 
 电脑需要Python3；本次使用Windows上的Python3.12。游玩不需要Node.js、npm、pip包或互联网。
 
-1. 双击 **start.bat**，启动本地服务并自动打开游戏。默认优先使用localhost:8000，不可用时以窗口实际显示的地址为准。
+1. 双击 **一键启动.bat**（或 **start.bat**），启动本地服务并自动打开游戏。默认优先使用localhost:8000，不可用时以窗口实际显示的地址为准。
 2. 点击“开始游戏”，选择年份、总统候选人、副总统、模式和难度。
 3. 选择答案并继续，可访问州、查看民调，直至选举之夜与结算。
-4. 在启动脚本窗口按 `Ctrl+C` 停止服务。
+4. 关闭最后一个游戏网页标签后，后台服务和启动窗口会在约3—6秒内自动退出。刷新网页不会结束服务；打开多个游戏标签时，会等最后一个关闭。也可在启动窗口按 `Ctrl+C` 手动退出。
 
 PowerShell启动：
 
 ```powershell
 cd <PROJECT>
-python server.py --open
+python server.py --open --auto-close
 ```
+
+自动退出通过本机页面连接判断，不另外创建浏览器配置，继续沿用原地址下的成就、语言和偏好。浏览器始终没有连接时，90秒后会停止服务并显示失败提示。开发测试若需持续运行，请直接执行 `python server.py`。启动与退出的实际检查见[启动测试报告](LAUNCHER_TEST_REPORT_ZH.md)。
 
 默认仅监听 `127.0.0.1:8000`。端口被占用时执行 `start.bat --port 8001`，入口相应变为 `http://localhost:8001/campaign-trail/index.html`。不要用 `file://` 直接打开HTML，游戏需要通过HTTP加载JSON。
 
