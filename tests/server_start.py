@@ -1,5 +1,6 @@
 """Targeted startup regression; no external network or game data changes."""
-import argparse, errno, importlib.util, tempfile, unittest
+import argparse, errno, importlib.util, tempfile, threading, unittest
+from urllib.request import urlopen
 from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch, Mock
@@ -23,6 +24,21 @@ class Startup(unittest.TestCase):
         self.assertEqual(module.preferred_port(),18080)
         with patch.object(module,'ThreadingHTTPServer',return_value=server) as bind:
             module.create_server();self.assertEqual(bind.call_args.args[0],('127.0.0.1',18080))
+
+    def test_localization_cache_policy_over_real_http(self):
+        server=module.create_server(0)
+        server.browser_session=module.BrowserSession()
+        thread=threading.Thread(target=server.serve_forever,daemon=True);thread.start()
+        try:
+            base=f'http://127.0.0.1:{server.server_port}'
+            for path in ['/localization/i18n.js','/localization/zh-CN.json?v=test','/localization/layout.css']:
+                with urlopen(base+path) as response:
+                    self.assertEqual(response.status,200)
+                    self.assertEqual(response.headers.get('Cache-Control'),'no-cache')
+            with urlopen(base+'/campaign-trail/index.html') as response:
+                self.assertEqual(response.headers.get('Cache-Control'),'no-store')
+        finally:
+            server.shutdown();server.server_close();thread.join()
 
     def test_occupied_saved_port_can_choose_new_port(self):
         module.PORT_FILE.write_text('18080')

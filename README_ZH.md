@@ -24,6 +24,8 @@ python server.py --open --auto-close
 
 自动退出通过本机页面连接判断，不另外创建浏览器配置，继续沿用原地址下的成就、语言和偏好。浏览器始终没有连接时，90秒后会停止服务并显示失败提示。开发测试若需持续运行，请直接执行 `python server.py`。启动与退出的实际检查见[启动测试报告](LAUNCHER_TEST_REPORT_ZH.md)。
 
+本地化脚本、语言包和样式每次使用时向本机服务确认更新，减少升级后继续显示旧界面的情况；离线游玩仍只访问本机。验证见[资源更新测试](CACHE_UPDATE_TEST_REPORT_ZH.md)。
+
 默认仅监听 `127.0.0.1:8000`。端口被占用时执行 `start.bat --port 8001`，入口相应变为 `http://localhost:8001/campaign-trail/index.html`。不要用 `file://` 直接打开HTML，游戏需要通过HTTP加载JSON。
 
 - 默认简体中文；顶部 **English／简体中文** 按钮即时切换。

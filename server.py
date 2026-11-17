@@ -98,6 +98,11 @@ class Handler(SimpleHTTPRequestHandler):
                       '.html':'text/html; charset=utf-8',
                       '.css':'text/css; charset=utf-8'}
     def __init__(self,*args,**kwargs): super().__init__(*args,directory=str(ROOT),**kwargs)
+    def end_headers(self):
+        path=urlsplit(self.path).path
+        if path.startswith('/localization/') and path.endswith(('.js','.json','.css')):
+            self.send_header('Cache-Control','no-cache')
+        super().end_headers()
     def do_GET(self):
         if any(part.startswith('.') for part in unquote(self.path.split('?')[0]).split('/') if part):
             self.send_error(404); return
