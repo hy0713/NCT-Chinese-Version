@@ -36,7 +36,7 @@ python server.py --open --auto-close
 
 ### 历史典故与网络梗旁注
 
-288条典故现已提供零基础主说明：先交代人物、事件和争议，再解释它为什么影响选票、台词或笑点。默认不要求读者预先了解美国史；原有史料细节和来源仍放在可展开的补充区。改写记录见[零基础说明校订](localization/annotations/beginner-review-2026-11-16.json)，实际验证见[本轮测试](localization/annotations/BEGINNER_TEST_REPORT_ZH.md)。
+288 条典故已重写，点开即见两段正文。第一段交代人物、事件或制度的来历，第二段把它接回竞选题目、台词或笑点。资料来源可在每条末尾展开。详见[典故全文](localization/annotations/NOTES_ZH.md)和[本版验证记录](localization/annotations/READING_REWRITE_TEST_REPORT_ZH.md)。
 
 中文模式中，已校注的句子和页眉语录旁有 **“典故”** 按钮。点击后在对应文字旁展开解释；可点“关闭”或按 `Esc` 收起。按钮不会替你选择回答，回车、空格和方向键操作旁注时也不会触发游戏快捷键。
 
@@ -171,7 +171,7 @@ node tests/stories-integrity.cjs
 
 历史校订批次的固定英文快照为 `localization/reviews/批次-source-snapshot.json`，逐行中文为 `批次-revised.txt`。执行 `python tools/apply-historical-review.py 批次`，会核对原文键、SHA、HTML和占位符，然后写入独立完整字段语言包并记录来源。批次涵盖1844至2020全部年份及final-supplement，清单与数量见historical-review-report.json。短术语和专名复核分别见final-terms-review.json、final-names-review.json。可选 `批次-metadata.json` 记录日期及原作疑点；默认日期按香港时区生成。离线重建后运行 `python tools/report-historical-reviews.py` 更新覆盖报告；各时代术语定义和禁用误译见 `localization/reviews/glossary-context.zh-CN.json`，通过noteId关联带来源的解释。持续全项目校订的接续说明见 `localization/reviews/PROGRESS_ZH.md`。
 
-旁注维护输入为 `localization/annotations/notes.zh-CN.json`、`header-notes.zh-CN.json` 及 `beginner-notes.zh-CN.json`。前两份保留详细背景与来源，最后一份维护按稳定ID对应的零基础主说明，须覆盖全部288条。按稳定ID编写中文解释与HTTPS来源；`contains`只在构建时筛选提取目录，运行时按稳定键及完整原文精确匹配。页眉原文中的空白／标点变体单独记录并校验，原文变化不会套用旧旁注。修改后运行 `python tools/build-annotations.py` 和 `npm run test:annotations`。英文模式不显示中文旁注。
+在 `localization/annotations/beginner-notes.zh-CN.json` 中按既有 ID 维护玩家可见的标题和正文。`notes.zh-CN.json` 与 `header-notes.zh-CN.json` 提供原始考据、绑定条件和 HTTPS 来源。`contains` 在构建时筛选提取目录，运行时使用稳定键和完整英文原文匹配。页眉原文的空白、标点变体单独记录。修改后运行 `python tools/build-annotations.py` 和 `npm run test:annotations`。
 
 本轮修订编写工具为 `review-annotations-texts.py`、`review-header-quotes.py`、`add-header-context.py`、`review-reading-lists.py`，记录最初批次；一般维护直接修改对应JSON，不必重新执行这些编写工具，以免覆盖后续人工调整。页眉中文输入在 `tools/quotes-zh.json`，修改后执行 `python tools/make-packs.py`，保持英文数组不变。
 
@@ -190,4 +190,4 @@ node tests/stories-integrity.cjs
 
 ## 2026-10-19 阅读体验调整
 
-“典故”卡片默认显示简明解释，补充背景和资料来源可展开查看。精简了107条说明中的重复校订用语，保留全部288条说明及其出处；修改前后对照在 localization/annotations/style-review-2026-10-19.json。独立 [NCT-Guide](https://github.com/hy0713/NCT-Guide) 同步更新了精简面板与后台推演。
+10 月 19 日精简过 107 条较早的说明，对照见 [当时的改写记录](localization/annotations/style-review-2026-10-19.json)。11 月 18 日版的正文见 [典故全文](localization/annotations/NOTES_ZH.md)。独立 [NCT-Guide](https://github.com/hy0713/NCT-Guide) 提供游戏内攻略与后台推演。

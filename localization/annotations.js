@@ -30,10 +30,9 @@
   panel=document.createElement('aside');panel.className='nct-note-panel';panel.setAttribute('role','dialog');panel.setAttribute('aria-label','历史典故与网络梗说明');
   const dismiss=document.createElement('button');dismiss.type='button';dismiss.className='nct-note-close';dismiss.textContent='关闭';dismiss.addEventListener('click',()=>close(true));panel.append(dismiss);
   for(const note of notes){
-   const section=document.createElement('section'),heading=document.createElement('h4'),category=document.createElement('small');heading.textContent=note.title;category.textContent=note.category;section.append(heading,category);
-   const intro=document.createElement('p');intro.textContent=note.body[0];section.append(intro);
-   if(note.body.length>1){const more=document.createElement('details'),summary=document.createElement('summary');summary.textContent='补充背景';more.append(summary);for(const text of note.body.slice(1)){const p=document.createElement('p');p.textContent=text;more.append(p);}section.append(more);}
-   const list=document.createElement('ul');list.setAttribute('aria-label','查证来源');
+   const section=document.createElement('section'),heading=document.createElement('h4');heading.textContent=note.title;section.append(heading);
+   for(const text of note.body){const paragraph=document.createElement('p');paragraph.textContent=text;section.append(paragraph);}
+   const list=document.createElement('ul');list.setAttribute('aria-label','资料来源');
    for(const source of note.sources){const li=document.createElement('li'),link=document.createElement('a');link.textContent=source.title;link.href=source.url;link.target='_blank';link.rel='noopener noreferrer';li.append(link);list.append(li);}const sources=document.createElement('details'),summary=document.createElement('summary');summary.textContent='资料来源';sources.append(summary,list);section.append(sources);panel.append(section);
   }
   document.body.append(panel);panel.addEventListener('toggle',place,true);place();dismiss.focus();
